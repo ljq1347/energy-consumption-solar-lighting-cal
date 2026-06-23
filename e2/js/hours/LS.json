@@ -1,0 +1,259 @@
+{
+  "country": "Lesotho",
+  "countryCode": "LS",
+  "cities": [
+    {
+      "name": "Teyateyaneng",
+      "admin1_code": "10",
+      "location": [
+        -29.14719,
+        27.74895
+      ],
+      "monthly": {
+        "Jan": 5.09,
+        "Feb": 5.14,
+        "Mar": 5.07,
+        "Apr": 4.97,
+        "May": 4.99,
+        "Jun": 4.95,
+        "Jul": 5.21,
+        "Aug": 5.43,
+        "Sep": 5.55,
+        "Oct": 5.39,
+        "Nov": 5.27,
+        "Dec": 5.02
+      },
+      "average": 5.17
+    },
+    {
+      "name": "Quthing",
+      "admin1_code": "18",
+      "location": [
+        -30.40001,
+        27.70027
+      ],
+      "monthly": {
+        "Jan": 5.25,
+        "Feb": 5.24,
+        "Mar": 5.21,
+        "Apr": 5.01,
+        "May": 4.92,
+        "Jun": 4.8,
+        "Jul": 5,
+        "Aug": 5.34,
+        "Sep": 5.52,
+        "Oct": 5.53,
+        "Nov": 5.4,
+        "Dec": 5.23
+      },
+      "average": 5.2
+    },
+    {
+      "name": "Qacha’s Nek",
+      "admin1_code": "17",
+      "location": [
+        -30.11537,
+        28.68936
+      ],
+      "monthly": {
+        "Jan": 4.94,
+        "Feb": 5.05,
+        "Mar": 5.07,
+        "Apr": 5.05,
+        "May": 5.07,
+        "Jun": 5.03,
+        "Jul": 5.17,
+        "Aug": 5.49,
+        "Sep": 5.52,
+        "Oct": 5.3,
+        "Nov": 5.15,
+        "Dec": 4.96
+      },
+      "average": 5.15
+    },
+    {
+      "name": "Mohale's Hoek",
+      "admin1_code": "15",
+      "location": [
+        -30.15137,
+        27.47691
+      ],
+      "monthly": {
+        "Jan": 5.17,
+        "Feb": 5.19,
+        "Mar": 5.12,
+        "Apr": 4.93,
+        "May": 4.86,
+        "Jun": 4.77,
+        "Jul": 4.99,
+        "Aug": 5.31,
+        "Sep": 5.46,
+        "Oct": 5.45,
+        "Nov": 5.33,
+        "Dec": 5.15
+      },
+      "average": 5.14
+    },
+    {
+      "name": "Maseru",
+      "admin1_code": "14",
+      "location": [
+        -29.31667,
+        27.48333
+      ],
+      "monthly": {
+        "Jan": 4.95,
+        "Feb": 4.95,
+        "Mar": 4.9,
+        "Apr": 4.82,
+        "May": 4.84,
+        "Jun": 4.81,
+        "Jul": 5.08,
+        "Aug": 5.32,
+        "Sep": 5.45,
+        "Oct": 5.36,
+        "Nov": 5.21,
+        "Dec": 4.97
+      },
+      "average": 5.06
+    },
+    {
+      "name": "Maputsoe",
+      "admin1_code": "12",
+      "location": [
+        -28.8866,
+        27.89915
+      ],
+      "monthly": {
+        "Jan": 4.94,
+        "Feb": 4.97,
+        "Mar": 4.94,
+        "Apr": 4.88,
+        "May": 4.93,
+        "Jun": 4.91,
+        "Jul": 5.16,
+        "Aug": 5.39,
+        "Sep": 5.48,
+        "Oct": 5.3,
+        "Nov": 5.16,
+        "Dec": 4.93
+      },
+      "average": 5.08
+    },
+    {
+      "name": "Mafeteng",
+      "admin1_code": "13",
+      "location": [
+        -29.82299,
+        27.23744
+      ],
+      "monthly": {
+        "Jan": 5.22,
+        "Feb": 5.21,
+        "Mar": 5.14,
+        "Apr": 4.98,
+        "May": 4.95,
+        "Jun": 4.87,
+        "Jul": 5.12,
+        "Aug": 5.42,
+        "Sep": 5.59,
+        "Oct": 5.53,
+        "Nov": 5.39,
+        "Dec": 5.19
+      },
+      "average": 5.22
+    },
+    {
+      "name": "Hlotse",
+      "admin1_code": "12",
+      "location": [
+        -28.87185,
+        28.04501
+      ],
+      "monthly": {
+        "Jan": 4.97,
+        "Feb": 5.02,
+        "Mar": 4.99,
+        "Apr": 4.92,
+        "May": 4.99,
+        "Jun": 4.96,
+        "Jul": 5.2,
+        "Aug": 5.41,
+        "Sep": 5.51,
+        "Oct": 5.31,
+        "Nov": 5.16,
+        "Dec": 4.93
+      },
+      "average": 5.11
+    },
+    {
+      "name": "Butha-Buthe",
+      "admin1_code": "11",
+      "location": [
+        -28.76659,
+        28.24937
+      ],
+      "monthly": {
+        "Jan": 5.01,
+        "Feb": 5.07,
+        "Mar": 5.05,
+        "Apr": 4.98,
+        "May": 5.06,
+        "Jun": 5.02,
+        "Jul": 5.23,
+        "Aug": 5.43,
+        "Sep": 5.5,
+        "Oct": 5.31,
+        "Nov": 5.16,
+        "Dec": 4.94
+      },
+      "average": 5.15
+    },
+    {
+      "name": "Thaba-Tseka",
+      "admin1_code": "19",
+      "location": [
+        -29.52204,
+        28.6084
+      ],
+      "monthly": {
+        "Jan": 4.86,
+        "Feb": 4.89,
+        "Mar": 4.92,
+        "Apr": 5.01,
+        "May": 5.12,
+        "Jun": 5.17,
+        "Jul": 5.35,
+        "Aug": 5.62,
+        "Sep": 5.71,
+        "Oct": 5.44,
+        "Nov": 5.29,
+        "Dec": 5
+      },
+      "average": 5.2
+    },
+    {
+      "name": "Mabote",
+      "admin1_code": "10",
+      "location": [
+        -29.27861,
+        27.52417
+      ],
+      "monthly": {
+        "Jan": 4.94,
+        "Feb": 4.96,
+        "Mar": 4.91,
+        "Apr": 4.86,
+        "May": 4.9,
+        "Jun": 4.88,
+        "Jul": 5.14,
+        "Aug": 5.39,
+        "Sep": 5.5,
+        "Oct": 5.37,
+        "Nov": 5.21,
+        "Dec": 4.97
+      },
+      "average": 5.09
+    }
+  ]
+}

@@ -1,0 +1,489 @@
+{
+  "country": "Puerto Rico",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "name": "Aguadilla",
+      "admin1_code": "005",
+      "location": [
+        18.42745,
+        -67.15407
+      ],
+      "monthly": {
+        "Jan": 4.61,
+        "Feb": 4.85,
+        "Mar": 4.87,
+        "Apr": 4.63,
+        "May": 4.24,
+        "Jun": 4.15,
+        "Jul": 4.17,
+        "Aug": 4.3,
+        "Sep": 4.49,
+        "Oct": 4.5,
+        "Nov": 4.41,
+        "Dec": 4.51
+      },
+      "average": 4.48
+    },
+    {
+      "name": "Arecibo",
+      "admin1_code": "013",
+      "location": [
+        18.47245,
+        -66.71573
+      ],
+      "monthly": {
+        "Jan": 4.57,
+        "Feb": 4.94,
+        "Mar": 5.1,
+        "Apr": 4.93,
+        "May": 4.44,
+        "Jun": 4.37,
+        "Jul": 4.45,
+        "Aug": 4.54,
+        "Sep": 4.64,
+        "Oct": 4.67,
+        "Nov": 4.42,
+        "Dec": 4.4
+      },
+      "average": 4.62
+    },
+    {
+      "name": "Barceloneta",
+      "admin1_code": "017",
+      "location": [
+        18.4505,
+        -66.53851
+      ],
+      "monthly": {
+        "Jan": 4.41,
+        "Feb": 4.75,
+        "Mar": 4.91,
+        "Apr": 4.74,
+        "May": 4.28,
+        "Jun": 4.27,
+        "Jul": 4.34,
+        "Aug": 4.41,
+        "Sep": 4.53,
+        "Oct": 4.51,
+        "Nov": 4.28,
+        "Dec": 4.22
+      },
+      "average": 4.47
+    },
+    {
+      "name": "Bayamón",
+      "admin1_code": "021",
+      "location": [
+        18.39856,
+        -66.15572
+      ],
+      "monthly": {
+        "Jan": 4.24,
+        "Feb": 4.57,
+        "Mar": 4.74,
+        "Apr": 4.56,
+        "May": 4.22,
+        "Jun": 4.23,
+        "Jul": 4.24,
+        "Aug": 4.35,
+        "Sep": 4.5,
+        "Oct": 4.35,
+        "Nov": 4.09,
+        "Dec": 4.04
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Caguas",
+      "admin1_code": "025",
+      "location": [
+        18.23412,
+        -66.0485
+      ],
+      "monthly": {
+        "Jan": 4.15,
+        "Feb": 4.45,
+        "Mar": 4.58,
+        "Apr": 4.43,
+        "May": 4.22,
+        "Jun": 4.27,
+        "Jul": 4.32,
+        "Aug": 4.43,
+        "Sep": 4.49,
+        "Oct": 4.3,
+        "Nov": 4.02,
+        "Dec": 3.95
+      },
+      "average": 4.3
+    },
+    {
+      "name": "Candelaria",
+      "admin1_code": "137",
+      "location": [
+        18.40411,
+        -66.20878
+      ],
+      "monthly": {
+        "Jan": 4.25,
+        "Feb": 4.56,
+        "Mar": 4.78,
+        "Apr": 4.58,
+        "May": 4.23,
+        "Jun": 4.22,
+        "Jul": 4.23,
+        "Aug": 4.35,
+        "Sep": 4.5,
+        "Oct": 4.36,
+        "Nov": 4.1,
+        "Dec": 4.01
+      },
+      "average": 4.35
+    },
+    {
+      "name": "Carolina",
+      "admin1_code": "031",
+      "location": [
+        18.38078,
+        -65.95739
+      ],
+      "monthly": {
+        "Jan": 4.34,
+        "Feb": 4.64,
+        "Mar": 4.75,
+        "Apr": 4.6,
+        "May": 4.21,
+        "Jun": 4.27,
+        "Jul": 4.43,
+        "Aug": 4.5,
+        "Sep": 4.54,
+        "Oct": 4.38,
+        "Nov": 4.14,
+        "Dec": 4.14
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Cataño",
+      "admin1_code": "033",
+      "location": [
+        18.44134,
+        -66.11822
+      ],
+      "monthly": {
+        "Jan": 4.39,
+        "Feb": 4.72,
+        "Mar": 4.88,
+        "Apr": 4.71,
+        "May": 4.26,
+        "Jun": 4.28,
+        "Jul": 4.4,
+        "Aug": 4.47,
+        "Sep": 4.56,
+        "Oct": 4.4,
+        "Nov": 4.13,
+        "Dec": 4.14
+      },
+      "average": 4.45
+    },
+    {
+      "name": "Cayey",
+      "admin1_code": "035",
+      "location": [
+        18.11191,
+        -66.166
+      ],
+      "monthly": {
+        "Jan": 4.11,
+        "Feb": 4.41,
+        "Mar": 4.55,
+        "Apr": 4.41,
+        "May": 4.2,
+        "Jun": 4.28,
+        "Jul": 4.38,
+        "Aug": 4.51,
+        "Sep": 4.48,
+        "Oct": 4.24,
+        "Nov": 3.98,
+        "Dec": 3.92
+      },
+      "average": 4.29
+    },
+    {
+      "name": "Fajardo",
+      "admin1_code": "053",
+      "location": [
+        18.32579,
+        -65.65238
+      ],
+      "monthly": {
+        "Jan": 4.46,
+        "Feb": 4.84,
+        "Mar": 5.06,
+        "Apr": 4.85,
+        "May": 4.41,
+        "Jun": 4.43,
+        "Jul": 4.54,
+        "Aug": 4.71,
+        "Sep": 4.77,
+        "Oct": 4.54,
+        "Nov": 4.23,
+        "Dec": 4.24
+      },
+      "average": 4.59
+    },
+    {
+      "name": "Guayama",
+      "admin1_code": "057",
+      "location": [
+        17.98413,
+        -66.11378
+      ],
+      "monthly": {
+        "Jan": 4.75,
+        "Feb": 5.05,
+        "Mar": 5.23,
+        "Apr": 5.01,
+        "May": 4.65,
+        "Jun": 4.54,
+        "Jul": 4.67,
+        "Aug": 4.83,
+        "Sep": 4.86,
+        "Oct": 4.61,
+        "Nov": 4.49,
+        "Dec": 4.55
+      },
+      "average": 4.77
+    },
+    {
+      "name": "Guaynabo",
+      "admin1_code": "061",
+      "location": [
+        18.35745,
+        -66.111
+      ],
+      "monthly": {
+        "Jan": 4.12,
+        "Feb": 4.41,
+        "Mar": 4.55,
+        "Apr": 4.41,
+        "May": 4.15,
+        "Jun": 4.16,
+        "Jul": 4.14,
+        "Aug": 4.26,
+        "Sep": 4.41,
+        "Oct": 4.24,
+        "Nov": 3.95,
+        "Dec": 3.93
+      },
+      "average": 4.23
+    },
+    {
+      "name": "Humacao",
+      "admin1_code": "069",
+      "location": [
+        18.14968,
+        -65.82738
+      ],
+      "monthly": {
+        "Jan": 4.42,
+        "Feb": 4.75,
+        "Mar": 4.97,
+        "Apr": 4.77,
+        "May": 4.37,
+        "Jun": 4.36,
+        "Jul": 4.46,
+        "Aug": 4.63,
+        "Sep": 4.7,
+        "Oct": 4.44,
+        "Nov": 4.19,
+        "Dec": 4.21
+      },
+      "average": 4.52
+    },
+    {
+      "name": "Levittown",
+      "admin1_code": "137",
+      "location": [
+        18.44995,
+        -66.18156
+      ],
+      "monthly": {
+        "Jan": 4.42,
+        "Feb": 4.76,
+        "Mar": 4.95,
+        "Apr": 4.75,
+        "May": 4.31,
+        "Jun": 4.29,
+        "Jul": 4.37,
+        "Aug": 4.48,
+        "Sep": 4.6,
+        "Oct": 4.46,
+        "Nov": 4.21,
+        "Dec": 4.16
+      },
+      "average": 4.48
+    },
+    {
+      "name": "Manatí",
+      "admin1_code": "091",
+      "location": [
+        18.42745,
+        -66.49212
+      ],
+      "monthly": {
+        "Jan": 4.36,
+        "Feb": 4.68,
+        "Mar": 4.83,
+        "Apr": 4.66,
+        "May": 4.24,
+        "Jun": 4.24,
+        "Jul": 4.32,
+        "Aug": 4.38,
+        "Sep": 4.47,
+        "Oct": 4.45,
+        "Nov": 4.22,
+        "Dec": 4.18
+      },
+      "average": 4.42
+    },
+    {
+      "name": "Mayagüez",
+      "admin1_code": "097",
+      "location": [
+        18.20107,
+        -67.13962
+      ],
+      "monthly": {
+        "Jan": 4.4,
+        "Feb": 4.51,
+        "Mar": 4.64,
+        "Apr": 4.4,
+        "May": 4.17,
+        "Jun": 4.03,
+        "Jul": 3.96,
+        "Aug": 4.1,
+        "Sep": 4.3,
+        "Oct": 4.31,
+        "Nov": 4.22,
+        "Dec": 4.3
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Ponce",
+      "admin1_code": "113",
+      "location": [
+        18.01031,
+        -66.62398
+      ],
+      "monthly": {
+        "Jan": 4.76,
+        "Feb": 5.05,
+        "Mar": 5.21,
+        "Apr": 5.05,
+        "May": 4.74,
+        "Jun": 4.59,
+        "Jul": 4.69,
+        "Aug": 4.81,
+        "Sep": 4.79,
+        "Oct": 4.69,
+        "Nov": 4.53,
+        "Dec": 4.59
+      },
+      "average": 4.79
+    },
+    {
+      "name": "San Juan",
+      "admin1_code": "127",
+      "location": [
+        18.46633,
+        -66.10572
+      ],
+      "monthly": {
+        "Jan": 4.5,
+        "Feb": 4.84,
+        "Mar": 5,
+        "Apr": 4.84,
+        "May": 4.34,
+        "Jun": 4.36,
+        "Jul": 4.51,
+        "Aug": 4.58,
+        "Sep": 4.64,
+        "Oct": 4.48,
+        "Nov": 4.21,
+        "Dec": 4.23
+      },
+      "average": 4.54
+    },
+    {
+      "name": "Trujillo Alto",
+      "admin1_code": "139",
+      "location": [
+        18.35467,
+        -66.00739
+      ],
+      "monthly": {
+        "Jan": 4.18,
+        "Feb": 4.47,
+        "Mar": 4.55,
+        "Apr": 4.4,
+        "May": 4.11,
+        "Jun": 4.18,
+        "Jul": 4.22,
+        "Aug": 4.31,
+        "Sep": 4.4,
+        "Oct": 4.25,
+        "Nov": 3.99,
+        "Dec": 4.01
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Vega Baja",
+      "admin1_code": "145",
+      "location": [
+        18.44439,
+        -66.38767
+      ],
+      "monthly": {
+        "Jan": 4.35,
+        "Feb": 4.7,
+        "Mar": 4.88,
+        "Apr": 4.67,
+        "May": 4.26,
+        "Jun": 4.26,
+        "Jul": 4.33,
+        "Aug": 4.44,
+        "Sep": 4.54,
+        "Oct": 4.47,
+        "Nov": 4.23,
+        "Dec": 4.14
+      },
+      "average": 4.44
+    },
+    {
+      "name": "Yauco",
+      "admin1_code": "153",
+      "location": [
+        18.03496,
+        -66.8499
+      ],
+      "monthly": {
+        "Jan": 4.67,
+        "Feb": 4.96,
+        "Mar": 5.07,
+        "Apr": 4.93,
+        "May": 4.65,
+        "Jun": 4.52,
+        "Jul": 4.58,
+        "Aug": 4.68,
+        "Sep": 4.64,
+        "Oct": 4.52,
+        "Nov": 4.38,
+        "Dec": 4.49
+      },
+      "average": 4.67
+    }
+  ]
+}

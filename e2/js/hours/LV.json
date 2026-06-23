@@ -1,0 +1,351 @@
+{
+  "country": "Latvia",
+  "countryCode": "LV",
+  "cities": [
+    {
+      "name": "Valmiera",
+      "admin1_code": "31",
+      "location": [
+        57.54108,
+        25.42751
+      ],
+      "monthly": {
+        "Jan": 0.86,
+        "Feb": 1.84,
+        "Mar": 3.24,
+        "Apr": 4.14,
+        "May": 4.7,
+        "Jun": 4.59,
+        "Jul": 4.41,
+        "Aug": 3.92,
+        "Sep": 3.06,
+        "Oct": 1.83,
+        "Nov": 0.76,
+        "Dec": 0.56
+      },
+      "average": 2.83
+    },
+    {
+      "name": "Ventspils",
+      "admin1_code": "32",
+      "location": [
+        57.39485,
+        21.56121
+      ],
+      "monthly": {
+        "Jan": 0.85,
+        "Feb": 1.82,
+        "Mar": 3.26,
+        "Apr": 4.47,
+        "May": 5.18,
+        "Jun": 5.11,
+        "Jul": 4.84,
+        "Aug": 4.2,
+        "Sep": 3.22,
+        "Oct": 1.89,
+        "Nov": 0.79,
+        "Dec": 0.51
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Tukums",
+      "admin1_code": "29",
+      "location": [
+        56.96764,
+        23.15554
+      ],
+      "monthly": {
+        "Jan": 0.86,
+        "Feb": 1.77,
+        "Mar": 3.17,
+        "Apr": 4.21,
+        "May": 4.82,
+        "Jun": 4.66,
+        "Jul": 4.45,
+        "Aug": 4.03,
+        "Sep": 3.21,
+        "Oct": 2,
+        "Nov": 0.82,
+        "Dec": 0.57
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Salaspils",
+      "admin1_code": "C3",
+      "location": [
+        56.86014,
+        24.36544
+      ],
+      "monthly": {
+        "Jan": 0.87,
+        "Feb": 1.79,
+        "Mar": 3.17,
+        "Apr": 4.16,
+        "May": 4.78,
+        "Jun": 4.66,
+        "Jul": 4.47,
+        "Aug": 4.01,
+        "Sep": 3.14,
+        "Oct": 1.94,
+        "Nov": 0.78,
+        "Dec": 0.53
+      },
+      "average": 2.86
+    },
+    {
+      "name": "Riga",
+      "admin1_code": "25",
+      "location": [
+        56.946,
+        24.10589
+      ],
+      "monthly": {
+        "Jan": 0.85,
+        "Feb": 1.8,
+        "Mar": 3.21,
+        "Apr": 4.24,
+        "May": 4.85,
+        "Jun": 4.73,
+        "Jul": 4.49,
+        "Aug": 4.04,
+        "Sep": 3.18,
+        "Oct": 1.95,
+        "Nov": 0.8,
+        "Dec": 0.51
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Rēzekne",
+      "admin1_code": "23",
+      "location": [
+        56.51028,
+        27.34
+      ],
+      "monthly": {
+        "Jan": 0.89,
+        "Feb": 1.87,
+        "Mar": 3.29,
+        "Apr": 4.15,
+        "May": 4.66,
+        "Jun": 4.63,
+        "Jul": 4.43,
+        "Aug": 4.03,
+        "Sep": 3.11,
+        "Oct": 1.86,
+        "Nov": 0.73,
+        "Dec": 0.54
+      },
+      "average": 2.85
+    },
+    {
+      "name": "Ogre",
+      "admin1_code": "21",
+      "location": [
+        56.8162,
+        24.61401
+      ],
+      "monthly": {
+        "Jan": 0.88,
+        "Feb": 1.82,
+        "Mar": 3.16,
+        "Apr": 4.07,
+        "May": 4.66,
+        "Jun": 4.53,
+        "Jul": 4.37,
+        "Aug": 3.94,
+        "Sep": 3.09,
+        "Oct": 1.91,
+        "Nov": 0.79,
+        "Dec": 0.55
+      },
+      "average": 2.81
+    },
+    {
+      "name": "Liepāja",
+      "admin1_code": "16",
+      "location": [
+        56.50474,
+        21.01085
+      ],
+      "monthly": {
+        "Jan": 0.92,
+        "Feb": 1.9,
+        "Mar": 3.29,
+        "Apr": 4.45,
+        "May": 5.17,
+        "Jun": 5.13,
+        "Jul": 4.81,
+        "Aug": 4.24,
+        "Sep": 3.37,
+        "Oct": 1.96,
+        "Nov": 0.87,
+        "Dec": 0.57
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Jūrmala",
+      "admin1_code": "13",
+      "location": [
+        56.968,
+        23.77038
+      ],
+      "monthly": {
+        "Jan": 0.86,
+        "Feb": 1.77,
+        "Mar": 3.29,
+        "Apr": 4.32,
+        "May": 4.93,
+        "Jun": 4.74,
+        "Jul": 4.54,
+        "Aug": 4.08,
+        "Sep": 3.21,
+        "Oct": 1.95,
+        "Nov": 0.76,
+        "Dec": 0.55
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Jelgava",
+      "admin1_code": "11",
+      "location": [
+        56.65,
+        23.71278
+      ],
+      "monthly": {
+        "Jan": 0.88,
+        "Feb": 1.84,
+        "Mar": 3.17,
+        "Apr": 4.14,
+        "May": 4.76,
+        "Jun": 4.64,
+        "Jul": 4.42,
+        "Aug": 3.98,
+        "Sep": 3.2,
+        "Oct": 2.02,
+        "Nov": 0.84,
+        "Dec": 0.57
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Jēkabpils",
+      "admin1_code": "10",
+      "location": [
+        56.49903,
+        25.85735
+      ],
+      "monthly": {
+        "Jan": 0.87,
+        "Feb": 1.79,
+        "Mar": 3.21,
+        "Apr": 4.1,
+        "May": 4.66,
+        "Jun": 4.63,
+        "Jul": 4.42,
+        "Aug": 4.01,
+        "Sep": 3.13,
+        "Oct": 1.9,
+        "Nov": 0.76,
+        "Dec": 0.54
+      },
+      "average": 2.83
+    },
+    {
+      "name": "Daugavpils",
+      "admin1_code": "06",
+      "location": [
+        55.88333,
+        26.53333
+      ],
+      "monthly": {
+        "Jan": 0.88,
+        "Feb": 1.82,
+        "Mar": 3.2,
+        "Apr": 4.04,
+        "May": 4.6,
+        "Jun": 4.6,
+        "Jul": 4.38,
+        "Aug": 4.04,
+        "Sep": 3.14,
+        "Oct": 1.9,
+        "Nov": 0.76,
+        "Dec": 0.56
+      },
+      "average": 2.83
+    },
+    {
+      "name": "Cēsis",
+      "admin1_code": "05",
+      "location": [
+        57.31188,
+        25.27456
+      ],
+      "monthly": {
+        "Jan": 0.88,
+        "Feb": 1.84,
+        "Mar": 3.17,
+        "Apr": 4.05,
+        "May": 4.63,
+        "Jun": 4.54,
+        "Jul": 4.33,
+        "Aug": 3.89,
+        "Sep": 3.03,
+        "Oct": 1.82,
+        "Nov": 0.75,
+        "Dec": 0.56
+      },
+      "average": 2.79
+    },
+    {
+      "name": "Mārupe",
+      "admin1_code": "95",
+      "location": [
+        56.90544,
+        24.05113
+      ],
+      "monthly": {
+        "Jan": 0.85,
+        "Feb": 1.79,
+        "Mar": 3.22,
+        "Apr": 4.24,
+        "May": 4.85,
+        "Jun": 4.72,
+        "Jul": 4.5,
+        "Aug": 4.05,
+        "Sep": 3.19,
+        "Oct": 1.97,
+        "Nov": 0.8,
+        "Dec": 0.52
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Dārzciems",
+      "admin1_code": "25",
+      "location": [
+        56.94563,
+        24.17459
+      ],
+      "monthly": {
+        "Jan": 0.86,
+        "Feb": 1.81,
+        "Mar": 3.22,
+        "Apr": 4.24,
+        "May": 4.84,
+        "Jun": 4.72,
+        "Jul": 4.49,
+        "Aug": 4.03,
+        "Sep": 3.17,
+        "Oct": 1.95,
+        "Nov": 0.81,
+        "Dec": 0.52
+      },
+      "average": 2.89
+    }
+  ]
+}

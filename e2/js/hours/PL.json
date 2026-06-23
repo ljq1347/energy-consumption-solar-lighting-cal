@@ -1,0 +1,8355 @@
+{
+  "country": "Poland",
+  "countryCode": "PL",
+  "cities": [
+    {
+      "name": "Żyrardów",
+      "admin1_code": "78",
+      "location": [
+        52.0488,
+        20.44599
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 1.94,
+        "Mar": 3.15,
+        "Apr": 4.06,
+        "May": 4.54,
+        "Jun": 4.59,
+        "Jul": 4.33,
+        "Aug": 4.21,
+        "Sep": 3.4,
+        "Oct": 2.33,
+        "Nov": 1.22,
+        "Dec": 0.93
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Żoliborz",
+      "admin1_code": "78",
+      "location": [
+        52.26896,
+        20.98644
+      ],
+      "monthly": {
+        "Jan": 1.2,
+        "Feb": 1.92,
+        "Mar": 3.1,
+        "Apr": 4.01,
+        "May": 4.51,
+        "Jun": 4.52,
+        "Jul": 4.34,
+        "Aug": 4.2,
+        "Sep": 3.39,
+        "Oct": 2.28,
+        "Nov": 1.16,
+        "Dec": 0.88
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Zielonka",
+      "admin1_code": "78",
+      "location": [
+        52.30376,
+        21.16018
+      ],
+      "monthly": {
+        "Jan": 1.2,
+        "Feb": 1.92,
+        "Mar": 3.11,
+        "Apr": 4,
+        "May": 4.51,
+        "Jun": 4.52,
+        "Jul": 4.32,
+        "Aug": 4.19,
+        "Sep": 3.4,
+        "Oct": 2.29,
+        "Nov": 1.16,
+        "Dec": 0.87
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Zamość",
+      "admin1_code": "75",
+      "location": [
+        50.72314,
+        23.25196
+      ],
+      "monthly": {
+        "Jan": 1.35,
+        "Feb": 2.08,
+        "Mar": 3.28,
+        "Apr": 4.08,
+        "May": 4.54,
+        "Jun": 4.66,
+        "Jul": 4.4,
+        "Aug": 4.34,
+        "Sep": 3.49,
+        "Oct": 2.63,
+        "Nov": 1.38,
+        "Dec": 1.02
+      },
+      "average": 3.1
+    },
+    {
+      "name": "Zambrów",
+      "admin1_code": "81",
+      "location": [
+        52.9855,
+        22.24319
+      ],
+      "monthly": {
+        "Jan": 1.12,
+        "Feb": 1.91,
+        "Mar": 3.23,
+        "Apr": 4.14,
+        "May": 4.65,
+        "Jun": 4.64,
+        "Jul": 4.4,
+        "Aug": 4.22,
+        "Sep": 3.48,
+        "Oct": 2.32,
+        "Nov": 1.09,
+        "Dec": 0.79
+      },
+      "average": 3
+    },
+    {
+      "name": "Ząbki",
+      "admin1_code": "78",
+      "location": [
+        52.29271,
+        21.10539
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 1.91,
+        "Mar": 3.13,
+        "Apr": 4.03,
+        "May": 4.53,
+        "Jun": 4.54,
+        "Jul": 4.34,
+        "Aug": 4.2,
+        "Sep": 3.41,
+        "Oct": 2.29,
+        "Nov": 1.17,
+        "Dec": 0.87
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Wyszków",
+      "admin1_code": "78",
+      "location": [
+        52.59278,
+        21.4584
+      ],
+      "monthly": {
+        "Jan": 1.19,
+        "Feb": 1.89,
+        "Mar": 3.17,
+        "Apr": 4.05,
+        "May": 4.59,
+        "Jun": 4.57,
+        "Jul": 4.35,
+        "Aug": 4.2,
+        "Sep": 3.42,
+        "Oct": 2.28,
+        "Nov": 1.13,
+        "Dec": 0.8
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Wołomin",
+      "admin1_code": "78",
+      "location": [
+        52.34006,
+        21.24207
+      ],
+      "monthly": {
+        "Jan": 1.2,
+        "Feb": 1.91,
+        "Mar": 3.13,
+        "Apr": 4.01,
+        "May": 4.52,
+        "Jun": 4.53,
+        "Jul": 4.35,
+        "Aug": 4.21,
+        "Sep": 3.41,
+        "Oct": 2.29,
+        "Nov": 1.16,
+        "Dec": 0.85
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Wola",
+      "admin1_code": "78",
+      "location": [
+        52.23477,
+        20.96004
+      ],
+      "monthly": {
+        "Jan": 1.2,
+        "Feb": 1.92,
+        "Mar": 3.11,
+        "Apr": 4.03,
+        "May": 4.54,
+        "Jun": 4.55,
+        "Jul": 4.37,
+        "Aug": 4.21,
+        "Sep": 3.4,
+        "Oct": 2.3,
+        "Nov": 1.18,
+        "Dec": 0.89
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Włochy",
+      "admin1_code": "78",
+      "location": [
+        52.17941,
+        20.94612
+      ],
+      "monthly": {
+        "Jan": 1.2,
+        "Feb": 1.91,
+        "Mar": 3.14,
+        "Apr": 4.06,
+        "May": 4.57,
+        "Jun": 4.6,
+        "Jul": 4.41,
+        "Aug": 4.24,
+        "Sep": 3.42,
+        "Oct": 2.32,
+        "Nov": 1.19,
+        "Dec": 0.87
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Wieliczka",
+      "admin1_code": "77",
+      "location": [
+        49.98738,
+        20.06473
+      ],
+      "monthly": {
+        "Jan": 1.53,
+        "Feb": 2.24,
+        "Mar": 3.27,
+        "Apr": 3.96,
+        "May": 4.3,
+        "Jun": 4.37,
+        "Jul": 4.33,
+        "Aug": 4.24,
+        "Sep": 3.41,
+        "Oct": 2.56,
+        "Nov": 1.48,
+        "Dec": 1.24
+      },
+      "average": 3.08
+    },
+    {
+      "name": "Wesoła",
+      "admin1_code": "78",
+      "location": [
+        52.25451,
+        21.22407
+      ],
+      "monthly": {
+        "Jan": 1.2,
+        "Feb": 1.9,
+        "Mar": 3.07,
+        "Apr": 3.96,
+        "May": 4.48,
+        "Jun": 4.51,
+        "Jul": 4.3,
+        "Aug": 4.16,
+        "Sep": 3.37,
+        "Oct": 2.27,
+        "Nov": 1.13,
+        "Dec": 0.86
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Wawer",
+      "admin1_code": "78",
+      "location": [
+        52.19656,
+        21.17752
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 1.91,
+        "Mar": 3.09,
+        "Apr": 4,
+        "May": 4.52,
+        "Jun": 4.53,
+        "Jul": 4.33,
+        "Aug": 4.18,
+        "Sep": 3.4,
+        "Oct": 2.29,
+        "Nov": 1.16,
+        "Dec": 0.87
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Warsaw",
+      "admin1_code": "78",
+      "location": [
+        52.22977,
+        21.01178
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 1.93,
+        "Mar": 3.11,
+        "Apr": 4.03,
+        "May": 4.53,
+        "Jun": 4.54,
+        "Jul": 4.35,
+        "Aug": 4.2,
+        "Sep": 3.39,
+        "Oct": 2.3,
+        "Nov": 1.18,
+        "Dec": 0.89
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Ursus",
+      "admin1_code": "78",
+      "location": [
+        52.19517,
+        20.88419
+      ],
+      "monthly": {
+        "Jan": 1.18,
+        "Feb": 1.9,
+        "Mar": 3.14,
+        "Apr": 4.05,
+        "May": 4.57,
+        "Jun": 4.6,
+        "Jul": 4.4,
+        "Aug": 4.23,
+        "Sep": 3.42,
+        "Oct": 2.31,
+        "Nov": 1.17,
+        "Dec": 0.87
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Tomaszów Mazowiecki",
+      "admin1_code": "74",
+      "location": [
+        51.53131,
+        20.00855
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.03,
+        "Mar": 3.17,
+        "Apr": 4,
+        "May": 4.46,
+        "Jun": 4.47,
+        "Jul": 4.22,
+        "Aug": 4.14,
+        "Sep": 3.42,
+        "Oct": 2.37,
+        "Nov": 1.26,
+        "Dec": 1.01
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Tomaszów Lubelski",
+      "admin1_code": "75",
+      "location": [
+        50.44767,
+        23.41616
+      ],
+      "monthly": {
+        "Jan": 1.41,
+        "Feb": 2.1,
+        "Mar": 3.26,
+        "Apr": 3.99,
+        "May": 4.44,
+        "Jun": 4.51,
+        "Jul": 4.34,
+        "Aug": 4.29,
+        "Sep": 3.44,
+        "Oct": 2.63,
+        "Nov": 1.38,
+        "Dec": 1.07
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Tarnów",
+      "admin1_code": "77",
+      "location": [
+        50.01381,
+        20.98698
+      ],
+      "monthly": {
+        "Jan": 1.52,
+        "Feb": 2.21,
+        "Mar": 3.3,
+        "Apr": 3.98,
+        "May": 4.35,
+        "Jun": 4.42,
+        "Jul": 4.32,
+        "Aug": 4.27,
+        "Sep": 3.47,
+        "Oct": 2.63,
+        "Nov": 1.54,
+        "Dec": 1.25
+      },
+      "average": 3.1
+    },
+    {
+      "name": "Tarnobrzeg",
+      "admin1_code": "80",
+      "location": [
+        50.57304,
+        21.67937
+      ],
+      "monthly": {
+        "Jan": 1.41,
+        "Feb": 2.2,
+        "Mar": 3.3,
+        "Apr": 4.04,
+        "May": 4.52,
+        "Jun": 4.6,
+        "Jul": 4.4,
+        "Aug": 4.31,
+        "Sep": 3.51,
+        "Oct": 2.56,
+        "Nov": 1.42,
+        "Dec": 1.15
+      },
+      "average": 3.12
+    },
+    {
+      "name": "Targówek",
+      "admin1_code": "78",
+      "location": [
+        52.29185,
+        21.04845
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 1.91,
+        "Mar": 3.12,
+        "Apr": 4.03,
+        "May": 4.53,
+        "Jun": 4.53,
+        "Jul": 4.34,
+        "Aug": 4.21,
+        "Sep": 3.4,
+        "Oct": 2.29,
+        "Nov": 1.16,
+        "Dec": 0.87
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Szczytno",
+      "admin1_code": "85",
+      "location": [
+        53.56259,
+        20.98747
+      ],
+      "monthly": {
+        "Jan": 1.05,
+        "Feb": 1.91,
+        "Mar": 3.15,
+        "Apr": 4.07,
+        "May": 4.51,
+        "Jun": 4.46,
+        "Jul": 4.27,
+        "Aug": 4.06,
+        "Sep": 3.35,
+        "Oct": 2.17,
+        "Nov": 1.02,
+        "Dec": 0.75
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Świdnik",
+      "admin1_code": "75",
+      "location": [
+        51.21898,
+        22.69621
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.02,
+        "Mar": 3.31,
+        "Apr": 4.11,
+        "May": 4.63,
+        "Jun": 4.69,
+        "Jul": 4.43,
+        "Aug": 4.33,
+        "Sep": 3.53,
+        "Oct": 2.58,
+        "Nov": 1.32,
+        "Dec": 0.97
+      },
+      "average": 3.1
+    },
+    {
+      "name": "Suwałki",
+      "admin1_code": "81",
+      "location": [
+        54.11175,
+        22.93087
+      ],
+      "monthly": {
+        "Jan": 1.05,
+        "Feb": 1.87,
+        "Mar": 3.24,
+        "Apr": 4.16,
+        "May": 4.66,
+        "Jun": 4.63,
+        "Jul": 4.39,
+        "Aug": 4.15,
+        "Sep": 3.42,
+        "Oct": 2.15,
+        "Nov": 0.93,
+        "Dec": 0.68
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Sulejówek",
+      "admin1_code": "78",
+      "location": [
+        52.25221,
+        21.26902
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 1.9,
+        "Mar": 3.08,
+        "Apr": 3.96,
+        "May": 4.47,
+        "Jun": 4.49,
+        "Jul": 4.3,
+        "Aug": 4.16,
+        "Sep": 3.39,
+        "Oct": 2.29,
+        "Nov": 1.14,
+        "Dec": 0.86
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Staszów",
+      "admin1_code": "84",
+      "location": [
+        50.56307,
+        21.16593
+      ],
+      "monthly": {
+        "Jan": 1.41,
+        "Feb": 2.15,
+        "Mar": 3.3,
+        "Apr": 4,
+        "May": 4.44,
+        "Jun": 4.5,
+        "Jul": 4.3,
+        "Aug": 4.26,
+        "Sep": 3.48,
+        "Oct": 2.56,
+        "Nov": 1.4,
+        "Dec": 1.12
+      },
+      "average": 3.08
+    },
+    {
+      "name": "Starachowice",
+      "admin1_code": "84",
+      "location": [
+        51.0374,
+        21.07126
+      ],
+      "monthly": {
+        "Jan": 1.36,
+        "Feb": 2.08,
+        "Mar": 3.18,
+        "Apr": 3.92,
+        "May": 4.34,
+        "Jun": 4.43,
+        "Jul": 4.23,
+        "Aug": 4.14,
+        "Sep": 3.4,
+        "Oct": 2.51,
+        "Nov": 1.34,
+        "Dec": 1.1
+      },
+      "average": 3
+    },
+    {
+      "name": "Stalowa Wola",
+      "admin1_code": "80",
+      "location": [
+        50.58286,
+        22.05334
+      ],
+      "monthly": {
+        "Jan": 1.38,
+        "Feb": 2.12,
+        "Mar": 3.21,
+        "Apr": 3.93,
+        "May": 4.36,
+        "Jun": 4.49,
+        "Jul": 4.32,
+        "Aug": 4.24,
+        "Sep": 3.44,
+        "Oct": 2.54,
+        "Nov": 1.38,
+        "Dec": 1.11
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Śródmieście",
+      "admin1_code": "78",
+      "location": [
+        52.22904,
+        21.01644
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 1.93,
+        "Mar": 3.11,
+        "Apr": 4.03,
+        "May": 4.53,
+        "Jun": 4.54,
+        "Jul": 4.35,
+        "Aug": 4.2,
+        "Sep": 3.39,
+        "Oct": 2.3,
+        "Nov": 1.18,
+        "Dec": 0.89
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Sokołów Podlaski",
+      "admin1_code": "78",
+      "location": [
+        52.40677,
+        22.25307
+      ],
+      "monthly": {
+        "Jan": 1.2,
+        "Feb": 1.94,
+        "Mar": 3.24,
+        "Apr": 4.13,
+        "May": 4.68,
+        "Jun": 4.66,
+        "Jul": 4.41,
+        "Aug": 4.25,
+        "Sep": 3.5,
+        "Oct": 2.38,
+        "Nov": 1.17,
+        "Dec": 0.86
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Sokółka",
+      "admin1_code": "81",
+      "location": [
+        53.40715,
+        23.50228
+      ],
+      "monthly": {
+        "Jan": 1.09,
+        "Feb": 1.86,
+        "Mar": 3.23,
+        "Apr": 4.06,
+        "May": 4.62,
+        "Jun": 4.63,
+        "Jul": 4.39,
+        "Aug": 4.2,
+        "Sep": 3.43,
+        "Oct": 2.24,
+        "Nov": 0.97,
+        "Dec": 0.74
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Sochaczew",
+      "admin1_code": "78",
+      "location": [
+        52.22944,
+        20.23838
+      ],
+      "monthly": {
+        "Jan": 1.17,
+        "Feb": 1.97,
+        "Mar": 3.17,
+        "Apr": 4.14,
+        "May": 4.62,
+        "Jun": 4.63,
+        "Jul": 4.32,
+        "Aug": 4.21,
+        "Sep": 3.4,
+        "Oct": 2.3,
+        "Nov": 1.2,
+        "Dec": 0.89
+      },
+      "average": 3
+    },
+    {
+      "name": "Skierniewice",
+      "admin1_code": "74",
+      "location": [
+        51.95485,
+        20.15837
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 1.95,
+        "Mar": 3.12,
+        "Apr": 4.06,
+        "May": 4.55,
+        "Jun": 4.56,
+        "Jul": 4.28,
+        "Aug": 4.17,
+        "Sep": 3.4,
+        "Oct": 2.34,
+        "Nov": 1.23,
+        "Dec": 0.93
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Skarżysko-Kamienna",
+      "admin1_code": "84",
+      "location": [
+        51.11311,
+        20.87162
+      ],
+      "monthly": {
+        "Jan": 1.36,
+        "Feb": 2.07,
+        "Mar": 3.18,
+        "Apr": 3.91,
+        "May": 4.33,
+        "Jun": 4.42,
+        "Jul": 4.25,
+        "Aug": 4.18,
+        "Sep": 3.41,
+        "Oct": 2.5,
+        "Nov": 1.34,
+        "Dec": 1.11
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Siemiatycze",
+      "admin1_code": "81",
+      "location": [
+        52.42719,
+        22.86231
+      ],
+      "monthly": {
+        "Jan": 1.18,
+        "Feb": 1.91,
+        "Mar": 3.24,
+        "Apr": 4.06,
+        "May": 4.63,
+        "Jun": 4.64,
+        "Jul": 4.44,
+        "Aug": 4.24,
+        "Sep": 3.47,
+        "Oct": 2.36,
+        "Nov": 1.14,
+        "Dec": 0.84
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Siedlce",
+      "admin1_code": "78",
+      "location": [
+        52.16772,
+        22.29006
+      ],
+      "monthly": {
+        "Jan": 1.24,
+        "Feb": 1.96,
+        "Mar": 3.26,
+        "Apr": 4.1,
+        "May": 4.63,
+        "Jun": 4.61,
+        "Jul": 4.41,
+        "Aug": 4.24,
+        "Sep": 3.5,
+        "Oct": 2.4,
+        "Nov": 1.19,
+        "Dec": 0.88
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Sanok",
+      "admin1_code": "80",
+      "location": [
+        49.55573,
+        22.2056
+      ],
+      "monthly": {
+        "Jan": 1.53,
+        "Feb": 2.14,
+        "Mar": 3.2,
+        "Apr": 3.9,
+        "May": 4.21,
+        "Jun": 4.33,
+        "Jul": 4.27,
+        "Aug": 4.27,
+        "Sep": 3.42,
+        "Oct": 2.61,
+        "Nov": 1.55,
+        "Dec": 1.25
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Sandomierz",
+      "admin1_code": "84",
+      "location": [
+        50.68265,
+        21.74898
+      ],
+      "monthly": {
+        "Jan": 1.41,
+        "Feb": 2.21,
+        "Mar": 3.34,
+        "Apr": 4.07,
+        "May": 4.55,
+        "Jun": 4.63,
+        "Jul": 4.41,
+        "Aug": 4.32,
+        "Sep": 3.52,
+        "Oct": 2.57,
+        "Nov": 1.41,
+        "Dec": 1.11
+      },
+      "average": 3.13
+    },
+    {
+      "name": "Rzeszów",
+      "admin1_code": "80",
+      "location": [
+        50.04132,
+        21.99901
+      ],
+      "monthly": {
+        "Jan": 1.47,
+        "Feb": 2.15,
+        "Mar": 3.29,
+        "Apr": 4.02,
+        "May": 4.43,
+        "Jun": 4.51,
+        "Jul": 4.37,
+        "Aug": 4.31,
+        "Sep": 3.5,
+        "Oct": 2.62,
+        "Nov": 1.49,
+        "Dec": 1.18
+      },
+      "average": 3.11
+    },
+    {
+      "name": "Ropczyce",
+      "admin1_code": "80",
+      "location": [
+        50.05229,
+        21.60891
+      ],
+      "monthly": {
+        "Jan": 1.47,
+        "Feb": 2.16,
+        "Mar": 3.27,
+        "Apr": 4,
+        "May": 4.41,
+        "Jun": 4.48,
+        "Jul": 4.33,
+        "Aug": 4.3,
+        "Sep": 3.5,
+        "Oct": 2.63,
+        "Nov": 1.51,
+        "Dec": 1.19
+      },
+      "average": 3.1
+    },
+    {
+      "name": "Rembertów",
+      "admin1_code": "78",
+      "location": [
+        52.26059,
+        21.16355
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 1.93,
+        "Mar": 3.1,
+        "Apr": 4,
+        "May": 4.52,
+        "Jun": 4.53,
+        "Jul": 4.33,
+        "Aug": 4.19,
+        "Sep": 3.4,
+        "Oct": 2.29,
+        "Nov": 1.16,
+        "Dec": 0.87
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Rawa Mazowiecka",
+      "admin1_code": "74",
+      "location": [
+        51.76437,
+        20.25493
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.04,
+        "Mar": 3.21,
+        "Apr": 4.07,
+        "May": 4.54,
+        "Jun": 4.53,
+        "Jul": 4.26,
+        "Aug": 4.19,
+        "Sep": 3.46,
+        "Oct": 2.41,
+        "Nov": 1.26,
+        "Dec": 0.97
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Radzyń Podlaski",
+      "admin1_code": "75",
+      "location": [
+        51.78333,
+        22.61667
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 1.99,
+        "Mar": 3.26,
+        "Apr": 4.09,
+        "May": 4.66,
+        "Jun": 4.63,
+        "Jul": 4.39,
+        "Aug": 4.29,
+        "Sep": 3.53,
+        "Oct": 2.47,
+        "Nov": 1.24,
+        "Dec": 0.93
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Radom",
+      "admin1_code": "78",
+      "location": [
+        51.40253,
+        21.14714
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.05,
+        "Mar": 3.23,
+        "Apr": 4.03,
+        "May": 4.53,
+        "Jun": 4.58,
+        "Jul": 4.35,
+        "Aug": 4.24,
+        "Sep": 3.48,
+        "Oct": 2.46,
+        "Nov": 1.28,
+        "Dec": 1.01
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Pułtusk",
+      "admin1_code": "78",
+      "location": [
+        52.7025,
+        21.08276
+      ],
+      "monthly": {
+        "Jan": 1.19,
+        "Feb": 1.97,
+        "Mar": 3.26,
+        "Apr": 4.14,
+        "May": 4.66,
+        "Jun": 4.64,
+        "Jul": 4.35,
+        "Aug": 4.24,
+        "Sep": 3.47,
+        "Oct": 2.33,
+        "Nov": 1.15,
+        "Dec": 0.82
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Puławy",
+      "admin1_code": "75",
+      "location": [
+        51.41655,
+        21.96939
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2,
+        "Mar": 3.21,
+        "Apr": 4.03,
+        "May": 4.56,
+        "Jun": 4.59,
+        "Jul": 4.37,
+        "Aug": 4.24,
+        "Sep": 3.47,
+        "Oct": 2.45,
+        "Nov": 1.29,
+        "Dec": 0.97
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Przeworsk",
+      "admin1_code": "80",
+      "location": [
+        50.05912,
+        22.49408
+      ],
+      "monthly": {
+        "Jan": 1.45,
+        "Feb": 2.15,
+        "Mar": 3.29,
+        "Apr": 4.04,
+        "May": 4.47,
+        "Jun": 4.53,
+        "Jul": 4.38,
+        "Aug": 4.32,
+        "Sep": 3.49,
+        "Oct": 2.61,
+        "Nov": 1.44,
+        "Dec": 1.15
+      },
+      "average": 3.11
+    },
+    {
+      "name": "Przemyśl",
+      "admin1_code": "80",
+      "location": [
+        49.78498,
+        22.76728
+      ],
+      "monthly": {
+        "Jan": 1.51,
+        "Feb": 2.22,
+        "Mar": 3.24,
+        "Apr": 3.94,
+        "May": 4.3,
+        "Jun": 4.41,
+        "Jul": 4.33,
+        "Aug": 4.28,
+        "Sep": 3.46,
+        "Oct": 2.61,
+        "Nov": 1.5,
+        "Dec": 1.22
+      },
+      "average": 3.09
+    },
+    {
+      "name": "Przasnysz",
+      "admin1_code": "78",
+      "location": [
+        53.01907,
+        20.88029
+      ],
+      "monthly": {
+        "Jan": 1.15,
+        "Feb": 1.97,
+        "Mar": 3.23,
+        "Apr": 4.21,
+        "May": 4.71,
+        "Jun": 4.7,
+        "Jul": 4.35,
+        "Aug": 4.21,
+        "Sep": 3.46,
+        "Oct": 2.29,
+        "Nov": 1.12,
+        "Dec": 0.8
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Pruszków",
+      "admin1_code": "78",
+      "location": [
+        52.17072,
+        20.81214
+      ],
+      "monthly": {
+        "Jan": 1.19,
+        "Feb": 1.91,
+        "Mar": 3.15,
+        "Apr": 4.07,
+        "May": 4.59,
+        "Jun": 4.63,
+        "Jul": 4.4,
+        "Aug": 4.24,
+        "Sep": 3.42,
+        "Oct": 2.32,
+        "Nov": 1.18,
+        "Dec": 0.89
+      },
+      "average": 3
+    },
+    {
+      "name": "Płońsk",
+      "admin1_code": "78",
+      "location": [
+        52.62348,
+        20.37552
+      ],
+      "monthly": {
+        "Jan": 1.19,
+        "Feb": 1.99,
+        "Mar": 3.24,
+        "Apr": 4.22,
+        "May": 4.68,
+        "Jun": 4.66,
+        "Jul": 4.32,
+        "Aug": 4.22,
+        "Sep": 3.45,
+        "Oct": 2.31,
+        "Nov": 1.16,
+        "Dec": 0.86
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Pisz",
+      "admin1_code": "85",
+      "location": [
+        53.62744,
+        21.81253
+      ],
+      "monthly": {
+        "Jan": 1.06,
+        "Feb": 1.89,
+        "Mar": 3.17,
+        "Apr": 4.08,
+        "May": 4.55,
+        "Jun": 4.51,
+        "Jul": 4.32,
+        "Aug": 4.1,
+        "Sep": 3.39,
+        "Oct": 2.18,
+        "Nov": 1,
+        "Dec": 0.74
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Pionki",
+      "admin1_code": "78",
+      "location": [
+        51.47604,
+        21.44995
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 1.95,
+        "Mar": 3.11,
+        "Apr": 3.96,
+        "May": 4.46,
+        "Jun": 4.52,
+        "Jul": 4.3,
+        "Aug": 4.2,
+        "Sep": 3.44,
+        "Oct": 2.42,
+        "Nov": 1.26,
+        "Dec": 0.98
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Piastów",
+      "admin1_code": "78",
+      "location": [
+        52.18435,
+        20.83952
+      ],
+      "monthly": {
+        "Jan": 1.19,
+        "Feb": 1.92,
+        "Mar": 3.15,
+        "Apr": 4.07,
+        "May": 4.59,
+        "Jun": 4.63,
+        "Jul": 4.4,
+        "Aug": 4.24,
+        "Sep": 3.42,
+        "Oct": 2.31,
+        "Nov": 1.18,
+        "Dec": 0.88
+      },
+      "average": 3
+    },
+    {
+      "name": "Piaseczno",
+      "admin1_code": "78",
+      "location": [
+        52.0814,
+        21.02397
+      ],
+      "monthly": {
+        "Jan": 1.23,
+        "Feb": 1.96,
+        "Mar": 3.17,
+        "Apr": 4.08,
+        "May": 4.58,
+        "Jun": 4.61,
+        "Jul": 4.41,
+        "Aug": 4.25,
+        "Sep": 3.45,
+        "Oct": 2.35,
+        "Nov": 1.2,
+        "Dec": 0.9
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Otwock",
+      "admin1_code": "78",
+      "location": [
+        52.10577,
+        21.26129
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 1.9,
+        "Mar": 3.08,
+        "Apr": 3.99,
+        "May": 4.53,
+        "Jun": 4.55,
+        "Jul": 4.35,
+        "Aug": 4.18,
+        "Sep": 3.39,
+        "Oct": 2.3,
+        "Nov": 1.15,
+        "Dec": 0.86
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Ostrów Mazowiecka",
+      "admin1_code": "78",
+      "location": [
+        52.80245,
+        21.89507
+      ],
+      "monthly": {
+        "Jan": 1.17,
+        "Feb": 1.94,
+        "Mar": 3.18,
+        "Apr": 4.05,
+        "May": 4.55,
+        "Jun": 4.55,
+        "Jul": 4.35,
+        "Aug": 4.16,
+        "Sep": 3.44,
+        "Oct": 2.3,
+        "Nov": 1.1,
+        "Dec": 0.81
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Ostrowiec Świętokrzyski",
+      "admin1_code": "84",
+      "location": [
+        50.92936,
+        21.38525
+      ],
+      "monthly": {
+        "Jan": 1.36,
+        "Feb": 2.12,
+        "Mar": 3.26,
+        "Apr": 4.01,
+        "May": 4.49,
+        "Jun": 4.56,
+        "Jul": 4.31,
+        "Aug": 4.21,
+        "Sep": 3.48,
+        "Oct": 2.56,
+        "Nov": 1.38,
+        "Dec": 1.07
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Ostrołęka",
+      "admin1_code": "78",
+      "location": [
+        53.08621,
+        21.57566
+      ],
+      "monthly": {
+        "Jan": 1.12,
+        "Feb": 1.93,
+        "Mar": 3.18,
+        "Apr": 4.07,
+        "May": 4.55,
+        "Jun": 4.51,
+        "Jul": 4.31,
+        "Aug": 4.14,
+        "Sep": 3.4,
+        "Oct": 2.24,
+        "Nov": 1.06,
+        "Dec": 0.77
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Opoczno",
+      "admin1_code": "74",
+      "location": [
+        51.37569,
+        20.27827
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.06,
+        "Mar": 3.22,
+        "Apr": 4.06,
+        "May": 4.5,
+        "Jun": 4.52,
+        "Jul": 4.3,
+        "Aug": 4.22,
+        "Sep": 3.47,
+        "Oct": 2.44,
+        "Nov": 1.29,
+        "Dec": 1.03
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Olsztyn",
+      "admin1_code": "85",
+      "location": [
+        53.78376,
+        20.49272
+      ],
+      "monthly": {
+        "Jan": 1.06,
+        "Feb": 1.9,
+        "Mar": 3.12,
+        "Apr": 4.05,
+        "May": 4.53,
+        "Jun": 4.45,
+        "Jul": 4.23,
+        "Aug": 4.06,
+        "Sep": 3.34,
+        "Oct": 2.18,
+        "Nov": 1.02,
+        "Dec": 0.76
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Olecko",
+      "admin1_code": "85",
+      "location": [
+        54.03374,
+        22.50704
+      ],
+      "monthly": {
+        "Jan": 1.06,
+        "Feb": 1.85,
+        "Mar": 3.19,
+        "Apr": 4.16,
+        "May": 4.67,
+        "Jun": 4.64,
+        "Jul": 4.41,
+        "Aug": 4.15,
+        "Sep": 3.41,
+        "Oct": 2.15,
+        "Nov": 0.93,
+        "Dec": 0.68
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Ochota",
+      "admin1_code": "78",
+      "location": [
+        52.22096,
+        20.98526
+      ],
+      "monthly": {
+        "Jan": 1.2,
+        "Feb": 1.93,
+        "Mar": 3.11,
+        "Apr": 4.03,
+        "May": 4.53,
+        "Jun": 4.54,
+        "Jul": 4.35,
+        "Aug": 4.2,
+        "Sep": 3.4,
+        "Oct": 2.3,
+        "Nov": 1.19,
+        "Dec": 0.89
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Nowy Targ",
+      "admin1_code": "77",
+      "location": [
+        49.47783,
+        20.03228
+      ],
+      "monthly": {
+        "Jan": 1.77,
+        "Feb": 2.41,
+        "Mar": 3.44,
+        "Apr": 3.97,
+        "May": 4.12,
+        "Jun": 4.18,
+        "Jul": 4.15,
+        "Aug": 4.18,
+        "Sep": 3.45,
+        "Oct": 2.77,
+        "Nov": 1.78,
+        "Dec": 1.53
+      },
+      "average": 3.15
+    },
+    {
+      "name": "Nowy Sącz",
+      "admin1_code": "77",
+      "location": [
+        49.62177,
+        20.69705
+      ],
+      "monthly": {
+        "Jan": 1.71,
+        "Feb": 2.36,
+        "Mar": 3.32,
+        "Apr": 3.9,
+        "May": 4.17,
+        "Jun": 4.24,
+        "Jul": 4.16,
+        "Aug": 4.18,
+        "Sep": 3.43,
+        "Oct": 2.71,
+        "Nov": 1.73,
+        "Dec": 1.43
+      },
+      "average": 3.11
+    },
+    {
+      "name": "Nowy Dwór Mazowiecki",
+      "admin1_code": "78",
+      "location": [
+        52.43022,
+        20.71652
+      ],
+      "monthly": {
+        "Jan": 1.17,
+        "Feb": 1.94,
+        "Mar": 3.18,
+        "Apr": 4.09,
+        "May": 4.57,
+        "Jun": 4.59,
+        "Jul": 4.32,
+        "Aug": 4.22,
+        "Sep": 3.42,
+        "Oct": 2.29,
+        "Nov": 1.15,
+        "Dec": 0.87
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Nisko",
+      "admin1_code": "80",
+      "location": [
+        50.51987,
+        22.13968
+      ],
+      "monthly": {
+        "Jan": 1.39,
+        "Feb": 2.12,
+        "Mar": 3.2,
+        "Apr": 3.92,
+        "May": 4.33,
+        "Jun": 4.44,
+        "Jul": 4.28,
+        "Aug": 4.22,
+        "Sep": 3.44,
+        "Oct": 2.55,
+        "Nov": 1.38,
+        "Dec": 1.11
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Mrągowo",
+      "admin1_code": "85",
+      "location": [
+        53.86437,
+        21.30507
+      ],
+      "monthly": {
+        "Jan": 1.04,
+        "Feb": 1.93,
+        "Mar": 3.19,
+        "Apr": 4.11,
+        "May": 4.59,
+        "Jun": 4.5,
+        "Jul": 4.34,
+        "Aug": 4.09,
+        "Sep": 3.38,
+        "Oct": 2.18,
+        "Nov": 1.02,
+        "Dec": 0.73
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Mokotów",
+      "admin1_code": "78",
+      "location": [
+        52.1934,
+        21.03487
+      ],
+      "monthly": {
+        "Jan": 1.2,
+        "Feb": 1.94,
+        "Mar": 3.13,
+        "Apr": 4.05,
+        "May": 4.55,
+        "Jun": 4.56,
+        "Jul": 4.37,
+        "Aug": 4.22,
+        "Sep": 3.41,
+        "Oct": 2.32,
+        "Nov": 1.2,
+        "Dec": 0.89
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Mława",
+      "admin1_code": "78",
+      "location": [
+        53.11278,
+        20.3841
+      ],
+      "monthly": {
+        "Jan": 1.12,
+        "Feb": 1.93,
+        "Mar": 3.17,
+        "Apr": 4.16,
+        "May": 4.64,
+        "Jun": 4.58,
+        "Jul": 4.3,
+        "Aug": 4.16,
+        "Sep": 3.38,
+        "Oct": 2.24,
+        "Nov": 1.08,
+        "Dec": 0.75
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Mińsk Mazowiecki",
+      "admin1_code": "78",
+      "location": [
+        52.17935,
+        21.57251
+      ],
+      "monthly": {
+        "Jan": 1.2,
+        "Feb": 1.9,
+        "Mar": 3.15,
+        "Apr": 4.03,
+        "May": 4.57,
+        "Jun": 4.57,
+        "Jul": 4.38,
+        "Aug": 4.21,
+        "Sep": 3.44,
+        "Oct": 2.33,
+        "Nov": 1.15,
+        "Dec": 0.85
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Milanówek",
+      "admin1_code": "78",
+      "location": [
+        52.11879,
+        20.67155
+      ],
+      "monthly": {
+        "Jan": 1.2,
+        "Feb": 1.92,
+        "Mar": 3.17,
+        "Apr": 4.09,
+        "May": 4.59,
+        "Jun": 4.64,
+        "Jul": 4.38,
+        "Aug": 4.24,
+        "Sep": 3.42,
+        "Oct": 2.33,
+        "Nov": 1.2,
+        "Dec": 0.9
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Mielec",
+      "admin1_code": "80",
+      "location": [
+        50.28709,
+        21.4239
+      ],
+      "monthly": {
+        "Jan": 1.48,
+        "Feb": 2.23,
+        "Mar": 3.34,
+        "Apr": 4.04,
+        "May": 4.45,
+        "Jun": 4.53,
+        "Jul": 4.34,
+        "Aug": 4.31,
+        "Sep": 3.53,
+        "Oct": 2.63,
+        "Nov": 1.49,
+        "Dec": 1.2
+      },
+      "average": 3.13
+    },
+    {
+      "name": "Międzyrzec Podlaski",
+      "admin1_code": "75",
+      "location": [
+        51.9864,
+        22.78248
+      ],
+      "monthly": {
+        "Jan": 1.24,
+        "Feb": 1.96,
+        "Mar": 3.27,
+        "Apr": 4.09,
+        "May": 4.67,
+        "Jun": 4.65,
+        "Jul": 4.43,
+        "Aug": 4.29,
+        "Sep": 3.49,
+        "Oct": 2.43,
+        "Nov": 1.19,
+        "Dec": 0.89
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Marki",
+      "admin1_code": "78",
+      "location": [
+        52.32065,
+        21.10474
+      ],
+      "monthly": {
+        "Jan": 1.19,
+        "Feb": 1.9,
+        "Mar": 3.12,
+        "Apr": 4.02,
+        "May": 4.52,
+        "Jun": 4.53,
+        "Jul": 4.33,
+        "Aug": 4.2,
+        "Sep": 3.41,
+        "Oct": 2.28,
+        "Nov": 1.16,
+        "Dec": 0.87
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Łuków",
+      "admin1_code": "75",
+      "location": [
+        51.929,
+        22.37956
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2,
+        "Mar": 3.26,
+        "Apr": 4.12,
+        "May": 4.65,
+        "Jun": 4.61,
+        "Jul": 4.4,
+        "Aug": 4.26,
+        "Sep": 3.51,
+        "Oct": 2.44,
+        "Nov": 1.22,
+        "Dec": 0.91
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Lublin",
+      "admin1_code": "75",
+      "location": [
+        51.25058,
+        22.57009
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.02,
+        "Mar": 3.27,
+        "Apr": 4.08,
+        "May": 4.61,
+        "Jun": 4.68,
+        "Jul": 4.43,
+        "Aug": 4.31,
+        "Sep": 3.5,
+        "Oct": 2.55,
+        "Nov": 1.32,
+        "Dec": 0.96
+      },
+      "average": 3.09
+    },
+    {
+      "name": "Lubartów",
+      "admin1_code": "75",
+      "location": [
+        51.46026,
+        22.60952
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.01,
+        "Mar": 3.26,
+        "Apr": 4.07,
+        "May": 4.61,
+        "Jun": 4.65,
+        "Jul": 4.41,
+        "Aug": 4.29,
+        "Sep": 3.5,
+        "Oct": 2.49,
+        "Nov": 1.27,
+        "Dec": 0.94
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Łomża",
+      "admin1_code": "81",
+      "location": [
+        53.17806,
+        22.05935
+      ],
+      "monthly": {
+        "Jan": 1.12,
+        "Feb": 1.9,
+        "Mar": 3.2,
+        "Apr": 4.14,
+        "May": 4.63,
+        "Jun": 4.62,
+        "Jul": 4.39,
+        "Aug": 4.21,
+        "Sep": 3.46,
+        "Oct": 2.28,
+        "Nov": 1.06,
+        "Dec": 0.76
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Łomianki",
+      "admin1_code": "78",
+      "location": [
+        52.33413,
+        20.88602
+      ],
+      "monthly": {
+        "Jan": 1.18,
+        "Feb": 1.91,
+        "Mar": 3.1,
+        "Apr": 4.01,
+        "May": 4.49,
+        "Jun": 4.52,
+        "Jul": 4.32,
+        "Aug": 4.19,
+        "Sep": 3.39,
+        "Oct": 2.27,
+        "Nov": 1.16,
+        "Dec": 0.87
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Lidzbark Warmiński",
+      "admin1_code": "85",
+      "location": [
+        54.12588,
+        20.57954
+      ],
+      "monthly": {
+        "Jan": 1.06,
+        "Feb": 1.93,
+        "Mar": 3.16,
+        "Apr": 4.12,
+        "May": 4.62,
+        "Jun": 4.49,
+        "Jul": 4.27,
+        "Aug": 4.07,
+        "Sep": 3.38,
+        "Oct": 2.21,
+        "Nov": 1.02,
+        "Dec": 0.73
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Legionowo",
+      "admin1_code": "78",
+      "location": [
+        52.40149,
+        20.92664
+      ],
+      "monthly": {
+        "Jan": 1.16,
+        "Feb": 1.93,
+        "Mar": 3.12,
+        "Apr": 4.03,
+        "May": 4.51,
+        "Jun": 4.53,
+        "Jul": 4.3,
+        "Aug": 4.19,
+        "Sep": 3.4,
+        "Oct": 2.26,
+        "Nov": 1.15,
+        "Dec": 0.85
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Łęczna",
+      "admin1_code": "75",
+      "location": [
+        51.30121,
+        22.88135
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.03,
+        "Mar": 3.33,
+        "Apr": 4.12,
+        "May": 4.64,
+        "Jun": 4.7,
+        "Jul": 4.42,
+        "Aug": 4.31,
+        "Sep": 3.53,
+        "Oct": 2.56,
+        "Nov": 1.32,
+        "Dec": 0.97
+      },
+      "average": 3.1
+    },
+    {
+      "name": "Łapy",
+      "admin1_code": "81",
+      "location": [
+        52.9911,
+        22.88422
+      ],
+      "monthly": {
+        "Jan": 1.12,
+        "Feb": 1.89,
+        "Mar": 3.24,
+        "Apr": 4.08,
+        "May": 4.66,
+        "Jun": 4.65,
+        "Jul": 4.44,
+        "Aug": 4.24,
+        "Sep": 3.47,
+        "Oct": 2.3,
+        "Nov": 1.06,
+        "Dec": 0.79
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Łańcut",
+      "admin1_code": "80",
+      "location": [
+        50.06871,
+        22.22912
+      ],
+      "monthly": {
+        "Jan": 1.46,
+        "Feb": 2.11,
+        "Mar": 3.26,
+        "Apr": 3.99,
+        "May": 4.41,
+        "Jun": 4.49,
+        "Jul": 4.36,
+        "Aug": 4.3,
+        "Sep": 3.47,
+        "Oct": 2.59,
+        "Nov": 1.45,
+        "Dec": 1.15
+      },
+      "average": 3.09
+    },
+    {
+      "name": "Krosno",
+      "admin1_code": "80",
+      "location": [
+        49.68866,
+        21.77058
+      ],
+      "monthly": {
+        "Jan": 1.48,
+        "Feb": 2.18,
+        "Mar": 3.32,
+        "Apr": 3.99,
+        "May": 4.33,
+        "Jun": 4.41,
+        "Jul": 4.32,
+        "Aug": 4.32,
+        "Sep": 3.47,
+        "Oct": 2.65,
+        "Nov": 1.54,
+        "Dec": 1.21
+      },
+      "average": 3.1
+    },
+    {
+      "name": "Krasnystaw",
+      "admin1_code": "75",
+      "location": [
+        50.98464,
+        23.1742
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.04,
+        "Mar": 3.28,
+        "Apr": 4.09,
+        "May": 4.59,
+        "Jun": 4.68,
+        "Jul": 4.4,
+        "Aug": 4.31,
+        "Sep": 3.48,
+        "Oct": 2.59,
+        "Nov": 1.34,
+        "Dec": 0.99
+      },
+      "average": 3.09
+    },
+    {
+      "name": "Kraśnik",
+      "admin1_code": "75",
+      "location": [
+        50.9236,
+        22.22706
+      ],
+      "monthly": {
+        "Jan": 1.37,
+        "Feb": 2.1,
+        "Mar": 3.31,
+        "Apr": 4.07,
+        "May": 4.56,
+        "Jun": 4.62,
+        "Jul": 4.35,
+        "Aug": 4.3,
+        "Sep": 3.51,
+        "Oct": 2.6,
+        "Nov": 1.38,
+        "Dec": 1.02
+      },
+      "average": 3.1
+    },
+    {
+      "name": "Kozienice",
+      "admin1_code": "78",
+      "location": [
+        51.58294,
+        21.54779
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 1.99,
+        "Mar": 3.19,
+        "Apr": 4.01,
+        "May": 4.51,
+        "Jun": 4.54,
+        "Jul": 4.36,
+        "Aug": 4.23,
+        "Sep": 3.46,
+        "Oct": 2.42,
+        "Nov": 1.27,
+        "Dec": 0.95
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Konstancin-Jeziorna",
+      "admin1_code": "78",
+      "location": [
+        52.0938,
+        21.11761
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 1.94,
+        "Mar": 3.14,
+        "Apr": 4.05,
+        "May": 4.57,
+        "Jun": 4.6,
+        "Jul": 4.4,
+        "Aug": 4.23,
+        "Sep": 3.44,
+        "Oct": 2.34,
+        "Nov": 1.18,
+        "Dec": 0.87
+      },
+      "average": 3
+    },
+    {
+      "name": "Końskie",
+      "admin1_code": "84",
+      "location": [
+        51.19166,
+        20.40607
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.05,
+        "Mar": 3.19,
+        "Apr": 3.97,
+        "May": 4.38,
+        "Jun": 4.42,
+        "Jul": 4.25,
+        "Aug": 4.19,
+        "Sep": 3.42,
+        "Oct": 2.44,
+        "Nov": 1.33,
+        "Dec": 1.07
+      },
+      "average": 3
+    },
+    {
+      "name": "Kobyłka",
+      "admin1_code": "78",
+      "location": [
+        52.33953,
+        21.19589
+      ],
+      "monthly": {
+        "Jan": 1.19,
+        "Feb": 1.9,
+        "Mar": 3.12,
+        "Apr": 4.01,
+        "May": 4.52,
+        "Jun": 4.53,
+        "Jul": 4.33,
+        "Aug": 4.2,
+        "Sep": 3.41,
+        "Oct": 2.29,
+        "Nov": 1.16,
+        "Dec": 0.85
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Kielce",
+      "admin1_code": "84",
+      "location": [
+        50.87033,
+        20.62752
+      ],
+      "monthly": {
+        "Jan": 1.36,
+        "Feb": 2.09,
+        "Mar": 3.18,
+        "Apr": 3.94,
+        "May": 4.37,
+        "Jun": 4.43,
+        "Jul": 4.25,
+        "Aug": 4.18,
+        "Sep": 3.43,
+        "Oct": 2.48,
+        "Nov": 1.34,
+        "Dec": 1.1
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Kętrzyn",
+      "admin1_code": "85",
+      "location": [
+        54.07676,
+        21.37527
+      ],
+      "monthly": {
+        "Jan": 1.05,
+        "Feb": 1.95,
+        "Mar": 3.19,
+        "Apr": 4.16,
+        "May": 4.68,
+        "Jun": 4.56,
+        "Jul": 4.33,
+        "Aug": 4.11,
+        "Sep": 3.45,
+        "Oct": 2.26,
+        "Nov": 1.06,
+        "Dec": 0.73
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Kabaty",
+      "admin1_code": "78",
+      "location": [
+        52.13012,
+        21.08148
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 1.94,
+        "Mar": 3.14,
+        "Apr": 4.07,
+        "May": 4.57,
+        "Jun": 4.59,
+        "Jul": 4.4,
+        "Aug": 4.23,
+        "Sep": 3.44,
+        "Oct": 2.34,
+        "Nov": 1.2,
+        "Dec": 0.89
+      },
+      "average": 3
+    },
+    {
+      "name": "Józefów",
+      "admin1_code": "78",
+      "location": [
+        52.13707,
+        21.23589
+      ],
+      "monthly": {
+        "Jan": 1.2,
+        "Feb": 1.9,
+        "Mar": 3.08,
+        "Apr": 3.99,
+        "May": 4.52,
+        "Jun": 4.54,
+        "Jul": 4.35,
+        "Aug": 4.17,
+        "Sep": 3.39,
+        "Oct": 2.29,
+        "Nov": 1.14,
+        "Dec": 0.86
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Jędrzejów",
+      "admin1_code": "84",
+      "location": [
+        50.63945,
+        20.30454
+      ],
+      "monthly": {
+        "Jan": 1.4,
+        "Feb": 2.12,
+        "Mar": 3.3,
+        "Apr": 4.06,
+        "May": 4.47,
+        "Jun": 4.48,
+        "Jul": 4.24,
+        "Aug": 4.19,
+        "Sep": 3.5,
+        "Oct": 2.56,
+        "Nov": 1.39,
+        "Dec": 1.14
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Jasło",
+      "admin1_code": "80",
+      "location": [
+        49.74506,
+        21.47252
+      ],
+      "monthly": {
+        "Jan": 1.57,
+        "Feb": 2.24,
+        "Mar": 3.32,
+        "Apr": 3.95,
+        "May": 4.32,
+        "Jun": 4.39,
+        "Jul": 4.3,
+        "Aug": 4.27,
+        "Sep": 3.47,
+        "Oct": 2.65,
+        "Nov": 1.58,
+        "Dec": 1.27
+      },
+      "average": 3.11
+    },
+    {
+      "name": "Jarosław",
+      "admin1_code": "80",
+      "location": [
+        50.01623,
+        22.67776
+      ],
+      "monthly": {
+        "Jan": 1.45,
+        "Feb": 2.15,
+        "Mar": 3.27,
+        "Apr": 4.05,
+        "May": 4.46,
+        "Jun": 4.55,
+        "Jul": 4.37,
+        "Aug": 4.33,
+        "Sep": 3.5,
+        "Oct": 2.61,
+        "Nov": 1.44,
+        "Dec": 1.15
+      },
+      "average": 3.11
+    },
+    {
+      "name": "Hrubieszów",
+      "admin1_code": "75",
+      "location": [
+        50.80502,
+        23.89251
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.02,
+        "Mar": 3.29,
+        "Apr": 4.09,
+        "May": 4.6,
+        "Jun": 4.72,
+        "Jul": 4.45,
+        "Aug": 4.38,
+        "Sep": 3.49,
+        "Oct": 2.6,
+        "Nov": 1.32,
+        "Dec": 0.95
+      },
+      "average": 3.1
+    },
+    {
+      "name": "Hajnówka",
+      "admin1_code": "81",
+      "location": [
+        52.74328,
+        23.58122
+      ],
+      "monthly": {
+        "Jan": 1.09,
+        "Feb": 1.84,
+        "Mar": 3.24,
+        "Apr": 4.04,
+        "May": 4.62,
+        "Jun": 4.68,
+        "Jul": 4.42,
+        "Aug": 4.24,
+        "Sep": 3.45,
+        "Oct": 2.31,
+        "Nov": 1.06,
+        "Dec": 0.79
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Grodzisk Mazowiecki",
+      "admin1_code": "78",
+      "location": [
+        52.10387,
+        20.6337
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 1.93,
+        "Mar": 3.16,
+        "Apr": 4.09,
+        "May": 4.58,
+        "Jun": 4.63,
+        "Jul": 4.38,
+        "Aug": 4.24,
+        "Sep": 3.41,
+        "Oct": 2.34,
+        "Nov": 1.2,
+        "Dec": 0.91
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Grajewo",
+      "admin1_code": "81",
+      "location": [
+        53.64728,
+        22.45537
+      ],
+      "monthly": {
+        "Jan": 1.06,
+        "Feb": 1.89,
+        "Mar": 3.22,
+        "Apr": 4.15,
+        "May": 4.64,
+        "Jun": 4.63,
+        "Jul": 4.41,
+        "Aug": 4.18,
+        "Sep": 3.42,
+        "Oct": 2.23,
+        "Nov": 0.99,
+        "Dec": 0.74
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Gorlice",
+      "admin1_code": "77",
+      "location": [
+        49.65563,
+        21.16035
+      ],
+      "monthly": {
+        "Jan": 1.63,
+        "Feb": 2.31,
+        "Mar": 3.33,
+        "Apr": 3.93,
+        "May": 4.22,
+        "Jun": 4.28,
+        "Jul": 4.21,
+        "Aug": 4.21,
+        "Sep": 3.47,
+        "Oct": 2.71,
+        "Nov": 1.68,
+        "Dec": 1.37
+      },
+      "average": 3.11
+    },
+    {
+      "name": "Giżycko",
+      "admin1_code": "85",
+      "location": [
+        54.03811,
+        21.76441
+      ],
+      "monthly": {
+        "Jan": 1.02,
+        "Feb": 1.88,
+        "Mar": 3.17,
+        "Apr": 4.15,
+        "May": 4.7,
+        "Jun": 4.6,
+        "Jul": 4.41,
+        "Aug": 4.13,
+        "Sep": 3.38,
+        "Oct": 2.16,
+        "Nov": 0.98,
+        "Dec": 0.68
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Gierłoż",
+      "admin1_code": "85",
+      "location": [
+        54.08134,
+        21.49551
+      ],
+      "monthly": {
+        "Jan": 1.05,
+        "Feb": 1.94,
+        "Mar": 3.17,
+        "Apr": 4.12,
+        "May": 4.67,
+        "Jun": 4.55,
+        "Jul": 4.32,
+        "Aug": 4.07,
+        "Sep": 3.4,
+        "Oct": 2.21,
+        "Nov": 1.02,
+        "Dec": 0.72
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Garwolin",
+      "admin1_code": "78",
+      "location": [
+        51.89747,
+        21.61466
+      ],
+      "monthly": {
+        "Jan": 1.24,
+        "Feb": 1.98,
+        "Mar": 3.18,
+        "Apr": 4.06,
+        "May": 4.57,
+        "Jun": 4.57,
+        "Jul": 4.37,
+        "Aug": 4.23,
+        "Sep": 3.47,
+        "Oct": 2.39,
+        "Nov": 1.22,
+        "Dec": 0.9
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Ełk",
+      "admin1_code": "85",
+      "location": [
+        53.82824,
+        22.36469
+      ],
+      "monthly": {
+        "Jan": 1.02,
+        "Feb": 1.84,
+        "Mar": 3.17,
+        "Apr": 4.12,
+        "May": 4.64,
+        "Jun": 4.62,
+        "Jul": 4.43,
+        "Aug": 4.17,
+        "Sep": 3.39,
+        "Oct": 2.17,
+        "Nov": 0.96,
+        "Dec": 0.71
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Działdowo",
+      "admin1_code": "85",
+      "location": [
+        53.23958,
+        20.17004
+      ],
+      "monthly": {
+        "Jan": 1.11,
+        "Feb": 1.95,
+        "Mar": 3.2,
+        "Apr": 4.17,
+        "May": 4.65,
+        "Jun": 4.59,
+        "Jul": 4.28,
+        "Aug": 4.16,
+        "Sep": 3.41,
+        "Oct": 2.27,
+        "Nov": 1.05,
+        "Dec": 0.74
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Dęblin",
+      "admin1_code": "75",
+      "location": [
+        51.55912,
+        21.84829
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.01,
+        "Mar": 3.2,
+        "Apr": 4.09,
+        "May": 4.6,
+        "Jun": 4.62,
+        "Jul": 4.41,
+        "Aug": 4.27,
+        "Sep": 3.49,
+        "Oct": 2.44,
+        "Nov": 1.27,
+        "Dec": 0.93
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Dębica",
+      "admin1_code": "80",
+      "location": [
+        50.05146,
+        21.41141
+      ],
+      "monthly": {
+        "Jan": 1.5,
+        "Feb": 2.18,
+        "Mar": 3.3,
+        "Apr": 4.01,
+        "May": 4.39,
+        "Jun": 4.45,
+        "Jul": 4.31,
+        "Aug": 4.29,
+        "Sep": 3.5,
+        "Oct": 2.64,
+        "Nov": 1.53,
+        "Dec": 1.23
+      },
+      "average": 3.11
+    },
+    {
+      "name": "Ciechanów",
+      "admin1_code": "78",
+      "location": [
+        52.88141,
+        20.61996
+      ],
+      "monthly": {
+        "Jan": 1.15,
+        "Feb": 1.95,
+        "Mar": 3.22,
+        "Apr": 4.16,
+        "May": 4.64,
+        "Jun": 4.61,
+        "Jul": 4.31,
+        "Aug": 4.2,
+        "Sep": 3.45,
+        "Oct": 2.28,
+        "Nov": 1.11,
+        "Dec": 0.8
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Chełm",
+      "admin1_code": "75",
+      "location": [
+        51.14312,
+        23.4716
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 1.98,
+        "Mar": 3.26,
+        "Apr": 4.07,
+        "May": 4.57,
+        "Jun": 4.68,
+        "Jul": 4.43,
+        "Aug": 4.33,
+        "Sep": 3.45,
+        "Oct": 2.56,
+        "Nov": 1.28,
+        "Dec": 0.96
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Busko-Zdrój",
+      "admin1_code": "84",
+      "location": [
+        50.47078,
+        20.71884
+      ],
+      "monthly": {
+        "Jan": 1.44,
+        "Feb": 2.21,
+        "Mar": 3.34,
+        "Apr": 4.05,
+        "May": 4.48,
+        "Jun": 4.52,
+        "Jul": 4.33,
+        "Aug": 4.26,
+        "Sep": 3.52,
+        "Oct": 2.58,
+        "Nov": 1.42,
+        "Dec": 1.18
+      },
+      "average": 3.11
+    },
+    {
+      "name": "Brzesko",
+      "admin1_code": "77",
+      "location": [
+        49.96911,
+        20.60606
+      ],
+      "monthly": {
+        "Jan": 1.53,
+        "Feb": 2.23,
+        "Mar": 3.29,
+        "Apr": 3.95,
+        "May": 4.31,
+        "Jun": 4.37,
+        "Jul": 4.3,
+        "Aug": 4.24,
+        "Sep": 3.45,
+        "Oct": 2.61,
+        "Nov": 1.53,
+        "Dec": 1.28
+      },
+      "average": 3.09
+    },
+    {
+      "name": "Bochnia",
+      "admin1_code": "77",
+      "location": [
+        49.96905,
+        20.43028
+      ],
+      "monthly": {
+        "Jan": 1.51,
+        "Feb": 2.21,
+        "Mar": 3.26,
+        "Apr": 3.93,
+        "May": 4.27,
+        "Jun": 4.34,
+        "Jul": 4.27,
+        "Aug": 4.2,
+        "Sep": 3.42,
+        "Oct": 2.57,
+        "Nov": 1.5,
+        "Dec": 1.25
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Biłgoraj",
+      "admin1_code": "75",
+      "location": [
+        50.54114,
+        22.72204
+      ],
+      "monthly": {
+        "Jan": 1.37,
+        "Feb": 2.1,
+        "Mar": 3.18,
+        "Apr": 3.96,
+        "May": 4.37,
+        "Jun": 4.46,
+        "Jul": 4.3,
+        "Aug": 4.25,
+        "Sep": 3.4,
+        "Oct": 2.54,
+        "Nov": 1.35,
+        "Dec": 1.06
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Bieńczyce",
+      "admin1_code": "77",
+      "location": [
+        50.08809,
+        20.02786
+      ],
+      "monthly": {
+        "Jan": 1.51,
+        "Feb": 2.28,
+        "Mar": 3.3,
+        "Apr": 3.99,
+        "May": 4.34,
+        "Jun": 4.38,
+        "Jul": 4.31,
+        "Aug": 4.22,
+        "Sep": 3.42,
+        "Oct": 2.57,
+        "Nov": 1.47,
+        "Dec": 1.25
+      },
+      "average": 3.09
+    },
+    {
+      "name": "Bielsk Podlaski",
+      "admin1_code": "81",
+      "location": [
+        52.76512,
+        23.18647
+      ],
+      "monthly": {
+        "Jan": 1.15,
+        "Feb": 1.87,
+        "Mar": 3.26,
+        "Apr": 4.08,
+        "May": 4.67,
+        "Jun": 4.68,
+        "Jul": 4.47,
+        "Aug": 4.26,
+        "Sep": 3.49,
+        "Oct": 2.34,
+        "Nov": 1.08,
+        "Dec": 0.81
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Bielany",
+      "admin1_code": "78",
+      "location": [
+        52.29242,
+        20.93531
+      ],
+      "monthly": {
+        "Jan": 1.18,
+        "Feb": 1.91,
+        "Mar": 3.1,
+        "Apr": 4.01,
+        "May": 4.52,
+        "Jun": 4.53,
+        "Jul": 4.35,
+        "Aug": 4.2,
+        "Sep": 3.4,
+        "Oct": 2.28,
+        "Nov": 1.16,
+        "Dec": 0.88
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Białystok",
+      "admin1_code": "81",
+      "location": [
+        53.13333,
+        23.16433
+      ],
+      "monthly": {
+        "Jan": 1.06,
+        "Feb": 1.83,
+        "Mar": 3.15,
+        "Apr": 4.02,
+        "May": 4.58,
+        "Jun": 4.6,
+        "Jul": 4.39,
+        "Aug": 4.17,
+        "Sep": 3.4,
+        "Oct": 2.23,
+        "Nov": 1,
+        "Dec": 0.78
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Białołeka",
+      "admin1_code": "78",
+      "location": [
+        52.32127,
+        20.97204
+      ],
+      "monthly": {
+        "Jan": 1.18,
+        "Feb": 1.92,
+        "Mar": 3.1,
+        "Apr": 4.01,
+        "May": 4.51,
+        "Jun": 4.52,
+        "Jul": 4.34,
+        "Aug": 4.2,
+        "Sep": 3.4,
+        "Oct": 2.27,
+        "Nov": 1.15,
+        "Dec": 0.87
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Biała Podlaska",
+      "admin1_code": "75",
+      "location": [
+        52.03238,
+        23.11652
+      ],
+      "monthly": {
+        "Jan": 1.2,
+        "Feb": 1.92,
+        "Mar": 3.28,
+        "Apr": 4.07,
+        "May": 4.62,
+        "Jun": 4.62,
+        "Jul": 4.42,
+        "Aug": 4.27,
+        "Sep": 3.48,
+        "Oct": 2.42,
+        "Nov": 1.18,
+        "Dec": 0.88
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Bemowo",
+      "admin1_code": "78",
+      "location": [
+        52.2546,
+        20.90844
+      ],
+      "monthly": {
+        "Jan": 1.19,
+        "Feb": 1.9,
+        "Mar": 3.11,
+        "Apr": 4.03,
+        "May": 4.54,
+        "Jun": 4.57,
+        "Jul": 4.37,
+        "Aug": 4.21,
+        "Sep": 3.4,
+        "Oct": 2.29,
+        "Nov": 1.18,
+        "Dec": 0.88
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Bartoszyce",
+      "admin1_code": "85",
+      "location": [
+        54.25354,
+        20.80819
+      ],
+      "monthly": {
+        "Jan": 1.04,
+        "Feb": 1.96,
+        "Mar": 3.16,
+        "Apr": 4.16,
+        "May": 4.7,
+        "Jun": 4.56,
+        "Jul": 4.3,
+        "Aug": 4.07,
+        "Sep": 3.43,
+        "Oct": 2.25,
+        "Nov": 1.04,
+        "Dec": 0.73
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Augustów",
+      "admin1_code": "81",
+      "location": [
+        53.84321,
+        22.97979
+      ],
+      "monthly": {
+        "Jan": 1.02,
+        "Feb": 1.77,
+        "Mar": 3.11,
+        "Apr": 4.03,
+        "May": 4.59,
+        "Jun": 4.61,
+        "Jul": 4.4,
+        "Aug": 4.14,
+        "Sep": 3.35,
+        "Oct": 2.11,
+        "Nov": 0.91,
+        "Dec": 0.7
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Żywiec",
+      "admin1_code": "83",
+      "location": [
+        49.68529,
+        19.19243
+      ],
+      "monthly": {
+        "Jan": 1.66,
+        "Feb": 2.26,
+        "Mar": 3.2,
+        "Apr": 3.9,
+        "May": 4.04,
+        "Jun": 4.18,
+        "Jul": 4.13,
+        "Aug": 4.11,
+        "Sep": 3.33,
+        "Oct": 2.59,
+        "Nov": 1.64,
+        "Dec": 1.38
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Żory",
+      "admin1_code": "83",
+      "location": [
+        50.04523,
+        18.70062
+      ],
+      "monthly": {
+        "Jan": 1.49,
+        "Feb": 2.2,
+        "Mar": 3.19,
+        "Apr": 3.98,
+        "May": 4.25,
+        "Jun": 4.33,
+        "Jul": 4.28,
+        "Aug": 4.2,
+        "Sep": 3.4,
+        "Oct": 2.52,
+        "Nov": 1.5,
+        "Dec": 1.2
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Złotów",
+      "admin1_code": "86",
+      "location": [
+        53.36346,
+        17.04082
+      ],
+      "monthly": {
+        "Jan": 1.03,
+        "Feb": 1.95,
+        "Mar": 3.15,
+        "Apr": 4.17,
+        "May": 4.51,
+        "Jun": 4.44,
+        "Jul": 4.2,
+        "Aug": 4.01,
+        "Sep": 3.32,
+        "Oct": 2.22,
+        "Nov": 1.07,
+        "Dec": 0.78
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Złotoryja",
+      "admin1_code": "72",
+      "location": [
+        51.12637,
+        15.91979
+      ],
+      "monthly": {
+        "Jan": 1.42,
+        "Feb": 2.26,
+        "Mar": 3.2,
+        "Apr": 4.07,
+        "May": 4.38,
+        "Jun": 4.36,
+        "Jul": 4.18,
+        "Aug": 4.12,
+        "Sep": 3.41,
+        "Oct": 2.58,
+        "Nov": 1.57,
+        "Dec": 1.28
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Zielona Góra",
+      "admin1_code": "76",
+      "location": [
+        51.93548,
+        15.50643
+      ],
+      "monthly": {
+        "Jan": 1.23,
+        "Feb": 2.05,
+        "Mar": 3.05,
+        "Apr": 4.04,
+        "May": 4.32,
+        "Jun": 4.27,
+        "Jul": 4.2,
+        "Aug": 4.01,
+        "Sep": 3.33,
+        "Oct": 2.32,
+        "Nov": 1.31,
+        "Dec": 1.03
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Zgorzelec",
+      "admin1_code": "72",
+      "location": [
+        51.14942,
+        15.00835
+      ],
+      "monthly": {
+        "Jan": 1.39,
+        "Feb": 2.24,
+        "Mar": 3.19,
+        "Apr": 4.11,
+        "May": 4.37,
+        "Jun": 4.36,
+        "Jul": 4.21,
+        "Aug": 4.11,
+        "Sep": 3.39,
+        "Oct": 2.48,
+        "Nov": 1.54,
+        "Dec": 1.22
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Zgierz",
+      "admin1_code": "74",
+      "location": [
+        51.85561,
+        19.40623
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 1.96,
+        "Mar": 3.17,
+        "Apr": 4.03,
+        "May": 4.51,
+        "Jun": 4.5,
+        "Jul": 4.25,
+        "Aug": 4.17,
+        "Sep": 3.4,
+        "Oct": 2.36,
+        "Nov": 1.27,
+        "Dec": 1
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Zduńska Wola",
+      "admin1_code": "74",
+      "location": [
+        51.59915,
+        18.93974
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.03,
+        "Mar": 3.18,
+        "Apr": 4.07,
+        "May": 4.51,
+        "Jun": 4.46,
+        "Jul": 4.27,
+        "Aug": 4.18,
+        "Sep": 3.45,
+        "Oct": 2.4,
+        "Nov": 1.3,
+        "Dec": 1.03
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Zawiercie",
+      "admin1_code": "83",
+      "location": [
+        50.48766,
+        19.41679
+      ],
+      "monthly": {
+        "Jan": 1.43,
+        "Feb": 2.15,
+        "Mar": 3.23,
+        "Apr": 3.95,
+        "May": 4.27,
+        "Jun": 4.33,
+        "Jul": 4.24,
+        "Aug": 4.15,
+        "Sep": 3.39,
+        "Oct": 2.5,
+        "Nov": 1.44,
+        "Dec": 1.2
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Żary",
+      "admin1_code": "76",
+      "location": [
+        51.64205,
+        15.13727
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.12,
+        "Mar": 3.11,
+        "Apr": 4.08,
+        "May": 4.36,
+        "Jun": 4.38,
+        "Jul": 4.26,
+        "Aug": 4.11,
+        "Sep": 3.37,
+        "Oct": 2.39,
+        "Nov": 1.41,
+        "Dec": 1.11
+      },
+      "average": 3
+    },
+    {
+      "name": "Zakopane",
+      "admin1_code": "77",
+      "location": [
+        49.29899,
+        19.94885
+      ],
+      "monthly": {
+        "Jan": 1.88,
+        "Feb": 2.45,
+        "Mar": 3.34,
+        "Apr": 3.79,
+        "May": 3.73,
+        "Jun": 3.76,
+        "Jul": 3.71,
+        "Aug": 3.74,
+        "Sep": 3.2,
+        "Oct": 2.76,
+        "Nov": 1.92,
+        "Dec": 1.62
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Żagań",
+      "admin1_code": "76",
+      "location": [
+        51.61759,
+        15.31486
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.12,
+        "Mar": 3.08,
+        "Apr": 4.01,
+        "May": 4.33,
+        "Jun": 4.31,
+        "Jul": 4.21,
+        "Aug": 4.04,
+        "Sep": 3.34,
+        "Oct": 2.36,
+        "Nov": 1.37,
+        "Dec": 1.09
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Zabrze",
+      "admin1_code": "83",
+      "location": [
+        50.32492,
+        18.78576
+      ],
+      "monthly": {
+        "Jan": 1.43,
+        "Feb": 2.18,
+        "Mar": 3.2,
+        "Apr": 3.97,
+        "May": 4.29,
+        "Jun": 4.36,
+        "Jul": 4.28,
+        "Aug": 4.18,
+        "Sep": 3.41,
+        "Oct": 2.51,
+        "Nov": 1.47,
+        "Dec": 1.19
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Ząbkowice Śląskie",
+      "admin1_code": "72",
+      "location": [
+        50.58969,
+        16.81239
+      ],
+      "monthly": {
+        "Jan": 1.53,
+        "Feb": 2.32,
+        "Mar": 3.21,
+        "Apr": 4.11,
+        "May": 4.36,
+        "Jun": 4.36,
+        "Jul": 4.21,
+        "Aug": 4.12,
+        "Sep": 3.41,
+        "Oct": 2.53,
+        "Nov": 1.64,
+        "Dec": 1.32
+      },
+      "average": 3.09
+    },
+    {
+      "name": "Wrzeszcz",
+      "admin1_code": "82",
+      "location": [
+        54.37648,
+        18.60753
+      ],
+      "monthly": {
+        "Jan": 1.04,
+        "Feb": 1.88,
+        "Mar": 3.15,
+        "Apr": 4.19,
+        "May": 4.62,
+        "Jun": 4.53,
+        "Jul": 4.22,
+        "Aug": 4.01,
+        "Sep": 3.32,
+        "Oct": 2.2,
+        "Nov": 1.09,
+        "Dec": 0.81
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Września",
+      "admin1_code": "86",
+      "location": [
+        52.32512,
+        17.56519
+      ],
+      "monthly": {
+        "Jan": 1.23,
+        "Feb": 2.04,
+        "Mar": 3.2,
+        "Apr": 4.24,
+        "May": 4.57,
+        "Jun": 4.54,
+        "Jul": 4.29,
+        "Aug": 4.16,
+        "Sep": 3.43,
+        "Oct": 2.38,
+        "Nov": 1.26,
+        "Dec": 0.96
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Wrocław",
+      "admin1_code": "72",
+      "location": [
+        51.10286,
+        17.03006
+      ],
+      "monthly": {
+        "Jan": 1.37,
+        "Feb": 2.19,
+        "Mar": 3.15,
+        "Apr": 4.1,
+        "May": 4.45,
+        "Jun": 4.42,
+        "Jul": 4.29,
+        "Aug": 4.17,
+        "Sep": 3.4,
+        "Oct": 2.41,
+        "Nov": 1.46,
+        "Dec": 1.17
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Wodzisław Śląski",
+      "admin1_code": "83",
+      "location": [
+        50.00377,
+        18.47205
+      ],
+      "monthly": {
+        "Jan": 1.5,
+        "Feb": 2.22,
+        "Mar": 3.21,
+        "Apr": 4.01,
+        "May": 4.26,
+        "Jun": 4.38,
+        "Jul": 4.31,
+        "Aug": 4.23,
+        "Sep": 3.4,
+        "Oct": 2.52,
+        "Nov": 1.52,
+        "Dec": 1.22
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Włocławek",
+      "admin1_code": "73",
+      "location": [
+        52.64817,
+        19.0678
+      ],
+      "monthly": {
+        "Jan": 1.14,
+        "Feb": 1.97,
+        "Mar": 3.11,
+        "Apr": 4.1,
+        "May": 4.53,
+        "Jun": 4.46,
+        "Jul": 4.19,
+        "Aug": 4.09,
+        "Sep": 3.35,
+        "Oct": 2.25,
+        "Nov": 1.13,
+        "Dec": 0.86
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Wieluń",
+      "admin1_code": "74",
+      "location": [
+        51.22097,
+        18.56964
+      ],
+      "monthly": {
+        "Jan": 1.34,
+        "Feb": 2.08,
+        "Mar": 3.26,
+        "Apr": 4.15,
+        "May": 4.53,
+        "Jun": 4.49,
+        "Jul": 4.28,
+        "Aug": 4.2,
+        "Sep": 3.52,
+        "Oct": 2.5,
+        "Nov": 1.4,
+        "Dec": 1.13
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Wejherowo",
+      "admin1_code": "82",
+      "location": [
+        54.60568,
+        18.23559
+      ],
+      "monthly": {
+        "Jan": 1,
+        "Feb": 1.76,
+        "Mar": 2.98,
+        "Apr": 4.18,
+        "May": 4.66,
+        "Jun": 4.52,
+        "Jul": 4.18,
+        "Aug": 3.94,
+        "Sep": 3.25,
+        "Oct": 2.13,
+        "Nov": 1.06,
+        "Dec": 0.74
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Wałcz",
+      "admin1_code": "87",
+      "location": [
+        53.27787,
+        16.47122
+      ],
+      "monthly": {
+        "Jan": 1.02,
+        "Feb": 1.86,
+        "Mar": 3.05,
+        "Apr": 4.12,
+        "May": 4.44,
+        "Jun": 4.42,
+        "Jul": 4.19,
+        "Aug": 3.97,
+        "Sep": 3.26,
+        "Oct": 2.16,
+        "Nov": 1.05,
+        "Dec": 0.76
+      },
+      "average": 2.86
+    },
+    {
+      "name": "Wałbrzych",
+      "admin1_code": "72",
+      "location": [
+        50.77141,
+        16.28432
+      ],
+      "monthly": {
+        "Jan": 1.51,
+        "Feb": 2.29,
+        "Mar": 3.19,
+        "Apr": 3.95,
+        "May": 4.19,
+        "Jun": 4.17,
+        "Jul": 4.12,
+        "Aug": 4.01,
+        "Sep": 3.3,
+        "Oct": 2.49,
+        "Nov": 1.59,
+        "Dec": 1.35
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Wągrowiec",
+      "admin1_code": "86",
+      "location": [
+        52.80842,
+        17.19961
+      ],
+      "monthly": {
+        "Jan": 1.14,
+        "Feb": 1.96,
+        "Mar": 3.14,
+        "Apr": 4.19,
+        "May": 4.51,
+        "Jun": 4.44,
+        "Jul": 4.2,
+        "Aug": 4.08,
+        "Sep": 3.37,
+        "Oct": 2.28,
+        "Nov": 1.16,
+        "Dec": 0.88
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Wadowice",
+      "admin1_code": "77",
+      "location": [
+        49.88335,
+        19.49292
+      ],
+      "monthly": {
+        "Jan": 1.57,
+        "Feb": 2.25,
+        "Mar": 3.22,
+        "Apr": 3.98,
+        "May": 4.18,
+        "Jun": 4.33,
+        "Jul": 4.28,
+        "Aug": 4.21,
+        "Sep": 3.4,
+        "Oct": 2.61,
+        "Nov": 1.56,
+        "Dec": 1.31
+      },
+      "average": 3.08
+    },
+    {
+      "name": "Ustroń",
+      "admin1_code": "83",
+      "location": [
+        49.72153,
+        18.80198
+      ],
+      "monthly": {
+        "Jan": 1.6,
+        "Feb": 2.25,
+        "Mar": 3.16,
+        "Apr": 3.9,
+        "May": 4.05,
+        "Jun": 4.22,
+        "Jul": 4.2,
+        "Aug": 4.14,
+        "Sep": 3.32,
+        "Oct": 2.54,
+        "Nov": 1.61,
+        "Dec": 1.36
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Ustka",
+      "admin1_code": "82",
+      "location": [
+        54.58048,
+        16.86194
+      ],
+      "monthly": {
+        "Jan": 1.01,
+        "Feb": 1.88,
+        "Mar": 3.09,
+        "Apr": 4.33,
+        "May": 4.9,
+        "Jun": 4.83,
+        "Jul": 4.49,
+        "Aug": 4.07,
+        "Sep": 3.29,
+        "Oct": 2.08,
+        "Nov": 1.01,
+        "Dec": 0.7
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Tychy",
+      "admin1_code": "83",
+      "location": [
+        50.13717,
+        18.96641
+      ],
+      "monthly": {
+        "Jan": 1.47,
+        "Feb": 2.2,
+        "Mar": 3.19,
+        "Apr": 3.94,
+        "May": 4.22,
+        "Jun": 4.32,
+        "Jul": 4.26,
+        "Aug": 4.16,
+        "Sep": 3.38,
+        "Oct": 2.49,
+        "Nov": 1.48,
+        "Dec": 1.21
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Turek",
+      "admin1_code": "86",
+      "location": [
+        52.01548,
+        18.50055
+      ],
+      "monthly": {
+        "Jan": 1.23,
+        "Feb": 2.02,
+        "Mar": 3.15,
+        "Apr": 4.1,
+        "May": 4.52,
+        "Jun": 4.45,
+        "Jul": 4.26,
+        "Aug": 4.14,
+        "Sep": 3.44,
+        "Oct": 2.38,
+        "Nov": 1.26,
+        "Dec": 1
+      },
+      "average": 3
+    },
+    {
+      "name": "Trzebinia",
+      "admin1_code": "77",
+      "location": [
+        50.15931,
+        19.46966
+      ],
+      "monthly": {
+        "Jan": 1.48,
+        "Feb": 2.2,
+        "Mar": 3.19,
+        "Apr": 3.92,
+        "May": 4.23,
+        "Jun": 4.28,
+        "Jul": 4.22,
+        "Aug": 4.13,
+        "Sep": 3.37,
+        "Oct": 2.53,
+        "Nov": 1.47,
+        "Dec": 1.23
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Trzcianka",
+      "admin1_code": "86",
+      "location": [
+        53.04063,
+        16.45629
+      ],
+      "monthly": {
+        "Jan": 1.08,
+        "Feb": 1.92,
+        "Mar": 3.07,
+        "Apr": 4.11,
+        "May": 4.41,
+        "Jun": 4.36,
+        "Jul": 4.18,
+        "Aug": 3.99,
+        "Sep": 3.29,
+        "Oct": 2.17,
+        "Nov": 1.08,
+        "Dec": 0.8
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Toruń",
+      "admin1_code": "73",
+      "location": [
+        53.01375,
+        18.59814
+      ],
+      "monthly": {
+        "Jan": 1.11,
+        "Feb": 1.99,
+        "Mar": 3.13,
+        "Apr": 4.11,
+        "May": 4.49,
+        "Jun": 4.41,
+        "Jul": 4.17,
+        "Aug": 4.06,
+        "Sep": 3.35,
+        "Oct": 2.27,
+        "Nov": 1.11,
+        "Dec": 0.89
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Tczew",
+      "admin1_code": "82",
+      "location": [
+        54.09242,
+        18.77787
+      ],
+      "monthly": {
+        "Jan": 1.08,
+        "Feb": 2.02,
+        "Mar": 3.24,
+        "Apr": 4.24,
+        "May": 4.67,
+        "Jun": 4.58,
+        "Jul": 4.23,
+        "Aug": 4.1,
+        "Sep": 3.45,
+        "Oct": 2.35,
+        "Nov": 1.12,
+        "Dec": 0.82
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Tarnowskie Góry",
+      "admin1_code": "83",
+      "location": [
+        50.44548,
+        18.86147
+      ],
+      "monthly": {
+        "Jan": 1.39,
+        "Feb": 2.13,
+        "Mar": 3.18,
+        "Apr": 3.94,
+        "May": 4.29,
+        "Jun": 4.34,
+        "Jul": 4.24,
+        "Aug": 4.15,
+        "Sep": 3.39,
+        "Oct": 2.48,
+        "Nov": 1.45,
+        "Dec": 1.17
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Szczecinek",
+      "admin1_code": "87",
+      "location": [
+        53.70791,
+        16.69937
+      ],
+      "monthly": {
+        "Jan": 1.04,
+        "Feb": 1.89,
+        "Mar": 3.06,
+        "Apr": 4.1,
+        "May": 4.45,
+        "Jun": 4.43,
+        "Jul": 4.19,
+        "Aug": 3.97,
+        "Sep": 3.24,
+        "Oct": 2.15,
+        "Nov": 1.04,
+        "Dec": 0.75
+      },
+      "average": 2.86
+    },
+    {
+      "name": "Szczecin",
+      "admin1_code": "87",
+      "location": [
+        53.42894,
+        14.55302
+      ],
+      "monthly": {
+        "Jan": 1.06,
+        "Feb": 1.93,
+        "Mar": 3.03,
+        "Apr": 4.16,
+        "May": 4.48,
+        "Jun": 4.39,
+        "Jul": 4.17,
+        "Aug": 3.91,
+        "Sep": 3.27,
+        "Oct": 2.18,
+        "Nov": 1.17,
+        "Dec": 0.82
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Szamotuły",
+      "admin1_code": "86",
+      "location": [
+        52.61201,
+        16.57794
+      ],
+      "monthly": {
+        "Jan": 1.18,
+        "Feb": 2.02,
+        "Mar": 3.16,
+        "Apr": 4.22,
+        "May": 4.54,
+        "Jun": 4.47,
+        "Jul": 4.24,
+        "Aug": 4.1,
+        "Sep": 3.4,
+        "Oct": 2.32,
+        "Nov": 1.24,
+        "Dec": 0.91
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Świnoujście",
+      "admin1_code": "87",
+      "location": [
+        53.91053,
+        14.24712
+      ],
+      "monthly": {
+        "Jan": 1.08,
+        "Feb": 1.96,
+        "Mar": 3.09,
+        "Apr": 4.28,
+        "May": 4.61,
+        "Jun": 4.57,
+        "Jul": 4.32,
+        "Aug": 4.04,
+        "Sep": 3.34,
+        "Oct": 2.16,
+        "Nov": 1.13,
+        "Dec": 0.78
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Świętochłowice",
+      "admin1_code": "83",
+      "location": [
+        50.29636,
+        18.91726
+      ],
+      "monthly": {
+        "Jan": 1.43,
+        "Feb": 2.18,
+        "Mar": 3.17,
+        "Apr": 3.92,
+        "May": 4.24,
+        "Jun": 4.33,
+        "Jul": 4.26,
+        "Aug": 4.15,
+        "Sep": 3.39,
+        "Oct": 2.47,
+        "Nov": 1.46,
+        "Dec": 1.19
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Świebodzin",
+      "admin1_code": "76",
+      "location": [
+        52.24751,
+        15.53355
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2.08,
+        "Mar": 3.13,
+        "Apr": 4.15,
+        "May": 4.44,
+        "Jun": 4.37,
+        "Jul": 4.25,
+        "Aug": 4.07,
+        "Sep": 3.39,
+        "Oct": 2.35,
+        "Nov": 1.28,
+        "Dec": 0.99
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Świecie",
+      "admin1_code": "73",
+      "location": [
+        53.40953,
+        18.44742
+      ],
+      "monthly": {
+        "Jan": 1.06,
+        "Feb": 1.97,
+        "Mar": 3.2,
+        "Apr": 4.2,
+        "May": 4.62,
+        "Jun": 4.54,
+        "Jul": 4.21,
+        "Aug": 4.1,
+        "Sep": 3.37,
+        "Oct": 2.27,
+        "Nov": 1.09,
+        "Dec": 0.81
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Świebodzice",
+      "admin1_code": "72",
+      "location": [
+        50.85974,
+        16.31966
+      ],
+      "monthly": {
+        "Jan": 1.52,
+        "Feb": 2.32,
+        "Mar": 3.23,
+        "Apr": 4.01,
+        "May": 4.29,
+        "Jun": 4.25,
+        "Jul": 4.15,
+        "Aug": 4.09,
+        "Sep": 3.35,
+        "Oct": 2.55,
+        "Nov": 1.64,
+        "Dec": 1.35
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Świdwin",
+      "admin1_code": "87",
+      "location": [
+        53.77464,
+        15.77671
+      ],
+      "monthly": {
+        "Jan": 1.02,
+        "Feb": 1.84,
+        "Mar": 3.06,
+        "Apr": 4.17,
+        "May": 4.5,
+        "Jun": 4.45,
+        "Jul": 4.17,
+        "Aug": 3.95,
+        "Sep": 3.26,
+        "Oct": 2.17,
+        "Nov": 1.09,
+        "Dec": 0.74
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Świdnica",
+      "admin1_code": "72",
+      "location": [
+        50.84378,
+        16.48859
+      ],
+      "monthly": {
+        "Jan": 1.53,
+        "Feb": 2.34,
+        "Mar": 3.24,
+        "Apr": 4.08,
+        "May": 4.36,
+        "Jun": 4.33,
+        "Jul": 4.18,
+        "Aug": 4.12,
+        "Sep": 3.39,
+        "Oct": 2.57,
+        "Nov": 1.65,
+        "Dec": 1.34
+      },
+      "average": 3.09
+    },
+    {
+      "name": "Swarzędz",
+      "admin1_code": "86",
+      "location": [
+        52.41289,
+        17.08503
+      ],
+      "monthly": {
+        "Jan": 1.19,
+        "Feb": 2.01,
+        "Mar": 3.12,
+        "Apr": 4.16,
+        "May": 4.5,
+        "Jun": 4.45,
+        "Jul": 4.26,
+        "Aug": 4.09,
+        "Sep": 3.37,
+        "Oct": 2.29,
+        "Nov": 1.23,
+        "Dec": 0.93
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Sulechów",
+      "admin1_code": "76",
+      "location": [
+        52.08362,
+        15.62513
+      ],
+      "monthly": {
+        "Jan": 1.23,
+        "Feb": 2.08,
+        "Mar": 3.11,
+        "Apr": 4.13,
+        "May": 4.43,
+        "Jun": 4.37,
+        "Jul": 4.26,
+        "Aug": 4.08,
+        "Sep": 3.39,
+        "Oct": 2.35,
+        "Nov": 1.31,
+        "Dec": 1.01
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Strzelce Opolskie",
+      "admin1_code": "79",
+      "location": [
+        50.5107,
+        18.30056
+      ],
+      "monthly": {
+        "Jan": 1.4,
+        "Feb": 2.16,
+        "Mar": 3.21,
+        "Apr": 4.06,
+        "May": 4.37,
+        "Jun": 4.4,
+        "Jul": 4.27,
+        "Aug": 4.2,
+        "Sep": 3.43,
+        "Oct": 2.51,
+        "Nov": 1.45,
+        "Dec": 1.21
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Strzegom",
+      "admin1_code": "72",
+      "location": [
+        50.96264,
+        16.35006
+      ],
+      "monthly": {
+        "Jan": 1.52,
+        "Feb": 2.32,
+        "Mar": 3.26,
+        "Apr": 4.12,
+        "May": 4.42,
+        "Jun": 4.38,
+        "Jul": 4.19,
+        "Aug": 4.16,
+        "Sep": 3.43,
+        "Oct": 2.58,
+        "Nov": 1.64,
+        "Dec": 1.33
+      },
+      "average": 3.11
+    },
+    {
+      "name": "Starogard Gdański",
+      "admin1_code": "82",
+      "location": [
+        53.96396,
+        18.52638
+      ],
+      "monthly": {
+        "Jan": 1.06,
+        "Feb": 2,
+        "Mar": 3.21,
+        "Apr": 4.21,
+        "May": 4.63,
+        "Jun": 4.5,
+        "Jul": 4.19,
+        "Aug": 4.04,
+        "Sep": 3.37,
+        "Oct": 2.29,
+        "Nov": 1.06,
+        "Dec": 0.78
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Stargard",
+      "admin1_code": "87",
+      "location": [
+        53.33672,
+        15.0499
+      ],
+      "monthly": {
+        "Jan": 1.07,
+        "Feb": 1.95,
+        "Mar": 3.1,
+        "Apr": 4.22,
+        "May": 4.51,
+        "Jun": 4.45,
+        "Jul": 4.22,
+        "Aug": 4.02,
+        "Sep": 3.32,
+        "Oct": 2.22,
+        "Nov": 1.18,
+        "Dec": 0.81
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Środa Wielkopolska",
+      "admin1_code": "86",
+      "location": [
+        52.22843,
+        17.27617
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2.08,
+        "Mar": 3.19,
+        "Apr": 4.23,
+        "May": 4.57,
+        "Jun": 4.53,
+        "Jul": 4.31,
+        "Aug": 4.19,
+        "Sep": 3.44,
+        "Oct": 2.38,
+        "Nov": 1.29,
+        "Dec": 0.95
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Śrem",
+      "admin1_code": "86",
+      "location": [
+        52.08868,
+        17.01508
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.07,
+        "Mar": 3.16,
+        "Apr": 4.2,
+        "May": 4.52,
+        "Jun": 4.47,
+        "Jul": 4.28,
+        "Aug": 4.15,
+        "Sep": 3.43,
+        "Oct": 2.37,
+        "Nov": 1.31,
+        "Dec": 1.03
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Sosnowiec",
+      "admin1_code": "83",
+      "location": [
+        50.28682,
+        19.10385
+      ],
+      "monthly": {
+        "Jan": 1.46,
+        "Feb": 2.22,
+        "Mar": 3.2,
+        "Apr": 3.93,
+        "May": 4.24,
+        "Jun": 4.32,
+        "Jul": 4.25,
+        "Aug": 4.15,
+        "Sep": 3.38,
+        "Oct": 2.5,
+        "Nov": 1.47,
+        "Dec": 1.21
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Sopot",
+      "admin1_code": "82",
+      "location": [
+        54.4418,
+        18.56003
+      ],
+      "monthly": {
+        "Jan": 1.04,
+        "Feb": 1.86,
+        "Mar": 3.11,
+        "Apr": 4.19,
+        "May": 4.67,
+        "Jun": 4.59,
+        "Jul": 4.26,
+        "Aug": 4.02,
+        "Sep": 3.32,
+        "Oct": 2.19,
+        "Nov": 1.08,
+        "Dec": 0.82
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Solec Kujawski",
+      "admin1_code": "73",
+      "location": [
+        53.08371,
+        18.22572
+      ],
+      "monthly": {
+        "Jan": 1.08,
+        "Feb": 1.97,
+        "Mar": 3.09,
+        "Apr": 4.06,
+        "May": 4.43,
+        "Jun": 4.38,
+        "Jul": 4.15,
+        "Aug": 4.01,
+        "Sep": 3.3,
+        "Oct": 2.21,
+        "Nov": 1.08,
+        "Dec": 0.87
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Słupsk",
+      "admin1_code": "82",
+      "location": [
+        54.46405,
+        17.02872
+      ],
+      "monthly": {
+        "Jan": 1.04,
+        "Feb": 1.84,
+        "Mar": 3.08,
+        "Apr": 4.26,
+        "May": 4.73,
+        "Jun": 4.61,
+        "Jul": 4.27,
+        "Aug": 3.97,
+        "Sep": 3.28,
+        "Oct": 2.15,
+        "Nov": 1.09,
+        "Dec": 0.72
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Słubice",
+      "admin1_code": "76",
+      "location": [
+        52.35088,
+        14.56065
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2.13,
+        "Mar": 3.11,
+        "Apr": 4.15,
+        "May": 4.42,
+        "Jun": 4.41,
+        "Jul": 4.24,
+        "Aug": 4.09,
+        "Sep": 3.39,
+        "Oct": 2.33,
+        "Nov": 1.37,
+        "Dec": 1.01
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Skawina",
+      "admin1_code": "77",
+      "location": [
+        49.97524,
+        19.82869
+      ],
+      "monthly": {
+        "Jan": 1.51,
+        "Feb": 2.23,
+        "Mar": 3.25,
+        "Apr": 3.99,
+        "May": 4.29,
+        "Jun": 4.4,
+        "Jul": 4.34,
+        "Aug": 4.25,
+        "Sep": 3.4,
+        "Oct": 2.55,
+        "Nov": 1.48,
+        "Dec": 1.21
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Sierpc",
+      "admin1_code": "78",
+      "location": [
+        52.8568,
+        19.66913
+      ],
+      "monthly": {
+        "Jan": 1.12,
+        "Feb": 1.99,
+        "Mar": 3.2,
+        "Apr": 4.17,
+        "May": 4.62,
+        "Jun": 4.54,
+        "Jul": 4.24,
+        "Aug": 4.14,
+        "Sep": 3.39,
+        "Oct": 2.29,
+        "Nov": 1.1,
+        "Dec": 0.83
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Sieradz",
+      "admin1_code": "74",
+      "location": [
+        51.59584,
+        18.73023
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.07,
+        "Mar": 3.2,
+        "Apr": 4.11,
+        "May": 4.53,
+        "Jun": 4.49,
+        "Jul": 4.29,
+        "Aug": 4.18,
+        "Sep": 3.48,
+        "Oct": 2.43,
+        "Nov": 1.32,
+        "Dec": 1.05
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Siemianowice Śląskie",
+      "admin1_code": "83",
+      "location": [
+        50.32738,
+        19.02901
+      ],
+      "monthly": {
+        "Jan": 1.45,
+        "Feb": 2.2,
+        "Mar": 3.21,
+        "Apr": 3.96,
+        "May": 4.28,
+        "Jun": 4.34,
+        "Jul": 4.28,
+        "Aug": 4.18,
+        "Sep": 3.41,
+        "Oct": 2.5,
+        "Nov": 1.47,
+        "Dec": 1.19
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Rypin",
+      "admin1_code": "73",
+      "location": [
+        53.06603,
+        19.40941
+      ],
+      "monthly": {
+        "Jan": 1.09,
+        "Feb": 2.04,
+        "Mar": 3.24,
+        "Apr": 4.24,
+        "May": 4.68,
+        "Jun": 4.63,
+        "Jul": 4.27,
+        "Aug": 4.2,
+        "Sep": 3.44,
+        "Oct": 2.31,
+        "Nov": 1.1,
+        "Dec": 0.82
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Rydułtowy",
+      "admin1_code": "83",
+      "location": [
+        50.05857,
+        18.41703
+      ],
+      "monthly": {
+        "Jan": 1.48,
+        "Feb": 2.23,
+        "Mar": 3.22,
+        "Apr": 4.01,
+        "May": 4.29,
+        "Jun": 4.4,
+        "Jul": 4.31,
+        "Aug": 4.23,
+        "Sep": 3.41,
+        "Oct": 2.52,
+        "Nov": 1.51,
+        "Dec": 1.21
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Rybnik",
+      "admin1_code": "83",
+      "location": [
+        50.09713,
+        18.54179
+      ],
+      "monthly": {
+        "Jan": 1.46,
+        "Feb": 2.19,
+        "Mar": 3.17,
+        "Apr": 3.95,
+        "May": 4.24,
+        "Jun": 4.33,
+        "Jul": 4.28,
+        "Aug": 4.18,
+        "Sep": 3.37,
+        "Oct": 2.48,
+        "Nov": 1.49,
+        "Dec": 1.21
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Rumia",
+      "admin1_code": "82",
+      "location": [
+        54.57092,
+        18.38802
+      ],
+      "monthly": {
+        "Jan": 1.01,
+        "Feb": 1.81,
+        "Mar": 3.05,
+        "Apr": 4.23,
+        "May": 4.69,
+        "Jun": 4.57,
+        "Jul": 4.23,
+        "Aug": 3.99,
+        "Sep": 3.3,
+        "Oct": 2.19,
+        "Nov": 1.07,
+        "Dec": 0.78
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Ruda Śląska",
+      "admin1_code": "83",
+      "location": [
+        50.2584,
+        18.85632
+      ],
+      "monthly": {
+        "Jan": 1.42,
+        "Feb": 2.16,
+        "Mar": 3.15,
+        "Apr": 3.93,
+        "May": 4.24,
+        "Jun": 4.33,
+        "Jul": 4.25,
+        "Aug": 4.15,
+        "Sep": 3.38,
+        "Oct": 2.47,
+        "Nov": 1.45,
+        "Dec": 1.18
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Reda",
+      "admin1_code": "82",
+      "location": [
+        54.60528,
+        18.34717
+      ],
+      "monthly": {
+        "Jan": 0.99,
+        "Feb": 1.79,
+        "Mar": 3.02,
+        "Apr": 4.22,
+        "May": 4.7,
+        "Jun": 4.58,
+        "Jul": 4.22,
+        "Aug": 3.98,
+        "Sep": 3.29,
+        "Oct": 2.17,
+        "Nov": 1.08,
+        "Dec": 0.76
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Rawicz",
+      "admin1_code": "86",
+      "location": [
+        51.60946,
+        16.85852
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.16,
+        "Mar": 3.17,
+        "Apr": 4.12,
+        "May": 4.47,
+        "Jun": 4.43,
+        "Jul": 4.29,
+        "Aug": 4.15,
+        "Sep": 3.43,
+        "Oct": 2.41,
+        "Nov": 1.39,
+        "Dec": 1.1
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Radzionków",
+      "admin1_code": "83",
+      "location": [
+        50.40026,
+        18.90232
+      ],
+      "monthly": {
+        "Jan": 1.44,
+        "Feb": 2.18,
+        "Mar": 3.2,
+        "Apr": 3.96,
+        "May": 4.3,
+        "Jun": 4.35,
+        "Jul": 4.27,
+        "Aug": 4.18,
+        "Sep": 3.41,
+        "Oct": 2.49,
+        "Nov": 1.46,
+        "Dec": 1.18
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Radomsko",
+      "admin1_code": "74",
+      "location": [
+        51.06713,
+        19.44477
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.06,
+        "Mar": 3.22,
+        "Apr": 4.03,
+        "May": 4.43,
+        "Jun": 4.42,
+        "Jul": 4.26,
+        "Aug": 4.16,
+        "Sep": 3.44,
+        "Oct": 2.45,
+        "Nov": 1.34,
+        "Dec": 1.07
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Radlin",
+      "admin1_code": "83",
+      "location": [
+        50.0502,
+        18.47626
+      ],
+      "monthly": {
+        "Jan": 1.47,
+        "Feb": 2.21,
+        "Mar": 3.19,
+        "Apr": 3.98,
+        "May": 4.25,
+        "Jun": 4.36,
+        "Jul": 4.29,
+        "Aug": 4.2,
+        "Sep": 3.39,
+        "Oct": 2.51,
+        "Nov": 1.5,
+        "Dec": 1.21
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Racibórz",
+      "admin1_code": "83",
+      "location": [
+        50.09195,
+        18.21928
+      ],
+      "monthly": {
+        "Jan": 1.48,
+        "Feb": 2.28,
+        "Mar": 3.26,
+        "Apr": 4.11,
+        "May": 4.36,
+        "Jun": 4.46,
+        "Jul": 4.28,
+        "Aug": 4.23,
+        "Sep": 3.45,
+        "Oct": 2.55,
+        "Nov": 1.54,
+        "Dec": 1.24
+      },
+      "average": 3.1
+    },
+    {
+      "name": "Pyskowice",
+      "admin1_code": "83",
+      "location": [
+        50.4,
+        18.63333
+      ],
+      "monthly": {
+        "Jan": 1.42,
+        "Feb": 2.18,
+        "Mar": 3.27,
+        "Apr": 4.04,
+        "May": 4.37,
+        "Jun": 4.41,
+        "Jul": 4.31,
+        "Aug": 4.22,
+        "Sep": 3.45,
+        "Oct": 2.53,
+        "Nov": 1.47,
+        "Dec": 1.18
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Pszczyna",
+      "admin1_code": "83",
+      "location": [
+        49.98037,
+        18.95382
+      ],
+      "monthly": {
+        "Jan": 1.5,
+        "Feb": 2.21,
+        "Mar": 3.21,
+        "Apr": 4.01,
+        "May": 4.24,
+        "Jun": 4.36,
+        "Jul": 4.31,
+        "Aug": 4.23,
+        "Sep": 3.39,
+        "Oct": 2.53,
+        "Nov": 1.51,
+        "Dec": 1.22
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Pruszcz Gdański",
+      "admin1_code": "82",
+      "location": [
+        54.26217,
+        18.63625
+      ],
+      "monthly": {
+        "Jan": 1.09,
+        "Feb": 1.97,
+        "Mar": 3.24,
+        "Apr": 4.28,
+        "May": 4.7,
+        "Jun": 4.6,
+        "Jul": 4.3,
+        "Aug": 4.1,
+        "Sep": 3.42,
+        "Oct": 2.31,
+        "Nov": 1.14,
+        "Dec": 0.82
+      },
+      "average": 3
+    },
+    {
+      "name": "Prudnik",
+      "admin1_code": "79",
+      "location": [
+        50.32124,
+        17.57461
+      ],
+      "monthly": {
+        "Jan": 1.57,
+        "Feb": 2.32,
+        "Mar": 3.26,
+        "Apr": 4.09,
+        "May": 4.32,
+        "Jun": 4.32,
+        "Jul": 4.21,
+        "Aug": 4.19,
+        "Sep": 3.46,
+        "Oct": 2.62,
+        "Nov": 1.65,
+        "Dec": 1.35
+      },
+      "average": 3.11
+    },
+    {
+      "name": "Poznań",
+      "admin1_code": "86",
+      "location": [
+        52.40692,
+        16.92993
+      ],
+      "monthly": {
+        "Jan": 1.2,
+        "Feb": 2.01,
+        "Mar": 3.1,
+        "Apr": 4.16,
+        "May": 4.48,
+        "Jun": 4.42,
+        "Jul": 4.25,
+        "Aug": 4.07,
+        "Sep": 3.35,
+        "Oct": 2.28,
+        "Nov": 1.23,
+        "Dec": 0.95
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Polkowice",
+      "admin1_code": "72",
+      "location": [
+        51.50391,
+        16.07261
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.17,
+        "Mar": 3.15,
+        "Apr": 4.07,
+        "May": 4.41,
+        "Jun": 4.35,
+        "Jul": 4.26,
+        "Aug": 4.11,
+        "Sep": 3.38,
+        "Oct": 2.42,
+        "Nov": 1.4,
+        "Dec": 1.12
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Police",
+      "admin1_code": "87",
+      "location": [
+        53.55214,
+        14.57182
+      ],
+      "monthly": {
+        "Jan": 1.07,
+        "Feb": 1.94,
+        "Mar": 3.03,
+        "Apr": 4.15,
+        "May": 4.44,
+        "Jun": 4.37,
+        "Jul": 4.2,
+        "Aug": 3.91,
+        "Sep": 3.27,
+        "Oct": 2.17,
+        "Nov": 1.16,
+        "Dec": 0.82
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Płock",
+      "admin1_code": "78",
+      "location": [
+        52.54682,
+        19.70638
+      ],
+      "monthly": {
+        "Jan": 1.16,
+        "Feb": 1.97,
+        "Mar": 3.18,
+        "Apr": 4.13,
+        "May": 4.59,
+        "Jun": 4.54,
+        "Jul": 4.28,
+        "Aug": 4.18,
+        "Sep": 3.4,
+        "Oct": 2.3,
+        "Nov": 1.14,
+        "Dec": 0.88
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Pleszew",
+      "admin1_code": "86",
+      "location": [
+        51.89636,
+        17.78549
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.1,
+        "Mar": 3.2,
+        "Apr": 4.17,
+        "May": 4.58,
+        "Jun": 4.54,
+        "Jul": 4.29,
+        "Aug": 4.21,
+        "Sep": 3.46,
+        "Oct": 2.43,
+        "Nov": 1.33,
+        "Dec": 1.03
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Piotrków Trybunalski",
+      "admin1_code": "74",
+      "location": [
+        51.40547,
+        19.70321
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.08,
+        "Mar": 3.23,
+        "Apr": 4.08,
+        "May": 4.53,
+        "Jun": 4.54,
+        "Jul": 4.28,
+        "Aug": 4.21,
+        "Sep": 3.48,
+        "Oct": 2.43,
+        "Nov": 1.31,
+        "Dec": 1.04
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Piła",
+      "admin1_code": "86",
+      "location": [
+        53.15145,
+        16.73782
+      ],
+      "monthly": {
+        "Jan": 1.06,
+        "Feb": 1.91,
+        "Mar": 3.06,
+        "Apr": 4.11,
+        "May": 4.42,
+        "Jun": 4.37,
+        "Jul": 4.15,
+        "Aug": 3.95,
+        "Sep": 3.27,
+        "Oct": 2.16,
+        "Nov": 1.07,
+        "Dec": 0.8
+      },
+      "average": 2.86
+    },
+    {
+      "name": "Piekary Śląskie",
+      "admin1_code": "83",
+      "location": [
+        50.38017,
+        18.92653
+      ],
+      "monthly": {
+        "Jan": 1.45,
+        "Feb": 2.19,
+        "Mar": 3.21,
+        "Apr": 3.96,
+        "May": 4.3,
+        "Jun": 4.35,
+        "Jul": 4.28,
+        "Aug": 4.18,
+        "Sep": 3.42,
+        "Oct": 2.5,
+        "Nov": 1.47,
+        "Dec": 1.19
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Pabianice",
+      "admin1_code": "74",
+      "location": [
+        51.66446,
+        19.35473
+      ],
+      "monthly": {
+        "Jan": 1.24,
+        "Feb": 1.99,
+        "Mar": 3.17,
+        "Apr": 4.06,
+        "May": 4.5,
+        "Jun": 4.48,
+        "Jul": 4.26,
+        "Aug": 4.18,
+        "Sep": 3.43,
+        "Oct": 2.39,
+        "Nov": 1.29,
+        "Dec": 1.02
+      },
+      "average": 3
+    },
+    {
+      "name": "Ozorków",
+      "admin1_code": "74",
+      "location": [
+        51.96336,
+        19.29139
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 1.98,
+        "Mar": 3.24,
+        "Apr": 4.12,
+        "May": 4.57,
+        "Jun": 4.55,
+        "Jul": 4.27,
+        "Aug": 4.19,
+        "Sep": 3.45,
+        "Oct": 2.4,
+        "Nov": 1.29,
+        "Dec": 1
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Oświęcim",
+      "admin1_code": "77",
+      "location": [
+        50.03437,
+        19.21037
+      ],
+      "monthly": {
+        "Jan": 1.5,
+        "Feb": 2.23,
+        "Mar": 3.22,
+        "Apr": 4.01,
+        "May": 4.26,
+        "Jun": 4.34,
+        "Jul": 4.29,
+        "Aug": 4.22,
+        "Sep": 3.39,
+        "Oct": 2.53,
+        "Nov": 1.49,
+        "Dec": 1.23
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Ostrów Wielkopolski",
+      "admin1_code": "86",
+      "location": [
+        51.65501,
+        17.80686
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.15,
+        "Mar": 3.19,
+        "Apr": 4.15,
+        "May": 4.53,
+        "Jun": 4.47,
+        "Jul": 4.29,
+        "Aug": 4.19,
+        "Sep": 3.48,
+        "Oct": 2.44,
+        "Nov": 1.35,
+        "Dec": 1.08
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Ostróda",
+      "admin1_code": "85",
+      "location": [
+        53.69671,
+        19.96486
+      ],
+      "monthly": {
+        "Jan": 1.01,
+        "Feb": 1.84,
+        "Mar": 3.07,
+        "Apr": 4.05,
+        "May": 4.54,
+        "Jun": 4.48,
+        "Jul": 4.2,
+        "Aug": 4.04,
+        "Sep": 3.33,
+        "Oct": 2.19,
+        "Nov": 1,
+        "Dec": 0.73
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Osowa",
+      "admin1_code": "82",
+      "location": [
+        54.43109,
+        18.46727
+      ],
+      "monthly": {
+        "Jan": 1.04,
+        "Feb": 1.86,
+        "Mar": 3.14,
+        "Apr": 4.28,
+        "May": 4.74,
+        "Jun": 4.62,
+        "Jul": 4.28,
+        "Aug": 4.07,
+        "Sep": 3.36,
+        "Oct": 2.26,
+        "Nov": 1.1,
+        "Dec": 0.78
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Orzesze",
+      "admin1_code": "83",
+      "location": [
+        50.15595,
+        18.77923
+      ],
+      "monthly": {
+        "Jan": 1.49,
+        "Feb": 2.21,
+        "Mar": 3.21,
+        "Apr": 3.98,
+        "May": 4.26,
+        "Jun": 4.35,
+        "Jul": 4.28,
+        "Aug": 4.19,
+        "Sep": 3.41,
+        "Oct": 2.5,
+        "Nov": 1.49,
+        "Dec": 1.21
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Opole",
+      "admin1_code": "79",
+      "location": [
+        50.67119,
+        17.92604
+      ],
+      "monthly": {
+        "Jan": 1.41,
+        "Feb": 2.18,
+        "Mar": 3.17,
+        "Apr": 4.1,
+        "May": 4.42,
+        "Jun": 4.44,
+        "Jul": 4.34,
+        "Aug": 4.22,
+        "Sep": 3.45,
+        "Oct": 2.49,
+        "Nov": 1.49,
+        "Dec": 1.18
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Olkusz",
+      "admin1_code": "77",
+      "location": [
+        50.2813,
+        19.56503
+      ],
+      "monthly": {
+        "Jan": 1.49,
+        "Feb": 2.17,
+        "Mar": 3.21,
+        "Apr": 3.9,
+        "May": 4.21,
+        "Jun": 4.24,
+        "Jul": 4.17,
+        "Aug": 4.09,
+        "Sep": 3.36,
+        "Oct": 2.51,
+        "Nov": 1.45,
+        "Dec": 1.23
+      },
+      "average": 3
+    },
+    {
+      "name": "Oleśnica",
+      "admin1_code": "72",
+      "location": [
+        51.21338,
+        17.38986
+      ],
+      "monthly": {
+        "Jan": 1.34,
+        "Feb": 2.19,
+        "Mar": 3.21,
+        "Apr": 4.13,
+        "May": 4.49,
+        "Jun": 4.5,
+        "Jul": 4.32,
+        "Aug": 4.19,
+        "Sep": 3.48,
+        "Oct": 2.45,
+        "Nov": 1.42,
+        "Dec": 1.12
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Oława",
+      "admin1_code": "72",
+      "location": [
+        50.9466,
+        17.2926
+      ],
+      "monthly": {
+        "Jan": 1.4,
+        "Feb": 2.21,
+        "Mar": 3.23,
+        "Apr": 4.16,
+        "May": 4.51,
+        "Jun": 4.51,
+        "Jul": 4.31,
+        "Aug": 4.2,
+        "Sep": 3.45,
+        "Oct": 2.48,
+        "Nov": 1.51,
+        "Dec": 1.21
+      },
+      "average": 3.1
+    },
+    {
+      "name": "Oborniki",
+      "admin1_code": "86",
+      "location": [
+        52.64739,
+        16.81406
+      ],
+      "monthly": {
+        "Jan": 1.15,
+        "Feb": 1.98,
+        "Mar": 3.1,
+        "Apr": 4.18,
+        "May": 4.49,
+        "Jun": 4.42,
+        "Jul": 4.19,
+        "Aug": 4.05,
+        "Sep": 3.35,
+        "Oct": 2.27,
+        "Nov": 1.2,
+        "Dec": 0.88
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Nysa",
+      "admin1_code": "79",
+      "location": [
+        50.47379,
+        17.33437
+      ],
+      "monthly": {
+        "Jan": 1.51,
+        "Feb": 2.3,
+        "Mar": 3.24,
+        "Apr": 4.11,
+        "May": 4.37,
+        "Jun": 4.4,
+        "Jul": 4.25,
+        "Aug": 4.21,
+        "Sep": 3.44,
+        "Oct": 2.58,
+        "Nov": 1.63,
+        "Dec": 1.31
+      },
+      "average": 3.11
+    },
+    {
+      "name": "Nowy Tomyśl",
+      "admin1_code": "86",
+      "location": [
+        52.3195,
+        16.12844
+      ],
+      "monthly": {
+        "Jan": 1.2,
+        "Feb": 2.04,
+        "Mar": 3.1,
+        "Apr": 4.11,
+        "May": 4.43,
+        "Jun": 4.35,
+        "Jul": 4.21,
+        "Aug": 4.04,
+        "Sep": 3.37,
+        "Oct": 2.29,
+        "Nov": 1.27,
+        "Dec": 0.96
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Nowogard",
+      "admin1_code": "87",
+      "location": [
+        53.67437,
+        15.1163
+      ],
+      "monthly": {
+        "Jan": 1.04,
+        "Feb": 1.88,
+        "Mar": 3.06,
+        "Apr": 4.16,
+        "May": 4.47,
+        "Jun": 4.39,
+        "Jul": 4.21,
+        "Aug": 3.95,
+        "Sep": 3.27,
+        "Oct": 2.18,
+        "Nov": 1.14,
+        "Dec": 0.78
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Nowa Sól",
+      "admin1_code": "76",
+      "location": [
+        51.80333,
+        15.71702
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.11,
+        "Mar": 3.1,
+        "Apr": 4.07,
+        "May": 4.41,
+        "Jun": 4.35,
+        "Jul": 4.25,
+        "Aug": 4.08,
+        "Sep": 3.35,
+        "Oct": 2.34,
+        "Nov": 1.33,
+        "Dec": 1.04
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Nowa Ruda",
+      "admin1_code": "72",
+      "location": [
+        50.58008,
+        16.50164
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.12,
+        "Mar": 3.15,
+        "Apr": 3.98,
+        "May": 4.24,
+        "Jun": 4.21,
+        "Jul": 4.13,
+        "Aug": 4.02,
+        "Sep": 3.3,
+        "Oct": 2.38,
+        "Nov": 1.3,
+        "Dec": 1.01
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Namysłów",
+      "admin1_code": "79",
+      "location": [
+        51.07592,
+        17.72284
+      ],
+      "monthly": {
+        "Jan": 1.36,
+        "Feb": 2.17,
+        "Mar": 3.23,
+        "Apr": 4.13,
+        "May": 4.49,
+        "Jun": 4.47,
+        "Jul": 4.32,
+        "Aug": 4.2,
+        "Sep": 3.48,
+        "Oct": 2.48,
+        "Nov": 1.46,
+        "Dec": 1.15
+      },
+      "average": 3.08
+    },
+    {
+      "name": "Nakło nad Notecią",
+      "admin1_code": "73",
+      "location": [
+        53.14214,
+        17.60181
+      ],
+      "monthly": {
+        "Jan": 1.08,
+        "Feb": 2,
+        "Mar": 3.22,
+        "Apr": 4.26,
+        "May": 4.59,
+        "Jun": 4.53,
+        "Jul": 4.26,
+        "Aug": 4.14,
+        "Sep": 3.43,
+        "Oct": 2.31,
+        "Nov": 1.12,
+        "Dec": 0.86
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Myszków",
+      "admin1_code": "83",
+      "location": [
+        50.5752,
+        19.32461
+      ],
+      "monthly": {
+        "Jan": 1.4,
+        "Feb": 2.12,
+        "Mar": 3.23,
+        "Apr": 3.98,
+        "May": 4.3,
+        "Jun": 4.34,
+        "Jul": 4.25,
+        "Aug": 4.15,
+        "Sep": 3.41,
+        "Oct": 2.5,
+        "Nov": 1.43,
+        "Dec": 1.18
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Mysłowice",
+      "admin1_code": "83",
+      "location": [
+        50.20745,
+        19.16668
+      ],
+      "monthly": {
+        "Jan": 1.46,
+        "Feb": 2.21,
+        "Mar": 3.2,
+        "Apr": 3.91,
+        "May": 4.2,
+        "Jun": 4.3,
+        "Jul": 4.25,
+        "Aug": 4.15,
+        "Sep": 3.37,
+        "Oct": 2.5,
+        "Nov": 1.47,
+        "Dec": 1.2
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Myślenice",
+      "admin1_code": "77",
+      "location": [
+        49.83383,
+        19.9383
+      ],
+      "monthly": {
+        "Jan": 1.63,
+        "Feb": 2.27,
+        "Mar": 3.21,
+        "Apr": 3.89,
+        "May": 4.13,
+        "Jun": 4.26,
+        "Jul": 4.23,
+        "Aug": 4.17,
+        "Sep": 3.37,
+        "Oct": 2.6,
+        "Nov": 1.6,
+        "Dec": 1.34
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Mikołów",
+      "admin1_code": "83",
+      "location": [
+        50.17103,
+        18.9041
+      ],
+      "monthly": {
+        "Jan": 1.46,
+        "Feb": 2.18,
+        "Mar": 3.18,
+        "Apr": 3.94,
+        "May": 4.22,
+        "Jun": 4.32,
+        "Jul": 4.26,
+        "Aug": 4.16,
+        "Sep": 3.39,
+        "Oct": 2.49,
+        "Nov": 1.47,
+        "Dec": 1.19
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Międzyrzecz",
+      "admin1_code": "76",
+      "location": [
+        52.44461,
+        15.57801
+      ],
+      "monthly": {
+        "Jan": 1.17,
+        "Feb": 2.02,
+        "Mar": 3.07,
+        "Apr": 4.1,
+        "May": 4.39,
+        "Jun": 4.34,
+        "Jul": 4.19,
+        "Aug": 4.02,
+        "Sep": 3.34,
+        "Oct": 2.28,
+        "Nov": 1.24,
+        "Dec": 0.95
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Malbork",
+      "admin1_code": "82",
+      "location": [
+        54.03591,
+        19.0266
+      ],
+      "monthly": {
+        "Jan": 1.08,
+        "Feb": 1.99,
+        "Mar": 3.17,
+        "Apr": 4.21,
+        "May": 4.66,
+        "Jun": 4.58,
+        "Jul": 4.19,
+        "Aug": 4.09,
+        "Sep": 3.44,
+        "Oct": 2.33,
+        "Nov": 1.11,
+        "Dec": 0.8
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Luboń",
+      "admin1_code": "86",
+      "location": [
+        52.34705,
+        16.89267
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2.03,
+        "Mar": 3.12,
+        "Apr": 4.16,
+        "May": 4.5,
+        "Jun": 4.45,
+        "Jul": 4.27,
+        "Aug": 4.09,
+        "Sep": 3.38,
+        "Oct": 2.3,
+        "Nov": 1.25,
+        "Dec": 0.96
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Lubliniec",
+      "admin1_code": "83",
+      "location": [
+        50.66897,
+        18.6844
+      ],
+      "monthly": {
+        "Jan": 1.4,
+        "Feb": 2.12,
+        "Mar": 3.23,
+        "Apr": 3.99,
+        "May": 4.3,
+        "Jun": 4.32,
+        "Jul": 4.23,
+        "Aug": 4.14,
+        "Sep": 3.4,
+        "Oct": 2.49,
+        "Nov": 1.43,
+        "Dec": 1.17
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Lubin",
+      "admin1_code": "72",
+      "location": [
+        51.40089,
+        16.20149
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.19,
+        "Mar": 3.16,
+        "Apr": 4.06,
+        "May": 4.4,
+        "Jun": 4.35,
+        "Jul": 4.26,
+        "Aug": 4.12,
+        "Sep": 3.39,
+        "Oct": 2.43,
+        "Nov": 1.44,
+        "Dec": 1.16
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Lubań",
+      "admin1_code": "72",
+      "location": [
+        51.12014,
+        15.28768
+      ],
+      "monthly": {
+        "Jan": 1.41,
+        "Feb": 2.23,
+        "Mar": 3.16,
+        "Apr": 4.05,
+        "May": 4.33,
+        "Jun": 4.34,
+        "Jul": 4.2,
+        "Aug": 4.1,
+        "Sep": 3.38,
+        "Oct": 2.48,
+        "Nov": 1.54,
+        "Dec": 1.26
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Łowicz",
+      "admin1_code": "74",
+      "location": [
+        52.10714,
+        19.94525
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2,
+        "Mar": 3.19,
+        "Apr": 4.13,
+        "May": 4.59,
+        "Jun": 4.58,
+        "Jul": 4.3,
+        "Aug": 4.24,
+        "Sep": 3.43,
+        "Oct": 2.37,
+        "Nov": 1.26,
+        "Dec": 0.94
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Łódź",
+      "admin1_code": "74",
+      "location": [
+        51.77058,
+        19.47395
+      ],
+      "monthly": {
+        "Jan": 1.24,
+        "Feb": 1.96,
+        "Mar": 3.13,
+        "Apr": 4.02,
+        "May": 4.49,
+        "Jun": 4.49,
+        "Jul": 4.24,
+        "Aug": 4.16,
+        "Sep": 3.39,
+        "Oct": 2.35,
+        "Nov": 1.26,
+        "Dec": 1
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Libiąż",
+      "admin1_code": "77",
+      "location": [
+        50.10396,
+        19.31568
+      ],
+      "monthly": {
+        "Jan": 1.48,
+        "Feb": 2.2,
+        "Mar": 3.19,
+        "Apr": 3.97,
+        "May": 4.24,
+        "Jun": 4.31,
+        "Jul": 4.26,
+        "Aug": 4.18,
+        "Sep": 3.37,
+        "Oct": 2.51,
+        "Nov": 1.48,
+        "Dec": 1.22
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Leszno",
+      "admin1_code": "86",
+      "location": [
+        51.84034,
+        16.57494
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.13,
+        "Mar": 3.15,
+        "Apr": 4.17,
+        "May": 4.47,
+        "Jun": 4.41,
+        "Jul": 4.27,
+        "Aug": 4.15,
+        "Sep": 3.43,
+        "Oct": 2.39,
+        "Nov": 1.37,
+        "Dec": 1.06
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Legnica",
+      "admin1_code": "72",
+      "location": [
+        51.21006,
+        16.1619
+      ],
+      "monthly": {
+        "Jan": 1.37,
+        "Feb": 2.25,
+        "Mar": 3.19,
+        "Apr": 4.1,
+        "May": 4.44,
+        "Jun": 4.4,
+        "Jul": 4.24,
+        "Aug": 4.13,
+        "Sep": 3.4,
+        "Oct": 2.47,
+        "Nov": 1.5,
+        "Dec": 1.22
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Lędziny",
+      "admin1_code": "83",
+      "location": [
+        50.14264,
+        19.13149
+      ],
+      "monthly": {
+        "Jan": 1.47,
+        "Feb": 2.2,
+        "Mar": 3.2,
+        "Apr": 3.93,
+        "May": 4.21,
+        "Jun": 4.3,
+        "Jul": 4.25,
+        "Aug": 4.16,
+        "Sep": 3.37,
+        "Oct": 2.51,
+        "Nov": 1.47,
+        "Dec": 1.2
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Łęczyca",
+      "admin1_code": "74",
+      "location": [
+        52.05959,
+        19.19972
+      ],
+      "monthly": {
+        "Jan": 1.24,
+        "Feb": 2,
+        "Mar": 3.25,
+        "Apr": 4.19,
+        "May": 4.63,
+        "Jun": 4.6,
+        "Jul": 4.32,
+        "Aug": 4.22,
+        "Sep": 3.46,
+        "Oct": 2.4,
+        "Nov": 1.29,
+        "Dec": 0.97
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Lębork",
+      "admin1_code": "82",
+      "location": [
+        54.53921,
+        17.75012
+      ],
+      "monthly": {
+        "Jan": 1,
+        "Feb": 1.83,
+        "Mar": 3.02,
+        "Apr": 4.19,
+        "May": 4.64,
+        "Jun": 4.48,
+        "Jul": 4.17,
+        "Aug": 3.93,
+        "Sep": 3.26,
+        "Oct": 2.14,
+        "Nov": 1.08,
+        "Dec": 0.73
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Łaziska Górne",
+      "admin1_code": "83",
+      "location": [
+        50.14952,
+        18.84215
+      ],
+      "monthly": {
+        "Jan": 1.47,
+        "Feb": 2.21,
+        "Mar": 3.21,
+        "Apr": 3.99,
+        "May": 4.27,
+        "Jun": 4.37,
+        "Jul": 4.3,
+        "Aug": 4.2,
+        "Sep": 3.41,
+        "Oct": 2.51,
+        "Nov": 1.48,
+        "Dec": 1.21
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Łask",
+      "admin1_code": "74",
+      "location": [
+        51.59056,
+        19.13278
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.02,
+        "Mar": 3.18,
+        "Apr": 4.07,
+        "May": 4.52,
+        "Jun": 4.48,
+        "Jul": 4.28,
+        "Aug": 4.19,
+        "Sep": 3.45,
+        "Oct": 2.4,
+        "Nov": 1.29,
+        "Dec": 1.03
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Kwidzyn",
+      "admin1_code": "82",
+      "location": [
+        53.72495,
+        18.93114
+      ],
+      "monthly": {
+        "Jan": 1.06,
+        "Feb": 2.02,
+        "Mar": 3.19,
+        "Apr": 4.2,
+        "May": 4.62,
+        "Jun": 4.54,
+        "Jul": 4.22,
+        "Aug": 4.11,
+        "Sep": 3.41,
+        "Oct": 2.28,
+        "Nov": 1.09,
+        "Dec": 0.81
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Kutno",
+      "admin1_code": "74",
+      "location": [
+        52.23064,
+        19.36409
+      ],
+      "monthly": {
+        "Jan": 1.23,
+        "Feb": 2.01,
+        "Mar": 3.23,
+        "Apr": 4.19,
+        "May": 4.64,
+        "Jun": 4.61,
+        "Jul": 4.29,
+        "Aug": 4.19,
+        "Sep": 3.44,
+        "Oct": 2.38,
+        "Nov": 1.25,
+        "Dec": 0.93
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Krotoszyn",
+      "admin1_code": "86",
+      "location": [
+        51.69868,
+        17.43738
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.11,
+        "Mar": 3.17,
+        "Apr": 4.16,
+        "May": 4.53,
+        "Jun": 4.49,
+        "Jul": 4.29,
+        "Aug": 4.22,
+        "Sep": 3.47,
+        "Oct": 2.44,
+        "Nov": 1.36,
+        "Dec": 1.08
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Krapkowice",
+      "admin1_code": "79",
+      "location": [
+        50.47515,
+        17.96539
+      ],
+      "monthly": {
+        "Jan": 1.44,
+        "Feb": 2.22,
+        "Mar": 3.18,
+        "Apr": 4.07,
+        "May": 4.38,
+        "Jun": 4.39,
+        "Jul": 4.28,
+        "Aug": 4.19,
+        "Sep": 3.43,
+        "Oct": 2.49,
+        "Nov": 1.51,
+        "Dec": 1.23
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Kraków",
+      "admin1_code": "77",
+      "location": [
+        50.06143,
+        19.93658
+      ],
+      "monthly": {
+        "Jan": 1.5,
+        "Feb": 2.23,
+        "Mar": 3.24,
+        "Apr": 3.94,
+        "May": 4.29,
+        "Jun": 4.36,
+        "Jul": 4.3,
+        "Aug": 4.21,
+        "Sep": 3.38,
+        "Oct": 2.54,
+        "Nov": 1.45,
+        "Dec": 1.23
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Koszalin",
+      "admin1_code": "87",
+      "location": [
+        54.19438,
+        16.17222
+      ],
+      "monthly": {
+        "Jan": 1.07,
+        "Feb": 1.91,
+        "Mar": 3.15,
+        "Apr": 4.3,
+        "May": 4.72,
+        "Jun": 4.62,
+        "Jul": 4.35,
+        "Aug": 4.03,
+        "Sep": 3.32,
+        "Oct": 2.21,
+        "Nov": 1.12,
+        "Dec": 0.73
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Kostrzyn nad Odrą",
+      "admin1_code": "76",
+      "location": [
+        52.58713,
+        14.64953
+      ],
+      "monthly": {
+        "Jan": 1.16,
+        "Feb": 2.06,
+        "Mar": 3.09,
+        "Apr": 4.14,
+        "May": 4.46,
+        "Jun": 4.41,
+        "Jul": 4.21,
+        "Aug": 4.02,
+        "Sep": 3.33,
+        "Oct": 2.26,
+        "Nov": 1.28,
+        "Dec": 0.94
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Kościerzyna",
+      "admin1_code": "82",
+      "location": [
+        54.12226,
+        17.98119
+      ],
+      "monthly": {
+        "Jan": 0.99,
+        "Feb": 1.83,
+        "Mar": 3.08,
+        "Apr": 4.11,
+        "May": 4.54,
+        "Jun": 4.38,
+        "Jul": 4.12,
+        "Aug": 3.95,
+        "Sep": 3.26,
+        "Oct": 2.15,
+        "Nov": 0.99,
+        "Dec": 0.71
+      },
+      "average": 2.84
+    },
+    {
+      "name": "Kościan",
+      "admin1_code": "86",
+      "location": [
+        52.08829,
+        16.64866
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.11,
+        "Mar": 3.18,
+        "Apr": 4.21,
+        "May": 4.52,
+        "Jun": 4.46,
+        "Jul": 4.3,
+        "Aug": 4.18,
+        "Sep": 3.46,
+        "Oct": 2.38,
+        "Nov": 1.34,
+        "Dec": 1.03
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Konstantynów Łódzki",
+      "admin1_code": "74",
+      "location": [
+        51.74776,
+        19.32564
+      ],
+      "monthly": {
+        "Jan": 1.23,
+        "Feb": 1.97,
+        "Mar": 3.17,
+        "Apr": 4.06,
+        "May": 4.54,
+        "Jun": 4.52,
+        "Jul": 4.26,
+        "Aug": 4.18,
+        "Sep": 3.42,
+        "Oct": 2.38,
+        "Nov": 1.26,
+        "Dec": 0.99
+      },
+      "average": 3
+    },
+    {
+      "name": "Konin",
+      "admin1_code": "86",
+      "location": [
+        52.22338,
+        18.25121
+      ],
+      "monthly": {
+        "Jan": 1.2,
+        "Feb": 2.01,
+        "Mar": 3.17,
+        "Apr": 4.15,
+        "May": 4.55,
+        "Jun": 4.49,
+        "Jul": 4.27,
+        "Aug": 4.15,
+        "Sep": 3.43,
+        "Oct": 2.35,
+        "Nov": 1.25,
+        "Dec": 0.99
+      },
+      "average": 3
+    },
+    {
+      "name": "Kołobrzeg",
+      "admin1_code": "87",
+      "location": [
+        54.17565,
+        15.58342
+      ],
+      "monthly": {
+        "Jan": 1.06,
+        "Feb": 1.92,
+        "Mar": 3.12,
+        "Apr": 4.3,
+        "May": 4.78,
+        "Jun": 4.7,
+        "Jul": 4.43,
+        "Aug": 4.08,
+        "Sep": 3.32,
+        "Oct": 2.15,
+        "Nov": 1.09,
+        "Dec": 0.74
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Koło",
+      "admin1_code": "86",
+      "location": [
+        52.20024,
+        18.63865
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2.02,
+        "Mar": 3.21,
+        "Apr": 4.16,
+        "May": 4.57,
+        "Jun": 4.49,
+        "Jul": 4.29,
+        "Aug": 4.18,
+        "Sep": 3.45,
+        "Oct": 2.37,
+        "Nov": 1.25,
+        "Dec": 0.94
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Knurów",
+      "admin1_code": "83",
+      "location": [
+        50.21971,
+        18.65067
+      ],
+      "monthly": {
+        "Jan": 1.46,
+        "Feb": 2.21,
+        "Mar": 3.21,
+        "Apr": 3.98,
+        "May": 4.28,
+        "Jun": 4.37,
+        "Jul": 4.29,
+        "Aug": 4.19,
+        "Sep": 3.41,
+        "Oct": 2.51,
+        "Nov": 1.49,
+        "Dec": 1.19
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Kluczbork",
+      "admin1_code": "79",
+      "location": [
+        50.97281,
+        18.21816
+      ],
+      "monthly": {
+        "Jan": 1.38,
+        "Feb": 2.14,
+        "Mar": 3.25,
+        "Apr": 4.1,
+        "May": 4.44,
+        "Jun": 4.43,
+        "Jul": 4.27,
+        "Aug": 4.2,
+        "Sep": 3.5,
+        "Oct": 2.52,
+        "Nov": 1.46,
+        "Dec": 1.16
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Kłodzko",
+      "admin1_code": "72",
+      "location": [
+        50.43488,
+        16.66145
+      ],
+      "monthly": {
+        "Jan": 1.41,
+        "Feb": 2.23,
+        "Mar": 3.19,
+        "Apr": 4.05,
+        "May": 4.31,
+        "Jun": 4.3,
+        "Jul": 4.19,
+        "Aug": 4.11,
+        "Sep": 3.37,
+        "Oct": 2.45,
+        "Nov": 1.47,
+        "Dec": 1.18
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Kęty",
+      "admin1_code": "77",
+      "location": [
+        49.88214,
+        19.22333
+      ],
+      "monthly": {
+        "Jan": 1.57,
+        "Feb": 2.22,
+        "Mar": 3.2,
+        "Apr": 3.98,
+        "May": 4.19,
+        "Jun": 4.33,
+        "Jul": 4.29,
+        "Aug": 4.22,
+        "Sep": 3.38,
+        "Oct": 2.57,
+        "Nov": 1.56,
+        "Dec": 1.3
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Kędzierzyn-Koźle",
+      "admin1_code": "79",
+      "location": [
+        50.34984,
+        18.22606
+      ],
+      "monthly": {
+        "Jan": 1.42,
+        "Feb": 2.23,
+        "Mar": 3.18,
+        "Apr": 4.03,
+        "May": 4.33,
+        "Jun": 4.39,
+        "Jul": 4.26,
+        "Aug": 4.19,
+        "Sep": 3.42,
+        "Oct": 2.49,
+        "Nov": 1.46,
+        "Dec": 1.2
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Katowice",
+      "admin1_code": "83",
+      "location": [
+        50.2597,
+        19.02173
+      ],
+      "monthly": {
+        "Jan": 1.44,
+        "Feb": 2.18,
+        "Mar": 3.17,
+        "Apr": 3.91,
+        "May": 4.22,
+        "Jun": 4.3,
+        "Jul": 4.24,
+        "Aug": 4.14,
+        "Sep": 3.37,
+        "Oct": 2.48,
+        "Nov": 1.47,
+        "Dec": 1.2
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Kartuzy",
+      "admin1_code": "82",
+      "location": [
+        54.33424,
+        18.19735
+      ],
+      "monthly": {
+        "Jan": 0.98,
+        "Feb": 1.8,
+        "Mar": 3.07,
+        "Apr": 4.2,
+        "May": 4.64,
+        "Jun": 4.48,
+        "Jul": 4.18,
+        "Aug": 4,
+        "Sep": 3.28,
+        "Oct": 2.19,
+        "Nov": 1.03,
+        "Dec": 0.73
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Kamienna Góra",
+      "admin1_code": "72",
+      "location": [
+        50.78314,
+        16.03037
+      ],
+      "monthly": {
+        "Jan": 1.42,
+        "Feb": 2.26,
+        "Mar": 3.22,
+        "Apr": 3.97,
+        "May": 4.19,
+        "Jun": 4.15,
+        "Jul": 4.06,
+        "Aug": 3.98,
+        "Sep": 3.27,
+        "Oct": 2.43,
+        "Nov": 1.46,
+        "Dec": 1.19
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Kalisz",
+      "admin1_code": "86",
+      "location": [
+        51.76109,
+        18.09102
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.09,
+        "Mar": 3.18,
+        "Apr": 4.13,
+        "May": 4.56,
+        "Jun": 4.53,
+        "Jul": 4.29,
+        "Aug": 4.19,
+        "Sep": 3.47,
+        "Oct": 2.41,
+        "Nov": 1.31,
+        "Dec": 1.04
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Jelenia Góra",
+      "admin1_code": "72",
+      "location": [
+        50.89973,
+        15.72899
+      ],
+      "monthly": {
+        "Jan": 1.54,
+        "Feb": 2.29,
+        "Mar": 3.19,
+        "Apr": 3.92,
+        "May": 4.15,
+        "Jun": 4.14,
+        "Jul": 4.05,
+        "Aug": 3.96,
+        "Sep": 3.27,
+        "Oct": 2.53,
+        "Nov": 1.66,
+        "Dec": 1.38
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Jelcz",
+      "admin1_code": "72",
+      "location": [
+        51.02102,
+        17.32095
+      ],
+      "monthly": {
+        "Jan": 1.37,
+        "Feb": 2.2,
+        "Mar": 3.2,
+        "Apr": 4.12,
+        "May": 4.47,
+        "Jun": 4.49,
+        "Jul": 4.32,
+        "Aug": 4.18,
+        "Sep": 3.43,
+        "Oct": 2.43,
+        "Nov": 1.46,
+        "Dec": 1.16
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Jaworzno",
+      "admin1_code": "83",
+      "location": [
+        50.20528,
+        19.27498
+      ],
+      "monthly": {
+        "Jan": 1.47,
+        "Feb": 2.22,
+        "Mar": 3.19,
+        "Apr": 3.92,
+        "May": 4.21,
+        "Jun": 4.29,
+        "Jul": 4.23,
+        "Aug": 4.13,
+        "Sep": 3.36,
+        "Oct": 2.5,
+        "Nov": 1.47,
+        "Dec": 1.21
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Jawor",
+      "admin1_code": "72",
+      "location": [
+        51.05132,
+        16.19347
+      ],
+      "monthly": {
+        "Jan": 1.52,
+        "Feb": 2.34,
+        "Mar": 3.27,
+        "Apr": 4.11,
+        "May": 4.41,
+        "Jun": 4.39,
+        "Jul": 4.22,
+        "Aug": 4.18,
+        "Sep": 3.46,
+        "Oct": 2.61,
+        "Nov": 1.65,
+        "Dec": 1.34
+      },
+      "average": 3.13
+    },
+    {
+      "name": "Jastrzębie Zdrój",
+      "admin1_code": "83",
+      "location": [
+        49.95542,
+        18.57479
+      ],
+      "monthly": {
+        "Jan": 1.5,
+        "Feb": 2.23,
+        "Mar": 3.22,
+        "Apr": 4,
+        "May": 4.23,
+        "Jun": 4.34,
+        "Jul": 4.29,
+        "Aug": 4.23,
+        "Sep": 3.39,
+        "Oct": 2.53,
+        "Nov": 1.52,
+        "Dec": 1.22
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Jarocin",
+      "admin1_code": "86",
+      "location": [
+        51.97266,
+        17.50256
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.07,
+        "Mar": 3.15,
+        "Apr": 4.17,
+        "May": 4.53,
+        "Jun": 4.48,
+        "Jul": 4.26,
+        "Aug": 4.18,
+        "Sep": 3.43,
+        "Oct": 2.39,
+        "Nov": 1.32,
+        "Dec": 1.02
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Inowrocław",
+      "admin1_code": "73",
+      "location": [
+        52.79886,
+        18.26387
+      ],
+      "monthly": {
+        "Jan": 1.14,
+        "Feb": 2.03,
+        "Mar": 3.19,
+        "Apr": 4.22,
+        "May": 4.59,
+        "Jun": 4.56,
+        "Jul": 4.27,
+        "Aug": 4.16,
+        "Sep": 3.42,
+        "Oct": 2.34,
+        "Nov": 1.16,
+        "Dec": 0.91
+      },
+      "average": 3
+    },
+    {
+      "name": "Iława",
+      "admin1_code": "85",
+      "location": [
+        53.59601,
+        19.56849
+      ],
+      "monthly": {
+        "Jan": 1.04,
+        "Feb": 1.91,
+        "Mar": 3.12,
+        "Apr": 4.1,
+        "May": 4.57,
+        "Jun": 4.52,
+        "Jul": 4.2,
+        "Aug": 4.08,
+        "Sep": 3.37,
+        "Oct": 2.23,
+        "Nov": 1.02,
+        "Dec": 0.74
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Gubin",
+      "admin1_code": "76",
+      "location": [
+        51.94956,
+        14.72837
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2.12,
+        "Mar": 3.11,
+        "Apr": 4.09,
+        "May": 4.36,
+        "Jun": 4.34,
+        "Jul": 4.22,
+        "Aug": 4.06,
+        "Sep": 3.36,
+        "Oct": 2.35,
+        "Nov": 1.37,
+        "Dec": 1.05
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Grzegórzki",
+      "admin1_code": "77",
+      "location": [
+        50.06423,
+        19.96761
+      ],
+      "monthly": {
+        "Jan": 1.5,
+        "Feb": 2.24,
+        "Mar": 3.25,
+        "Apr": 3.96,
+        "May": 4.31,
+        "Jun": 4.37,
+        "Jul": 4.31,
+        "Aug": 4.22,
+        "Sep": 3.4,
+        "Oct": 2.55,
+        "Nov": 1.46,
+        "Dec": 1.24
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Gryfino",
+      "admin1_code": "87",
+      "location": [
+        53.25243,
+        14.48831
+      ],
+      "monthly": {
+        "Jan": 1.09,
+        "Feb": 2,
+        "Mar": 3.08,
+        "Apr": 4.18,
+        "May": 4.48,
+        "Jun": 4.38,
+        "Jul": 4.16,
+        "Aug": 3.96,
+        "Sep": 3.31,
+        "Oct": 2.22,
+        "Nov": 1.22,
+        "Dec": 0.85
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Gryfice",
+      "admin1_code": "87",
+      "location": [
+        53.9165,
+        15.20027
+      ],
+      "monthly": {
+        "Jan": 1.06,
+        "Feb": 1.92,
+        "Mar": 3.13,
+        "Apr": 4.26,
+        "May": 4.59,
+        "Jun": 4.49,
+        "Jul": 4.23,
+        "Aug": 3.97,
+        "Sep": 3.31,
+        "Oct": 2.21,
+        "Nov": 1.16,
+        "Dec": 0.75
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Grudziądz",
+      "admin1_code": "73",
+      "location": [
+        53.48411,
+        18.75366
+      ],
+      "monthly": {
+        "Jan": 1.05,
+        "Feb": 2.01,
+        "Mar": 3.18,
+        "Apr": 4.17,
+        "May": 4.59,
+        "Jun": 4.5,
+        "Jul": 4.2,
+        "Aug": 4.11,
+        "Sep": 3.36,
+        "Oct": 2.26,
+        "Nov": 1.08,
+        "Dec": 0.81
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Gostynin",
+      "admin1_code": "78",
+      "location": [
+        52.42938,
+        19.46194
+      ],
+      "monthly": {
+        "Jan": 1.14,
+        "Feb": 1.95,
+        "Mar": 3.12,
+        "Apr": 4.1,
+        "May": 4.57,
+        "Jun": 4.53,
+        "Jul": 4.24,
+        "Aug": 4.13,
+        "Sep": 3.37,
+        "Oct": 2.28,
+        "Nov": 1.16,
+        "Dec": 0.88
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Gostyń",
+      "admin1_code": "86",
+      "location": [
+        51.88247,
+        17.01225
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.12,
+        "Mar": 3.19,
+        "Apr": 4.22,
+        "May": 4.53,
+        "Jun": 4.48,
+        "Jul": 4.3,
+        "Aug": 4.18,
+        "Sep": 3.46,
+        "Oct": 2.43,
+        "Nov": 1.36,
+        "Dec": 1.05
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Gorzów Wielkopolski",
+      "admin1_code": "76",
+      "location": [
+        52.73371,
+        15.22505
+      ],
+      "monthly": {
+        "Jan": 1.13,
+        "Feb": 1.99,
+        "Mar": 3.08,
+        "Apr": 4.14,
+        "May": 4.42,
+        "Jun": 4.39,
+        "Jul": 4.18,
+        "Aug": 4.01,
+        "Sep": 3.32,
+        "Oct": 2.23,
+        "Nov": 1.2,
+        "Dec": 0.91
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Goleniów",
+      "admin1_code": "87",
+      "location": [
+        53.56392,
+        14.82854
+      ],
+      "monthly": {
+        "Jan": 1.05,
+        "Feb": 1.89,
+        "Mar": 3.01,
+        "Apr": 4.12,
+        "May": 4.41,
+        "Jun": 4.36,
+        "Jul": 4.18,
+        "Aug": 3.91,
+        "Sep": 3.23,
+        "Oct": 2.13,
+        "Nov": 1.13,
+        "Dec": 0.79
+      },
+      "average": 2.85
+    },
+    {
+      "name": "Gniezno",
+      "admin1_code": "86",
+      "location": [
+        52.53481,
+        17.58259
+      ],
+      "monthly": {
+        "Jan": 1.2,
+        "Feb": 2.05,
+        "Mar": 3.24,
+        "Apr": 4.25,
+        "May": 4.59,
+        "Jun": 4.54,
+        "Jul": 4.27,
+        "Aug": 4.16,
+        "Sep": 3.44,
+        "Oct": 2.38,
+        "Nov": 1.24,
+        "Dec": 0.96
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Głuchołazy",
+      "admin1_code": "79",
+      "location": [
+        50.31505,
+        17.38355
+      ],
+      "monthly": {
+        "Jan": 1.56,
+        "Feb": 2.29,
+        "Mar": 3.19,
+        "Apr": 3.96,
+        "May": 4.16,
+        "Jun": 4.18,
+        "Jul": 4.12,
+        "Aug": 4.11,
+        "Sep": 3.37,
+        "Oct": 2.59,
+        "Nov": 1.63,
+        "Dec": 1.35
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Głowno",
+      "admin1_code": "74",
+      "location": [
+        51.96463,
+        19.71565
+      ],
+      "monthly": {
+        "Jan": 1.23,
+        "Feb": 1.97,
+        "Mar": 3.17,
+        "Apr": 4.06,
+        "May": 4.53,
+        "Jun": 4.53,
+        "Jul": 4.25,
+        "Aug": 4.18,
+        "Sep": 3.4,
+        "Oct": 2.38,
+        "Nov": 1.27,
+        "Dec": 0.96
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Głogów",
+      "admin1_code": "72",
+      "location": [
+        51.66361,
+        16.0845
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.16,
+        "Mar": 3.14,
+        "Apr": 4.13,
+        "May": 4.48,
+        "Jun": 4.4,
+        "Jul": 4.26,
+        "Aug": 4.12,
+        "Sep": 3.41,
+        "Oct": 2.42,
+        "Nov": 1.4,
+        "Dec": 1.08
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Gliwice",
+      "admin1_code": "83",
+      "location": [
+        50.29761,
+        18.67658
+      ],
+      "monthly": {
+        "Jan": 1.43,
+        "Feb": 2.18,
+        "Mar": 3.21,
+        "Apr": 3.98,
+        "May": 4.29,
+        "Jun": 4.37,
+        "Jul": 4.28,
+        "Aug": 4.18,
+        "Sep": 3.41,
+        "Oct": 2.51,
+        "Nov": 1.48,
+        "Dec": 1.18
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Gdynia",
+      "admin1_code": "82",
+      "location": [
+        54.51889,
+        18.53188
+      ],
+      "monthly": {
+        "Jan": 1.02,
+        "Feb": 1.84,
+        "Mar": 3.12,
+        "Apr": 4.22,
+        "May": 4.7,
+        "Jun": 4.61,
+        "Jul": 4.26,
+        "Aug": 4.03,
+        "Sep": 3.31,
+        "Oct": 2.17,
+        "Nov": 1.08,
+        "Dec": 0.81
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Gdańsk",
+      "admin1_code": "82",
+      "location": [
+        54.35227,
+        18.64912
+      ],
+      "monthly": {
+        "Jan": 1.06,
+        "Feb": 1.93,
+        "Mar": 3.19,
+        "Apr": 4.23,
+        "May": 4.65,
+        "Jun": 4.56,
+        "Jul": 4.26,
+        "Aug": 4.05,
+        "Sep": 3.37,
+        "Oct": 2.25,
+        "Nov": 1.11,
+        "Dec": 0.83
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Fordon",
+      "admin1_code": "73",
+      "location": [
+        53.14821,
+        18.17036
+      ],
+      "monthly": {
+        "Jan": 1.08,
+        "Feb": 2,
+        "Mar": 3.12,
+        "Apr": 4.1,
+        "May": 4.46,
+        "Jun": 4.41,
+        "Jul": 4.17,
+        "Aug": 4.05,
+        "Sep": 3.31,
+        "Oct": 2.22,
+        "Nov": 1.08,
+        "Dec": 0.86
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Elbląg",
+      "admin1_code": "85",
+      "location": [
+        54.1522,
+        19.40884
+      ],
+      "monthly": {
+        "Jan": 1.03,
+        "Feb": 1.97,
+        "Mar": 3.18,
+        "Apr": 4.23,
+        "May": 4.72,
+        "Jun": 4.62,
+        "Jul": 4.27,
+        "Aug": 4.09,
+        "Sep": 3.4,
+        "Oct": 2.26,
+        "Nov": 1.06,
+        "Dec": 0.76
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Dzierżoniów",
+      "admin1_code": "72",
+      "location": [
+        50.7282,
+        16.65141
+      ],
+      "monthly": {
+        "Jan": 1.56,
+        "Feb": 2.34,
+        "Mar": 3.24,
+        "Apr": 4.07,
+        "May": 4.35,
+        "Jun": 4.28,
+        "Jul": 4.16,
+        "Aug": 4.11,
+        "Sep": 3.38,
+        "Oct": 2.57,
+        "Nov": 1.67,
+        "Dec": 1.34
+      },
+      "average": 3.09
+    },
+    {
+      "name": "Dąbrowa Górnicza",
+      "admin1_code": "83",
+      "location": [
+        50.33394,
+        19.20479
+      ],
+      "monthly": {
+        "Jan": 1.45,
+        "Feb": 2.2,
+        "Mar": 3.21,
+        "Apr": 3.94,
+        "May": 4.26,
+        "Jun": 4.33,
+        "Jul": 4.25,
+        "Aug": 4.16,
+        "Sep": 3.38,
+        "Oct": 2.49,
+        "Nov": 1.45,
+        "Dec": 1.2
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Częstochowa",
+      "admin1_code": "83",
+      "location": [
+        50.79646,
+        19.12409
+      ],
+      "monthly": {
+        "Jan": 1.4,
+        "Feb": 2.1,
+        "Mar": 3.24,
+        "Apr": 4,
+        "May": 4.36,
+        "Jun": 4.37,
+        "Jul": 4.28,
+        "Aug": 4.17,
+        "Sep": 3.43,
+        "Oct": 2.49,
+        "Nov": 1.42,
+        "Dec": 1.16
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Czerwionka-Leszczyny",
+      "admin1_code": "83",
+      "location": [
+        50.15007,
+        18.67762
+      ],
+      "monthly": {
+        "Jan": 1.49,
+        "Feb": 2.22,
+        "Mar": 3.2,
+        "Apr": 3.96,
+        "May": 4.24,
+        "Jun": 4.34,
+        "Jul": 4.27,
+        "Aug": 4.18,
+        "Sep": 3.39,
+        "Oct": 2.5,
+        "Nov": 1.5,
+        "Dec": 1.22
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Czeladź",
+      "admin1_code": "83",
+      "location": [
+        50.31542,
+        19.07824
+      ],
+      "monthly": {
+        "Jan": 1.45,
+        "Feb": 2.2,
+        "Mar": 3.21,
+        "Apr": 3.95,
+        "May": 4.26,
+        "Jun": 4.33,
+        "Jul": 4.27,
+        "Aug": 4.16,
+        "Sep": 3.39,
+        "Oct": 2.5,
+        "Nov": 1.47,
+        "Dec": 1.2
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Czechowice-Dziedzice",
+      "admin1_code": "83",
+      "location": [
+        49.91342,
+        19.00479
+      ],
+      "monthly": {
+        "Jan": 1.54,
+        "Feb": 2.23,
+        "Mar": 3.22,
+        "Apr": 4.01,
+        "May": 4.22,
+        "Jun": 4.38,
+        "Jul": 4.33,
+        "Aug": 4.27,
+        "Sep": 3.41,
+        "Oct": 2.56,
+        "Nov": 1.53,
+        "Dec": 1.26
+      },
+      "average": 3.08
+    },
+    {
+      "name": "Cieszyn",
+      "admin1_code": "83",
+      "location": [
+        49.75133,
+        18.63213
+      ],
+      "monthly": {
+        "Jan": 1.54,
+        "Feb": 2.28,
+        "Mar": 3.2,
+        "Apr": 3.95,
+        "May": 4.15,
+        "Jun": 4.3,
+        "Jul": 4.29,
+        "Aug": 4.23,
+        "Sep": 3.37,
+        "Oct": 2.55,
+        "Nov": 1.58,
+        "Dec": 1.31
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Chrzanów",
+      "admin1_code": "77",
+      "location": [
+        50.13546,
+        19.40203
+      ],
+      "monthly": {
+        "Jan": 1.49,
+        "Feb": 2.21,
+        "Mar": 3.19,
+        "Apr": 3.93,
+        "May": 4.21,
+        "Jun": 4.28,
+        "Jul": 4.23,
+        "Aug": 4.14,
+        "Sep": 3.36,
+        "Oct": 2.52,
+        "Nov": 1.47,
+        "Dec": 1.23
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Choszczno",
+      "admin1_code": "87",
+      "location": [
+        53.16905,
+        15.42054
+      ],
+      "monthly": {
+        "Jan": 1.07,
+        "Feb": 1.92,
+        "Mar": 3.1,
+        "Apr": 4.2,
+        "May": 4.5,
+        "Jun": 4.44,
+        "Jul": 4.17,
+        "Aug": 4,
+        "Sep": 3.32,
+        "Oct": 2.22,
+        "Nov": 1.16,
+        "Dec": 0.81
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Chorzów",
+      "admin1_code": "83",
+      "location": [
+        50.30582,
+        18.9742
+      ],
+      "monthly": {
+        "Jan": 1.44,
+        "Feb": 2.19,
+        "Mar": 3.19,
+        "Apr": 3.94,
+        "May": 4.26,
+        "Jun": 4.33,
+        "Jul": 4.27,
+        "Aug": 4.16,
+        "Sep": 3.4,
+        "Oct": 2.49,
+        "Nov": 1.47,
+        "Dec": 1.19
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Chojnice",
+      "admin1_code": "82",
+      "location": [
+        53.69554,
+        17.55701
+      ],
+      "monthly": {
+        "Jan": 1,
+        "Feb": 1.93,
+        "Mar": 3.13,
+        "Apr": 4.15,
+        "May": 4.55,
+        "Jun": 4.48,
+        "Jul": 4.18,
+        "Aug": 4,
+        "Sep": 3.31,
+        "Oct": 2.22,
+        "Nov": 1.05,
+        "Dec": 0.73
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Chodzież",
+      "admin1_code": "86",
+      "location": [
+        52.99505,
+        16.9198
+      ],
+      "monthly": {
+        "Jan": 1.1,
+        "Feb": 1.94,
+        "Mar": 3.1,
+        "Apr": 4.11,
+        "May": 4.43,
+        "Jun": 4.37,
+        "Jul": 4.18,
+        "Aug": 4,
+        "Sep": 3.3,
+        "Oct": 2.22,
+        "Nov": 1.11,
+        "Dec": 0.83
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Chełmża",
+      "admin1_code": "73",
+      "location": [
+        53.18463,
+        18.60466
+      ],
+      "monthly": {
+        "Jan": 1.12,
+        "Feb": 2.02,
+        "Mar": 3.26,
+        "Apr": 4.27,
+        "May": 4.65,
+        "Jun": 4.6,
+        "Jul": 4.23,
+        "Aug": 4.17,
+        "Sep": 3.47,
+        "Oct": 2.35,
+        "Nov": 1.15,
+        "Dec": 0.86
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Chełmno",
+      "admin1_code": "73",
+      "location": [
+        53.34855,
+        18.4251
+      ],
+      "monthly": {
+        "Jan": 1.08,
+        "Feb": 1.97,
+        "Mar": 3.2,
+        "Apr": 4.2,
+        "May": 4.6,
+        "Jun": 4.55,
+        "Jul": 4.2,
+        "Aug": 4.1,
+        "Sep": 3.37,
+        "Oct": 2.26,
+        "Nov": 1.09,
+        "Dec": 0.85
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Bytów",
+      "admin1_code": "82",
+      "location": [
+        54.17057,
+        17.49187
+      ],
+      "monthly": {
+        "Jan": 1,
+        "Feb": 1.85,
+        "Mar": 3.04,
+        "Apr": 4.11,
+        "May": 4.54,
+        "Jun": 4.43,
+        "Jul": 4.17,
+        "Aug": 3.96,
+        "Sep": 3.27,
+        "Oct": 2.16,
+        "Nov": 1.03,
+        "Dec": 0.73
+      },
+      "average": 2.86
+    },
+    {
+      "name": "Bytom",
+      "admin1_code": "83",
+      "location": [
+        50.34802,
+        18.93282
+      ],
+      "monthly": {
+        "Jan": 1.43,
+        "Feb": 2.18,
+        "Mar": 3.19,
+        "Apr": 3.94,
+        "May": 4.27,
+        "Jun": 4.34,
+        "Jul": 4.27,
+        "Aug": 4.16,
+        "Sep": 3.39,
+        "Oct": 2.48,
+        "Nov": 1.46,
+        "Dec": 1.18
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Bydgoszcz",
+      "admin1_code": "73",
+      "location": [
+        53.1235,
+        18.00762
+      ],
+      "monthly": {
+        "Jan": 1.06,
+        "Feb": 1.95,
+        "Mar": 3.08,
+        "Apr": 4.06,
+        "May": 4.42,
+        "Jun": 4.34,
+        "Jul": 4.11,
+        "Aug": 3.98,
+        "Sep": 3.27,
+        "Oct": 2.19,
+        "Nov": 1.06,
+        "Dec": 0.84
+      },
+      "average": 2.86
+    },
+    {
+      "name": "Brzeg",
+      "admin1_code": "79",
+      "location": [
+        50.86079,
+        17.4674
+      ],
+      "monthly": {
+        "Jan": 1.4,
+        "Feb": 2.2,
+        "Mar": 3.22,
+        "Apr": 4.13,
+        "May": 4.49,
+        "Jun": 4.48,
+        "Jul": 4.28,
+        "Aug": 4.2,
+        "Sep": 3.45,
+        "Oct": 2.49,
+        "Nov": 1.52,
+        "Dec": 1.18
+      },
+      "average": 3.09
+    },
+    {
+      "name": "Brodnica",
+      "admin1_code": "73",
+      "location": [
+        53.25967,
+        19.39653
+      ],
+      "monthly": {
+        "Jan": 1.06,
+        "Feb": 1.98,
+        "Mar": 3.18,
+        "Apr": 4.17,
+        "May": 4.61,
+        "Jun": 4.56,
+        "Jul": 4.21,
+        "Aug": 4.13,
+        "Sep": 3.38,
+        "Oct": 2.27,
+        "Nov": 1.07,
+        "Dec": 0.8
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Braniewo",
+      "admin1_code": "85",
+      "location": [
+        54.37971,
+        19.81959
+      ],
+      "monthly": {
+        "Jan": 1.04,
+        "Feb": 1.98,
+        "Mar": 3.24,
+        "Apr": 4.32,
+        "May": 4.83,
+        "Jun": 4.75,
+        "Jul": 4.41,
+        "Aug": 4.23,
+        "Sep": 3.47,
+        "Oct": 2.21,
+        "Nov": 1.06,
+        "Dec": 0.78
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Bolesławiec",
+      "admin1_code": "72",
+      "location": [
+        51.26418,
+        15.5697
+      ],
+      "monthly": {
+        "Jan": 1.35,
+        "Feb": 2.2,
+        "Mar": 3.12,
+        "Apr": 4.02,
+        "May": 4.32,
+        "Jun": 4.27,
+        "Jul": 4.16,
+        "Aug": 4.04,
+        "Sep": 3.34,
+        "Oct": 2.46,
+        "Nov": 1.46,
+        "Dec": 1.18
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Boguszów-Gorce",
+      "admin1_code": "72",
+      "location": [
+        50.75514,
+        16.20494
+      ],
+      "monthly": {
+        "Jan": 1.43,
+        "Feb": 2.26,
+        "Mar": 3.19,
+        "Apr": 3.99,
+        "May": 4.25,
+        "Jun": 4.23,
+        "Jul": 4.16,
+        "Aug": 4.04,
+        "Sep": 3.31,
+        "Oct": 2.44,
+        "Nov": 1.48,
+        "Dec": 1.22
+      },
+      "average": 3
+    },
+    {
+      "name": "Bogatynia",
+      "admin1_code": "72",
+      "location": [
+        50.90747,
+        14.95634
+      ],
+      "monthly": {
+        "Jan": 1.34,
+        "Feb": 2.19,
+        "Mar": 3.12,
+        "Apr": 4.01,
+        "May": 4.28,
+        "Jun": 4.3,
+        "Jul": 4.18,
+        "Aug": 4.08,
+        "Sep": 3.35,
+        "Oct": 2.41,
+        "Nov": 1.44,
+        "Dec": 1.16
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Bieruń",
+      "admin1_code": "83",
+      "location": [
+        50.09,
+        19.09291
+      ],
+      "monthly": {
+        "Jan": 1.5,
+        "Feb": 2.23,
+        "Mar": 3.21,
+        "Apr": 3.96,
+        "May": 4.21,
+        "Jun": 4.3,
+        "Jul": 4.25,
+        "Aug": 4.17,
+        "Sep": 3.38,
+        "Oct": 2.51,
+        "Nov": 1.48,
+        "Dec": 1.21
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Bielsko-Biala",
+      "admin1_code": "83",
+      "location": [
+        49.82245,
+        19.04686
+      ],
+      "monthly": {
+        "Jan": 1.6,
+        "Feb": 2.23,
+        "Mar": 3.19,
+        "Apr": 3.93,
+        "May": 4.08,
+        "Jun": 4.24,
+        "Jul": 4.24,
+        "Aug": 4.17,
+        "Sep": 3.35,
+        "Oct": 2.56,
+        "Nov": 1.6,
+        "Dec": 1.35
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Bielawa",
+      "admin1_code": "72",
+      "location": [
+        50.69075,
+        16.623
+      ],
+      "monthly": {
+        "Jan": 1.55,
+        "Feb": 2.33,
+        "Mar": 3.23,
+        "Apr": 4.02,
+        "May": 4.28,
+        "Jun": 4.23,
+        "Jul": 4.14,
+        "Aug": 4.08,
+        "Sep": 3.34,
+        "Oct": 2.56,
+        "Nov": 1.65,
+        "Dec": 1.34
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Białogard",
+      "admin1_code": "87",
+      "location": [
+        54.00696,
+        15.98751
+      ],
+      "monthly": {
+        "Jan": 1.05,
+        "Feb": 1.9,
+        "Mar": 3.12,
+        "Apr": 4.2,
+        "May": 4.57,
+        "Jun": 4.47,
+        "Jul": 4.22,
+        "Aug": 3.96,
+        "Sep": 3.26,
+        "Oct": 2.18,
+        "Nov": 1.12,
+        "Dec": 0.76
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Bełchatów",
+      "admin1_code": "74",
+      "location": [
+        51.36883,
+        19.35671
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.02,
+        "Mar": 3.16,
+        "Apr": 4.01,
+        "May": 4.42,
+        "Jun": 4.41,
+        "Jul": 4.23,
+        "Aug": 4.15,
+        "Sep": 3.41,
+        "Oct": 2.39,
+        "Nov": 1.29,
+        "Dec": 1.04
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Będzin",
+      "admin1_code": "83",
+      "location": [
+        50.32607,
+        19.12565
+      ],
+      "monthly": {
+        "Jan": 1.45,
+        "Feb": 2.2,
+        "Mar": 3.21,
+        "Apr": 3.94,
+        "May": 4.26,
+        "Jun": 4.32,
+        "Jul": 4.24,
+        "Aug": 4.15,
+        "Sep": 3.38,
+        "Oct": 2.49,
+        "Nov": 1.46,
+        "Dec": 1.2
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Andrychów",
+      "admin1_code": "77",
+      "location": [
+        49.85497,
+        19.33834
+      ],
+      "monthly": {
+        "Jan": 1.58,
+        "Feb": 2.23,
+        "Mar": 3.21,
+        "Apr": 3.96,
+        "May": 4.15,
+        "Jun": 4.29,
+        "Jul": 4.25,
+        "Aug": 4.2,
+        "Sep": 3.38,
+        "Oct": 2.59,
+        "Nov": 1.59,
+        "Dec": 1.34
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Aleksandrów Łódzki",
+      "admin1_code": "74",
+      "location": [
+        51.81965,
+        19.30384
+      ],
+      "monthly": {
+        "Jan": 1.23,
+        "Feb": 1.98,
+        "Mar": 3.16,
+        "Apr": 4.05,
+        "May": 4.53,
+        "Jun": 4.51,
+        "Jul": 4.25,
+        "Aug": 4.17,
+        "Sep": 3.41,
+        "Oct": 2.37,
+        "Nov": 1.26,
+        "Dec": 1
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Ursynów",
+      "admin1_code": "78",
+      "location": [
+        52.15051,
+        21.05041
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 1.93,
+        "Mar": 3.15,
+        "Apr": 4.08,
+        "May": 4.59,
+        "Jun": 4.6,
+        "Jul": 4.41,
+        "Aug": 4.24,
+        "Sep": 3.44,
+        "Oct": 2.33,
+        "Nov": 1.19,
+        "Dec": 0.89
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Praga Północ",
+      "admin1_code": "78",
+      "location": [
+        52.25443,
+        21.03472
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 1.92,
+        "Mar": 3.12,
+        "Apr": 4.03,
+        "May": 4.53,
+        "Jun": 4.54,
+        "Jul": 4.35,
+        "Aug": 4.21,
+        "Sep": 3.4,
+        "Oct": 2.3,
+        "Nov": 1.18,
+        "Dec": 0.88
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Praga Południe",
+      "admin1_code": "78",
+      "location": [
+        52.24424,
+        21.08545
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 1.94,
+        "Mar": 3.13,
+        "Apr": 4.04,
+        "May": 4.55,
+        "Jun": 4.55,
+        "Jul": 4.35,
+        "Aug": 4.2,
+        "Sep": 3.41,
+        "Oct": 2.31,
+        "Nov": 1.18,
+        "Dec": 0.89
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Jelcz Laskowice",
+      "admin1_code": "72",
+      "location": [
+        51.02134,
+        17.31649
+      ],
+      "monthly": {
+        "Jan": 1.37,
+        "Feb": 2.2,
+        "Mar": 3.2,
+        "Apr": 4.12,
+        "May": 4.47,
+        "Jun": 4.49,
+        "Jul": 4.32,
+        "Aug": 4.18,
+        "Sep": 3.43,
+        "Oct": 2.43,
+        "Nov": 1.46,
+        "Dec": 1.16
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Gajowice",
+      "admin1_code": "72",
+      "location": [
+        51.09627,
+        17.00195
+      ],
+      "monthly": {
+        "Jan": 1.37,
+        "Feb": 2.19,
+        "Mar": 3.15,
+        "Apr": 4.11,
+        "May": 4.45,
+        "Jun": 4.43,
+        "Jul": 4.29,
+        "Aug": 4.17,
+        "Sep": 3.4,
+        "Oct": 2.41,
+        "Nov": 1.47,
+        "Dec": 1.17
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Gądów-Popowice Południowe",
+      "admin1_code": "72",
+      "location": [
+        51.1272,
+        16.97027
+      ],
+      "monthly": {
+        "Jan": 1.36,
+        "Feb": 2.2,
+        "Mar": 3.17,
+        "Apr": 4.11,
+        "May": 4.45,
+        "Jun": 4.42,
+        "Jul": 4.3,
+        "Aug": 4.18,
+        "Sep": 3.41,
+        "Oct": 2.41,
+        "Nov": 1.46,
+        "Dec": 1.16
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Pilczyce-Kozanów-Popowice Północne",
+      "admin1_code": "72",
+      "location": [
+        51.13092,
+        16.97654
+      ],
+      "monthly": {
+        "Jan": 1.36,
+        "Feb": 2.2,
+        "Mar": 3.17,
+        "Apr": 4.11,
+        "May": 4.45,
+        "Jun": 4.43,
+        "Jul": 4.31,
+        "Aug": 4.18,
+        "Sep": 3.41,
+        "Oct": 2.41,
+        "Nov": 1.46,
+        "Dec": 1.16
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Gaj",
+      "admin1_code": "72",
+      "location": [
+        51.08006,
+        17.04018
+      ],
+      "monthly": {
+        "Jan": 1.38,
+        "Feb": 2.19,
+        "Mar": 3.16,
+        "Apr": 4.12,
+        "May": 4.46,
+        "Jun": 4.44,
+        "Jul": 4.3,
+        "Aug": 4.17,
+        "Sep": 3.4,
+        "Oct": 2.42,
+        "Nov": 1.48,
+        "Dec": 1.18
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Huby",
+      "admin1_code": "72",
+      "location": [
+        51.08928,
+        17.04113
+      ],
+      "monthly": {
+        "Jan": 1.38,
+        "Feb": 2.19,
+        "Mar": 3.16,
+        "Apr": 4.11,
+        "May": 4.46,
+        "Jun": 4.43,
+        "Jul": 4.3,
+        "Aug": 4.17,
+        "Sep": 3.4,
+        "Oct": 2.41,
+        "Nov": 1.48,
+        "Dec": 1.17
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Krzyki-Partynice",
+      "admin1_code": "72",
+      "location": [
+        51.06413,
+        17.00186
+      ],
+      "monthly": {
+        "Jan": 1.38,
+        "Feb": 2.2,
+        "Mar": 3.17,
+        "Apr": 4.13,
+        "May": 4.47,
+        "Jun": 4.45,
+        "Jul": 4.29,
+        "Aug": 4.17,
+        "Sep": 3.41,
+        "Oct": 2.44,
+        "Nov": 1.49,
+        "Dec": 1.18
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Osiedle Powstańców Śląskich",
+      "admin1_code": "72",
+      "location": [
+        51.09289,
+        17.02061
+      ],
+      "monthly": {
+        "Jan": 1.37,
+        "Feb": 2.18,
+        "Mar": 3.15,
+        "Apr": 4.1,
+        "May": 4.44,
+        "Jun": 4.41,
+        "Jul": 4.28,
+        "Aug": 4.16,
+        "Sep": 3.39,
+        "Oct": 2.4,
+        "Nov": 1.47,
+        "Dec": 1.17
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Przedmieście Oławskie",
+      "admin1_code": "72",
+      "location": [
+        51.10209,
+        17.04829
+      ],
+      "monthly": {
+        "Jan": 1.38,
+        "Feb": 2.2,
+        "Mar": 3.16,
+        "Apr": 4.1,
+        "May": 4.45,
+        "Jun": 4.42,
+        "Jul": 4.3,
+        "Aug": 4.17,
+        "Sep": 3.4,
+        "Oct": 2.41,
+        "Nov": 1.46,
+        "Dec": 1.17
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Karłowice-Różanka",
+      "admin1_code": "72",
+      "location": [
+        51.13675,
+        17.04323
+      ],
+      "monthly": {
+        "Jan": 1.38,
+        "Feb": 2.21,
+        "Mar": 3.17,
+        "Apr": 4.11,
+        "May": 4.45,
+        "Jun": 4.41,
+        "Jul": 4.31,
+        "Aug": 4.18,
+        "Sep": 3.41,
+        "Oct": 2.41,
+        "Nov": 1.45,
+        "Dec": 1.16
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Psie Pole Zawidawie",
+      "admin1_code": "72",
+      "location": [
+        51.14756,
+        17.11438
+      ],
+      "monthly": {
+        "Jan": 1.37,
+        "Feb": 2.21,
+        "Mar": 3.19,
+        "Apr": 4.13,
+        "May": 4.47,
+        "Jun": 4.43,
+        "Jul": 4.33,
+        "Aug": 4.19,
+        "Sep": 3.44,
+        "Oct": 2.43,
+        "Nov": 1.45,
+        "Dec": 1.15
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Szczepin",
+      "admin1_code": "72",
+      "location": [
+        51.11614,
+        17.01018
+      ],
+      "monthly": {
+        "Jan": 1.37,
+        "Feb": 2.2,
+        "Mar": 3.16,
+        "Apr": 4.1,
+        "May": 4.45,
+        "Jun": 4.41,
+        "Jul": 4.29,
+        "Aug": 4.17,
+        "Sep": 3.4,
+        "Oct": 2.41,
+        "Nov": 1.46,
+        "Dec": 1.16
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Biskupin-Sępolno-Dąbie-Bartoszowice",
+      "admin1_code": "72",
+      "location": [
+        51.10833,
+        17.09134
+      ],
+      "monthly": {
+        "Jan": 1.38,
+        "Feb": 2.2,
+        "Mar": 3.17,
+        "Apr": 4.11,
+        "May": 4.46,
+        "Jun": 4.43,
+        "Jul": 4.31,
+        "Aug": 4.18,
+        "Sep": 3.42,
+        "Oct": 2.42,
+        "Nov": 1.46,
+        "Dec": 1.16
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Nadodrze",
+      "admin1_code": "72",
+      "location": [
+        51.12541,
+        17.0307
+      ],
+      "monthly": {
+        "Jan": 1.37,
+        "Feb": 2.2,
+        "Mar": 3.16,
+        "Apr": 4.1,
+        "May": 4.44,
+        "Jun": 4.41,
+        "Jul": 4.3,
+        "Aug": 4.18,
+        "Sep": 3.41,
+        "Oct": 2.41,
+        "Nov": 1.45,
+        "Dec": 1.16
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Ołbin",
+      "admin1_code": "72",
+      "location": [
+        51.12132,
+        17.05303
+      ],
+      "monthly": {
+        "Jan": 1.37,
+        "Feb": 2.2,
+        "Mar": 3.16,
+        "Apr": 4.1,
+        "May": 4.45,
+        "Jun": 4.41,
+        "Jul": 4.31,
+        "Aug": 4.17,
+        "Sep": 3.41,
+        "Oct": 2.41,
+        "Nov": 1.45,
+        "Dec": 1.16
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Chełm",
+      "admin1_code": "82",
+      "location": [
+        54.34048,
+        18.61925
+      ],
+      "monthly": {
+        "Jan": 1.07,
+        "Feb": 1.92,
+        "Mar": 3.2,
+        "Apr": 4.27,
+        "May": 4.69,
+        "Jun": 4.59,
+        "Jul": 4.3,
+        "Aug": 4.09,
+        "Sep": 3.4,
+        "Oct": 2.29,
+        "Nov": 1.14,
+        "Dec": 0.83
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Piecki-Migowo",
+      "admin1_code": "82",
+      "location": [
+        54.35698,
+        18.58174
+      ],
+      "monthly": {
+        "Jan": 1.06,
+        "Feb": 1.9,
+        "Mar": 3.16,
+        "Apr": 4.24,
+        "May": 4.67,
+        "Jun": 4.58,
+        "Jul": 4.27,
+        "Aug": 4.06,
+        "Sep": 3.37,
+        "Oct": 2.27,
+        "Nov": 1.13,
+        "Dec": 0.82
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Przymorze Wielkie",
+      "admin1_code": "82",
+      "location": [
+        54.41166,
+        18.5984
+      ],
+      "monthly": {
+        "Jan": 1.07,
+        "Feb": 1.9,
+        "Mar": 3.14,
+        "Apr": 4.19,
+        "May": 4.64,
+        "Jun": 4.57,
+        "Jul": 4.26,
+        "Aug": 4.03,
+        "Sep": 3.32,
+        "Oct": 2.19,
+        "Nov": 1.09,
+        "Dec": 0.83
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Środmieście",
+      "admin1_code": "82",
+      "location": [
+        54.35048,
+        18.65556
+      ],
+      "monthly": {
+        "Jan": 1.07,
+        "Feb": 1.93,
+        "Mar": 3.19,
+        "Apr": 4.23,
+        "May": 4.66,
+        "Jun": 4.57,
+        "Jul": 4.27,
+        "Aug": 4.06,
+        "Sep": 3.38,
+        "Oct": 2.25,
+        "Nov": 1.11,
+        "Dec": 0.83
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Ujeścisko-Łostowice",
+      "admin1_code": "82",
+      "location": [
+        54.32435,
+        18.60269
+      ],
+      "monthly": {
+        "Jan": 1.06,
+        "Feb": 1.9,
+        "Mar": 3.19,
+        "Apr": 4.26,
+        "May": 4.68,
+        "Jun": 4.57,
+        "Jul": 4.28,
+        "Aug": 4.08,
+        "Sep": 3.38,
+        "Oct": 2.29,
+        "Nov": 1.14,
+        "Dec": 0.82
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Wrzeszcz Dolny",
+      "admin1_code": "82",
+      "location": [
+        54.38473,
+        18.61273
+      ],
+      "monthly": {
+        "Jan": 1.07,
+        "Feb": 1.9,
+        "Mar": 3.16,
+        "Apr": 4.2,
+        "May": 4.64,
+        "Jun": 4.57,
+        "Jul": 4.25,
+        "Aug": 4.03,
+        "Sep": 3.33,
+        "Oct": 2.21,
+        "Nov": 1.09,
+        "Dec": 0.83
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Wrzeszcz Górny",
+      "admin1_code": "82",
+      "location": [
+        54.37978,
+        18.59539
+      ],
+      "monthly": {
+        "Jan": 1.05,
+        "Feb": 1.88,
+        "Mar": 3.14,
+        "Apr": 4.18,
+        "May": 4.62,
+        "Jun": 4.53,
+        "Jul": 4.22,
+        "Aug": 4.01,
+        "Sep": 3.31,
+        "Oct": 2.2,
+        "Nov": 1.09,
+        "Dec": 0.81
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Drzetowo-Grabowo",
+      "admin1_code": "87",
+      "location": [
+        53.44888,
+        14.5792
+      ],
+      "monthly": {
+        "Jan": 1.05,
+        "Feb": 1.91,
+        "Mar": 3.02,
+        "Apr": 4.14,
+        "May": 4.46,
+        "Jun": 4.37,
+        "Jul": 4.17,
+        "Aug": 3.89,
+        "Sep": 3.25,
+        "Oct": 2.15,
+        "Nov": 1.15,
+        "Dec": 0.8
+      },
+      "average": 2.86
+    },
+    {
+      "name": "Świerczewo",
+      "admin1_code": "87",
+      "location": [
+        53.4273,
+        14.51303
+      ],
+      "monthly": {
+        "Jan": 1.06,
+        "Feb": 1.92,
+        "Mar": 3.04,
+        "Apr": 4.16,
+        "May": 4.48,
+        "Jun": 4.39,
+        "Jul": 4.16,
+        "Aug": 3.92,
+        "Sep": 3.29,
+        "Oct": 2.2,
+        "Nov": 1.18,
+        "Dec": 0.82
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Osiedle Kosmonautów",
+      "admin1_code": "72",
+      "location": [
+        51.12753,
+        16.96186
+      ],
+      "monthly": {
+        "Jan": 1.37,
+        "Feb": 2.2,
+        "Mar": 3.17,
+        "Apr": 4.11,
+        "May": 4.45,
+        "Jun": 4.42,
+        "Jul": 4.3,
+        "Aug": 4.18,
+        "Sep": 3.41,
+        "Oct": 2.42,
+        "Nov": 1.46,
+        "Dec": 1.17
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Rejon placu Grunwaldzkiego",
+      "admin1_code": "72",
+      "location": [
+        51.11669,
+        17.06126
+      ],
+      "monthly": {
+        "Jan": 1.37,
+        "Feb": 2.2,
+        "Mar": 3.16,
+        "Apr": 4.1,
+        "May": 4.45,
+        "Jun": 4.42,
+        "Jul": 4.31,
+        "Aug": 4.17,
+        "Sep": 3.41,
+        "Oct": 2.41,
+        "Nov": 1.45,
+        "Dec": 1.16
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Rejon ulicy Traugutta",
+      "admin1_code": "72",
+      "location": [
+        51.10247,
+        17.04827
+      ],
+      "monthly": {
+        "Jan": 1.38,
+        "Feb": 2.2,
+        "Mar": 3.16,
+        "Apr": 4.1,
+        "May": 4.45,
+        "Jun": 4.42,
+        "Jul": 4.3,
+        "Aug": 4.17,
+        "Sep": 3.4,
+        "Oct": 2.41,
+        "Nov": 1.46,
+        "Dec": 1.17
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Kozanów",
+      "admin1_code": "72",
+      "location": [
+        51.14447,
+        16.96937
+      ],
+      "monthly": {
+        "Jan": 1.35,
+        "Feb": 2.2,
+        "Mar": 3.18,
+        "Apr": 4.11,
+        "May": 4.45,
+        "Jun": 4.42,
+        "Jul": 4.31,
+        "Aug": 4.18,
+        "Sep": 3.41,
+        "Oct": 2.41,
+        "Nov": 1.45,
+        "Dec": 1.16
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Rejon placu Świętego Macieja",
+      "admin1_code": "72",
+      "location": [
+        51.12056,
+        17.03761
+      ],
+      "monthly": {
+        "Jan": 1.37,
+        "Feb": 2.2,
+        "Mar": 3.16,
+        "Apr": 4.1,
+        "May": 4.44,
+        "Jun": 4.41,
+        "Jul": 4.3,
+        "Aug": 4.17,
+        "Sep": 3.4,
+        "Oct": 2.41,
+        "Nov": 1.46,
+        "Dec": 1.16
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Różanka-Polanka",
+      "admin1_code": "72",
+      "location": [
+        51.14344,
+        17.01987
+      ],
+      "monthly": {
+        "Jan": 1.37,
+        "Feb": 2.21,
+        "Mar": 3.18,
+        "Apr": 4.11,
+        "May": 4.45,
+        "Jun": 4.42,
+        "Jul": 4.31,
+        "Aug": 4.19,
+        "Sep": 3.42,
+        "Oct": 2.42,
+        "Nov": 1.45,
+        "Dec": 1.16
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Orunia Górna-Gdańsk Południe",
+      "admin1_code": "82",
+      "location": [
+        54.32491,
+        18.61567
+      ],
+      "monthly": {
+        "Jan": 1.06,
+        "Feb": 1.9,
+        "Mar": 3.19,
+        "Apr": 4.25,
+        "May": 4.67,
+        "Jun": 4.56,
+        "Jul": 4.27,
+        "Aug": 4.07,
+        "Sep": 3.38,
+        "Oct": 2.28,
+        "Nov": 1.13,
+        "Dec": 0.82
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Śródmieście",
+      "admin1_code": "72",
+      "location": [
+        51.11316,
+        17.08145
+      ],
+      "monthly": {
+        "Jan": 1.37,
+        "Feb": 2.2,
+        "Mar": 3.17,
+        "Apr": 4.11,
+        "May": 4.46,
+        "Jun": 4.42,
+        "Jul": 4.31,
+        "Aug": 4.18,
+        "Sep": 3.41,
+        "Oct": 2.41,
+        "Nov": 1.46,
+        "Dec": 1.16
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Psie Pole",
+      "admin1_code": "72",
+      "location": [
+        51.14595,
+        17.03519
+      ],
+      "monthly": {
+        "Jan": 1.38,
+        "Feb": 2.21,
+        "Mar": 3.18,
+        "Apr": 4.12,
+        "May": 4.45,
+        "Jun": 4.42,
+        "Jul": 4.31,
+        "Aug": 4.19,
+        "Sep": 3.42,
+        "Oct": 2.42,
+        "Nov": 1.45,
+        "Dec": 1.16
+      },
+      "average": 3.06
+    }
+  ]
+}

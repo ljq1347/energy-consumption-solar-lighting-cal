@@ -1,0 +1,3180 @@
+{
+  "country": "Hungary",
+  "countryCode": "HU",
+  "cities": [
+    {
+      "name": "Újszeged",
+      "admin1_code": "19",
+      "location": [
+        46.24754,
+        20.16571
+      ],
+      "monthly": {
+        "Jan": 1.82,
+        "Feb": 2.78,
+        "Mar": 3.82,
+        "Apr": 4.34,
+        "May": 4.63,
+        "Jun": 4.84,
+        "Jul": 4.92,
+        "Aug": 4.83,
+        "Sep": 3.97,
+        "Oct": 3.27,
+        "Nov": 2.1,
+        "Dec": 1.54
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Törökszentmiklós",
+      "admin1_code": "20",
+      "location": [
+        47.18333,
+        20.41667
+      ],
+      "monthly": {
+        "Jan": 1.73,
+        "Feb": 2.64,
+        "Mar": 3.81,
+        "Apr": 4.4,
+        "May": 4.67,
+        "Jun": 4.84,
+        "Jul": 4.86,
+        "Aug": 4.78,
+        "Sep": 3.88,
+        "Oct": 3.17,
+        "Nov": 1.94,
+        "Dec": 1.37
+      },
+      "average": 3.51
+    },
+    {
+      "name": "Tiszaújváros",
+      "admin1_code": "04",
+      "location": [
+        47.93333,
+        21.08333
+      ],
+      "monthly": {
+        "Jan": 1.65,
+        "Feb": 2.57,
+        "Mar": 3.77,
+        "Apr": 4.33,
+        "May": 4.67,
+        "Jun": 4.83,
+        "Jul": 4.74,
+        "Aug": 4.73,
+        "Sep": 3.8,
+        "Oct": 2.98,
+        "Nov": 1.75,
+        "Dec": 1.25
+      },
+      "average": 3.42
+    },
+    {
+      "name": "Szolnok",
+      "admin1_code": "20",
+      "location": [
+        47.18066,
+        20.19835
+      ],
+      "monthly": {
+        "Jan": 1.75,
+        "Feb": 2.68,
+        "Mar": 3.79,
+        "Apr": 4.36,
+        "May": 4.63,
+        "Jun": 4.82,
+        "Jul": 4.86,
+        "Aug": 4.76,
+        "Sep": 3.89,
+        "Oct": 3.15,
+        "Nov": 1.93,
+        "Dec": 1.37
+      },
+      "average": 3.5
+    },
+    {
+      "name": "Szentes",
+      "admin1_code": "06",
+      "location": [
+        46.65834,
+        20.2608
+      ],
+      "monthly": {
+        "Jan": 1.8,
+        "Feb": 2.74,
+        "Mar": 3.81,
+        "Apr": 4.38,
+        "May": 4.63,
+        "Jun": 4.86,
+        "Jul": 4.91,
+        "Aug": 4.81,
+        "Sep": 3.94,
+        "Oct": 3.22,
+        "Nov": 2.04,
+        "Dec": 1.44
+      },
+      "average": 3.55
+    },
+    {
+      "name": "Szeged",
+      "admin1_code": "06",
+      "location": [
+        46.253,
+        20.14824
+      ],
+      "monthly": {
+        "Jan": 1.82,
+        "Feb": 2.78,
+        "Mar": 3.82,
+        "Apr": 4.34,
+        "May": 4.63,
+        "Jun": 4.84,
+        "Jul": 4.92,
+        "Aug": 4.83,
+        "Sep": 3.97,
+        "Oct": 3.27,
+        "Nov": 2.09,
+        "Dec": 1.53
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Szarvas",
+      "admin1_code": "03",
+      "location": [
+        46.86667,
+        20.55
+      ],
+      "monthly": {
+        "Jan": 1.76,
+        "Feb": 2.68,
+        "Mar": 3.81,
+        "Apr": 4.4,
+        "May": 4.63,
+        "Jun": 4.86,
+        "Jul": 4.87,
+        "Aug": 4.79,
+        "Sep": 3.9,
+        "Oct": 3.18,
+        "Nov": 2,
+        "Dec": 1.4
+      },
+      "average": 3.52
+    },
+    {
+      "name": "Sátoraljaújhely",
+      "admin1_code": "04",
+      "location": [
+        48.39492,
+        21.65871
+      ],
+      "monthly": {
+        "Jan": 1.55,
+        "Feb": 2.49,
+        "Mar": 3.7,
+        "Apr": 4.3,
+        "May": 4.65,
+        "Jun": 4.76,
+        "Jul": 4.62,
+        "Aug": 4.65,
+        "Sep": 3.75,
+        "Oct": 2.84,
+        "Nov": 1.69,
+        "Dec": 1.17
+      },
+      "average": 3.35
+    },
+    {
+      "name": "Püspökladány",
+      "admin1_code": "10",
+      "location": [
+        47.31667,
+        21.11667
+      ],
+      "monthly": {
+        "Jan": 1.7,
+        "Feb": 2.58,
+        "Mar": 3.79,
+        "Apr": 4.34,
+        "May": 4.65,
+        "Jun": 4.84,
+        "Jul": 4.81,
+        "Aug": 4.77,
+        "Sep": 3.85,
+        "Oct": 3.13,
+        "Nov": 1.9,
+        "Dec": 1.35
+      },
+      "average": 3.48
+    },
+    {
+      "name": "Ózd",
+      "admin1_code": "04",
+      "location": [
+        48.21667,
+        20.3
+      ],
+      "monthly": {
+        "Jan": 1.76,
+        "Feb": 2.67,
+        "Mar": 3.71,
+        "Apr": 4.16,
+        "May": 4.46,
+        "Jun": 4.7,
+        "Jul": 4.63,
+        "Aug": 4.6,
+        "Sep": 3.73,
+        "Oct": 2.87,
+        "Nov": 1.72,
+        "Dec": 1.28
+      },
+      "average": 3.36
+    },
+    {
+      "name": "Orosháza",
+      "admin1_code": "03",
+      "location": [
+        46.56667,
+        20.66667
+      ],
+      "monthly": {
+        "Jan": 1.77,
+        "Feb": 2.69,
+        "Mar": 3.79,
+        "Apr": 4.36,
+        "May": 4.62,
+        "Jun": 4.86,
+        "Jul": 4.87,
+        "Aug": 4.78,
+        "Sep": 3.91,
+        "Oct": 3.25,
+        "Nov": 2.08,
+        "Dec": 1.43
+      },
+      "average": 3.53
+    },
+    {
+      "name": "Nyíregyháza",
+      "admin1_code": "18",
+      "location": [
+        47.95539,
+        21.71671
+      ],
+      "monthly": {
+        "Jan": 1.58,
+        "Feb": 2.57,
+        "Mar": 3.77,
+        "Apr": 4.35,
+        "May": 4.64,
+        "Jun": 4.84,
+        "Jul": 4.79,
+        "Aug": 4.75,
+        "Sep": 3.8,
+        "Oct": 2.96,
+        "Nov": 1.74,
+        "Dec": 1.25
+      },
+      "average": 3.42
+    },
+    {
+      "name": "Miskolc",
+      "admin1_code": "04",
+      "location": [
+        48.10327,
+        20.77806
+      ],
+      "monthly": {
+        "Jan": 1.7,
+        "Feb": 2.58,
+        "Mar": 3.67,
+        "Apr": 4.14,
+        "May": 4.45,
+        "Jun": 4.61,
+        "Jul": 4.48,
+        "Aug": 4.51,
+        "Sep": 3.67,
+        "Oct": 2.89,
+        "Nov": 1.76,
+        "Dec": 1.26
+      },
+      "average": 3.31
+    },
+    {
+      "name": "Mezőtúr",
+      "admin1_code": "20",
+      "location": [
+        47,
+        20.63333
+      ],
+      "monthly": {
+        "Jan": 1.75,
+        "Feb": 2.64,
+        "Mar": 3.81,
+        "Apr": 4.39,
+        "May": 4.65,
+        "Jun": 4.85,
+        "Jul": 4.86,
+        "Aug": 4.79,
+        "Sep": 3.89,
+        "Oct": 3.18,
+        "Nov": 1.97,
+        "Dec": 1.38
+      },
+      "average": 3.51
+    },
+    {
+      "name": "Mezőkövesd",
+      "admin1_code": "04",
+      "location": [
+        47.81667,
+        20.58333
+      ],
+      "monthly": {
+        "Jan": 1.75,
+        "Feb": 2.61,
+        "Mar": 3.74,
+        "Apr": 4.32,
+        "May": 4.61,
+        "Jun": 4.76,
+        "Jul": 4.68,
+        "Aug": 4.67,
+        "Sep": 3.78,
+        "Oct": 3.05,
+        "Nov": 1.83,
+        "Dec": 1.32
+      },
+      "average": 3.43
+    },
+    {
+      "name": "Mátészalka",
+      "admin1_code": "18",
+      "location": [
+        47.95528,
+        22.32348
+      ],
+      "monthly": {
+        "Jan": 1.59,
+        "Feb": 2.52,
+        "Mar": 3.7,
+        "Apr": 4.28,
+        "May": 4.6,
+        "Jun": 4.84,
+        "Jul": 4.8,
+        "Aug": 4.77,
+        "Sep": 3.82,
+        "Oct": 2.96,
+        "Nov": 1.8,
+        "Dec": 1.24
+      },
+      "average": 3.41
+    },
+    {
+      "name": "Makó",
+      "admin1_code": "06",
+      "location": [
+        46.21667,
+        20.48333
+      ],
+      "monthly": {
+        "Jan": 1.81,
+        "Feb": 2.73,
+        "Mar": 3.82,
+        "Apr": 4.35,
+        "May": 4.65,
+        "Jun": 4.84,
+        "Jul": 4.91,
+        "Aug": 4.82,
+        "Sep": 3.96,
+        "Oct": 3.28,
+        "Nov": 2.12,
+        "Dec": 1.49
+      },
+      "average": 3.56
+    },
+    {
+      "name": "Kisvárda",
+      "admin1_code": "18",
+      "location": [
+        48.21667,
+        22.08333
+      ],
+      "monthly": {
+        "Jan": 1.53,
+        "Feb": 2.47,
+        "Mar": 3.75,
+        "Apr": 4.34,
+        "May": 4.69,
+        "Jun": 4.88,
+        "Jul": 4.81,
+        "Aug": 4.78,
+        "Sep": 3.8,
+        "Oct": 2.91,
+        "Nov": 1.71,
+        "Dec": 1.18
+      },
+      "average": 3.4
+    },
+    {
+      "name": "Kazincbarcika",
+      "admin1_code": "04",
+      "location": [
+        48.25,
+        20.63333
+      ],
+      "monthly": {
+        "Jan": 1.68,
+        "Feb": 2.58,
+        "Mar": 3.65,
+        "Apr": 4.09,
+        "May": 4.39,
+        "Jun": 4.62,
+        "Jul": 4.54,
+        "Aug": 4.54,
+        "Sep": 3.69,
+        "Oct": 2.83,
+        "Nov": 1.7,
+        "Dec": 1.24
+      },
+      "average": 3.3
+    },
+    {
+      "name": "Karcag",
+      "admin1_code": "20",
+      "location": [
+        47.31667,
+        20.93333
+      ],
+      "monthly": {
+        "Jan": 1.72,
+        "Feb": 2.59,
+        "Mar": 3.8,
+        "Apr": 4.39,
+        "May": 4.68,
+        "Jun": 4.88,
+        "Jul": 4.84,
+        "Aug": 4.79,
+        "Sep": 3.87,
+        "Oct": 3.14,
+        "Nov": 1.91,
+        "Dec": 1.34
+      },
+      "average": 3.5
+    },
+    {
+      "name": "Hódmezővásárhely",
+      "admin1_code": "06",
+      "location": [
+        46.41667,
+        20.33333
+      ],
+      "monthly": {
+        "Jan": 1.78,
+        "Feb": 2.73,
+        "Mar": 3.82,
+        "Apr": 4.35,
+        "May": 4.63,
+        "Jun": 4.83,
+        "Jul": 4.92,
+        "Aug": 4.82,
+        "Sep": 3.97,
+        "Oct": 3.26,
+        "Nov": 2.09,
+        "Dec": 1.48
+      },
+      "average": 3.56
+    },
+    {
+      "name": "Hajdúszoboszló",
+      "admin1_code": "10",
+      "location": [
+        47.45,
+        21.4
+      ],
+      "monthly": {
+        "Jan": 1.65,
+        "Feb": 2.55,
+        "Mar": 3.78,
+        "Apr": 4.32,
+        "May": 4.63,
+        "Jun": 4.88,
+        "Jul": 4.87,
+        "Aug": 4.81,
+        "Sep": 3.84,
+        "Oct": 3.12,
+        "Nov": 1.89,
+        "Dec": 1.3
+      },
+      "average": 3.47
+    },
+    {
+      "name": "Hajdúnánás",
+      "admin1_code": "10",
+      "location": [
+        47.85,
+        21.43333
+      ],
+      "monthly": {
+        "Jan": 1.63,
+        "Feb": 2.54,
+        "Mar": 3.77,
+        "Apr": 4.35,
+        "May": 4.66,
+        "Jun": 4.85,
+        "Jul": 4.8,
+        "Aug": 4.77,
+        "Sep": 3.81,
+        "Oct": 3.02,
+        "Nov": 1.75,
+        "Dec": 1.24
+      },
+      "average": 3.43
+    },
+    {
+      "name": "Hajdúböszörmény",
+      "admin1_code": "10",
+      "location": [
+        47.66667,
+        21.51667
+      ],
+      "monthly": {
+        "Jan": 1.63,
+        "Feb": 2.55,
+        "Mar": 3.78,
+        "Apr": 4.33,
+        "May": 4.63,
+        "Jun": 4.88,
+        "Jul": 4.85,
+        "Aug": 4.8,
+        "Sep": 3.82,
+        "Oct": 3.09,
+        "Nov": 1.85,
+        "Dec": 1.25
+      },
+      "average": 3.46
+    },
+    {
+      "name": "Gyula",
+      "admin1_code": "03",
+      "location": [
+        46.65,
+        21.28333
+      ],
+      "monthly": {
+        "Jan": 1.73,
+        "Feb": 2.69,
+        "Mar": 3.77,
+        "Apr": 4.32,
+        "May": 4.59,
+        "Jun": 4.88,
+        "Jul": 4.88,
+        "Aug": 4.82,
+        "Sep": 3.89,
+        "Oct": 3.21,
+        "Nov": 2.01,
+        "Dec": 1.41
+      },
+      "average": 3.52
+    },
+    {
+      "name": "Gyomaendrőd",
+      "admin1_code": "03",
+      "location": [
+        46.93333,
+        20.83333
+      ],
+      "monthly": {
+        "Jan": 1.73,
+        "Feb": 2.62,
+        "Mar": 3.79,
+        "Apr": 4.35,
+        "May": 4.64,
+        "Jun": 4.87,
+        "Jul": 4.86,
+        "Aug": 4.8,
+        "Sep": 3.89,
+        "Oct": 3.18,
+        "Nov": 1.98,
+        "Dec": 1.38
+      },
+      "average": 3.51
+    },
+    {
+      "name": "Eger",
+      "admin1_code": "11",
+      "location": [
+        47.90265,
+        20.37329
+      ],
+      "monthly": {
+        "Jan": 1.83,
+        "Feb": 2.65,
+        "Mar": 3.7,
+        "Apr": 4.16,
+        "May": 4.49,
+        "Jun": 4.7,
+        "Jul": 4.65,
+        "Aug": 4.61,
+        "Sep": 3.73,
+        "Oct": 2.99,
+        "Nov": 1.88,
+        "Dec": 1.42
+      },
+      "average": 3.4
+    },
+    {
+      "name": "Diósgyőr",
+      "admin1_code": "04",
+      "location": [
+        48.1,
+        20.68333
+      ],
+      "monthly": {
+        "Jan": 1.74,
+        "Feb": 2.61,
+        "Mar": 3.61,
+        "Apr": 4.03,
+        "May": 4.32,
+        "Jun": 4.52,
+        "Jul": 4.41,
+        "Aug": 4.42,
+        "Sep": 3.62,
+        "Oct": 2.89,
+        "Nov": 1.82,
+        "Dec": 1.34
+      },
+      "average": 3.28
+    },
+    {
+      "name": "Debrecen",
+      "admin1_code": "10",
+      "location": [
+        47.53167,
+        21.62444
+      ],
+      "monthly": {
+        "Jan": 1.65,
+        "Feb": 2.56,
+        "Mar": 3.75,
+        "Apr": 4.27,
+        "May": 4.58,
+        "Jun": 4.83,
+        "Jul": 4.82,
+        "Aug": 4.74,
+        "Sep": 3.8,
+        "Oct": 3.07,
+        "Nov": 1.88,
+        "Dec": 1.3
+      },
+      "average": 3.44
+    },
+    {
+      "name": "Csongrád",
+      "admin1_code": "06",
+      "location": [
+        46.71332,
+        20.14241
+      ],
+      "monthly": {
+        "Jan": 1.81,
+        "Feb": 2.75,
+        "Mar": 3.8,
+        "Apr": 4.38,
+        "May": 4.63,
+        "Jun": 4.85,
+        "Jul": 4.89,
+        "Aug": 4.81,
+        "Sep": 3.93,
+        "Oct": 3.2,
+        "Nov": 2.02,
+        "Dec": 1.43
+      },
+      "average": 3.54
+    },
+    {
+      "name": "Békéscsaba",
+      "admin1_code": "03",
+      "location": [
+        46.68333,
+        21.1
+      ],
+      "monthly": {
+        "Jan": 1.73,
+        "Feb": 2.7,
+        "Mar": 3.78,
+        "Apr": 4.32,
+        "May": 4.59,
+        "Jun": 4.89,
+        "Jul": 4.88,
+        "Aug": 4.8,
+        "Sep": 3.88,
+        "Oct": 3.22,
+        "Nov": 2.03,
+        "Dec": 1.41
+      },
+      "average": 3.52
+    },
+    {
+      "name": "Békés",
+      "admin1_code": "03",
+      "location": [
+        46.76667,
+        21.13333
+      ],
+      "monthly": {
+        "Jan": 1.73,
+        "Feb": 2.67,
+        "Mar": 3.78,
+        "Apr": 4.32,
+        "May": 4.59,
+        "Jun": 4.88,
+        "Jul": 4.89,
+        "Aug": 4.82,
+        "Sep": 3.89,
+        "Oct": 3.21,
+        "Nov": 2.01,
+        "Dec": 1.4
+      },
+      "average": 3.52
+    },
+    {
+      "name": "Balmazújváros",
+      "admin1_code": "10",
+      "location": [
+        47.61667,
+        21.35
+      ],
+      "monthly": {
+        "Jan": 1.64,
+        "Feb": 2.55,
+        "Mar": 3.8,
+        "Apr": 4.37,
+        "May": 4.69,
+        "Jun": 4.86,
+        "Jul": 4.82,
+        "Aug": 4.78,
+        "Sep": 3.86,
+        "Oct": 3.09,
+        "Nov": 1.82,
+        "Dec": 1.29
+      },
+      "average": 3.46
+    },
+    {
+      "name": "Abony",
+      "admin1_code": "16",
+      "location": [
+        47.1899,
+        20.00476
+      ],
+      "monthly": {
+        "Jan": 1.74,
+        "Feb": 2.67,
+        "Mar": 3.76,
+        "Apr": 4.36,
+        "May": 4.62,
+        "Jun": 4.82,
+        "Jul": 4.87,
+        "Aug": 4.76,
+        "Sep": 3.89,
+        "Oct": 3.13,
+        "Nov": 1.92,
+        "Dec": 1.36
+      },
+      "average": 3.49
+    },
+    {
+      "name": "Zugló",
+      "admin1_code": "05",
+      "location": [
+        47.51758,
+        19.10549
+      ],
+      "monthly": {
+        "Jan": 1.85,
+        "Feb": 2.77,
+        "Mar": 3.71,
+        "Apr": 4.32,
+        "May": 4.55,
+        "Jun": 4.74,
+        "Jul": 4.76,
+        "Aug": 4.61,
+        "Sep": 3.8,
+        "Oct": 3.02,
+        "Nov": 1.86,
+        "Dec": 1.46
+      },
+      "average": 3.45
+    },
+    {
+      "name": "Zalaegerszeg",
+      "admin1_code": "24",
+      "location": [
+        46.83695,
+        16.84401
+      ],
+      "monthly": {
+        "Jan": 1.87,
+        "Feb": 2.9,
+        "Mar": 3.69,
+        "Apr": 4.29,
+        "May": 4.54,
+        "Jun": 4.76,
+        "Jul": 4.75,
+        "Aug": 4.6,
+        "Sep": 3.81,
+        "Oct": 3.03,
+        "Nov": 1.94,
+        "Dec": 1.53
+      },
+      "average": 3.48
+    },
+    {
+      "name": "Veszprém",
+      "admin1_code": "23",
+      "location": [
+        47.09327,
+        17.91149
+      ],
+      "monthly": {
+        "Jan": 1.88,
+        "Feb": 2.8,
+        "Mar": 3.69,
+        "Apr": 4.33,
+        "May": 4.55,
+        "Jun": 4.73,
+        "Jul": 4.72,
+        "Aug": 4.58,
+        "Sep": 3.81,
+        "Oct": 3.1,
+        "Nov": 1.89,
+        "Dec": 1.5
+      },
+      "average": 3.47
+    },
+    {
+      "name": "Veresegyház",
+      "admin1_code": "16",
+      "location": [
+        47.6459,
+        19.29536
+      ],
+      "monthly": {
+        "Jan": 1.83,
+        "Feb": 2.78,
+        "Mar": 3.78,
+        "Apr": 4.35,
+        "May": 4.55,
+        "Jun": 4.75,
+        "Jul": 4.77,
+        "Aug": 4.64,
+        "Sep": 3.82,
+        "Oct": 3.04,
+        "Nov": 1.86,
+        "Dec": 1.44
+      },
+      "average": 3.47
+    },
+    {
+      "name": "Vecsés",
+      "admin1_code": "16",
+      "location": [
+        47.40705,
+        19.28648
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.76,
+        "Mar": 3.78,
+        "Apr": 4.37,
+        "May": 4.57,
+        "Jun": 4.76,
+        "Jul": 4.82,
+        "Aug": 4.68,
+        "Sep": 3.86,
+        "Oct": 3.11,
+        "Nov": 1.92,
+        "Dec": 1.44
+      },
+      "average": 3.49
+    },
+    {
+      "name": "Várpalota",
+      "admin1_code": "23",
+      "location": [
+        47.19936,
+        18.13954
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.77,
+        "Mar": 3.71,
+        "Apr": 4.37,
+        "May": 4.61,
+        "Jun": 4.8,
+        "Jul": 4.78,
+        "Aug": 4.61,
+        "Sep": 3.81,
+        "Oct": 3.08,
+        "Nov": 1.87,
+        "Dec": 1.43
+      },
+      "average": 3.47
+    },
+    {
+      "name": "Vác",
+      "admin1_code": "16",
+      "location": [
+        47.77591,
+        19.13612
+      ],
+      "monthly": {
+        "Jan": 1.77,
+        "Feb": 2.77,
+        "Mar": 3.75,
+        "Apr": 4.33,
+        "May": 4.59,
+        "Jun": 4.84,
+        "Jul": 4.79,
+        "Aug": 4.63,
+        "Sep": 3.83,
+        "Oct": 2.97,
+        "Nov": 1.81,
+        "Dec": 1.4
+      },
+      "average": 3.46
+    },
+    {
+      "name": "Újpest",
+      "admin1_code": "05",
+      "location": [
+        47.56863,
+        19.08456
+      ],
+      "monthly": {
+        "Jan": 1.83,
+        "Feb": 2.74,
+        "Mar": 3.7,
+        "Apr": 4.32,
+        "May": 4.56,
+        "Jun": 4.77,
+        "Jul": 4.77,
+        "Aug": 4.62,
+        "Sep": 3.81,
+        "Oct": 3,
+        "Nov": 1.83,
+        "Dec": 1.43
+      },
+      "average": 3.45
+    },
+    {
+      "name": "Tatabánya",
+      "admin1_code": "12",
+      "location": [
+        47.59247,
+        18.38099
+      ],
+      "monthly": {
+        "Jan": 1.78,
+        "Feb": 2.73,
+        "Mar": 3.63,
+        "Apr": 4.33,
+        "May": 4.51,
+        "Jun": 4.75,
+        "Jul": 4.74,
+        "Aug": 4.59,
+        "Sep": 3.78,
+        "Oct": 2.99,
+        "Nov": 1.9,
+        "Dec": 1.46
+      },
+      "average": 3.43
+    },
+    {
+      "name": "Tata",
+      "admin1_code": "12",
+      "location": [
+        47.65289,
+        18.31838
+      ],
+      "monthly": {
+        "Jan": 1.8,
+        "Feb": 2.76,
+        "Mar": 3.66,
+        "Apr": 4.38,
+        "May": 4.56,
+        "Jun": 4.79,
+        "Jul": 4.76,
+        "Aug": 4.61,
+        "Sep": 3.81,
+        "Oct": 2.99,
+        "Nov": 1.9,
+        "Dec": 1.47
+      },
+      "average": 3.46
+    },
+    {
+      "name": "Tapolca",
+      "admin1_code": "23",
+      "location": [
+        46.88152,
+        17.44117
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.83,
+        "Mar": 3.67,
+        "Apr": 4.34,
+        "May": 4.57,
+        "Jun": 4.8,
+        "Jul": 4.8,
+        "Aug": 4.65,
+        "Sep": 3.85,
+        "Oct": 3.05,
+        "Nov": 1.91,
+        "Dec": 1.47
+      },
+      "average": 3.48
+    },
+    {
+      "name": "Szombathely",
+      "admin1_code": "22",
+      "location": [
+        47.23088,
+        16.62155
+      ],
+      "monthly": {
+        "Jan": 1.9,
+        "Feb": 2.94,
+        "Mar": 3.72,
+        "Apr": 4.35,
+        "May": 4.51,
+        "Jun": 4.68,
+        "Jul": 4.6,
+        "Aug": 4.49,
+        "Sep": 3.79,
+        "Oct": 2.98,
+        "Nov": 1.91,
+        "Dec": 1.53
+      },
+      "average": 3.45
+    },
+    {
+      "name": "Szigetszentmiklós",
+      "admin1_code": "16",
+      "location": [
+        47.34382,
+        19.04335
+      ],
+      "monthly": {
+        "Jan": 1.85,
+        "Feb": 2.77,
+        "Mar": 3.76,
+        "Apr": 4.39,
+        "May": 4.61,
+        "Jun": 4.81,
+        "Jul": 4.83,
+        "Aug": 4.71,
+        "Sep": 3.86,
+        "Oct": 3.09,
+        "Nov": 1.9,
+        "Dec": 1.46
+      },
+      "average": 3.5
+    },
+    {
+      "name": "Szentendre",
+      "admin1_code": "16",
+      "location": [
+        47.66943,
+        19.07561
+      ],
+      "monthly": {
+        "Jan": 1.79,
+        "Feb": 2.73,
+        "Mar": 3.72,
+        "Apr": 4.3,
+        "May": 4.56,
+        "Jun": 4.78,
+        "Jul": 4.76,
+        "Aug": 4.6,
+        "Sep": 3.79,
+        "Oct": 2.96,
+        "Nov": 1.8,
+        "Dec": 1.39
+      },
+      "average": 3.43
+    },
+    {
+      "name": "Szekszárd",
+      "admin1_code": "21",
+      "location": [
+        46.34723,
+        18.71189
+      ],
+      "monthly": {
+        "Jan": 1.91,
+        "Feb": 2.81,
+        "Mar": 3.68,
+        "Apr": 4.32,
+        "May": 4.6,
+        "Jun": 4.86,
+        "Jul": 4.9,
+        "Aug": 4.74,
+        "Sep": 3.9,
+        "Oct": 3.2,
+        "Nov": 2.05,
+        "Dec": 1.52
+      },
+      "average": 3.54
+    },
+    {
+      "name": "Székesfehérvár",
+      "admin1_code": "08",
+      "location": [
+        47.18995,
+        18.41034
+      ],
+      "monthly": {
+        "Jan": 1.85,
+        "Feb": 2.76,
+        "Mar": 3.74,
+        "Apr": 4.43,
+        "May": 4.67,
+        "Jun": 4.86,
+        "Jul": 4.85,
+        "Aug": 4.7,
+        "Sep": 3.87,
+        "Oct": 3.11,
+        "Nov": 1.92,
+        "Dec": 1.43
+      },
+      "average": 3.52
+    },
+    {
+      "name": "Százhalombatta",
+      "admin1_code": "16",
+      "location": [
+        47.32949,
+        18.93878
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.76,
+        "Mar": 3.75,
+        "Apr": 4.39,
+        "May": 4.64,
+        "Jun": 4.84,
+        "Jul": 4.83,
+        "Aug": 4.69,
+        "Sep": 3.86,
+        "Oct": 3.07,
+        "Nov": 1.9,
+        "Dec": 1.45
+      },
+      "average": 3.5
+    },
+    {
+      "name": "Sopron",
+      "admin1_code": "09",
+      "location": [
+        47.68501,
+        16.59049
+      ],
+      "monthly": {
+        "Jan": 1.75,
+        "Feb": 2.75,
+        "Mar": 3.56,
+        "Apr": 4.34,
+        "May": 4.47,
+        "Jun": 4.64,
+        "Jul": 4.59,
+        "Aug": 4.44,
+        "Sep": 3.75,
+        "Oct": 2.78,
+        "Nov": 1.79,
+        "Dec": 1.45
+      },
+      "average": 3.36
+    },
+    {
+      "name": "Siófok",
+      "admin1_code": "17",
+      "location": [
+        46.90413,
+        18.058
+      ],
+      "monthly": {
+        "Jan": 1.81,
+        "Feb": 2.74,
+        "Mar": 3.65,
+        "Apr": 4.35,
+        "May": 4.65,
+        "Jun": 4.89,
+        "Jul": 4.85,
+        "Aug": 4.7,
+        "Sep": 3.85,
+        "Oct": 3.05,
+        "Nov": 1.83,
+        "Dec": 1.4
+      },
+      "average": 3.48
+    },
+    {
+      "name": "Sashalom",
+      "admin1_code": "05",
+      "location": [
+        47.51526,
+        19.17058
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.76,
+        "Mar": 3.73,
+        "Apr": 4.35,
+        "May": 4.56,
+        "Jun": 4.75,
+        "Jul": 4.78,
+        "Aug": 4.64,
+        "Sep": 3.82,
+        "Oct": 3.05,
+        "Nov": 1.88,
+        "Dec": 1.44
+      },
+      "average": 3.47
+    },
+    {
+      "name": "Sárvár",
+      "admin1_code": "22",
+      "location": [
+        47.25395,
+        16.93525
+      ],
+      "monthly": {
+        "Jan": 1.83,
+        "Feb": 2.86,
+        "Mar": 3.68,
+        "Apr": 4.37,
+        "May": 4.58,
+        "Jun": 4.76,
+        "Jul": 4.69,
+        "Aug": 4.59,
+        "Sep": 3.82,
+        "Oct": 2.99,
+        "Nov": 1.9,
+        "Dec": 1.48
+      },
+      "average": 3.46
+    },
+    {
+      "name": "Salgótarján",
+      "admin1_code": "14",
+      "location": [
+        48.09872,
+        19.80303
+      ],
+      "monthly": {
+        "Jan": 1.77,
+        "Feb": 2.66,
+        "Mar": 3.63,
+        "Apr": 4.17,
+        "May": 4.39,
+        "Jun": 4.68,
+        "Jul": 4.63,
+        "Aug": 4.51,
+        "Sep": 3.69,
+        "Oct": 2.91,
+        "Nov": 1.8,
+        "Dec": 1.43
+      },
+      "average": 3.36
+    },
+    {
+      "name": "Rákosszentmihály",
+      "admin1_code": "05",
+      "location": [
+        47.52462,
+        19.15501
+      ],
+      "monthly": {
+        "Jan": 1.85,
+        "Feb": 2.76,
+        "Mar": 3.72,
+        "Apr": 4.34,
+        "May": 4.55,
+        "Jun": 4.74,
+        "Jul": 4.77,
+        "Aug": 4.63,
+        "Sep": 3.82,
+        "Oct": 3.04,
+        "Nov": 1.87,
+        "Dec": 1.45
+      },
+      "average": 3.46
+    },
+    {
+      "name": "Rákospalota",
+      "admin1_code": "05",
+      "location": [
+        47.56453,
+        19.12207
+      ],
+      "monthly": {
+        "Jan": 1.83,
+        "Feb": 2.76,
+        "Mar": 3.71,
+        "Apr": 4.33,
+        "May": 4.56,
+        "Jun": 4.77,
+        "Jul": 4.78,
+        "Aug": 4.63,
+        "Sep": 3.82,
+        "Oct": 3.02,
+        "Nov": 1.84,
+        "Dec": 1.44
+      },
+      "average": 3.46
+    },
+    {
+      "name": "Rákoskeresztúr",
+      "admin1_code": "16",
+      "location": [
+        47.47324,
+        19.26178
+      ],
+      "monthly": {
+        "Jan": 1.85,
+        "Feb": 2.77,
+        "Mar": 3.77,
+        "Apr": 4.37,
+        "May": 4.56,
+        "Jun": 4.74,
+        "Jul": 4.8,
+        "Aug": 4.66,
+        "Sep": 3.83,
+        "Oct": 3.09,
+        "Nov": 1.91,
+        "Dec": 1.45
+      },
+      "average": 3.48
+    },
+    {
+      "name": "Pestlőrinc",
+      "admin1_code": "05",
+      "location": [
+        47.42977,
+        19.21592
+      ],
+      "monthly": {
+        "Jan": 1.85,
+        "Feb": 2.78,
+        "Mar": 3.75,
+        "Apr": 4.35,
+        "May": 4.55,
+        "Jun": 4.73,
+        "Jul": 4.78,
+        "Aug": 4.64,
+        "Sep": 3.82,
+        "Oct": 3.08,
+        "Nov": 1.9,
+        "Dec": 1.47
+      },
+      "average": 3.47
+    },
+    {
+      "name": "Pesterzsébet",
+      "admin1_code": "05",
+      "location": [
+        47.43333,
+        19.11667
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.77,
+        "Mar": 3.72,
+        "Apr": 4.34,
+        "May": 4.57,
+        "Jun": 4.76,
+        "Jul": 4.79,
+        "Aug": 4.65,
+        "Sep": 3.81,
+        "Oct": 3.05,
+        "Nov": 1.88,
+        "Dec": 1.47
+      },
+      "average": 3.47
+    },
+    {
+      "name": "Pest",
+      "admin1_code": "05",
+      "location": [
+        47.5,
+        19.08333
+      ],
+      "monthly": {
+        "Jan": 1.86,
+        "Feb": 2.77,
+        "Mar": 3.69,
+        "Apr": 4.3,
+        "May": 4.54,
+        "Jun": 4.73,
+        "Jul": 4.75,
+        "Aug": 4.6,
+        "Sep": 3.78,
+        "Oct": 3.02,
+        "Nov": 1.87,
+        "Dec": 1.48
+      },
+      "average": 3.45
+    },
+    {
+      "name": "Pécs",
+      "admin1_code": "02",
+      "location": [
+        46.07617,
+        18.22814
+      ],
+      "monthly": {
+        "Jan": 1.99,
+        "Feb": 2.83,
+        "Mar": 3.67,
+        "Apr": 4.22,
+        "May": 4.52,
+        "Jun": 4.81,
+        "Jul": 4.84,
+        "Aug": 4.66,
+        "Sep": 3.83,
+        "Oct": 3.19,
+        "Nov": 2.08,
+        "Dec": 1.63
+      },
+      "average": 3.52
+    },
+    {
+      "name": "Pápa",
+      "admin1_code": "23",
+      "location": [
+        47.33004,
+        17.4674
+      ],
+      "monthly": {
+        "Jan": 1.81,
+        "Feb": 2.8,
+        "Mar": 3.63,
+        "Apr": 4.34,
+        "May": 4.55,
+        "Jun": 4.78,
+        "Jul": 4.74,
+        "Aug": 4.6,
+        "Sep": 3.82,
+        "Oct": 3,
+        "Nov": 1.95,
+        "Dec": 1.49
+      },
+      "average": 3.46
+    },
+    {
+      "name": "Paks",
+      "admin1_code": "21",
+      "location": [
+        46.6221,
+        18.85569
+      ],
+      "monthly": {
+        "Jan": 1.89,
+        "Feb": 2.81,
+        "Mar": 3.72,
+        "Apr": 4.36,
+        "May": 4.61,
+        "Jun": 4.83,
+        "Jul": 4.89,
+        "Aug": 4.73,
+        "Sep": 3.89,
+        "Oct": 3.18,
+        "Nov": 2.01,
+        "Dec": 1.48
+      },
+      "average": 3.53
+    },
+    {
+      "name": "Oroszlány",
+      "admin1_code": "12",
+      "location": [
+        47.48671,
+        18.31225
+      ],
+      "monthly": {
+        "Jan": 1.83,
+        "Feb": 2.75,
+        "Mar": 3.65,
+        "Apr": 4.33,
+        "May": 4.51,
+        "Jun": 4.78,
+        "Jul": 4.76,
+        "Aug": 4.6,
+        "Sep": 3.8,
+        "Oct": 3.03,
+        "Nov": 1.92,
+        "Dec": 1.49
+      },
+      "average": 3.45
+    },
+    {
+      "name": "Óbuda",
+      "admin1_code": "05",
+      "location": [
+        47.55,
+        19.03333
+      ],
+      "monthly": {
+        "Jan": 1.76,
+        "Feb": 2.71,
+        "Mar": 3.66,
+        "Apr": 4.26,
+        "May": 4.5,
+        "Jun": 4.72,
+        "Jul": 4.73,
+        "Aug": 4.56,
+        "Sep": 3.75,
+        "Oct": 2.97,
+        "Nov": 1.81,
+        "Dec": 1.4
+      },
+      "average": 3.4
+    },
+    {
+      "name": "Naphegy",
+      "admin1_code": "16",
+      "location": [
+        47.48841,
+        19.0254
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.75,
+        "Mar": 3.68,
+        "Apr": 4.27,
+        "May": 4.52,
+        "Jun": 4.71,
+        "Jul": 4.72,
+        "Aug": 4.57,
+        "Sep": 3.75,
+        "Oct": 3.01,
+        "Nov": 1.86,
+        "Dec": 1.46
+      },
+      "average": 3.43
+    },
+    {
+      "name": "Nagykőrös",
+      "admin1_code": "16",
+      "location": [
+        47.03419,
+        19.77857
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.75,
+        "Mar": 3.8,
+        "Apr": 4.38,
+        "May": 4.57,
+        "Jun": 4.8,
+        "Jul": 4.85,
+        "Aug": 4.76,
+        "Sep": 3.91,
+        "Oct": 3.17,
+        "Nov": 1.98,
+        "Dec": 1.43
+      },
+      "average": 3.52
+    },
+    {
+      "name": "Nagykanizsa",
+      "admin1_code": "24",
+      "location": [
+        46.45347,
+        16.99104
+      ],
+      "monthly": {
+        "Jan": 1.9,
+        "Feb": 2.87,
+        "Mar": 3.72,
+        "Apr": 4.28,
+        "May": 4.57,
+        "Jun": 4.81,
+        "Jul": 4.85,
+        "Aug": 4.7,
+        "Sep": 3.85,
+        "Oct": 3.1,
+        "Nov": 1.95,
+        "Dec": 1.54
+      },
+      "average": 3.51
+    },
+    {
+      "name": "Mosonmagyaróvár",
+      "admin1_code": "09",
+      "location": [
+        47.86789,
+        17.26994
+      ],
+      "monthly": {
+        "Jan": 1.7,
+        "Feb": 2.73,
+        "Mar": 3.65,
+        "Apr": 4.43,
+        "May": 4.61,
+        "Jun": 4.79,
+        "Jul": 4.69,
+        "Aug": 4.55,
+        "Sep": 3.8,
+        "Oct": 2.86,
+        "Nov": 1.84,
+        "Dec": 1.39
+      },
+      "average": 3.42
+    },
+    {
+      "name": "Monor",
+      "admin1_code": "16",
+      "location": [
+        47.35133,
+        19.44733
+      ],
+      "monthly": {
+        "Jan": 1.83,
+        "Feb": 2.77,
+        "Mar": 3.79,
+        "Apr": 4.37,
+        "May": 4.55,
+        "Jun": 4.78,
+        "Jul": 4.82,
+        "Aug": 4.7,
+        "Sep": 3.85,
+        "Oct": 3.11,
+        "Nov": 1.91,
+        "Dec": 1.41
+      },
+      "average": 3.49
+    },
+    {
+      "name": "Mohács",
+      "admin1_code": "02",
+      "location": [
+        45.9902,
+        18.68621
+      ],
+      "monthly": {
+        "Jan": 1.88,
+        "Feb": 2.81,
+        "Mar": 3.76,
+        "Apr": 4.32,
+        "May": 4.6,
+        "Jun": 4.87,
+        "Jul": 4.89,
+        "Aug": 4.76,
+        "Sep": 3.92,
+        "Oct": 3.23,
+        "Nov": 2.05,
+        "Dec": 1.51
+      },
+      "average": 3.55
+    },
+    {
+      "name": "Mátyásföld",
+      "admin1_code": "05",
+      "location": [
+        47.50949,
+        19.21128
+      ],
+      "monthly": {
+        "Jan": 1.85,
+        "Feb": 2.77,
+        "Mar": 3.75,
+        "Apr": 4.35,
+        "May": 4.55,
+        "Jun": 4.73,
+        "Jul": 4.78,
+        "Aug": 4.65,
+        "Sep": 3.83,
+        "Oct": 3.07,
+        "Nov": 1.89,
+        "Dec": 1.44
+      },
+      "average": 3.47
+    },
+    {
+      "name": "Lágymányos",
+      "admin1_code": "16",
+      "location": [
+        47.47243,
+        19.05806
+      ],
+      "monthly": {
+        "Jan": 1.86,
+        "Feb": 2.76,
+        "Mar": 3.69,
+        "Apr": 4.3,
+        "May": 4.55,
+        "Jun": 4.74,
+        "Jul": 4.75,
+        "Aug": 4.6,
+        "Sep": 3.78,
+        "Oct": 3.02,
+        "Nov": 1.87,
+        "Dec": 1.48
+      },
+      "average": 3.45
+    },
+    {
+      "name": "Komló",
+      "admin1_code": "02",
+      "location": [
+        46.19278,
+        18.26494
+      ],
+      "monthly": {
+        "Jan": 1.98,
+        "Feb": 2.85,
+        "Mar": 3.63,
+        "Apr": 4.21,
+        "May": 4.49,
+        "Jun": 4.8,
+        "Jul": 4.85,
+        "Aug": 4.68,
+        "Sep": 3.84,
+        "Oct": 3.2,
+        "Nov": 2.09,
+        "Dec": 1.66
+      },
+      "average": 3.52
+    },
+    {
+      "name": "Komárom",
+      "admin1_code": "12",
+      "location": [
+        47.74318,
+        18.11913
+      ],
+      "monthly": {
+        "Jan": 1.78,
+        "Feb": 2.74,
+        "Mar": 3.69,
+        "Apr": 4.43,
+        "May": 4.61,
+        "Jun": 4.84,
+        "Jul": 4.78,
+        "Aug": 4.64,
+        "Sep": 3.82,
+        "Oct": 2.96,
+        "Nov": 1.87,
+        "Dec": 1.45
+      },
+      "average": 3.47
+    },
+    {
+      "name": "Kőbánya",
+      "admin1_code": "05",
+      "location": [
+        47.48427,
+        19.13913
+      ],
+      "monthly": {
+        "Jan": 1.86,
+        "Feb": 2.78,
+        "Mar": 3.71,
+        "Apr": 4.32,
+        "May": 4.53,
+        "Jun": 4.72,
+        "Jul": 4.75,
+        "Aug": 4.61,
+        "Sep": 3.8,
+        "Oct": 3.04,
+        "Nov": 1.88,
+        "Dec": 1.47
+      },
+      "average": 3.46
+    },
+    {
+      "name": "Kispest",
+      "admin1_code": "05",
+      "location": [
+        47.4515,
+        19.14017
+      ],
+      "monthly": {
+        "Jan": 1.85,
+        "Feb": 2.77,
+        "Mar": 3.72,
+        "Apr": 4.33,
+        "May": 4.55,
+        "Jun": 4.74,
+        "Jul": 4.77,
+        "Aug": 4.62,
+        "Sep": 3.81,
+        "Oct": 3.05,
+        "Nov": 1.88,
+        "Dec": 1.47
+      },
+      "average": 3.46
+    },
+    {
+      "name": "Kiskunhalas",
+      "admin1_code": "01",
+      "location": [
+        46.43402,
+        19.48479
+      ],
+      "monthly": {
+        "Jan": 1.89,
+        "Feb": 2.85,
+        "Mar": 3.76,
+        "Apr": 4.31,
+        "May": 4.51,
+        "Jun": 4.76,
+        "Jul": 4.82,
+        "Aug": 4.74,
+        "Sep": 3.91,
+        "Oct": 3.24,
+        "Nov": 2.07,
+        "Dec": 1.53
+      },
+      "average": 3.53
+    },
+    {
+      "name": "Kiskunfélegyháza",
+      "admin1_code": "01",
+      "location": [
+        46.71213,
+        19.84458
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.78,
+        "Mar": 3.81,
+        "Apr": 4.38,
+        "May": 4.6,
+        "Jun": 4.83,
+        "Jul": 4.87,
+        "Aug": 4.8,
+        "Sep": 3.94,
+        "Oct": 3.23,
+        "Nov": 2.03,
+        "Dec": 1.45
+      },
+      "average": 3.55
+    },
+    {
+      "name": "Kiskőrös",
+      "admin1_code": "01",
+      "location": [
+        46.62139,
+        19.28528
+      ],
+      "monthly": {
+        "Jan": 1.9,
+        "Feb": 2.85,
+        "Mar": 3.78,
+        "Apr": 4.39,
+        "May": 4.61,
+        "Jun": 4.89,
+        "Jul": 4.92,
+        "Aug": 4.79,
+        "Sep": 3.94,
+        "Oct": 3.2,
+        "Nov": 2.04,
+        "Dec": 1.54
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Keszthely",
+      "admin1_code": "24",
+      "location": [
+        46.76812,
+        17.24317
+      ],
+      "monthly": {
+        "Jan": 1.85,
+        "Feb": 2.81,
+        "Mar": 3.69,
+        "Apr": 4.36,
+        "May": 4.61,
+        "Jun": 4.83,
+        "Jul": 4.84,
+        "Aug": 4.7,
+        "Sep": 3.86,
+        "Oct": 3.05,
+        "Nov": 1.9,
+        "Dec": 1.5
+      },
+      "average": 3.5
+    },
+    {
+      "name": "Kelenföld",
+      "admin1_code": "05",
+      "location": [
+        47.46614,
+        19.03102
+      ],
+      "monthly": {
+        "Jan": 1.85,
+        "Feb": 2.76,
+        "Mar": 3.7,
+        "Apr": 4.3,
+        "May": 4.55,
+        "Jun": 4.75,
+        "Jul": 4.76,
+        "Aug": 4.61,
+        "Sep": 3.78,
+        "Oct": 3.02,
+        "Nov": 1.87,
+        "Dec": 1.47
+      },
+      "average": 3.45
+    },
+    {
+      "name": "Kecskemét",
+      "admin1_code": "01",
+      "location": [
+        46.90618,
+        19.69128
+      ],
+      "monthly": {
+        "Jan": 1.85,
+        "Feb": 2.78,
+        "Mar": 3.8,
+        "Apr": 4.38,
+        "May": 4.58,
+        "Jun": 4.8,
+        "Jul": 4.85,
+        "Aug": 4.77,
+        "Sep": 3.91,
+        "Oct": 3.19,
+        "Nov": 2,
+        "Dec": 1.46
+      },
+      "average": 3.53
+    },
+    {
+      "name": "Kaposvár",
+      "admin1_code": "17",
+      "location": [
+        46.36667,
+        17.8
+      ],
+      "monthly": {
+        "Jan": 1.95,
+        "Feb": 2.87,
+        "Mar": 3.72,
+        "Apr": 4.34,
+        "May": 4.6,
+        "Jun": 4.88,
+        "Jul": 4.9,
+        "Aug": 4.74,
+        "Sep": 3.87,
+        "Oct": 3.17,
+        "Nov": 2.02,
+        "Dec": 1.54
+      },
+      "average": 3.55
+    },
+    {
+      "name": "Kalocsa",
+      "admin1_code": "01",
+      "location": [
+        46.52981,
+        18.97283
+      ],
+      "monthly": {
+        "Jan": 1.87,
+        "Feb": 2.81,
+        "Mar": 3.75,
+        "Apr": 4.41,
+        "May": 4.67,
+        "Jun": 4.9,
+        "Jul": 4.94,
+        "Aug": 4.79,
+        "Sep": 3.92,
+        "Oct": 3.22,
+        "Nov": 2.05,
+        "Dec": 1.51
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Jászberény",
+      "admin1_code": "20",
+      "location": [
+        47.5,
+        19.91667
+      ],
+      "monthly": {
+        "Jan": 1.78,
+        "Feb": 2.66,
+        "Mar": 3.78,
+        "Apr": 4.38,
+        "May": 4.59,
+        "Jun": 4.81,
+        "Jul": 4.82,
+        "Aug": 4.73,
+        "Sep": 3.86,
+        "Oct": 3.12,
+        "Nov": 1.89,
+        "Dec": 1.38
+      },
+      "average": 3.48
+    },
+    {
+      "name": "Hatvan",
+      "admin1_code": "11",
+      "location": [
+        47.66667,
+        19.68333
+      ],
+      "monthly": {
+        "Jan": 1.82,
+        "Feb": 2.68,
+        "Mar": 3.77,
+        "Apr": 4.38,
+        "May": 4.58,
+        "Jun": 4.8,
+        "Jul": 4.77,
+        "Aug": 4.68,
+        "Sep": 3.84,
+        "Oct": 3.08,
+        "Nov": 1.87,
+        "Dec": 1.38
+      },
+      "average": 3.47
+    },
+    {
+      "name": "Győr",
+      "admin1_code": "09",
+      "location": [
+        47.68333,
+        17.63512
+      ],
+      "monthly": {
+        "Jan": 1.78,
+        "Feb": 2.76,
+        "Mar": 3.67,
+        "Apr": 4.42,
+        "May": 4.59,
+        "Jun": 4.84,
+        "Jul": 4.77,
+        "Aug": 4.6,
+        "Sep": 3.82,
+        "Oct": 2.91,
+        "Nov": 1.89,
+        "Dec": 1.45
+      },
+      "average": 3.46
+    },
+    {
+      "name": "Gyöngyös",
+      "admin1_code": "11",
+      "location": [
+        47.78257,
+        19.928
+      ],
+      "monthly": {
+        "Jan": 1.83,
+        "Feb": 2.65,
+        "Mar": 3.71,
+        "Apr": 4.28,
+        "May": 4.5,
+        "Jun": 4.72,
+        "Jul": 4.68,
+        "Aug": 4.61,
+        "Sep": 3.78,
+        "Oct": 3.02,
+        "Nov": 1.9,
+        "Dec": 1.4
+      },
+      "average": 3.42
+    },
+    {
+      "name": "Gyál",
+      "admin1_code": "16",
+      "location": [
+        47.38449,
+        19.2214
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.75,
+        "Mar": 3.75,
+        "Apr": 4.36,
+        "May": 4.57,
+        "Jun": 4.77,
+        "Jul": 4.81,
+        "Aug": 4.67,
+        "Sep": 3.84,
+        "Oct": 3.09,
+        "Nov": 1.91,
+        "Dec": 1.45
+      },
+      "average": 3.48
+    },
+    {
+      "name": "Gödöllő",
+      "admin1_code": "16",
+      "location": [
+        47.59657,
+        19.35515
+      ],
+      "monthly": {
+        "Jan": 1.83,
+        "Feb": 2.78,
+        "Mar": 3.77,
+        "Apr": 4.35,
+        "May": 4.55,
+        "Jun": 4.75,
+        "Jul": 4.78,
+        "Aug": 4.64,
+        "Sep": 3.82,
+        "Oct": 3.06,
+        "Nov": 1.88,
+        "Dec": 1.45
+      },
+      "average": 3.47
+    },
+    {
+      "name": "Göd",
+      "admin1_code": "16",
+      "location": [
+        47.68324,
+        19.13417
+      ],
+      "monthly": {
+        "Jan": 1.81,
+        "Feb": 2.74,
+        "Mar": 3.73,
+        "Apr": 4.33,
+        "May": 4.58,
+        "Jun": 4.79,
+        "Jul": 4.78,
+        "Aug": 4.63,
+        "Sep": 3.82,
+        "Oct": 2.99,
+        "Nov": 1.81,
+        "Dec": 1.39
+      },
+      "average": 3.45
+    },
+    {
+      "name": "Fót",
+      "admin1_code": "16",
+      "location": [
+        47.6177,
+        19.1887
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.78,
+        "Mar": 3.77,
+        "Apr": 4.37,
+        "May": 4.58,
+        "Jun": 4.78,
+        "Jul": 4.79,
+        "Aug": 4.66,
+        "Sep": 3.85,
+        "Oct": 3.05,
+        "Nov": 1.86,
+        "Dec": 1.43
+      },
+      "average": 3.48
+    },
+    {
+      "name": "Ferencváros",
+      "admin1_code": "05",
+      "location": [
+        47.47754,
+        19.09081
+      ],
+      "monthly": {
+        "Jan": 1.86,
+        "Feb": 2.77,
+        "Mar": 3.7,
+        "Apr": 4.31,
+        "May": 4.55,
+        "Jun": 4.74,
+        "Jul": 4.76,
+        "Aug": 4.61,
+        "Sep": 3.79,
+        "Oct": 3.03,
+        "Nov": 1.88,
+        "Dec": 1.48
+      },
+      "average": 3.46
+    },
+    {
+      "name": "Esztergom",
+      "admin1_code": "12",
+      "location": [
+        47.7928,
+        18.74148
+      ],
+      "monthly": {
+        "Jan": 1.74,
+        "Feb": 2.72,
+        "Mar": 3.67,
+        "Apr": 4.33,
+        "May": 4.54,
+        "Jun": 4.77,
+        "Jul": 4.7,
+        "Aug": 4.59,
+        "Sep": 3.77,
+        "Oct": 2.93,
+        "Nov": 1.82,
+        "Dec": 1.42
+      },
+      "average": 3.42
+    },
+    {
+      "name": "Erzsébetváros",
+      "admin1_code": "05",
+      "location": [
+        47.50207,
+        19.07218
+      ],
+      "monthly": {
+        "Jan": 1.86,
+        "Feb": 2.77,
+        "Mar": 3.69,
+        "Apr": 4.3,
+        "May": 4.54,
+        "Jun": 4.73,
+        "Jul": 4.75,
+        "Aug": 4.6,
+        "Sep": 3.78,
+        "Oct": 3.02,
+        "Nov": 1.87,
+        "Dec": 1.47
+      },
+      "average": 3.45
+    },
+    {
+      "name": "Érd",
+      "admin1_code": "16",
+      "location": [
+        47.39489,
+        18.91361
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.77,
+        "Mar": 3.75,
+        "Apr": 4.4,
+        "May": 4.64,
+        "Jun": 4.83,
+        "Jul": 4.83,
+        "Aug": 4.67,
+        "Sep": 3.85,
+        "Oct": 3.07,
+        "Nov": 1.91,
+        "Dec": 1.45
+      },
+      "average": 3.5
+    },
+    {
+      "name": "Dunaújváros",
+      "admin1_code": "08",
+      "location": [
+        46.96479,
+        18.93974
+      ],
+      "monthly": {
+        "Jan": 1.86,
+        "Feb": 2.77,
+        "Mar": 3.74,
+        "Apr": 4.42,
+        "May": 4.66,
+        "Jun": 4.86,
+        "Jul": 4.91,
+        "Aug": 4.76,
+        "Sep": 3.89,
+        "Oct": 3.16,
+        "Nov": 1.96,
+        "Dec": 1.47
+      },
+      "average": 3.54
+    },
+    {
+      "name": "Dunakeszi",
+      "admin1_code": "16",
+      "location": [
+        47.63641,
+        19.13864
+      ],
+      "monthly": {
+        "Jan": 1.8,
+        "Feb": 2.75,
+        "Mar": 3.73,
+        "Apr": 4.33,
+        "May": 4.58,
+        "Jun": 4.79,
+        "Jul": 4.79,
+        "Aug": 4.64,
+        "Sep": 3.83,
+        "Oct": 3,
+        "Nov": 1.82,
+        "Dec": 1.4
+      },
+      "average": 3.45
+    },
+    {
+      "name": "Dunaharaszti",
+      "admin1_code": "16",
+      "location": [
+        47.3545,
+        19.09822
+      ],
+      "monthly": {
+        "Jan": 1.85,
+        "Feb": 2.76,
+        "Mar": 3.76,
+        "Apr": 4.39,
+        "May": 4.61,
+        "Jun": 4.8,
+        "Jul": 4.83,
+        "Aug": 4.71,
+        "Sep": 3.86,
+        "Oct": 3.09,
+        "Nov": 1.9,
+        "Dec": 1.46
+      },
+      "average": 3.5
+    },
+    {
+      "name": "Dombóvár",
+      "admin1_code": "21",
+      "location": [
+        46.37657,
+        18.13696
+      ],
+      "monthly": {
+        "Jan": 1.94,
+        "Feb": 2.84,
+        "Mar": 3.68,
+        "Apr": 4.32,
+        "May": 4.57,
+        "Jun": 4.86,
+        "Jul": 4.9,
+        "Aug": 4.71,
+        "Sep": 3.84,
+        "Oct": 3.17,
+        "Nov": 2.04,
+        "Dec": 1.55
+      },
+      "average": 3.53
+    },
+    {
+      "name": "Dabas",
+      "admin1_code": "16",
+      "location": [
+        47.18594,
+        19.31091
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.77,
+        "Mar": 3.79,
+        "Apr": 4.4,
+        "May": 4.6,
+        "Jun": 4.84,
+        "Jul": 4.89,
+        "Aug": 4.75,
+        "Sep": 3.89,
+        "Oct": 3.14,
+        "Nov": 1.94,
+        "Dec": 1.43
+      },
+      "average": 3.52
+    },
+    {
+      "name": "Cegléd",
+      "admin1_code": "16",
+      "location": [
+        47.17266,
+        19.79952
+      ],
+      "monthly": {
+        "Jan": 1.79,
+        "Feb": 2.7,
+        "Mar": 3.78,
+        "Apr": 4.37,
+        "May": 4.58,
+        "Jun": 4.8,
+        "Jul": 4.87,
+        "Aug": 4.76,
+        "Sep": 3.89,
+        "Oct": 3.15,
+        "Nov": 1.94,
+        "Dec": 1.39
+      },
+      "average": 3.5
+    },
+    {
+      "name": "Budapest",
+      "admin1_code": "05",
+      "location": [
+        47.49835,
+        19.04045
+      ],
+      "monthly": {
+        "Jan": 1.82,
+        "Feb": 2.74,
+        "Mar": 3.66,
+        "Apr": 4.25,
+        "May": 4.49,
+        "Jun": 4.68,
+        "Jul": 4.7,
+        "Aug": 4.54,
+        "Sep": 3.73,
+        "Oct": 2.99,
+        "Nov": 1.85,
+        "Dec": 1.44
+      },
+      "average": 3.41
+    },
+    {
+      "name": "Budaörs",
+      "admin1_code": "16",
+      "location": [
+        47.46181,
+        18.95845
+      ],
+      "monthly": {
+        "Jan": 1.85,
+        "Feb": 2.77,
+        "Mar": 3.72,
+        "Apr": 4.32,
+        "May": 4.57,
+        "Jun": 4.77,
+        "Jul": 4.77,
+        "Aug": 4.61,
+        "Sep": 3.79,
+        "Oct": 3.05,
+        "Nov": 1.89,
+        "Dec": 1.47
+      },
+      "average": 3.46
+    },
+    {
+      "name": "Budafok",
+      "admin1_code": "05",
+      "location": [
+        47.42393,
+        19.03635
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.75,
+        "Mar": 3.7,
+        "Apr": 4.33,
+        "May": 4.57,
+        "Jun": 4.77,
+        "Jul": 4.79,
+        "Aug": 4.64,
+        "Sep": 3.8,
+        "Oct": 3.04,
+        "Nov": 1.88,
+        "Dec": 1.46
+      },
+      "average": 3.46
+    },
+    {
+      "name": "Buda",
+      "admin1_code": "05",
+      "location": [
+        47.5,
+        19.03333
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.75,
+        "Mar": 3.67,
+        "Apr": 4.26,
+        "May": 4.51,
+        "Jun": 4.7,
+        "Jul": 4.71,
+        "Aug": 4.56,
+        "Sep": 3.75,
+        "Oct": 3,
+        "Nov": 1.86,
+        "Dec": 1.46
+      },
+      "average": 3.42
+    },
+    {
+      "name": "Baja",
+      "admin1_code": "01",
+      "location": [
+        46.18299,
+        18.95307
+      ],
+      "monthly": {
+        "Jan": 1.88,
+        "Feb": 2.82,
+        "Mar": 3.73,
+        "Apr": 4.32,
+        "May": 4.61,
+        "Jun": 4.92,
+        "Jul": 4.96,
+        "Aug": 4.82,
+        "Sep": 3.93,
+        "Oct": 3.23,
+        "Nov": 2.04,
+        "Dec": 1.5
+      },
+      "average": 3.56
+    },
+    {
+      "name": "Angyalföld",
+      "admin1_code": "05",
+      "location": [
+        47.54765,
+        19.07973
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.75,
+        "Mar": 3.7,
+        "Apr": 4.31,
+        "May": 4.55,
+        "Jun": 4.75,
+        "Jul": 4.76,
+        "Aug": 4.61,
+        "Sep": 3.8,
+        "Oct": 3.01,
+        "Nov": 1.85,
+        "Dec": 1.46
+      },
+      "average": 3.45
+    },
+    {
+      "name": "Ajka",
+      "admin1_code": "23",
+      "location": [
+        47.10196,
+        17.55892
+      ],
+      "monthly": {
+        "Jan": 1.85,
+        "Feb": 2.82,
+        "Mar": 3.63,
+        "Apr": 4.28,
+        "May": 4.5,
+        "Jun": 4.77,
+        "Jul": 4.76,
+        "Aug": 4.61,
+        "Sep": 3.82,
+        "Oct": 3.07,
+        "Nov": 1.97,
+        "Dec": 1.55
+      },
+      "average": 3.47
+    },
+    {
+      "name": "Újpalota",
+      "admin1_code": "16",
+      "location": [
+        47.53728,
+        19.14411
+      ],
+      "monthly": {
+        "Jan": 1.85,
+        "Feb": 2.77,
+        "Mar": 3.72,
+        "Apr": 4.34,
+        "May": 4.55,
+        "Jun": 4.75,
+        "Jul": 4.77,
+        "Aug": 4.63,
+        "Sep": 3.82,
+        "Oct": 3.04,
+        "Nov": 1.87,
+        "Dec": 1.45
+      },
+      "average": 3.46
+    },
+    {
+      "name": "Budapest V. kerület",
+      "admin1_code": "05",
+      "location": [
+        47.49958,
+        19.05115
+      ],
+      "monthly": {
+        "Jan": 1.85,
+        "Feb": 2.75,
+        "Mar": 3.68,
+        "Apr": 4.27,
+        "May": 4.51,
+        "Jun": 4.7,
+        "Jul": 4.71,
+        "Aug": 4.56,
+        "Sep": 3.75,
+        "Oct": 3,
+        "Nov": 1.86,
+        "Dec": 1.46
+      },
+      "average": 3.43
+    },
+    {
+      "name": "Budapest XII. kerület",
+      "admin1_code": "05",
+      "location": [
+        47.49192,
+        19.01493
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.75,
+        "Mar": 3.68,
+        "Apr": 4.28,
+        "May": 4.53,
+        "Jun": 4.73,
+        "Jul": 4.74,
+        "Aug": 4.57,
+        "Sep": 3.76,
+        "Oct": 3.02,
+        "Nov": 1.86,
+        "Dec": 1.46
+      },
+      "average": 3.44
+    },
+    {
+      "name": "Budapest XI. kerület",
+      "admin1_code": "05",
+      "location": [
+        47.47603,
+        19.03605
+      ],
+      "monthly": {
+        "Jan": 1.85,
+        "Feb": 2.76,
+        "Mar": 3.69,
+        "Apr": 4.3,
+        "May": 4.55,
+        "Jun": 4.74,
+        "Jul": 4.75,
+        "Aug": 4.59,
+        "Sep": 3.77,
+        "Oct": 3.02,
+        "Nov": 1.87,
+        "Dec": 1.48
+      },
+      "average": 3.45
+    },
+    {
+      "name": "Budapest VIII. kerület",
+      "admin1_code": "05",
+      "location": [
+        47.48919,
+        19.07012
+      ],
+      "monthly": {
+        "Jan": 1.86,
+        "Feb": 2.77,
+        "Mar": 3.69,
+        "Apr": 4.3,
+        "May": 4.54,
+        "Jun": 4.72,
+        "Jul": 4.75,
+        "Aug": 4.6,
+        "Sep": 3.78,
+        "Oct": 3.02,
+        "Nov": 1.87,
+        "Dec": 1.48
+      },
+      "average": 3.45
+    },
+    {
+      "name": "Budapest VI. kerület",
+      "admin1_code": "05",
+      "location": [
+        47.50369,
+        19.06583
+      ],
+      "monthly": {
+        "Jan": 1.85,
+        "Feb": 2.76,
+        "Mar": 3.69,
+        "Apr": 4.29,
+        "May": 4.53,
+        "Jun": 4.72,
+        "Jul": 4.74,
+        "Aug": 4.59,
+        "Sep": 3.78,
+        "Oct": 3.01,
+        "Nov": 1.87,
+        "Dec": 1.47
+      },
+      "average": 3.44
+    },
+    {
+      "name": "Budapest XIII. kerület",
+      "admin1_code": "05",
+      "location": [
+        47.52978,
+        19.08068
+      ],
+      "monthly": {
+        "Jan": 1.85,
+        "Feb": 2.76,
+        "Mar": 3.7,
+        "Apr": 4.31,
+        "May": 4.54,
+        "Jun": 4.74,
+        "Jul": 4.76,
+        "Aug": 4.6,
+        "Sep": 3.79,
+        "Oct": 3.01,
+        "Nov": 1.86,
+        "Dec": 1.46
+      },
+      "average": 3.45
+    },
+    {
+      "name": "Budapest IV. kerület",
+      "admin1_code": "05",
+      "location": [
+        47.56182,
+        19.08909
+      ],
+      "monthly": {
+        "Jan": 1.83,
+        "Feb": 2.75,
+        "Mar": 3.7,
+        "Apr": 4.31,
+        "May": 4.55,
+        "Jun": 4.76,
+        "Jul": 4.77,
+        "Aug": 4.61,
+        "Sep": 3.8,
+        "Oct": 3,
+        "Nov": 1.84,
+        "Dec": 1.44
+      },
+      "average": 3.45
+    },
+    {
+      "name": "Budapest XV. kerület",
+      "admin1_code": "05",
+      "location": [
+        47.56263,
+        19.11681
+      ],
+      "monthly": {
+        "Jan": 1.83,
+        "Feb": 2.76,
+        "Mar": 3.71,
+        "Apr": 4.33,
+        "May": 4.56,
+        "Jun": 4.77,
+        "Jul": 4.78,
+        "Aug": 4.63,
+        "Sep": 3.82,
+        "Oct": 3.02,
+        "Nov": 1.84,
+        "Dec": 1.44
+      },
+      "average": 3.46
+    },
+    {
+      "name": "Budapest XVI. kerület",
+      "admin1_code": "05",
+      "location": [
+        47.51482,
+        19.17028
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.76,
+        "Mar": 3.73,
+        "Apr": 4.35,
+        "May": 4.56,
+        "Jun": 4.75,
+        "Jul": 4.78,
+        "Aug": 4.64,
+        "Sep": 3.82,
+        "Oct": 3.05,
+        "Nov": 1.88,
+        "Dec": 1.44
+      },
+      "average": 3.47
+    },
+    {
+      "name": "Budapest XIX. kerület",
+      "admin1_code": "05",
+      "location": [
+        47.45293,
+        19.14943
+      ],
+      "monthly": {
+        "Jan": 1.85,
+        "Feb": 2.77,
+        "Mar": 3.72,
+        "Apr": 4.33,
+        "May": 4.55,
+        "Jun": 4.73,
+        "Jul": 4.77,
+        "Aug": 4.62,
+        "Sep": 3.81,
+        "Oct": 3.05,
+        "Nov": 1.89,
+        "Dec": 1.46
+      },
+      "average": 3.46
+    },
+    {
+      "name": "Budapest XVIII. kerület",
+      "admin1_code": "05",
+      "location": [
+        47.44417,
+        19.17595
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.77,
+        "Mar": 3.73,
+        "Apr": 4.34,
+        "May": 4.55,
+        "Jun": 4.74,
+        "Jul": 4.78,
+        "Aug": 4.63,
+        "Sep": 3.81,
+        "Oct": 3.06,
+        "Nov": 1.89,
+        "Dec": 1.46
+      },
+      "average": 3.47
+    },
+    {
+      "name": "Budapest XXIII. kerület",
+      "admin1_code": "05",
+      "location": [
+        47.39788,
+        19.11492
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.76,
+        "Mar": 3.73,
+        "Apr": 4.35,
+        "May": 4.58,
+        "Jun": 4.76,
+        "Jul": 4.79,
+        "Aug": 4.66,
+        "Sep": 3.82,
+        "Oct": 3.07,
+        "Nov": 1.88,
+        "Dec": 1.47
+      },
+      "average": 3.48
+    },
+    {
+      "name": "Budapest XXII. kerület",
+      "admin1_code": "05",
+      "location": [
+        47.42698,
+        19.04016
+      ],
+      "monthly": {
+        "Jan": 1.82,
+        "Feb": 2.73,
+        "Mar": 3.68,
+        "Apr": 4.3,
+        "May": 4.53,
+        "Jun": 4.72,
+        "Jul": 4.74,
+        "Aug": 4.59,
+        "Sep": 3.77,
+        "Oct": 3.02,
+        "Nov": 1.85,
+        "Dec": 1.43
+      },
+      "average": 3.43
+    },
+    {
+      "name": "Budapest XXI. kerület",
+      "admin1_code": "05",
+      "location": [
+        47.42215,
+        19.06641
+      ],
+      "monthly": {
+        "Jan": 1.83,
+        "Feb": 2.75,
+        "Mar": 3.7,
+        "Apr": 4.34,
+        "May": 4.57,
+        "Jun": 4.77,
+        "Jul": 4.79,
+        "Aug": 4.64,
+        "Sep": 3.8,
+        "Oct": 3.04,
+        "Nov": 1.88,
+        "Dec": 1.46
+      },
+      "average": 3.46
+    },
+    {
+      "name": "Budapest XX. kerület",
+      "admin1_code": "05",
+      "location": [
+        47.43674,
+        19.10093
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.77,
+        "Mar": 3.71,
+        "Apr": 4.33,
+        "May": 4.57,
+        "Jun": 4.76,
+        "Jul": 4.78,
+        "Aug": 4.64,
+        "Sep": 3.8,
+        "Oct": 3.05,
+        "Nov": 1.88,
+        "Dec": 1.47
+      },
+      "average": 3.47
+    },
+    {
+      "name": "Budapest XVII. kerület",
+      "admin1_code": "05",
+      "location": [
+        47.47997,
+        19.25388
+      ],
+      "monthly": {
+        "Jan": 1.85,
+        "Feb": 2.77,
+        "Mar": 3.76,
+        "Apr": 4.35,
+        "May": 4.54,
+        "Jun": 4.72,
+        "Jul": 4.78,
+        "Aug": 4.64,
+        "Sep": 3.82,
+        "Oct": 3.08,
+        "Nov": 1.91,
+        "Dec": 1.45
+      },
+      "average": 3.47
+    },
+    {
+      "name": "Budapest III. kerület",
+      "admin1_code": "05",
+      "location": [
+        47.54157,
+        19.04501
+      ],
+      "monthly": {
+        "Jan": 1.83,
+        "Feb": 2.74,
+        "Mar": 3.69,
+        "Apr": 4.28,
+        "May": 4.53,
+        "Jun": 4.73,
+        "Jul": 4.74,
+        "Aug": 4.57,
+        "Sep": 3.78,
+        "Oct": 3,
+        "Nov": 1.85,
+        "Dec": 1.45
+      },
+      "average": 3.43
+    },
+    {
+      "name": "Budapest II. kerület",
+      "admin1_code": "05",
+      "location": [
+        47.51984,
+        19.02218
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.75,
+        "Mar": 3.7,
+        "Apr": 4.29,
+        "May": 4.55,
+        "Jun": 4.75,
+        "Jul": 4.76,
+        "Aug": 4.59,
+        "Sep": 3.78,
+        "Oct": 3.02,
+        "Nov": 1.86,
+        "Dec": 1.46
+      },
+      "average": 3.45
+    },
+    {
+      "name": "Budapest I. kerület",
+      "admin1_code": "05",
+      "location": [
+        47.49705,
+        19.03961
+      ],
+      "monthly": {
+        "Jan": 1.82,
+        "Feb": 2.74,
+        "Mar": 3.66,
+        "Apr": 4.25,
+        "May": 4.49,
+        "Jun": 4.68,
+        "Jul": 4.7,
+        "Aug": 4.54,
+        "Sep": 3.73,
+        "Oct": 2.99,
+        "Nov": 1.85,
+        "Dec": 1.44
+      },
+      "average": 3.41
+    },
+    {
+      "name": "Józsefváros",
+      "admin1_code": "05",
+      "location": [
+        47.48938,
+        19.07292
+      ],
+      "monthly": {
+        "Jan": 1.86,
+        "Feb": 2.77,
+        "Mar": 3.69,
+        "Apr": 4.3,
+        "May": 4.54,
+        "Jun": 4.72,
+        "Jul": 4.75,
+        "Aug": 4.6,
+        "Sep": 3.78,
+        "Oct": 3.02,
+        "Nov": 1.87,
+        "Dec": 1.48
+      },
+      "average": 3.45
+    },
+    {
+      "name": "Csepel-Királyerdő",
+      "admin1_code": "05",
+      "location": [
+        47.40253,
+        19.09182
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.76,
+        "Mar": 3.73,
+        "Apr": 4.36,
+        "May": 4.58,
+        "Jun": 4.77,
+        "Jul": 4.8,
+        "Aug": 4.66,
+        "Sep": 3.82,
+        "Oct": 3.06,
+        "Nov": 1.88,
+        "Dec": 1.46
+      },
+      "average": 3.48
+    },
+    {
+      "name": "Csepel-Csillagtelep",
+      "admin1_code": "05",
+      "location": [
+        47.40918,
+        19.05944
+      ],
+      "monthly": {
+        "Jan": 1.83,
+        "Feb": 2.75,
+        "Mar": 3.71,
+        "Apr": 4.34,
+        "May": 4.58,
+        "Jun": 4.78,
+        "Jul": 4.79,
+        "Aug": 4.65,
+        "Sep": 3.81,
+        "Oct": 3.05,
+        "Nov": 1.88,
+        "Dec": 1.46
+      },
+      "average": 3.47
+    },
+    {
+      "name": "Középső-Ferencváros",
+      "admin1_code": "05",
+      "location": [
+        47.47305,
+        19.07971
+      ],
+      "monthly": {
+        "Jan": 1.86,
+        "Feb": 2.77,
+        "Mar": 3.7,
+        "Apr": 4.31,
+        "May": 4.55,
+        "Jun": 4.74,
+        "Jul": 4.76,
+        "Aug": 4.61,
+        "Sep": 3.79,
+        "Oct": 3.03,
+        "Nov": 1.88,
+        "Dec": 1.48
+      },
+      "average": 3.46
+    },
+    {
+      "name": "Óhegy",
+      "admin1_code": "05",
+      "location": [
+        47.47803,
+        19.1479
+      ],
+      "monthly": {
+        "Jan": 1.86,
+        "Feb": 2.79,
+        "Mar": 3.73,
+        "Apr": 4.33,
+        "May": 4.54,
+        "Jun": 4.72,
+        "Jul": 4.76,
+        "Aug": 4.62,
+        "Sep": 3.81,
+        "Oct": 3.05,
+        "Nov": 1.89,
+        "Dec": 1.47
+      },
+      "average": 3.46
+    },
+    {
+      "name": "Újlipótváros",
+      "admin1_code": "05",
+      "location": [
+        47.51606,
+        19.05279
+      ],
+      "monthly": {
+        "Jan": 1.85,
+        "Feb": 2.75,
+        "Mar": 3.68,
+        "Apr": 4.28,
+        "May": 4.53,
+        "Jun": 4.71,
+        "Jul": 4.74,
+        "Aug": 4.58,
+        "Sep": 3.77,
+        "Oct": 3,
+        "Nov": 1.86,
+        "Dec": 1.47
+      },
+      "average": 3.44
+    }
+  ]
+}

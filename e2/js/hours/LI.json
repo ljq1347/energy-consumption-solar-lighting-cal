@@ -1,0 +1,29 @@
+{
+  "country": "Liechtenstein",
+  "countryCode": "LI",
+  "cities": [
+    {
+      "name": "Vaduz",
+      "admin1_code": "11",
+      "location": [
+        47.14151,
+        9.52154
+      ],
+      "monthly": {
+        "Jan": 1.94,
+        "Feb": 2.72,
+        "Mar": 3.53,
+        "Apr": 4.01,
+        "May": 3.97,
+        "Jun": 4.24,
+        "Jul": 4.17,
+        "Aug": 3.98,
+        "Sep": 3.55,
+        "Oct": 2.8,
+        "Nov": 1.91,
+        "Dec": 1.57
+      },
+      "average": 3.2
+    }
+  ]
+}

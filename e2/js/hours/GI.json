@@ -1,0 +1,29 @@
+{
+  "country": "GI",
+  "countryCode": "GI",
+  "cities": [
+    {
+      "name": "Gibraltar",
+      "admin1_code": "00",
+      "location": [
+        36.14474,
+        -5.35257
+      ],
+      "monthly": {
+        "Jan": 3.12,
+        "Feb": 3.64,
+        "Mar": 4.27,
+        "Apr": 4.89,
+        "May": 5.3,
+        "Jun": 5.61,
+        "Jul": 5.63,
+        "Aug": 5.41,
+        "Sep": 4.79,
+        "Oct": 3.86,
+        "Nov": 3.2,
+        "Dec": 2.7
+      },
+      "average": 4.37
+    }
+  ]
+}

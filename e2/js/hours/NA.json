@@ -1,0 +1,443 @@
+{
+  "country": "Namibia",
+  "countryCode": "NA",
+  "cities": [
+    {
+      "name": "Ndiyona",
+      "admin1_code": "40",
+      "location": [
+        -18.03892,
+        20.70058
+      ],
+      "monthly": {
+        "Jan": 4.49,
+        "Feb": 4.77,
+        "Mar": 4.98,
+        "Apr": 5.34,
+        "May": 5.53,
+        "Jun": 5.46,
+        "Jul": 5.53,
+        "Aug": 5.65,
+        "Sep": 5.52,
+        "Oct": 5.19,
+        "Nov": 4.67,
+        "Dec": 4.52
+      },
+      "average": 5.14
+    },
+    {
+      "name": "Katima Mulilo",
+      "admin1_code": "28",
+      "location": [
+        -17.50467,
+        24.27574
+      ],
+      "monthly": {
+        "Jan": 4.43,
+        "Feb": 4.66,
+        "Mar": 4.99,
+        "Apr": 5.41,
+        "May": 5.49,
+        "Jun": 5.32,
+        "Jul": 5.44,
+        "Aug": 5.63,
+        "Sep": 5.52,
+        "Oct": 5.21,
+        "Nov": 4.55,
+        "Dec": 4.42
+      },
+      "average": 5.09
+    },
+    {
+      "name": "Windhoek",
+      "admin1_code": "21",
+      "location": [
+        -22.55941,
+        17.08323
+      ],
+      "monthly": {
+        "Jan": 4.93,
+        "Feb": 4.99,
+        "Mar": 5.17,
+        "Apr": 5.45,
+        "May": 5.65,
+        "Jun": 5.67,
+        "Jul": 5.76,
+        "Aug": 5.91,
+        "Sep": 5.83,
+        "Oct": 5.57,
+        "Nov": 5.3,
+        "Dec": 5.09
+      },
+      "average": 5.44
+    },
+    {
+      "name": "Tsumeb",
+      "admin1_code": "38",
+      "location": [
+        -19.24842,
+        17.71345
+      ],
+      "monthly": {
+        "Jan": 4.64,
+        "Feb": 4.78,
+        "Mar": 4.82,
+        "Apr": 5.16,
+        "May": 5.57,
+        "Jun": 5.59,
+        "Jul": 5.66,
+        "Aug": 5.76,
+        "Sep": 5.66,
+        "Oct": 5.31,
+        "Nov": 4.86,
+        "Dec": 4.71
+      },
+      "average": 5.21
+    },
+    {
+      "name": "Swakopmund",
+      "admin1_code": "29",
+      "location": [
+        -22.67842,
+        14.52663
+      ],
+      "monthly": {
+        "Jan": 4.77,
+        "Feb": 4.8,
+        "Mar": 4.72,
+        "Apr": 4.55,
+        "May": 4.32,
+        "Jun": 4.23,
+        "Jul": 4.25,
+        "Aug": 4.38,
+        "Sep": 4.7,
+        "Oct": 4.86,
+        "Nov": 5,
+        "Dec": 4.83
+      },
+      "average": 4.62
+    },
+    {
+      "name": "Rundu",
+      "admin1_code": "40",
+      "location": [
+        -17.91796,
+        19.77314
+      ],
+      "monthly": {
+        "Jan": 4.57,
+        "Feb": 4.82,
+        "Mar": 4.96,
+        "Apr": 5.32,
+        "May": 5.57,
+        "Jun": 5.49,
+        "Jul": 5.54,
+        "Aug": 5.65,
+        "Sep": 5.51,
+        "Oct": 5.17,
+        "Nov": 4.7,
+        "Dec": 4.58
+      },
+      "average": 5.16
+    },
+    {
+      "name": "Rehoboth",
+      "admin1_code": "30",
+      "location": [
+        -23.317,
+        17.09
+      ],
+      "monthly": {
+        "Jan": 5.24,
+        "Feb": 5.3,
+        "Mar": 5.37,
+        "Apr": 5.46,
+        "May": 5.51,
+        "Jun": 5.53,
+        "Jul": 5.66,
+        "Aug": 5.86,
+        "Sep": 5.85,
+        "Oct": 5.7,
+        "Nov": 5.52,
+        "Dec": 5.35
+      },
+      "average": 5.53
+    },
+    {
+      "name": "Otjiwarongo",
+      "admin1_code": "39",
+      "location": [
+        -20.46369,
+        16.64772
+      ],
+      "monthly": {
+        "Jan": 4.85,
+        "Feb": 4.92,
+        "Mar": 5.02,
+        "Apr": 5.26,
+        "May": 5.59,
+        "Jun": 5.65,
+        "Jul": 5.72,
+        "Aug": 5.84,
+        "Sep": 5.73,
+        "Oct": 5.42,
+        "Nov": 5.11,
+        "Dec": 4.89
+      },
+      "average": 5.33
+    },
+    {
+      "name": "Oshakati",
+      "admin1_code": "37",
+      "location": [
+        -17.78833,
+        15.70436
+      ],
+      "monthly": {
+        "Jan": 5.01,
+        "Feb": 5.08,
+        "Mar": 5.2,
+        "Apr": 5.44,
+        "May": 5.55,
+        "Jun": 5.54,
+        "Jul": 5.61,
+        "Aug": 5.68,
+        "Sep": 5.64,
+        "Oct": 5.51,
+        "Nov": 5.21,
+        "Dec": 5.04
+      },
+      "average": 5.38
+    },
+    {
+      "name": "Ongwediva",
+      "admin1_code": "37",
+      "location": [
+        -17.77198,
+        15.76564
+      ],
+      "monthly": {
+        "Jan": 4.97,
+        "Feb": 5.07,
+        "Mar": 5.18,
+        "Apr": 5.43,
+        "May": 5.55,
+        "Jun": 5.55,
+        "Jul": 5.61,
+        "Aug": 5.69,
+        "Sep": 5.64,
+        "Oct": 5.51,
+        "Nov": 5.2,
+        "Dec": 5.01
+      },
+      "average": 5.37
+    },
+    {
+      "name": "Ondangwa",
+      "admin1_code": "37",
+      "location": [
+        -17.90824,
+        15.98037
+      ],
+      "monthly": {
+        "Jan": 5.01,
+        "Feb": 5.11,
+        "Mar": 5.19,
+        "Apr": 5.41,
+        "May": 5.54,
+        "Jun": 5.53,
+        "Jul": 5.6,
+        "Aug": 5.69,
+        "Sep": 5.62,
+        "Oct": 5.5,
+        "Nov": 5.21,
+        "Dec": 5.03
+      },
+      "average": 5.37
+    },
+    {
+      "name": "Okahandja",
+      "admin1_code": "39",
+      "location": [
+        -21.98141,
+        16.9029
+      ],
+      "monthly": {
+        "Jan": 5.07,
+        "Feb": 5.08,
+        "Mar": 5.21,
+        "Apr": 5.37,
+        "May": 5.55,
+        "Jun": 5.59,
+        "Jul": 5.67,
+        "Aug": 5.82,
+        "Sep": 5.77,
+        "Oct": 5.58,
+        "Nov": 5.34,
+        "Dec": 5.1
+      },
+      "average": 5.43
+    },
+    {
+      "name": "Lüderitz",
+      "admin1_code": "31",
+      "location": [
+        -26.64807,
+        15.15383
+      ],
+      "monthly": {
+        "Jan": 5.91,
+        "Feb": 5.86,
+        "Mar": 5.76,
+        "Apr": 5.39,
+        "May": 4.96,
+        "Jun": 4.63,
+        "Jul": 4.77,
+        "Aug": 5.14,
+        "Sep": 5.47,
+        "Oct": 5.76,
+        "Nov": 5.88,
+        "Dec": 5.92
+      },
+      "average": 5.45
+    },
+    {
+      "name": "Keetmanshoop",
+      "admin1_code": "31",
+      "location": [
+        -26.57654,
+        18.13359
+      ],
+      "monthly": {
+        "Jan": 5.57,
+        "Feb": 5.5,
+        "Mar": 5.53,
+        "Apr": 5.44,
+        "May": 5.2,
+        "Jun": 5.05,
+        "Jul": 5.23,
+        "Aug": 5.63,
+        "Sep": 5.85,
+        "Oct": 5.91,
+        "Nov": 5.86,
+        "Dec": 5.72
+      },
+      "average": 5.54
+    },
+    {
+      "name": "Katutura",
+      "admin1_code": "21",
+      "location": [
+        -22.52306,
+        17.06028
+      ],
+      "monthly": {
+        "Jan": 4.95,
+        "Feb": 5,
+        "Mar": 5.18,
+        "Apr": 5.45,
+        "May": 5.64,
+        "Jun": 5.67,
+        "Jul": 5.76,
+        "Aug": 5.91,
+        "Sep": 5.83,
+        "Oct": 5.58,
+        "Nov": 5.3,
+        "Dec": 5.09
+      },
+      "average": 5.45
+    },
+    {
+      "name": "Grootfontein",
+      "admin1_code": "39",
+      "location": [
+        -19.57328,
+        18.1003
+      ],
+      "monthly": {
+        "Jan": 4.71,
+        "Feb": 4.81,
+        "Mar": 4.84,
+        "Apr": 5.16,
+        "May": 5.6,
+        "Jun": 5.62,
+        "Jul": 5.71,
+        "Aug": 5.82,
+        "Sep": 5.73,
+        "Oct": 5.36,
+        "Nov": 4.89,
+        "Dec": 4.71
+      },
+      "average": 5.25
+    },
+    {
+      "name": "Gobabis",
+      "admin1_code": "35",
+      "location": [
+        -22.45338,
+        18.97159
+      ],
+      "monthly": {
+        "Jan": 4.97,
+        "Feb": 5.01,
+        "Mar": 5.06,
+        "Apr": 5.31,
+        "May": 5.56,
+        "Jun": 5.55,
+        "Jul": 5.68,
+        "Aug": 5.84,
+        "Sep": 5.82,
+        "Oct": 5.53,
+        "Nov": 5.21,
+        "Dec": 4.99
+      },
+      "average": 5.38
+    },
+    {
+      "name": "Walvis Bay",
+      "admin1_code": "29",
+      "location": [
+        -22.9575,
+        14.50528
+      ],
+      "monthly": {
+        "Jan": 4.97,
+        "Feb": 5.03,
+        "Mar": 5.09,
+        "Apr": 4.9,
+        "May": 4.64,
+        "Jun": 4.45,
+        "Jul": 4.47,
+        "Aug": 4.58,
+        "Sep": 4.83,
+        "Oct": 5.08,
+        "Nov": 5.16,
+        "Dec": 5.07
+      },
+      "average": 4.86
+    },
+    {
+      "name": "Helao Nafidi",
+      "admin1_code": "33",
+      "location": [
+        -17.39321,
+        15.89107
+      ],
+      "monthly": {
+        "Jan": 4.86,
+        "Feb": 4.93,
+        "Mar": 5.02,
+        "Apr": 5.34,
+        "May": 5.55,
+        "Jun": 5.55,
+        "Jul": 5.6,
+        "Aug": 5.65,
+        "Sep": 5.58,
+        "Oct": 5.39,
+        "Nov": 5.06,
+        "Dec": 4.86
+      },
+      "average": 5.28
+    }
+  ]
+}

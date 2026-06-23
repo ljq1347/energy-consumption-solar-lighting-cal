@@ -1,0 +1,1386 @@
+{
+  "country": "Sri Lanka",
+  "countryCode": "LK",
+  "cities": [
+    {
+      "name": "Welisara",
+      "admin1_code": "36",
+      "location": [
+        7.0281,
+        79.9014
+      ],
+      "monthly": {
+        "Jan": 4.47,
+        "Feb": 4.95,
+        "Mar": 5.06,
+        "Apr": 4.6,
+        "May": 3.8,
+        "Jun": 3.77,
+        "Jul": 3.87,
+        "Aug": 4.12,
+        "Sep": 4.25,
+        "Oct": 4.23,
+        "Nov": 4.01,
+        "Dec": 4.09
+      },
+      "average": 4.27
+    },
+    {
+      "name": "Weligama",
+      "admin1_code": "34",
+      "location": [
+        5.97501,
+        80.42968
+      ],
+      "monthly": {
+        "Jan": 4.32,
+        "Feb": 4.74,
+        "Mar": 4.91,
+        "Apr": 4.6,
+        "May": 3.91,
+        "Jun": 3.98,
+        "Jul": 3.96,
+        "Aug": 4.21,
+        "Sep": 4.29,
+        "Oct": 4.3,
+        "Nov": 3.98,
+        "Dec": 4.04
+      },
+      "average": 4.27
+    },
+    {
+      "name": "Wattala",
+      "admin1_code": "36",
+      "location": [
+        6.98918,
+        79.89167
+      ],
+      "monthly": {
+        "Jan": 4.44,
+        "Feb": 4.92,
+        "Mar": 5.05,
+        "Apr": 4.59,
+        "May": 3.78,
+        "Jun": 3.77,
+        "Jul": 3.89,
+        "Aug": 4.12,
+        "Sep": 4.23,
+        "Oct": 4.22,
+        "Nov": 4.01,
+        "Dec": 4.07
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Vavuniya",
+      "admin1_code": "38",
+      "location": [
+        8.7514,
+        80.4971
+      ],
+      "monthly": {
+        "Jan": 4,
+        "Feb": 4.79,
+        "Mar": 5.12,
+        "Apr": 4.71,
+        "May": 4.32,
+        "Jun": 4.2,
+        "Jul": 4.15,
+        "Aug": 4.25,
+        "Sep": 4.51,
+        "Oct": 4.13,
+        "Nov": 3.53,
+        "Dec": 3.45
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Valvedditturai",
+      "admin1_code": "38",
+      "location": [
+        9.81667,
+        80.16667
+      ],
+      "monthly": {
+        "Jan": 4.29,
+        "Feb": 4.99,
+        "Mar": 5.28,
+        "Apr": 4.83,
+        "May": 4.37,
+        "Jun": 4.31,
+        "Jul": 4.22,
+        "Aug": 4.37,
+        "Sep": 4.58,
+        "Oct": 4.19,
+        "Nov": 3.62,
+        "Dec": 3.67
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Vakarai",
+      "admin1_code": "37",
+      "location": [
+        8.13333,
+        81.43333
+      ],
+      "monthly": {
+        "Jan": 4.03,
+        "Feb": 4.66,
+        "Mar": 5.18,
+        "Apr": 4.99,
+        "May": 4.33,
+        "Jun": 4.22,
+        "Jul": 4.25,
+        "Aug": 4.43,
+        "Sep": 4.55,
+        "Oct": 4.43,
+        "Nov": 3.75,
+        "Dec": 3.55
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Trincomalee",
+      "admin1_code": "37",
+      "location": [
+        8.5778,
+        81.2289
+      ],
+      "monthly": {
+        "Jan": 4.09,
+        "Feb": 4.77,
+        "Mar": 5.25,
+        "Apr": 5.01,
+        "May": 4.32,
+        "Jun": 4.18,
+        "Jul": 4.14,
+        "Aug": 4.26,
+        "Sep": 4.47,
+        "Oct": 4.38,
+        "Nov": 3.72,
+        "Dec": 3.56
+      },
+      "average": 4.35
+    },
+    {
+      "name": "Ratnapura",
+      "admin1_code": "33",
+      "location": [
+        6.6858,
+        80.4036
+      ],
+      "monthly": {
+        "Jan": 4.21,
+        "Feb": 4.67,
+        "Mar": 4.73,
+        "Apr": 4.27,
+        "May": 3.55,
+        "Jun": 3.5,
+        "Jul": 3.55,
+        "Aug": 3.74,
+        "Sep": 3.87,
+        "Oct": 3.86,
+        "Nov": 3.73,
+        "Dec": 3.8
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Puttalam",
+      "admin1_code": "32",
+      "location": [
+        8.0362,
+        79.8283
+      ],
+      "monthly": {
+        "Jan": 4.1,
+        "Feb": 4.79,
+        "Mar": 5.11,
+        "Apr": 4.79,
+        "May": 4.09,
+        "Jun": 4.09,
+        "Jul": 4.25,
+        "Aug": 4.45,
+        "Sep": 4.63,
+        "Oct": 4.37,
+        "Nov": 3.76,
+        "Dec": 3.67
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Pottuvil",
+      "admin1_code": "37",
+      "location": [
+        6.8762,
+        81.8267
+      ],
+      "monthly": {
+        "Jan": 4.1,
+        "Feb": 4.66,
+        "Mar": 5.09,
+        "Apr": 4.84,
+        "May": 4.33,
+        "Jun": 4.29,
+        "Jul": 4.33,
+        "Aug": 4.49,
+        "Sep": 4.57,
+        "Oct": 4.47,
+        "Nov": 3.92,
+        "Dec": 3.7
+      },
+      "average": 4.4
+    },
+    {
+      "name": "Point Pedro",
+      "admin1_code": "38",
+      "location": [
+        9.81667,
+        80.23333
+      ],
+      "monthly": {
+        "Jan": 4.3,
+        "Feb": 5.03,
+        "Mar": 5.32,
+        "Apr": 4.86,
+        "May": 4.38,
+        "Jun": 4.32,
+        "Jul": 4.21,
+        "Aug": 4.37,
+        "Sep": 4.6,
+        "Oct": 4.21,
+        "Nov": 3.62,
+        "Dec": 3.68
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Pita Kotte",
+      "admin1_code": "36",
+      "location": [
+        6.8905,
+        79.9015
+      ],
+      "monthly": {
+        "Jan": 4.39,
+        "Feb": 4.88,
+        "Mar": 5,
+        "Apr": 4.55,
+        "May": 3.78,
+        "Jun": 3.76,
+        "Jul": 3.86,
+        "Aug": 4.1,
+        "Sep": 4.19,
+        "Oct": 4.17,
+        "Nov": 3.97,
+        "Dec": 4.03
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Peliyagoda",
+      "admin1_code": "36",
+      "location": [
+        6.9685,
+        79.8836
+      ],
+      "monthly": {
+        "Jan": 4.43,
+        "Feb": 4.92,
+        "Mar": 5.06,
+        "Apr": 4.6,
+        "May": 3.81,
+        "Jun": 3.8,
+        "Jul": 3.91,
+        "Aug": 4.15,
+        "Sep": 4.24,
+        "Oct": 4.23,
+        "Nov": 4.02,
+        "Dec": 4.07
+      },
+      "average": 4.27
+    },
+    {
+      "name": "Panadura",
+      "admin1_code": "36",
+      "location": [
+        6.7132,
+        79.9026
+      ],
+      "monthly": {
+        "Jan": 4.48,
+        "Feb": 4.96,
+        "Mar": 5.08,
+        "Apr": 4.6,
+        "May": 3.81,
+        "Jun": 3.83,
+        "Jul": 3.93,
+        "Aug": 4.17,
+        "Sep": 4.24,
+        "Oct": 4.23,
+        "Nov": 4.05,
+        "Dec": 4.13
+      },
+      "average": 4.29
+    },
+    {
+      "name": "Nuwara Eliya",
+      "admin1_code": "29",
+      "location": [
+        6.97078,
+        80.78286
+      ],
+      "monthly": {
+        "Jan": 4.09,
+        "Feb": 4.68,
+        "Mar": 4.95,
+        "Apr": 4.21,
+        "May": 3.64,
+        "Jun": 3.33,
+        "Jul": 3.16,
+        "Aug": 3.5,
+        "Sep": 3.65,
+        "Oct": 3.57,
+        "Nov": 3.47,
+        "Dec": 3.52
+      },
+      "average": 3.81
+    },
+    {
+      "name": "Negombo",
+      "admin1_code": "36",
+      "location": [
+        7.2083,
+        79.8358
+      ],
+      "monthly": {
+        "Jan": 4.46,
+        "Feb": 4.97,
+        "Mar": 5.16,
+        "Apr": 4.73,
+        "May": 3.86,
+        "Jun": 3.84,
+        "Jul": 3.96,
+        "Aug": 4.21,
+        "Sep": 4.34,
+        "Oct": 4.33,
+        "Nov": 4.02,
+        "Dec": 4.05
+      },
+      "average": 4.33
+    },
+    {
+      "name": "Mulleriyawa",
+      "admin1_code": "36",
+      "location": [
+        6.933,
+        79.9297
+      ],
+      "monthly": {
+        "Jan": 4.39,
+        "Feb": 4.86,
+        "Mar": 4.93,
+        "Apr": 4.46,
+        "May": 3.7,
+        "Jun": 3.67,
+        "Jul": 3.75,
+        "Aug": 3.99,
+        "Sep": 4.11,
+        "Oct": 4.08,
+        "Nov": 3.93,
+        "Dec": 4.02
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Mullaittivu",
+      "admin1_code": "38",
+      "location": [
+        9.268,
+        80.815
+      ],
+      "monthly": {
+        "Jan": 4.19,
+        "Feb": 4.94,
+        "Mar": 5.33,
+        "Apr": 4.97,
+        "May": 4.32,
+        "Jun": 4.22,
+        "Jul": 4.08,
+        "Aug": 4.17,
+        "Sep": 4.46,
+        "Oct": 4.29,
+        "Nov": 3.65,
+        "Dec": 3.61
+      },
+      "average": 4.35
+    },
+    {
+      "name": "Dehiwala-Mount Lavinia",
+      "admin1_code": "36",
+      "location": [
+        6.84019,
+        79.87116
+      ],
+      "monthly": {
+        "Jan": 4.42,
+        "Feb": 4.93,
+        "Mar": 5.08,
+        "Apr": 4.62,
+        "May": 3.82,
+        "Jun": 3.83,
+        "Jul": 3.93,
+        "Aug": 4.18,
+        "Sep": 4.25,
+        "Oct": 4.24,
+        "Nov": 4.03,
+        "Dec": 4.07
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Moratuwa",
+      "admin1_code": "36",
+      "location": [
+        6.773,
+        79.8816
+      ],
+      "monthly": {
+        "Jan": 4.47,
+        "Feb": 4.96,
+        "Mar": 5.09,
+        "Apr": 4.62,
+        "May": 3.81,
+        "Jun": 3.83,
+        "Jul": 3.94,
+        "Aug": 4.18,
+        "Sep": 4.25,
+        "Oct": 4.24,
+        "Nov": 4.05,
+        "Dec": 4.11
+      },
+      "average": 4.3
+    },
+    {
+      "name": "Matara",
+      "admin1_code": "34",
+      "location": [
+        5.94851,
+        80.53528
+      ],
+      "monthly": {
+        "Jan": 4.38,
+        "Feb": 4.82,
+        "Mar": 5.01,
+        "Apr": 4.66,
+        "May": 3.98,
+        "Jun": 4.03,
+        "Jul": 4.03,
+        "Aug": 4.28,
+        "Sep": 4.36,
+        "Oct": 4.37,
+        "Nov": 4.03,
+        "Dec": 4.09
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Matale",
+      "admin1_code": "29",
+      "location": [
+        7.4698,
+        80.6217
+      ],
+      "monthly": {
+        "Jan": 4.1,
+        "Feb": 4.77,
+        "Mar": 4.92,
+        "Apr": 4.26,
+        "May": 3.75,
+        "Jun": 3.39,
+        "Jul": 3.36,
+        "Aug": 3.68,
+        "Sep": 3.91,
+        "Oct": 3.89,
+        "Nov": 3.63,
+        "Dec": 3.57
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Mannar",
+      "admin1_code": "38",
+      "location": [
+        8.98945,
+        79.87842
+      ],
+      "monthly": {
+        "Jan": 4.41,
+        "Feb": 5.11,
+        "Mar": 5.35,
+        "Apr": 4.96,
+        "May": 4.47,
+        "Jun": 4.43,
+        "Jul": 4.4,
+        "Aug": 4.56,
+        "Sep": 4.86,
+        "Oct": 4.37,
+        "Nov": 3.7,
+        "Dec": 3.78
+      },
+      "average": 4.53
+    },
+    {
+      "name": "Maharagama",
+      "admin1_code": "36",
+      "location": [
+        6.848,
+        79.9265
+      ],
+      "monthly": {
+        "Jan": 4.38,
+        "Feb": 4.86,
+        "Mar": 4.95,
+        "Apr": 4.51,
+        "May": 3.74,
+        "Jun": 3.72,
+        "Jul": 3.8,
+        "Aug": 4.04,
+        "Sep": 4.13,
+        "Oct": 4.12,
+        "Nov": 3.94,
+        "Dec": 4.01
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Kurunegala",
+      "admin1_code": "32",
+      "location": [
+        7.4839,
+        80.3683
+      ],
+      "monthly": {
+        "Jan": 4.31,
+        "Feb": 4.9,
+        "Mar": 4.94,
+        "Apr": 4.49,
+        "May": 3.8,
+        "Jun": 3.59,
+        "Jul": 3.57,
+        "Aug": 3.79,
+        "Sep": 4.07,
+        "Oct": 4.04,
+        "Nov": 3.8,
+        "Dec": 3.8
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Sri Jayewardenepura Kotte",
+      "admin1_code": "36",
+      "location": [
+        6.88297,
+        79.90708
+      ],
+      "monthly": {
+        "Jan": 4.39,
+        "Feb": 4.89,
+        "Mar": 5,
+        "Apr": 4.55,
+        "May": 3.78,
+        "Jun": 3.77,
+        "Jul": 3.86,
+        "Aug": 4.1,
+        "Sep": 4.19,
+        "Oct": 4.18,
+        "Nov": 3.97,
+        "Dec": 4.03
+      },
+      "average": 4.23
+    },
+    {
+      "name": "Kotikawatta",
+      "admin1_code": "36",
+      "location": [
+        6.9269,
+        79.9095
+      ],
+      "monthly": {
+        "Jan": 4.4,
+        "Feb": 4.87,
+        "Mar": 4.96,
+        "Apr": 4.5,
+        "May": 3.73,
+        "Jun": 3.71,
+        "Jul": 3.8,
+        "Aug": 4.04,
+        "Sep": 4.14,
+        "Oct": 4.12,
+        "Nov": 3.96,
+        "Dec": 4.03
+      },
+      "average": 4.19
+    },
+    {
+      "name": "Kolonnawa",
+      "admin1_code": "36",
+      "location": [
+        6.9329,
+        79.8848
+      ],
+      "monthly": {
+        "Jan": 4.43,
+        "Feb": 4.92,
+        "Mar": 5.05,
+        "Apr": 4.6,
+        "May": 3.82,
+        "Jun": 3.81,
+        "Jul": 3.91,
+        "Aug": 4.15,
+        "Sep": 4.24,
+        "Oct": 4.22,
+        "Nov": 4.02,
+        "Dec": 4.06
+      },
+      "average": 4.27
+    },
+    {
+      "name": "Kelaniya",
+      "admin1_code": "36",
+      "location": [
+        6.9553,
+        79.922
+      ],
+      "monthly": {
+        "Jan": 4.42,
+        "Feb": 4.88,
+        "Mar": 4.96,
+        "Apr": 4.46,
+        "May": 3.69,
+        "Jun": 3.66,
+        "Jul": 3.74,
+        "Aug": 3.98,
+        "Sep": 4.1,
+        "Oct": 4.09,
+        "Nov": 3.95,
+        "Dec": 4.04
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Kegalle",
+      "admin1_code": "33",
+      "location": [
+        7.2523,
+        80.3436
+      ],
+      "monthly": {
+        "Jan": 4.39,
+        "Feb": 4.9,
+        "Mar": 4.97,
+        "Apr": 4.51,
+        "May": 3.74,
+        "Jun": 3.51,
+        "Jul": 3.53,
+        "Aug": 3.77,
+        "Sep": 3.98,
+        "Oct": 4.01,
+        "Nov": 3.84,
+        "Dec": 3.91
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Katunayaka",
+      "admin1_code": "36",
+      "location": [
+        7.16992,
+        79.88837
+      ],
+      "monthly": {
+        "Jan": 4.49,
+        "Feb": 4.95,
+        "Mar": 5.09,
+        "Apr": 4.68,
+        "May": 3.83,
+        "Jun": 3.76,
+        "Jul": 3.87,
+        "Aug": 4.12,
+        "Sep": 4.28,
+        "Oct": 4.26,
+        "Nov": 3.99,
+        "Dec": 4.06
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Kataragama",
+      "admin1_code": "35",
+      "location": [
+        6.4134,
+        81.3346
+      ],
+      "monthly": {
+        "Jan": 4.14,
+        "Feb": 4.55,
+        "Mar": 4.79,
+        "Apr": 4.46,
+        "May": 4.2,
+        "Jun": 4.25,
+        "Jul": 4.32,
+        "Aug": 4.5,
+        "Sep": 4.5,
+        "Oct": 4.24,
+        "Nov": 3.74,
+        "Dec": 3.78
+      },
+      "average": 4.29
+    },
+    {
+      "name": "Kandy",
+      "admin1_code": "29",
+      "location": [
+        7.2906,
+        80.6336
+      ],
+      "monthly": {
+        "Jan": 4.27,
+        "Feb": 4.93,
+        "Mar": 5.03,
+        "Apr": 4.44,
+        "May": 3.86,
+        "Jun": 3.52,
+        "Jul": 3.44,
+        "Aug": 3.77,
+        "Sep": 4.03,
+        "Oct": 4,
+        "Nov": 3.77,
+        "Dec": 3.72
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Kandana",
+      "admin1_code": "36",
+      "location": [
+        7.048,
+        79.8937
+      ],
+      "monthly": {
+        "Jan": 4.48,
+        "Feb": 4.96,
+        "Mar": 5.08,
+        "Apr": 4.63,
+        "May": 3.82,
+        "Jun": 3.78,
+        "Jul": 3.88,
+        "Aug": 4.14,
+        "Sep": 4.27,
+        "Oct": 4.25,
+        "Nov": 4.02,
+        "Dec": 4.09
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Kalutara",
+      "admin1_code": "36",
+      "location": [
+        6.5831,
+        79.9593
+      ],
+      "monthly": {
+        "Jan": 4.49,
+        "Feb": 4.95,
+        "Mar": 5.05,
+        "Apr": 4.54,
+        "May": 3.79,
+        "Jun": 3.83,
+        "Jul": 3.93,
+        "Aug": 4.14,
+        "Sep": 4.22,
+        "Oct": 4.19,
+        "Nov": 4.05,
+        "Dec": 4.14
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Kalmunai",
+      "admin1_code": "37",
+      "location": [
+        7.40902,
+        81.83472
+      ],
+      "monthly": {
+        "Jan": 4.01,
+        "Feb": 4.63,
+        "Mar": 5.1,
+        "Apr": 4.93,
+        "May": 4.37,
+        "Jun": 4.28,
+        "Jul": 4.33,
+        "Aug": 4.53,
+        "Sep": 4.64,
+        "Oct": 4.54,
+        "Nov": 3.88,
+        "Dec": 3.61
+      },
+      "average": 4.4
+    },
+    {
+      "name": "Jaffna",
+      "admin1_code": "38",
+      "location": [
+        9.66845,
+        80.00742
+      ],
+      "monthly": {
+        "Jan": 3.93,
+        "Feb": 4.71,
+        "Mar": 5.13,
+        "Apr": 4.79,
+        "May": 4.43,
+        "Jun": 4.38,
+        "Jul": 4.32,
+        "Aug": 4.43,
+        "Sep": 4.63,
+        "Oct": 4.09,
+        "Nov": 3.43,
+        "Dec": 3.44
+      },
+      "average": 4.31
+    },
+    {
+      "name": "Ja Ela",
+      "admin1_code": "36",
+      "location": [
+        7.0744,
+        79.8919
+      ],
+      "monthly": {
+        "Jan": 4.49,
+        "Feb": 4.96,
+        "Mar": 5.09,
+        "Apr": 4.64,
+        "May": 3.81,
+        "Jun": 3.78,
+        "Jul": 3.88,
+        "Aug": 4.13,
+        "Sep": 4.26,
+        "Oct": 4.25,
+        "Nov": 4.02,
+        "Dec": 4.09
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Homagama",
+      "admin1_code": "36",
+      "location": [
+        6.844,
+        80.0024
+      ],
+      "monthly": {
+        "Jan": 4.34,
+        "Feb": 4.77,
+        "Mar": 4.82,
+        "Apr": 4.38,
+        "May": 3.67,
+        "Jun": 3.6,
+        "Jul": 3.64,
+        "Aug": 3.9,
+        "Sep": 4.03,
+        "Oct": 4,
+        "Nov": 3.87,
+        "Dec": 3.97
+      },
+      "average": 4.08
+    },
+    {
+      "name": "Hendala",
+      "admin1_code": "36",
+      "location": [
+        6.9909,
+        79.883
+      ],
+      "monthly": {
+        "Jan": 4.43,
+        "Feb": 4.93,
+        "Mar": 5.09,
+        "Apr": 4.63,
+        "May": 3.83,
+        "Jun": 3.83,
+        "Jul": 3.94,
+        "Aug": 4.18,
+        "Sep": 4.27,
+        "Oct": 4.26,
+        "Nov": 4.03,
+        "Dec": 4.07
+      },
+      "average": 4.29
+    },
+    {
+      "name": "Hatton",
+      "admin1_code": "29",
+      "location": [
+        6.8916,
+        80.5955
+      ],
+      "monthly": {
+        "Jan": 4.38,
+        "Feb": 4.89,
+        "Mar": 4.9,
+        "Apr": 4.25,
+        "May": 3.57,
+        "Jun": 3.05,
+        "Jul": 2.89,
+        "Aug": 3.29,
+        "Sep": 3.58,
+        "Oct": 3.71,
+        "Nov": 3.74,
+        "Dec": 3.84
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Hanwella Ihala",
+      "admin1_code": "36",
+      "location": [
+        6.9012,
+        80.0852
+      ],
+      "monthly": {
+        "Jan": 4.36,
+        "Feb": 4.77,
+        "Mar": 4.82,
+        "Apr": 4.33,
+        "May": 3.6,
+        "Jun": 3.55,
+        "Jul": 3.57,
+        "Aug": 3.83,
+        "Sep": 3.97,
+        "Oct": 3.95,
+        "Nov": 3.87,
+        "Dec": 3.99
+      },
+      "average": 4.05
+    },
+    {
+      "name": "Hambantota",
+      "admin1_code": "34",
+      "location": [
+        6.1241,
+        81.1185
+      ],
+      "monthly": {
+        "Jan": 4.31,
+        "Feb": 4.78,
+        "Mar": 5.04,
+        "Apr": 4.76,
+        "May": 4.17,
+        "Jun": 4.17,
+        "Jul": 4.26,
+        "Aug": 4.47,
+        "Sep": 4.46,
+        "Oct": 4.48,
+        "Nov": 4.01,
+        "Dec": 4
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Gampola",
+      "admin1_code": "29",
+      "location": [
+        7.1643,
+        80.5696
+      ],
+      "monthly": {
+        "Jan": 4.36,
+        "Feb": 4.96,
+        "Mar": 5.02,
+        "Apr": 4.41,
+        "May": 3.61,
+        "Jun": 3.28,
+        "Jul": 3.22,
+        "Aug": 3.52,
+        "Sep": 3.77,
+        "Oct": 3.87,
+        "Nov": 3.77,
+        "Dec": 3.8
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Galle",
+      "admin1_code": "34",
+      "location": [
+        6.0461,
+        80.2103
+      ],
+      "monthly": {
+        "Jan": 4.33,
+        "Feb": 4.78,
+        "Mar": 4.91,
+        "Apr": 4.57,
+        "May": 3.88,
+        "Jun": 4,
+        "Jul": 4.03,
+        "Aug": 4.25,
+        "Sep": 4.28,
+        "Oct": 4.3,
+        "Nov": 3.99,
+        "Dec": 4.07
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Eravur Town",
+      "admin1_code": "37",
+      "location": [
+        7.7782,
+        81.6038
+      ],
+      "monthly": {
+        "Jan": 3.97,
+        "Feb": 4.63,
+        "Mar": 5.15,
+        "Apr": 4.99,
+        "May": 4.4,
+        "Jun": 4.26,
+        "Jul": 4.28,
+        "Aug": 4.5,
+        "Sep": 4.62,
+        "Oct": 4.53,
+        "Nov": 3.86,
+        "Dec": 3.56
+      },
+      "average": 4.4
+    },
+    {
+      "name": "Devinuwara",
+      "admin1_code": "34",
+      "location": [
+        5.92825,
+        80.5888
+      ],
+      "monthly": {
+        "Jan": 4.41,
+        "Feb": 4.87,
+        "Mar": 5.05,
+        "Apr": 4.64,
+        "May": 3.98,
+        "Jun": 4.03,
+        "Jul": 4.05,
+        "Aug": 4.29,
+        "Sep": 4.35,
+        "Oct": 4.38,
+        "Nov": 4.04,
+        "Dec": 4.11
+      },
+      "average": 4.35
+    },
+    {
+      "name": "Dambulla",
+      "admin1_code": "29",
+      "location": [
+        7.86,
+        80.65167
+      ],
+      "monthly": {
+        "Jan": 3.82,
+        "Feb": 4.6,
+        "Mar": 5.09,
+        "Apr": 4.77,
+        "May": 4.28,
+        "Jun": 4.06,
+        "Jul": 4.09,
+        "Aug": 4.28,
+        "Sep": 4.44,
+        "Oct": 4.26,
+        "Nov": 3.63,
+        "Dec": 3.37
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Colombo",
+      "admin1_code": "36",
+      "location": [
+        6.93548,
+        79.84868
+      ],
+      "monthly": {
+        "Jan": 4.45,
+        "Feb": 4.94,
+        "Mar": 5.09,
+        "Apr": 4.64,
+        "May": 3.82,
+        "Jun": 3.84,
+        "Jul": 3.95,
+        "Aug": 4.19,
+        "Sep": 4.26,
+        "Oct": 4.26,
+        "Nov": 4.05,
+        "Dec": 4.09
+      },
+      "average": 4.3
+    },
+    {
+      "name": "Chilaw",
+      "admin1_code": "32",
+      "location": [
+        7.57583,
+        79.79528
+      ],
+      "monthly": {
+        "Jan": 4.3,
+        "Feb": 4.92,
+        "Mar": 5.17,
+        "Apr": 4.76,
+        "May": 3.96,
+        "Jun": 3.97,
+        "Jul": 4.07,
+        "Aug": 4.3,
+        "Sep": 4.49,
+        "Oct": 4.39,
+        "Nov": 3.95,
+        "Dec": 3.9
+      },
+      "average": 4.35
+    },
+    {
+      "name": "Beruwala",
+      "admin1_code": "36",
+      "location": [
+        6.4788,
+        79.9828
+      ],
+      "monthly": {
+        "Jan": 4.49,
+        "Feb": 4.93,
+        "Mar": 5.03,
+        "Apr": 4.53,
+        "May": 3.8,
+        "Jun": 3.86,
+        "Jul": 3.96,
+        "Aug": 4.18,
+        "Sep": 4.24,
+        "Oct": 4.2,
+        "Nov": 4.05,
+        "Dec": 4.14
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Bentota",
+      "admin1_code": "34",
+      "location": [
+        6.42598,
+        79.99575
+      ],
+      "monthly": {
+        "Jan": 4.46,
+        "Feb": 4.91,
+        "Mar": 5.01,
+        "Apr": 4.53,
+        "May": 3.8,
+        "Jun": 3.89,
+        "Jul": 3.98,
+        "Aug": 4.2,
+        "Sep": 4.23,
+        "Oct": 4.2,
+        "Nov": 4.02,
+        "Dec": 4.12
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Beliatta",
+      "admin1_code": "34",
+      "location": [
+        6.0496,
+        80.73252
+      ],
+      "monthly": {
+        "Jan": 4.33,
+        "Feb": 4.78,
+        "Mar": 4.91,
+        "Apr": 4.51,
+        "May": 3.87,
+        "Jun": 3.85,
+        "Jul": 3.93,
+        "Aug": 4.12,
+        "Sep": 4.15,
+        "Oct": 4.25,
+        "Nov": 3.88,
+        "Dec": 3.99
+      },
+      "average": 4.21
+    },
+    {
+      "name": "Batticaloa",
+      "admin1_code": "37",
+      "location": [
+        7.7102,
+        81.6924
+      ],
+      "monthly": {
+        "Jan": 3.99,
+        "Feb": 4.62,
+        "Mar": 5.15,
+        "Apr": 4.99,
+        "May": 4.36,
+        "Jun": 4.25,
+        "Jul": 4.29,
+        "Aug": 4.52,
+        "Sep": 4.65,
+        "Oct": 4.58,
+        "Nov": 3.87,
+        "Dec": 3.56
+      },
+      "average": 4.4
+    },
+    {
+      "name": "Battaramulla South",
+      "admin1_code": "36",
+      "location": [
+        6.8964,
+        79.9181
+      ],
+      "monthly": {
+        "Jan": 4.38,
+        "Feb": 4.85,
+        "Mar": 4.94,
+        "Apr": 4.49,
+        "May": 3.73,
+        "Jun": 3.71,
+        "Jul": 3.8,
+        "Aug": 4.04,
+        "Sep": 4.14,
+        "Oct": 4.11,
+        "Nov": 3.94,
+        "Dec": 4.01
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Badulla",
+      "admin1_code": "35",
+      "location": [
+        6.9802,
+        81.0577
+      ],
+      "monthly": {
+        "Jan": 3.67,
+        "Feb": 4.48,
+        "Mar": 4.95,
+        "Apr": 4.43,
+        "May": 4.14,
+        "Jun": 4.01,
+        "Jul": 3.95,
+        "Aug": 4.06,
+        "Sep": 4.11,
+        "Oct": 3.95,
+        "Nov": 3.58,
+        "Dec": 3.32
+      },
+      "average": 4.05
+    },
+    {
+      "name": "Anuradhapura",
+      "admin1_code": "30",
+      "location": [
+        8.31223,
+        80.41306
+      ],
+      "monthly": {
+        "Jan": 3.99,
+        "Feb": 4.71,
+        "Mar": 5.06,
+        "Apr": 4.74,
+        "May": 4.23,
+        "Jun": 4.08,
+        "Jul": 4.17,
+        "Aug": 4.28,
+        "Sep": 4.46,
+        "Oct": 4.18,
+        "Nov": 3.59,
+        "Dec": 3.47
+      },
+      "average": 4.25
+    },
+    {
+      "name": "Ampara",
+      "admin1_code": "37",
+      "location": [
+        7.29754,
+        81.68202
+      ],
+      "monthly": {
+        "Jan": 3.8,
+        "Feb": 4.39,
+        "Mar": 4.89,
+        "Apr": 4.71,
+        "May": 4.37,
+        "Jun": 4.32,
+        "Jul": 4.3,
+        "Aug": 4.43,
+        "Sep": 4.53,
+        "Oct": 4.33,
+        "Nov": 3.74,
+        "Dec": 3.51
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Ambalantota",
+      "admin1_code": "34",
+      "location": [
+        6.1196,
+        81.0214
+      ],
+      "monthly": {
+        "Jan": 4.37,
+        "Feb": 4.82,
+        "Mar": 5.05,
+        "Apr": 4.75,
+        "May": 4.09,
+        "Jun": 4.06,
+        "Jul": 4.18,
+        "Aug": 4.4,
+        "Sep": 4.41,
+        "Oct": 4.45,
+        "Nov": 4.01,
+        "Dec": 4.04
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Ambalangoda",
+      "admin1_code": "34",
+      "location": [
+        6.2355,
+        80.0538
+      ],
+      "monthly": {
+        "Jan": 4.41,
+        "Feb": 4.88,
+        "Mar": 4.97,
+        "Apr": 4.53,
+        "May": 3.83,
+        "Jun": 3.96,
+        "Jul": 4.03,
+        "Aug": 4.24,
+        "Sep": 4.25,
+        "Oct": 4.24,
+        "Nov": 3.99,
+        "Dec": 4.12
+      },
+      "average": 4.29
+    }
+  ]
+}

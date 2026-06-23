@@ -1,0 +1,52 @@
+{
+  "country": "MH",
+  "countryCode": "MH",
+  "cities": [
+    {
+      "name": "Majuro",
+      "admin1_code": "190",
+      "location": [
+        7.08971,
+        171.38027
+      ],
+      "monthly": {
+        "Jan": 4.12,
+        "Feb": 4.43,
+        "Mar": 4.32,
+        "Apr": 4.11,
+        "May": 3.95,
+        "Jun": 3.88,
+        "Jul": 3.83,
+        "Aug": 4.19,
+        "Sep": 4.17,
+        "Oct": 4,
+        "Nov": 3.58,
+        "Dec": 3.83
+      },
+      "average": 4.03
+    },
+    {
+      "name": "Dalap-Uliga-Dorrit",
+      "admin1_code": "",
+      "location": [
+        7.087,
+        171.377
+      ],
+      "monthly": {
+        "Jan": 4.12,
+        "Feb": 4.43,
+        "Mar": 4.32,
+        "Apr": 4.11,
+        "May": 3.95,
+        "Jun": 3.88,
+        "Jul": 3.83,
+        "Aug": 4.19,
+        "Sep": 4.17,
+        "Oct": 4,
+        "Nov": 3.58,
+        "Dec": 3.83
+      },
+      "average": 4.03
+    }
+  ]
+}

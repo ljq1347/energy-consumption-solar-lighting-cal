@@ -1,0 +1,29 @@
+{
+  "country": "Nauru",
+  "countryCode": "NR",
+  "cities": [
+    {
+      "name": "Yaren",
+      "admin1_code": "14",
+      "location": [
+        -0.55085,
+        166.9252
+      ],
+      "monthly": {
+        "Jan": 4.34,
+        "Feb": 4.53,
+        "Mar": 4.81,
+        "Apr": 4.79,
+        "May": 4.79,
+        "Jun": 4.61,
+        "Jul": 4.59,
+        "Aug": 4.99,
+        "Sep": 5.09,
+        "Oct": 5.14,
+        "Nov": 4.76,
+        "Dec": 4.35
+      },
+      "average": 4.73
+    }
+  ]
+}

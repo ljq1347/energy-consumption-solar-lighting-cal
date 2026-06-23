@@ -1,0 +1,52 @@
+{
+  "country": "MS",
+  "countryCode": "MS",
+  "cities": [
+    {
+      "name": "Plymouth",
+      "admin1_code": "01",
+      "location": [
+        16.70555,
+        -62.21292
+      ],
+      "monthly": {
+        "Jan": 4.43,
+        "Feb": 4.81,
+        "Mar": 5.19,
+        "Apr": 5.06,
+        "May": 4.77,
+        "Jun": 4.58,
+        "Jul": 4.56,
+        "Aug": 4.85,
+        "Sep": 4.89,
+        "Oct": 4.66,
+        "Nov": 4.45,
+        "Dec": 4.29
+      },
+      "average": 4.71
+    },
+    {
+      "name": "Brades",
+      "admin1_code": "03",
+      "location": [
+        16.79183,
+        -62.21058
+      ],
+      "monthly": {
+        "Jan": 4.47,
+        "Feb": 4.85,
+        "Mar": 5.11,
+        "Apr": 4.91,
+        "May": 4.56,
+        "Jun": 4.47,
+        "Jul": 4.49,
+        "Aug": 4.74,
+        "Sep": 4.76,
+        "Oct": 4.51,
+        "Nov": 4.35,
+        "Dec": 4.27
+      },
+      "average": 4.62
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "country": "Laos",
+  "countryCode": "LA",
+  "cities": [
+    {
+      "name": "Vientiane",
+      "admin1_code": "24",
+      "location": [
+        17.96667,
+        102.6
+      ],
+      "monthly": {
+        "Jan": 4.7,
+        "Feb": 4.75,
+        "Mar": 4.46,
+        "Apr": 4.54,
+        "May": 4.06,
+        "Jun": 3.53,
+        "Jul": 3.28,
+        "Aug": 3.29,
+        "Sep": 3.68,
+        "Oct": 4.2,
+        "Nov": 4.67,
+        "Dec": 4.68
+      },
+      "average": 4.15
+    },
+    {
+      "name": "Xam Nua",
+      "admin1_code": "03",
+      "location": [
+        20.4164,
+        104.045
+      ],
+      "monthly": {
+        "Jan": 3.15,
+        "Feb": 3.82,
+        "Mar": 3.72,
+        "Apr": 3.74,
+        "May": 3.75,
+        "Jun": 3.36,
+        "Jul": 3.29,
+        "Aug": 3.27,
+        "Sep": 3.31,
+        "Oct": 2.97,
+        "Nov": 3.26,
+        "Dec": 2.96
+      },
+      "average": 3.38
+    },
+    {
+      "name": "Savannakhet",
+      "admin1_code": "20",
+      "location": [
+        16.5703,
+        104.7622
+      ],
+      "monthly": {
+        "Jan": 4.86,
+        "Feb": 4.87,
+        "Mar": 4.46,
+        "Apr": 4.47,
+        "May": 4.03,
+        "Jun": 3.69,
+        "Jul": 3.35,
+        "Aug": 3.4,
+        "Sep": 3.64,
+        "Oct": 4.18,
+        "Nov": 4.5,
+        "Dec": 4.72
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Pakse",
+      "admin1_code": "02",
+      "location": [
+        15.12022,
+        105.79898
+      ],
+      "monthly": {
+        "Jan": 4.93,
+        "Feb": 4.98,
+        "Mar": 4.6,
+        "Apr": 4.51,
+        "May": 3.99,
+        "Jun": 3.49,
+        "Jul": 3.11,
+        "Aug": 3.27,
+        "Sep": 3.43,
+        "Oct": 3.93,
+        "Nov": 4.44,
+        "Dec": 4.72
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Muang Xay",
+      "admin1_code": "07",
+      "location": [
+        20.69229,
+        101.98368
+      ],
+      "monthly": {
+        "Jan": 4.06,
+        "Feb": 4.58,
+        "Mar": 4.06,
+        "Apr": 3.99,
+        "May": 3.74,
+        "Jun": 2.91,
+        "Jul": 2.73,
+        "Aug": 2.84,
+        "Sep": 3.43,
+        "Oct": 3.77,
+        "Nov": 4,
+        "Dec": 3.9
+      },
+      "average": 3.67
+    },
+    {
+      "name": "Vang Vieng",
+      "admin1_code": "27",
+      "location": [
+        18.9235,
+        102.44784
+      ],
+      "monthly": {
+        "Jan": 4.45,
+        "Feb": 4.54,
+        "Mar": 4.12,
+        "Apr": 4.23,
+        "May": 4,
+        "Jun": 3.28,
+        "Jul": 3.01,
+        "Aug": 3.13,
+        "Sep": 3.78,
+        "Oct": 4.22,
+        "Nov": 4.61,
+        "Dec": 4.45
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Muang Sing",
+      "admin1_code": "16",
+      "location": [
+        21.19206,
+        101.14789
+      ],
+      "monthly": {
+        "Jan": 4.28,
+        "Feb": 4.84,
+        "Mar": 4.31,
+        "Apr": 4.3,
+        "May": 4.12,
+        "Jun": 3.35,
+        "Jul": 3.03,
+        "Aug": 3.14,
+        "Sep": 3.62,
+        "Oct": 3.59,
+        "Nov": 3.8,
+        "Dec": 3.74
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Muang Phônsavan",
+      "admin1_code": "14",
+      "location": [
+        19.4494,
+        103.1917
+      ],
+      "monthly": {
+        "Jan": 4.5,
+        "Feb": 4.76,
+        "Mar": 4.25,
+        "Apr": 4.13,
+        "May": 3.85,
+        "Jun": 3.26,
+        "Jul": 3.11,
+        "Aug": 3.12,
+        "Sep": 3.63,
+        "Oct": 3.98,
+        "Nov": 4.41,
+        "Dec": 4.48
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Pakxan",
+      "admin1_code": "23",
+      "location": [
+        18.3942,
+        103.6611
+      ],
+      "monthly": {
+        "Jan": 4.65,
+        "Feb": 4.61,
+        "Mar": 4.25,
+        "Apr": 4.35,
+        "May": 3.98,
+        "Jun": 3.3,
+        "Jul": 3.12,
+        "Aug": 3.17,
+        "Sep": 3.8,
+        "Oct": 4.41,
+        "Nov": 4.81,
+        "Dec": 4.75
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Thakhèk",
+      "admin1_code": "15",
+      "location": [
+        17.41027,
+        104.83068
+      ],
+      "monthly": {
+        "Jan": 4.81,
+        "Feb": 4.76,
+        "Mar": 4.3,
+        "Apr": 4.34,
+        "May": 3.91,
+        "Jun": 3.4,
+        "Jul": 3.08,
+        "Aug": 3.11,
+        "Sep": 3.53,
+        "Oct": 4.13,
+        "Nov": 4.66,
+        "Dec": 4.8
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Luang Prabang",
+      "admin1_code": "17",
+      "location": [
+        19.8933,
+        102.1525
+      ],
+      "monthly": {
+        "Jan": 4.15,
+        "Feb": 4.57,
+        "Mar": 3.97,
+        "Apr": 4.05,
+        "May": 4,
+        "Jun": 3.31,
+        "Jul": 3.08,
+        "Aug": 3.19,
+        "Sep": 3.78,
+        "Oct": 4.12,
+        "Nov": 4.16,
+        "Dec": 3.94
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Borikhan",
+      "admin1_code": "23",
+      "location": [
+        18.56286,
+        103.72671
+      ],
+      "monthly": {
+        "Jan": 4.62,
+        "Feb": 4.59,
+        "Mar": 4.17,
+        "Apr": 4.23,
+        "May": 3.88,
+        "Jun": 3.14,
+        "Jul": 3,
+        "Aug": 3.1,
+        "Sep": 3.73,
+        "Oct": 4.34,
+        "Nov": 4.79,
+        "Dec": 4.74
+      },
+      "average": 4.03
+    },
+    {
+      "name": "Ban Xénô",
+      "admin1_code": "20",
+      "location": [
+        16.6759,
+        104.98798
+      ],
+      "monthly": {
+        "Jan": 4.84,
+        "Feb": 4.88,
+        "Mar": 4.42,
+        "Apr": 4.44,
+        "May": 4,
+        "Jun": 3.64,
+        "Jul": 3.33,
+        "Aug": 3.31,
+        "Sep": 3.62,
+        "Oct": 4.12,
+        "Nov": 4.48,
+        "Dec": 4.71
+      },
+      "average": 4.15
+    },
+    {
+      "name": "Ban Laongam",
+      "admin1_code": "19",
+      "location": [
+        15.46549,
+        106.16682
+      ],
+      "monthly": {
+        "Jan": 4.96,
+        "Feb": 4.9,
+        "Mar": 4.3,
+        "Apr": 4.02,
+        "May": 3.47,
+        "Jun": 3.26,
+        "Jul": 2.95,
+        "Aug": 3.09,
+        "Sep": 3.27,
+        "Oct": 3.95,
+        "Nov": 4.45,
+        "Dec": 4.82
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Ban Kèngkok",
+      "admin1_code": "20",
+      "location": [
+        16.44369,
+        105.19798
+      ],
+      "monthly": {
+        "Jan": 4.81,
+        "Feb": 4.92,
+        "Mar": 4.51,
+        "Apr": 4.53,
+        "May": 4.05,
+        "Jun": 3.66,
+        "Jul": 3.3,
+        "Aug": 3.36,
+        "Sep": 3.63,
+        "Oct": 4.06,
+        "Nov": 4.37,
+        "Dec": 4.58
+      },
+      "average": 4.15
+    },
+    {
+      "name": "Ban Houakhoua",
+      "admin1_code": "22",
+      "location": [
+        20.2467,
+        100.45401
+      ],
+      "monthly": {
+        "Jan": 4.44,
+        "Feb": 4.85,
+        "Mar": 4.37,
+        "Apr": 4.41,
+        "May": 4.14,
+        "Jun": 3.44,
+        "Jul": 3.05,
+        "Aug": 3.13,
+        "Sep": 3.76,
+        "Oct": 4.14,
+        "Nov": 4.42,
+        "Dec": 4.32
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Sekong",
+      "admin1_code": "26",
+      "location": [
+        15.34582,
+        106.72368
+      ],
+      "monthly": {
+        "Jan": 4.81,
+        "Feb": 4.93,
+        "Mar": 4.41,
+        "Apr": 4.37,
+        "May": 3.93,
+        "Jun": 3.42,
+        "Jul": 3.11,
+        "Aug": 3.26,
+        "Sep": 3.6,
+        "Oct": 3.91,
+        "Nov": 4.35,
+        "Dec": 4.59
+      },
+      "average": 4.06
+    },
+    {
+      "name": "Ban Khoan",
+      "admin1_code": "22",
+      "location": [
+        20.35008,
+        100.09022
+      ],
+      "monthly": {
+        "Jan": 4.54,
+        "Feb": 4.94,
+        "Mar": 4.41,
+        "Apr": 4.47,
+        "May": 4.24,
+        "Jun": 3.57,
+        "Jul": 3.19,
+        "Aug": 3.27,
+        "Sep": 3.88,
+        "Oct": 4.21,
+        "Nov": 4.51,
+        "Dec": 4.39
+      },
+      "average": 4.14
+    }
+  ]
+}

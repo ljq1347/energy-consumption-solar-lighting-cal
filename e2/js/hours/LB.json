@@ -1,0 +1,420 @@
+{
+  "country": "Lebanon",
+  "countryCode": "LB",
+  "cities": [
+    {
+      "name": "Zahlé",
+      "admin1_code": "08",
+      "location": [
+        33.84675,
+        35.90203
+      ],
+      "monthly": {
+        "Jan": 3.3,
+        "Feb": 3.9,
+        "Mar": 4.87,
+        "Apr": 5.32,
+        "May": 5.84,
+        "Jun": 6.08,
+        "Jul": 6.08,
+        "Aug": 6.07,
+        "Sep": 5.89,
+        "Oct": 5.03,
+        "Nov": 4.08,
+        "Dec": 3.39
+      },
+      "average": 4.99
+    },
+    {
+      "name": "Tripoli",
+      "admin1_code": "09",
+      "location": [
+        34.43352,
+        35.84415
+      ],
+      "monthly": {
+        "Jan": 3.09,
+        "Feb": 3.68,
+        "Mar": 4.47,
+        "Apr": 4.95,
+        "May": 5.52,
+        "Jun": 5.78,
+        "Jul": 5.77,
+        "Aug": 5.55,
+        "Sep": 5.19,
+        "Oct": 4.32,
+        "Nov": 3.63,
+        "Dec": 3.03
+      },
+      "average": 4.58
+    },
+    {
+      "name": "Tyre",
+      "admin1_code": "06",
+      "location": [
+        33.27333,
+        35.19389
+      ],
+      "monthly": {
+        "Jan": 3.23,
+        "Feb": 3.83,
+        "Mar": 4.68,
+        "Apr": 5.18,
+        "May": 5.68,
+        "Jun": 5.88,
+        "Jul": 5.77,
+        "Aug": 5.64,
+        "Sep": 5.43,
+        "Oct": 4.58,
+        "Nov": 3.82,
+        "Dec": 3.13
+      },
+      "average": 4.74
+    },
+    {
+      "name": "Chmistâr",
+      "admin1_code": "11",
+      "location": [
+        33.96472,
+        36.0175
+      ],
+      "monthly": {
+        "Jan": 3.62,
+        "Feb": 4.18,
+        "Mar": 5.17,
+        "Apr": 5.48,
+        "May": 5.84,
+        "Jun": 6.07,
+        "Jul": 6.06,
+        "Aug": 6.07,
+        "Sep": 5.96,
+        "Oct": 5.15,
+        "Nov": 4.28,
+        "Dec": 3.61
+      },
+      "average": 5.12
+    },
+    {
+      "name": "Sidon",
+      "admin1_code": "06",
+      "location": [
+        33.55751,
+        35.37148
+      ],
+      "monthly": {
+        "Jan": 3.21,
+        "Feb": 3.77,
+        "Mar": 4.59,
+        "Apr": 5.04,
+        "May": 5.56,
+        "Jun": 5.78,
+        "Jul": 5.7,
+        "Aug": 5.51,
+        "Sep": 5.32,
+        "Oct": 4.56,
+        "Nov": 3.79,
+        "Dec": 3.15
+      },
+      "average": 4.67
+    },
+    {
+      "name": "Ra’s Bayrūt",
+      "admin1_code": "04",
+      "location": [
+        33.9,
+        35.48333
+      ],
+      "monthly": {
+        "Jan": 3.18,
+        "Feb": 3.77,
+        "Mar": 4.61,
+        "Apr": 5.07,
+        "May": 5.61,
+        "Jun": 5.84,
+        "Jul": 5.75,
+        "Aug": 5.49,
+        "Sep": 5.27,
+        "Oct": 4.44,
+        "Nov": 3.7,
+        "Dec": 3.06
+      },
+      "average": 4.65
+    },
+    {
+      "name": "Jounieh",
+      "admin1_code": "05",
+      "location": [
+        33.98083,
+        35.61778
+      ],
+      "monthly": {
+        "Jan": 3.05,
+        "Feb": 3.54,
+        "Mar": 4.29,
+        "Apr": 4.67,
+        "May": 5.18,
+        "Jun": 5.31,
+        "Jul": 5.16,
+        "Aug": 4.93,
+        "Sep": 4.85,
+        "Oct": 4.21,
+        "Nov": 3.62,
+        "Dec": 3.01
+      },
+      "average": 4.32
+    },
+    {
+      "name": "Byblos",
+      "admin1_code": "05",
+      "location": [
+        34.12111,
+        35.64806
+      ],
+      "monthly": {
+        "Jan": 3.07,
+        "Feb": 3.6,
+        "Mar": 4.36,
+        "Apr": 4.73,
+        "May": 5.2,
+        "Jun": 5.28,
+        "Jul": 5.05,
+        "Aug": 4.95,
+        "Sep": 4.93,
+        "Oct": 4.28,
+        "Nov": 3.64,
+        "Dec": 3.04
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Aarsâl",
+      "admin1_code": "11",
+      "location": [
+        34.17944,
+        36.42083
+      ],
+      "monthly": {
+        "Jan": 3.85,
+        "Feb": 4.51,
+        "Mar": 5.44,
+        "Apr": 5.62,
+        "May": 5.77,
+        "Jun": 5.96,
+        "Jul": 5.95,
+        "Aug": 5.98,
+        "Sep": 5.94,
+        "Oct": 5.19,
+        "Nov": 4.41,
+        "Dec": 3.84
+      },
+      "average": 5.2
+    },
+    {
+      "name": "Habboûch",
+      "admin1_code": "07",
+      "location": [
+        33.40729,
+        35.48169
+      ],
+      "monthly": {
+        "Jan": 3.36,
+        "Feb": 3.86,
+        "Mar": 4.57,
+        "Apr": 4.99,
+        "May": 5.53,
+        "Jun": 5.74,
+        "Jul": 5.71,
+        "Aug": 5.57,
+        "Sep": 5.42,
+        "Oct": 4.69,
+        "Nov": 3.97,
+        "Dec": 3.34
+      },
+      "average": 4.73
+    },
+    {
+      "name": "Bsharri",
+      "admin1_code": "09",
+      "location": [
+        34.25083,
+        36.01056
+      ],
+      "monthly": {
+        "Jan": 2.55,
+        "Feb": 3.26,
+        "Mar": 4.34,
+        "Apr": 5.13,
+        "May": 5.68,
+        "Jun": 5.97,
+        "Jul": 6.03,
+        "Aug": 5.9,
+        "Sep": 5.6,
+        "Oct": 4.73,
+        "Nov": 3.68,
+        "Dec": 2.7
+      },
+      "average": 4.63
+    },
+    {
+      "name": "Beirut",
+      "admin1_code": "04",
+      "location": [
+        33.89332,
+        35.50157
+      ],
+      "monthly": {
+        "Jan": 3.16,
+        "Feb": 3.72,
+        "Mar": 4.55,
+        "Apr": 4.99,
+        "May": 5.52,
+        "Jun": 5.72,
+        "Jul": 5.62,
+        "Aug": 5.32,
+        "Sep": 5.13,
+        "Oct": 4.38,
+        "Nov": 3.68,
+        "Dec": 3.05
+      },
+      "average": 4.57
+    },
+    {
+      "name": "Baalbek",
+      "admin1_code": "11",
+      "location": [
+        34.00583,
+        36.21806
+      ],
+      "monthly": {
+        "Jan": 3.48,
+        "Feb": 4.08,
+        "Mar": 5.03,
+        "Apr": 5.45,
+        "May": 5.78,
+        "Jun": 6.01,
+        "Jul": 5.99,
+        "Aug": 6.01,
+        "Sep": 5.94,
+        "Oct": 5.14,
+        "Nov": 4.28,
+        "Dec": 3.59
+      },
+      "average": 5.07
+    },
+    {
+      "name": "En Nâqoûra",
+      "admin1_code": "06",
+      "location": [
+        33.11806,
+        35.13972
+      ],
+      "monthly": {
+        "Jan": 3.22,
+        "Feb": 3.76,
+        "Mar": 4.58,
+        "Apr": 5.07,
+        "May": 5.54,
+        "Jun": 5.72,
+        "Jul": 5.61,
+        "Aug": 5.45,
+        "Sep": 5.26,
+        "Oct": 4.49,
+        "Nov": 3.8,
+        "Dec": 3.11
+      },
+      "average": 4.63
+    },
+    {
+      "name": "Nabatîyé et Tahta",
+      "admin1_code": "07",
+      "location": [
+        33.37889,
+        35.48389
+      ],
+      "monthly": {
+        "Jan": 3.4,
+        "Feb": 3.89,
+        "Mar": 4.6,
+        "Apr": 5.03,
+        "May": 5.58,
+        "Jun": 5.8,
+        "Jul": 5.8,
+        "Aug": 5.66,
+        "Sep": 5.49,
+        "Oct": 4.72,
+        "Nov": 4.02,
+        "Dec": 3.37
+      },
+      "average": 4.78
+    },
+    {
+      "name": "El Hermel",
+      "admin1_code": "11",
+      "location": [
+        34.39417,
+        36.38472
+      ],
+      "monthly": {
+        "Jan": 3.66,
+        "Feb": 4.34,
+        "Mar": 5.15,
+        "Apr": 5.32,
+        "May": 5.64,
+        "Jun": 5.91,
+        "Jul": 5.92,
+        "Aug": 5.91,
+        "Sep": 5.76,
+        "Oct": 4.92,
+        "Nov": 4.09,
+        "Dec": 3.49
+      },
+      "average": 5.01
+    },
+    {
+      "name": "Ghazieh",
+      "admin1_code": "06",
+      "location": [
+        33.5175,
+        35.36889
+      ],
+      "monthly": {
+        "Jan": 3.23,
+        "Feb": 3.76,
+        "Mar": 4.56,
+        "Apr": 5,
+        "May": 5.52,
+        "Jun": 5.74,
+        "Jul": 5.67,
+        "Aug": 5.47,
+        "Sep": 5.28,
+        "Oct": 4.53,
+        "Nov": 3.79,
+        "Dec": 3.14
+      },
+      "average": 4.64
+    },
+    {
+      "name": "Aley",
+      "admin1_code": "05",
+      "location": [
+        33.80528,
+        35.6
+      ],
+      "monthly": {
+        "Jan": 3.18,
+        "Feb": 3.65,
+        "Mar": 4.43,
+        "Apr": 4.91,
+        "May": 5.45,
+        "Jun": 5.64,
+        "Jul": 5.64,
+        "Aug": 5.45,
+        "Sep": 5.21,
+        "Oct": 4.44,
+        "Nov": 3.8,
+        "Dec": 3.22
+      },
+      "average": 4.58
+    }
+  ]
+}

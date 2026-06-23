@@ -1,0 +1,75 @@
+{
+  "country": "Comoros",
+  "countryCode": "KM",
+  "cities": [
+    {
+      "name": "Moutsamoudou",
+      "admin1_code": "01",
+      "location": [
+        -12.16672,
+        44.39944
+      ],
+      "monthly": {
+        "Jan": 3.72,
+        "Feb": 3.92,
+        "Mar": 4.14,
+        "Apr": 4.15,
+        "May": 4.19,
+        "Jun": 4.06,
+        "Jul": 4.13,
+        "Aug": 4.3,
+        "Sep": 4.21,
+        "Oct": 4.16,
+        "Nov": 4.16,
+        "Dec": 4.17
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Moroni",
+      "admin1_code": "02",
+      "location": [
+        -11.70216,
+        43.25506
+      ],
+      "monthly": {
+        "Jan": 3.87,
+        "Feb": 3.94,
+        "Mar": 4.04,
+        "Apr": 3.87,
+        "May": 3.97,
+        "Jun": 3.87,
+        "Jul": 3.86,
+        "Aug": 4,
+        "Sep": 3.94,
+        "Oct": 3.95,
+        "Nov": 4.09,
+        "Dec": 4.15
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Fomboni",
+      "admin1_code": "03",
+      "location": [
+        -12.28759,
+        43.74344
+      ],
+      "monthly": {
+        "Jan": 4.07,
+        "Feb": 4.24,
+        "Mar": 4.54,
+        "Apr": 4.5,
+        "May": 4.43,
+        "Jun": 4.21,
+        "Jul": 4.27,
+        "Aug": 4.79,
+        "Sep": 4.93,
+        "Oct": 4.96,
+        "Nov": 4.85,
+        "Dec": 4.51
+      },
+      "average": 4.53
+    }
+  ]
+}

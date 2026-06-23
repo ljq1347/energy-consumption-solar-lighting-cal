@@ -1,0 +1,8171 @@
+{
+  "country": "Malaysia",
+  "countryCode": "MY",
+  "cities": [
+    {
+      "name": "Kuah",
+      "admin1_code": "02",
+      "location": [
+        6.32649,
+        99.8432
+      ],
+      "monthly": {
+        "Jan": 4.45,
+        "Feb": 5,
+        "Mar": 4.8,
+        "Apr": 4.33,
+        "May": 3.64,
+        "Jun": 3.47,
+        "Jul": 3.43,
+        "Aug": 3.61,
+        "Sep": 3.6,
+        "Oct": 3.69,
+        "Nov": 3.67,
+        "Dec": 3.86
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Jerantut",
+      "admin1_code": "06",
+      "location": [
+        3.936,
+        102.3626
+      ],
+      "monthly": {
+        "Jan": 3.47,
+        "Feb": 4.07,
+        "Mar": 4.35,
+        "Apr": 4.27,
+        "May": 3.89,
+        "Jun": 3.7,
+        "Jul": 3.67,
+        "Aug": 3.85,
+        "Sep": 3.96,
+        "Oct": 3.79,
+        "Nov": 3.49,
+        "Dec": 3.18
+      },
+      "average": 3.81
+    },
+    {
+      "name": "Maran",
+      "admin1_code": "06",
+      "location": [
+        3.586,
+        102.773
+      ],
+      "monthly": {
+        "Jan": 3.31,
+        "Feb": 3.87,
+        "Mar": 4.24,
+        "Apr": 4.11,
+        "May": 3.89,
+        "Jun": 3.75,
+        "Jul": 3.72,
+        "Aug": 3.9,
+        "Sep": 4.02,
+        "Oct": 3.79,
+        "Nov": 3.35,
+        "Dec": 3
+      },
+      "average": 3.75
+    },
+    {
+      "name": "Raub",
+      "admin1_code": "06",
+      "location": [
+        3.7899,
+        101.857
+      ],
+      "monthly": {
+        "Jan": 3.42,
+        "Feb": 3.98,
+        "Mar": 4.16,
+        "Apr": 4.02,
+        "May": 3.77,
+        "Jun": 3.67,
+        "Jul": 3.62,
+        "Aug": 3.7,
+        "Sep": 3.82,
+        "Oct": 3.69,
+        "Nov": 3.47,
+        "Dec": 3.18
+      },
+      "average": 3.71
+    },
+    {
+      "name": "Bentung",
+      "admin1_code": "06",
+      "location": [
+        3.5316,
+        101.9038
+      ],
+      "monthly": {
+        "Jan": 3.23,
+        "Feb": 3.78,
+        "Mar": 4.12,
+        "Apr": 4.04,
+        "May": 3.76,
+        "Jun": 3.65,
+        "Jul": 3.57,
+        "Aug": 3.67,
+        "Sep": 3.78,
+        "Oct": 3.68,
+        "Nov": 3.38,
+        "Dec": 3.05
+      },
+      "average": 3.64
+    },
+    {
+      "name": "Tanjong Malim",
+      "admin1_code": "07",
+      "location": [
+        3.681,
+        101.5198
+      ],
+      "monthly": {
+        "Jan": 3.59,
+        "Feb": 4.1,
+        "Mar": 4.18,
+        "Apr": 3.9,
+        "May": 3.79,
+        "Jun": 3.68,
+        "Jul": 3.59,
+        "Aug": 3.67,
+        "Sep": 3.78,
+        "Oct": 3.69,
+        "Nov": 3.41,
+        "Dec": 3.32
+      },
+      "average": 3.72
+    },
+    {
+      "name": "Kuala Kubu Baharu",
+      "admin1_code": "12",
+      "location": [
+        3.5638,
+        101.6581
+      ],
+      "monthly": {
+        "Jan": 3.61,
+        "Feb": 4.16,
+        "Mar": 4.23,
+        "Apr": 3.93,
+        "May": 3.79,
+        "Jun": 3.65,
+        "Jul": 3.55,
+        "Aug": 3.61,
+        "Sep": 3.75,
+        "Oct": 3.66,
+        "Nov": 3.39,
+        "Dec": 3.3
+      },
+      "average": 3.72
+    },
+    {
+      "name": "Parit Sulung",
+      "admin1_code": "01",
+      "location": [
+        1.976,
+        102.8835
+      ],
+      "monthly": {
+        "Jan": 3.45,
+        "Feb": 3.98,
+        "Mar": 4.04,
+        "Apr": 3.85,
+        "May": 3.61,
+        "Jun": 3.38,
+        "Jul": 3.45,
+        "Aug": 3.51,
+        "Sep": 3.73,
+        "Oct": 3.71,
+        "Nov": 3.47,
+        "Dec": 3.3
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Batu Pahat",
+      "admin1_code": "01",
+      "location": [
+        1.8548,
+        102.9325
+      ],
+      "monthly": {
+        "Jan": 3.49,
+        "Feb": 4.01,
+        "Mar": 4.09,
+        "Apr": 3.91,
+        "May": 3.67,
+        "Jun": 3.47,
+        "Jul": 3.53,
+        "Aug": 3.6,
+        "Sep": 3.8,
+        "Oct": 3.76,
+        "Nov": 3.5,
+        "Dec": 3.33
+      },
+      "average": 3.68
+    },
+    {
+      "name": "Parit Raja",
+      "admin1_code": "01",
+      "location": [
+        1.8681,
+        103.1124
+      ],
+      "monthly": {
+        "Jan": 3.5,
+        "Feb": 3.99,
+        "Mar": 4.03,
+        "Apr": 3.85,
+        "May": 3.59,
+        "Jun": 3.41,
+        "Jul": 3.46,
+        "Aug": 3.49,
+        "Sep": 3.69,
+        "Oct": 3.67,
+        "Nov": 3.45,
+        "Dec": 3.31
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Simpang Renggam",
+      "admin1_code": "01",
+      "location": [
+        1.825,
+        103.3107
+      ],
+      "monthly": {
+        "Jan": 3.52,
+        "Feb": 4.07,
+        "Mar": 4.04,
+        "Apr": 3.83,
+        "May": 3.52,
+        "Jun": 3.33,
+        "Jul": 3.39,
+        "Aug": 3.39,
+        "Sep": 3.61,
+        "Oct": 3.6,
+        "Nov": 3.39,
+        "Dec": 3.29
+      },
+      "average": 3.58
+    },
+    {
+      "name": "Pekan Nenas",
+      "admin1_code": "01",
+      "location": [
+        1.51,
+        103.5141
+      ],
+      "monthly": {
+        "Jan": 3.41,
+        "Feb": 3.93,
+        "Mar": 3.98,
+        "Apr": 3.7,
+        "May": 3.47,
+        "Jun": 3.31,
+        "Jul": 3.42,
+        "Aug": 3.47,
+        "Sep": 3.63,
+        "Oct": 3.58,
+        "Nov": 3.34,
+        "Dec": 3.24
+      },
+      "average": 3.54
+    },
+    {
+      "name": "Pontian Besar",
+      "admin1_code": "01",
+      "location": [
+        1.5059,
+        103.3816
+      ],
+      "monthly": {
+        "Jan": 3.46,
+        "Feb": 4.07,
+        "Mar": 4.14,
+        "Apr": 3.87,
+        "May": 3.63,
+        "Jun": 3.44,
+        "Jul": 3.54,
+        "Aug": 3.58,
+        "Sep": 3.75,
+        "Oct": 3.71,
+        "Nov": 3.49,
+        "Dec": 3.32
+      },
+      "average": 3.67
+    },
+    {
+      "name": "Kampung Pasir Gudang Baru",
+      "admin1_code": "01",
+      "location": [
+        1.4726,
+        103.878
+      ],
+      "monthly": {
+        "Jan": 3.42,
+        "Feb": 4.02,
+        "Mar": 4,
+        "Apr": 3.69,
+        "May": 3.47,
+        "Jun": 3.28,
+        "Jul": 3.39,
+        "Aug": 3.46,
+        "Sep": 3.67,
+        "Oct": 3.53,
+        "Nov": 3.25,
+        "Dec": 3.18
+      },
+      "average": 3.53
+    },
+    {
+      "name": "Pasir Gudang",
+      "admin1_code": "01",
+      "location": [
+        1.462,
+        103.9053
+      ],
+      "monthly": {
+        "Jan": 3.45,
+        "Feb": 4.05,
+        "Mar": 4.02,
+        "Apr": 3.71,
+        "May": 3.51,
+        "Jun": 3.31,
+        "Jul": 3.42,
+        "Aug": 3.5,
+        "Sep": 3.7,
+        "Oct": 3.55,
+        "Nov": 3.27,
+        "Dec": 3.2
+      },
+      "average": 3.56
+    },
+    {
+      "name": "Kampung Larkin Lama",
+      "admin1_code": "01",
+      "location": [
+        1.5024,
+        103.744
+      ],
+      "monthly": {
+        "Jan": 3.39,
+        "Feb": 3.93,
+        "Mar": 3.93,
+        "Apr": 3.64,
+        "May": 3.45,
+        "Jun": 3.3,
+        "Jul": 3.4,
+        "Aug": 3.44,
+        "Sep": 3.64,
+        "Oct": 3.52,
+        "Nov": 3.26,
+        "Dec": 3.17
+      },
+      "average": 3.51
+    },
+    {
+      "name": "Kampung Sedenak",
+      "admin1_code": "01",
+      "location": [
+        1.7114,
+        103.5276
+      ],
+      "monthly": {
+        "Jan": 3.48,
+        "Feb": 4.05,
+        "Mar": 4.09,
+        "Apr": 3.79,
+        "May": 3.46,
+        "Jun": 3.28,
+        "Jul": 3.32,
+        "Aug": 3.35,
+        "Sep": 3.58,
+        "Oct": 3.58,
+        "Nov": 3.37,
+        "Dec": 3.24
+      },
+      "average": 3.55
+    },
+    {
+      "name": "Kota Tinggi",
+      "admin1_code": "01",
+      "location": [
+        1.7381,
+        103.8999
+      ],
+      "monthly": {
+        "Jan": 3.47,
+        "Feb": 4.09,
+        "Mar": 4.14,
+        "Apr": 3.82,
+        "May": 3.5,
+        "Jun": 3.29,
+        "Jul": 3.34,
+        "Aug": 3.42,
+        "Sep": 3.63,
+        "Oct": 3.61,
+        "Nov": 3.33,
+        "Dec": 3.2
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Taman Senai",
+      "admin1_code": "01",
+      "location": [
+        1.6006,
+        103.6419
+      ],
+      "monthly": {
+        "Jan": 3.47,
+        "Feb": 4.03,
+        "Mar": 4.03,
+        "Apr": 3.73,
+        "May": 3.45,
+        "Jun": 3.27,
+        "Jul": 3.34,
+        "Aug": 3.38,
+        "Sep": 3.59,
+        "Oct": 3.56,
+        "Nov": 3.34,
+        "Dec": 3.23
+      },
+      "average": 3.53
+    },
+    {
+      "name": "Kulai",
+      "admin1_code": "01",
+      "location": [
+        1.6561,
+        103.6032
+      ],
+      "monthly": {
+        "Jan": 3.48,
+        "Feb": 4.07,
+        "Mar": 4.08,
+        "Apr": 3.78,
+        "May": 3.46,
+        "Jun": 3.28,
+        "Jul": 3.35,
+        "Aug": 3.39,
+        "Sep": 3.58,
+        "Oct": 3.59,
+        "Nov": 3.37,
+        "Dec": 3.26
+      },
+      "average": 3.56
+    },
+    {
+      "name": "Skudai",
+      "admin1_code": "01",
+      "location": [
+        1.53741,
+        103.65779
+      ],
+      "monthly": {
+        "Jan": 3.46,
+        "Feb": 4,
+        "Mar": 4,
+        "Apr": 3.68,
+        "May": 3.44,
+        "Jun": 3.27,
+        "Jul": 3.37,
+        "Aug": 3.4,
+        "Sep": 3.59,
+        "Oct": 3.52,
+        "Nov": 3.31,
+        "Dec": 3.24
+      },
+      "average": 3.52
+    },
+    {
+      "name": "Kempas",
+      "admin1_code": "01",
+      "location": [
+        1.5489,
+        103.6965
+      ],
+      "monthly": {
+        "Jan": 3.46,
+        "Feb": 4.03,
+        "Mar": 4.02,
+        "Apr": 3.69,
+        "May": 3.42,
+        "Jun": 3.25,
+        "Jul": 3.34,
+        "Aug": 3.37,
+        "Sep": 3.59,
+        "Oct": 3.52,
+        "Nov": 3.32,
+        "Dec": 3.24
+      },
+      "average": 3.52
+    },
+    {
+      "name": "Pelentong",
+      "admin1_code": "01",
+      "location": [
+        1.5243,
+        103.824
+      ],
+      "monthly": {
+        "Jan": 3.42,
+        "Feb": 4,
+        "Mar": 3.99,
+        "Apr": 3.65,
+        "May": 3.43,
+        "Jun": 3.25,
+        "Jul": 3.35,
+        "Aug": 3.39,
+        "Sep": 3.61,
+        "Oct": 3.5,
+        "Nov": 3.26,
+        "Dec": 3.19
+      },
+      "average": 3.5
+    },
+    {
+      "name": "Masai",
+      "admin1_code": "01",
+      "location": [
+        1.4907,
+        103.8788
+      ],
+      "monthly": {
+        "Jan": 3.45,
+        "Feb": 4.05,
+        "Mar": 4.02,
+        "Apr": 3.69,
+        "May": 3.45,
+        "Jun": 3.26,
+        "Jul": 3.36,
+        "Aug": 3.44,
+        "Sep": 3.65,
+        "Oct": 3.51,
+        "Nov": 3.25,
+        "Dec": 3.19
+      },
+      "average": 3.53
+    },
+    {
+      "name": "Johor Bahru",
+      "admin1_code": "01",
+      "location": [
+        1.4655,
+        103.7578
+      ],
+      "monthly": {
+        "Jan": 3.34,
+        "Feb": 3.87,
+        "Mar": 3.9,
+        "Apr": 3.65,
+        "May": 3.46,
+        "Jun": 3.29,
+        "Jul": 3.41,
+        "Aug": 3.46,
+        "Sep": 3.65,
+        "Oct": 3.54,
+        "Nov": 3.25,
+        "Dec": 3.13
+      },
+      "average": 3.5
+    },
+    {
+      "name": "Gelang Patah",
+      "admin1_code": "01",
+      "location": [
+        1.4484,
+        103.5873
+      ],
+      "monthly": {
+        "Jan": 3.42,
+        "Feb": 3.92,
+        "Mar": 3.97,
+        "Apr": 3.69,
+        "May": 3.51,
+        "Jun": 3.37,
+        "Jul": 3.49,
+        "Aug": 3.55,
+        "Sep": 3.7,
+        "Oct": 3.58,
+        "Nov": 3.33,
+        "Dec": 3.24
+      },
+      "average": 3.56
+    },
+    {
+      "name": "Pengerang",
+      "admin1_code": "01",
+      "location": [
+        1.3651,
+        104.1118
+      ],
+      "monthly": {
+        "Jan": 3.55,
+        "Feb": 4.16,
+        "Mar": 4.16,
+        "Apr": 3.91,
+        "May": 3.78,
+        "Jun": 3.55,
+        "Jul": 3.67,
+        "Aug": 3.78,
+        "Sep": 3.93,
+        "Oct": 3.71,
+        "Nov": 3.35,
+        "Dec": 3.22
+      },
+      "average": 3.73
+    },
+    {
+      "name": "Kluang",
+      "admin1_code": "01",
+      "location": [
+        2.03046,
+        103.31689
+      ],
+      "monthly": {
+        "Jan": 3.54,
+        "Feb": 4.17,
+        "Mar": 4.18,
+        "Apr": 3.91,
+        "May": 3.63,
+        "Jun": 3.41,
+        "Jul": 3.4,
+        "Aug": 3.48,
+        "Sep": 3.69,
+        "Oct": 3.67,
+        "Nov": 3.44,
+        "Dec": 3.29
+      },
+      "average": 3.65
+    },
+    {
+      "name": "Yong Peng",
+      "admin1_code": "01",
+      "location": [
+        2.0136,
+        103.0659
+      ],
+      "monthly": {
+        "Jan": 3.46,
+        "Feb": 4,
+        "Mar": 4.06,
+        "Apr": 3.86,
+        "May": 3.6,
+        "Jun": 3.4,
+        "Jul": 3.42,
+        "Aug": 3.47,
+        "Sep": 3.69,
+        "Oct": 3.7,
+        "Nov": 3.47,
+        "Dec": 3.28
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Mersing",
+      "admin1_code": "01",
+      "location": [
+        2.4312,
+        103.8405
+      ],
+      "monthly": {
+        "Jan": 3.51,
+        "Feb": 4.26,
+        "Mar": 4.47,
+        "Apr": 4.27,
+        "May": 3.9,
+        "Jun": 3.58,
+        "Jul": 3.55,
+        "Aug": 3.71,
+        "Sep": 3.94,
+        "Oct": 3.82,
+        "Nov": 3.52,
+        "Dec": 3.14
+      },
+      "average": 3.81
+    },
+    {
+      "name": "Segamat",
+      "admin1_code": "01",
+      "location": [
+        2.5148,
+        102.8158
+      ],
+      "monthly": {
+        "Jan": 3.42,
+        "Feb": 4.02,
+        "Mar": 4.13,
+        "Apr": 3.95,
+        "May": 3.72,
+        "Jun": 3.51,
+        "Jul": 3.52,
+        "Aug": 3.63,
+        "Sep": 3.77,
+        "Oct": 3.7,
+        "Nov": 3.45,
+        "Dec": 3.21
+      },
+      "average": 3.67
+    },
+    {
+      "name": "Tangkak",
+      "admin1_code": "01",
+      "location": [
+        2.2673,
+        102.5453
+      ],
+      "monthly": {
+        "Jan": 3.53,
+        "Feb": 4.1,
+        "Mar": 4.09,
+        "Apr": 3.87,
+        "May": 3.65,
+        "Jun": 3.42,
+        "Jul": 3.46,
+        "Aug": 3.54,
+        "Sep": 3.76,
+        "Oct": 3.72,
+        "Nov": 3.48,
+        "Dec": 3.29
+      },
+      "average": 3.66
+    },
+    {
+      "name": "Gerisek",
+      "admin1_code": "01",
+      "location": [
+        2.2097,
+        102.7095
+      ],
+      "monthly": {
+        "Jan": 3.57,
+        "Feb": 4.13,
+        "Mar": 4.13,
+        "Apr": 3.9,
+        "May": 3.65,
+        "Jun": 3.42,
+        "Jul": 3.43,
+        "Aug": 3.52,
+        "Sep": 3.75,
+        "Oct": 3.75,
+        "Nov": 3.5,
+        "Dec": 3.32
+      },
+      "average": 3.67
+    },
+    {
+      "name": "Pagoh",
+      "admin1_code": "01",
+      "location": [
+        2.1495,
+        102.7704
+      ],
+      "monthly": {
+        "Jan": 3.56,
+        "Feb": 4.09,
+        "Mar": 4.14,
+        "Apr": 3.91,
+        "May": 3.65,
+        "Jun": 3.42,
+        "Jul": 3.46,
+        "Aug": 3.54,
+        "Sep": 3.75,
+        "Oct": 3.74,
+        "Nov": 3.53,
+        "Dec": 3.34
+      },
+      "average": 3.68
+    },
+    {
+      "name": "Muar",
+      "admin1_code": "01",
+      "location": [
+        2.0442,
+        102.5689
+      ],
+      "monthly": {
+        "Jan": 3.59,
+        "Feb": 4.17,
+        "Mar": 4.23,
+        "Apr": 4.04,
+        "May": 3.82,
+        "Jun": 3.55,
+        "Jul": 3.63,
+        "Aug": 3.7,
+        "Sep": 3.92,
+        "Oct": 3.88,
+        "Nov": 3.62,
+        "Dec": 3.41
+      },
+      "average": 3.8
+    },
+    {
+      "name": "Bakri",
+      "admin1_code": "01",
+      "location": [
+        2.0441,
+        102.6527
+      ],
+      "monthly": {
+        "Jan": 3.56,
+        "Feb": 4.09,
+        "Mar": 4.12,
+        "Apr": 3.93,
+        "May": 3.71,
+        "Jun": 3.46,
+        "Jul": 3.55,
+        "Aug": 3.62,
+        "Sep": 3.83,
+        "Oct": 3.79,
+        "Nov": 3.53,
+        "Dec": 3.4
+      },
+      "average": 3.72
+    },
+    {
+      "name": "Labis",
+      "admin1_code": "01",
+      "location": [
+        2.385,
+        103.021
+      ],
+      "monthly": {
+        "Jan": 3.43,
+        "Feb": 3.99,
+        "Mar": 4.06,
+        "Apr": 3.85,
+        "May": 3.69,
+        "Jun": 3.47,
+        "Jul": 3.47,
+        "Aug": 3.61,
+        "Sep": 3.77,
+        "Oct": 3.66,
+        "Nov": 3.39,
+        "Dec": 3.19
+      },
+      "average": 3.63
+    },
+    {
+      "name": "Kuala Selangor",
+      "admin1_code": "12",
+      "location": [
+        3.35,
+        101.25
+      ],
+      "monthly": {
+        "Jan": 3.79,
+        "Feb": 4.32,
+        "Mar": 4.4,
+        "Apr": 4.13,
+        "May": 3.96,
+        "Jun": 3.8,
+        "Jul": 3.73,
+        "Aug": 3.88,
+        "Sep": 3.98,
+        "Oct": 3.9,
+        "Nov": 3.66,
+        "Dec": 3.46
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Batang Berjuntai",
+      "admin1_code": "12",
+      "location": [
+        3.38333,
+        101.41667
+      ],
+      "monthly": {
+        "Jan": 3.74,
+        "Feb": 4.26,
+        "Mar": 4.34,
+        "Apr": 4.01,
+        "May": 3.83,
+        "Jun": 3.67,
+        "Jul": 3.58,
+        "Aug": 3.7,
+        "Sep": 3.8,
+        "Oct": 3.79,
+        "Nov": 3.58,
+        "Dec": 3.44
+      },
+      "average": 3.81
+    },
+    {
+      "name": "Batu Arang",
+      "admin1_code": "12",
+      "location": [
+        3.31667,
+        101.46667
+      ],
+      "monthly": {
+        "Jan": 3.66,
+        "Feb": 4.16,
+        "Mar": 4.25,
+        "Apr": 3.97,
+        "May": 3.81,
+        "Jun": 3.65,
+        "Jul": 3.55,
+        "Aug": 3.68,
+        "Sep": 3.77,
+        "Oct": 3.76,
+        "Nov": 3.54,
+        "Dec": 3.39
+      },
+      "average": 3.77
+    },
+    {
+      "name": "Kapar",
+      "admin1_code": "12",
+      "location": [
+        3.13333,
+        101.38333
+      ],
+      "monthly": {
+        "Jan": 3.7,
+        "Feb": 4.18,
+        "Mar": 4.27,
+        "Apr": 4,
+        "May": 3.82,
+        "Jun": 3.68,
+        "Jul": 3.63,
+        "Aug": 3.76,
+        "Sep": 3.87,
+        "Oct": 3.85,
+        "Nov": 3.61,
+        "Dec": 3.44
+      },
+      "average": 3.82
+    },
+    {
+      "name": "Shah Alam",
+      "admin1_code": "12",
+      "location": [
+        3.08507,
+        101.53281
+      ],
+      "monthly": {
+        "Jan": 3.49,
+        "Feb": 3.93,
+        "Mar": 4.05,
+        "Apr": 3.84,
+        "May": 3.68,
+        "Jun": 3.52,
+        "Jul": 3.49,
+        "Aug": 3.59,
+        "Sep": 3.72,
+        "Oct": 3.67,
+        "Nov": 3.44,
+        "Dec": 3.27
+      },
+      "average": 3.64
+    },
+    {
+      "name": "Klang",
+      "admin1_code": "12",
+      "location": [
+        3.03667,
+        101.44333
+      ],
+      "monthly": {
+        "Jan": 3.5,
+        "Feb": 3.96,
+        "Mar": 4.11,
+        "Apr": 3.86,
+        "May": 3.75,
+        "Jun": 3.59,
+        "Jul": 3.59,
+        "Aug": 3.69,
+        "Sep": 3.78,
+        "Oct": 3.74,
+        "Nov": 3.48,
+        "Dec": 3.3
+      },
+      "average": 3.7
+    },
+    {
+      "name": "Cangkat Jong",
+      "admin1_code": "07",
+      "location": [
+        3.9851,
+        101.1237
+      ],
+      "monthly": {
+        "Jan": 3.87,
+        "Feb": 4.39,
+        "Mar": 4.41,
+        "Apr": 4.12,
+        "May": 3.87,
+        "Jun": 3.75,
+        "Jul": 3.68,
+        "Aug": 3.79,
+        "Sep": 3.88,
+        "Oct": 3.86,
+        "Nov": 3.64,
+        "Dec": 3.54
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Sungkai",
+      "admin1_code": "07",
+      "location": [
+        4,
+        101.31667
+      ],
+      "monthly": {
+        "Jan": 3.78,
+        "Feb": 4.29,
+        "Mar": 4.37,
+        "Apr": 4.07,
+        "May": 3.88,
+        "Jun": 3.76,
+        "Jul": 3.68,
+        "Aug": 3.79,
+        "Sep": 3.88,
+        "Oct": 3.82,
+        "Nov": 3.55,
+        "Dec": 3.44
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Cukai",
+      "admin1_code": "13",
+      "location": [
+        4.25,
+        103.41667
+      ],
+      "monthly": {
+        "Jan": 3.36,
+        "Feb": 4.16,
+        "Mar": 4.5,
+        "Apr": 4.52,
+        "May": 4.11,
+        "Jun": 3.91,
+        "Jul": 3.84,
+        "Aug": 4.16,
+        "Sep": 4.21,
+        "Oct": 3.88,
+        "Nov": 3.35,
+        "Dec": 2.99
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Kuala Lipis",
+      "admin1_code": "06",
+      "location": [
+        4.1842,
+        102.0468
+      ],
+      "monthly": {
+        "Jan": 3.41,
+        "Feb": 4.08,
+        "Mar": 4.41,
+        "Apr": 4.36,
+        "May": 3.96,
+        "Jun": 3.76,
+        "Jul": 3.73,
+        "Aug": 3.89,
+        "Sep": 3.99,
+        "Oct": 3.81,
+        "Nov": 3.47,
+        "Dec": 3.11
+      },
+      "average": 3.83
+    },
+    {
+      "name": "Val Dor",
+      "admin1_code": "09",
+      "location": [
+        5.25198,
+        100.49046
+      ],
+      "monthly": {
+        "Jan": 4.01,
+        "Feb": 4.53,
+        "Mar": 4.44,
+        "Apr": 4.12,
+        "May": 3.78,
+        "Jun": 3.7,
+        "Jul": 3.74,
+        "Aug": 3.81,
+        "Sep": 3.83,
+        "Oct": 3.77,
+        "Nov": 3.62,
+        "Dec": 3.63
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Papar",
+      "admin1_code": "16",
+      "location": [
+        5.73333,
+        115.93333
+      ],
+      "monthly": {
+        "Jan": 3.8,
+        "Feb": 4.39,
+        "Mar": 4.51,
+        "Apr": 4.51,
+        "May": 4.05,
+        "Jun": 3.83,
+        "Jul": 3.87,
+        "Aug": 4.12,
+        "Sep": 3.99,
+        "Oct": 3.97,
+        "Nov": 3.95,
+        "Dec": 3.88
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Kuala Penyu",
+      "admin1_code": "16",
+      "location": [
+        5.5714,
+        115.5984
+      ],
+      "monthly": {
+        "Jan": 3.92,
+        "Feb": 4.47,
+        "Mar": 4.61,
+        "Apr": 4.52,
+        "May": 4.05,
+        "Jun": 3.81,
+        "Jul": 3.84,
+        "Aug": 4.09,
+        "Sep": 4,
+        "Oct": 4.02,
+        "Nov": 4.09,
+        "Dec": 3.97
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Kota Kinabalu",
+      "admin1_code": "16",
+      "location": [
+        5.9749,
+        116.0724
+      ],
+      "monthly": {
+        "Jan": 3.73,
+        "Feb": 4.36,
+        "Mar": 4.52,
+        "Apr": 4.5,
+        "May": 4.06,
+        "Jun": 3.81,
+        "Jul": 3.84,
+        "Aug": 4.1,
+        "Sep": 3.99,
+        "Oct": 3.95,
+        "Nov": 3.89,
+        "Dec": 3.78
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Donggongon",
+      "admin1_code": "16",
+      "location": [
+        5.90702,
+        116.10146
+      ],
+      "monthly": {
+        "Jan": 3.47,
+        "Feb": 4.06,
+        "Mar": 4.21,
+        "Apr": 4.24,
+        "May": 3.87,
+        "Jun": 3.69,
+        "Jul": 3.75,
+        "Aug": 3.97,
+        "Sep": 3.84,
+        "Oct": 3.75,
+        "Nov": 3.65,
+        "Dec": 3.56
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Putatan",
+      "admin1_code": "16",
+      "location": [
+        5.9258,
+        116.06094
+      ],
+      "monthly": {
+        "Jan": 3.72,
+        "Feb": 4.34,
+        "Mar": 4.49,
+        "Apr": 4.5,
+        "May": 4.05,
+        "Jun": 3.82,
+        "Jul": 3.85,
+        "Aug": 4.12,
+        "Sep": 4,
+        "Oct": 3.95,
+        "Nov": 3.89,
+        "Dec": 3.79
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Kinarut",
+      "admin1_code": "16",
+      "location": [
+        5.8231,
+        116.0466
+      ],
+      "monthly": {
+        "Jan": 3.59,
+        "Feb": 4.16,
+        "Mar": 4.34,
+        "Apr": 4.39,
+        "May": 3.91,
+        "Jun": 3.72,
+        "Jul": 3.75,
+        "Aug": 3.97,
+        "Sep": 3.84,
+        "Oct": 3.8,
+        "Nov": 3.76,
+        "Dec": 3.66
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Tambunan",
+      "admin1_code": "16",
+      "location": [
+        5.71667,
+        116.4
+      ],
+      "monthly": {
+        "Jan": 3.53,
+        "Feb": 4.16,
+        "Mar": 4.22,
+        "Apr": 4.3,
+        "May": 3.96,
+        "Jun": 3.73,
+        "Jul": 3.75,
+        "Aug": 3.98,
+        "Sep": 3.84,
+        "Oct": 3.78,
+        "Nov": 3.72,
+        "Dec": 3.64
+      },
+      "average": 3.88
+    },
+    {
+      "name": "Ranau",
+      "admin1_code": "16",
+      "location": [
+        5.9538,
+        116.6641
+      ],
+      "monthly": {
+        "Jan": 3.32,
+        "Feb": 3.96,
+        "Mar": 4.37,
+        "Apr": 4.6,
+        "May": 4.24,
+        "Jun": 3.95,
+        "Jul": 3.98,
+        "Aug": 4.2,
+        "Sep": 4.06,
+        "Oct": 4,
+        "Nov": 3.85,
+        "Dec": 3.62
+      },
+      "average": 4.01
+    },
+    {
+      "name": "Semporna",
+      "admin1_code": "16",
+      "location": [
+        4.48178,
+        118.61119
+      ],
+      "monthly": {
+        "Jan": 3.85,
+        "Feb": 4.42,
+        "Mar": 4.52,
+        "Apr": 4.25,
+        "May": 3.98,
+        "Jun": 3.69,
+        "Jul": 3.72,
+        "Aug": 4.05,
+        "Sep": 4.09,
+        "Oct": 4.1,
+        "Nov": 4.11,
+        "Dec": 4.02
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Labuan",
+      "admin1_code": "15",
+      "location": [
+        5.28028,
+        115.2475
+      ],
+      "monthly": {
+        "Jan": 3.92,
+        "Feb": 4.47,
+        "Mar": 4.64,
+        "Apr": 4.63,
+        "May": 4.29,
+        "Jun": 3.96,
+        "Jul": 4.02,
+        "Aug": 4.26,
+        "Sep": 4.17,
+        "Oct": 4.2,
+        "Nov": 4.24,
+        "Dec": 4
+      },
+      "average": 4.23
+    },
+    {
+      "name": "Sipitang",
+      "admin1_code": "16",
+      "location": [
+        5.07903,
+        115.54964
+      ],
+      "monthly": {
+        "Jan": 3.73,
+        "Feb": 4.19,
+        "Mar": 4.36,
+        "Apr": 4.51,
+        "May": 4.16,
+        "Jun": 3.93,
+        "Jul": 3.99,
+        "Aug": 4.24,
+        "Sep": 4.15,
+        "Oct": 4.15,
+        "Nov": 4.07,
+        "Dec": 3.87
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Beaufort",
+      "admin1_code": "16",
+      "location": [
+        5.3473,
+        115.7455
+      ],
+      "monthly": {
+        "Jan": 3.65,
+        "Feb": 4.12,
+        "Mar": 4.33,
+        "Apr": 4.44,
+        "May": 4.09,
+        "Jun": 3.87,
+        "Jul": 3.92,
+        "Aug": 4.2,
+        "Sep": 4.07,
+        "Oct": 4.01,
+        "Nov": 3.96,
+        "Dec": 3.8
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Lahad Datu",
+      "admin1_code": "16",
+      "location": [
+        5.02298,
+        118.32897
+      ],
+      "monthly": {
+        "Jan": 3.3,
+        "Feb": 3.84,
+        "Mar": 4.06,
+        "Apr": 4.26,
+        "May": 4.24,
+        "Jun": 3.91,
+        "Jul": 3.94,
+        "Aug": 4.3,
+        "Sep": 4.16,
+        "Oct": 4.02,
+        "Nov": 3.71,
+        "Dec": 3.61
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Sandakan",
+      "admin1_code": "16",
+      "location": [
+        5.8402,
+        118.1179
+      ],
+      "monthly": {
+        "Jan": 3.27,
+        "Feb": 3.94,
+        "Mar": 4.34,
+        "Apr": 4.56,
+        "May": 4.39,
+        "Jun": 4.01,
+        "Jul": 3.98,
+        "Aug": 4.27,
+        "Sep": 4.24,
+        "Oct": 4.16,
+        "Nov": 3.8,
+        "Dec": 3.57
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Keningau",
+      "admin1_code": "16",
+      "location": [
+        5.3378,
+        116.1602
+      ],
+      "monthly": {
+        "Jan": 3.62,
+        "Feb": 4.14,
+        "Mar": 4.4,
+        "Apr": 4.6,
+        "May": 4.32,
+        "Jun": 4.08,
+        "Jul": 4.12,
+        "Aug": 4.37,
+        "Sep": 4.24,
+        "Oct": 4.18,
+        "Nov": 4.05,
+        "Dec": 3.87
+      },
+      "average": 4.17
+    },
+    {
+      "name": "Bandar Nabawan",
+      "admin1_code": "16",
+      "location": [
+        5.0393,
+        116.4274
+      ],
+      "monthly": {
+        "Jan": 3.47,
+        "Feb": 3.92,
+        "Mar": 4.13,
+        "Apr": 4.37,
+        "May": 4.13,
+        "Jun": 3.95,
+        "Jul": 4.01,
+        "Aug": 4.21,
+        "Sep": 4.16,
+        "Oct": 4.16,
+        "Nov": 3.94,
+        "Dec": 3.81
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Tawau",
+      "admin1_code": "16",
+      "location": [
+        4.24482,
+        117.89115
+      ],
+      "monthly": {
+        "Jan": 3.66,
+        "Feb": 4.19,
+        "Mar": 4.38,
+        "Apr": 4.44,
+        "May": 4.21,
+        "Jun": 3.88,
+        "Jul": 3.9,
+        "Aug": 4.18,
+        "Sep": 4.21,
+        "Oct": 4.25,
+        "Nov": 4.07,
+        "Dec": 3.88
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Dungun",
+      "admin1_code": "13",
+      "location": [
+        4.775,
+        103.4162
+      ],
+      "monthly": {
+        "Jan": 3.34,
+        "Feb": 4.22,
+        "Mar": 4.63,
+        "Apr": 4.61,
+        "May": 4.12,
+        "Jun": 3.86,
+        "Jul": 3.8,
+        "Aug": 4.04,
+        "Sep": 4.13,
+        "Oct": 3.87,
+        "Nov": 3.39,
+        "Dec": 2.98
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Paka",
+      "admin1_code": "13",
+      "location": [
+        4.6374,
+        103.4368
+      ],
+      "monthly": {
+        "Jan": 3.36,
+        "Feb": 4.25,
+        "Mar": 4.63,
+        "Apr": 4.57,
+        "May": 4.05,
+        "Jun": 3.83,
+        "Jul": 3.76,
+        "Aug": 4.02,
+        "Sep": 4.09,
+        "Oct": 3.85,
+        "Nov": 3.39,
+        "Dec": 2.98
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Kertih",
+      "admin1_code": "13",
+      "location": [
+        4.5141,
+        103.4483
+      ],
+      "monthly": {
+        "Jan": 3.25,
+        "Feb": 4.11,
+        "Mar": 4.5,
+        "Apr": 4.54,
+        "May": 4.08,
+        "Jun": 3.88,
+        "Jul": 3.8,
+        "Aug": 4.08,
+        "Sep": 4.13,
+        "Oct": 3.84,
+        "Nov": 3.34,
+        "Dec": 2.93
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Gerik",
+      "admin1_code": "07",
+      "location": [
+        5.41667,
+        101.13333
+      ],
+      "monthly": {
+        "Jan": 3.91,
+        "Feb": 4.61,
+        "Mar": 4.58,
+        "Apr": 4.3,
+        "May": 3.75,
+        "Jun": 3.59,
+        "Jul": 3.53,
+        "Aug": 3.62,
+        "Sep": 3.67,
+        "Oct": 3.63,
+        "Nov": 3.49,
+        "Dec": 3.42
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Lunas",
+      "admin1_code": "02",
+      "location": [
+        5.43058,
+        100.53012
+      ],
+      "monthly": {
+        "Jan": 4.07,
+        "Feb": 4.56,
+        "Mar": 4.43,
+        "Apr": 4.06,
+        "May": 3.72,
+        "Jun": 3.62,
+        "Jul": 3.65,
+        "Aug": 3.73,
+        "Sep": 3.74,
+        "Oct": 3.73,
+        "Nov": 3.62,
+        "Dec": 3.67
+      },
+      "average": 3.88
+    },
+    {
+      "name": "Kulim",
+      "admin1_code": "02",
+      "location": [
+        5.36499,
+        100.56177
+      ],
+      "monthly": {
+        "Jan": 3.87,
+        "Feb": 4.36,
+        "Mar": 4.26,
+        "Apr": 3.91,
+        "May": 3.62,
+        "Jun": 3.55,
+        "Jul": 3.6,
+        "Aug": 3.65,
+        "Sep": 3.65,
+        "Oct": 3.59,
+        "Nov": 3.46,
+        "Dec": 3.52
+      },
+      "average": 3.75
+    },
+    {
+      "name": "Selama",
+      "admin1_code": "07",
+      "location": [
+        5.2236,
+        100.69262
+      ],
+      "monthly": {
+        "Jan": 3.93,
+        "Feb": 4.49,
+        "Mar": 4.42,
+        "Apr": 4.09,
+        "May": 3.8,
+        "Jun": 3.72,
+        "Jul": 3.73,
+        "Aug": 3.76,
+        "Sep": 3.75,
+        "Oct": 3.68,
+        "Nov": 3.52,
+        "Dec": 3.56
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Bandar Baharu",
+      "admin1_code": "02",
+      "location": [
+        5.13428,
+        100.49549
+      ],
+      "monthly": {
+        "Jan": 3.97,
+        "Feb": 4.51,
+        "Mar": 4.47,
+        "Apr": 4.22,
+        "May": 3.87,
+        "Jun": 3.77,
+        "Jul": 3.77,
+        "Aug": 3.86,
+        "Sep": 3.88,
+        "Oct": 3.82,
+        "Nov": 3.64,
+        "Dec": 3.63
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Bagan Serai",
+      "admin1_code": "07",
+      "location": [
+        5.0108,
+        100.54101
+      ],
+      "monthly": {
+        "Jan": 4.01,
+        "Feb": 4.53,
+        "Mar": 4.46,
+        "Apr": 4.2,
+        "May": 3.9,
+        "Jun": 3.85,
+        "Jul": 3.86,
+        "Aug": 3.88,
+        "Sep": 3.91,
+        "Oct": 3.85,
+        "Nov": 3.69,
+        "Dec": 3.7
+      },
+      "average": 3.99
+    },
+    {
+      "name": "Padang Serai",
+      "admin1_code": "02",
+      "location": [
+        5.51307,
+        100.55356
+      ],
+      "monthly": {
+        "Jan": 4.11,
+        "Feb": 4.61,
+        "Mar": 4.54,
+        "Apr": 4.18,
+        "May": 3.82,
+        "Jun": 3.66,
+        "Jul": 3.68,
+        "Aug": 3.76,
+        "Sep": 3.8,
+        "Oct": 3.78,
+        "Nov": 3.66,
+        "Dec": 3.69
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Bedong",
+      "admin1_code": "02",
+      "location": [
+        5.72743,
+        100.50876
+      ],
+      "monthly": {
+        "Jan": 4.06,
+        "Feb": 4.58,
+        "Mar": 4.57,
+        "Apr": 4.3,
+        "May": 3.85,
+        "Jun": 3.66,
+        "Jul": 3.66,
+        "Aug": 3.77,
+        "Sep": 3.81,
+        "Oct": 3.78,
+        "Nov": 3.65,
+        "Dec": 3.65
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Kampung Kupang",
+      "admin1_code": "02",
+      "location": [
+        5.63638,
+        100.84517
+      ],
+      "monthly": {
+        "Jan": 3.98,
+        "Feb": 4.61,
+        "Mar": 4.63,
+        "Apr": 4.4,
+        "May": 3.91,
+        "Jun": 3.72,
+        "Jul": 3.69,
+        "Aug": 3.78,
+        "Sep": 3.82,
+        "Oct": 3.78,
+        "Nov": 3.61,
+        "Dec": 3.54
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Pulai",
+      "admin1_code": "02",
+      "location": [
+        5.65489,
+        100.89541
+      ],
+      "monthly": {
+        "Jan": 3.98,
+        "Feb": 4.62,
+        "Mar": 4.63,
+        "Apr": 4.41,
+        "May": 3.91,
+        "Jun": 3.72,
+        "Jul": 3.69,
+        "Aug": 3.79,
+        "Sep": 3.81,
+        "Oct": 3.75,
+        "Nov": 3.59,
+        "Dec": 3.5
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Kampung Jeli",
+      "admin1_code": "03",
+      "location": [
+        5.7,
+        101.83333
+      ],
+      "monthly": {
+        "Jan": 3.1,
+        "Feb": 4,
+        "Mar": 4.54,
+        "Apr": 4.58,
+        "May": 4.05,
+        "Jun": 3.88,
+        "Jul": 3.82,
+        "Aug": 4.02,
+        "Sep": 4,
+        "Oct": 3.71,
+        "Nov": 3.17,
+        "Dec": 2.69
+      },
+      "average": 3.8
+    },
+    {
+      "name": "Siburan",
+      "admin1_code": "11",
+      "location": [
+        1.36667,
+        110.4
+      ],
+      "monthly": {
+        "Jan": 3.1,
+        "Feb": 3.34,
+        "Mar": 3.64,
+        "Apr": 4.01,
+        "May": 3.87,
+        "Jun": 3.83,
+        "Jul": 3.94,
+        "Aug": 3.81,
+        "Sep": 3.77,
+        "Oct": 3.69,
+        "Nov": 3.6,
+        "Dec": 3.34
+      },
+      "average": 3.66
+    },
+    {
+      "name": "Tebedu",
+      "admin1_code": "11",
+      "location": [
+        1.02656,
+        110.36331
+      ],
+      "monthly": {
+        "Jan": 3.28,
+        "Feb": 3.55,
+        "Mar": 3.82,
+        "Apr": 4.02,
+        "May": 3.91,
+        "Jun": 3.83,
+        "Jul": 3.93,
+        "Aug": 3.77,
+        "Sep": 3.79,
+        "Oct": 3.72,
+        "Nov": 3.63,
+        "Dec": 3.43
+      },
+      "average": 3.72
+    },
+    {
+      "name": "Bau",
+      "admin1_code": "11",
+      "location": [
+        1.41667,
+        110.15
+      ],
+      "monthly": {
+        "Jan": 3,
+        "Feb": 3.23,
+        "Mar": 3.6,
+        "Apr": 3.99,
+        "May": 3.86,
+        "Jun": 3.77,
+        "Jul": 3.88,
+        "Aug": 3.75,
+        "Sep": 3.7,
+        "Oct": 3.66,
+        "Nov": 3.55,
+        "Dec": 3.28
+      },
+      "average": 3.61
+    },
+    {
+      "name": "Simpang Empat",
+      "admin1_code": "07",
+      "location": [
+        4.95,
+        100.63333
+      ],
+      "monthly": {
+        "Jan": 3.97,
+        "Feb": 4.46,
+        "Mar": 4.39,
+        "Apr": 4.11,
+        "May": 3.83,
+        "Jun": 3.8,
+        "Jul": 3.82,
+        "Aug": 3.83,
+        "Sep": 3.84,
+        "Oct": 3.77,
+        "Nov": 3.6,
+        "Dec": 3.63
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Kamunting",
+      "admin1_code": "07",
+      "location": [
+        4.88333,
+        100.73333
+      ],
+      "monthly": {
+        "Jan": 3.68,
+        "Feb": 4.18,
+        "Mar": 4.1,
+        "Apr": 3.84,
+        "May": 3.63,
+        "Jun": 3.65,
+        "Jul": 3.65,
+        "Aug": 3.69,
+        "Sep": 3.68,
+        "Oct": 3.57,
+        "Nov": 3.37,
+        "Dec": 3.39
+      },
+      "average": 3.7
+    },
+    {
+      "name": "Batu Kurau",
+      "admin1_code": "07",
+      "location": [
+        4.96667,
+        100.8
+      ],
+      "monthly": {
+        "Jan": 3.78,
+        "Feb": 4.3,
+        "Mar": 4.23,
+        "Apr": 3.96,
+        "May": 3.68,
+        "Jun": 3.64,
+        "Jul": 3.61,
+        "Aug": 3.69,
+        "Sep": 3.7,
+        "Oct": 3.59,
+        "Nov": 3.43,
+        "Dec": 3.47
+      },
+      "average": 3.76
+    },
+    {
+      "name": "Taiping",
+      "admin1_code": "07",
+      "location": [
+        4.85,
+        100.73333
+      ],
+      "monthly": {
+        "Jan": 3.68,
+        "Feb": 4.18,
+        "Mar": 4.13,
+        "Apr": 3.91,
+        "May": 3.7,
+        "Jun": 3.71,
+        "Jul": 3.71,
+        "Aug": 3.76,
+        "Sep": 3.72,
+        "Oct": 3.61,
+        "Nov": 3.37,
+        "Dec": 3.38
+      },
+      "average": 3.74
+    },
+    {
+      "name": "Padang Rengas",
+      "admin1_code": "07",
+      "location": [
+        4.76667,
+        100.85
+      ],
+      "monthly": {
+        "Jan": 3.86,
+        "Feb": 4.39,
+        "Mar": 4.36,
+        "Apr": 4.08,
+        "May": 3.7,
+        "Jun": 3.62,
+        "Jul": 3.58,
+        "Aug": 3.68,
+        "Sep": 3.69,
+        "Oct": 3.62,
+        "Nov": 3.47,
+        "Dec": 3.52
+      },
+      "average": 3.8
+    },
+    {
+      "name": "Kuala Kangsar",
+      "admin1_code": "07",
+      "location": [
+        4.76667,
+        100.93333
+      ],
+      "monthly": {
+        "Jan": 3.95,
+        "Feb": 4.5,
+        "Mar": 4.47,
+        "Apr": 4.18,
+        "May": 3.79,
+        "Jun": 3.71,
+        "Jul": 3.66,
+        "Aug": 3.76,
+        "Sep": 3.78,
+        "Oct": 3.72,
+        "Nov": 3.57,
+        "Dec": 3.59
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Chemor",
+      "admin1_code": "07",
+      "location": [
+        4.7211,
+        101.1189
+      ],
+      "monthly": {
+        "Jan": 3.74,
+        "Feb": 4.29,
+        "Mar": 4.31,
+        "Apr": 4.06,
+        "May": 3.76,
+        "Jun": 3.71,
+        "Jul": 3.67,
+        "Aug": 3.73,
+        "Sep": 3.76,
+        "Oct": 3.67,
+        "Nov": 3.44,
+        "Dec": 3.4
+      },
+      "average": 3.79
+    },
+    {
+      "name": "Ipoh",
+      "admin1_code": "07",
+      "location": [
+        4.5841,
+        101.0829
+      ],
+      "monthly": {
+        "Jan": 3.74,
+        "Feb": 4.29,
+        "Mar": 4.32,
+        "Apr": 4.08,
+        "May": 3.83,
+        "Jun": 3.76,
+        "Jul": 3.73,
+        "Aug": 3.77,
+        "Sep": 3.84,
+        "Oct": 3.73,
+        "Nov": 3.5,
+        "Dec": 3.45
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Lahat",
+      "admin1_code": "07",
+      "location": [
+        4.5388,
+        101.0365
+      ],
+      "monthly": {
+        "Jan": 3.85,
+        "Feb": 4.38,
+        "Mar": 4.41,
+        "Apr": 4.16,
+        "May": 3.9,
+        "Jun": 3.79,
+        "Jul": 3.75,
+        "Aug": 3.82,
+        "Sep": 3.88,
+        "Oct": 3.79,
+        "Nov": 3.56,
+        "Dec": 3.52
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Gua Musang",
+      "admin1_code": "03",
+      "location": [
+        4.88441,
+        101.96857
+      ],
+      "monthly": {
+        "Jan": 3.33,
+        "Feb": 4.14,
+        "Mar": 4.49,
+        "Apr": 4.54,
+        "May": 4.05,
+        "Jun": 3.9,
+        "Jul": 3.86,
+        "Aug": 4.03,
+        "Sep": 4.09,
+        "Oct": 3.82,
+        "Nov": 3.45,
+        "Dec": 2.97
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Kuala Terengganu",
+      "admin1_code": "13",
+      "location": [
+        5.3302,
+        103.1408
+      ],
+      "monthly": {
+        "Jan": 3.45,
+        "Feb": 4.35,
+        "Mar": 4.75,
+        "Apr": 4.68,
+        "May": 4.13,
+        "Jun": 3.86,
+        "Jul": 3.79,
+        "Aug": 4.04,
+        "Sep": 4.14,
+        "Oct": 3.89,
+        "Nov": 3.32,
+        "Dec": 3
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Marang",
+      "admin1_code": "13",
+      "location": [
+        5.2056,
+        103.2059
+      ],
+      "monthly": {
+        "Jan": 3.37,
+        "Feb": 4.24,
+        "Mar": 4.66,
+        "Apr": 4.64,
+        "May": 4.12,
+        "Jun": 3.84,
+        "Jul": 3.78,
+        "Aug": 4,
+        "Sep": 4.11,
+        "Oct": 3.86,
+        "Nov": 3.31,
+        "Dec": 2.94
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Kampung Teluk Kemang",
+      "admin1_code": "05",
+      "location": [
+        2.46146,
+        101.85951
+      ],
+      "monthly": {
+        "Jan": 3.66,
+        "Feb": 4.3,
+        "Mar": 4.38,
+        "Apr": 4.13,
+        "May": 3.87,
+        "Jun": 3.68,
+        "Jul": 3.71,
+        "Aug": 3.82,
+        "Sep": 4,
+        "Oct": 3.9,
+        "Nov": 3.61,
+        "Dec": 3.35
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Tampin",
+      "admin1_code": "05",
+      "location": [
+        2.4701,
+        102.2302
+      ],
+      "monthly": {
+        "Jan": 3.58,
+        "Feb": 4.14,
+        "Mar": 4.1,
+        "Apr": 3.85,
+        "May": 3.6,
+        "Jun": 3.38,
+        "Jul": 3.4,
+        "Aug": 3.51,
+        "Sep": 3.71,
+        "Oct": 3.72,
+        "Nov": 3.42,
+        "Dec": 3.29
+      },
+      "average": 3.64
+    },
+    {
+      "name": "Alor Gajah",
+      "admin1_code": "04",
+      "location": [
+        2.3804,
+        102.2089
+      ],
+      "monthly": {
+        "Jan": 3.59,
+        "Feb": 4.13,
+        "Mar": 4.16,
+        "Apr": 3.93,
+        "May": 3.69,
+        "Jun": 3.48,
+        "Jul": 3.5,
+        "Aug": 3.62,
+        "Sep": 3.82,
+        "Oct": 3.77,
+        "Nov": 3.49,
+        "Dec": 3.33
+      },
+      "average": 3.71
+    },
+    {
+      "name": "Durian Tunggal",
+      "admin1_code": "04",
+      "location": [
+        2.3125,
+        102.2805
+      ],
+      "monthly": {
+        "Jan": 3.62,
+        "Feb": 4.17,
+        "Mar": 4.18,
+        "Apr": 3.93,
+        "May": 3.71,
+        "Jun": 3.5,
+        "Jul": 3.52,
+        "Aug": 3.63,
+        "Sep": 3.85,
+        "Oct": 3.78,
+        "Nov": 3.5,
+        "Dec": 3.35
+      },
+      "average": 3.73
+    },
+    {
+      "name": "Kampung Ayer Keroh",
+      "admin1_code": "04",
+      "location": [
+        2.2654,
+        102.2801
+      ],
+      "monthly": {
+        "Jan": 3.61,
+        "Feb": 4.18,
+        "Mar": 4.22,
+        "Apr": 3.97,
+        "May": 3.78,
+        "Jun": 3.55,
+        "Jul": 3.59,
+        "Aug": 3.69,
+        "Sep": 3.92,
+        "Oct": 3.82,
+        "Nov": 3.52,
+        "Dec": 3.36
+      },
+      "average": 3.77
+    },
+    {
+      "name": "Sungai Udang",
+      "admin1_code": "04",
+      "location": [
+        2.269,
+        102.1427
+      ],
+      "monthly": {
+        "Jan": 3.63,
+        "Feb": 4.24,
+        "Mar": 4.3,
+        "Apr": 4.09,
+        "May": 3.88,
+        "Jun": 3.64,
+        "Jul": 3.66,
+        "Aug": 3.77,
+        "Sep": 3.99,
+        "Oct": 3.91,
+        "Nov": 3.62,
+        "Dec": 3.37
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Malacca",
+      "admin1_code": "04",
+      "location": [
+        2.196,
+        102.2405
+      ],
+      "monthly": {
+        "Jan": 3.62,
+        "Feb": 4.23,
+        "Mar": 4.3,
+        "Apr": 4.12,
+        "May": 3.93,
+        "Jun": 3.67,
+        "Jul": 3.7,
+        "Aug": 3.81,
+        "Sep": 4.03,
+        "Oct": 3.93,
+        "Nov": 3.63,
+        "Dec": 3.37
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Merlimau",
+      "admin1_code": "04",
+      "location": [
+        2.1449,
+        102.4251
+      ],
+      "monthly": {
+        "Jan": 3.62,
+        "Feb": 4.2,
+        "Mar": 4.24,
+        "Apr": 4.03,
+        "May": 3.84,
+        "Jun": 3.6,
+        "Jul": 3.65,
+        "Aug": 3.75,
+        "Sep": 3.97,
+        "Oct": 3.87,
+        "Nov": 3.58,
+        "Dec": 3.37
+      },
+      "average": 3.81
+    },
+    {
+      "name": "Teluk Panglima Garang",
+      "admin1_code": "12",
+      "location": [
+        2.90796,
+        101.46877
+      ],
+      "monthly": {
+        "Jan": 3.5,
+        "Feb": 4.01,
+        "Mar": 4.15,
+        "Apr": 3.92,
+        "May": 3.79,
+        "Jun": 3.61,
+        "Jul": 3.63,
+        "Aug": 3.73,
+        "Sep": 3.84,
+        "Oct": 3.74,
+        "Nov": 3.47,
+        "Dec": 3.26
+      },
+      "average": 3.72
+    },
+    {
+      "name": "Pelabuhan Klang",
+      "admin1_code": "12",
+      "location": [
+        2.99959,
+        101.39287
+      ],
+      "monthly": {
+        "Jan": 3.5,
+        "Feb": 3.98,
+        "Mar": 4.13,
+        "Apr": 3.9,
+        "May": 3.8,
+        "Jun": 3.65,
+        "Jul": 3.66,
+        "Aug": 3.77,
+        "Sep": 3.86,
+        "Oct": 3.78,
+        "Nov": 3.51,
+        "Dec": 3.3
+      },
+      "average": 3.74
+    },
+    {
+      "name": "Banting",
+      "admin1_code": "12",
+      "location": [
+        2.8136,
+        101.50185
+      ],
+      "monthly": {
+        "Jan": 3.56,
+        "Feb": 4.11,
+        "Mar": 4.22,
+        "Apr": 3.97,
+        "May": 3.81,
+        "Jun": 3.64,
+        "Jul": 3.68,
+        "Aug": 3.8,
+        "Sep": 3.89,
+        "Oct": 3.76,
+        "Nov": 3.5,
+        "Dec": 3.29
+      },
+      "average": 3.77
+    },
+    {
+      "name": "Jenjarum",
+      "admin1_code": "12",
+      "location": [
+        2.8724,
+        101.49484
+      ],
+      "monthly": {
+        "Jan": 3.52,
+        "Feb": 4.04,
+        "Mar": 4.17,
+        "Apr": 3.92,
+        "May": 3.78,
+        "Jun": 3.6,
+        "Jul": 3.63,
+        "Aug": 3.73,
+        "Sep": 3.84,
+        "Oct": 3.74,
+        "Nov": 3.47,
+        "Dec": 3.28
+      },
+      "average": 3.73
+    },
+    {
+      "name": "Bangi",
+      "admin1_code": "12",
+      "location": [
+        2.9,
+        101.78333
+      ],
+      "monthly": {
+        "Jan": 3.55,
+        "Feb": 4.09,
+        "Mar": 4.21,
+        "Apr": 3.96,
+        "May": 3.78,
+        "Jun": 3.55,
+        "Jul": 3.57,
+        "Aug": 3.68,
+        "Sep": 3.81,
+        "Oct": 3.73,
+        "Nov": 3.49,
+        "Dec": 3.32
+      },
+      "average": 3.73
+    },
+    {
+      "name": "Semenyih",
+      "admin1_code": "12",
+      "location": [
+        2.9516,
+        101.843
+      ],
+      "monthly": {
+        "Jan": 3.49,
+        "Feb": 4.04,
+        "Mar": 4.15,
+        "Apr": 3.92,
+        "May": 3.75,
+        "Jun": 3.53,
+        "Jul": 3.52,
+        "Aug": 3.63,
+        "Sep": 3.76,
+        "Oct": 3.68,
+        "Nov": 3.41,
+        "Dec": 3.28
+      },
+      "average": 3.68
+    },
+    {
+      "name": "Seremban",
+      "admin1_code": "05",
+      "location": [
+        2.7297,
+        101.9381
+      ],
+      "monthly": {
+        "Jan": 3.56,
+        "Feb": 4.07,
+        "Mar": 4.08,
+        "Apr": 3.78,
+        "May": 3.6,
+        "Jun": 3.41,
+        "Jul": 3.47,
+        "Aug": 3.56,
+        "Sep": 3.69,
+        "Oct": 3.62,
+        "Nov": 3.39,
+        "Dec": 3.29
+      },
+      "average": 3.63
+    },
+    {
+      "name": "Port Dickson",
+      "admin1_code": "05",
+      "location": [
+        2.52462,
+        101.79651
+      ],
+      "monthly": {
+        "Jan": 3.67,
+        "Feb": 4.3,
+        "Mar": 4.39,
+        "Apr": 4.1,
+        "May": 3.87,
+        "Jun": 3.68,
+        "Jul": 3.7,
+        "Aug": 3.81,
+        "Sep": 3.96,
+        "Oct": 3.88,
+        "Nov": 3.6,
+        "Dec": 3.35
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Sepang",
+      "admin1_code": "12",
+      "location": [
+        2.6931,
+        101.7498
+      ],
+      "monthly": {
+        "Jan": 3.55,
+        "Feb": 4.09,
+        "Mar": 4.17,
+        "Apr": 3.91,
+        "May": 3.76,
+        "Jun": 3.6,
+        "Jul": 3.67,
+        "Aug": 3.77,
+        "Sep": 3.87,
+        "Oct": 3.72,
+        "Nov": 3.46,
+        "Dec": 3.27
+      },
+      "average": 3.74
+    },
+    {
+      "name": "Taman Senawang Indah",
+      "admin1_code": "05",
+      "location": [
+        2.691,
+        101.989
+      ],
+      "monthly": {
+        "Jan": 3.49,
+        "Feb": 4.05,
+        "Mar": 4.05,
+        "Apr": 3.75,
+        "May": 3.61,
+        "Jun": 3.46,
+        "Jul": 3.51,
+        "Aug": 3.58,
+        "Sep": 3.71,
+        "Oct": 3.6,
+        "Nov": 3.35,
+        "Dec": 3.23
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Bahau",
+      "admin1_code": "05",
+      "location": [
+        2.8079,
+        102.4049
+      ],
+      "monthly": {
+        "Jan": 3.44,
+        "Feb": 3.96,
+        "Mar": 4.12,
+        "Apr": 4.03,
+        "May": 3.75,
+        "Jun": 3.55,
+        "Jul": 3.55,
+        "Aug": 3.66,
+        "Sep": 3.78,
+        "Oct": 3.73,
+        "Nov": 3.51,
+        "Dec": 3.22
+      },
+      "average": 3.69
+    },
+    {
+      "name": "Kuala Pilah",
+      "admin1_code": "05",
+      "location": [
+        2.7389,
+        102.2487
+      ],
+      "monthly": {
+        "Jan": 3.43,
+        "Feb": 3.97,
+        "Mar": 4.11,
+        "Apr": 3.96,
+        "May": 3.69,
+        "Jun": 3.49,
+        "Jul": 3.49,
+        "Aug": 3.59,
+        "Sep": 3.71,
+        "Oct": 3.69,
+        "Nov": 3.44,
+        "Dec": 3.21
+      },
+      "average": 3.65
+    },
+    {
+      "name": "Rembau",
+      "admin1_code": "05",
+      "location": [
+        2.5897,
+        102.0913
+      ],
+      "monthly": {
+        "Jan": 3.54,
+        "Feb": 4.13,
+        "Mar": 4.11,
+        "Apr": 3.82,
+        "May": 3.58,
+        "Jun": 3.38,
+        "Jul": 3.41,
+        "Aug": 3.5,
+        "Sep": 3.66,
+        "Oct": 3.65,
+        "Nov": 3.38,
+        "Dec": 3.26
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Batu Anam",
+      "admin1_code": "01",
+      "location": [
+        2.5825,
+        102.711
+      ],
+      "monthly": {
+        "Jan": 3.4,
+        "Feb": 3.96,
+        "Mar": 4.11,
+        "Apr": 3.95,
+        "May": 3.71,
+        "Jun": 3.48,
+        "Jul": 3.49,
+        "Aug": 3.6,
+        "Sep": 3.74,
+        "Oct": 3.69,
+        "Nov": 3.46,
+        "Dec": 3.19
+      },
+      "average": 3.65
+    },
+    {
+      "name": "Rompin",
+      "admin1_code": "05",
+      "location": [
+        2.7083,
+        102.5047
+      ],
+      "monthly": {
+        "Jan": 3.4,
+        "Feb": 3.91,
+        "Mar": 4.07,
+        "Apr": 3.97,
+        "May": 3.73,
+        "Jun": 3.52,
+        "Jul": 3.55,
+        "Aug": 3.62,
+        "Sep": 3.75,
+        "Oct": 3.68,
+        "Nov": 3.48,
+        "Dec": 3.21
+      },
+      "average": 3.66
+    },
+    {
+      "name": "Gemas",
+      "admin1_code": "05",
+      "location": [
+        2.5832,
+        102.6117
+      ],
+      "monthly": {
+        "Jan": 3.38,
+        "Feb": 3.95,
+        "Mar": 4.09,
+        "Apr": 3.93,
+        "May": 3.71,
+        "Jun": 3.5,
+        "Jul": 3.5,
+        "Aug": 3.61,
+        "Sep": 3.75,
+        "Oct": 3.7,
+        "Nov": 3.45,
+        "Dec": 3.2
+      },
+      "average": 3.65
+    },
+    {
+      "name": "Pekan",
+      "admin1_code": "06",
+      "location": [
+        3.4836,
+        103.3996
+      ],
+      "monthly": {
+        "Jan": 3.42,
+        "Feb": 4.09,
+        "Mar": 4.41,
+        "Apr": 4.37,
+        "May": 4.02,
+        "Jun": 3.83,
+        "Jul": 3.81,
+        "Aug": 4.04,
+        "Sep": 4.12,
+        "Oct": 3.86,
+        "Nov": 3.44,
+        "Dec": 3.08
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Mentakab",
+      "admin1_code": "06",
+      "location": [
+        3.4854,
+        102.3484
+      ],
+      "monthly": {
+        "Jan": 3.48,
+        "Feb": 4,
+        "Mar": 4.27,
+        "Apr": 4.24,
+        "May": 3.89,
+        "Jun": 3.71,
+        "Jul": 3.67,
+        "Aug": 3.84,
+        "Sep": 3.97,
+        "Oct": 3.82,
+        "Nov": 3.54,
+        "Dec": 3.21
+      },
+      "average": 3.8
+    },
+    {
+      "name": "Temerluh",
+      "admin1_code": "06",
+      "location": [
+        3.4506,
+        102.4176
+      ],
+      "monthly": {
+        "Jan": 3.46,
+        "Feb": 4.01,
+        "Mar": 4.29,
+        "Apr": 4.23,
+        "May": 3.93,
+        "Jun": 3.77,
+        "Jul": 3.71,
+        "Aug": 3.89,
+        "Sep": 4.02,
+        "Oct": 3.84,
+        "Nov": 3.52,
+        "Dec": 3.18
+      },
+      "average": 3.82
+    },
+    {
+      "name": "Kampung Teluk Air Tawar",
+      "admin1_code": "09",
+      "location": [
+        5.48333,
+        100.38333
+      ],
+      "monthly": {
+        "Jan": 4.16,
+        "Feb": 4.69,
+        "Mar": 4.59,
+        "Apr": 4.22,
+        "May": 3.75,
+        "Jun": 3.67,
+        "Jul": 3.69,
+        "Aug": 3.79,
+        "Sep": 3.83,
+        "Oct": 3.85,
+        "Nov": 3.75,
+        "Dec": 3.72
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Batu Feringgi",
+      "admin1_code": "09",
+      "location": [
+        5.4709,
+        100.24529
+      ],
+      "monthly": {
+        "Jan": 4.21,
+        "Feb": 4.72,
+        "Mar": 4.57,
+        "Apr": 4.16,
+        "May": 3.66,
+        "Jun": 3.57,
+        "Jul": 3.59,
+        "Aug": 3.69,
+        "Sep": 3.74,
+        "Oct": 3.77,
+        "Nov": 3.73,
+        "Dec": 3.77
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Butterworth",
+      "admin1_code": "09",
+      "location": [
+        5.3991,
+        100.36382
+      ],
+      "monthly": {
+        "Jan": 4.09,
+        "Feb": 4.61,
+        "Mar": 4.49,
+        "Apr": 4.11,
+        "May": 3.69,
+        "Jun": 3.64,
+        "Jul": 3.66,
+        "Aug": 3.73,
+        "Sep": 3.76,
+        "Oct": 3.76,
+        "Nov": 3.68,
+        "Dec": 3.69
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Perai",
+      "admin1_code": "09",
+      "location": [
+        5.38333,
+        100.38333
+      ],
+      "monthly": {
+        "Jan": 4.09,
+        "Feb": 4.61,
+        "Mar": 4.5,
+        "Apr": 4.13,
+        "May": 3.72,
+        "Jun": 3.67,
+        "Jul": 3.7,
+        "Aug": 3.77,
+        "Sep": 3.8,
+        "Oct": 3.77,
+        "Nov": 3.68,
+        "Dec": 3.7
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Bukit Mertajam",
+      "admin1_code": "09",
+      "location": [
+        5.36301,
+        100.4667
+      ],
+      "monthly": {
+        "Jan": 3.96,
+        "Feb": 4.48,
+        "Mar": 4.33,
+        "Apr": 3.97,
+        "May": 3.65,
+        "Jun": 3.61,
+        "Jul": 3.64,
+        "Aug": 3.71,
+        "Sep": 3.72,
+        "Oct": 3.68,
+        "Nov": 3.55,
+        "Dec": 3.59
+      },
+      "average": 3.82
+    },
+    {
+      "name": "Nibong Tebal",
+      "admin1_code": "09",
+      "location": [
+        5.16586,
+        100.47793
+      ],
+      "monthly": {
+        "Jan": 4.04,
+        "Feb": 4.57,
+        "Mar": 4.5,
+        "Apr": 4.23,
+        "May": 3.87,
+        "Jun": 3.77,
+        "Jul": 3.79,
+        "Aug": 3.88,
+        "Sep": 3.9,
+        "Oct": 3.84,
+        "Nov": 3.68,
+        "Dec": 3.67
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Parit Buntar",
+      "admin1_code": "07",
+      "location": [
+        5.12671,
+        100.49316
+      ],
+      "monthly": {
+        "Jan": 3.97,
+        "Feb": 4.51,
+        "Mar": 4.47,
+        "Apr": 4.22,
+        "May": 3.87,
+        "Jun": 3.77,
+        "Jul": 3.77,
+        "Aug": 3.86,
+        "Sep": 3.89,
+        "Oct": 3.82,
+        "Nov": 3.65,
+        "Dec": 3.63
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Kuala Kurau",
+      "admin1_code": "07",
+      "location": [
+        5.01821,
+        100.42824
+      ],
+      "monthly": {
+        "Jan": 4.1,
+        "Feb": 4.63,
+        "Mar": 4.57,
+        "Apr": 4.31,
+        "May": 3.94,
+        "Jun": 3.9,
+        "Jul": 3.91,
+        "Aug": 3.96,
+        "Sep": 3.98,
+        "Oct": 3.95,
+        "Nov": 3.78,
+        "Dec": 3.74
+      },
+      "average": 4.06
+    },
+    {
+      "name": "Tasek Glugor",
+      "admin1_code": "09",
+      "location": [
+        5.48032,
+        100.49849
+      ],
+      "monthly": {
+        "Jan": 4.13,
+        "Feb": 4.63,
+        "Mar": 4.53,
+        "Apr": 4.18,
+        "May": 3.82,
+        "Jun": 3.69,
+        "Jul": 3.71,
+        "Aug": 3.79,
+        "Sep": 3.82,
+        "Oct": 3.82,
+        "Nov": 3.69,
+        "Dec": 3.71
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Balik Pulau",
+      "admin1_code": "09",
+      "location": [
+        5.34916,
+        100.23938
+      ],
+      "monthly": {
+        "Jan": 4.02,
+        "Feb": 4.55,
+        "Mar": 4.4,
+        "Apr": 4.03,
+        "May": 3.71,
+        "Jun": 3.65,
+        "Jul": 3.67,
+        "Aug": 3.76,
+        "Sep": 3.74,
+        "Oct": 3.69,
+        "Nov": 3.57,
+        "Dec": 3.63
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Bayan Lepas",
+      "admin1_code": "09",
+      "location": [
+        5.29992,
+        100.26052
+      ],
+      "monthly": {
+        "Jan": 4.16,
+        "Feb": 4.67,
+        "Mar": 4.58,
+        "Apr": 4.22,
+        "May": 3.84,
+        "Jun": 3.75,
+        "Jul": 3.76,
+        "Aug": 3.85,
+        "Sep": 3.86,
+        "Oct": 3.81,
+        "Nov": 3.71,
+        "Dec": 3.74
+      },
+      "average": 4
+    },
+    {
+      "name": "George Town",
+      "admin1_code": "09",
+      "location": [
+        5.41123,
+        100.33543
+      ],
+      "monthly": {
+        "Jan": 4.1,
+        "Feb": 4.61,
+        "Mar": 4.49,
+        "Apr": 4.09,
+        "May": 3.66,
+        "Jun": 3.6,
+        "Jul": 3.62,
+        "Aug": 3.69,
+        "Sep": 3.72,
+        "Oct": 3.75,
+        "Nov": 3.68,
+        "Dec": 3.7
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Hulu Yam Lama",
+      "admin1_code": "12",
+      "location": [
+        3.4537,
+        101.6413
+      ],
+      "monthly": {
+        "Jan": 3.66,
+        "Feb": 4.2,
+        "Mar": 4.28,
+        "Apr": 3.96,
+        "May": 3.76,
+        "Jun": 3.63,
+        "Jul": 3.55,
+        "Aug": 3.62,
+        "Sep": 3.74,
+        "Oct": 3.67,
+        "Nov": 3.46,
+        "Dec": 3.37
+      },
+      "average": 3.74
+    },
+    {
+      "name": "Serendah",
+      "admin1_code": "12",
+      "location": [
+        3.3646,
+        101.6041
+      ],
+      "monthly": {
+        "Jan": 3.54,
+        "Feb": 4.03,
+        "Mar": 4.12,
+        "Apr": 3.81,
+        "May": 3.68,
+        "Jun": 3.57,
+        "Jul": 3.5,
+        "Aug": 3.58,
+        "Sep": 3.68,
+        "Oct": 3.62,
+        "Nov": 3.39,
+        "Dec": 3.28
+      },
+      "average": 3.65
+    },
+    {
+      "name": "Rawang",
+      "admin1_code": "12",
+      "location": [
+        3.3213,
+        101.5767
+      ],
+      "monthly": {
+        "Jan": 3.56,
+        "Feb": 4.04,
+        "Mar": 4.15,
+        "Apr": 3.88,
+        "May": 3.74,
+        "Jun": 3.6,
+        "Jul": 3.52,
+        "Aug": 3.62,
+        "Sep": 3.72,
+        "Oct": 3.69,
+        "Nov": 3.43,
+        "Dec": 3.31
+      },
+      "average": 3.69
+    },
+    {
+      "name": "Sungai Buloh",
+      "admin1_code": "12",
+      "location": [
+        3.21,
+        101.561
+      ],
+      "monthly": {
+        "Jan": 3.53,
+        "Feb": 4,
+        "Mar": 4.12,
+        "Apr": 3.89,
+        "May": 3.71,
+        "Jun": 3.56,
+        "Jul": 3.48,
+        "Aug": 3.6,
+        "Sep": 3.72,
+        "Oct": 3.72,
+        "Nov": 3.47,
+        "Dec": 3.29
+      },
+      "average": 3.67
+    },
+    {
+      "name": "Petaling Jaya",
+      "admin1_code": "12",
+      "location": [
+        3.10726,
+        101.60671
+      ],
+      "monthly": {
+        "Jan": 3.47,
+        "Feb": 3.9,
+        "Mar": 4.05,
+        "Apr": 3.83,
+        "May": 3.69,
+        "Jun": 3.51,
+        "Jul": 3.5,
+        "Aug": 3.6,
+        "Sep": 3.73,
+        "Oct": 3.67,
+        "Nov": 3.42,
+        "Dec": 3.26
+      },
+      "average": 3.64
+    },
+    {
+      "name": "Kuala Lumpur",
+      "admin1_code": "14",
+      "location": [
+        3.1412,
+        101.68653
+      ],
+      "monthly": {
+        "Jan": 3.48,
+        "Feb": 3.92,
+        "Mar": 4.05,
+        "Apr": 3.81,
+        "May": 3.64,
+        "Jun": 3.46,
+        "Jul": 3.44,
+        "Aug": 3.54,
+        "Sep": 3.69,
+        "Oct": 3.66,
+        "Nov": 3.39,
+        "Dec": 3.25
+      },
+      "average": 3.61
+    },
+    {
+      "name": "Setapak",
+      "admin1_code": "12",
+      "location": [
+        3.207,
+        101.727
+      ],
+      "monthly": {
+        "Jan": 3.54,
+        "Feb": 4.04,
+        "Mar": 4.1,
+        "Apr": 3.8,
+        "May": 3.61,
+        "Jun": 3.45,
+        "Jul": 3.38,
+        "Aug": 3.49,
+        "Sep": 3.64,
+        "Oct": 3.63,
+        "Nov": 3.37,
+        "Dec": 3.27
+      },
+      "average": 3.61
+    },
+    {
+      "name": "Batu Caves",
+      "admin1_code": "12",
+      "location": [
+        3.238,
+        101.682
+      ],
+      "monthly": {
+        "Jan": 3.5,
+        "Feb": 4.01,
+        "Mar": 4.11,
+        "Apr": 3.83,
+        "May": 3.63,
+        "Jun": 3.47,
+        "Jul": 3.39,
+        "Aug": 3.5,
+        "Sep": 3.64,
+        "Oct": 3.65,
+        "Nov": 3.38,
+        "Dec": 3.25
+      },
+      "average": 3.61
+    },
+    {
+      "name": "Ampang",
+      "admin1_code": "14",
+      "location": [
+        3.15,
+        101.76667
+      ],
+      "monthly": {
+        "Jan": 3.49,
+        "Feb": 3.97,
+        "Mar": 4.07,
+        "Apr": 3.8,
+        "May": 3.62,
+        "Jun": 3.46,
+        "Jul": 3.42,
+        "Aug": 3.51,
+        "Sep": 3.66,
+        "Oct": 3.62,
+        "Nov": 3.36,
+        "Dec": 3.26
+      },
+      "average": 3.6
+    },
+    {
+      "name": "Hulu Langat",
+      "admin1_code": "12",
+      "location": [
+        3.1137,
+        101.8142
+      ],
+      "monthly": {
+        "Jan": 3.48,
+        "Feb": 3.99,
+        "Mar": 4.08,
+        "Apr": 3.81,
+        "May": 3.63,
+        "Jun": 3.45,
+        "Jul": 3.42,
+        "Aug": 3.49,
+        "Sep": 3.64,
+        "Oct": 3.61,
+        "Nov": 3.33,
+        "Dec": 3.24
+      },
+      "average": 3.6
+    },
+    {
+      "name": "Hutan Melintang",
+      "admin1_code": "07",
+      "location": [
+        3.8766,
+        100.9328
+      ],
+      "monthly": {
+        "Jan": 3.75,
+        "Feb": 4.22,
+        "Mar": 4.27,
+        "Apr": 4.03,
+        "May": 3.83,
+        "Jun": 3.73,
+        "Jul": 3.66,
+        "Aug": 3.77,
+        "Sep": 3.83,
+        "Oct": 3.79,
+        "Nov": 3.59,
+        "Dec": 3.48
+      },
+      "average": 3.83
+    },
+    {
+      "name": "Sungai Besar",
+      "admin1_code": "12",
+      "location": [
+        3.6746,
+        100.9867
+      ],
+      "monthly": {
+        "Jan": 3.85,
+        "Feb": 4.38,
+        "Mar": 4.5,
+        "Apr": 4.26,
+        "May": 4.02,
+        "Jun": 3.9,
+        "Jul": 3.85,
+        "Aug": 3.99,
+        "Sep": 4.03,
+        "Oct": 3.99,
+        "Nov": 3.75,
+        "Dec": 3.55
+      },
+      "average": 4.01
+    },
+    {
+      "name": "Kuantan",
+      "admin1_code": "06",
+      "location": [
+        3.8077,
+        103.326
+      ],
+      "monthly": {
+        "Jan": 3.44,
+        "Feb": 4.14,
+        "Mar": 4.52,
+        "Apr": 4.45,
+        "May": 4.1,
+        "Jun": 3.89,
+        "Jul": 3.8,
+        "Aug": 4.06,
+        "Sep": 4.16,
+        "Oct": 3.88,
+        "Nov": 3.38,
+        "Dec": 3.02
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Sungai Siput",
+      "admin1_code": "07",
+      "location": [
+        4.3945,
+        101.1947
+      ],
+      "monthly": {
+        "Jan": 3.66,
+        "Feb": 4.21,
+        "Mar": 4.19,
+        "Apr": 3.96,
+        "May": 3.78,
+        "Jun": 3.75,
+        "Jul": 3.69,
+        "Aug": 3.78,
+        "Sep": 3.8,
+        "Oct": 3.66,
+        "Nov": 3.4,
+        "Dec": 3.34
+      },
+      "average": 3.77
+    },
+    {
+      "name": "Batu Gajah",
+      "admin1_code": "07",
+      "location": [
+        4.46916,
+        101.04107
+      ],
+      "monthly": {
+        "Jan": 3.92,
+        "Feb": 4.45,
+        "Mar": 4.45,
+        "Apr": 4.19,
+        "May": 3.93,
+        "Jun": 3.82,
+        "Jul": 3.78,
+        "Aug": 3.86,
+        "Sep": 3.93,
+        "Oct": 3.83,
+        "Nov": 3.61,
+        "Dec": 3.57
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Kampar",
+      "admin1_code": "07",
+      "location": [
+        4.3,
+        101.15
+      ],
+      "monthly": {
+        "Jan": 3.62,
+        "Feb": 4.16,
+        "Mar": 4.19,
+        "Apr": 3.95,
+        "May": 3.83,
+        "Jun": 3.79,
+        "Jul": 3.71,
+        "Aug": 3.8,
+        "Sep": 3.85,
+        "Oct": 3.72,
+        "Nov": 3.41,
+        "Dec": 3.32
+      },
+      "average": 3.78
+    },
+    {
+      "name": "Tapah Road",
+      "admin1_code": "07",
+      "location": [
+        4.16667,
+        101.2
+      ],
+      "monthly": {
+        "Jan": 3.86,
+        "Feb": 4.41,
+        "Mar": 4.45,
+        "Apr": 4.16,
+        "May": 3.95,
+        "Jun": 3.85,
+        "Jul": 3.79,
+        "Aug": 3.89,
+        "Sep": 3.96,
+        "Oct": 3.88,
+        "Nov": 3.6,
+        "Dec": 3.53
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Bidur",
+      "admin1_code": "07",
+      "location": [
+        4.11667,
+        101.28333
+      ],
+      "monthly": {
+        "Jan": 3.78,
+        "Feb": 4.32,
+        "Mar": 4.39,
+        "Apr": 4.07,
+        "May": 3.9,
+        "Jun": 3.81,
+        "Jul": 3.74,
+        "Aug": 3.85,
+        "Sep": 3.92,
+        "Oct": 3.82,
+        "Nov": 3.53,
+        "Dec": 3.44
+      },
+      "average": 3.88
+    },
+    {
+      "name": "Mukah",
+      "admin1_code": "11",
+      "location": [
+        2.89435,
+        112.09145
+      ],
+      "monthly": {
+        "Jan": 3.2,
+        "Feb": 3.62,
+        "Mar": 3.83,
+        "Apr": 3.89,
+        "May": 3.72,
+        "Jun": 3.59,
+        "Jul": 3.72,
+        "Aug": 3.71,
+        "Sep": 3.63,
+        "Oct": 3.61,
+        "Nov": 3.53,
+        "Dec": 3.38
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Tatau",
+      "admin1_code": "11",
+      "location": [
+        2.88333,
+        112.85
+      ],
+      "monthly": {
+        "Jan": 3.23,
+        "Feb": 3.46,
+        "Mar": 3.82,
+        "Apr": 3.89,
+        "May": 3.78,
+        "Jun": 3.71,
+        "Jul": 3.84,
+        "Aug": 3.85,
+        "Sep": 3.74,
+        "Oct": 3.71,
+        "Nov": 3.64,
+        "Dec": 3.45
+      },
+      "average": 3.68
+    },
+    {
+      "name": "Parit",
+      "admin1_code": "07",
+      "location": [
+        4.48333,
+        100.91667
+      ],
+      "monthly": {
+        "Jan": 3.94,
+        "Feb": 4.45,
+        "Mar": 4.43,
+        "Apr": 4.2,
+        "May": 3.87,
+        "Jun": 3.75,
+        "Jul": 3.68,
+        "Aug": 3.79,
+        "Sep": 3.88,
+        "Oct": 3.82,
+        "Nov": 3.61,
+        "Dec": 3.59
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Lumut",
+      "admin1_code": "07",
+      "location": [
+        4.2323,
+        100.6298
+      ],
+      "monthly": {
+        "Jan": 3.85,
+        "Feb": 4.37,
+        "Mar": 4.45,
+        "Apr": 4.22,
+        "May": 3.95,
+        "Jun": 3.86,
+        "Jul": 3.81,
+        "Aug": 3.96,
+        "Sep": 3.96,
+        "Oct": 3.89,
+        "Nov": 3.69,
+        "Dec": 3.56
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Sitiawan",
+      "admin1_code": "07",
+      "location": [
+        4.2168,
+        100.6996
+      ],
+      "monthly": {
+        "Jan": 3.85,
+        "Feb": 4.35,
+        "Mar": 4.41,
+        "Apr": 4.2,
+        "May": 3.93,
+        "Jun": 3.83,
+        "Jul": 3.77,
+        "Aug": 3.92,
+        "Sep": 3.95,
+        "Oct": 3.87,
+        "Nov": 3.68,
+        "Dec": 3.56
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Teluk Intan",
+      "admin1_code": "07",
+      "location": [
+        4.02219,
+        101.02083
+      ],
+      "monthly": {
+        "Jan": 3.88,
+        "Feb": 4.36,
+        "Mar": 4.39,
+        "Apr": 4.13,
+        "May": 3.88,
+        "Jun": 3.76,
+        "Jul": 3.67,
+        "Aug": 3.77,
+        "Sep": 3.87,
+        "Oct": 3.87,
+        "Nov": 3.65,
+        "Dec": 3.58
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Gurun",
+      "admin1_code": "02",
+      "location": [
+        5.81717,
+        100.47381
+      ],
+      "monthly": {
+        "Jan": 4.03,
+        "Feb": 4.55,
+        "Mar": 4.57,
+        "Apr": 4.27,
+        "May": 3.79,
+        "Jun": 3.62,
+        "Jul": 3.62,
+        "Aug": 3.74,
+        "Sep": 3.76,
+        "Oct": 3.77,
+        "Nov": 3.63,
+        "Dec": 3.58
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Yan Besar",
+      "admin1_code": "02",
+      "location": [
+        5.7989,
+        100.37264
+      ],
+      "monthly": {
+        "Jan": 4.09,
+        "Feb": 4.62,
+        "Mar": 4.57,
+        "Apr": 4.23,
+        "May": 3.74,
+        "Jun": 3.66,
+        "Jul": 3.63,
+        "Aug": 3.76,
+        "Sep": 3.78,
+        "Oct": 3.77,
+        "Nov": 3.66,
+        "Dec": 3.66
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Sungai Petani",
+      "admin1_code": "02",
+      "location": [
+        5.647,
+        100.48772
+      ],
+      "monthly": {
+        "Jan": 4.11,
+        "Feb": 4.64,
+        "Mar": 4.61,
+        "Apr": 4.28,
+        "May": 3.89,
+        "Jun": 3.71,
+        "Jul": 3.71,
+        "Aug": 3.83,
+        "Sep": 3.87,
+        "Oct": 3.85,
+        "Nov": 3.7,
+        "Dec": 3.7
+      },
+      "average": 3.99
+    },
+    {
+      "name": "Kepala Batas",
+      "admin1_code": "09",
+      "location": [
+        5.51707,
+        100.4265
+      ],
+      "monthly": {
+        "Jan": 4.2,
+        "Feb": 4.7,
+        "Mar": 4.61,
+        "Apr": 4.29,
+        "May": 3.89,
+        "Jun": 3.77,
+        "Jul": 3.79,
+        "Aug": 3.88,
+        "Sep": 3.9,
+        "Oct": 3.9,
+        "Nov": 3.79,
+        "Dec": 3.77
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Pasir Puteh",
+      "admin1_code": "03",
+      "location": [
+        5.83333,
+        102.4
+      ],
+      "monthly": {
+        "Jan": 3.38,
+        "Feb": 4.25,
+        "Mar": 4.65,
+        "Apr": 4.63,
+        "May": 4.06,
+        "Jun": 3.87,
+        "Jul": 3.82,
+        "Aug": 4.11,
+        "Sep": 4.12,
+        "Oct": 3.83,
+        "Nov": 3.22,
+        "Dec": 2.91
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Tanah Merah",
+      "admin1_code": "03",
+      "location": [
+        5.8,
+        102.15
+      ],
+      "monthly": {
+        "Jan": 3.28,
+        "Feb": 4.15,
+        "Mar": 4.57,
+        "Apr": 4.49,
+        "May": 4.07,
+        "Jun": 3.94,
+        "Jul": 3.88,
+        "Aug": 4.12,
+        "Sep": 4.11,
+        "Oct": 3.79,
+        "Nov": 3.14,
+        "Dec": 2.79
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Kuala Krai",
+      "admin1_code": "03",
+      "location": [
+        5.5313,
+        102.19925
+      ],
+      "monthly": {
+        "Jan": 3.21,
+        "Feb": 4.07,
+        "Mar": 4.47,
+        "Apr": 4.43,
+        "May": 4,
+        "Jun": 3.87,
+        "Jul": 3.82,
+        "Aug": 4.05,
+        "Sep": 4.02,
+        "Oct": 3.68,
+        "Nov": 3.13,
+        "Dec": 2.75
+      },
+      "average": 3.79
+    },
+    {
+      "name": "Kuching",
+      "admin1_code": "11",
+      "location": [
+        1.55,
+        110.33333
+      ],
+      "monthly": {
+        "Jan": 3.06,
+        "Feb": 3.28,
+        "Mar": 3.57,
+        "Apr": 3.89,
+        "May": 3.73,
+        "Jun": 3.68,
+        "Jul": 3.8,
+        "Aug": 3.71,
+        "Sep": 3.66,
+        "Oct": 3.61,
+        "Nov": 3.54,
+        "Dec": 3.28
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Simunjan",
+      "admin1_code": "11",
+      "location": [
+        1.38333,
+        110.75
+      ],
+      "monthly": {
+        "Jan": 3.21,
+        "Feb": 3.46,
+        "Mar": 3.74,
+        "Apr": 3.98,
+        "May": 3.84,
+        "Jun": 3.76,
+        "Jul": 3.91,
+        "Aug": 3.74,
+        "Sep": 3.73,
+        "Oct": 3.75,
+        "Nov": 3.67,
+        "Dec": 3.48
+      },
+      "average": 3.69
+    },
+    {
+      "name": "Sri Aman",
+      "admin1_code": "11",
+      "location": [
+        1.24722,
+        111.45278
+      ],
+      "monthly": {
+        "Jan": 3.38,
+        "Feb": 3.64,
+        "Mar": 3.86,
+        "Apr": 3.99,
+        "May": 3.82,
+        "Jun": 3.75,
+        "Jul": 3.86,
+        "Aug": 3.72,
+        "Sep": 3.71,
+        "Oct": 3.77,
+        "Nov": 3.66,
+        "Dec": 3.61
+      },
+      "average": 3.73
+    },
+    {
+      "name": "Sarikei",
+      "admin1_code": "11",
+      "location": [
+        2.11667,
+        111.51667
+      ],
+      "monthly": {
+        "Jan": 3.18,
+        "Feb": 3.54,
+        "Mar": 3.78,
+        "Apr": 3.92,
+        "May": 3.8,
+        "Jun": 3.73,
+        "Jul": 3.82,
+        "Aug": 3.78,
+        "Sep": 3.71,
+        "Oct": 3.68,
+        "Nov": 3.57,
+        "Dec": 3.38
+      },
+      "average": 3.66
+    },
+    {
+      "name": "Maradong",
+      "admin1_code": "11",
+      "location": [
+        2.08333,
+        111.61667
+      ],
+      "monthly": {
+        "Jan": 3.19,
+        "Feb": 3.49,
+        "Mar": 3.77,
+        "Apr": 3.93,
+        "May": 3.81,
+        "Jun": 3.72,
+        "Jul": 3.83,
+        "Aug": 3.77,
+        "Sep": 3.7,
+        "Oct": 3.68,
+        "Nov": 3.59,
+        "Dec": 3.39
+      },
+      "average": 3.66
+    },
+    {
+      "name": "Julau",
+      "admin1_code": "11",
+      "location": [
+        2.01667,
+        111.91667
+      ],
+      "monthly": {
+        "Jan": 3.3,
+        "Feb": 3.6,
+        "Mar": 3.85,
+        "Apr": 3.99,
+        "May": 3.85,
+        "Jun": 3.72,
+        "Jul": 3.86,
+        "Aug": 3.83,
+        "Sep": 3.77,
+        "Oct": 3.76,
+        "Nov": 3.68,
+        "Dec": 3.53
+      },
+      "average": 3.73
+    },
+    {
+      "name": "Sibu",
+      "admin1_code": "11",
+      "location": [
+        2.3,
+        111.81667
+      ],
+      "monthly": {
+        "Jan": 3.22,
+        "Feb": 3.5,
+        "Mar": 3.75,
+        "Apr": 3.94,
+        "May": 3.86,
+        "Jun": 3.75,
+        "Jul": 3.86,
+        "Aug": 3.82,
+        "Sep": 3.75,
+        "Oct": 3.72,
+        "Nov": 3.63,
+        "Dec": 3.45
+      },
+      "average": 3.69
+    },
+    {
+      "name": "Pakan",
+      "admin1_code": "11",
+      "location": [
+        1.88333,
+        111.68333
+      ],
+      "monthly": {
+        "Jan": 3.21,
+        "Feb": 3.53,
+        "Mar": 3.79,
+        "Apr": 3.94,
+        "May": 3.8,
+        "Jun": 3.72,
+        "Jul": 3.86,
+        "Aug": 3.76,
+        "Sep": 3.73,
+        "Oct": 3.74,
+        "Nov": 3.64,
+        "Dec": 3.47
+      },
+      "average": 3.68
+    },
+    {
+      "name": "Kangar",
+      "admin1_code": "08",
+      "location": [
+        6.4414,
+        100.19862
+      ],
+      "monthly": {
+        "Jan": 4.23,
+        "Feb": 4.74,
+        "Mar": 4.71,
+        "Apr": 4.47,
+        "May": 3.92,
+        "Jun": 3.73,
+        "Jul": 3.65,
+        "Aug": 3.87,
+        "Sep": 3.82,
+        "Oct": 3.8,
+        "Nov": 3.57,
+        "Dec": 3.64
+      },
+      "average": 4.01
+    },
+    {
+      "name": "Changloon",
+      "admin1_code": "02",
+      "location": [
+        6.43422,
+        100.43133
+      ],
+      "monthly": {
+        "Jan": 4.07,
+        "Feb": 4.66,
+        "Mar": 4.61,
+        "Apr": 4.36,
+        "May": 3.82,
+        "Jun": 3.68,
+        "Jul": 3.58,
+        "Aug": 3.75,
+        "Sep": 3.72,
+        "Oct": 3.68,
+        "Nov": 3.42,
+        "Dec": 3.46
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Jitra",
+      "admin1_code": "02",
+      "location": [
+        6.26812,
+        100.42167
+      ],
+      "monthly": {
+        "Jan": 4.16,
+        "Feb": 4.73,
+        "Mar": 4.66,
+        "Apr": 4.44,
+        "May": 3.91,
+        "Jun": 3.74,
+        "Jul": 3.64,
+        "Aug": 3.78,
+        "Sep": 3.77,
+        "Oct": 3.81,
+        "Nov": 3.56,
+        "Dec": 3.57
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Kuala Kedah",
+      "admin1_code": "02",
+      "location": [
+        6.1,
+        100.3
+      ],
+      "monthly": {
+        "Jan": 4.27,
+        "Feb": 4.78,
+        "Mar": 4.81,
+        "Apr": 4.54,
+        "May": 3.97,
+        "Jun": 3.81,
+        "Jul": 3.75,
+        "Aug": 3.93,
+        "Sep": 3.92,
+        "Oct": 3.95,
+        "Nov": 3.77,
+        "Dec": 3.74
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Alor Setar",
+      "admin1_code": "02",
+      "location": [
+        6.12104,
+        100.36014
+      ],
+      "monthly": {
+        "Jan": 4.28,
+        "Feb": 4.79,
+        "Mar": 4.75,
+        "Apr": 4.49,
+        "May": 3.97,
+        "Jun": 3.8,
+        "Jul": 3.75,
+        "Aug": 3.93,
+        "Sep": 3.92,
+        "Oct": 3.91,
+        "Nov": 3.72,
+        "Dec": 3.74
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Tokai",
+      "admin1_code": "02",
+      "location": [
+        6.02867,
+        100.40691
+      ],
+      "monthly": {
+        "Jan": 4.36,
+        "Feb": 4.81,
+        "Mar": 4.75,
+        "Apr": 4.49,
+        "May": 3.96,
+        "Jun": 3.82,
+        "Jul": 3.82,
+        "Aug": 3.96,
+        "Sep": 3.94,
+        "Oct": 3.95,
+        "Nov": 3.79,
+        "Dec": 3.81
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Pokok Sena",
+      "admin1_code": "02",
+      "location": [
+        6.17055,
+        100.51885
+      ],
+      "monthly": {
+        "Jan": 4.19,
+        "Feb": 4.73,
+        "Mar": 4.67,
+        "Apr": 4.45,
+        "May": 3.92,
+        "Jun": 3.74,
+        "Jul": 3.68,
+        "Aug": 3.78,
+        "Sep": 3.79,
+        "Oct": 3.8,
+        "Nov": 3.63,
+        "Dec": 3.62
+      },
+      "average": 4
+    },
+    {
+      "name": "Wakaf Baharu",
+      "admin1_code": "03",
+      "location": [
+        6.11667,
+        102.2
+      ],
+      "monthly": {
+        "Jan": 3.44,
+        "Feb": 4.26,
+        "Mar": 4.63,
+        "Apr": 4.67,
+        "May": 4.16,
+        "Jun": 3.95,
+        "Jul": 3.88,
+        "Aug": 4.18,
+        "Sep": 4.21,
+        "Oct": 3.9,
+        "Nov": 3.21,
+        "Dec": 2.95
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Pasir Mas",
+      "admin1_code": "03",
+      "location": [
+        6.04934,
+        102.13987
+      ],
+      "monthly": {
+        "Jan": 3.45,
+        "Feb": 4.33,
+        "Mar": 4.73,
+        "Apr": 4.66,
+        "May": 4.13,
+        "Jun": 3.96,
+        "Jul": 3.89,
+        "Aug": 4.17,
+        "Sep": 4.2,
+        "Oct": 3.89,
+        "Nov": 3.2,
+        "Dec": 2.9
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Kota Bharu",
+      "admin1_code": "03",
+      "location": [
+        6.12361,
+        102.24333
+      ],
+      "monthly": {
+        "Jan": 3.49,
+        "Feb": 4.3,
+        "Mar": 4.67,
+        "Apr": 4.7,
+        "May": 4.15,
+        "Jun": 3.92,
+        "Jul": 3.85,
+        "Aug": 4.14,
+        "Sep": 4.18,
+        "Oct": 3.88,
+        "Nov": 3.21,
+        "Dec": 2.98
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Kudat",
+      "admin1_code": "16",
+      "location": [
+        6.88732,
+        116.82364
+      ],
+      "monthly": {
+        "Jan": 3.32,
+        "Feb": 4.09,
+        "Mar": 4.61,
+        "Apr": 4.76,
+        "May": 4.43,
+        "Jun": 3.95,
+        "Jul": 3.93,
+        "Aug": 4.27,
+        "Sep": 4.07,
+        "Oct": 4.01,
+        "Nov": 3.59,
+        "Dec": 3.4
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Saratok",
+      "admin1_code": "11",
+      "location": [
+        1.73333,
+        111.33333
+      ],
+      "monthly": {
+        "Jan": 3.19,
+        "Feb": 3.52,
+        "Mar": 3.74,
+        "Apr": 3.88,
+        "May": 3.82,
+        "Jun": 3.73,
+        "Jul": 3.85,
+        "Aug": 3.75,
+        "Sep": 3.73,
+        "Oct": 3.69,
+        "Nov": 3.64,
+        "Dec": 3.46
+      },
+      "average": 3.67
+    },
+    {
+      "name": "Daro",
+      "admin1_code": "11",
+      "location": [
+        2.51688,
+        111.43002
+      ],
+      "monthly": {
+        "Jan": 3.12,
+        "Feb": 3.51,
+        "Mar": 3.72,
+        "Apr": 3.87,
+        "May": 3.77,
+        "Jun": 3.69,
+        "Jul": 3.79,
+        "Aug": 3.72,
+        "Sep": 3.59,
+        "Oct": 3.63,
+        "Nov": 3.51,
+        "Dec": 3.37
+      },
+      "average": 3.61
+    },
+    {
+      "name": "Engkilili",
+      "admin1_code": "11",
+      "location": [
+        1.13864,
+        111.66665
+      ],
+      "monthly": {
+        "Jan": 3.36,
+        "Feb": 3.66,
+        "Mar": 3.8,
+        "Apr": 3.89,
+        "May": 3.77,
+        "Jun": 3.73,
+        "Jul": 3.84,
+        "Aug": 3.72,
+        "Sep": 3.69,
+        "Oct": 3.7,
+        "Nov": 3.59,
+        "Dec": 3.54
+      },
+      "average": 3.69
+    },
+    {
+      "name": "Betong",
+      "admin1_code": "11",
+      "location": [
+        1.4,
+        111.51667
+      ],
+      "monthly": {
+        "Jan": 3.29,
+        "Feb": 3.55,
+        "Mar": 3.78,
+        "Apr": 3.94,
+        "May": 3.79,
+        "Jun": 3.73,
+        "Jul": 3.84,
+        "Aug": 3.69,
+        "Sep": 3.66,
+        "Oct": 3.7,
+        "Nov": 3.58,
+        "Dec": 3.55
+      },
+      "average": 3.67
+    },
+    {
+      "name": "Dalat",
+      "admin1_code": "11",
+      "location": [
+        2.66667,
+        112.08333
+      ],
+      "monthly": {
+        "Jan": 3.12,
+        "Feb": 3.4,
+        "Mar": 3.62,
+        "Apr": 3.75,
+        "May": 3.67,
+        "Jun": 3.61,
+        "Jul": 3.72,
+        "Aug": 3.69,
+        "Sep": 3.6,
+        "Oct": 3.59,
+        "Nov": 3.45,
+        "Dec": 3.31
+      },
+      "average": 3.54
+    },
+    {
+      "name": "Kanowit",
+      "admin1_code": "11",
+      "location": [
+        2.1,
+        112.15
+      ],
+      "monthly": {
+        "Jan": 3.34,
+        "Feb": 3.63,
+        "Mar": 3.87,
+        "Apr": 4.03,
+        "May": 3.89,
+        "Jun": 3.75,
+        "Jul": 3.91,
+        "Aug": 3.89,
+        "Sep": 3.8,
+        "Oct": 3.81,
+        "Nov": 3.73,
+        "Dec": 3.61
+      },
+      "average": 3.77
+    },
+    {
+      "name": "Lundu",
+      "admin1_code": "11",
+      "location": [
+        1.67439,
+        109.85171
+      ],
+      "monthly": {
+        "Jan": 3.08,
+        "Feb": 3.42,
+        "Mar": 3.76,
+        "Apr": 4.15,
+        "May": 3.95,
+        "Jun": 3.77,
+        "Jul": 3.89,
+        "Aug": 3.79,
+        "Sep": 3.75,
+        "Oct": 3.69,
+        "Nov": 3.59,
+        "Dec": 3.28
+      },
+      "average": 3.68
+    },
+    {
+      "name": "Kapit",
+      "admin1_code": "11",
+      "location": [
+        1.99546,
+        112.93254
+      ],
+      "monthly": {
+        "Jan": 3.4,
+        "Feb": 3.68,
+        "Mar": 3.89,
+        "Apr": 3.98,
+        "May": 3.88,
+        "Jun": 3.78,
+        "Jul": 3.92,
+        "Aug": 3.95,
+        "Sep": 3.88,
+        "Oct": 3.89,
+        "Nov": 3.78,
+        "Dec": 3.59
+      },
+      "average": 3.8
+    },
+    {
+      "name": "Niah",
+      "admin1_code": "11",
+      "location": [
+        3.86203,
+        113.71521
+      ],
+      "monthly": {
+        "Jan": 3.4,
+        "Feb": 3.71,
+        "Mar": 3.96,
+        "Apr": 4.04,
+        "May": 3.8,
+        "Jun": 3.65,
+        "Jul": 3.75,
+        "Aug": 3.84,
+        "Sep": 3.81,
+        "Oct": 3.78,
+        "Nov": 3.76,
+        "Dec": 3.54
+      },
+      "average": 3.75
+    },
+    {
+      "name": "Belaga",
+      "admin1_code": "11",
+      "location": [
+        2.7,
+        113.78333
+      ],
+      "monthly": {
+        "Jan": 3.58,
+        "Feb": 3.82,
+        "Mar": 4.02,
+        "Apr": 4.11,
+        "May": 3.9,
+        "Jun": 3.77,
+        "Jul": 3.92,
+        "Aug": 3.97,
+        "Sep": 3.94,
+        "Oct": 3.92,
+        "Nov": 3.87,
+        "Dec": 3.69
+      },
+      "average": 3.88
+    },
+    {
+      "name": "Bintulu",
+      "admin1_code": "11",
+      "location": [
+        3.16667,
+        113.03333
+      ],
+      "monthly": {
+        "Jan": 3.39,
+        "Feb": 3.67,
+        "Mar": 3.99,
+        "Apr": 4.03,
+        "May": 3.83,
+        "Jun": 3.65,
+        "Jul": 3.79,
+        "Aug": 3.88,
+        "Sep": 3.8,
+        "Oct": 3.84,
+        "Nov": 3.7,
+        "Dec": 3.54
+      },
+      "average": 3.76
+    },
+    {
+      "name": "Sebauh",
+      "admin1_code": "11",
+      "location": [
+        3.11667,
+        113.26667
+      ],
+      "monthly": {
+        "Jan": 3.42,
+        "Feb": 3.61,
+        "Mar": 3.92,
+        "Apr": 4.01,
+        "May": 3.84,
+        "Jun": 3.7,
+        "Jul": 3.84,
+        "Aug": 3.89,
+        "Sep": 3.84,
+        "Oct": 3.81,
+        "Nov": 3.74,
+        "Dec": 3.57
+      },
+      "average": 3.77
+    },
+    {
+      "name": "Lawas",
+      "admin1_code": "11",
+      "location": [
+        4.8604,
+        115.409
+      ],
+      "monthly": {
+        "Jan": 3.64,
+        "Feb": 4.05,
+        "Mar": 4.18,
+        "Apr": 4.29,
+        "May": 3.96,
+        "Jun": 3.79,
+        "Jul": 3.88,
+        "Aug": 4.09,
+        "Sep": 4.04,
+        "Oct": 4.03,
+        "Nov": 3.91,
+        "Dec": 3.75
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Limbang",
+      "admin1_code": "11",
+      "location": [
+        4.75477,
+        115.01011
+      ],
+      "monthly": {
+        "Jan": 3.75,
+        "Feb": 4.09,
+        "Mar": 4.25,
+        "Apr": 4.23,
+        "May": 3.98,
+        "Jun": 3.79,
+        "Jul": 3.84,
+        "Aug": 4.02,
+        "Sep": 4.01,
+        "Oct": 4.05,
+        "Nov": 4.01,
+        "Dec": 3.87
+      },
+      "average": 3.99
+    },
+    {
+      "name": "Marudi",
+      "admin1_code": "11",
+      "location": [
+        4.18333,
+        114.31667
+      ],
+      "monthly": {
+        "Jan": 3.54,
+        "Feb": 3.83,
+        "Mar": 4.11,
+        "Apr": 4.24,
+        "May": 4.01,
+        "Jun": 3.81,
+        "Jul": 3.9,
+        "Aug": 4.01,
+        "Sep": 4,
+        "Oct": 3.94,
+        "Nov": 3.95,
+        "Dec": 3.71
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Beluru",
+      "admin1_code": "11",
+      "location": [
+        3.98333,
+        114.1
+      ],
+      "monthly": {
+        "Jan": 3.52,
+        "Feb": 3.77,
+        "Mar": 4.05,
+        "Apr": 4.2,
+        "May": 3.97,
+        "Jun": 3.8,
+        "Jul": 3.89,
+        "Aug": 4,
+        "Sep": 3.99,
+        "Oct": 3.94,
+        "Nov": 3.92,
+        "Dec": 3.71
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Miri",
+      "admin1_code": "11",
+      "location": [
+        4.39928,
+        113.99163
+      ],
+      "monthly": {
+        "Jan": 3.41,
+        "Feb": 3.78,
+        "Mar": 4.06,
+        "Apr": 4.13,
+        "May": 3.91,
+        "Jun": 3.74,
+        "Jul": 3.84,
+        "Aug": 3.96,
+        "Sep": 3.95,
+        "Oct": 3.92,
+        "Nov": 3.86,
+        "Dec": 3.58
+      },
+      "average": 3.85
+    },
+    {
+      "name": "Ulu Tiram",
+      "admin1_code": "01",
+      "location": [
+        1.6,
+        103.81667
+      ],
+      "monthly": {
+        "Jan": 3.47,
+        "Feb": 4.09,
+        "Mar": 4.07,
+        "Apr": 3.71,
+        "May": 3.41,
+        "Jun": 3.22,
+        "Jul": 3.29,
+        "Aug": 3.35,
+        "Sep": 3.58,
+        "Oct": 3.53,
+        "Nov": 3.33,
+        "Dec": 3.22
+      },
+      "average": 3.52
+    },
+    {
+      "name": "Ulu Kelang",
+      "admin1_code": "12",
+      "location": [
+        3.18,
+        101.773
+      ],
+      "monthly": {
+        "Jan": 3.49,
+        "Feb": 4.02,
+        "Mar": 4.07,
+        "Apr": 3.78,
+        "May": 3.6,
+        "Jun": 3.43,
+        "Jul": 3.36,
+        "Aug": 3.47,
+        "Sep": 3.62,
+        "Oct": 3.59,
+        "Nov": 3.32,
+        "Dec": 3.23
+      },
+      "average": 3.58
+    },
+    {
+      "name": "Tanjung Sepat",
+      "admin1_code": "12",
+      "location": [
+        2.6579,
+        101.5629
+      ],
+      "monthly": {
+        "Jan": 3.66,
+        "Feb": 4.29,
+        "Mar": 4.41,
+        "Apr": 4.11,
+        "May": 3.91,
+        "Jun": 3.71,
+        "Jul": 3.76,
+        "Aug": 3.89,
+        "Sep": 3.97,
+        "Oct": 3.86,
+        "Nov": 3.58,
+        "Dec": 3.32
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Sungai Lalang",
+      "admin1_code": "02",
+      "location": [
+        5.6998,
+        100.51449
+      ],
+      "monthly": {
+        "Jan": 4.09,
+        "Feb": 4.62,
+        "Mar": 4.61,
+        "Apr": 4.33,
+        "May": 3.88,
+        "Jun": 3.67,
+        "Jul": 3.68,
+        "Aug": 3.8,
+        "Sep": 3.84,
+        "Oct": 3.83,
+        "Nov": 3.68,
+        "Dec": 3.67
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Sungai Dua",
+      "admin1_code": "09",
+      "location": [
+        5.44266,
+        100.42972
+      ],
+      "monthly": {
+        "Jan": 4.16,
+        "Feb": 4.66,
+        "Mar": 4.55,
+        "Apr": 4.2,
+        "May": 3.79,
+        "Jun": 3.7,
+        "Jul": 3.72,
+        "Aug": 3.81,
+        "Sep": 3.83,
+        "Oct": 3.84,
+        "Nov": 3.73,
+        "Dec": 3.74
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Seri Kembangan",
+      "admin1_code": "12",
+      "location": [
+        3.03333,
+        101.71667
+      ],
+      "monthly": {
+        "Jan": 3.47,
+        "Feb": 3.95,
+        "Mar": 4.09,
+        "Apr": 3.87,
+        "May": 3.75,
+        "Jun": 3.54,
+        "Jul": 3.55,
+        "Aug": 3.64,
+        "Sep": 3.76,
+        "Oct": 3.7,
+        "Nov": 3.42,
+        "Dec": 3.27
+      },
+      "average": 3.67
+    },
+    {
+      "name": "Serian",
+      "admin1_code": "11",
+      "location": [
+        1.16667,
+        110.56667
+      ],
+      "monthly": {
+        "Jan": 3.11,
+        "Feb": 3.31,
+        "Mar": 3.64,
+        "Apr": 3.93,
+        "May": 3.84,
+        "Jun": 3.76,
+        "Jul": 3.89,
+        "Aug": 3.73,
+        "Sep": 3.7,
+        "Oct": 3.64,
+        "Nov": 3.57,
+        "Dec": 3.35
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Seputeh",
+      "admin1_code": "14",
+      "location": [
+        3.11667,
+        101.68333
+      ],
+      "monthly": {
+        "Jan": 3.47,
+        "Feb": 3.89,
+        "Mar": 4.04,
+        "Apr": 3.81,
+        "May": 3.63,
+        "Jun": 3.45,
+        "Jul": 3.44,
+        "Aug": 3.54,
+        "Sep": 3.69,
+        "Oct": 3.65,
+        "Nov": 3.39,
+        "Dec": 3.24
+      },
+      "average": 3.6
+    },
+    {
+      "name": "Sentul",
+      "admin1_code": "14",
+      "location": [
+        3.18333,
+        101.68333
+      ],
+      "monthly": {
+        "Jan": 3.5,
+        "Feb": 3.95,
+        "Mar": 4.08,
+        "Apr": 3.81,
+        "May": 3.64,
+        "Jun": 3.48,
+        "Jul": 3.43,
+        "Aug": 3.54,
+        "Sep": 3.68,
+        "Oct": 3.65,
+        "Nov": 3.39,
+        "Dec": 3.26
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Relau",
+      "admin1_code": "09",
+      "location": [
+        5.33096,
+        100.28296
+      ],
+      "monthly": {
+        "Jan": 4.12,
+        "Feb": 4.62,
+        "Mar": 4.52,
+        "Apr": 4.15,
+        "May": 3.8,
+        "Jun": 3.7,
+        "Jul": 3.73,
+        "Aug": 3.81,
+        "Sep": 3.81,
+        "Oct": 3.77,
+        "Nov": 3.67,
+        "Dec": 3.72
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Puchong",
+      "admin1_code": "12",
+      "location": [
+        3,
+        101.61667
+      ],
+      "monthly": {
+        "Jan": 3.45,
+        "Feb": 3.93,
+        "Mar": 4.09,
+        "Apr": 3.88,
+        "May": 3.79,
+        "Jun": 3.59,
+        "Jul": 3.59,
+        "Aug": 3.7,
+        "Sep": 3.79,
+        "Oct": 3.68,
+        "Nov": 3.41,
+        "Dec": 3.24
+      },
+      "average": 3.68
+    },
+    {
+      "name": "Permatang Kuching",
+      "admin1_code": "09",
+      "location": [
+        5.46339,
+        100.38144
+      ],
+      "monthly": {
+        "Jan": 4.16,
+        "Feb": 4.68,
+        "Mar": 4.57,
+        "Apr": 4.19,
+        "May": 3.72,
+        "Jun": 3.65,
+        "Jul": 3.67,
+        "Aug": 3.77,
+        "Sep": 3.8,
+        "Oct": 3.83,
+        "Nov": 3.74,
+        "Dec": 3.73
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Peringat",
+      "admin1_code": "03",
+      "location": [
+        6.03333,
+        102.28333
+      ],
+      "monthly": {
+        "Jan": 3.5,
+        "Feb": 4.36,
+        "Mar": 4.73,
+        "Apr": 4.69,
+        "May": 4.14,
+        "Jun": 3.92,
+        "Jul": 3.86,
+        "Aug": 4.16,
+        "Sep": 4.17,
+        "Oct": 3.85,
+        "Nov": 3.2,
+        "Dec": 2.96
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Ladang Seri Kundang",
+      "admin1_code": "12",
+      "location": [
+        3.2856,
+        101.519
+      ],
+      "monthly": {
+        "Jan": 3.61,
+        "Feb": 4.1,
+        "Mar": 4.21,
+        "Apr": 3.95,
+        "May": 3.79,
+        "Jun": 3.63,
+        "Jul": 3.54,
+        "Aug": 3.66,
+        "Sep": 3.76,
+        "Oct": 3.75,
+        "Nov": 3.51,
+        "Dec": 3.35
+      },
+      "average": 3.74
+    },
+    {
+      "name": "Pantai Remis",
+      "admin1_code": "07",
+      "location": [
+        4.4557,
+        100.6288
+      ],
+      "monthly": {
+        "Jan": 3.92,
+        "Feb": 4.45,
+        "Mar": 4.5,
+        "Apr": 4.23,
+        "May": 3.86,
+        "Jun": 3.81,
+        "Jul": 3.76,
+        "Aug": 3.91,
+        "Sep": 3.93,
+        "Oct": 3.91,
+        "Nov": 3.68,
+        "Dec": 3.63
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Padang Besar",
+      "admin1_code": "02",
+      "location": [
+        6.38333,
+        100.3
+      ],
+      "monthly": {
+        "Jan": 4.18,
+        "Feb": 4.69,
+        "Mar": 4.67,
+        "Apr": 4.48,
+        "May": 3.93,
+        "Jun": 3.78,
+        "Jul": 3.67,
+        "Aug": 3.85,
+        "Sep": 3.81,
+        "Oct": 3.82,
+        "Nov": 3.56,
+        "Dec": 3.61
+      },
+      "average": 4
+    },
+    {
+      "name": "Lukut",
+      "admin1_code": "05",
+      "location": [
+        2.5703,
+        101.833
+      ],
+      "monthly": {
+        "Jan": 3.6,
+        "Feb": 4.21,
+        "Mar": 4.3,
+        "Apr": 4.03,
+        "May": 3.82,
+        "Jun": 3.63,
+        "Jul": 3.67,
+        "Aug": 3.79,
+        "Sep": 3.93,
+        "Oct": 3.83,
+        "Nov": 3.54,
+        "Dec": 3.31
+      },
+      "average": 3.8
+    },
+    {
+      "name": "Kubang Semang",
+      "admin1_code": "09",
+      "location": [
+        5.40375,
+        100.45745
+      ],
+      "monthly": {
+        "Jan": 4.07,
+        "Feb": 4.57,
+        "Mar": 4.42,
+        "Apr": 4.05,
+        "May": 3.7,
+        "Jun": 3.65,
+        "Jul": 3.68,
+        "Aug": 3.76,
+        "Sep": 3.76,
+        "Oct": 3.74,
+        "Nov": 3.62,
+        "Dec": 3.67
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Kuang",
+      "admin1_code": "12",
+      "location": [
+        3.2594,
+        101.5541
+      ],
+      "monthly": {
+        "Jan": 3.55,
+        "Feb": 4.03,
+        "Mar": 4.14,
+        "Apr": 3.9,
+        "May": 3.74,
+        "Jun": 3.59,
+        "Jul": 3.5,
+        "Aug": 3.63,
+        "Sep": 3.73,
+        "Oct": 3.71,
+        "Nov": 3.45,
+        "Dec": 3.3
+      },
+      "average": 3.69
+    },
+    {
+      "name": "Kuala Ketil",
+      "admin1_code": "02",
+      "location": [
+        5.6,
+        100.65
+      ],
+      "monthly": {
+        "Jan": 4.1,
+        "Feb": 4.64,
+        "Mar": 4.6,
+        "Apr": 4.31,
+        "May": 3.88,
+        "Jun": 3.69,
+        "Jul": 3.68,
+        "Aug": 3.77,
+        "Sep": 3.81,
+        "Oct": 3.82,
+        "Nov": 3.69,
+        "Dec": 3.67
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Kepong",
+      "admin1_code": "14",
+      "location": [
+        3.21398,
+        101.64018
+      ],
+      "monthly": {
+        "Jan": 3.49,
+        "Feb": 3.96,
+        "Mar": 4.09,
+        "Apr": 3.83,
+        "May": 3.66,
+        "Jun": 3.5,
+        "Jul": 3.43,
+        "Aug": 3.54,
+        "Sep": 3.68,
+        "Oct": 3.68,
+        "Nov": 3.4,
+        "Dec": 3.25
+      },
+      "average": 3.63
+    },
+    {
+      "name": "Klebang Besar",
+      "admin1_code": "04",
+      "location": [
+        2.2186,
+        102.1995
+      ],
+      "monthly": {
+        "Jan": 3.64,
+        "Feb": 4.25,
+        "Mar": 4.31,
+        "Apr": 4.13,
+        "May": 3.93,
+        "Jun": 3.68,
+        "Jul": 3.71,
+        "Aug": 3.81,
+        "Sep": 4.04,
+        "Oct": 3.94,
+        "Nov": 3.65,
+        "Dec": 3.39
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Kampung Kangkar Teberau",
+      "admin1_code": "01",
+      "location": [
+        1.532,
+        103.7549
+      ],
+      "monthly": {
+        "Jan": 3.42,
+        "Feb": 3.99,
+        "Mar": 3.98,
+        "Apr": 3.66,
+        "May": 3.43,
+        "Jun": 3.27,
+        "Jul": 3.37,
+        "Aug": 3.41,
+        "Sep": 3.62,
+        "Oct": 3.52,
+        "Nov": 3.29,
+        "Dec": 3.2
+      },
+      "average": 3.51
+    },
+    {
+      "name": "Kampung Tanjung Minyak",
+      "admin1_code": "04",
+      "location": [
+        2.2666,
+        102.2004
+      ],
+      "monthly": {
+        "Jan": 3.62,
+        "Feb": 4.22,
+        "Mar": 4.26,
+        "Apr": 4.05,
+        "May": 3.85,
+        "Jun": 3.62,
+        "Jul": 3.65,
+        "Aug": 3.75,
+        "Sep": 3.98,
+        "Oct": 3.89,
+        "Nov": 3.59,
+        "Dec": 3.36
+      },
+      "average": 3.82
+    },
+    {
+      "name": "Kampung Tanjung Karang",
+      "admin1_code": "12",
+      "location": [
+        3.4242,
+        101.1849
+      ],
+      "monthly": {
+        "Jan": 3.82,
+        "Feb": 4.33,
+        "Mar": 4.42,
+        "Apr": 4.13,
+        "May": 3.96,
+        "Jun": 3.82,
+        "Jul": 3.75,
+        "Aug": 3.9,
+        "Sep": 4,
+        "Oct": 3.91,
+        "Nov": 3.68,
+        "Dec": 3.48
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Kampung Sungai Kajang",
+      "admin1_code": "12",
+      "location": [
+        3.4161,
+        101.173
+      ],
+      "monthly": {
+        "Jan": 3.83,
+        "Feb": 4.36,
+        "Mar": 4.44,
+        "Apr": 4.15,
+        "May": 3.98,
+        "Jun": 3.84,
+        "Jul": 3.78,
+        "Aug": 3.93,
+        "Sep": 4.02,
+        "Oct": 3.94,
+        "Nov": 3.71,
+        "Dec": 3.5
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Kampung Sungai Glugur",
+      "admin1_code": "09",
+      "location": [
+        5.36966,
+        100.31353
+      ],
+      "monthly": {
+        "Jan": 4.02,
+        "Feb": 4.54,
+        "Mar": 4.43,
+        "Apr": 4.05,
+        "May": 3.67,
+        "Jun": 3.61,
+        "Jul": 3.63,
+        "Aug": 3.69,
+        "Sep": 3.7,
+        "Oct": 3.7,
+        "Nov": 3.61,
+        "Dec": 3.65
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Kampung Sungai Ara",
+      "admin1_code": "09",
+      "location": [
+        5.32699,
+        100.27348
+      ],
+      "monthly": {
+        "Jan": 4.11,
+        "Feb": 4.62,
+        "Mar": 4.51,
+        "Apr": 4.13,
+        "May": 3.79,
+        "Jun": 3.7,
+        "Jul": 3.73,
+        "Aug": 3.81,
+        "Sep": 3.81,
+        "Oct": 3.76,
+        "Nov": 3.66,
+        "Dec": 3.71
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Kampung Simpang Renggam",
+      "admin1_code": "01",
+      "location": [
+        1.8278,
+        103.3
+      ],
+      "monthly": {
+        "Jan": 3.52,
+        "Feb": 4.07,
+        "Mar": 4.05,
+        "Apr": 3.83,
+        "May": 3.52,
+        "Jun": 3.32,
+        "Jul": 3.38,
+        "Aug": 3.39,
+        "Sep": 3.61,
+        "Oct": 3.6,
+        "Nov": 3.4,
+        "Dec": 3.29
+      },
+      "average": 3.58
+    },
+    {
+      "name": "Kampong Sidam",
+      "admin1_code": "02",
+      "location": [
+        5.53333,
+        100.56667
+      ],
+      "monthly": {
+        "Jan": 4.12,
+        "Feb": 4.63,
+        "Mar": 4.57,
+        "Apr": 4.22,
+        "May": 3.84,
+        "Jun": 3.67,
+        "Jul": 3.68,
+        "Aug": 3.77,
+        "Sep": 3.81,
+        "Oct": 3.79,
+        "Nov": 3.68,
+        "Dec": 3.7
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Kampung Selang",
+      "admin1_code": "01",
+      "location": [
+        2.35,
+        102.876
+      ],
+      "monthly": {
+        "Jan": 3.46,
+        "Feb": 4.02,
+        "Mar": 4.08,
+        "Apr": 3.9,
+        "May": 3.66,
+        "Jun": 3.43,
+        "Jul": 3.43,
+        "Aug": 3.54,
+        "Sep": 3.72,
+        "Oct": 3.68,
+        "Nov": 3.4,
+        "Dec": 3.2
+      },
+      "average": 3.63
+    },
+    {
+      "name": "Pendang",
+      "admin1_code": "02",
+      "location": [
+        5.99516,
+        100.47885
+      ],
+      "monthly": {
+        "Jan": 4.28,
+        "Feb": 4.72,
+        "Mar": 4.65,
+        "Apr": 4.41,
+        "May": 3.94,
+        "Jun": 3.78,
+        "Jul": 3.76,
+        "Aug": 3.86,
+        "Sep": 3.9,
+        "Oct": 3.9,
+        "Nov": 3.74,
+        "Dec": 3.74
+      },
+      "average": 4.06
+    },
+    {
+      "name": "Kampong Pangkal Kalong",
+      "admin1_code": "03",
+      "location": [
+        5.91667,
+        102.21667
+      ],
+      "monthly": {
+        "Jan": 3.4,
+        "Feb": 4.28,
+        "Mar": 4.65,
+        "Apr": 4.57,
+        "May": 4.09,
+        "Jun": 3.94,
+        "Jul": 3.86,
+        "Aug": 4.15,
+        "Sep": 4.16,
+        "Oct": 3.83,
+        "Nov": 3.18,
+        "Dec": 2.87
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Kampung Minyak Beku",
+      "admin1_code": "01",
+      "location": [
+        1.7954,
+        102.8971
+      ],
+      "monthly": {
+        "Jan": 3.51,
+        "Feb": 4.07,
+        "Mar": 4.18,
+        "Apr": 4.01,
+        "May": 3.76,
+        "Jun": 3.54,
+        "Jul": 3.59,
+        "Aug": 3.66,
+        "Sep": 3.84,
+        "Oct": 3.84,
+        "Nov": 3.58,
+        "Dec": 3.35
+      },
+      "average": 3.74
+    },
+    {
+      "name": "Kampong Masjid Tanah",
+      "admin1_code": "04",
+      "location": [
+        2.35,
+        102.11667
+      ],
+      "monthly": {
+        "Jan": 3.57,
+        "Feb": 4.16,
+        "Mar": 4.24,
+        "Apr": 4.02,
+        "May": 3.81,
+        "Jun": 3.59,
+        "Jul": 3.62,
+        "Aug": 3.72,
+        "Sep": 3.93,
+        "Oct": 3.86,
+        "Nov": 3.55,
+        "Dec": 3.31
+      },
+      "average": 3.78
+    },
+    {
+      "name": "Kampung Machap Baru",
+      "admin1_code": "04",
+      "location": [
+        2.3829,
+        102.3311
+      ],
+      "monthly": {
+        "Jan": 3.61,
+        "Feb": 4.19,
+        "Mar": 4.17,
+        "Apr": 3.93,
+        "May": 3.66,
+        "Jun": 3.44,
+        "Jul": 3.47,
+        "Aug": 3.58,
+        "Sep": 3.79,
+        "Oct": 3.77,
+        "Nov": 3.52,
+        "Dec": 3.35
+      },
+      "average": 3.71
+    },
+    {
+      "name": "Kampung Kerubong",
+      "admin1_code": "04",
+      "location": [
+        2.2958,
+        102.2537
+      ],
+      "monthly": {
+        "Jan": 3.63,
+        "Feb": 4.19,
+        "Mar": 4.21,
+        "Apr": 3.97,
+        "May": 3.75,
+        "Jun": 3.53,
+        "Jul": 3.56,
+        "Aug": 3.66,
+        "Sep": 3.88,
+        "Oct": 3.81,
+        "Nov": 3.53,
+        "Dec": 3.36
+      },
+      "average": 3.76
+    },
+    {
+      "name": "Kampong Kadok",
+      "admin1_code": "03",
+      "location": [
+        6,
+        102.25
+      ],
+      "monthly": {
+        "Jan": 3.47,
+        "Feb": 4.35,
+        "Mar": 4.73,
+        "Apr": 4.65,
+        "May": 4.11,
+        "Jun": 3.93,
+        "Jul": 3.87,
+        "Aug": 4.16,
+        "Sep": 4.18,
+        "Oct": 3.85,
+        "Nov": 3.21,
+        "Dec": 2.93
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Ijok",
+      "admin1_code": "12",
+      "location": [
+        3.31667,
+        101.4
+      ],
+      "monthly": {
+        "Jan": 3.72,
+        "Feb": 4.22,
+        "Mar": 4.31,
+        "Apr": 4.01,
+        "May": 3.84,
+        "Jun": 3.67,
+        "Jul": 3.59,
+        "Aug": 3.71,
+        "Sep": 3.8,
+        "Oct": 3.79,
+        "Nov": 3.58,
+        "Dec": 3.43
+      },
+      "average": 3.81
+    },
+    {
+      "name": "Kampong Dungun",
+      "admin1_code": "07",
+      "location": [
+        3.21667,
+        101.31667
+      ],
+      "monthly": {
+        "Jan": 3.79,
+        "Feb": 4.3,
+        "Mar": 4.39,
+        "Apr": 4.09,
+        "May": 3.88,
+        "Jun": 3.73,
+        "Jul": 3.65,
+        "Aug": 3.82,
+        "Sep": 3.92,
+        "Oct": 3.89,
+        "Nov": 3.66,
+        "Dec": 3.47
+      },
+      "average": 3.88
+    },
+    {
+      "name": "Kampung Cheng",
+      "admin1_code": "04",
+      "location": [
+        2.2635,
+        102.2179
+      ],
+      "monthly": {
+        "Jan": 3.62,
+        "Feb": 4.21,
+        "Mar": 4.24,
+        "Apr": 4.03,
+        "May": 3.84,
+        "Jun": 3.61,
+        "Jul": 3.63,
+        "Aug": 3.74,
+        "Sep": 3.96,
+        "Oct": 3.88,
+        "Nov": 3.57,
+        "Dec": 3.36
+      },
+      "average": 3.81
+    },
+    {
+      "name": "Kampung Bukit Baharu",
+      "admin1_code": "04",
+      "location": [
+        2.2152,
+        102.2851
+      ],
+      "monthly": {
+        "Jan": 3.61,
+        "Feb": 4.2,
+        "Mar": 4.26,
+        "Apr": 4.04,
+        "May": 3.87,
+        "Jun": 3.63,
+        "Jul": 3.66,
+        "Aug": 3.78,
+        "Sep": 4,
+        "Oct": 3.88,
+        "Nov": 3.57,
+        "Dec": 3.35
+      },
+      "average": 3.82
+    },
+    {
+      "name": "Kampung Baru Subang",
+      "admin1_code": "12",
+      "location": [
+        3.15,
+        101.53333
+      ],
+      "monthly": {
+        "Jan": 3.53,
+        "Feb": 3.99,
+        "Mar": 4.12,
+        "Apr": 3.89,
+        "May": 3.72,
+        "Jun": 3.55,
+        "Jul": 3.51,
+        "Aug": 3.61,
+        "Sep": 3.72,
+        "Oct": 3.71,
+        "Nov": 3.48,
+        "Dec": 3.3
+      },
+      "average": 3.68
+    },
+    {
+      "name": "Kampung Baharu Nilai",
+      "admin1_code": "05",
+      "location": [
+        2.8033,
+        101.7972
+      ],
+      "monthly": {
+        "Jan": 3.55,
+        "Feb": 4.07,
+        "Mar": 4.12,
+        "Apr": 3.87,
+        "May": 3.71,
+        "Jun": 3.53,
+        "Jul": 3.59,
+        "Aug": 3.69,
+        "Sep": 3.78,
+        "Oct": 3.67,
+        "Nov": 3.44,
+        "Dec": 3.28
+      },
+      "average": 3.69
+    },
+    {
+      "name": "Kampong Baharu Cheras Batu Sebelas",
+      "admin1_code": "12",
+      "location": [
+        3.05,
+        101.76667
+      ],
+      "monthly": {
+        "Jan": 3.51,
+        "Feb": 4,
+        "Mar": 4.12,
+        "Apr": 3.87,
+        "May": 3.71,
+        "Jun": 3.5,
+        "Jul": 3.5,
+        "Aug": 3.59,
+        "Sep": 3.73,
+        "Oct": 3.68,
+        "Nov": 3.42,
+        "Dec": 3.29
+      },
+      "average": 3.66
+    },
+    {
+      "name": "Kampung Baru Balakong",
+      "admin1_code": "12",
+      "location": [
+        3.02938,
+        101.74714
+      ],
+      "monthly": {
+        "Jan": 3.5,
+        "Feb": 3.97,
+        "Mar": 4.11,
+        "Apr": 3.88,
+        "May": 3.74,
+        "Jun": 3.53,
+        "Jul": 3.54,
+        "Aug": 3.63,
+        "Sep": 3.76,
+        "Oct": 3.7,
+        "Nov": 3.43,
+        "Dec": 3.29
+      },
+      "average": 3.67
+    },
+    {
+      "name": "Kampung Ayer Molek",
+      "admin1_code": "04",
+      "location": [
+        2.2139,
+        102.3278
+      ],
+      "monthly": {
+        "Jan": 3.6,
+        "Feb": 4.19,
+        "Mar": 4.23,
+        "Apr": 3.99,
+        "May": 3.81,
+        "Jun": 3.58,
+        "Jul": 3.62,
+        "Aug": 3.73,
+        "Sep": 3.95,
+        "Oct": 3.84,
+        "Nov": 3.54,
+        "Dec": 3.33
+      },
+      "average": 3.78
+    },
+    {
+      "name": "Anak Bukit",
+      "admin1_code": "02",
+      "location": [
+        6.184,
+        100.37752
+      ],
+      "monthly": {
+        "Jan": 4.25,
+        "Feb": 4.75,
+        "Mar": 4.72,
+        "Apr": 4.5,
+        "May": 3.96,
+        "Jun": 3.78,
+        "Jul": 3.72,
+        "Aug": 3.88,
+        "Sep": 3.86,
+        "Oct": 3.88,
+        "Nov": 3.69,
+        "Dec": 3.69
+      },
+      "average": 4.06
+    },
+    {
+      "name": "Jelutong",
+      "admin1_code": "09",
+      "location": [
+        5.38998,
+        100.31885
+      ],
+      "monthly": {
+        "Jan": 4.03,
+        "Feb": 4.55,
+        "Mar": 4.43,
+        "Apr": 4.04,
+        "May": 3.65,
+        "Jun": 3.6,
+        "Jul": 3.62,
+        "Aug": 3.67,
+        "Sep": 3.69,
+        "Oct": 3.71,
+        "Nov": 3.62,
+        "Dec": 3.66
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Jawi",
+      "admin1_code": "09",
+      "location": [
+        5.21525,
+        100.49211
+      ],
+      "monthly": {
+        "Jan": 4,
+        "Feb": 4.54,
+        "Mar": 4.45,
+        "Apr": 4.15,
+        "May": 3.8,
+        "Jun": 3.72,
+        "Jul": 3.75,
+        "Aug": 3.82,
+        "Sep": 3.84,
+        "Oct": 3.77,
+        "Nov": 3.62,
+        "Dec": 3.63
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Cheras",
+      "admin1_code": "12",
+      "location": [
+        3.108,
+        101.726
+      ],
+      "monthly": {
+        "Jan": 3.47,
+        "Feb": 3.92,
+        "Mar": 4.06,
+        "Apr": 3.82,
+        "May": 3.66,
+        "Jun": 3.48,
+        "Jul": 3.47,
+        "Aug": 3.55,
+        "Sep": 3.7,
+        "Oct": 3.66,
+        "Nov": 3.39,
+        "Dec": 3.25
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Bukit Tengah",
+      "admin1_code": "09",
+      "location": [
+        5.34605,
+        100.43917
+      ],
+      "monthly": {
+        "Jan": 4.04,
+        "Feb": 4.56,
+        "Mar": 4.44,
+        "Apr": 4.1,
+        "May": 3.74,
+        "Jun": 3.69,
+        "Jul": 3.73,
+        "Aug": 3.8,
+        "Sep": 3.81,
+        "Oct": 3.76,
+        "Nov": 3.64,
+        "Dec": 3.66
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Bukit Tambun",
+      "admin1_code": "09",
+      "location": [
+        5.27179,
+        100.4601
+      ],
+      "monthly": {
+        "Jan": 4.04,
+        "Feb": 4.56,
+        "Mar": 4.49,
+        "Apr": 4.16,
+        "May": 3.8,
+        "Jun": 3.72,
+        "Jul": 3.76,
+        "Aug": 3.83,
+        "Sep": 3.85,
+        "Oct": 3.8,
+        "Nov": 3.65,
+        "Dec": 3.66
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Bukit Rambai",
+      "admin1_code": "04",
+      "location": [
+        2.2594,
+        102.1838
+      ],
+      "monthly": {
+        "Jan": 3.62,
+        "Feb": 4.22,
+        "Mar": 4.28,
+        "Apr": 4.07,
+        "May": 3.87,
+        "Jun": 3.63,
+        "Jul": 3.66,
+        "Aug": 3.76,
+        "Sep": 3.98,
+        "Oct": 3.9,
+        "Nov": 3.6,
+        "Dec": 3.36
+      },
+      "average": 3.83
+    },
+    {
+      "name": "Bukit Gambir",
+      "admin1_code": "01",
+      "location": [
+        2.211,
+        102.6546
+      ],
+      "monthly": {
+        "Jan": 3.56,
+        "Feb": 4.11,
+        "Mar": 4.11,
+        "Apr": 3.88,
+        "May": 3.64,
+        "Jun": 3.41,
+        "Jul": 3.45,
+        "Aug": 3.52,
+        "Sep": 3.75,
+        "Oct": 3.73,
+        "Nov": 3.49,
+        "Dec": 3.32
+      },
+      "average": 3.66
+    },
+    {
+      "name": "Kampung Bertam Ulu",
+      "admin1_code": "04",
+      "location": [
+        2.2898,
+        102.1928
+      ],
+      "monthly": {
+        "Jan": 3.62,
+        "Feb": 4.2,
+        "Mar": 4.24,
+        "Apr": 4.02,
+        "May": 3.81,
+        "Jun": 3.58,
+        "Jul": 3.6,
+        "Aug": 3.71,
+        "Sep": 3.94,
+        "Oct": 3.87,
+        "Nov": 3.56,
+        "Dec": 3.35
+      },
+      "average": 3.79
+    },
+    {
+      "name": "Bentong Town",
+      "admin1_code": "06",
+      "location": [
+        3.52229,
+        101.90866
+      ],
+      "monthly": {
+        "Jan": 3.25,
+        "Feb": 3.81,
+        "Mar": 4.16,
+        "Apr": 4.08,
+        "May": 3.79,
+        "Jun": 3.68,
+        "Jul": 3.6,
+        "Aug": 3.7,
+        "Sep": 3.8,
+        "Oct": 3.71,
+        "Nov": 3.41,
+        "Dec": 3.06
+      },
+      "average": 3.67
+    },
+    {
+      "name": "Kampung Batu Empat",
+      "admin1_code": "01",
+      "location": [
+        1.776,
+        103.8736
+      ],
+      "monthly": {
+        "Jan": 3.43,
+        "Feb": 4.06,
+        "Mar": 4.13,
+        "Apr": 3.79,
+        "May": 3.49,
+        "Jun": 3.29,
+        "Jul": 3.3,
+        "Aug": 3.38,
+        "Sep": 3.61,
+        "Oct": 3.59,
+        "Nov": 3.31,
+        "Dec": 3.15
+      },
+      "average": 3.54
+    },
+    {
+      "name": "Batu Berendam",
+      "admin1_code": "04",
+      "location": [
+        2.2487,
+        102.246
+      ],
+      "monthly": {
+        "Jan": 3.61,
+        "Feb": 4.2,
+        "Mar": 4.23,
+        "Apr": 4.02,
+        "May": 3.84,
+        "Jun": 3.61,
+        "Jul": 3.64,
+        "Aug": 3.74,
+        "Sep": 3.97,
+        "Oct": 3.86,
+        "Nov": 3.55,
+        "Dec": 3.36
+      },
+      "average": 3.8
+    },
+    {
+      "name": "Ayer Itam",
+      "admin1_code": "09",
+      "location": [
+        5.40158,
+        100.27815
+      ],
+      "monthly": {
+        "Jan": 4.04,
+        "Feb": 4.51,
+        "Mar": 4.37,
+        "Apr": 3.98,
+        "May": 3.62,
+        "Jun": 3.54,
+        "Jul": 3.57,
+        "Aug": 3.64,
+        "Sep": 3.66,
+        "Oct": 3.68,
+        "Nov": 3.59,
+        "Dec": 3.67
+      },
+      "average": 3.82
+    },
+    {
+      "name": "Kampung Teluk Kumbar",
+      "admin1_code": "09",
+      "location": [
+        5.289,
+        100.247
+      ],
+      "monthly": {
+        "Jan": 4.17,
+        "Feb": 4.69,
+        "Mar": 4.6,
+        "Apr": 4.24,
+        "May": 3.85,
+        "Jun": 3.76,
+        "Jul": 3.77,
+        "Aug": 3.86,
+        "Sep": 3.86,
+        "Oct": 3.81,
+        "Nov": 3.72,
+        "Dec": 3.74
+      },
+      "average": 4.01
+    },
+    {
+      "name": "Putrajaya",
+      "admin1_code": "17",
+      "location": [
+        2.93527,
+        101.69112
+      ],
+      "monthly": {
+        "Jan": 3.5,
+        "Feb": 4,
+        "Mar": 4.16,
+        "Apr": 3.94,
+        "May": 3.82,
+        "Jun": 3.59,
+        "Jul": 3.61,
+        "Aug": 3.72,
+        "Sep": 3.83,
+        "Oct": 3.74,
+        "Nov": 3.47,
+        "Dec": 3.28
+      },
+      "average": 3.72
+    },
+    {
+      "name": "Kampung Baru Ulu Melaka",
+      "admin1_code": "02",
+      "location": [
+        6.35196,
+        99.78791
+      ],
+      "monthly": {
+        "Jan": 4.38,
+        "Feb": 4.95,
+        "Mar": 4.74,
+        "Apr": 4.3,
+        "May": 3.64,
+        "Jun": 3.48,
+        "Jul": 3.47,
+        "Aug": 3.63,
+        "Sep": 3.63,
+        "Oct": 3.69,
+        "Nov": 3.65,
+        "Dec": 3.82
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Sik",
+      "admin1_code": "02",
+      "location": [
+        5.83333,
+        100.75
+      ],
+      "monthly": {
+        "Jan": 3.92,
+        "Feb": 4.49,
+        "Mar": 4.49,
+        "Apr": 4.21,
+        "May": 3.78,
+        "Jun": 3.64,
+        "Jul": 3.61,
+        "Aug": 3.7,
+        "Sep": 3.7,
+        "Oct": 3.65,
+        "Nov": 3.48,
+        "Dec": 3.45
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Kampung Alor Mengkudu",
+      "admin1_code": "02",
+      "location": [
+        6.08838,
+        100.39167
+      ],
+      "monthly": {
+        "Jan": 4.32,
+        "Feb": 4.8,
+        "Mar": 4.74,
+        "Apr": 4.49,
+        "May": 3.97,
+        "Jun": 3.82,
+        "Jul": 3.79,
+        "Aug": 3.94,
+        "Sep": 3.92,
+        "Oct": 3.9,
+        "Nov": 3.74,
+        "Dec": 3.74
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Kampung Hutan Arau",
+      "admin1_code": "08",
+      "location": [
+        6.42942,
+        100.28174
+      ],
+      "monthly": {
+        "Jan": 4.15,
+        "Feb": 4.7,
+        "Mar": 4.66,
+        "Apr": 4.46,
+        "May": 3.92,
+        "Jun": 3.76,
+        "Jul": 3.65,
+        "Aug": 3.85,
+        "Sep": 3.8,
+        "Oct": 3.78,
+        "Nov": 3.52,
+        "Dec": 3.57
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Glugor",
+      "admin1_code": "09",
+      "location": [
+        5.37215,
+        100.30708
+      ],
+      "monthly": {
+        "Jan": 4.03,
+        "Feb": 4.54,
+        "Mar": 4.43,
+        "Apr": 4.05,
+        "May": 3.68,
+        "Jun": 3.61,
+        "Jul": 3.63,
+        "Aug": 3.69,
+        "Sep": 3.7,
+        "Oct": 3.7,
+        "Nov": 3.61,
+        "Dec": 3.66
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Teloi Kanan",
+      "admin1_code": "02",
+      "location": [
+        5.71681,
+        100.65819
+      ],
+      "monthly": {
+        "Jan": 3.97,
+        "Feb": 4.5,
+        "Mar": 4.53,
+        "Apr": 4.28,
+        "May": 3.84,
+        "Jun": 3.65,
+        "Jul": 3.63,
+        "Aug": 3.73,
+        "Sep": 3.76,
+        "Oct": 3.73,
+        "Nov": 3.59,
+        "Dec": 3.54
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Kota Kuala Muda",
+      "admin1_code": "02",
+      "location": [
+        5.58822,
+        100.37085
+      ],
+      "monthly": {
+        "Jan": 4.21,
+        "Feb": 4.74,
+        "Mar": 4.68,
+        "Apr": 4.4,
+        "May": 3.96,
+        "Jun": 3.82,
+        "Jul": 3.8,
+        "Aug": 3.91,
+        "Sep": 3.95,
+        "Oct": 3.97,
+        "Nov": 3.86,
+        "Dec": 3.79
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Cyberjaya",
+      "admin1_code": "12",
+      "location": [
+        2.92281,
+        101.65718
+      ],
+      "monthly": {
+        "Jan": 3.52,
+        "Feb": 4.02,
+        "Mar": 4.17,
+        "Apr": 3.95,
+        "May": 3.82,
+        "Jun": 3.59,
+        "Jul": 3.62,
+        "Aug": 3.72,
+        "Sep": 3.83,
+        "Oct": 3.74,
+        "Nov": 3.48,
+        "Dec": 3.29
+      },
+      "average": 3.73
+    },
+    {
+      "name": "Bandar Labuan",
+      "admin1_code": "16",
+      "location": [
+        5.28319,
+        115.25371
+      ],
+      "monthly": {
+        "Jan": 3.93,
+        "Feb": 4.48,
+        "Mar": 4.65,
+        "Apr": 4.63,
+        "May": 4.29,
+        "Jun": 3.96,
+        "Jul": 4.01,
+        "Aug": 4.26,
+        "Sep": 4.17,
+        "Oct": 4.2,
+        "Nov": 4.24,
+        "Dec": 4.01
+      },
+      "average": 4.24
+    },
+    {
+      "name": "Bercham",
+      "admin1_code": "07",
+      "location": [
+        4.6411,
+        101.1393
+      ],
+      "monthly": {
+        "Jan": 3.74,
+        "Feb": 4.3,
+        "Mar": 4.3,
+        "Apr": 4.05,
+        "May": 3.78,
+        "Jun": 3.76,
+        "Jul": 3.73,
+        "Aug": 3.77,
+        "Sep": 3.81,
+        "Oct": 3.7,
+        "Nov": 3.47,
+        "Dec": 3.42
+      },
+      "average": 3.82
+    },
+    {
+      "name": "Kampung Manjoi",
+      "admin1_code": "07",
+      "location": [
+        4.6192,
+        101.0685
+      ],
+      "monthly": {
+        "Jan": 3.74,
+        "Feb": 4.26,
+        "Mar": 4.3,
+        "Apr": 4.05,
+        "May": 3.8,
+        "Jun": 3.74,
+        "Jul": 3.7,
+        "Aug": 3.75,
+        "Sep": 3.8,
+        "Oct": 3.71,
+        "Nov": 3.47,
+        "Dec": 3.45
+      },
+      "average": 3.81
+    },
+    {
+      "name": "Kampung Perak",
+      "admin1_code": "06",
+      "location": [
+        3.8682,
+        102.5862
+      ],
+      "monthly": {
+        "Jan": 3.41,
+        "Feb": 4.03,
+        "Mar": 4.36,
+        "Apr": 4.22,
+        "May": 3.9,
+        "Jun": 3.75,
+        "Jul": 3.71,
+        "Aug": 3.92,
+        "Sep": 4.03,
+        "Oct": 3.81,
+        "Nov": 3.44,
+        "Dec": 3.11
+      },
+      "average": 3.81
+    },
+    {
+      "name": "Bandar Tenggara",
+      "admin1_code": "01",
+      "location": [
+        1.87,
+        103.6158
+      ],
+      "monthly": {
+        "Jan": 3.47,
+        "Feb": 4.07,
+        "Mar": 4.13,
+        "Apr": 3.84,
+        "May": 3.57,
+        "Jun": 3.33,
+        "Jul": 3.36,
+        "Aug": 3.4,
+        "Sep": 3.64,
+        "Oct": 3.64,
+        "Nov": 3.36,
+        "Dec": 3.22
+      },
+      "average": 3.59
+    },
+    {
+      "name": "Johor Jaya",
+      "admin1_code": "01",
+      "location": [
+        1.5392,
+        103.8092
+      ],
+      "monthly": {
+        "Jan": 3.44,
+        "Feb": 4.03,
+        "Mar": 4.01,
+        "Apr": 3.66,
+        "May": 3.41,
+        "Jun": 3.23,
+        "Jul": 3.33,
+        "Aug": 3.37,
+        "Sep": 3.59,
+        "Oct": 3.5,
+        "Nov": 3.27,
+        "Dec": 3.2
+      },
+      "average": 3.5
+    },
+    {
+      "name": "Taman Permas Jaya",
+      "admin1_code": "01",
+      "location": [
+        1.511,
+        103.8198
+      ],
+      "monthly": {
+        "Jan": 3.41,
+        "Feb": 3.98,
+        "Mar": 3.97,
+        "Apr": 3.64,
+        "May": 3.44,
+        "Jun": 3.26,
+        "Jul": 3.36,
+        "Aug": 3.41,
+        "Sep": 3.62,
+        "Oct": 3.5,
+        "Nov": 3.25,
+        "Dec": 3.19
+      },
+      "average": 3.5
+    },
+    {
+      "name": "Kawasan Penempatan Ulu Sungai Benut",
+      "admin1_code": "01",
+      "location": [
+        1.7541,
+        103.2798
+      ],
+      "monthly": {
+        "Jan": 3.44,
+        "Feb": 3.97,
+        "Mar": 3.96,
+        "Apr": 3.79,
+        "May": 3.55,
+        "Jun": 3.37,
+        "Jul": 3.45,
+        "Aug": 3.46,
+        "Sep": 3.65,
+        "Oct": 3.6,
+        "Nov": 3.33,
+        "Dec": 3.24
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Kawasan Penempatan Ulu Benut Tiga",
+      "admin1_code": "01",
+      "location": [
+        1.7497,
+        103.277
+      ],
+      "monthly": {
+        "Jan": 3.43,
+        "Feb": 3.97,
+        "Mar": 3.97,
+        "Apr": 3.79,
+        "May": 3.56,
+        "Jun": 3.38,
+        "Jul": 3.46,
+        "Aug": 3.47,
+        "Sep": 3.66,
+        "Oct": 3.61,
+        "Nov": 3.34,
+        "Dec": 3.24
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Kawasan Penempatan Ulu Benut Lima",
+      "admin1_code": "01",
+      "location": [
+        1.7439,
+        103.3207
+      ],
+      "monthly": {
+        "Jan": 3.47,
+        "Feb": 4.01,
+        "Mar": 4,
+        "Apr": 3.81,
+        "May": 3.53,
+        "Jun": 3.33,
+        "Jul": 3.41,
+        "Aug": 3.41,
+        "Sep": 3.63,
+        "Oct": 3.6,
+        "Nov": 3.36,
+        "Dec": 3.26
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Bandar Tun Razak",
+      "admin1_code": "06",
+      "location": [
+        2.9029,
+        102.8877
+      ],
+      "monthly": {
+        "Jan": 3.35,
+        "Feb": 3.94,
+        "Mar": 4.2,
+        "Apr": 4.11,
+        "May": 3.88,
+        "Jun": 3.66,
+        "Jul": 3.64,
+        "Aug": 3.76,
+        "Sep": 3.93,
+        "Oct": 3.81,
+        "Nov": 3.45,
+        "Dec": 3.09
+      },
+      "average": 3.74
+    },
+    {
+      "name": "Sri Petaling",
+      "admin1_code": "14",
+      "location": [
+        3.06881,
+        101.68971
+      ],
+      "monthly": {
+        "Jan": 3.44,
+        "Feb": 3.89,
+        "Mar": 4.05,
+        "Apr": 3.82,
+        "May": 3.7,
+        "Jun": 3.52,
+        "Jul": 3.52,
+        "Aug": 3.6,
+        "Sep": 3.73,
+        "Oct": 3.66,
+        "Nov": 3.38,
+        "Dec": 3.23
+      },
+      "average": 3.63
+    },
+    {
+      "name": "Seri Manjung",
+      "admin1_code": "07",
+      "location": [
+        4.1987,
+        100.67
+      ],
+      "monthly": {
+        "Jan": 3.9,
+        "Feb": 4.43,
+        "Mar": 4.5,
+        "Apr": 4.28,
+        "May": 4.01,
+        "Jun": 3.91,
+        "Jul": 3.86,
+        "Aug": 4.01,
+        "Sep": 4.01,
+        "Oct": 3.94,
+        "Nov": 3.72,
+        "Dec": 3.6
+      },
+      "average": 4.01
+    },
+    {
+      "name": "Selayang Baru Utara",
+      "admin1_code": "12",
+      "location": [
+        3.2549,
+        101.6668
+      ],
+      "monthly": {
+        "Jan": 3.49,
+        "Feb": 4,
+        "Mar": 4.11,
+        "Apr": 3.84,
+        "May": 3.64,
+        "Jun": 3.47,
+        "Jul": 3.39,
+        "Aug": 3.5,
+        "Sep": 3.63,
+        "Oct": 3.65,
+        "Nov": 3.37,
+        "Dec": 3.23
+      },
+      "average": 3.61
+    },
+    {
+      "name": "Taman Seremban Jaya",
+      "admin1_code": "05",
+      "location": [
+        2.6831,
+        101.97
+      ],
+      "monthly": {
+        "Jan": 3.48,
+        "Feb": 4.02,
+        "Mar": 4.05,
+        "Apr": 3.77,
+        "May": 3.64,
+        "Jun": 3.49,
+        "Jul": 3.54,
+        "Aug": 3.62,
+        "Sep": 3.74,
+        "Oct": 3.64,
+        "Nov": 3.37,
+        "Dec": 3.23
+      },
+      "average": 3.63
+    },
+    {
+      "name": "Kawasan Perindustrian Cheng",
+      "admin1_code": "04",
+      "location": [
+        2.2618,
+        102.2317
+      ],
+      "monthly": {
+        "Jan": 3.62,
+        "Feb": 4.2,
+        "Mar": 4.24,
+        "Apr": 4.02,
+        "May": 3.83,
+        "Jun": 3.6,
+        "Jul": 3.63,
+        "Aug": 3.73,
+        "Sep": 3.96,
+        "Oct": 3.87,
+        "Nov": 3.56,
+        "Dec": 3.36
+      },
+      "average": 3.8
+    },
+    {
+      "name": "Taman Pelangi",
+      "admin1_code": "01",
+      "location": [
+        2.428,
+        102.6801
+      ],
+      "monthly": {
+        "Jan": 3.3,
+        "Feb": 3.86,
+        "Mar": 4.01,
+        "Apr": 3.84,
+        "May": 3.61,
+        "Jun": 3.4,
+        "Jul": 3.44,
+        "Aug": 3.55,
+        "Sep": 3.7,
+        "Oct": 3.64,
+        "Nov": 3.39,
+        "Dec": 3.13
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Taman Universiti",
+      "admin1_code": "01",
+      "location": [
+        1.5331,
+        103.6155
+      ],
+      "monthly": {
+        "Jan": 3.45,
+        "Feb": 3.99,
+        "Mar": 3.98,
+        "Apr": 3.68,
+        "May": 3.45,
+        "Jun": 3.28,
+        "Jul": 3.37,
+        "Aug": 3.41,
+        "Sep": 3.6,
+        "Oct": 3.54,
+        "Nov": 3.32,
+        "Dec": 3.24
+      },
+      "average": 3.53
+    },
+    {
+      "name": "Kampung Jelutong Tengah",
+      "admin1_code": "01",
+      "location": [
+        1.4714,
+        103.5675
+      ],
+      "monthly": {
+        "Jan": 3.41,
+        "Feb": 3.93,
+        "Mar": 3.96,
+        "Apr": 3.68,
+        "May": 3.48,
+        "Jun": 3.33,
+        "Jul": 3.44,
+        "Aug": 3.49,
+        "Sep": 3.65,
+        "Oct": 3.56,
+        "Nov": 3.32,
+        "Dec": 3.24
+      },
+      "average": 3.54
+    },
+    {
+      "name": "Subang Jaya",
+      "admin1_code": "12",
+      "location": [
+        3.04384,
+        101.58062
+      ],
+      "monthly": {
+        "Jan": 3.44,
+        "Feb": 3.88,
+        "Mar": 4.03,
+        "Apr": 3.83,
+        "May": 3.74,
+        "Jun": 3.56,
+        "Jul": 3.57,
+        "Aug": 3.65,
+        "Sep": 3.76,
+        "Oct": 3.67,
+        "Nov": 3.41,
+        "Dec": 3.23
+      },
+      "average": 3.65
+    },
+    {
+      "name": "Iskandar Puteri",
+      "admin1_code": "01",
+      "location": [
+        1.39324,
+        103.62322
+      ],
+      "monthly": {
+        "Jan": 3.39,
+        "Feb": 3.91,
+        "Mar": 3.99,
+        "Apr": 3.72,
+        "May": 3.54,
+        "Jun": 3.4,
+        "Jul": 3.51,
+        "Aug": 3.59,
+        "Sep": 3.74,
+        "Oct": 3.59,
+        "Nov": 3.31,
+        "Dec": 3.22
+      },
+      "average": 3.58
+    },
+    {
+      "name": "Putra Heights",
+      "admin1_code": "12",
+      "location": [
+        2.99361,
+        101.57255
+      ],
+      "monthly": {
+        "Jan": 3.43,
+        "Feb": 3.9,
+        "Mar": 4.06,
+        "Apr": 3.86,
+        "May": 3.78,
+        "Jun": 3.59,
+        "Jul": 3.6,
+        "Aug": 3.7,
+        "Sep": 3.79,
+        "Oct": 3.69,
+        "Nov": 3.42,
+        "Dec": 3.23
+      },
+      "average": 3.67
+    },
+    {
+      "name": "Kajang",
+      "admin1_code": "12",
+      "location": [
+        2.99424,
+        101.78875
+      ],
+      "monthly": {
+        "Jan": 3.48,
+        "Feb": 3.99,
+        "Mar": 4.13,
+        "Apr": 3.88,
+        "May": 3.74,
+        "Jun": 3.52,
+        "Jul": 3.54,
+        "Aug": 3.62,
+        "Sep": 3.75,
+        "Oct": 3.68,
+        "Nov": 3.41,
+        "Dec": 3.28
+      },
+      "average": 3.67
+    },
+    {
+      "name": "Bukit Bintang",
+      "admin1_code": "14",
+      "location": [
+        3.14657,
+        101.71023
+      ],
+      "monthly": {
+        "Jan": 3.49,
+        "Feb": 3.94,
+        "Mar": 4.06,
+        "Apr": 3.8,
+        "May": 3.63,
+        "Jun": 3.47,
+        "Jul": 3.44,
+        "Aug": 3.54,
+        "Sep": 3.69,
+        "Oct": 3.65,
+        "Nov": 3.38,
+        "Dec": 3.26
+      },
+      "average": 3.61
+    },
+    {
+      "name": "Bandar Sunway",
+      "admin1_code": "12",
+      "location": [
+        3.0693,
+        101.6074
+      ],
+      "monthly": {
+        "Jan": 3.43,
+        "Feb": 3.87,
+        "Mar": 4.03,
+        "Apr": 3.81,
+        "May": 3.71,
+        "Jun": 3.53,
+        "Jul": 3.53,
+        "Aug": 3.62,
+        "Sep": 3.73,
+        "Oct": 3.66,
+        "Nov": 3.39,
+        "Dec": 3.23
+      },
+      "average": 3.63
+    },
+    {
+      "name": "Bandar Puncak Alam",
+      "admin1_code": "12",
+      "location": [
+        3.2389,
+        101.42793
+      ],
+      "monthly": {
+        "Jan": 3.71,
+        "Feb": 4.2,
+        "Mar": 4.28,
+        "Apr": 4.02,
+        "May": 3.83,
+        "Jun": 3.67,
+        "Jul": 3.59,
+        "Aug": 3.73,
+        "Sep": 3.82,
+        "Oct": 3.82,
+        "Nov": 3.59,
+        "Dec": 3.42
+      },
+      "average": 3.81
+    },
+    {
+      "name": "Kota Damansara",
+      "admin1_code": "12",
+      "location": [
+        3.15454,
+        101.58022
+      ],
+      "monthly": {
+        "Jan": 3.5,
+        "Feb": 3.94,
+        "Mar": 4.08,
+        "Apr": 3.85,
+        "May": 3.69,
+        "Jun": 3.53,
+        "Jul": 3.48,
+        "Aug": 3.59,
+        "Sep": 3.71,
+        "Oct": 3.69,
+        "Nov": 3.45,
+        "Dec": 3.27
+      },
+      "average": 3.65
+    },
+    {
+      "name": "Damansara Damai",
+      "admin1_code": "12",
+      "location": [
+        3.19893,
+        101.59184
+      ],
+      "monthly": {
+        "Jan": 3.48,
+        "Feb": 3.94,
+        "Mar": 4.08,
+        "Apr": 3.85,
+        "May": 3.68,
+        "Jun": 3.51,
+        "Jul": 3.45,
+        "Aug": 3.57,
+        "Sep": 3.7,
+        "Oct": 3.69,
+        "Nov": 3.42,
+        "Dec": 3.25
+      },
+      "average": 3.63
+    },
+    {
+      "name": "Kuala Nerus",
+      "admin1_code": "13",
+      "location": [
+        5.37293,
+        103.02053
+      ],
+      "monthly": {
+        "Jan": 3.27,
+        "Feb": 4.09,
+        "Mar": 4.52,
+        "Apr": 4.58,
+        "May": 4.06,
+        "Jun": 3.81,
+        "Jul": 3.75,
+        "Aug": 3.99,
+        "Sep": 4.07,
+        "Oct": 3.78,
+        "Nov": 3.2,
+        "Dec": 2.86
+      },
+      "average": 3.83
+    },
+    {
+      "name": "Bandar Sri Damansara",
+      "admin1_code": "12",
+      "location": [
+        3.1903,
+        101.61061
+      ],
+      "monthly": {
+        "Jan": 3.47,
+        "Feb": 3.92,
+        "Mar": 4.07,
+        "Apr": 3.84,
+        "May": 3.68,
+        "Jun": 3.51,
+        "Jul": 3.45,
+        "Aug": 3.56,
+        "Sep": 3.69,
+        "Oct": 3.68,
+        "Nov": 3.4,
+        "Dec": 3.23
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Selangau",
+      "admin1_code": "11",
+      "location": [
+        2.52477,
+        112.32543
+      ],
+      "monthly": {
+        "Jan": 3.17,
+        "Feb": 3.44,
+        "Mar": 3.73,
+        "Apr": 3.85,
+        "May": 3.8,
+        "Jun": 3.68,
+        "Jul": 3.84,
+        "Aug": 3.78,
+        "Sep": 3.73,
+        "Oct": 3.71,
+        "Nov": 3.61,
+        "Dec": 3.45
+      },
+      "average": 3.65
+    },
+    {
+      "name": "Taman Petaling",
+      "admin1_code": "14",
+      "location": [
+        3.19916,
+        101.64983
+      ],
+      "monthly": {
+        "Jan": 3.49,
+        "Feb": 3.94,
+        "Mar": 4.09,
+        "Apr": 3.82,
+        "May": 3.66,
+        "Jun": 3.49,
+        "Jul": 3.43,
+        "Aug": 3.55,
+        "Sep": 3.68,
+        "Oct": 3.67,
+        "Nov": 3.39,
+        "Dec": 3.25
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Elmina",
+      "admin1_code": "12",
+      "location": [
+        3.18523,
+        101.52461
+      ],
+      "monthly": {
+        "Jan": 3.56,
+        "Feb": 4.03,
+        "Mar": 4.14,
+        "Apr": 3.9,
+        "May": 3.74,
+        "Jun": 3.58,
+        "Jul": 3.51,
+        "Aug": 3.63,
+        "Sep": 3.72,
+        "Oct": 3.73,
+        "Nov": 3.49,
+        "Dec": 3.31
+      },
+      "average": 3.7
+    },
+    {
+      "name": "Denai Alam",
+      "admin1_code": "12",
+      "location": [
+        3.16027,
+        101.51501
+      ],
+      "monthly": {
+        "Jan": 3.56,
+        "Feb": 4.02,
+        "Mar": 4.14,
+        "Apr": 3.91,
+        "May": 3.74,
+        "Jun": 3.57,
+        "Jul": 3.52,
+        "Aug": 3.63,
+        "Sep": 3.73,
+        "Oct": 3.73,
+        "Nov": 3.49,
+        "Dec": 3.31
+      },
+      "average": 3.7
+    },
+    {
+      "name": "Tropicana Indah",
+      "admin1_code": "12",
+      "location": [
+        3.14165,
+        101.59089
+      ],
+      "monthly": {
+        "Jan": 3.5,
+        "Feb": 3.94,
+        "Mar": 4.07,
+        "Apr": 3.85,
+        "May": 3.69,
+        "Jun": 3.52,
+        "Jul": 3.49,
+        "Aug": 3.6,
+        "Sep": 3.72,
+        "Oct": 3.69,
+        "Nov": 3.44,
+        "Dec": 3.27
+      },
+      "average": 3.65
+    },
+    {
+      "name": "Taman Greenwood",
+      "admin1_code": "12",
+      "location": [
+        3.23208,
+        101.70484
+      ],
+      "monthly": {
+        "Jan": 3.53,
+        "Feb": 4.03,
+        "Mar": 4.12,
+        "Apr": 3.82,
+        "May": 3.62,
+        "Jun": 3.47,
+        "Jul": 3.39,
+        "Aug": 3.49,
+        "Sep": 3.64,
+        "Oct": 3.64,
+        "Nov": 3.37,
+        "Dec": 3.26
+      },
+      "average": 3.61
+    },
+    {
+      "name": "Taman Melati",
+      "admin1_code": "14",
+      "location": [
+        3.22124,
+        101.72324
+      ],
+      "monthly": {
+        "Jan": 3.54,
+        "Feb": 4.05,
+        "Mar": 4.11,
+        "Apr": 3.81,
+        "May": 3.61,
+        "Jun": 3.46,
+        "Jul": 3.38,
+        "Aug": 3.49,
+        "Sep": 3.64,
+        "Oct": 3.63,
+        "Nov": 3.37,
+        "Dec": 3.27
+      },
+      "average": 3.61
+    },
+    {
+      "name": "Ara Damansara",
+      "admin1_code": "12",
+      "location": [
+        3.11898,
+        101.58656
+      ],
+      "monthly": {
+        "Jan": 3.5,
+        "Feb": 3.93,
+        "Mar": 4.07,
+        "Apr": 3.85,
+        "May": 3.69,
+        "Jun": 3.52,
+        "Jul": 3.49,
+        "Aug": 3.6,
+        "Sep": 3.73,
+        "Oct": 3.69,
+        "Nov": 3.44,
+        "Dec": 3.27
+      },
+      "average": 3.65
+    },
+    {
+      "name": "Desa Parkcity",
+      "admin1_code": "14",
+      "location": [
+        3.18611,
+        101.62875
+      ],
+      "monthly": {
+        "Jan": 3.48,
+        "Feb": 3.93,
+        "Mar": 4.07,
+        "Apr": 3.83,
+        "May": 3.68,
+        "Jun": 3.5,
+        "Jul": 3.45,
+        "Aug": 3.56,
+        "Sep": 3.69,
+        "Oct": 3.67,
+        "Nov": 3.4,
+        "Dec": 3.24
+      },
+      "average": 3.63
+    },
+    {
+      "name": "Kampung Setia",
+      "admin1_code": "12",
+      "location": [
+        3.24177,
+        101.53296
+      ],
+      "monthly": {
+        "Jan": 3.58,
+        "Feb": 4.07,
+        "Mar": 4.17,
+        "Apr": 3.93,
+        "May": 3.75,
+        "Jun": 3.6,
+        "Jul": 3.51,
+        "Aug": 3.63,
+        "Sep": 3.74,
+        "Oct": 3.73,
+        "Nov": 3.49,
+        "Dec": 3.33
+      },
+      "average": 3.71
+    },
+    {
+      "name": "Mont Kiara",
+      "admin1_code": "14",
+      "location": [
+        3.16866,
+        101.65076
+      ],
+      "monthly": {
+        "Jan": 3.48,
+        "Feb": 3.92,
+        "Mar": 4.07,
+        "Apr": 3.81,
+        "May": 3.65,
+        "Jun": 3.48,
+        "Jul": 3.44,
+        "Aug": 3.55,
+        "Sep": 3.69,
+        "Oct": 3.66,
+        "Nov": 3.39,
+        "Dec": 3.25
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Taman OUG",
+      "admin1_code": "14",
+      "location": [
+        3.07292,
+        101.6763
+      ],
+      "monthly": {
+        "Jan": 3.44,
+        "Feb": 3.88,
+        "Mar": 4.04,
+        "Apr": 3.82,
+        "May": 3.7,
+        "Jun": 3.52,
+        "Jul": 3.53,
+        "Aug": 3.6,
+        "Sep": 3.74,
+        "Oct": 3.65,
+        "Nov": 3.38,
+        "Dec": 3.23
+      },
+      "average": 3.63
+    },
+    {
+      "name": "Taman Tun Dr Ismail",
+      "admin1_code": "14",
+      "location": [
+        3.14506,
+        101.62617
+      ],
+      "monthly": {
+        "Jan": 3.48,
+        "Feb": 3.92,
+        "Mar": 4.07,
+        "Apr": 3.83,
+        "May": 3.67,
+        "Jun": 3.49,
+        "Jul": 3.45,
+        "Aug": 3.56,
+        "Sep": 3.7,
+        "Oct": 3.66,
+        "Nov": 3.41,
+        "Dec": 3.26
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Bangsar",
+      "admin1_code": "14",
+      "location": [
+        3.12945,
+        101.67004
+      ],
+      "monthly": {
+        "Jan": 3.47,
+        "Feb": 3.9,
+        "Mar": 4.05,
+        "Apr": 3.81,
+        "May": 3.64,
+        "Jun": 3.46,
+        "Jul": 3.44,
+        "Aug": 3.54,
+        "Sep": 3.69,
+        "Oct": 3.66,
+        "Nov": 3.39,
+        "Dec": 3.24
+      },
+      "average": 3.61
+    },
+    {
+      "name": "Seremban 2",
+      "admin1_code": "05",
+      "location": [
+        2.68982,
+        101.90766
+      ],
+      "monthly": {
+        "Jan": 3.48,
+        "Feb": 4.01,
+        "Mar": 4.07,
+        "Apr": 3.81,
+        "May": 3.68,
+        "Jun": 3.52,
+        "Jul": 3.56,
+        "Aug": 3.66,
+        "Sep": 3.77,
+        "Oct": 3.67,
+        "Nov": 3.41,
+        "Dec": 3.24
+      },
+      "average": 3.66
+    },
+    {
+      "name": "Bukit Indah",
+      "admin1_code": "01",
+      "location": [
+        1.47999,
+        103.65959
+      ],
+      "monthly": {
+        "Jan": 3.39,
+        "Feb": 3.91,
+        "Mar": 3.93,
+        "Apr": 3.66,
+        "May": 3.49,
+        "Jun": 3.33,
+        "Jul": 3.44,
+        "Aug": 3.49,
+        "Sep": 3.66,
+        "Oct": 3.54,
+        "Nov": 3.28,
+        "Dec": 3.2
+      },
+      "average": 3.53
+    },
+    {
+      "name": "Wangsa Maju",
+      "admin1_code": "14",
+      "location": [
+        3.20056,
+        101.73972
+      ],
+      "monthly": {
+        "Jan": 3.54,
+        "Feb": 4.04,
+        "Mar": 4.1,
+        "Apr": 3.8,
+        "May": 3.6,
+        "Jun": 3.45,
+        "Jul": 3.38,
+        "Aug": 3.48,
+        "Sep": 3.63,
+        "Oct": 3.62,
+        "Nov": 3.36,
+        "Dec": 3.27
+      },
+      "average": 3.61
+    },
+    {
+      "name": "Seminyih",
+      "admin1_code": "12",
+      "location": [
+        2.94761,
+        101.84695
+      ],
+      "monthly": {
+        "Jan": 3.5,
+        "Feb": 4.05,
+        "Mar": 4.16,
+        "Apr": 3.93,
+        "May": 3.75,
+        "Jun": 3.52,
+        "Jul": 3.52,
+        "Aug": 3.63,
+        "Sep": 3.76,
+        "Oct": 3.69,
+        "Nov": 3.42,
+        "Dec": 3.28
+      },
+      "average": 3.68
+    },
+    {
+      "name": "Kuchai Lama",
+      "admin1_code": "14",
+      "location": [
+        3.08469,
+        101.69086
+      ],
+      "monthly": {
+        "Jan": 3.44,
+        "Feb": 3.88,
+        "Mar": 4.03,
+        "Apr": 3.81,
+        "May": 3.68,
+        "Jun": 3.5,
+        "Jul": 3.5,
+        "Aug": 3.58,
+        "Sep": 3.72,
+        "Oct": 3.65,
+        "Nov": 3.38,
+        "Dec": 3.22
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Bukit Gemuroh",
+      "admin1_code": "09",
+      "location": [
+        5.29775,
+        100.21147
+      ],
+      "monthly": {
+        "Jan": 4.14,
+        "Feb": 4.68,
+        "Mar": 4.57,
+        "Apr": 4.2,
+        "May": 3.8,
+        "Jun": 3.73,
+        "Jul": 3.74,
+        "Aug": 3.84,
+        "Sep": 3.83,
+        "Oct": 3.79,
+        "Nov": 3.7,
+        "Dec": 3.73
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Taman Melawati",
+      "admin1_code": "12",
+      "location": [
+        3.21083,
+        101.74825
+      ],
+      "monthly": {
+        "Jan": 3.55,
+        "Feb": 4.07,
+        "Mar": 4.11,
+        "Apr": 3.8,
+        "May": 3.6,
+        "Jun": 3.45,
+        "Jul": 3.38,
+        "Aug": 3.47,
+        "Sep": 3.62,
+        "Oct": 3.61,
+        "Nov": 3.36,
+        "Dec": 3.27
+      },
+      "average": 3.61
+    },
+    {
+      "name": "Perling",
+      "admin1_code": "01",
+      "location": [
+        1.48061,
+        103.68381
+      ],
+      "monthly": {
+        "Jan": 3.38,
+        "Feb": 3.88,
+        "Mar": 3.9,
+        "Apr": 3.63,
+        "May": 3.47,
+        "Jun": 3.33,
+        "Jul": 3.43,
+        "Aug": 3.49,
+        "Sep": 3.66,
+        "Oct": 3.53,
+        "Nov": 3.26,
+        "Dec": 3.18
+      },
+      "average": 3.51
+    },
+    {
+      "name": "Mukim Pulai",
+      "admin1_code": "01",
+      "location": [
+        1.53333,
+        103.66667
+      ],
+      "monthly": {
+        "Jan": 3.45,
+        "Feb": 3.98,
+        "Mar": 3.98,
+        "Apr": 3.67,
+        "May": 3.44,
+        "Jun": 3.28,
+        "Jul": 3.39,
+        "Aug": 3.42,
+        "Sep": 3.61,
+        "Oct": 3.52,
+        "Nov": 3.29,
+        "Dec": 3.22
+      },
+      "average": 3.52
+    },
+    {
+      "name": "Bandar Mahkota Cheras",
+      "admin1_code": "12",
+      "location": [
+        3.0542,
+        101.79844
+      ],
+      "monthly": {
+        "Jan": 3.52,
+        "Feb": 4.02,
+        "Mar": 4.12,
+        "Apr": 3.86,
+        "May": 3.69,
+        "Jun": 3.49,
+        "Jul": 3.48,
+        "Aug": 3.57,
+        "Sep": 3.72,
+        "Oct": 3.65,
+        "Nov": 3.4,
+        "Dec": 3.28
+      },
+      "average": 3.65
+    },
+    {
+      "name": "Paya Terubong",
+      "admin1_code": "09",
+      "location": [
+        5.37278,
+        100.27972
+      ],
+      "monthly": {
+        "Jan": 3.93,
+        "Feb": 4.44,
+        "Mar": 4.35,
+        "Apr": 3.98,
+        "May": 3.65,
+        "Jun": 3.57,
+        "Jul": 3.59,
+        "Aug": 3.66,
+        "Sep": 3.66,
+        "Oct": 3.63,
+        "Nov": 3.51,
+        "Dec": 3.58
+      },
+      "average": 3.8
+    },
+    {
+      "name": "Bandar Tun Hussein Onn",
+      "admin1_code": "12",
+      "location": [
+        3.05469,
+        101.75939
+      ],
+      "monthly": {
+        "Jan": 3.51,
+        "Feb": 3.99,
+        "Mar": 4.11,
+        "Apr": 3.87,
+        "May": 3.71,
+        "Jun": 3.5,
+        "Jul": 3.5,
+        "Aug": 3.59,
+        "Sep": 3.74,
+        "Oct": 3.68,
+        "Nov": 3.42,
+        "Dec": 3.3
+      },
+      "average": 3.66
+    },
+    {
+      "name": "Bukit Beruntung",
+      "admin1_code": "12",
+      "location": [
+        3.41558,
+        101.55709
+      ],
+      "monthly": {
+        "Jan": 3.7,
+        "Feb": 4.21,
+        "Mar": 4.29,
+        "Apr": 3.96,
+        "May": 3.8,
+        "Jun": 3.66,
+        "Jul": 3.59,
+        "Aug": 3.66,
+        "Sep": 3.79,
+        "Oct": 3.73,
+        "Nov": 3.52,
+        "Dec": 3.41
+      },
+      "average": 3.78
+    },
+    {
+      "name": "Sibu Jaya",
+      "admin1_code": "11",
+      "location": [
+        2.24026,
+        111.97135
+      ],
+      "monthly": {
+        "Jan": 3.17,
+        "Feb": 3.46,
+        "Mar": 3.75,
+        "Apr": 3.93,
+        "May": 3.88,
+        "Jun": 3.77,
+        "Jul": 3.91,
+        "Aug": 3.84,
+        "Sep": 3.74,
+        "Oct": 3.71,
+        "Nov": 3.6,
+        "Dec": 3.44
+      },
+      "average": 3.68
+    },
+    {
+      "name": "Petagas",
+      "admin1_code": "16",
+      "location": [
+        5.91161,
+        116.04991
+      ],
+      "monthly": {
+        "Jan": 3.76,
+        "Feb": 4.37,
+        "Mar": 4.53,
+        "Apr": 4.54,
+        "May": 4.07,
+        "Jun": 3.83,
+        "Jul": 3.84,
+        "Aug": 4.13,
+        "Sep": 4,
+        "Oct": 3.97,
+        "Nov": 3.92,
+        "Dec": 3.82
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Setia Alam",
+      "admin1_code": "12",
+      "location": [
+        3.10155,
+        101.45565
+      ],
+      "monthly": {
+        "Jan": 3.6,
+        "Feb": 4.05,
+        "Mar": 4.17,
+        "Apr": 3.91,
+        "May": 3.75,
+        "Jun": 3.61,
+        "Jul": 3.56,
+        "Aug": 3.67,
+        "Sep": 3.79,
+        "Oct": 3.76,
+        "Nov": 3.52,
+        "Dec": 3.36
+      },
+      "average": 3.73
+    },
+    {
+      "name": "Taman Sri Sinar",
+      "admin1_code": "14",
+      "location": [
+        3.1868,
+        101.65085
+      ],
+      "monthly": {
+        "Jan": 3.49,
+        "Feb": 3.94,
+        "Mar": 4.08,
+        "Apr": 3.82,
+        "May": 3.66,
+        "Jun": 3.49,
+        "Jul": 3.44,
+        "Aug": 3.55,
+        "Sep": 3.69,
+        "Oct": 3.67,
+        "Nov": 3.39,
+        "Dec": 3.25
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Bandar Kinrara",
+      "admin1_code": "12",
+      "location": [
+        3.04926,
+        101.64153
+      ],
+      "monthly": {
+        "Jan": 3.42,
+        "Feb": 3.88,
+        "Mar": 4.04,
+        "Apr": 3.82,
+        "May": 3.73,
+        "Jun": 3.55,
+        "Jul": 3.56,
+        "Aug": 3.65,
+        "Sep": 3.75,
+        "Oct": 3.66,
+        "Nov": 3.38,
+        "Dec": 3.21
+      },
+      "average": 3.64
+    },
+    {
+      "name": "Bandar Bukit Raja",
+      "admin1_code": "12",
+      "location": [
+        3.08737,
+        101.43339
+      ],
+      "monthly": {
+        "Jan": 3.62,
+        "Feb": 4.07,
+        "Mar": 4.17,
+        "Apr": 3.92,
+        "May": 3.76,
+        "Jun": 3.63,
+        "Jul": 3.6,
+        "Aug": 3.71,
+        "Sep": 3.81,
+        "Oct": 3.78,
+        "Nov": 3.55,
+        "Dec": 3.38
+      },
+      "average": 3.75
+    },
+    {
+      "name": "Pandamaran",
+      "admin1_code": "12",
+      "location": [
+        3.01083,
+        101.42081
+      ],
+      "monthly": {
+        "Jan": 3.47,
+        "Feb": 3.94,
+        "Mar": 4.1,
+        "Apr": 3.87,
+        "May": 3.79,
+        "Jun": 3.63,
+        "Jul": 3.64,
+        "Aug": 3.75,
+        "Sep": 3.83,
+        "Oct": 3.76,
+        "Nov": 3.49,
+        "Dec": 3.3
+      },
+      "average": 3.71
+    },
+    {
+      "name": "Bandar Sri Sendayan",
+      "admin1_code": "05",
+      "location": [
+        2.67375,
+        101.8721
+      ],
+      "monthly": {
+        "Jan": 3.51,
+        "Feb": 4.04,
+        "Mar": 4.12,
+        "Apr": 3.87,
+        "May": 3.73,
+        "Jun": 3.56,
+        "Jul": 3.61,
+        "Aug": 3.71,
+        "Sep": 3.83,
+        "Oct": 3.72,
+        "Nov": 3.45,
+        "Dec": 3.26
+      },
+      "average": 3.7
+    },
+    {
+      "name": "Bandar Country Homes",
+      "admin1_code": "12",
+      "location": [
+        3.32752,
+        101.53106
+      ],
+      "monthly": {
+        "Jan": 3.65,
+        "Feb": 4.13,
+        "Mar": 4.23,
+        "Apr": 3.94,
+        "May": 3.79,
+        "Jun": 3.64,
+        "Jul": 3.56,
+        "Aug": 3.67,
+        "Sep": 3.78,
+        "Oct": 3.75,
+        "Nov": 3.52,
+        "Dec": 3.38
+      },
+      "average": 3.75
+    },
+    {
+      "name": "Alam Damai",
+      "admin1_code": "14",
+      "location": [
+        3.06028,
+        101.7408
+      ],
+      "monthly": {
+        "Jan": 3.49,
+        "Feb": 3.96,
+        "Mar": 4.1,
+        "Apr": 3.86,
+        "May": 3.71,
+        "Jun": 3.5,
+        "Jul": 3.51,
+        "Aug": 3.6,
+        "Sep": 3.74,
+        "Oct": 3.69,
+        "Nov": 3.42,
+        "Dec": 3.29
+      },
+      "average": 3.66
+    },
+    {
+      "name": "SS2",
+      "admin1_code": "14",
+      "location": [
+        3.12036,
+        101.62246
+      ],
+      "monthly": {
+        "Jan": 3.49,
+        "Feb": 3.91,
+        "Mar": 4.06,
+        "Apr": 3.83,
+        "May": 3.68,
+        "Jun": 3.49,
+        "Jul": 3.47,
+        "Aug": 3.58,
+        "Sep": 3.71,
+        "Oct": 3.67,
+        "Nov": 3.41,
+        "Dec": 3.26
+      },
+      "average": 3.63
+    },
+    {
+      "name": "Sungai Jawi",
+      "admin1_code": "09",
+      "location": [
+        5.19779,
+        100.49244
+      ],
+      "monthly": {
+        "Jan": 4.01,
+        "Feb": 4.55,
+        "Mar": 4.46,
+        "Apr": 4.16,
+        "May": 3.82,
+        "Jun": 3.73,
+        "Jul": 3.75,
+        "Aug": 3.83,
+        "Sep": 3.85,
+        "Oct": 3.79,
+        "Nov": 3.63,
+        "Dec": 3.64
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Bandar Saujana Utama",
+      "admin1_code": "12",
+      "location": [
+        3.20663,
+        101.47729
+      ],
+      "monthly": {
+        "Jan": 3.62,
+        "Feb": 4.09,
+        "Mar": 4.21,
+        "Apr": 3.95,
+        "May": 3.77,
+        "Jun": 3.62,
+        "Jul": 3.54,
+        "Aug": 3.67,
+        "Sep": 3.77,
+        "Oct": 3.78,
+        "Nov": 3.54,
+        "Dec": 3.36
+      },
+      "average": 3.74
+    },
+    {
+      "name": "Bukit Rahman Putra",
+      "admin1_code": "12",
+      "location": [
+        3.21727,
+        101.5608
+      ],
+      "monthly": {
+        "Jan": 3.53,
+        "Feb": 4.01,
+        "Mar": 4.12,
+        "Apr": 3.89,
+        "May": 3.72,
+        "Jun": 3.56,
+        "Jul": 3.48,
+        "Aug": 3.61,
+        "Sep": 3.72,
+        "Oct": 3.72,
+        "Nov": 3.46,
+        "Dec": 3.29
+      },
+      "average": 3.68
+    },
+    {
+      "name": "Setia Tropika",
+      "admin1_code": "01",
+      "location": [
+        1.54631,
+        103.71829
+      ],
+      "monthly": {
+        "Jan": 3.46,
+        "Feb": 4.04,
+        "Mar": 4.03,
+        "Apr": 3.69,
+        "May": 3.42,
+        "Jun": 3.25,
+        "Jul": 3.35,
+        "Aug": 3.37,
+        "Sep": 3.6,
+        "Oct": 3.53,
+        "Nov": 3.32,
+        "Dec": 3.24
+      },
+      "average": 3.53
+    },
+    {
+      "name": "Bandar Tasik Puteri",
+      "admin1_code": "12",
+      "location": [
+        3.28531,
+        101.4741
+      ],
+      "monthly": {
+        "Jan": 3.67,
+        "Feb": 4.17,
+        "Mar": 4.27,
+        "Apr": 4,
+        "May": 3.82,
+        "Jun": 3.66,
+        "Jul": 3.56,
+        "Aug": 3.7,
+        "Sep": 3.79,
+        "Oct": 3.78,
+        "Nov": 3.55,
+        "Dec": 3.39
+      },
+      "average": 3.78
+    },
+    {
+      "name": "Desa Petaling",
+      "admin1_code": "14",
+      "location": [
+        3.08385,
+        101.70895
+      ],
+      "monthly": {
+        "Jan": 3.45,
+        "Feb": 3.9,
+        "Mar": 4.05,
+        "Apr": 3.82,
+        "May": 3.67,
+        "Jun": 3.48,
+        "Jul": 3.48,
+        "Aug": 3.56,
+        "Sep": 3.71,
+        "Oct": 3.66,
+        "Nov": 3.39,
+        "Dec": 3.24
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Bukit Kerinchi",
+      "admin1_code": "14",
+      "location": [
+        3.10628,
+        101.66761
+      ],
+      "monthly": {
+        "Jan": 3.45,
+        "Feb": 3.87,
+        "Mar": 4.03,
+        "Apr": 3.8,
+        "May": 3.65,
+        "Jun": 3.47,
+        "Jul": 3.47,
+        "Aug": 3.56,
+        "Sep": 3.7,
+        "Oct": 3.65,
+        "Nov": 3.38,
+        "Dec": 3.23
+      },
+      "average": 3.6
+    },
+    {
+      "name": "Titiwangsa",
+      "admin1_code": "14",
+      "location": [
+        3.17822,
+        101.70312
+      ],
+      "monthly": {
+        "Jan": 3.52,
+        "Feb": 3.97,
+        "Mar": 4.09,
+        "Apr": 3.81,
+        "May": 3.63,
+        "Jun": 3.47,
+        "Jul": 3.41,
+        "Aug": 3.52,
+        "Sep": 3.67,
+        "Oct": 3.65,
+        "Nov": 3.39,
+        "Dec": 3.27
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Horizon Hills",
+      "admin1_code": "01",
+      "location": [
+        1.45768,
+        103.64554
+      ],
+      "monthly": {
+        "Jan": 3.38,
+        "Feb": 3.89,
+        "Mar": 3.94,
+        "Apr": 3.68,
+        "May": 3.5,
+        "Jun": 3.34,
+        "Jul": 3.44,
+        "Aug": 3.5,
+        "Sep": 3.67,
+        "Oct": 3.56,
+        "Nov": 3.29,
+        "Dec": 3.2
+      },
+      "average": 3.53
+    },
+    {
+      "name": "Bandar Putra Kulai",
+      "admin1_code": "01",
+      "location": [
+        1.64958,
+        103.62661
+      ],
+      "monthly": {
+        "Jan": 3.48,
+        "Feb": 4.07,
+        "Mar": 4.08,
+        "Apr": 3.77,
+        "May": 3.45,
+        "Jun": 3.27,
+        "Jul": 3.34,
+        "Aug": 3.38,
+        "Sep": 3.58,
+        "Oct": 3.57,
+        "Nov": 3.37,
+        "Dec": 3.25
+      },
+      "average": 3.55
+    },
+    {
+      "name": "Taman Scientex",
+      "admin1_code": "01",
+      "location": [
+        1.51219,
+        103.9166
+      ],
+      "monthly": {
+        "Jan": 3.52,
+        "Feb": 4.15,
+        "Mar": 4.11,
+        "Apr": 3.75,
+        "May": 3.46,
+        "Jun": 3.25,
+        "Jul": 3.34,
+        "Aug": 3.43,
+        "Sep": 3.65,
+        "Oct": 3.54,
+        "Nov": 3.31,
+        "Dec": 3.24
+      },
+      "average": 3.56
+    },
+    {
+      "name": "Bandar Seri Alam",
+      "admin1_code": "01",
+      "location": [
+        1.50434,
+        103.87525
+      ],
+      "monthly": {
+        "Jan": 3.47,
+        "Feb": 4.08,
+        "Mar": 4.04,
+        "Apr": 3.7,
+        "May": 3.44,
+        "Jun": 3.25,
+        "Jul": 3.33,
+        "Aug": 3.42,
+        "Sep": 3.64,
+        "Oct": 3.52,
+        "Nov": 3.27,
+        "Dec": 3.21
+      },
+      "average": 3.53
+    },
+    {
+      "name": "FELDA Chini",
+      "admin1_code": "06",
+      "location": [
+        3.37457,
+        102.94343
+      ],
+      "monthly": {
+        "Jan": 3.28,
+        "Feb": 3.89,
+        "Mar": 4.22,
+        "Apr": 4.09,
+        "May": 3.86,
+        "Jun": 3.74,
+        "Jul": 3.72,
+        "Aug": 3.85,
+        "Sep": 4.02,
+        "Oct": 3.79,
+        "Nov": 3.38,
+        "Dec": 3
+      },
+      "average": 3.74
+    },
+    {
+      "name": "Bandar Baru Salak Tinggi",
+      "admin1_code": "12",
+      "location": [
+        2.81232,
+        101.73562
+      ],
+      "monthly": {
+        "Jan": 3.55,
+        "Feb": 4.06,
+        "Mar": 4.15,
+        "Apr": 3.91,
+        "May": 3.75,
+        "Jun": 3.55,
+        "Jul": 3.62,
+        "Aug": 3.72,
+        "Sep": 3.82,
+        "Oct": 3.7,
+        "Nov": 3.48,
+        "Dec": 3.3
+      },
+      "average": 3.72
+    },
+    {
+      "name": "Bandar Utama",
+      "admin1_code": "14",
+      "location": [
+        3.14818,
+        101.61407
+      ],
+      "monthly": {
+        "Jan": 3.49,
+        "Feb": 3.93,
+        "Mar": 4.08,
+        "Apr": 3.84,
+        "May": 3.68,
+        "Jun": 3.5,
+        "Jul": 3.46,
+        "Aug": 3.57,
+        "Sep": 3.71,
+        "Oct": 3.67,
+        "Nov": 3.42,
+        "Dec": 3.26
+      },
+      "average": 3.63
+    },
+    {
+      "name": "Bukit Jalil",
+      "admin1_code": "14",
+      "location": [
+        3.04913,
+        101.68036
+      ],
+      "monthly": {
+        "Jan": 3.44,
+        "Feb": 3.9,
+        "Mar": 4.07,
+        "Apr": 3.84,
+        "May": 3.72,
+        "Jun": 3.54,
+        "Jul": 3.54,
+        "Aug": 3.62,
+        "Sep": 3.75,
+        "Oct": 3.67,
+        "Nov": 3.39,
+        "Dec": 3.24
+      },
+      "average": 3.64
+    },
+    {
+      "name": "Taman Desa",
+      "admin1_code": "14",
+      "location": [
+        3.10591,
+        101.68683
+      ],
+      "monthly": {
+        "Jan": 3.46,
+        "Feb": 3.89,
+        "Mar": 4.04,
+        "Apr": 3.81,
+        "May": 3.66,
+        "Jun": 3.48,
+        "Jul": 3.47,
+        "Aug": 3.56,
+        "Sep": 3.71,
+        "Oct": 3.65,
+        "Nov": 3.39,
+        "Dec": 3.24
+      },
+      "average": 3.61
+    }
+  ]
+}

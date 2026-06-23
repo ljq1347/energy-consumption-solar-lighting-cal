@@ -1,0 +1,834 @@
+{
+  "country": "Lithuania",
+  "countryCode": "LT",
+  "cities": [
+    {
+      "name": "Visaginas",
+      "admin1_code": "64",
+      "location": [
+        55.59678,
+        26.43984
+      ],
+      "monthly": {
+        "Jan": 0.91,
+        "Feb": 1.84,
+        "Mar": 3.22,
+        "Apr": 4.07,
+        "May": 4.58,
+        "Jun": 4.59,
+        "Jul": 4.37,
+        "Aug": 4.04,
+        "Sep": 3.14,
+        "Oct": 1.89,
+        "Nov": 0.76,
+        "Dec": 0.58
+      },
+      "average": 2.83
+    },
+    {
+      "name": "Vilnius",
+      "admin1_code": "65",
+      "location": [
+        54.68916,
+        25.2798
+      ],
+      "monthly": {
+        "Jan": 0.95,
+        "Feb": 1.79,
+        "Mar": 3.12,
+        "Apr": 3.96,
+        "May": 4.45,
+        "Jun": 4.49,
+        "Jul": 4.25,
+        "Aug": 4.01,
+        "Sep": 3.19,
+        "Oct": 1.95,
+        "Nov": 0.81,
+        "Dec": 0.63
+      },
+      "average": 2.8
+    },
+    {
+      "name": "Utena",
+      "admin1_code": "64",
+      "location": [
+        55.4978,
+        25.60462
+      ],
+      "monthly": {
+        "Jan": 0.91,
+        "Feb": 1.86,
+        "Mar": 3.21,
+        "Apr": 4.09,
+        "May": 4.63,
+        "Jun": 4.59,
+        "Jul": 4.37,
+        "Aug": 4.03,
+        "Sep": 3.18,
+        "Oct": 1.94,
+        "Nov": 0.78,
+        "Dec": 0.57
+      },
+      "average": 2.85
+    },
+    {
+      "name": "Ukmerge",
+      "admin1_code": "65",
+      "location": [
+        55.25,
+        24.75
+      ],
+      "monthly": {
+        "Jan": 0.93,
+        "Feb": 1.81,
+        "Mar": 3.19,
+        "Apr": 4.11,
+        "May": 4.63,
+        "Jun": 4.61,
+        "Jul": 4.34,
+        "Aug": 4.07,
+        "Sep": 3.26,
+        "Oct": 2.03,
+        "Nov": 0.85,
+        "Dec": 0.6
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Telsiai",
+      "admin1_code": "63",
+      "location": [
+        55.98139,
+        22.24722
+      ],
+      "monthly": {
+        "Jan": 0.92,
+        "Feb": 1.75,
+        "Mar": 3.18,
+        "Apr": 4.12,
+        "May": 4.7,
+        "Jun": 4.55,
+        "Jul": 4.35,
+        "Aug": 3.99,
+        "Sep": 3.25,
+        "Oct": 2.03,
+        "Nov": 0.88,
+        "Dec": 0.61
+      },
+      "average": 2.86
+    },
+    {
+      "name": "Taurage",
+      "admin1_code": "62",
+      "location": [
+        55.25222,
+        22.28972
+      ],
+      "monthly": {
+        "Jan": 0.96,
+        "Feb": 1.83,
+        "Mar": 3.16,
+        "Apr": 4.08,
+        "May": 4.72,
+        "Jun": 4.58,
+        "Jul": 4.38,
+        "Aug": 4.03,
+        "Sep": 3.28,
+        "Oct": 2.04,
+        "Nov": 0.89,
+        "Dec": 0.64
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Šiauliai",
+      "admin1_code": "61",
+      "location": [
+        55.93333,
+        23.31667
+      ],
+      "monthly": {
+        "Jan": 0.88,
+        "Feb": 1.79,
+        "Mar": 3.22,
+        "Apr": 4.12,
+        "May": 4.72,
+        "Jun": 4.6,
+        "Jul": 4.4,
+        "Aug": 4.05,
+        "Sep": 3.27,
+        "Oct": 2.1,
+        "Nov": 0.88,
+        "Dec": 0.61
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Radviliskis",
+      "admin1_code": "61",
+      "location": [
+        55.81667,
+        23.53333
+      ],
+      "monthly": {
+        "Jan": 0.93,
+        "Feb": 1.86,
+        "Mar": 3.26,
+        "Apr": 4.16,
+        "May": 4.74,
+        "Jun": 4.62,
+        "Jul": 4.42,
+        "Aug": 4.09,
+        "Sep": 3.31,
+        "Oct": 2.13,
+        "Nov": 0.9,
+        "Dec": 0.65
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Plunge",
+      "admin1_code": "63",
+      "location": [
+        55.91139,
+        21.84417
+      ],
+      "monthly": {
+        "Jan": 0.95,
+        "Feb": 1.76,
+        "Mar": 3.17,
+        "Apr": 4.12,
+        "May": 4.74,
+        "Jun": 4.58,
+        "Jul": 4.34,
+        "Aug": 3.93,
+        "Sep": 3.24,
+        "Oct": 2.01,
+        "Nov": 0.9,
+        "Dec": 0.62
+      },
+      "average": 2.86
+    },
+    {
+      "name": "Panevėžys",
+      "admin1_code": "60",
+      "location": [
+        55.73186,
+        24.35983
+      ],
+      "monthly": {
+        "Jan": 0.91,
+        "Feb": 1.8,
+        "Mar": 3.19,
+        "Apr": 4.07,
+        "May": 4.66,
+        "Jun": 4.6,
+        "Jul": 4.36,
+        "Aug": 4.01,
+        "Sep": 3.24,
+        "Oct": 2.03,
+        "Nov": 0.85,
+        "Dec": 0.61
+      },
+      "average": 2.86
+    },
+    {
+      "name": "Palanga",
+      "admin1_code": "58",
+      "location": [
+        55.9175,
+        21.06861
+      ],
+      "monthly": {
+        "Jan": 0.97,
+        "Feb": 1.91,
+        "Mar": 3.3,
+        "Apr": 4.4,
+        "May": 5.11,
+        "Jun": 5.03,
+        "Jul": 4.72,
+        "Aug": 4.21,
+        "Sep": 3.39,
+        "Oct": 2,
+        "Nov": 0.9,
+        "Dec": 0.6
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Fabijoniškės",
+      "admin1_code": "65",
+      "location": [
+        54.73333,
+        25.24167
+      ],
+      "monthly": {
+        "Jan": 0.94,
+        "Feb": 1.77,
+        "Mar": 3.16,
+        "Apr": 4.04,
+        "May": 4.53,
+        "Jun": 4.56,
+        "Jul": 4.32,
+        "Aug": 4.06,
+        "Sep": 3.23,
+        "Oct": 1.97,
+        "Nov": 0.82,
+        "Dec": 0.62
+      },
+      "average": 2.83
+    },
+    {
+      "name": "Naujoji Vilnia",
+      "admin1_code": "65",
+      "location": [
+        54.69515,
+        25.41969
+      ],
+      "monthly": {
+        "Jan": 0.95,
+        "Feb": 1.76,
+        "Mar": 3.1,
+        "Apr": 4,
+        "May": 4.48,
+        "Jun": 4.5,
+        "Jul": 4.28,
+        "Aug": 4.02,
+        "Sep": 3.21,
+        "Oct": 1.96,
+        "Nov": 0.79,
+        "Dec": 0.6
+      },
+      "average": 2.8
+    },
+    {
+      "name": "Mazeikiai",
+      "admin1_code": "63",
+      "location": [
+        56.31667,
+        22.33333
+      ],
+      "monthly": {
+        "Jan": 0.92,
+        "Feb": 1.79,
+        "Mar": 3.18,
+        "Apr": 4.16,
+        "May": 4.76,
+        "Jun": 4.6,
+        "Jul": 4.37,
+        "Aug": 4,
+        "Sep": 3.28,
+        "Oct": 2.07,
+        "Nov": 0.88,
+        "Dec": 0.64
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Marijampolė",
+      "admin1_code": "59",
+      "location": [
+        54.55787,
+        23.35004
+      ],
+      "monthly": {
+        "Jan": 1,
+        "Feb": 1.8,
+        "Mar": 3.2,
+        "Apr": 4.13,
+        "May": 4.69,
+        "Jun": 4.67,
+        "Jul": 4.39,
+        "Aug": 4.13,
+        "Sep": 3.39,
+        "Oct": 2.17,
+        "Nov": 0.98,
+        "Dec": 0.69
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Kretinga",
+      "admin1_code": "58",
+      "location": [
+        55.8888,
+        21.24448
+      ],
+      "monthly": {
+        "Jan": 0.96,
+        "Feb": 1.86,
+        "Mar": 3.25,
+        "Apr": 4.35,
+        "May": 5.06,
+        "Jun": 4.91,
+        "Jul": 4.56,
+        "Aug": 4.09,
+        "Sep": 3.34,
+        "Oct": 2.02,
+        "Nov": 0.93,
+        "Dec": 0.59
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Klaipėda",
+      "admin1_code": "58",
+      "location": [
+        55.7068,
+        21.13912
+      ],
+      "monthly": {
+        "Jan": 0.98,
+        "Feb": 1.89,
+        "Mar": 3.28,
+        "Apr": 4.38,
+        "May": 5.12,
+        "Jun": 5.01,
+        "Jul": 4.7,
+        "Aug": 4.23,
+        "Sep": 3.41,
+        "Oct": 2.04,
+        "Nov": 0.92,
+        "Dec": 0.61
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Kėdainiai",
+      "admin1_code": "57",
+      "location": [
+        55.28782,
+        23.97275
+      ],
+      "monthly": {
+        "Jan": 0.94,
+        "Feb": 1.86,
+        "Mar": 3.24,
+        "Apr": 4.12,
+        "May": 4.7,
+        "Jun": 4.64,
+        "Jul": 4.38,
+        "Aug": 4.07,
+        "Sep": 3.31,
+        "Oct": 2.08,
+        "Nov": 0.89,
+        "Dec": 0.66
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Kaunas",
+      "admin1_code": "57",
+      "location": [
+        54.90156,
+        23.90909
+      ],
+      "monthly": {
+        "Jan": 0.93,
+        "Feb": 1.78,
+        "Mar": 3.13,
+        "Apr": 4.05,
+        "May": 4.61,
+        "Jun": 4.58,
+        "Jul": 4.35,
+        "Aug": 4.06,
+        "Sep": 3.29,
+        "Oct": 2.03,
+        "Nov": 0.88,
+        "Dec": 0.65
+      },
+      "average": 2.86
+    },
+    {
+      "name": "Jonava",
+      "admin1_code": "57",
+      "location": [
+        55.08014,
+        24.27544
+      ],
+      "monthly": {
+        "Jan": 0.94,
+        "Feb": 1.85,
+        "Mar": 3.21,
+        "Apr": 4.09,
+        "May": 4.59,
+        "Jun": 4.59,
+        "Jul": 4.33,
+        "Aug": 4.06,
+        "Sep": 3.3,
+        "Oct": 2.04,
+        "Nov": 0.87,
+        "Dec": 0.64
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Gargždai",
+      "admin1_code": "58",
+      "location": [
+        55.70951,
+        21.39441
+      ],
+      "monthly": {
+        "Jan": 0.94,
+        "Feb": 1.85,
+        "Mar": 3.21,
+        "Apr": 4.27,
+        "May": 4.99,
+        "Jun": 4.82,
+        "Jul": 4.48,
+        "Aug": 4.04,
+        "Sep": 3.31,
+        "Oct": 2.03,
+        "Nov": 0.95,
+        "Dec": 0.61
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Antakalnis",
+      "admin1_code": "65",
+      "location": [
+        54.70781,
+        25.31706
+      ],
+      "monthly": {
+        "Jan": 0.92,
+        "Feb": 1.77,
+        "Mar": 3.09,
+        "Apr": 3.94,
+        "May": 4.44,
+        "Jun": 4.47,
+        "Jul": 4.23,
+        "Aug": 3.99,
+        "Sep": 3.17,
+        "Oct": 1.93,
+        "Nov": 0.79,
+        "Dec": 0.61
+      },
+      "average": 2.78
+    },
+    {
+      "name": "Alytus",
+      "admin1_code": "56",
+      "location": [
+        54.39574,
+        24.03885
+      ],
+      "monthly": {
+        "Jan": 0.95,
+        "Feb": 1.77,
+        "Mar": 3.16,
+        "Apr": 4.07,
+        "May": 4.59,
+        "Jun": 4.61,
+        "Jul": 4.34,
+        "Aug": 4.13,
+        "Sep": 3.31,
+        "Oct": 2.06,
+        "Nov": 0.89,
+        "Dec": 0.68
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Aleksotas",
+      "admin1_code": "57",
+      "location": [
+        54.88037,
+        23.90842
+      ],
+      "monthly": {
+        "Jan": 0.94,
+        "Feb": 1.79,
+        "Mar": 3.12,
+        "Apr": 4.05,
+        "May": 4.61,
+        "Jun": 4.58,
+        "Jul": 4.35,
+        "Aug": 4.07,
+        "Sep": 3.29,
+        "Oct": 2.03,
+        "Nov": 0.89,
+        "Dec": 0.64
+      },
+      "average": 2.86
+    },
+    {
+      "name": "Dainava (Kaunas)",
+      "admin1_code": "57",
+      "location": [
+        54.91525,
+        23.96831
+      ],
+      "monthly": {
+        "Jan": 0.93,
+        "Feb": 1.79,
+        "Mar": 3.14,
+        "Apr": 4.06,
+        "May": 4.62,
+        "Jun": 4.59,
+        "Jul": 4.36,
+        "Aug": 4.08,
+        "Sep": 3.29,
+        "Oct": 2.02,
+        "Nov": 0.88,
+        "Dec": 0.66
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Naujininkai",
+      "admin1_code": "65",
+      "location": [
+        54.66425,
+        25.28418
+      ],
+      "monthly": {
+        "Jan": 0.95,
+        "Feb": 1.78,
+        "Mar": 3.12,
+        "Apr": 3.98,
+        "May": 4.46,
+        "Jun": 4.5,
+        "Jul": 4.26,
+        "Aug": 4.02,
+        "Sep": 3.21,
+        "Oct": 1.96,
+        "Nov": 0.81,
+        "Dec": 0.62
+      },
+      "average": 2.81
+    },
+    {
+      "name": "Karoliniškės",
+      "admin1_code": "65",
+      "location": [
+        54.69034,
+        25.21903
+      ],
+      "monthly": {
+        "Jan": 0.93,
+        "Feb": 1.74,
+        "Mar": 3.13,
+        "Apr": 3.99,
+        "May": 4.5,
+        "Jun": 4.54,
+        "Jul": 4.3,
+        "Aug": 4.04,
+        "Sep": 3.21,
+        "Oct": 1.95,
+        "Nov": 0.81,
+        "Dec": 0.62
+      },
+      "average": 2.81
+    },
+    {
+      "name": "Šilainiai",
+      "admin1_code": "57",
+      "location": [
+        54.92911,
+        23.88599
+      ],
+      "monthly": {
+        "Jan": 0.93,
+        "Feb": 1.77,
+        "Mar": 3.15,
+        "Apr": 4.07,
+        "May": 4.63,
+        "Jun": 4.6,
+        "Jul": 4.37,
+        "Aug": 4.09,
+        "Sep": 3.31,
+        "Oct": 2.04,
+        "Nov": 0.88,
+        "Dec": 0.63
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Eiguliai",
+      "admin1_code": "57",
+      "location": [
+        54.93133,
+        23.93243
+      ],
+      "monthly": {
+        "Jan": 0.93,
+        "Feb": 1.78,
+        "Mar": 3.15,
+        "Apr": 4.06,
+        "May": 4.62,
+        "Jun": 4.59,
+        "Jul": 4.36,
+        "Aug": 4.07,
+        "Sep": 3.3,
+        "Oct": 2.03,
+        "Nov": 0.88,
+        "Dec": 0.65
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Pašilaičiai",
+      "admin1_code": "65",
+      "location": [
+        54.73429,
+        25.21912
+      ],
+      "monthly": {
+        "Jan": 0.93,
+        "Feb": 1.76,
+        "Mar": 3.17,
+        "Apr": 4.06,
+        "May": 4.54,
+        "Jun": 4.58,
+        "Jul": 4.34,
+        "Aug": 4.07,
+        "Sep": 3.23,
+        "Oct": 1.98,
+        "Nov": 0.82,
+        "Dec": 0.61
+      },
+      "average": 2.84
+    },
+    {
+      "name": "Pilaitė",
+      "admin1_code": "65",
+      "location": [
+        54.69981,
+        25.18393
+      ],
+      "monthly": {
+        "Jan": 0.92,
+        "Feb": 1.75,
+        "Mar": 3.15,
+        "Apr": 4.01,
+        "May": 4.49,
+        "Jun": 4.52,
+        "Jul": 4.28,
+        "Aug": 4.03,
+        "Sep": 3.21,
+        "Oct": 1.95,
+        "Nov": 0.81,
+        "Dec": 0.61
+      },
+      "average": 2.81
+    },
+    {
+      "name": "Justiniškės",
+      "admin1_code": "65",
+      "location": [
+        54.71664,
+        25.2174
+      ],
+      "monthly": {
+        "Jan": 0.93,
+        "Feb": 1.76,
+        "Mar": 3.16,
+        "Apr": 4.03,
+        "May": 4.52,
+        "Jun": 4.55,
+        "Jul": 4.32,
+        "Aug": 4.06,
+        "Sep": 3.22,
+        "Oct": 1.97,
+        "Nov": 0.82,
+        "Dec": 0.62
+      },
+      "average": 2.83
+    },
+    {
+      "name": "Šeškinė",
+      "admin1_code": "65",
+      "location": [
+        54.70972,
+        25.25053
+      ],
+      "monthly": {
+        "Jan": 0.94,
+        "Feb": 1.78,
+        "Mar": 3.15,
+        "Apr": 4.02,
+        "May": 4.51,
+        "Jun": 4.54,
+        "Jul": 4.3,
+        "Aug": 4.05,
+        "Sep": 3.22,
+        "Oct": 1.97,
+        "Nov": 0.82,
+        "Dec": 0.63
+      },
+      "average": 2.83
+    },
+    {
+      "name": "Lazdynai",
+      "admin1_code": "65",
+      "location": [
+        54.66815,
+        25.20684
+      ],
+      "monthly": {
+        "Jan": 0.93,
+        "Feb": 1.74,
+        "Mar": 3.12,
+        "Apr": 3.99,
+        "May": 4.49,
+        "Jun": 4.53,
+        "Jul": 4.29,
+        "Aug": 4.03,
+        "Sep": 3.21,
+        "Oct": 1.95,
+        "Nov": 0.81,
+        "Dec": 0.62
+      },
+      "average": 2.81
+    },
+    {
+      "name": "Vilkpėdė",
+      "admin1_code": "65",
+      "location": [
+        54.66969,
+        25.2477
+      ],
+      "monthly": {
+        "Jan": 0.95,
+        "Feb": 1.76,
+        "Mar": 3.12,
+        "Apr": 3.97,
+        "May": 4.47,
+        "Jun": 4.51,
+        "Jul": 4.27,
+        "Aug": 4.02,
+        "Sep": 3.2,
+        "Oct": 1.95,
+        "Nov": 0.81,
+        "Dec": 0.63
+      },
+      "average": 2.81
+    },
+    {
+      "name": "Naujamiestis",
+      "admin1_code": "65",
+      "location": [
+        54.67951,
+        25.26855
+      ],
+      "monthly": {
+        "Jan": 0.95,
+        "Feb": 1.78,
+        "Mar": 3.12,
+        "Apr": 3.98,
+        "May": 4.48,
+        "Jun": 4.51,
+        "Jul": 4.28,
+        "Aug": 4.03,
+        "Sep": 3.2,
+        "Oct": 1.96,
+        "Nov": 0.82,
+        "Dec": 0.63
+      },
+      "average": 2.81
+    }
+  ]
+}

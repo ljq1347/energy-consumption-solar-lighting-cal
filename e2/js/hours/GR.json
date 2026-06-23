@@ -1,0 +1,2651 @@
+{
+  "country": "Greece",
+  "countryCode": "GR",
+  "cities": [
+    {
+      "name": "Voúla",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.84221,
+        23.77651
+      ],
+      "monthly": {
+        "Jan": 3,
+        "Feb": 3.62,
+        "Mar": 4.36,
+        "Apr": 4.94,
+        "May": 5.27,
+        "Jun": 5.62,
+        "Jul": 5.72,
+        "Aug": 5.58,
+        "Sep": 4.97,
+        "Oct": 4.01,
+        "Nov": 3.11,
+        "Dec": 2.62
+      },
+      "average": 4.4
+    },
+    {
+      "name": "Volos",
+      "admin1_code": "ESYE14",
+      "location": [
+        39.36923,
+        22.94769
+      ],
+      "monthly": {
+        "Jan": 2.82,
+        "Feb": 3.38,
+        "Mar": 4.11,
+        "Apr": 4.68,
+        "May": 5.07,
+        "Jun": 5.5,
+        "Jul": 5.66,
+        "Aug": 5.46,
+        "Sep": 4.62,
+        "Oct": 3.57,
+        "Nov": 2.7,
+        "Dec": 2.38
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Výronas",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.96105,
+        23.753
+      ],
+      "monthly": {
+        "Jan": 3.09,
+        "Feb": 3.71,
+        "Mar": 4.45,
+        "Apr": 4.92,
+        "May": 5.2,
+        "Jun": 5.51,
+        "Jul": 5.63,
+        "Aug": 5.51,
+        "Sep": 4.9,
+        "Oct": 4.04,
+        "Nov": 3.21,
+        "Dec": 2.69
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Vári",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.8332,
+        23.80311
+      ],
+      "monthly": {
+        "Jan": 2.97,
+        "Feb": 3.61,
+        "Mar": 4.34,
+        "Apr": 4.91,
+        "May": 5.26,
+        "Jun": 5.6,
+        "Jul": 5.7,
+        "Aug": 5.55,
+        "Sep": 4.94,
+        "Oct": 3.99,
+        "Nov": 3.08,
+        "Dec": 2.59
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Trípoli",
+      "admin1_code": "ESYE25",
+      "location": [
+        37.50959,
+        22.37883
+      ],
+      "monthly": {
+        "Jan": 3.01,
+        "Feb": 3.54,
+        "Mar": 4.28,
+        "Apr": 4.73,
+        "May": 4.97,
+        "Jun": 5.22,
+        "Jul": 5.36,
+        "Aug": 5.21,
+        "Sep": 4.74,
+        "Oct": 4.07,
+        "Nov": 3.24,
+        "Dec": 2.69
+      },
+      "average": 4.25
+    },
+    {
+      "name": "Tríkala",
+      "admin1_code": "ESYE14",
+      "location": [
+        39.55493,
+        21.76837
+      ],
+      "monthly": {
+        "Jan": 2.9,
+        "Feb": 3.41,
+        "Mar": 4.15,
+        "Apr": 4.54,
+        "May": 4.81,
+        "Jun": 5.25,
+        "Jul": 5.46,
+        "Aug": 5.27,
+        "Sep": 4.52,
+        "Oct": 3.67,
+        "Nov": 2.79,
+        "Dec": 2.51
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Thívai",
+      "admin1_code": "ESYE24",
+      "location": [
+        38.325,
+        23.31889
+      ],
+      "monthly": {
+        "Jan": 2.7,
+        "Feb": 3.37,
+        "Mar": 4.13,
+        "Apr": 4.75,
+        "May": 5.05,
+        "Jun": 5.48,
+        "Jul": 5.7,
+        "Aug": 5.53,
+        "Sep": 4.78,
+        "Oct": 3.74,
+        "Nov": 2.87,
+        "Dec": 2.37
+      },
+      "average": 4.21
+    },
+    {
+      "name": "Sparta",
+      "admin1_code": "ESYE25",
+      "location": [
+        37.07446,
+        22.43009
+      ],
+      "monthly": {
+        "Jan": 3.02,
+        "Feb": 3.57,
+        "Mar": 4.28,
+        "Apr": 4.72,
+        "May": 4.92,
+        "Jun": 5.22,
+        "Jul": 5.32,
+        "Aug": 5.16,
+        "Sep": 4.7,
+        "Oct": 4.04,
+        "Nov": 3.21,
+        "Dec": 2.76
+      },
+      "average": 4.24
+    },
+    {
+      "name": "Salamína",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.96427,
+        23.49649
+      ],
+      "monthly": {
+        "Jan": 2.98,
+        "Feb": 3.62,
+        "Mar": 4.31,
+        "Apr": 4.86,
+        "May": 5.16,
+        "Jun": 5.54,
+        "Jul": 5.68,
+        "Aug": 5.54,
+        "Sep": 4.91,
+        "Oct": 3.98,
+        "Nov": 3.08,
+        "Dec": 2.57
+      },
+      "average": 4.35
+    },
+    {
+      "name": "Rethymno",
+      "admin1_code": "ESYE43",
+      "location": [
+        35.36555,
+        24.48232
+      ],
+      "monthly": {
+        "Jan": 2.7,
+        "Feb": 3.33,
+        "Mar": 4.21,
+        "Apr": 4.96,
+        "May": 5.37,
+        "Jun": 5.82,
+        "Jul": 5.92,
+        "Aug": 5.74,
+        "Sep": 5.04,
+        "Oct": 3.91,
+        "Nov": 2.99,
+        "Dec": 2.43
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Préveza",
+      "admin1_code": "ESYE21",
+      "location": [
+        38.95617,
+        20.7505
+      ],
+      "monthly": {
+        "Jan": 2.91,
+        "Feb": 3.56,
+        "Mar": 4.36,
+        "Apr": 4.86,
+        "May": 5.32,
+        "Jun": 5.72,
+        "Jul": 5.84,
+        "Aug": 5.61,
+        "Sep": 4.87,
+        "Oct": 4.01,
+        "Nov": 2.95,
+        "Dec": 2.56
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Pýrgos",
+      "admin1_code": "ESYE23",
+      "location": [
+        37.67513,
+        21.44102
+      ],
+      "monthly": {
+        "Jan": 3.04,
+        "Feb": 3.66,
+        "Mar": 4.48,
+        "Apr": 4.99,
+        "May": 5.33,
+        "Jun": 5.7,
+        "Jul": 5.83,
+        "Aug": 5.65,
+        "Sep": 4.99,
+        "Oct": 4.12,
+        "Nov": 3.19,
+        "Dec": 2.72
+      },
+      "average": 4.47
+    },
+    {
+      "name": "Piraeus",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.94203,
+        23.64619
+      ],
+      "monthly": {
+        "Jan": 3.04,
+        "Feb": 3.63,
+        "Mar": 4.34,
+        "Apr": 4.9,
+        "May": 5.2,
+        "Jun": 5.53,
+        "Jul": 5.65,
+        "Aug": 5.48,
+        "Sep": 4.88,
+        "Oct": 3.95,
+        "Nov": 3.06,
+        "Dec": 2.6
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Petroúpolis",
+      "admin1_code": "ESYE31",
+      "location": [
+        38.04187,
+        23.68494
+      ],
+      "monthly": {
+        "Jan": 2.99,
+        "Feb": 3.59,
+        "Mar": 4.34,
+        "Apr": 4.86,
+        "May": 5.12,
+        "Jun": 5.46,
+        "Jul": 5.63,
+        "Aug": 5.48,
+        "Sep": 4.84,
+        "Oct": 3.98,
+        "Nov": 3.12,
+        "Dec": 2.62
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Peristéri",
+      "admin1_code": "ESYE31",
+      "location": [
+        38.01539,
+        23.69187
+      ],
+      "monthly": {
+        "Jan": 3.07,
+        "Feb": 3.66,
+        "Mar": 4.39,
+        "Apr": 4.88,
+        "May": 5.14,
+        "Jun": 5.46,
+        "Jul": 5.6,
+        "Aug": 5.46,
+        "Sep": 4.85,
+        "Oct": 4,
+        "Nov": 3.15,
+        "Dec": 2.67
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Pérama",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.96775,
+        23.5721
+      ],
+      "monthly": {
+        "Jan": 2.99,
+        "Feb": 3.62,
+        "Mar": 4.32,
+        "Apr": 4.89,
+        "May": 5.18,
+        "Jun": 5.57,
+        "Jul": 5.73,
+        "Aug": 5.58,
+        "Sep": 4.93,
+        "Oct": 4.01,
+        "Nov": 3.08,
+        "Dec": 2.59
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Pátra",
+      "admin1_code": "ESYE23",
+      "location": [
+        38.2462,
+        21.73508
+      ],
+      "monthly": {
+        "Jan": 2.99,
+        "Feb": 3.59,
+        "Mar": 4.37,
+        "Apr": 4.8,
+        "May": 5.14,
+        "Jun": 5.58,
+        "Jul": 5.71,
+        "Aug": 5.55,
+        "Sep": 4.91,
+        "Oct": 4.04,
+        "Nov": 3.14,
+        "Dec": 2.63
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Palaió Fáliro",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.92812,
+        23.70105
+      ],
+      "monthly": {
+        "Jan": 3.04,
+        "Feb": 3.64,
+        "Mar": 4.37,
+        "Apr": 4.9,
+        "May": 5.21,
+        "Jun": 5.54,
+        "Jul": 5.64,
+        "Aug": 5.49,
+        "Sep": 4.89,
+        "Oct": 3.97,
+        "Nov": 3.11,
+        "Dec": 2.63
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Níkaia",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.96667,
+        23.65
+      ],
+      "monthly": {
+        "Jan": 3.08,
+        "Feb": 3.68,
+        "Mar": 4.4,
+        "Apr": 4.93,
+        "May": 5.21,
+        "Jun": 5.53,
+        "Jul": 5.66,
+        "Aug": 5.51,
+        "Sep": 4.91,
+        "Oct": 4.01,
+        "Nov": 3.13,
+        "Dec": 2.65
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Néa Smýrni",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.94504,
+        23.71416
+      ],
+      "monthly": {
+        "Jan": 3.09,
+        "Feb": 3.7,
+        "Mar": 4.44,
+        "Apr": 4.92,
+        "May": 5.21,
+        "Jun": 5.52,
+        "Jul": 5.63,
+        "Aug": 5.49,
+        "Sep": 4.9,
+        "Oct": 4.01,
+        "Nov": 3.18,
+        "Dec": 2.68
+      },
+      "average": 4.4
+    },
+    {
+      "name": "Néa Mákri",
+      "admin1_code": "ESYE31",
+      "location": [
+        38.08733,
+        23.97642
+      ],
+      "monthly": {
+        "Jan": 2.64,
+        "Feb": 3.25,
+        "Mar": 4.01,
+        "Apr": 4.7,
+        "May": 5.04,
+        "Jun": 5.47,
+        "Jul": 5.65,
+        "Aug": 5.48,
+        "Sep": 4.74,
+        "Oct": 3.74,
+        "Nov": 2.8,
+        "Dec": 2.3
+      },
+      "average": 4.15
+    },
+    {
+      "name": "Ílion",
+      "admin1_code": "ESYE31",
+      "location": [
+        38.03333,
+        23.7
+      ],
+      "monthly": {
+        "Jan": 3.04,
+        "Feb": 3.64,
+        "Mar": 4.37,
+        "Apr": 4.86,
+        "May": 5.12,
+        "Jun": 5.45,
+        "Jul": 5.6,
+        "Aug": 5.46,
+        "Sep": 4.84,
+        "Oct": 3.99,
+        "Nov": 3.14,
+        "Dec": 2.66
+      },
+      "average": 4.35
+    },
+    {
+      "name": "Néa Ionía",
+      "admin1_code": "ESYE31",
+      "location": [
+        38.0357,
+        23.75733
+      ],
+      "monthly": {
+        "Jan": 3.05,
+        "Feb": 3.64,
+        "Mar": 4.36,
+        "Apr": 4.83,
+        "May": 5.09,
+        "Jun": 5.41,
+        "Jul": 5.57,
+        "Aug": 5.45,
+        "Sep": 4.82,
+        "Oct": 3.99,
+        "Nov": 3.16,
+        "Dec": 2.67
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Néa Filadélfeia",
+      "admin1_code": "ESYE31",
+      "location": [
+        38.03491,
+        23.73811
+      ],
+      "monthly": {
+        "Jan": 3.05,
+        "Feb": 3.64,
+        "Mar": 4.37,
+        "Apr": 4.84,
+        "May": 5.1,
+        "Jun": 5.42,
+        "Jul": 5.58,
+        "Aug": 5.45,
+        "Sep": 4.82,
+        "Oct": 3.99,
+        "Nov": 3.16,
+        "Dec": 2.67
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Néa Erythraía",
+      "admin1_code": "ESYE31",
+      "location": [
+        38.0927,
+        23.82223
+      ],
+      "monthly": {
+        "Jan": 2.87,
+        "Feb": 3.48,
+        "Mar": 4.21,
+        "Apr": 4.77,
+        "May": 5.03,
+        "Jun": 5.39,
+        "Jul": 5.6,
+        "Aug": 5.47,
+        "Sep": 4.77,
+        "Oct": 3.91,
+        "Nov": 3.04,
+        "Dec": 2.52
+      },
+      "average": 4.25
+    },
+    {
+      "name": "Moskháton",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.94789,
+        23.6788
+      ],
+      "monthly": {
+        "Jan": 3.07,
+        "Feb": 3.67,
+        "Mar": 4.4,
+        "Apr": 4.91,
+        "May": 5.21,
+        "Jun": 5.52,
+        "Jul": 5.63,
+        "Aug": 5.48,
+        "Sep": 4.89,
+        "Oct": 3.98,
+        "Nov": 3.11,
+        "Dec": 2.64
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Mytilene",
+      "admin1_code": "ESYE41",
+      "location": [
+        39.10772,
+        26.55529
+      ],
+      "monthly": {
+        "Jan": 2.67,
+        "Feb": 3.31,
+        "Mar": 4.21,
+        "Apr": 4.81,
+        "May": 5.32,
+        "Jun": 5.69,
+        "Jul": 5.91,
+        "Aug": 5.75,
+        "Sep": 5.15,
+        "Oct": 4.15,
+        "Nov": 3.09,
+        "Dec": 2.38
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Melíssia",
+      "admin1_code": "ESYE31",
+      "location": [
+        38.05,
+        23.83333
+      ],
+      "monthly": {
+        "Jan": 3.03,
+        "Feb": 3.62,
+        "Mar": 4.34,
+        "Apr": 4.86,
+        "May": 5.11,
+        "Jun": 5.45,
+        "Jul": 5.63,
+        "Aug": 5.53,
+        "Sep": 4.89,
+        "Oct": 4.03,
+        "Nov": 3.19,
+        "Dec": 2.66
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Mégara",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.99471,
+        23.34324
+      ],
+      "monthly": {
+        "Jan": 3.01,
+        "Feb": 3.61,
+        "Mar": 4.33,
+        "Apr": 4.89,
+        "May": 5.17,
+        "Jun": 5.51,
+        "Jul": 5.65,
+        "Aug": 5.52,
+        "Sep": 4.89,
+        "Oct": 3.99,
+        "Nov": 3.12,
+        "Dec": 2.62
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Artémida",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.96727,
+        23.99684
+      ],
+      "monthly": {
+        "Jan": 2.87,
+        "Feb": 3.5,
+        "Mar": 4.24,
+        "Apr": 4.86,
+        "May": 5.17,
+        "Jun": 5.55,
+        "Jul": 5.7,
+        "Aug": 5.59,
+        "Sep": 4.93,
+        "Oct": 3.98,
+        "Nov": 3.07,
+        "Dec": 2.49
+      },
+      "average": 4.33
+    },
+    {
+      "name": "Livadeiá",
+      "admin1_code": "ESYE24",
+      "location": [
+        38.43616,
+        22.87665
+      ],
+      "monthly": {
+        "Jan": 2.58,
+        "Feb": 3.21,
+        "Mar": 3.95,
+        "Apr": 4.53,
+        "May": 4.81,
+        "Jun": 5.21,
+        "Jul": 5.41,
+        "Aug": 5.25,
+        "Sep": 4.45,
+        "Oct": 3.49,
+        "Nov": 2.69,
+        "Dec": 2.23
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Lárisa",
+      "admin1_code": "ESYE14",
+      "location": [
+        39.62847,
+        22.42112
+      ],
+      "monthly": {
+        "Jan": 2.91,
+        "Feb": 3.49,
+        "Mar": 4.19,
+        "Apr": 4.65,
+        "May": 4.93,
+        "Jun": 5.32,
+        "Jul": 5.53,
+        "Aug": 5.37,
+        "Sep": 4.64,
+        "Oct": 3.68,
+        "Nov": 2.82,
+        "Dec": 2.46
+      },
+      "average": 4.17
+    },
+    {
+      "name": "Lamía",
+      "admin1_code": "ESYE24",
+      "location": [
+        38.89947,
+        22.4335
+      ],
+      "monthly": {
+        "Jan": 2.89,
+        "Feb": 3.41,
+        "Mar": 4.07,
+        "Apr": 4.53,
+        "May": 4.79,
+        "Jun": 5.21,
+        "Jul": 5.39,
+        "Aug": 5.23,
+        "Sep": 4.5,
+        "Oct": 3.54,
+        "Nov": 2.84,
+        "Dec": 2.47
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Metamórfosi",
+      "admin1_code": "ESYE31",
+      "location": [
+        38.06576,
+        23.76356
+      ],
+      "monthly": {
+        "Jan": 3,
+        "Feb": 3.6,
+        "Mar": 4.33,
+        "Apr": 4.82,
+        "May": 5.07,
+        "Jun": 5.39,
+        "Jul": 5.57,
+        "Aug": 5.45,
+        "Sep": 4.8,
+        "Oct": 3.97,
+        "Nov": 3.14,
+        "Dec": 2.63
+      },
+      "average": 4.31
+    },
+    {
+      "name": "Kos",
+      "admin1_code": "ESYE42",
+      "location": [
+        36.89295,
+        27.28768
+      ],
+      "monthly": {
+        "Jan": 2.92,
+        "Feb": 3.65,
+        "Mar": 4.52,
+        "Apr": 5.09,
+        "May": 5.55,
+        "Jun": 5.92,
+        "Jul": 6.01,
+        "Aug": 5.87,
+        "Sep": 5.41,
+        "Oct": 4.45,
+        "Nov": 3.42,
+        "Dec": 2.69
+      },
+      "average": 4.63
+    },
+    {
+      "name": "Koropí",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.89886,
+        23.87181
+      ],
+      "monthly": {
+        "Jan": 2.94,
+        "Feb": 3.56,
+        "Mar": 4.3,
+        "Apr": 4.86,
+        "May": 5.15,
+        "Jun": 5.5,
+        "Jul": 5.61,
+        "Aug": 5.51,
+        "Sep": 4.86,
+        "Oct": 3.98,
+        "Nov": 3.08,
+        "Dec": 2.56
+      },
+      "average": 4.33
+    },
+    {
+      "name": "Kórinthos",
+      "admin1_code": "ESYE25",
+      "location": [
+        37.94007,
+        22.9513
+      ],
+      "monthly": {
+        "Jan": 3,
+        "Feb": 3.58,
+        "Mar": 4.29,
+        "Apr": 4.86,
+        "May": 5.15,
+        "Jun": 5.54,
+        "Jul": 5.67,
+        "Aug": 5.54,
+        "Sep": 4.86,
+        "Oct": 3.95,
+        "Nov": 3.11,
+        "Dec": 2.58
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Kifisiá",
+      "admin1_code": "ESYE31",
+      "location": [
+        38.07438,
+        23.81106
+      ],
+      "monthly": {
+        "Jan": 2.99,
+        "Feb": 3.6,
+        "Mar": 4.31,
+        "Apr": 4.84,
+        "May": 5.09,
+        "Jun": 5.43,
+        "Jul": 5.61,
+        "Aug": 5.51,
+        "Sep": 4.84,
+        "Oct": 4,
+        "Nov": 3.15,
+        "Dec": 2.63
+      },
+      "average": 4.33
+    },
+    {
+      "name": "Cholargós",
+      "admin1_code": "ESYE31",
+      "location": [
+        38,
+        23.8
+      ],
+      "monthly": {
+        "Jan": 2.98,
+        "Feb": 3.58,
+        "Mar": 4.35,
+        "Apr": 4.84,
+        "May": 5.12,
+        "Jun": 5.46,
+        "Jul": 5.6,
+        "Aug": 5.49,
+        "Sep": 4.85,
+        "Oct": 3.99,
+        "Nov": 3.13,
+        "Dec": 2.59
+      },
+      "average": 4.33
+    },
+    {
+      "name": "Chios",
+      "admin1_code": "ESYE41",
+      "location": [
+        38.36875,
+        26.13718
+      ],
+      "monthly": {
+        "Jan": 2.5,
+        "Feb": 3.11,
+        "Mar": 4.16,
+        "Apr": 4.86,
+        "May": 5.43,
+        "Jun": 5.81,
+        "Jul": 5.99,
+        "Aug": 5.81,
+        "Sep": 5.18,
+        "Oct": 4.11,
+        "Nov": 2.98,
+        "Dec": 2.27
+      },
+      "average": 4.35
+    },
+    {
+      "name": "Chaniá",
+      "admin1_code": "ESYE43",
+      "location": [
+        35.51124,
+        24.02921
+      ],
+      "monthly": {
+        "Jan": 2.75,
+        "Feb": 3.36,
+        "Mar": 4.24,
+        "Apr": 5.03,
+        "May": 5.48,
+        "Jun": 5.91,
+        "Jul": 5.99,
+        "Aug": 5.81,
+        "Sep": 5.13,
+        "Oct": 4,
+        "Nov": 3.02,
+        "Dec": 2.44
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Chalkída",
+      "admin1_code": "ESYE24",
+      "location": [
+        38.46354,
+        23.60284
+      ],
+      "monthly": {
+        "Jan": 2.58,
+        "Feb": 3.25,
+        "Mar": 4.06,
+        "Apr": 4.75,
+        "May": 5.15,
+        "Jun": 5.6,
+        "Jul": 5.75,
+        "Aug": 5.56,
+        "Sep": 4.78,
+        "Oct": 3.7,
+        "Nov": 2.78,
+        "Dec": 2.26
+      },
+      "average": 4.19
+    },
+    {
+      "name": "Khalándrion",
+      "admin1_code": "ESYE31",
+      "location": [
+        38.02369,
+        23.80068
+      ],
+      "monthly": {
+        "Jan": 3.06,
+        "Feb": 3.65,
+        "Mar": 4.37,
+        "Apr": 4.86,
+        "May": 5.13,
+        "Jun": 5.46,
+        "Jul": 5.61,
+        "Aug": 5.51,
+        "Sep": 4.87,
+        "Oct": 4.03,
+        "Nov": 3.19,
+        "Dec": 2.69
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Chaïdári",
+      "admin1_code": "ESYE31",
+      "location": [
+        38.01135,
+        23.66597
+      ],
+      "monthly": {
+        "Jan": 3.02,
+        "Feb": 3.62,
+        "Mar": 4.37,
+        "Apr": 4.88,
+        "May": 5.15,
+        "Jun": 5.48,
+        "Jul": 5.62,
+        "Aug": 5.48,
+        "Sep": 4.88,
+        "Oct": 4,
+        "Nov": 3.12,
+        "Dec": 2.63
+      },
+      "average": 4.35
+    },
+    {
+      "name": "Keratsíni",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.9625,
+        23.61972
+      ],
+      "monthly": {
+        "Jan": 3.01,
+        "Feb": 3.61,
+        "Mar": 4.33,
+        "Apr": 4.9,
+        "May": 5.19,
+        "Jun": 5.53,
+        "Jul": 5.68,
+        "Aug": 5.52,
+        "Sep": 4.91,
+        "Oct": 3.98,
+        "Nov": 3.08,
+        "Dec": 2.6
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Kardítsa",
+      "admin1_code": "ESYE14",
+      "location": [
+        39.36485,
+        21.92191
+      ],
+      "monthly": {
+        "Jan": 2.88,
+        "Feb": 3.39,
+        "Mar": 4.17,
+        "Apr": 4.58,
+        "May": 4.88,
+        "Jun": 5.31,
+        "Jul": 5.51,
+        "Aug": 5.32,
+        "Sep": 4.55,
+        "Oct": 3.63,
+        "Nov": 2.79,
+        "Dec": 2.47
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Kamaterón",
+      "admin1_code": "ESYE31",
+      "location": [
+        38.05586,
+        23.70515
+      ],
+      "monthly": {
+        "Jan": 2.99,
+        "Feb": 3.59,
+        "Mar": 4.34,
+        "Apr": 4.84,
+        "May": 5.1,
+        "Jun": 5.43,
+        "Jul": 5.6,
+        "Aug": 5.47,
+        "Sep": 4.82,
+        "Oct": 3.98,
+        "Nov": 3.12,
+        "Dec": 2.62
+      },
+      "average": 4.32
+    },
+    {
+      "name": "Kallithéa",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.95,
+        23.7
+      ],
+      "monthly": {
+        "Jan": 3.1,
+        "Feb": 3.71,
+        "Mar": 4.44,
+        "Apr": 4.92,
+        "May": 5.2,
+        "Jun": 5.51,
+        "Jul": 5.61,
+        "Aug": 5.48,
+        "Sep": 4.89,
+        "Oct": 4.02,
+        "Nov": 3.17,
+        "Dec": 2.68
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Kalamata",
+      "admin1_code": "ESYE25",
+      "location": [
+        37.03913,
+        22.11265
+      ],
+      "monthly": {
+        "Jan": 3,
+        "Feb": 3.55,
+        "Mar": 4.33,
+        "Apr": 4.79,
+        "May": 5.11,
+        "Jun": 5.55,
+        "Jul": 5.68,
+        "Aug": 5.47,
+        "Sep": 4.88,
+        "Oct": 4.02,
+        "Nov": 3.19,
+        "Dec": 2.71
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Álimos",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.91033,
+        23.72361
+      ],
+      "monthly": {
+        "Jan": 3.03,
+        "Feb": 3.63,
+        "Mar": 4.38,
+        "Apr": 4.91,
+        "May": 5.23,
+        "Jun": 5.56,
+        "Jul": 5.66,
+        "Aug": 5.51,
+        "Sep": 4.9,
+        "Oct": 3.98,
+        "Nov": 3.12,
+        "Dec": 2.63
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Kaisarianí",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.9634,
+        23.76523
+      ],
+      "monthly": {
+        "Jan": 3.04,
+        "Feb": 3.68,
+        "Mar": 4.43,
+        "Apr": 4.91,
+        "May": 5.2,
+        "Jun": 5.51,
+        "Jul": 5.63,
+        "Aug": 5.52,
+        "Sep": 4.9,
+        "Oct": 4.03,
+        "Nov": 3.2,
+        "Dec": 2.67
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Irákleio",
+      "admin1_code": "ESYE31",
+      "location": [
+        38.05282,
+        23.76523
+      ],
+      "monthly": {
+        "Jan": 3.03,
+        "Feb": 3.62,
+        "Mar": 4.36,
+        "Apr": 4.84,
+        "May": 5.09,
+        "Jun": 5.42,
+        "Jul": 5.59,
+        "Aug": 5.47,
+        "Sep": 4.83,
+        "Oct": 3.99,
+        "Nov": 3.16,
+        "Dec": 2.66
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Irákleion",
+      "admin1_code": "ESYE43",
+      "location": [
+        35.32787,
+        25.14341
+      ],
+      "monthly": {
+        "Jan": 2.79,
+        "Feb": 3.45,
+        "Mar": 4.27,
+        "Apr": 4.94,
+        "May": 5.39,
+        "Jun": 5.84,
+        "Jul": 5.95,
+        "Aug": 5.8,
+        "Sep": 5.18,
+        "Oct": 4.07,
+        "Nov": 3.15,
+        "Dec": 2.51
+      },
+      "average": 4.44
+    },
+    {
+      "name": "Ioánnina",
+      "admin1_code": "ESYE21",
+      "location": [
+        39.66341,
+        20.85187
+      ],
+      "monthly": {
+        "Jan": 2.95,
+        "Feb": 3.49,
+        "Mar": 4.14,
+        "Apr": 4.34,
+        "May": 4.7,
+        "Jun": 5.17,
+        "Jul": 5.35,
+        "Aug": 5.19,
+        "Sep": 4.52,
+        "Oct": 3.93,
+        "Nov": 2.97,
+        "Dec": 2.61
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Glyfáda",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.86289,
+        23.75802
+      ],
+      "monthly": {
+        "Jan": 3.02,
+        "Feb": 3.64,
+        "Mar": 4.39,
+        "Apr": 4.94,
+        "May": 5.26,
+        "Jun": 5.61,
+        "Jul": 5.71,
+        "Aug": 5.57,
+        "Sep": 4.97,
+        "Oct": 4.02,
+        "Nov": 3.13,
+        "Dec": 2.63
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Galátsi",
+      "admin1_code": "ESYE31",
+      "location": [
+        38.01667,
+        23.75
+      ],
+      "monthly": {
+        "Jan": 3.06,
+        "Feb": 3.66,
+        "Mar": 4.38,
+        "Apr": 4.85,
+        "May": 5.11,
+        "Jun": 5.43,
+        "Jul": 5.58,
+        "Aug": 5.45,
+        "Sep": 4.83,
+        "Oct": 4,
+        "Nov": 3.17,
+        "Dec": 2.67
+      },
+      "average": 4.35
+    },
+    {
+      "name": "Fylí",
+      "admin1_code": "ESYE31",
+      "location": [
+        38.10235,
+        23.66901
+      ],
+      "monthly": {
+        "Jan": 2.76,
+        "Feb": 3.37,
+        "Mar": 4.14,
+        "Apr": 4.72,
+        "May": 4.98,
+        "Jun": 5.36,
+        "Jul": 5.57,
+        "Aug": 5.44,
+        "Sep": 4.72,
+        "Oct": 3.84,
+        "Nov": 2.95,
+        "Dec": 2.42
+      },
+      "average": 4.19
+    },
+    {
+      "name": "Ellinikó",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.89013,
+        23.74406
+      ],
+      "monthly": {
+        "Jan": 3.08,
+        "Feb": 3.7,
+        "Mar": 4.47,
+        "Apr": 4.97,
+        "May": 5.27,
+        "Jun": 5.6,
+        "Jul": 5.7,
+        "Aug": 5.58,
+        "Sep": 4.99,
+        "Oct": 4.08,
+        "Nov": 3.2,
+        "Dec": 2.69
+      },
+      "average": 4.44
+    },
+    {
+      "name": "Elefsína",
+      "admin1_code": "ESYE31",
+      "location": [
+        38.04135,
+        23.54295
+      ],
+      "monthly": {
+        "Jan": 2.95,
+        "Feb": 3.57,
+        "Mar": 4.26,
+        "Apr": 4.81,
+        "May": 5.08,
+        "Jun": 5.45,
+        "Jul": 5.62,
+        "Aug": 5.46,
+        "Sep": 4.82,
+        "Oct": 3.95,
+        "Nov": 3.08,
+        "Dec": 2.56
+      },
+      "average": 4.3
+    },
+    {
+      "name": "Dhafní",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.95002,
+        23.73437
+      ],
+      "monthly": {
+        "Jan": 3.1,
+        "Feb": 3.73,
+        "Mar": 4.47,
+        "Apr": 4.93,
+        "May": 5.22,
+        "Jun": 5.51,
+        "Jul": 5.62,
+        "Aug": 5.51,
+        "Sep": 4.91,
+        "Oct": 4.05,
+        "Nov": 3.23,
+        "Dec": 2.71
+      },
+      "average": 4.42
+    },
+    {
+      "name": "Agios Dimitrios",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.93333,
+        23.73333
+      ],
+      "monthly": {
+        "Jan": 3.08,
+        "Feb": 3.68,
+        "Mar": 4.43,
+        "Apr": 4.93,
+        "May": 5.24,
+        "Jun": 5.55,
+        "Jul": 5.66,
+        "Aug": 5.52,
+        "Sep": 4.92,
+        "Oct": 4.02,
+        "Nov": 3.17,
+        "Dec": 2.67
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Agía Varvára",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.98938,
+        23.66011
+      ],
+      "monthly": {
+        "Jan": 3.09,
+        "Feb": 3.69,
+        "Mar": 4.41,
+        "Apr": 4.92,
+        "May": 5.19,
+        "Jun": 5.51,
+        "Jul": 5.64,
+        "Aug": 5.5,
+        "Sep": 4.91,
+        "Oct": 4.02,
+        "Nov": 3.15,
+        "Dec": 2.67
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Agía Paraskeví",
+      "admin1_code": "ESYE31",
+      "location": [
+        38.01667,
+        23.83333
+      ],
+      "monthly": {
+        "Jan": 3.05,
+        "Feb": 3.63,
+        "Mar": 4.35,
+        "Apr": 4.85,
+        "May": 5.11,
+        "Jun": 5.45,
+        "Jul": 5.61,
+        "Aug": 5.51,
+        "Sep": 4.88,
+        "Oct": 4.03,
+        "Nov": 3.2,
+        "Dec": 2.68
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Athens",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.98376,
+        23.72784
+      ],
+      "monthly": {
+        "Jan": 3.1,
+        "Feb": 3.71,
+        "Mar": 4.42,
+        "Apr": 4.89,
+        "May": 5.16,
+        "Jun": 5.46,
+        "Jul": 5.59,
+        "Aug": 5.46,
+        "Sep": 4.86,
+        "Oct": 4.01,
+        "Nov": 3.19,
+        "Dec": 2.69
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Asprópyrgos",
+      "admin1_code": "ESYE31",
+      "location": [
+        38.06134,
+        23.58971
+      ],
+      "monthly": {
+        "Jan": 2.97,
+        "Feb": 3.58,
+        "Mar": 4.31,
+        "Apr": 4.85,
+        "May": 5.09,
+        "Jun": 5.47,
+        "Jul": 5.64,
+        "Aug": 5.51,
+        "Sep": 4.85,
+        "Oct": 3.99,
+        "Nov": 3.12,
+        "Dec": 2.59
+      },
+      "average": 4.33
+    },
+    {
+      "name": "Argyroúpoli",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.90594,
+        23.75035
+      ],
+      "monthly": {
+        "Jan": 3.08,
+        "Feb": 3.69,
+        "Mar": 4.48,
+        "Apr": 4.98,
+        "May": 5.26,
+        "Jun": 5.57,
+        "Jul": 5.68,
+        "Aug": 5.57,
+        "Sep": 4.98,
+        "Oct": 4.08,
+        "Nov": 3.21,
+        "Dec": 2.68
+      },
+      "average": 4.44
+    },
+    {
+      "name": "Árta",
+      "admin1_code": "ESYE21",
+      "location": [
+        39.16014,
+        20.98561
+      ],
+      "monthly": {
+        "Jan": 2.97,
+        "Feb": 3.54,
+        "Mar": 4.23,
+        "Apr": 4.59,
+        "May": 4.97,
+        "Jun": 5.45,
+        "Jul": 5.61,
+        "Aug": 5.41,
+        "Sep": 4.75,
+        "Oct": 4,
+        "Nov": 3.04,
+        "Dec": 2.63
+      },
+      "average": 4.27
+    },
+    {
+      "name": "Árgos",
+      "admin1_code": "ESYE25",
+      "location": [
+        37.63333,
+        22.73333
+      ],
+      "monthly": {
+        "Jan": 3.05,
+        "Feb": 3.56,
+        "Mar": 4.24,
+        "Apr": 4.77,
+        "May": 5.05,
+        "Jun": 5.4,
+        "Jul": 5.57,
+        "Aug": 5.45,
+        "Sep": 4.8,
+        "Oct": 3.97,
+        "Nov": 3.13,
+        "Dec": 2.64
+      },
+      "average": 4.3
+    },
+    {
+      "name": "Áno Liósia",
+      "admin1_code": "ESYE31",
+      "location": [
+        38.08333,
+        23.7
+      ],
+      "monthly": {
+        "Jan": 2.89,
+        "Feb": 3.5,
+        "Mar": 4.25,
+        "Apr": 4.77,
+        "May": 5.02,
+        "Jun": 5.37,
+        "Jul": 5.56,
+        "Aug": 5.43,
+        "Sep": 4.75,
+        "Oct": 3.92,
+        "Nov": 3.07,
+        "Dec": 2.55
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Maroúsi",
+      "admin1_code": "ESYE31",
+      "location": [
+        38.05,
+        23.8
+      ],
+      "monthly": {
+        "Jan": 3.04,
+        "Feb": 3.64,
+        "Mar": 4.35,
+        "Apr": 4.85,
+        "May": 5.09,
+        "Jun": 5.43,
+        "Jul": 5.6,
+        "Aug": 5.5,
+        "Sep": 4.86,
+        "Oct": 4.03,
+        "Nov": 3.19,
+        "Dec": 2.68
+      },
+      "average": 4.35
+    },
+    {
+      "name": "Amaliáda",
+      "admin1_code": "ESYE23",
+      "location": [
+        37.79842,
+        21.35068
+      ],
+      "monthly": {
+        "Jan": 3.07,
+        "Feb": 3.7,
+        "Mar": 4.53,
+        "Apr": 5,
+        "May": 5.35,
+        "Jun": 5.7,
+        "Jul": 5.83,
+        "Aug": 5.65,
+        "Sep": 4.97,
+        "Oct": 4.14,
+        "Nov": 3.23,
+        "Dec": 2.75
+      },
+      "average": 4.49
+    },
+    {
+      "name": "Acharnés",
+      "admin1_code": "ESYE31",
+      "location": [
+        38.08333,
+        23.73333
+      ],
+      "monthly": {
+        "Jan": 2.93,
+        "Feb": 3.53,
+        "Mar": 4.28,
+        "Apr": 4.79,
+        "May": 5.04,
+        "Jun": 5.38,
+        "Jul": 5.57,
+        "Aug": 5.44,
+        "Sep": 4.76,
+        "Oct": 3.93,
+        "Nov": 3.09,
+        "Dec": 2.57
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Aígio",
+      "admin1_code": "ESYE23",
+      "location": [
+        38.24861,
+        22.08194
+      ],
+      "monthly": {
+        "Jan": 2.92,
+        "Feb": 3.46,
+        "Mar": 4.25,
+        "Apr": 4.69,
+        "May": 5.04,
+        "Jun": 5.48,
+        "Jul": 5.65,
+        "Aug": 5.49,
+        "Sep": 4.8,
+        "Oct": 3.95,
+        "Nov": 3.04,
+        "Dec": 2.54
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Aigáleo",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.98333,
+        23.68333
+      ],
+      "monthly": {
+        "Jan": 3.11,
+        "Feb": 3.71,
+        "Mar": 4.42,
+        "Apr": 4.92,
+        "May": 5.19,
+        "Jun": 5.49,
+        "Jul": 5.62,
+        "Aug": 5.48,
+        "Sep": 4.89,
+        "Oct": 4.01,
+        "Nov": 3.16,
+        "Dec": 2.68
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Agrínio",
+      "admin1_code": "ESYE23",
+      "location": [
+        38.62139,
+        21.40778
+      ],
+      "monthly": {
+        "Jan": 3.02,
+        "Feb": 3.58,
+        "Mar": 4.26,
+        "Apr": 4.62,
+        "May": 5,
+        "Jun": 5.45,
+        "Jul": 5.61,
+        "Aug": 5.44,
+        "Sep": 4.79,
+        "Oct": 4.05,
+        "Nov": 3.16,
+        "Dec": 2.69
+      },
+      "average": 4.31
+    },
+    {
+      "name": "Ródos",
+      "admin1_code": "ESYE42",
+      "location": [
+        36.43556,
+        28.22199
+      ],
+      "monthly": {
+        "Jan": 3.01,
+        "Feb": 3.74,
+        "Mar": 4.6,
+        "Apr": 5.1,
+        "May": 5.54,
+        "Jun": 5.94,
+        "Jul": 5.99,
+        "Aug": 5.83,
+        "Sep": 5.42,
+        "Oct": 4.44,
+        "Nov": 3.44,
+        "Dec": 2.8
+      },
+      "average": 4.65
+    },
+    {
+      "name": "Giannitsá",
+      "admin1_code": "ESYE12",
+      "location": [
+        40.79194,
+        22.4075
+      ],
+      "monthly": {
+        "Jan": 2.79,
+        "Feb": 3.41,
+        "Mar": 4.01,
+        "Apr": 4.38,
+        "May": 4.73,
+        "Jun": 5.22,
+        "Jul": 5.43,
+        "Aug": 5.22,
+        "Sep": 4.47,
+        "Oct": 3.58,
+        "Nov": 2.72,
+        "Dec": 2.47
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Xánthi",
+      "admin1_code": "ESYE11",
+      "location": [
+        41.13488,
+        24.888
+      ],
+      "monthly": {
+        "Jan": 2.69,
+        "Feb": 3.3,
+        "Mar": 3.71,
+        "Apr": 4.19,
+        "May": 4.67,
+        "Jun": 4.9,
+        "Jul": 5.21,
+        "Aug": 5.12,
+        "Sep": 4.42,
+        "Oct": 3.56,
+        "Nov": 2.76,
+        "Dec": 2.4
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Véroia",
+      "admin1_code": "ESYE12",
+      "location": [
+        40.52437,
+        22.20242
+      ],
+      "monthly": {
+        "Jan": 2.77,
+        "Feb": 3.31,
+        "Mar": 3.87,
+        "Apr": 4.19,
+        "May": 4.53,
+        "Jun": 5.03,
+        "Jul": 5.27,
+        "Aug": 5.08,
+        "Sep": 4.29,
+        "Oct": 3.53,
+        "Nov": 2.71,
+        "Dec": 2.39
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Thessaloníki",
+      "admin1_code": "ESYE12",
+      "location": [
+        40.64072,
+        22.93493
+      ],
+      "monthly": {
+        "Jan": 2.81,
+        "Feb": 3.45,
+        "Mar": 4.12,
+        "Apr": 4.58,
+        "May": 4.93,
+        "Jun": 5.35,
+        "Jul": 5.49,
+        "Aug": 5.26,
+        "Sep": 4.57,
+        "Oct": 3.6,
+        "Nov": 2.71,
+        "Dec": 2.45
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Stavroúpoli",
+      "admin1_code": "ESYE12",
+      "location": [
+        40.66944,
+        22.93806
+      ],
+      "monthly": {
+        "Jan": 2.86,
+        "Feb": 3.49,
+        "Mar": 4.14,
+        "Apr": 4.58,
+        "May": 4.89,
+        "Jun": 5.3,
+        "Jul": 5.45,
+        "Aug": 5.24,
+        "Sep": 4.58,
+        "Oct": 3.62,
+        "Nov": 2.74,
+        "Dec": 2.5
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Sykiés",
+      "admin1_code": "ESYE12",
+      "location": [
+        40.64944,
+        22.95083
+      ],
+      "monthly": {
+        "Jan": 2.84,
+        "Feb": 3.48,
+        "Mar": 4.16,
+        "Apr": 4.59,
+        "May": 4.93,
+        "Jun": 5.34,
+        "Jul": 5.49,
+        "Aug": 5.27,
+        "Sep": 4.6,
+        "Oct": 3.63,
+        "Nov": 2.75,
+        "Dec": 2.49
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Sérres",
+      "admin1_code": "ESYE12",
+      "location": [
+        41.08499,
+        23.54757
+      ],
+      "monthly": {
+        "Jan": 2.81,
+        "Feb": 3.54,
+        "Mar": 4.12,
+        "Apr": 4.48,
+        "May": 4.8,
+        "Jun": 5.17,
+        "Jul": 5.36,
+        "Aug": 5.17,
+        "Sep": 4.59,
+        "Oct": 3.74,
+        "Nov": 2.83,
+        "Dec": 2.47
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Ptolemaḯda",
+      "admin1_code": "ESYE13",
+      "location": [
+        40.51472,
+        21.67861
+      ],
+      "monthly": {
+        "Jan": 2.87,
+        "Feb": 3.57,
+        "Mar": 4.23,
+        "Apr": 4.44,
+        "May": 4.74,
+        "Jun": 5.17,
+        "Jul": 5.4,
+        "Aug": 5.24,
+        "Sep": 4.48,
+        "Oct": 3.84,
+        "Nov": 2.95,
+        "Dec": 2.57
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Políchni",
+      "admin1_code": "ESYE12",
+      "location": [
+        40.66671,
+        22.94881
+      ],
+      "monthly": {
+        "Jan": 2.86,
+        "Feb": 3.48,
+        "Mar": 4.13,
+        "Apr": 4.56,
+        "May": 4.88,
+        "Jun": 5.28,
+        "Jul": 5.44,
+        "Aug": 5.22,
+        "Sep": 4.57,
+        "Oct": 3.62,
+        "Nov": 2.74,
+        "Dec": 2.49
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Pylaía",
+      "admin1_code": "ESYE12",
+      "location": [
+        40.59918,
+        22.98613
+      ],
+      "monthly": {
+        "Jan": 2.8,
+        "Feb": 3.44,
+        "Mar": 4.12,
+        "Apr": 4.59,
+        "May": 4.96,
+        "Jun": 5.41,
+        "Jul": 5.55,
+        "Aug": 5.31,
+        "Sep": 4.59,
+        "Oct": 3.61,
+        "Nov": 2.71,
+        "Dec": 2.45
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Peraía",
+      "admin1_code": "ESYE12",
+      "location": [
+        40.49874,
+        22.92617
+      ],
+      "monthly": {
+        "Jan": 2.73,
+        "Feb": 3.36,
+        "Mar": 4.09,
+        "Apr": 4.57,
+        "May": 4.98,
+        "Jun": 5.45,
+        "Jul": 5.59,
+        "Aug": 5.33,
+        "Sep": 4.57,
+        "Oct": 3.57,
+        "Nov": 2.64,
+        "Dec": 2.36
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Panórama",
+      "admin1_code": "ESYE12",
+      "location": [
+        40.58779,
+        23.0315
+      ],
+      "monthly": {
+        "Jan": 2.82,
+        "Feb": 3.46,
+        "Mar": 4.14,
+        "Apr": 4.6,
+        "May": 4.96,
+        "Jun": 5.41,
+        "Jul": 5.56,
+        "Aug": 5.33,
+        "Sep": 4.59,
+        "Oct": 3.61,
+        "Nov": 2.75,
+        "Dec": 2.47
+      },
+      "average": 4.14
+    },
+    {
+      "name": "Orestiáda",
+      "admin1_code": "ESYE11",
+      "location": [
+        41.50306,
+        26.52972
+      ],
+      "monthly": {
+        "Jan": 2.27,
+        "Feb": 3.11,
+        "Mar": 3.8,
+        "Apr": 4.42,
+        "May": 4.93,
+        "Jun": 5.16,
+        "Jul": 5.45,
+        "Aug": 5.28,
+        "Sep": 4.54,
+        "Oct": 3.44,
+        "Nov": 2.5,
+        "Dec": 1.96
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Oraiókastro",
+      "admin1_code": "ESYE12",
+      "location": [
+        40.73083,
+        22.91722
+      ],
+      "monthly": {
+        "Jan": 2.86,
+        "Feb": 3.48,
+        "Mar": 4.15,
+        "Apr": 4.58,
+        "May": 4.9,
+        "Jun": 5.31,
+        "Jul": 5.47,
+        "Aug": 5.26,
+        "Sep": 4.6,
+        "Oct": 3.64,
+        "Nov": 2.76,
+        "Dec": 2.5
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Náousa",
+      "admin1_code": "ESYE12",
+      "location": [
+        40.62944,
+        22.06806
+      ],
+      "monthly": {
+        "Jan": 2.72,
+        "Feb": 3.21,
+        "Mar": 3.78,
+        "Apr": 4.03,
+        "May": 4.28,
+        "Jun": 4.84,
+        "Jul": 5.09,
+        "Aug": 4.86,
+        "Sep": 4.07,
+        "Oct": 3.41,
+        "Nov": 2.65,
+        "Dec": 2.36
+      },
+      "average": 3.78
+    },
+    {
+      "name": "Kozáni",
+      "admin1_code": "ESYE13",
+      "location": [
+        40.29931,
+        21.78984
+      ],
+      "monthly": {
+        "Jan": 3,
+        "Feb": 3.62,
+        "Mar": 4.25,
+        "Apr": 4.47,
+        "May": 4.74,
+        "Jun": 5.09,
+        "Jul": 5.26,
+        "Aug": 5.15,
+        "Sep": 4.51,
+        "Oct": 3.85,
+        "Nov": 2.99,
+        "Dec": 2.65
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Komotiní",
+      "admin1_code": "ESYE11",
+      "location": [
+        41.11758,
+        25.40587
+      ],
+      "monthly": {
+        "Jan": 2.61,
+        "Feb": 3.24,
+        "Mar": 3.82,
+        "Apr": 4.41,
+        "May": 4.9,
+        "Jun": 5.13,
+        "Jul": 5.4,
+        "Aug": 5.32,
+        "Sep": 4.61,
+        "Oct": 3.6,
+        "Nov": 2.67,
+        "Dec": 2.29
+      },
+      "average": 4
+    },
+    {
+      "name": "Kilkís",
+      "admin1_code": "ESYE12",
+      "location": [
+        40.99302,
+        22.87433
+      ],
+      "monthly": {
+        "Jan": 2.88,
+        "Feb": 3.52,
+        "Mar": 4.2,
+        "Apr": 4.57,
+        "May": 4.85,
+        "Jun": 5.23,
+        "Jul": 5.42,
+        "Aug": 5.22,
+        "Sep": 4.59,
+        "Oct": 3.68,
+        "Nov": 2.8,
+        "Dec": 2.51
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Kavála",
+      "admin1_code": "ESYE11",
+      "location": [
+        40.93959,
+        24.40687
+      ],
+      "monthly": {
+        "Jan": 2.64,
+        "Feb": 3.36,
+        "Mar": 3.94,
+        "Apr": 4.51,
+        "May": 4.97,
+        "Jun": 5.3,
+        "Jul": 5.48,
+        "Aug": 5.33,
+        "Sep": 4.62,
+        "Oct": 3.65,
+        "Nov": 2.71,
+        "Dec": 2.31
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Kateríni",
+      "admin1_code": "ESYE12",
+      "location": [
+        40.26956,
+        22.50608
+      ],
+      "monthly": {
+        "Jan": 2.8,
+        "Feb": 3.34,
+        "Mar": 3.98,
+        "Apr": 4.39,
+        "May": 4.82,
+        "Jun": 5.3,
+        "Jul": 5.5,
+        "Aug": 5.29,
+        "Sep": 4.49,
+        "Oct": 3.57,
+        "Nov": 2.69,
+        "Dec": 2.46
+      },
+      "average": 4.05
+    },
+    {
+      "name": "Kalamariá",
+      "admin1_code": "ESYE12",
+      "location": [
+        40.5825,
+        22.95028
+      ],
+      "monthly": {
+        "Jan": 2.73,
+        "Feb": 3.38,
+        "Mar": 4.06,
+        "Apr": 4.53,
+        "May": 4.94,
+        "Jun": 5.39,
+        "Jul": 5.54,
+        "Aug": 5.28,
+        "Sep": 4.56,
+        "Oct": 3.56,
+        "Nov": 2.63,
+        "Dec": 2.37
+      },
+      "average": 4.08
+    },
+    {
+      "name": "Flórina",
+      "admin1_code": "ESYE13",
+      "location": [
+        40.78197,
+        21.40981
+      ],
+      "monthly": {
+        "Jan": 2.5,
+        "Feb": 3.3,
+        "Mar": 3.94,
+        "Apr": 4.16,
+        "May": 4.4,
+        "Jun": 4.98,
+        "Jul": 5.24,
+        "Aug": 5.06,
+        "Sep": 4.22,
+        "Oct": 3.68,
+        "Nov": 2.69,
+        "Dec": 2.16
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Évosmos",
+      "admin1_code": "ESYE12",
+      "location": [
+        40.67056,
+        22.90833
+      ],
+      "monthly": {
+        "Jan": 2.86,
+        "Feb": 3.49,
+        "Mar": 4.16,
+        "Apr": 4.58,
+        "May": 4.91,
+        "Jun": 5.34,
+        "Jul": 5.49,
+        "Aug": 5.26,
+        "Sep": 4.59,
+        "Oct": 3.63,
+        "Nov": 2.74,
+        "Dec": 2.5
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Efkarpía",
+      "admin1_code": "ESYE12",
+      "location": [
+        40.68797,
+        22.95348
+      ],
+      "monthly": {
+        "Jan": 2.84,
+        "Feb": 3.48,
+        "Mar": 4.13,
+        "Apr": 4.56,
+        "May": 4.87,
+        "Jun": 5.27,
+        "Jul": 5.43,
+        "Aug": 5.22,
+        "Sep": 4.57,
+        "Oct": 3.62,
+        "Nov": 2.75,
+        "Dec": 2.5
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Elefthério - Kordelió",
+      "admin1_code": "ESYE12",
+      "location": [
+        40.66391,
+        22.89693
+      ],
+      "monthly": {
+        "Jan": 2.85,
+        "Feb": 3.48,
+        "Mar": 4.16,
+        "Apr": 4.59,
+        "May": 4.92,
+        "Jun": 5.34,
+        "Jul": 5.49,
+        "Aug": 5.26,
+        "Sep": 4.59,
+        "Oct": 3.62,
+        "Nov": 2.74,
+        "Dec": 2.49
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Édessa",
+      "admin1_code": "ESYE12",
+      "location": [
+        40.8026,
+        22.04751
+      ],
+      "monthly": {
+        "Jan": 2.89,
+        "Feb": 3.41,
+        "Mar": 4.01,
+        "Apr": 4.27,
+        "May": 4.6,
+        "Jun": 5.16,
+        "Jul": 5.37,
+        "Aug": 5.13,
+        "Sep": 4.39,
+        "Oct": 3.64,
+        "Nov": 2.8,
+        "Dec": 2.54
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Dráma",
+      "admin1_code": "ESYE11",
+      "location": [
+        41.15283,
+        24.1473
+      ],
+      "monthly": {
+        "Jan": 2.81,
+        "Feb": 3.5,
+        "Mar": 3.96,
+        "Apr": 4.37,
+        "May": 4.72,
+        "Jun": 5.05,
+        "Jul": 5.3,
+        "Aug": 5.14,
+        "Sep": 4.53,
+        "Oct": 3.73,
+        "Nov": 2.89,
+        "Dec": 2.46
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Alexandroupoli",
+      "admin1_code": "ESYE11",
+      "location": [
+        40.84995,
+        25.87644
+      ],
+      "monthly": {
+        "Jan": 2.53,
+        "Feb": 3.22,
+        "Mar": 3.9,
+        "Apr": 4.58,
+        "May": 5.09,
+        "Jun": 5.33,
+        "Jul": 5.48,
+        "Aug": 5.35,
+        "Sep": 4.7,
+        "Oct": 3.63,
+        "Nov": 2.63,
+        "Dec": 2.21
+      },
+      "average": 4.05
+    },
+    {
+      "name": "Corfu",
+      "admin1_code": "ESYE22",
+      "location": [
+        39.62441,
+        19.92016
+      ],
+      "monthly": {
+        "Jan": 2.69,
+        "Feb": 3.27,
+        "Mar": 4.06,
+        "Apr": 4.6,
+        "May": 5.14,
+        "Jun": 5.65,
+        "Jul": 5.83,
+        "Aug": 5.52,
+        "Sep": 4.57,
+        "Oct": 3.74,
+        "Nov": 2.74,
+        "Dec": 2.4
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Vrilissia",
+      "admin1_code": "ESYE31",
+      "location": [
+        38.03381,
+        23.82962
+      ],
+      "monthly": {
+        "Jan": 3.04,
+        "Feb": 3.62,
+        "Mar": 4.35,
+        "Apr": 4.87,
+        "May": 5.12,
+        "Jun": 5.46,
+        "Jul": 5.63,
+        "Aug": 5.53,
+        "Sep": 4.89,
+        "Oct": 4.04,
+        "Nov": 3.19,
+        "Dec": 2.67
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Gérakas",
+      "admin1_code": "ESYE31",
+      "location": [
+        38.02277,
+        23.8576
+      ],
+      "monthly": {
+        "Jan": 3.02,
+        "Feb": 3.6,
+        "Mar": 4.33,
+        "Apr": 4.86,
+        "May": 5.12,
+        "Jun": 5.47,
+        "Jul": 5.63,
+        "Aug": 5.53,
+        "Sep": 4.89,
+        "Oct": 4.02,
+        "Nov": 3.18,
+        "Dec": 2.65
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Ilioúpoli",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.93149,
+        23.76779
+      ],
+      "monthly": {
+        "Jan": 2.74,
+        "Feb": 3.49,
+        "Mar": 4.34,
+        "Apr": 4.9,
+        "May": 5.25,
+        "Jun": 5.6,
+        "Jul": 5.73,
+        "Aug": 5.56,
+        "Sep": 4.86,
+        "Oct": 3.91,
+        "Nov": 2.98,
+        "Dec": 2.44
+      },
+      "average": 4.32
+    },
+    {
+      "name": "Korydallós",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.98468,
+        23.64711
+      ],
+      "monthly": {
+        "Jan": 3.07,
+        "Feb": 3.68,
+        "Mar": 4.41,
+        "Apr": 4.94,
+        "May": 5.2,
+        "Jun": 5.53,
+        "Jul": 5.67,
+        "Aug": 5.53,
+        "Sep": 4.93,
+        "Oct": 4.04,
+        "Nov": 3.15,
+        "Dec": 2.66
+      },
+      "average": 4.4
+    },
+    {
+      "name": "Zográfos",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.97574,
+        23.76911
+      ],
+      "monthly": {
+        "Jan": 3.04,
+        "Feb": 3.64,
+        "Mar": 4.4,
+        "Apr": 4.88,
+        "May": 5.18,
+        "Jun": 5.49,
+        "Jul": 5.62,
+        "Aug": 5.5,
+        "Sep": 4.87,
+        "Oct": 4.02,
+        "Nov": 3.18,
+        "Dec": 2.65
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Péfki",
+      "admin1_code": "ESYE31",
+      "location": [
+        38.06019,
+        23.79264
+      ],
+      "monthly": {
+        "Jan": 3.01,
+        "Feb": 3.61,
+        "Mar": 4.33,
+        "Apr": 4.84,
+        "May": 5.08,
+        "Jun": 5.42,
+        "Jul": 5.59,
+        "Aug": 5.49,
+        "Sep": 4.83,
+        "Oct": 4,
+        "Nov": 3.16,
+        "Dec": 2.65
+      },
+      "average": 4.33
+    },
+    {
+      "name": "Ágioi Anárgyroi",
+      "admin1_code": "ESYE31",
+      "location": [
+        38.03013,
+        23.72379
+      ],
+      "monthly": {
+        "Jan": 3.06,
+        "Feb": 3.65,
+        "Mar": 4.38,
+        "Apr": 4.86,
+        "May": 5.12,
+        "Jun": 5.43,
+        "Jul": 5.59,
+        "Aug": 5.45,
+        "Sep": 4.83,
+        "Oct": 3.99,
+        "Nov": 3.15,
+        "Dec": 2.67
+      },
+      "average": 4.35
+    },
+    {
+      "name": "Agios Ioannis Rentis",
+      "admin1_code": "ESYE31",
+      "location": [
+        37.96491,
+        23.66511
+      ],
+      "monthly": {
+        "Jan": 3.08,
+        "Feb": 3.68,
+        "Mar": 4.4,
+        "Apr": 4.92,
+        "May": 5.21,
+        "Jun": 5.52,
+        "Jul": 5.64,
+        "Aug": 5.49,
+        "Sep": 4.9,
+        "Oct": 3.99,
+        "Nov": 3.12,
+        "Dec": 2.65
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Néa Ionía",
+      "admin1_code": "ESYE14",
+      "location": [
+        39.37904,
+        22.92752
+      ],
+      "monthly": {
+        "Jan": 2.84,
+        "Feb": 3.4,
+        "Mar": 4.13,
+        "Apr": 4.67,
+        "May": 5.04,
+        "Jun": 5.47,
+        "Jul": 5.63,
+        "Aug": 5.44,
+        "Sep": 4.61,
+        "Oct": 3.6,
+        "Nov": 2.73,
+        "Dec": 2.4
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Neapoli",
+      "admin1_code": "ESYE12",
+      "location": [
+        40.6532,
+        22.94156
+      ],
+      "monthly": {
+        "Jan": 2.85,
+        "Feb": 3.48,
+        "Mar": 4.15,
+        "Apr": 4.58,
+        "May": 4.92,
+        "Jun": 5.33,
+        "Jul": 5.48,
+        "Aug": 5.25,
+        "Sep": 4.58,
+        "Oct": 3.62,
+        "Nov": 2.73,
+        "Dec": 2.48
+      },
+      "average": 4.12
+    }
+  ]
+}

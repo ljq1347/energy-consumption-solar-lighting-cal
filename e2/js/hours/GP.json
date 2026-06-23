@@ -1,0 +1,236 @@
+{
+  "country": "GP",
+  "countryCode": "GP",
+  "cities": [
+    {
+      "name": "Sainte-Rose",
+      "admin1_code": "GP",
+      "location": [
+        16.33264,
+        -61.6969
+      ],
+      "monthly": {
+        "Jan": 4.07,
+        "Feb": 4.38,
+        "Mar": 4.47,
+        "Apr": 4.16,
+        "May": 4.12,
+        "Jun": 4.02,
+        "Jul": 3.98,
+        "Aug": 4.19,
+        "Sep": 4.31,
+        "Oct": 4.17,
+        "Nov": 3.98,
+        "Dec": 3.99
+      },
+      "average": 4.15
+    },
+    {
+      "name": "Sainte-Anne",
+      "admin1_code": "GP",
+      "location": [
+        16.22564,
+        -61.38098
+      ],
+      "monthly": {
+        "Jan": 4.68,
+        "Feb": 5,
+        "Mar": 5.25,
+        "Apr": 5.02,
+        "May": 4.8,
+        "Jun": 4.58,
+        "Jul": 4.65,
+        "Aug": 4.85,
+        "Sep": 4.85,
+        "Oct": 4.61,
+        "Nov": 4.46,
+        "Dec": 4.46
+      },
+      "average": 4.77
+    },
+    {
+      "name": "Pointe-à-Pitre",
+      "admin1_code": "GP",
+      "location": [
+        16.23638,
+        -61.53459
+      ],
+      "monthly": {
+        "Jan": 4.39,
+        "Feb": 4.71,
+        "Mar": 4.91,
+        "Apr": 4.76,
+        "May": 4.66,
+        "Jun": 4.46,
+        "Jul": 4.47,
+        "Aug": 4.65,
+        "Sep": 4.65,
+        "Oct": 4.43,
+        "Nov": 4.26,
+        "Dec": 4.23
+      },
+      "average": 4.55
+    },
+    {
+      "name": "Petit-Bourg",
+      "admin1_code": "GP",
+      "location": [
+        16.19163,
+        -61.5914
+      ],
+      "monthly": {
+        "Jan": 4.34,
+        "Feb": 4.72,
+        "Mar": 4.91,
+        "Apr": 4.72,
+        "May": 4.55,
+        "Jun": 4.42,
+        "Jul": 4.49,
+        "Aug": 4.69,
+        "Sep": 4.68,
+        "Oct": 4.47,
+        "Nov": 4.22,
+        "Dec": 4.15
+      },
+      "average": 4.53
+    },
+    {
+      "name": "Les Abymes",
+      "admin1_code": "GP",
+      "location": [
+        16.273,
+        -61.50507
+      ],
+      "monthly": {
+        "Jan": 4.41,
+        "Feb": 4.69,
+        "Mar": 4.82,
+        "Apr": 4.6,
+        "May": 4.52,
+        "Jun": 4.33,
+        "Jul": 4.34,
+        "Aug": 4.53,
+        "Sep": 4.57,
+        "Oct": 4.38,
+        "Nov": 4.24,
+        "Dec": 4.27
+      },
+      "average": 4.48
+    },
+    {
+      "name": "Le Moule",
+      "admin1_code": "GP",
+      "location": [
+        16.33164,
+        -61.34656
+      ],
+      "monthly": {
+        "Jan": 4.64,
+        "Feb": 4.97,
+        "Mar": 5.09,
+        "Apr": 4.78,
+        "May": 4.56,
+        "Jun": 4.43,
+        "Jul": 4.57,
+        "Aug": 4.75,
+        "Sep": 4.74,
+        "Oct": 4.54,
+        "Nov": 4.38,
+        "Dec": 4.5
+      },
+      "average": 4.66
+    },
+    {
+      "name": "Le Gosier",
+      "admin1_code": "GP",
+      "location": [
+        16.20618,
+        -61.49306
+      ],
+      "monthly": {
+        "Jan": 4.64,
+        "Feb": 4.97,
+        "Mar": 5.18,
+        "Apr": 4.96,
+        "May": 4.75,
+        "Jun": 4.58,
+        "Jul": 4.65,
+        "Aug": 4.82,
+        "Sep": 4.78,
+        "Oct": 4.55,
+        "Nov": 4.4,
+        "Dec": 4.43
+      },
+      "average": 4.73
+    },
+    {
+      "name": "Capesterre-Belle-Eau",
+      "admin1_code": "GP",
+      "location": [
+        16.04495,
+        -61.56425
+      ],
+      "monthly": {
+        "Jan": 4.29,
+        "Feb": 4.7,
+        "Mar": 4.84,
+        "Apr": 4.57,
+        "May": 4.36,
+        "Jun": 4.25,
+        "Jul": 4.38,
+        "Aug": 4.62,
+        "Sep": 4.64,
+        "Oct": 4.43,
+        "Nov": 4.17,
+        "Dec": 4.13
+      },
+      "average": 4.45
+    },
+    {
+      "name": "Basse-Terre",
+      "admin1_code": "GP",
+      "location": [
+        15.99714,
+        -61.73214
+      ],
+      "monthly": {
+        "Jan": 4.7,
+        "Feb": 5.04,
+        "Mar": 5.19,
+        "Apr": 4.99,
+        "May": 4.73,
+        "Jun": 4.58,
+        "Jul": 4.64,
+        "Aug": 4.79,
+        "Sep": 4.77,
+        "Oct": 4.59,
+        "Nov": 4.55,
+        "Dec": 4.56
+      },
+      "average": 4.76
+    },
+    {
+      "name": "Baie-Mahault",
+      "admin1_code": "GP",
+      "location": [
+        16.26738,
+        -61.58543
+      ],
+      "monthly": {
+        "Jan": 4.18,
+        "Feb": 4.52,
+        "Mar": 4.66,
+        "Apr": 4.45,
+        "May": 4.45,
+        "Jun": 4.26,
+        "Jul": 4.24,
+        "Aug": 4.43,
+        "Sep": 4.49,
+        "Oct": 4.29,
+        "Nov": 4.1,
+        "Dec": 4.07
+      },
+      "average": 4.34
+    }
+  ]
+}

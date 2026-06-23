@@ -1,0 +1,29 @@
+{
+  "country": "NU",
+  "countryCode": "NU",
+  "cities": [
+    {
+      "name": "Alofi",
+      "admin1_code": "00",
+      "location": [
+        -19.05294,
+        -169.91957
+      ],
+      "monthly": {
+        "Jan": 4.14,
+        "Feb": 4.27,
+        "Mar": 4.24,
+        "Apr": 4,
+        "May": 3.5,
+        "Jun": 3.41,
+        "Jul": 3.57,
+        "Aug": 3.84,
+        "Sep": 4.07,
+        "Oct": 4.14,
+        "Nov": 4.13,
+        "Dec": 4.24
+      },
+      "average": 3.96
+    }
+  ]
+}

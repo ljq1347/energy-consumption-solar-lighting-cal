@@ -1,0 +1,29 @@
+{
+  "country": "IM",
+  "countryCode": "IM",
+  "cities": [
+    {
+      "name": "Douglas",
+      "admin1_code": "9782170",
+      "location": [
+        54.15,
+        -4.48333
+      ],
+      "monthly": {
+        "Jan": 0.98,
+        "Feb": 1.8,
+        "Mar": 2.8,
+        "Apr": 3.92,
+        "May": 4.55,
+        "Jun": 4.3,
+        "Jul": 4.12,
+        "Aug": 3.65,
+        "Sep": 2.86,
+        "Oct": 1.86,
+        "Nov": 1.14,
+        "Dec": 0.73
+      },
+      "average": 2.73
+    }
+  ]
+}

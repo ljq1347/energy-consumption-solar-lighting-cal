@@ -1,0 +1,696 @@
+{
+  "country": "Haiti",
+  "countryCode": "HT",
+  "cities": [
+    {
+      "name": "Verrettes",
+      "admin1_code": "06",
+      "location": [
+        19.0505,
+        -72.46585
+      ],
+      "monthly": {
+        "Jan": 4.9,
+        "Feb": 5.14,
+        "Mar": 5.22,
+        "Apr": 4.97,
+        "May": 4.6,
+        "Jun": 4.63,
+        "Jul": 4.8,
+        "Aug": 4.91,
+        "Sep": 5.02,
+        "Oct": 4.79,
+        "Nov": 4.67,
+        "Dec": 4.73
+      },
+      "average": 4.86
+    },
+    {
+      "name": "Thomazeau",
+      "admin1_code": "11",
+      "location": [
+        18.65297,
+        -72.09391
+      ],
+      "monthly": {
+        "Jan": 5.12,
+        "Feb": 5.44,
+        "Mar": 5.5,
+        "Apr": 5.27,
+        "May": 4.76,
+        "Jun": 4.67,
+        "Jul": 4.75,
+        "Aug": 4.86,
+        "Sep": 5.06,
+        "Oct": 4.91,
+        "Nov": 4.89,
+        "Dec": 4.93
+      },
+      "average": 5.01
+    },
+    {
+      "name": "Terrier Rouge",
+      "admin1_code": "10",
+      "location": [
+        19.63634,
+        -71.95483
+      ],
+      "monthly": {
+        "Jan": 4.55,
+        "Feb": 4.94,
+        "Mar": 5.07,
+        "Apr": 4.96,
+        "May": 4.57,
+        "Jun": 4.61,
+        "Jul": 4.66,
+        "Aug": 4.75,
+        "Sep": 4.98,
+        "Oct": 4.74,
+        "Nov": 4.3,
+        "Dec": 4.35
+      },
+      "average": 4.71
+    },
+    {
+      "name": "Saint-Raphaël",
+      "admin1_code": "09",
+      "location": [
+        19.43877,
+        -72.1991
+      ],
+      "monthly": {
+        "Jan": 4.66,
+        "Feb": 5,
+        "Mar": 5.07,
+        "Apr": 4.93,
+        "May": 4.59,
+        "Jun": 4.66,
+        "Jul": 4.79,
+        "Aug": 4.88,
+        "Sep": 4.97,
+        "Oct": 4.73,
+        "Nov": 4.42,
+        "Dec": 4.47
+      },
+      "average": 4.76
+    },
+    {
+      "name": "Saint-Michel de l'Atalaye",
+      "admin1_code": "06",
+      "location": [
+        19.37084,
+        -72.33472
+      ],
+      "monthly": {
+        "Jan": 4.68,
+        "Feb": 4.91,
+        "Mar": 4.91,
+        "Apr": 4.79,
+        "May": 4.57,
+        "Jun": 4.69,
+        "Jul": 4.81,
+        "Aug": 4.9,
+        "Sep": 4.96,
+        "Oct": 4.71,
+        "Nov": 4.46,
+        "Dec": 4.52
+      },
+      "average": 4.74
+    },
+    {
+      "name": "Saint-Marc",
+      "admin1_code": "06",
+      "location": [
+        19.11136,
+        -72.70078
+      ],
+      "monthly": {
+        "Jan": 4.93,
+        "Feb": 5.2,
+        "Mar": 5.3,
+        "Apr": 5.1,
+        "May": 4.65,
+        "Jun": 4.62,
+        "Jul": 4.81,
+        "Aug": 4.92,
+        "Sep": 5.03,
+        "Oct": 4.78,
+        "Nov": 4.7,
+        "Dec": 4.72
+      },
+      "average": 4.9
+    },
+    {
+      "name": "Port-de-Paix",
+      "admin1_code": "03",
+      "location": [
+        19.93984,
+        -72.83037
+      ],
+      "monthly": {
+        "Jan": 4.54,
+        "Feb": 5.05,
+        "Mar": 5.16,
+        "Apr": 5.12,
+        "May": 4.69,
+        "Jun": 4.71,
+        "Jul": 4.89,
+        "Aug": 4.97,
+        "Sep": 4.99,
+        "Oct": 4.68,
+        "Nov": 4.44,
+        "Dec": 4.41
+      },
+      "average": 4.8
+    },
+    {
+      "name": "Port-au-Prince",
+      "admin1_code": "11",
+      "location": [
+        18.54349,
+        -72.33881
+      ],
+      "monthly": {
+        "Jan": 4.92,
+        "Feb": 5.21,
+        "Mar": 5.23,
+        "Apr": 4.94,
+        "May": 4.39,
+        "Jun": 4.36,
+        "Jul": 4.53,
+        "Aug": 4.62,
+        "Sep": 4.78,
+        "Oct": 4.61,
+        "Nov": 4.67,
+        "Dec": 4.76
+      },
+      "average": 4.75
+    },
+    {
+      "name": "Tigwav",
+      "admin1_code": "11",
+      "location": [
+        18.43117,
+        -72.86521
+      ],
+      "monthly": {
+        "Jan": 4.8,
+        "Feb": 5.06,
+        "Mar": 5.08,
+        "Apr": 4.82,
+        "May": 4.43,
+        "Jun": 4.51,
+        "Jul": 4.62,
+        "Aug": 4.71,
+        "Sep": 4.8,
+        "Oct": 4.56,
+        "Nov": 4.55,
+        "Dec": 4.64
+      },
+      "average": 4.71
+    },
+    {
+      "name": "Pétionville",
+      "admin1_code": "11",
+      "location": [
+        18.5125,
+        -72.28528
+      ],
+      "monthly": {
+        "Jan": 4.86,
+        "Feb": 5.17,
+        "Mar": 5.1,
+        "Apr": 4.77,
+        "May": 4.26,
+        "Jun": 4.35,
+        "Jul": 4.55,
+        "Aug": 4.56,
+        "Sep": 4.64,
+        "Oct": 4.5,
+        "Nov": 4.57,
+        "Dec": 4.66
+      },
+      "average": 4.67
+    },
+    {
+      "name": "Miragoâne",
+      "admin1_code": "15",
+      "location": [
+        18.44599,
+        -73.08957
+      ],
+      "monthly": {
+        "Jan": 4.76,
+        "Feb": 4.99,
+        "Mar": 4.95,
+        "Apr": 4.72,
+        "May": 4.39,
+        "Jun": 4.47,
+        "Jul": 4.61,
+        "Aug": 4.69,
+        "Sep": 4.82,
+        "Oct": 4.57,
+        "Nov": 4.55,
+        "Dec": 4.62
+      },
+      "average": 4.68
+    },
+    {
+      "name": "Lenbe",
+      "admin1_code": "09",
+      "location": [
+        19.70603,
+        -72.40336
+      ],
+      "monthly": {
+        "Jan": 4.14,
+        "Feb": 4.48,
+        "Mar": 4.63,
+        "Apr": 4.58,
+        "May": 4.3,
+        "Jun": 4.46,
+        "Jul": 4.5,
+        "Aug": 4.64,
+        "Sep": 4.86,
+        "Oct": 4.57,
+        "Nov": 4.04,
+        "Dec": 3.99
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Léogâne",
+      "admin1_code": "11",
+      "location": [
+        18.5111,
+        -72.63343
+      ],
+      "monthly": {
+        "Jan": 4.97,
+        "Feb": 5.26,
+        "Mar": 5.33,
+        "Apr": 5.08,
+        "May": 4.56,
+        "Jun": 4.46,
+        "Jul": 4.6,
+        "Aug": 4.72,
+        "Sep": 4.93,
+        "Oct": 4.72,
+        "Nov": 4.74,
+        "Dec": 4.8
+      },
+      "average": 4.85
+    },
+    {
+      "name": "Kenscoff",
+      "admin1_code": "11",
+      "location": [
+        18.44773,
+        -72.28398
+      ],
+      "monthly": {
+        "Jan": 4.19,
+        "Feb": 4.38,
+        "Mar": 4.17,
+        "Apr": 3.82,
+        "May": 3.69,
+        "Jun": 4.09,
+        "Jul": 4.25,
+        "Aug": 4.19,
+        "Sep": 4,
+        "Oct": 3.77,
+        "Nov": 3.73,
+        "Dec": 4.05
+      },
+      "average": 4.03
+    },
+    {
+      "name": "Jérémie",
+      "admin1_code": "14",
+      "location": [
+        18.65,
+        -74.11667
+      ],
+      "monthly": {
+        "Jan": 4.61,
+        "Feb": 5,
+        "Mar": 5.06,
+        "Apr": 4.93,
+        "May": 4.51,
+        "Jun": 4.62,
+        "Jul": 4.83,
+        "Aug": 4.78,
+        "Sep": 4.86,
+        "Oct": 4.59,
+        "Nov": 4.43,
+        "Dec": 4.46
+      },
+      "average": 4.72
+    },
+    {
+      "name": "Jacmel",
+      "admin1_code": "13",
+      "location": [
+        18.23569,
+        -72.53686
+      ],
+      "monthly": {
+        "Jan": 4.9,
+        "Feb": 5.12,
+        "Mar": 5.16,
+        "Apr": 4.98,
+        "May": 4.66,
+        "Jun": 4.67,
+        "Jul": 4.82,
+        "Aug": 4.88,
+        "Sep": 4.98,
+        "Oct": 4.71,
+        "Nov": 4.62,
+        "Dec": 4.7
+      },
+      "average": 4.85
+    },
+    {
+      "name": "Hinche",
+      "admin1_code": "07",
+      "location": [
+        19.1409,
+        -72.01194
+      ],
+      "monthly": {
+        "Jan": 4.87,
+        "Feb": 5.15,
+        "Mar": 5.17,
+        "Apr": 5.02,
+        "May": 4.73,
+        "Jun": 4.69,
+        "Jul": 4.78,
+        "Aug": 4.9,
+        "Sep": 5.05,
+        "Oct": 4.88,
+        "Nov": 4.65,
+        "Dec": 4.71
+      },
+      "average": 4.88
+    },
+    {
+      "name": "Gressier",
+      "admin1_code": "11",
+      "location": [
+        18.54091,
+        -72.52679
+      ],
+      "monthly": {
+        "Jan": 4.89,
+        "Feb": 5.18,
+        "Mar": 5.23,
+        "Apr": 4.99,
+        "May": 4.49,
+        "Jun": 4.38,
+        "Jul": 4.52,
+        "Aug": 4.63,
+        "Sep": 4.82,
+        "Oct": 4.65,
+        "Nov": 4.68,
+        "Dec": 4.75
+      },
+      "average": 4.77
+    },
+    {
+      "name": "Grand Gosier",
+      "admin1_code": "13",
+      "location": [
+        18.18543,
+        -71.9182
+      ],
+      "monthly": {
+        "Jan": 4.97,
+        "Feb": 5.2,
+        "Mar": 5.15,
+        "Apr": 4.91,
+        "May": 4.6,
+        "Jun": 4.62,
+        "Jul": 4.82,
+        "Aug": 4.83,
+        "Sep": 4.84,
+        "Oct": 4.68,
+        "Nov": 4.68,
+        "Dec": 4.78
+      },
+      "average": 4.84
+    },
+    {
+      "name": "Grangwav",
+      "admin1_code": "11",
+      "location": [
+        18.4259,
+        -72.76995
+      ],
+      "monthly": {
+        "Jan": 4.84,
+        "Feb": 5.13,
+        "Mar": 5.18,
+        "Apr": 4.95,
+        "May": 4.55,
+        "Jun": 4.59,
+        "Jul": 4.68,
+        "Aug": 4.77,
+        "Sep": 4.89,
+        "Oct": 4.66,
+        "Nov": 4.6,
+        "Dec": 4.7
+      },
+      "average": 4.79
+    },
+    {
+      "name": "Gonaïves",
+      "admin1_code": "06",
+      "location": [
+        19.44755,
+        -72.68928
+      ],
+      "monthly": {
+        "Jan": 5.1,
+        "Feb": 5.43,
+        "Mar": 5.55,
+        "Apr": 5.35,
+        "May": 4.86,
+        "Jun": 4.72,
+        "Jul": 4.86,
+        "Aug": 4.96,
+        "Sep": 5.1,
+        "Oct": 4.97,
+        "Nov": 4.88,
+        "Dec": 4.9
+      },
+      "average": 5.06
+    },
+    {
+      "name": "Fond Parisien",
+      "admin1_code": "11",
+      "location": [
+        18.50547,
+        -71.98122
+      ],
+      "monthly": {
+        "Jan": 5.05,
+        "Feb": 5.35,
+        "Mar": 5.32,
+        "Apr": 5.04,
+        "May": 4.46,
+        "Jun": 4.47,
+        "Jul": 4.65,
+        "Aug": 4.74,
+        "Sep": 4.86,
+        "Oct": 4.77,
+        "Nov": 4.79,
+        "Dec": 4.88
+      },
+      "average": 4.86
+    },
+    {
+      "name": "Désarmes",
+      "admin1_code": "06",
+      "location": [
+        18.99345,
+        -72.39058
+      ],
+      "monthly": {
+        "Jan": 4.89,
+        "Feb": 5.14,
+        "Mar": 5.18,
+        "Apr": 4.96,
+        "May": 4.63,
+        "Jun": 4.63,
+        "Jul": 4.8,
+        "Aug": 4.91,
+        "Sep": 5.01,
+        "Oct": 4.81,
+        "Nov": 4.71,
+        "Dec": 4.73
+      },
+      "average": 4.87
+    },
+    {
+      "name": "Delmas",
+      "admin1_code": "11",
+      "location": [
+        18.54478,
+        -72.30036
+      ],
+      "monthly": {
+        "Jan": 5,
+        "Feb": 5.29,
+        "Mar": 5.3,
+        "Apr": 5,
+        "May": 4.45,
+        "Jun": 4.45,
+        "Jul": 4.6,
+        "Aug": 4.68,
+        "Sep": 4.83,
+        "Oct": 4.68,
+        "Nov": 4.74,
+        "Dec": 4.83
+      },
+      "average": 4.82
+    },
+    {
+      "name": "Croix-des-Bouquets",
+      "admin1_code": "11",
+      "location": [
+        18.57677,
+        -72.22625
+      ],
+      "monthly": {
+        "Jan": 5.12,
+        "Feb": 5.45,
+        "Mar": 5.51,
+        "Apr": 5.26,
+        "May": 4.73,
+        "Jun": 4.64,
+        "Jul": 4.75,
+        "Aug": 4.86,
+        "Sep": 5.01,
+        "Oct": 4.89,
+        "Nov": 4.87,
+        "Dec": 4.93
+      },
+      "average": 5
+    },
+    {
+      "name": "Les Cayes",
+      "admin1_code": "12",
+      "location": [
+        18.19199,
+        -73.74948
+      ],
+      "monthly": {
+        "Jan": 4.94,
+        "Feb": 5.15,
+        "Mar": 5.16,
+        "Apr": 4.97,
+        "May": 4.59,
+        "Jun": 4.7,
+        "Jul": 4.89,
+        "Aug": 4.93,
+        "Sep": 4.99,
+        "Oct": 4.58,
+        "Nov": 4.63,
+        "Dec": 4.71
+      },
+      "average": 4.85
+    },
+    {
+      "name": "Cap-Haïtien",
+      "admin1_code": "09",
+      "location": [
+        19.75938,
+        -72.19815
+      ],
+      "monthly": {
+        "Jan": 4.59,
+        "Feb": 5.02,
+        "Mar": 5.17,
+        "Apr": 5.11,
+        "May": 4.71,
+        "Jun": 4.8,
+        "Jul": 4.96,
+        "Aug": 5.06,
+        "Sep": 5.21,
+        "Oct": 4.9,
+        "Nov": 4.4,
+        "Dec": 4.41
+      },
+      "average": 4.86
+    },
+    {
+      "name": "Arcahaie",
+      "admin1_code": "11",
+      "location": [
+        18.77019,
+        -72.51226
+      ],
+      "monthly": {
+        "Jan": 5.14,
+        "Feb": 5.48,
+        "Mar": 5.58,
+        "Apr": 5.39,
+        "May": 4.89,
+        "Jun": 4.77,
+        "Jul": 4.89,
+        "Aug": 5.01,
+        "Sep": 5.18,
+        "Oct": 4.99,
+        "Nov": 4.92,
+        "Dec": 4.95
+      },
+      "average": 5.1
+    },
+    {
+      "name": "Ti Port-de-Paix",
+      "admin1_code": "03",
+      "location": [
+        19.93333,
+        -72.83333
+      ],
+      "monthly": {
+        "Jan": 4.51,
+        "Feb": 5.02,
+        "Mar": 5.14,
+        "Apr": 5.08,
+        "May": 4.66,
+        "Jun": 4.67,
+        "Jul": 4.85,
+        "Aug": 4.93,
+        "Sep": 4.96,
+        "Oct": 4.66,
+        "Nov": 4.42,
+        "Dec": 4.39
+      },
+      "average": 4.77
+    },
+    {
+      "name": "Carrefour",
+      "admin1_code": "11",
+      "location": [
+        18.53333,
+        -72.4
+      ],
+      "monthly": {
+        "Jan": 4.87,
+        "Feb": 5.19,
+        "Mar": 5.2,
+        "Apr": 4.92,
+        "May": 4.4,
+        "Jun": 4.3,
+        "Jul": 4.44,
+        "Aug": 4.56,
+        "Sep": 4.76,
+        "Oct": 4.59,
+        "Nov": 4.66,
+        "Dec": 4.72
+      },
+      "average": 4.72
+    }
+  ]
+}

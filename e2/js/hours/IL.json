@@ -1,0 +1,2444 @@
+{
+  "country": "Israel",
+  "countryCode": "IL",
+  "cities": [
+    {
+      "name": "Jerusalem",
+      "admin1_code": "06",
+      "location": [
+        31.76904,
+        35.21633
+      ],
+      "monthly": {
+        "Jan": 3.83,
+        "Feb": 4.26,
+        "Mar": 5.01,
+        "Apr": 5.43,
+        "May": 5.74,
+        "Jun": 5.93,
+        "Jul": 5.92,
+        "Aug": 5.89,
+        "Sep": 5.69,
+        "Oct": 4.95,
+        "Nov": 4.19,
+        "Dec": 3.75
+      },
+      "average": 5.05
+    },
+    {
+      "name": "Giv`at H̱ananya",
+      "admin1_code": "06",
+      "location": [
+        31.76667,
+        35.23333
+      ],
+      "monthly": {
+        "Jan": 3.83,
+        "Feb": 4.28,
+        "Mar": 5.03,
+        "Apr": 5.43,
+        "May": 5.71,
+        "Jun": 5.9,
+        "Jul": 5.88,
+        "Aug": 5.86,
+        "Sep": 5.67,
+        "Oct": 4.93,
+        "Nov": 4.18,
+        "Dec": 3.76
+      },
+      "average": 5.04
+    },
+    {
+      "name": "Modi‘in Makkabbim Re‘ut",
+      "admin1_code": "02",
+      "location": [
+        31.89385,
+        35.01504
+      ],
+      "monthly": {
+        "Jan": 3.62,
+        "Feb": 4,
+        "Mar": 4.73,
+        "Apr": 5.18,
+        "May": 5.55,
+        "Jun": 5.77,
+        "Jul": 5.76,
+        "Aug": 5.68,
+        "Sep": 5.39,
+        "Oct": 4.63,
+        "Nov": 4,
+        "Dec": 3.6
+      },
+      "average": 4.83
+    },
+    {
+      "name": "Zikhron Ya‘aqov",
+      "admin1_code": "04",
+      "location": [
+        32.56883,
+        34.95427
+      ],
+      "monthly": {
+        "Jan": 3.46,
+        "Feb": 4.02,
+        "Mar": 4.83,
+        "Apr": 5.26,
+        "May": 5.61,
+        "Jun": 5.74,
+        "Jul": 5.65,
+        "Aug": 5.57,
+        "Sep": 5.44,
+        "Oct": 4.7,
+        "Nov": 3.99,
+        "Dec": 3.4
+      },
+      "average": 4.81
+    },
+    {
+      "name": "Safed",
+      "admin1_code": "03",
+      "location": [
+        32.96465,
+        35.496
+      ],
+      "monthly": {
+        "Jan": 3.49,
+        "Feb": 3.99,
+        "Mar": 4.8,
+        "Apr": 5.29,
+        "May": 5.75,
+        "Jun": 5.98,
+        "Jul": 5.99,
+        "Aug": 5.93,
+        "Sep": 5.69,
+        "Oct": 4.84,
+        "Nov": 4.1,
+        "Dec": 3.43
+      },
+      "average": 4.94
+    },
+    {
+      "name": "Yoqne‘am ‘Illit",
+      "admin1_code": "03",
+      "location": [
+        32.64661,
+        35.09202
+      ],
+      "monthly": {
+        "Jan": 3.42,
+        "Feb": 3.93,
+        "Mar": 4.7,
+        "Apr": 5.17,
+        "May": 5.6,
+        "Jun": 5.77,
+        "Jul": 5.75,
+        "Aug": 5.65,
+        "Sep": 5.4,
+        "Oct": 4.55,
+        "Nov": 3.91,
+        "Dec": 3.36
+      },
+      "average": 4.77
+    },
+    {
+      "name": "Yirkā",
+      "admin1_code": "03",
+      "location": [
+        32.95435,
+        35.21197
+      ],
+      "monthly": {
+        "Jan": 3.43,
+        "Feb": 3.92,
+        "Mar": 4.59,
+        "Apr": 5.05,
+        "May": 5.5,
+        "Jun": 5.63,
+        "Jul": 5.56,
+        "Aug": 5.45,
+        "Sep": 5.35,
+        "Oct": 4.64,
+        "Nov": 3.98,
+        "Dec": 3.36
+      },
+      "average": 4.71
+    },
+    {
+      "name": "Yehud",
+      "admin1_code": "02",
+      "location": [
+        32.03317,
+        34.89091
+      ],
+      "monthly": {
+        "Jan": 3.63,
+        "Feb": 4.09,
+        "Mar": 4.84,
+        "Apr": 5.29,
+        "May": 5.62,
+        "Jun": 5.81,
+        "Jul": 5.78,
+        "Aug": 5.69,
+        "Sep": 5.46,
+        "Oct": 4.69,
+        "Nov": 4.03,
+        "Dec": 3.57
+      },
+      "average": 4.87
+    },
+    {
+      "name": "Yavné",
+      "admin1_code": "02",
+      "location": [
+        31.87808,
+        34.73983
+      ],
+      "monthly": {
+        "Jan": 3.7,
+        "Feb": 4.2,
+        "Mar": 4.96,
+        "Apr": 5.38,
+        "May": 5.68,
+        "Jun": 5.84,
+        "Jul": 5.78,
+        "Aug": 5.71,
+        "Sep": 5.52,
+        "Oct": 4.78,
+        "Nov": 4.08,
+        "Dec": 3.62
+      },
+      "average": 4.94
+    },
+    {
+      "name": "Jaffa",
+      "admin1_code": "05",
+      "location": [
+        32.05043,
+        34.75224
+      ],
+      "monthly": {
+        "Jan": 3.49,
+        "Feb": 4.03,
+        "Mar": 4.86,
+        "Apr": 5.34,
+        "May": 5.65,
+        "Jun": 5.84,
+        "Jul": 5.77,
+        "Aug": 5.68,
+        "Sep": 5.48,
+        "Oct": 4.7,
+        "Nov": 3.91,
+        "Dec": 3.42
+      },
+      "average": 4.85
+    },
+    {
+      "name": "Yāfā",
+      "admin1_code": "03",
+      "location": [
+        32.68923,
+        35.27832
+      ],
+      "monthly": {
+        "Jan": 3.52,
+        "Feb": 4,
+        "Mar": 4.75,
+        "Apr": 5.2,
+        "May": 5.61,
+        "Jun": 5.79,
+        "Jul": 5.76,
+        "Aug": 5.68,
+        "Sep": 5.47,
+        "Oct": 4.69,
+        "Nov": 4.02,
+        "Dec": 3.45
+      },
+      "average": 4.83
+    },
+    {
+      "name": "Umm el Faḥm",
+      "admin1_code": "04",
+      "location": [
+        32.51758,
+        35.15397
+      ],
+      "monthly": {
+        "Jan": 3.56,
+        "Feb": 4,
+        "Mar": 4.77,
+        "Apr": 5.21,
+        "May": 5.63,
+        "Jun": 5.8,
+        "Jul": 5.78,
+        "Aug": 5.7,
+        "Sep": 5.49,
+        "Oct": 4.64,
+        "Nov": 3.96,
+        "Dec": 3.48
+      },
+      "average": 4.83
+    },
+    {
+      "name": "Tirat Karmel",
+      "admin1_code": "04",
+      "location": [
+        32.76025,
+        34.96874
+      ],
+      "monthly": {
+        "Jan": 3.31,
+        "Feb": 3.84,
+        "Mar": 4.67,
+        "Apr": 5.14,
+        "May": 5.56,
+        "Jun": 5.7,
+        "Jul": 5.61,
+        "Aug": 5.5,
+        "Sep": 5.33,
+        "Oct": 4.57,
+        "Nov": 3.86,
+        "Dec": 3.23
+      },
+      "average": 4.69
+    },
+    {
+      "name": "Tiberias",
+      "admin1_code": "03",
+      "location": [
+        32.79396,
+        35.53152
+      ],
+      "monthly": {
+        "Jan": 3.33,
+        "Feb": 3.8,
+        "Mar": 4.56,
+        "Apr": 4.99,
+        "May": 5.45,
+        "Jun": 5.7,
+        "Jul": 5.68,
+        "Aug": 5.58,
+        "Sep": 5.35,
+        "Oct": 4.49,
+        "Nov": 3.82,
+        "Dec": 3.26
+      },
+      "average": 4.67
+    },
+    {
+      "name": "Tel Aviv",
+      "admin1_code": "05",
+      "location": [
+        32.08088,
+        34.78057
+      ],
+      "monthly": {
+        "Jan": 3.57,
+        "Feb": 4.07,
+        "Mar": 4.92,
+        "Apr": 5.36,
+        "May": 5.65,
+        "Jun": 5.83,
+        "Jul": 5.76,
+        "Aug": 5.69,
+        "Sep": 5.51,
+        "Oct": 4.75,
+        "Nov": 3.97,
+        "Dec": 3.47
+      },
+      "average": 4.88
+    },
+    {
+      "name": "maalot Tarshīhā",
+      "admin1_code": "03",
+      "location": [
+        33.01667,
+        35.26667
+      ],
+      "monthly": {
+        "Jan": 3.33,
+        "Feb": 3.79,
+        "Mar": 4.5,
+        "Apr": 5.04,
+        "May": 5.54,
+        "Jun": 5.76,
+        "Jul": 5.73,
+        "Aug": 5.62,
+        "Sep": 5.41,
+        "Oct": 4.59,
+        "Nov": 3.9,
+        "Dec": 3.29
+      },
+      "average": 4.71
+    },
+    {
+      "name": "Tamra",
+      "admin1_code": "03",
+      "location": [
+        32.85301,
+        35.1987
+      ],
+      "monthly": {
+        "Jan": 3.44,
+        "Feb": 3.93,
+        "Mar": 4.67,
+        "Apr": 5.11,
+        "May": 5.54,
+        "Jun": 5.71,
+        "Jul": 5.69,
+        "Aug": 5.58,
+        "Sep": 5.4,
+        "Oct": 4.64,
+        "Nov": 3.97,
+        "Dec": 3.38
+      },
+      "average": 4.75
+    },
+    {
+      "name": "Shefar‘am",
+      "admin1_code": "03",
+      "location": [
+        32.80583,
+        35.16895
+      ],
+      "monthly": {
+        "Jan": 3.43,
+        "Feb": 3.92,
+        "Mar": 4.69,
+        "Apr": 5.12,
+        "May": 5.56,
+        "Jun": 5.74,
+        "Jul": 5.71,
+        "Aug": 5.6,
+        "Sep": 5.38,
+        "Oct": 4.62,
+        "Nov": 3.94,
+        "Dec": 3.35
+      },
+      "average": 4.75
+    },
+    {
+      "name": "Sderot",
+      "admin1_code": "01",
+      "location": [
+        31.525,
+        34.59693
+      ],
+      "monthly": {
+        "Jan": 3.83,
+        "Feb": 4.3,
+        "Mar": 4.97,
+        "Apr": 5.38,
+        "May": 5.66,
+        "Jun": 5.81,
+        "Jul": 5.77,
+        "Aug": 5.72,
+        "Sep": 5.52,
+        "Oct": 4.8,
+        "Nov": 4.16,
+        "Dec": 3.78
+      },
+      "average": 4.97
+    },
+    {
+      "name": "Sakhnīn",
+      "admin1_code": "03",
+      "location": [
+        32.86506,
+        35.29771
+      ],
+      "monthly": {
+        "Jan": 3.38,
+        "Feb": 3.91,
+        "Mar": 4.68,
+        "Apr": 5.14,
+        "May": 5.6,
+        "Jun": 5.79,
+        "Jul": 5.76,
+        "Aug": 5.68,
+        "Sep": 5.49,
+        "Oct": 4.68,
+        "Nov": 3.95,
+        "Dec": 3.34
+      },
+      "average": 4.78
+    },
+    {
+      "name": "Rosh Ha‘Ayin",
+      "admin1_code": "02",
+      "location": [
+        32.09556,
+        34.95664
+      ],
+      "monthly": {
+        "Jan": 3.6,
+        "Feb": 4.02,
+        "Mar": 4.76,
+        "Apr": 5.19,
+        "May": 5.56,
+        "Jun": 5.77,
+        "Jul": 5.74,
+        "Aug": 5.64,
+        "Sep": 5.39,
+        "Oct": 4.63,
+        "Nov": 3.97,
+        "Dec": 3.54
+      },
+      "average": 4.82
+    },
+    {
+      "name": "Rishon LeTsiyyon",
+      "admin1_code": "02",
+      "location": [
+        31.97102,
+        34.78939
+      ],
+      "monthly": {
+        "Jan": 3.69,
+        "Feb": 4.19,
+        "Mar": 4.96,
+        "Apr": 5.38,
+        "May": 5.67,
+        "Jun": 5.84,
+        "Jul": 5.78,
+        "Aug": 5.71,
+        "Sep": 5.51,
+        "Oct": 4.77,
+        "Nov": 4.06,
+        "Dec": 3.61
+      },
+      "average": 4.93
+    },
+    {
+      "name": "Reẖovot",
+      "admin1_code": "02",
+      "location": [
+        31.89421,
+        34.81199
+      ],
+      "monthly": {
+        "Jan": 3.69,
+        "Feb": 4.16,
+        "Mar": 4.88,
+        "Apr": 5.33,
+        "May": 5.66,
+        "Jun": 5.82,
+        "Jul": 5.79,
+        "Aug": 5.7,
+        "Sep": 5.5,
+        "Oct": 4.74,
+        "Nov": 4.07,
+        "Dec": 3.62
+      },
+      "average": 4.91
+    },
+    {
+      "name": "Ramla",
+      "admin1_code": "02",
+      "location": [
+        31.92624,
+        34.8635
+      ],
+      "monthly": {
+        "Jan": 3.68,
+        "Feb": 4.14,
+        "Mar": 4.86,
+        "Apr": 5.3,
+        "May": 5.64,
+        "Jun": 5.82,
+        "Jul": 5.79,
+        "Aug": 5.71,
+        "Sep": 5.49,
+        "Oct": 4.73,
+        "Nov": 4.06,
+        "Dec": 3.62
+      },
+      "average": 4.9
+    },
+    {
+      "name": "Ramat HaSharon",
+      "admin1_code": "05",
+      "location": [
+        32.14613,
+        34.8394
+      ],
+      "monthly": {
+        "Jan": 3.62,
+        "Feb": 4.1,
+        "Mar": 4.93,
+        "Apr": 5.35,
+        "May": 5.65,
+        "Jun": 5.82,
+        "Jul": 5.77,
+        "Aug": 5.68,
+        "Sep": 5.49,
+        "Oct": 4.75,
+        "Nov": 4.02,
+        "Dec": 3.54
+      },
+      "average": 4.89
+    },
+    {
+      "name": "Ramat Gan",
+      "admin1_code": "05",
+      "location": [
+        32.08227,
+        34.81065
+      ],
+      "monthly": {
+        "Jan": 3.64,
+        "Feb": 4.14,
+        "Mar": 4.94,
+        "Apr": 5.36,
+        "May": 5.65,
+        "Jun": 5.82,
+        "Jul": 5.76,
+        "Aug": 5.68,
+        "Sep": 5.49,
+        "Oct": 4.76,
+        "Nov": 4.02,
+        "Dec": 3.56
+      },
+      "average": 4.9
+    },
+    {
+      "name": "Ra'anana",
+      "admin1_code": "02",
+      "location": [
+        32.1836,
+        34.87386
+      ],
+      "monthly": {
+        "Jan": 3.61,
+        "Feb": 4.1,
+        "Mar": 4.91,
+        "Apr": 5.31,
+        "May": 5.63,
+        "Jun": 5.81,
+        "Jul": 5.76,
+        "Aug": 5.66,
+        "Sep": 5.46,
+        "Oct": 4.72,
+        "Nov": 4.01,
+        "Dec": 3.53
+      },
+      "average": 4.88
+    },
+    {
+      "name": "Qiryat Yam",
+      "admin1_code": "04",
+      "location": [
+        32.84966,
+        35.06973
+      ],
+      "monthly": {
+        "Jan": 3.37,
+        "Feb": 3.89,
+        "Mar": 4.74,
+        "Apr": 5.22,
+        "May": 5.67,
+        "Jun": 5.85,
+        "Jul": 5.8,
+        "Aug": 5.7,
+        "Sep": 5.5,
+        "Oct": 4.69,
+        "Nov": 3.9,
+        "Dec": 3.26
+      },
+      "average": 4.8
+    },
+    {
+      "name": "Qiryat Tiv‘on",
+      "admin1_code": "04",
+      "location": [
+        32.71217,
+        35.12505
+      ],
+      "monthly": {
+        "Jan": 3.44,
+        "Feb": 3.95,
+        "Mar": 4.74,
+        "Apr": 5.18,
+        "May": 5.63,
+        "Jun": 5.79,
+        "Jul": 5.78,
+        "Aug": 5.67,
+        "Sep": 5.43,
+        "Oct": 4.62,
+        "Nov": 3.96,
+        "Dec": 3.35
+      },
+      "average": 4.79
+    },
+    {
+      "name": "Qiryat Shmona",
+      "admin1_code": "03",
+      "location": [
+        33.21204,
+        35.57044
+      ],
+      "monthly": {
+        "Jan": 3.24,
+        "Feb": 3.79,
+        "Mar": 4.6,
+        "Apr": 5.08,
+        "May": 5.58,
+        "Jun": 5.87,
+        "Jul": 5.89,
+        "Aug": 5.8,
+        "Sep": 5.54,
+        "Oct": 4.63,
+        "Nov": 3.86,
+        "Dec": 3.22
+      },
+      "average": 4.76
+    },
+    {
+      "name": "Qiryat Motsqin",
+      "admin1_code": "04",
+      "location": [
+        32.83706,
+        35.0776
+      ],
+      "monthly": {
+        "Jan": 3.4,
+        "Feb": 3.92,
+        "Mar": 4.76,
+        "Apr": 5.22,
+        "May": 5.67,
+        "Jun": 5.85,
+        "Jul": 5.8,
+        "Aug": 5.7,
+        "Sep": 5.5,
+        "Oct": 4.69,
+        "Nov": 3.93,
+        "Dec": 3.29
+      },
+      "average": 4.81
+    },
+    {
+      "name": "Qiryat Mal’akhi",
+      "admin1_code": "01",
+      "location": [
+        31.72888,
+        34.74632
+      ],
+      "monthly": {
+        "Jan": 3.74,
+        "Feb": 4.2,
+        "Mar": 4.92,
+        "Apr": 5.34,
+        "May": 5.66,
+        "Jun": 5.83,
+        "Jul": 5.79,
+        "Aug": 5.72,
+        "Sep": 5.51,
+        "Oct": 4.77,
+        "Nov": 4.11,
+        "Dec": 3.69
+      },
+      "average": 4.94
+    },
+    {
+      "name": "Qiryat HaYovel",
+      "admin1_code": "06",
+      "location": [
+        31.76667,
+        35.16667
+      ],
+      "monthly": {
+        "Jan": 3.63,
+        "Feb": 4.08,
+        "Mar": 4.84,
+        "Apr": 5.31,
+        "May": 5.67,
+        "Jun": 5.89,
+        "Jul": 5.88,
+        "Aug": 5.84,
+        "Sep": 5.6,
+        "Oct": 4.81,
+        "Nov": 4.05,
+        "Dec": 3.62
+      },
+      "average": 4.93
+    },
+    {
+      "name": "Kiryat Gat",
+      "admin1_code": "01",
+      "location": [
+        31.60998,
+        34.76422
+      ],
+      "monthly": {
+        "Jan": 3.78,
+        "Feb": 4.21,
+        "Mar": 4.91,
+        "Apr": 5.32,
+        "May": 5.64,
+        "Jun": 5.82,
+        "Jul": 5.79,
+        "Aug": 5.73,
+        "Sep": 5.51,
+        "Oct": 4.78,
+        "Nov": 4.16,
+        "Dec": 3.75
+      },
+      "average": 4.95
+    },
+    {
+      "name": "Qiryat Bialik",
+      "admin1_code": "04",
+      "location": [
+        32.8275,
+        35.08583
+      ],
+      "monthly": {
+        "Jan": 3.41,
+        "Feb": 3.94,
+        "Mar": 4.76,
+        "Apr": 5.21,
+        "May": 5.66,
+        "Jun": 5.83,
+        "Jul": 5.79,
+        "Aug": 5.68,
+        "Sep": 5.48,
+        "Oct": 4.68,
+        "Nov": 3.94,
+        "Dec": 3.31
+      },
+      "average": 4.81
+    },
+    {
+      "name": "Qiryat Ata",
+      "admin1_code": "04",
+      "location": [
+        32.81149,
+        35.11323
+      ],
+      "monthly": {
+        "Jan": 3.43,
+        "Feb": 3.93,
+        "Mar": 4.73,
+        "Apr": 5.17,
+        "May": 5.62,
+        "Jun": 5.79,
+        "Jul": 5.76,
+        "Aug": 5.64,
+        "Sep": 5.42,
+        "Oct": 4.64,
+        "Nov": 3.93,
+        "Dec": 3.33
+      },
+      "average": 4.78
+    },
+    {
+      "name": "Qalansuwa",
+      "admin1_code": "02",
+      "location": [
+        32.28493,
+        34.98106
+      ],
+      "monthly": {
+        "Jan": 3.56,
+        "Feb": 4,
+        "Mar": 4.79,
+        "Apr": 5.22,
+        "May": 5.58,
+        "Jun": 5.77,
+        "Jul": 5.73,
+        "Aug": 5.61,
+        "Sep": 5.38,
+        "Oct": 4.61,
+        "Nov": 3.98,
+        "Dec": 3.52
+      },
+      "average": 4.81
+    },
+    {
+      "name": "Petaẖ Tiqva",
+      "admin1_code": "02",
+      "location": [
+        32.08707,
+        34.88747
+      ],
+      "monthly": {
+        "Jan": 3.62,
+        "Feb": 4.07,
+        "Mar": 4.84,
+        "Apr": 5.28,
+        "May": 5.62,
+        "Jun": 5.8,
+        "Jul": 5.77,
+        "Aug": 5.68,
+        "Sep": 5.46,
+        "Oct": 4.7,
+        "Nov": 4,
+        "Dec": 3.54
+      },
+      "average": 4.87
+    },
+    {
+      "name": "Pardés H̱anna Karkur",
+      "admin1_code": "04",
+      "location": [
+        32.47408,
+        34.97781
+      ],
+      "monthly": {
+        "Jan": 3.49,
+        "Feb": 3.99,
+        "Mar": 4.78,
+        "Apr": 5.2,
+        "May": 5.59,
+        "Jun": 5.74,
+        "Jul": 5.68,
+        "Aug": 5.57,
+        "Sep": 5.39,
+        "Oct": 4.66,
+        "Nov": 3.96,
+        "Dec": 3.45
+      },
+      "average": 4.79
+    },
+    {
+      "name": "Or Yehuda",
+      "admin1_code": "05",
+      "location": [
+        32.02923,
+        34.85788
+      ],
+      "monthly": {
+        "Jan": 3.64,
+        "Feb": 4.13,
+        "Mar": 4.88,
+        "Apr": 5.32,
+        "May": 5.64,
+        "Jun": 5.82,
+        "Jul": 5.78,
+        "Aug": 5.69,
+        "Sep": 5.47,
+        "Oct": 4.73,
+        "Nov": 4.04,
+        "Dec": 3.58
+      },
+      "average": 4.89
+    },
+    {
+      "name": "Or Akiva",
+      "admin1_code": "04",
+      "location": [
+        32.5064,
+        34.92087
+      ],
+      "monthly": {
+        "Jan": 3.47,
+        "Feb": 4.01,
+        "Mar": 4.86,
+        "Apr": 5.29,
+        "May": 5.63,
+        "Jun": 5.76,
+        "Jul": 5.66,
+        "Aug": 5.58,
+        "Sep": 5.47,
+        "Oct": 4.72,
+        "Nov": 3.97,
+        "Dec": 3.41
+      },
+      "average": 4.82
+    },
+    {
+      "name": "Ofaqim",
+      "admin1_code": "01",
+      "location": [
+        31.3141,
+        34.62025
+      ],
+      "monthly": {
+        "Jan": 3.97,
+        "Feb": 4.39,
+        "Mar": 5.01,
+        "Apr": 5.34,
+        "May": 5.58,
+        "Jun": 5.76,
+        "Jul": 5.73,
+        "Aug": 5.71,
+        "Sep": 5.55,
+        "Oct": 4.88,
+        "Nov": 4.25,
+        "Dec": 3.92
+      },
+      "average": 5.01
+    },
+    {
+      "name": "Netivot",
+      "admin1_code": "01",
+      "location": [
+        31.42305,
+        34.58911
+      ],
+      "monthly": {
+        "Jan": 3.92,
+        "Feb": 4.34,
+        "Mar": 5.02,
+        "Apr": 5.38,
+        "May": 5.62,
+        "Jun": 5.78,
+        "Jul": 5.75,
+        "Aug": 5.71,
+        "Sep": 5.55,
+        "Oct": 4.86,
+        "Nov": 4.24,
+        "Dec": 3.87
+      },
+      "average": 5
+    },
+    {
+      "name": "Netanya",
+      "admin1_code": "02",
+      "location": [
+        32.33291,
+        34.85992
+      ],
+      "monthly": {
+        "Jan": 3.48,
+        "Feb": 4,
+        "Mar": 4.87,
+        "Apr": 5.31,
+        "May": 5.64,
+        "Jun": 5.82,
+        "Jul": 5.74,
+        "Aug": 5.65,
+        "Sep": 5.48,
+        "Oct": 4.7,
+        "Nov": 3.93,
+        "Dec": 3.4
+      },
+      "average": 4.83
+    },
+    {
+      "name": "Ness Ziona",
+      "admin1_code": "02",
+      "location": [
+        31.92933,
+        34.79868
+      ],
+      "monthly": {
+        "Jan": 3.68,
+        "Feb": 4.17,
+        "Mar": 4.91,
+        "Apr": 5.34,
+        "May": 5.65,
+        "Jun": 5.82,
+        "Jul": 5.78,
+        "Aug": 5.69,
+        "Sep": 5.49,
+        "Oct": 4.74,
+        "Nov": 4.05,
+        "Dec": 3.61
+      },
+      "average": 4.91
+    },
+    {
+      "name": "Nesher",
+      "admin1_code": "04",
+      "location": [
+        32.76622,
+        35.04425
+      ],
+      "monthly": {
+        "Jan": 3.21,
+        "Feb": 3.77,
+        "Mar": 4.6,
+        "Apr": 5.12,
+        "May": 5.59,
+        "Jun": 5.78,
+        "Jul": 5.78,
+        "Aug": 5.65,
+        "Sep": 5.35,
+        "Oct": 4.49,
+        "Nov": 3.74,
+        "Dec": 3.11
+      },
+      "average": 4.68
+    },
+    {
+      "name": "Naẕerat ‘Illit",
+      "admin1_code": "03",
+      "location": [
+        32.70816,
+        35.32469
+      ],
+      "monthly": {
+        "Jan": 3.55,
+        "Feb": 4.02,
+        "Mar": 4.79,
+        "Apr": 5.25,
+        "May": 5.67,
+        "Jun": 5.86,
+        "Jul": 5.82,
+        "Aug": 5.74,
+        "Sep": 5.55,
+        "Oct": 4.73,
+        "Nov": 4.06,
+        "Dec": 3.47
+      },
+      "average": 4.88
+    },
+    {
+      "name": "Nazareth",
+      "admin1_code": "03",
+      "location": [
+        32.70087,
+        35.29719
+      ],
+      "monthly": {
+        "Jan": 3.55,
+        "Feb": 4.02,
+        "Mar": 4.77,
+        "Apr": 5.22,
+        "May": 5.64,
+        "Jun": 5.82,
+        "Jul": 5.79,
+        "Aug": 5.71,
+        "Sep": 5.5,
+        "Oct": 4.71,
+        "Nov": 4.05,
+        "Dec": 3.47
+      },
+      "average": 4.85
+    },
+    {
+      "name": "Nahariyya",
+      "admin1_code": "03",
+      "location": [
+        33.00892,
+        35.09814
+      ],
+      "monthly": {
+        "Jan": 3.34,
+        "Feb": 3.92,
+        "Mar": 4.75,
+        "Apr": 5.23,
+        "May": 5.65,
+        "Jun": 5.78,
+        "Jul": 5.66,
+        "Aug": 5.57,
+        "Sep": 5.43,
+        "Oct": 4.68,
+        "Nov": 3.9,
+        "Dec": 3.23
+      },
+      "average": 4.76
+    },
+    {
+      "name": "Migdal Ha‘Emeq",
+      "admin1_code": "03",
+      "location": [
+        32.67597,
+        35.23986
+      ],
+      "monthly": {
+        "Jan": 3.5,
+        "Feb": 3.98,
+        "Mar": 4.73,
+        "Apr": 5.17,
+        "May": 5.59,
+        "Jun": 5.76,
+        "Jul": 5.74,
+        "Aug": 5.64,
+        "Sep": 5.42,
+        "Oct": 4.66,
+        "Nov": 3.99,
+        "Dec": 3.42
+      },
+      "average": 4.8
+    },
+    {
+      "name": "Mevasseret Tsiyyon",
+      "admin1_code": "06",
+      "location": [
+        31.80186,
+        35.15072
+      ],
+      "monthly": {
+        "Jan": 3.64,
+        "Feb": 4.06,
+        "Mar": 4.82,
+        "Apr": 5.32,
+        "May": 5.71,
+        "Jun": 5.94,
+        "Jul": 5.94,
+        "Aug": 5.89,
+        "Sep": 5.62,
+        "Oct": 4.84,
+        "Nov": 4.1,
+        "Dec": 3.64
+      },
+      "average": 4.96
+    },
+    {
+      "name": "Majd el Kurūm",
+      "admin1_code": "03",
+      "location": [
+        32.92094,
+        35.25438
+      ],
+      "monthly": {
+        "Jan": 3.43,
+        "Feb": 3.94,
+        "Mar": 4.65,
+        "Apr": 5.11,
+        "May": 5.57,
+        "Jun": 5.73,
+        "Jul": 5.68,
+        "Aug": 5.59,
+        "Sep": 5.46,
+        "Oct": 4.69,
+        "Nov": 4,
+        "Dec": 3.36
+      },
+      "average": 4.77
+    },
+    {
+      "name": "Maghār",
+      "admin1_code": "03",
+      "location": [
+        32.88888,
+        35.40831
+      ],
+      "monthly": {
+        "Jan": 3.44,
+        "Feb": 3.98,
+        "Mar": 4.77,
+        "Apr": 5.22,
+        "May": 5.67,
+        "Jun": 5.88,
+        "Jul": 5.85,
+        "Aug": 5.78,
+        "Sep": 5.6,
+        "Oct": 4.76,
+        "Nov": 4.03,
+        "Dec": 3.39
+      },
+      "average": 4.86
+    },
+    {
+      "name": "Lod",
+      "admin1_code": "02",
+      "location": [
+        31.9467,
+        34.8903
+      ],
+      "monthly": {
+        "Jan": 3.66,
+        "Feb": 4.11,
+        "Mar": 4.84,
+        "Apr": 5.28,
+        "May": 5.62,
+        "Jun": 5.81,
+        "Jul": 5.79,
+        "Aug": 5.7,
+        "Sep": 5.48,
+        "Oct": 4.71,
+        "Nov": 4.05,
+        "Dec": 3.6
+      },
+      "average": 4.89
+    },
+    {
+      "name": "Kfar Yona",
+      "admin1_code": "02",
+      "location": [
+        32.31669,
+        34.93507
+      ],
+      "monthly": {
+        "Jan": 3.55,
+        "Feb": 4.03,
+        "Mar": 4.82,
+        "Apr": 5.26,
+        "May": 5.59,
+        "Jun": 5.77,
+        "Jul": 5.72,
+        "Aug": 5.61,
+        "Sep": 5.41,
+        "Oct": 4.65,
+        "Nov": 3.98,
+        "Dec": 3.5
+      },
+      "average": 4.82
+    },
+    {
+      "name": "Kfar Saba",
+      "admin1_code": "02",
+      "location": [
+        32.175,
+        34.90694
+      ],
+      "monthly": {
+        "Jan": 3.61,
+        "Feb": 4.07,
+        "Mar": 4.86,
+        "Apr": 5.28,
+        "May": 5.61,
+        "Jun": 5.8,
+        "Jul": 5.76,
+        "Aug": 5.67,
+        "Sep": 5.44,
+        "Oct": 4.69,
+        "Nov": 3.99,
+        "Dec": 3.54
+      },
+      "average": 4.86
+    },
+    {
+      "name": "Karmi’el",
+      "admin1_code": "03",
+      "location": [
+        32.90951,
+        35.29768
+      ],
+      "monthly": {
+        "Jan": 3.41,
+        "Feb": 3.95,
+        "Mar": 4.7,
+        "Apr": 5.18,
+        "May": 5.65,
+        "Jun": 5.84,
+        "Jul": 5.8,
+        "Aug": 5.73,
+        "Sep": 5.56,
+        "Oct": 4.73,
+        "Nov": 4,
+        "Dec": 3.36
+      },
+      "average": 4.83
+    },
+    {
+      "name": "Kafr Qāsim",
+      "admin1_code": "02",
+      "location": [
+        32.11406,
+        34.97624
+      ],
+      "monthly": {
+        "Jan": 3.62,
+        "Feb": 4.03,
+        "Mar": 4.77,
+        "Apr": 5.2,
+        "May": 5.58,
+        "Jun": 5.79,
+        "Jul": 5.77,
+        "Aug": 5.67,
+        "Sep": 5.41,
+        "Oct": 4.65,
+        "Nov": 4,
+        "Dec": 3.57
+      },
+      "average": 4.84
+    },
+    {
+      "name": "Kafr Qari‘",
+      "admin1_code": "04",
+      "location": [
+        32.50527,
+        35.05215
+      ],
+      "monthly": {
+        "Jan": 3.48,
+        "Feb": 3.92,
+        "Mar": 4.68,
+        "Apr": 5.12,
+        "May": 5.54,
+        "Jun": 5.71,
+        "Jul": 5.67,
+        "Aug": 5.55,
+        "Sep": 5.34,
+        "Oct": 4.58,
+        "Nov": 3.94,
+        "Dec": 3.43
+      },
+      "average": 4.75
+    },
+    {
+      "name": "Kafr Mandā",
+      "admin1_code": "03",
+      "location": [
+        32.81095,
+        35.26071
+      ],
+      "monthly": {
+        "Jan": 3.46,
+        "Feb": 3.95,
+        "Mar": 4.72,
+        "Apr": 5.18,
+        "May": 5.61,
+        "Jun": 5.8,
+        "Jul": 5.78,
+        "Aug": 5.69,
+        "Sep": 5.51,
+        "Oct": 4.7,
+        "Nov": 4,
+        "Dec": 3.4
+      },
+      "average": 4.82
+    },
+    {
+      "name": "Kafr Kannā",
+      "admin1_code": "03",
+      "location": [
+        32.7466,
+        35.34242
+      ],
+      "monthly": {
+        "Jan": 3.48,
+        "Feb": 3.94,
+        "Mar": 4.71,
+        "Apr": 5.17,
+        "May": 5.6,
+        "Jun": 5.78,
+        "Jul": 5.76,
+        "Aug": 5.68,
+        "Sep": 5.47,
+        "Oct": 4.65,
+        "Nov": 3.99,
+        "Dec": 3.4
+      },
+      "average": 4.8
+    },
+    {
+      "name": "Judeida Makr",
+      "admin1_code": "03",
+      "location": [
+        32.9282,
+        35.15705
+      ],
+      "monthly": {
+        "Jan": 3.4,
+        "Feb": 3.95,
+        "Mar": 4.75,
+        "Apr": 5.19,
+        "May": 5.61,
+        "Jun": 5.72,
+        "Jul": 5.64,
+        "Aug": 5.51,
+        "Sep": 5.37,
+        "Oct": 4.64,
+        "Nov": 3.95,
+        "Dec": 3.31
+      },
+      "average": 4.75
+    },
+    {
+      "name": "H̱olon",
+      "admin1_code": "05",
+      "location": [
+        32.01034,
+        34.77918
+      ],
+      "monthly": {
+        "Jan": 3.68,
+        "Feb": 4.19,
+        "Mar": 4.98,
+        "Apr": 5.41,
+        "May": 5.68,
+        "Jun": 5.85,
+        "Jul": 5.79,
+        "Aug": 5.72,
+        "Sep": 5.53,
+        "Oct": 4.8,
+        "Nov": 4.04,
+        "Dec": 3.59
+      },
+      "average": 4.94
+    },
+    {
+      "name": "Hod HaSharon",
+      "admin1_code": "02",
+      "location": [
+        32.15934,
+        34.8932
+      ],
+      "monthly": {
+        "Jan": 3.61,
+        "Feb": 4.07,
+        "Mar": 4.86,
+        "Apr": 5.28,
+        "May": 5.62,
+        "Jun": 5.81,
+        "Jul": 5.77,
+        "Aug": 5.67,
+        "Sep": 5.44,
+        "Oct": 4.69,
+        "Nov": 4,
+        "Dec": 3.54
+      },
+      "average": 4.86
+    },
+    {
+      "name": "Herzliya",
+      "admin1_code": "05",
+      "location": [
+        32.16627,
+        34.82536
+      ],
+      "monthly": {
+        "Jan": 3.59,
+        "Feb": 4.08,
+        "Mar": 4.92,
+        "Apr": 5.34,
+        "May": 5.65,
+        "Jun": 5.82,
+        "Jul": 5.76,
+        "Aug": 5.68,
+        "Sep": 5.49,
+        "Oct": 4.75,
+        "Nov": 4,
+        "Dec": 3.51
+      },
+      "average": 4.88
+    },
+    {
+      "name": "Haifa",
+      "admin1_code": "04",
+      "location": [
+        32.81303,
+        34.99928
+      ],
+      "monthly": {
+        "Jan": 3.28,
+        "Feb": 3.82,
+        "Mar": 4.7,
+        "Apr": 5.2,
+        "May": 5.63,
+        "Jun": 5.79,
+        "Jul": 5.74,
+        "Aug": 5.63,
+        "Sep": 5.39,
+        "Oct": 4.57,
+        "Nov": 3.83,
+        "Dec": 3.16
+      },
+      "average": 4.73
+    },
+    {
+      "name": "Hadera",
+      "admin1_code": "04",
+      "location": [
+        32.44192,
+        34.9039
+      ],
+      "monthly": {
+        "Jan": 3.48,
+        "Feb": 4.01,
+        "Mar": 4.88,
+        "Apr": 5.3,
+        "May": 5.64,
+        "Jun": 5.79,
+        "Jul": 5.7,
+        "Aug": 5.61,
+        "Sep": 5.47,
+        "Oct": 4.69,
+        "Nov": 3.94,
+        "Dec": 3.39
+      },
+      "average": 4.83
+    },
+    {
+      "name": "Giv'at Shmuel",
+      "admin1_code": "05",
+      "location": [
+        32.07817,
+        34.84858
+      ],
+      "monthly": {
+        "Jan": 3.64,
+        "Feb": 4.12,
+        "Mar": 4.89,
+        "Apr": 5.32,
+        "May": 5.63,
+        "Jun": 5.81,
+        "Jul": 5.76,
+        "Aug": 5.68,
+        "Sep": 5.47,
+        "Oct": 4.73,
+        "Nov": 4.01,
+        "Dec": 3.56
+      },
+      "average": 4.88
+    },
+    {
+      "name": "Givatayim",
+      "admin1_code": "05",
+      "location": [
+        32.07225,
+        34.81253
+      ],
+      "monthly": {
+        "Jan": 3.64,
+        "Feb": 4.15,
+        "Mar": 4.94,
+        "Apr": 5.36,
+        "May": 5.65,
+        "Jun": 5.82,
+        "Jul": 5.77,
+        "Aug": 5.68,
+        "Sep": 5.49,
+        "Oct": 4.76,
+        "Nov": 4.02,
+        "Dec": 3.56
+      },
+      "average": 4.9
+    },
+    {
+      "name": "Gedera",
+      "admin1_code": "02",
+      "location": [
+        31.81456,
+        34.77998
+      ],
+      "monthly": {
+        "Jan": 3.71,
+        "Feb": 4.18,
+        "Mar": 4.88,
+        "Apr": 5.33,
+        "May": 5.65,
+        "Jun": 5.81,
+        "Jul": 5.78,
+        "Aug": 5.7,
+        "Sep": 5.5,
+        "Oct": 4.74,
+        "Nov": 4.09,
+        "Dec": 3.64
+      },
+      "average": 4.92
+    },
+    {
+      "name": "Gan Yavne",
+      "admin1_code": "02",
+      "location": [
+        31.78737,
+        34.70659
+      ],
+      "monthly": {
+        "Jan": 3.73,
+        "Feb": 4.23,
+        "Mar": 4.97,
+        "Apr": 5.39,
+        "May": 5.69,
+        "Jun": 5.84,
+        "Jul": 5.79,
+        "Aug": 5.72,
+        "Sep": 5.53,
+        "Oct": 4.79,
+        "Nov": 4.1,
+        "Dec": 3.66
+      },
+      "average": 4.95
+    },
+    {
+      "name": "Ganei Tikva",
+      "admin1_code": "02",
+      "location": [
+        32.05971,
+        34.8732
+      ],
+      "monthly": {
+        "Jan": 3.64,
+        "Feb": 4.11,
+        "Mar": 4.87,
+        "Apr": 5.31,
+        "May": 5.64,
+        "Jun": 5.82,
+        "Jul": 5.78,
+        "Aug": 5.69,
+        "Sep": 5.48,
+        "Oct": 4.72,
+        "Nov": 4.03,
+        "Dec": 3.57
+      },
+      "average": 4.89
+    },
+    {
+      "name": "Eṭ Ṭīra",
+      "admin1_code": "02",
+      "location": [
+        32.2341,
+        34.95023
+      ],
+      "monthly": {
+        "Jan": 3.59,
+        "Feb": 4.02,
+        "Mar": 4.79,
+        "Apr": 5.23,
+        "May": 5.59,
+        "Jun": 5.79,
+        "Jul": 5.75,
+        "Aug": 5.65,
+        "Sep": 5.41,
+        "Oct": 4.64,
+        "Nov": 3.98,
+        "Dec": 3.53
+      },
+      "average": 4.83
+    },
+    {
+      "name": "Eṭ Ṭaiyiba",
+      "admin1_code": "02",
+      "location": [
+        32.26616,
+        35.00893
+      ],
+      "monthly": {
+        "Jan": 3.57,
+        "Feb": 3.97,
+        "Mar": 4.73,
+        "Apr": 5.16,
+        "May": 5.54,
+        "Jun": 5.74,
+        "Jul": 5.72,
+        "Aug": 5.6,
+        "Sep": 5.34,
+        "Oct": 4.59,
+        "Nov": 3.97,
+        "Dec": 3.53
+      },
+      "average": 4.79
+    },
+    {
+      "name": "Er Reina",
+      "admin1_code": "03",
+      "location": [
+        32.72339,
+        35.31622
+      ],
+      "monthly": {
+        "Jan": 3.5,
+        "Feb": 3.96,
+        "Mar": 4.73,
+        "Apr": 5.18,
+        "May": 5.6,
+        "Jun": 5.78,
+        "Jul": 5.75,
+        "Aug": 5.67,
+        "Sep": 5.46,
+        "Oct": 4.67,
+        "Nov": 4,
+        "Dec": 3.43
+      },
+      "average": 4.81
+    },
+    {
+      "name": "Eilat",
+      "admin1_code": "01",
+      "location": [
+        29.55805,
+        34.94821
+      ],
+      "monthly": {
+        "Jan": 4.37,
+        "Feb": 4.89,
+        "Mar": 5.48,
+        "Apr": 5.54,
+        "May": 5.55,
+        "Jun": 5.69,
+        "Jul": 5.66,
+        "Aug": 5.69,
+        "Sep": 5.64,
+        "Oct": 5.16,
+        "Nov": 4.68,
+        "Dec": 4.3
+      },
+      "average": 5.22
+    },
+    {
+      "name": "Dimona",
+      "admin1_code": "01",
+      "location": [
+        31.07079,
+        35.03269
+      ],
+      "monthly": {
+        "Jan": 4.25,
+        "Feb": 4.69,
+        "Mar": 5.37,
+        "Apr": 5.6,
+        "May": 5.7,
+        "Jun": 5.82,
+        "Jul": 5.81,
+        "Aug": 5.86,
+        "Sep": 5.8,
+        "Oct": 5.22,
+        "Nov": 4.58,
+        "Dec": 4.17
+      },
+      "average": 5.24
+    },
+    {
+      "name": "Daliyat al Karmel",
+      "admin1_code": "04",
+      "location": [
+        32.69383,
+        35.04686
+      ],
+      "monthly": {
+        "Jan": 3.41,
+        "Feb": 3.9,
+        "Mar": 4.65,
+        "Apr": 5.13,
+        "May": 5.59,
+        "Jun": 5.75,
+        "Jul": 5.72,
+        "Aug": 5.62,
+        "Sep": 5.42,
+        "Oct": 4.61,
+        "Nov": 3.96,
+        "Dec": 3.37
+      },
+      "average": 4.76
+    },
+    {
+      "name": "Binyamina-Giv‘at ‘Ada",
+      "admin1_code": "04",
+      "location": [
+        32.52305,
+        34.94487
+      ],
+      "monthly": {
+        "Jan": 3.46,
+        "Feb": 4.01,
+        "Mar": 4.83,
+        "Apr": 5.26,
+        "May": 5.61,
+        "Jun": 5.74,
+        "Jul": 5.65,
+        "Aug": 5.55,
+        "Sep": 5.43,
+        "Oct": 4.69,
+        "Nov": 3.96,
+        "Dec": 3.41
+      },
+      "average": 4.8
+    },
+    {
+      "name": "Bet Shemesh",
+      "admin1_code": "06",
+      "location": [
+        31.73072,
+        34.99293
+      ],
+      "monthly": {
+        "Jan": 3.53,
+        "Feb": 3.9,
+        "Mar": 4.66,
+        "Apr": 5.15,
+        "May": 5.54,
+        "Jun": 5.8,
+        "Jul": 5.79,
+        "Aug": 5.72,
+        "Sep": 5.43,
+        "Oct": 4.62,
+        "Nov": 3.96,
+        "Dec": 3.53
+      },
+      "average": 4.8
+    },
+    {
+      "name": "Bet She’an",
+      "admin1_code": "03",
+      "location": [
+        32.49728,
+        35.49632
+      ],
+      "monthly": {
+        "Jan": 3.55,
+        "Feb": 3.95,
+        "Mar": 4.68,
+        "Apr": 5.04,
+        "May": 5.48,
+        "Jun": 5.71,
+        "Jul": 5.7,
+        "Aug": 5.64,
+        "Sep": 5.43,
+        "Oct": 4.63,
+        "Nov": 4,
+        "Dec": 3.49
+      },
+      "average": 4.78
+    },
+    {
+      "name": "Bnei Brak",
+      "admin1_code": "05",
+      "location": [
+        32.08074,
+        34.8338
+      ],
+      "monthly": {
+        "Jan": 3.65,
+        "Feb": 4.13,
+        "Mar": 4.91,
+        "Apr": 5.34,
+        "May": 5.64,
+        "Jun": 5.82,
+        "Jul": 5.77,
+        "Aug": 5.68,
+        "Sep": 5.48,
+        "Oct": 4.75,
+        "Nov": 4.02,
+        "Dec": 3.57
+      },
+      "average": 4.9
+    },
+    {
+      "name": "Be’er Ya‘aqov",
+      "admin1_code": "02",
+      "location": [
+        31.93864,
+        34.83749
+      ],
+      "monthly": {
+        "Jan": 3.69,
+        "Feb": 4.16,
+        "Mar": 4.88,
+        "Apr": 5.33,
+        "May": 5.65,
+        "Jun": 5.83,
+        "Jul": 5.79,
+        "Aug": 5.71,
+        "Sep": 5.49,
+        "Oct": 4.74,
+        "Nov": 4.06,
+        "Dec": 3.62
+      },
+      "average": 4.91
+    },
+    {
+      "name": "Beersheba",
+      "admin1_code": "01",
+      "location": [
+        31.25181,
+        34.7913
+      ],
+      "monthly": {
+        "Jan": 3.94,
+        "Feb": 4.37,
+        "Mar": 5.05,
+        "Apr": 5.38,
+        "May": 5.62,
+        "Jun": 5.82,
+        "Jul": 5.8,
+        "Aug": 5.77,
+        "Sep": 5.62,
+        "Oct": 4.95,
+        "Nov": 4.28,
+        "Dec": 3.89
+      },
+      "average": 5.04
+    },
+    {
+      "name": "Bat Yam",
+      "admin1_code": "05",
+      "location": [
+        32.02379,
+        34.75185
+      ],
+      "monthly": {
+        "Jan": 3.61,
+        "Feb": 4.13,
+        "Mar": 4.94,
+        "Apr": 5.39,
+        "May": 5.68,
+        "Jun": 5.86,
+        "Jul": 5.79,
+        "Aug": 5.72,
+        "Sep": 5.55,
+        "Oct": 4.8,
+        "Nov": 4,
+        "Dec": 3.52
+      },
+      "average": 4.92
+    },
+    {
+      "name": "Bāqa el Gharbīya",
+      "admin1_code": "04",
+      "location": [
+        32.41806,
+        35.04312
+      ],
+      "monthly": {
+        "Jan": 3.52,
+        "Feb": 3.96,
+        "Mar": 4.74,
+        "Apr": 5.16,
+        "May": 5.55,
+        "Jun": 5.72,
+        "Jul": 5.69,
+        "Aug": 5.57,
+        "Sep": 5.37,
+        "Oct": 4.63,
+        "Nov": 3.94,
+        "Dec": 3.48
+      },
+      "average": 4.78
+    },
+    {
+      "name": "Ashkelon",
+      "admin1_code": "01",
+      "location": [
+        31.66926,
+        34.57149
+      ],
+      "monthly": {
+        "Jan": 3.72,
+        "Feb": 4.2,
+        "Mar": 4.99,
+        "Apr": 5.42,
+        "May": 5.7,
+        "Jun": 5.86,
+        "Jul": 5.78,
+        "Aug": 5.72,
+        "Sep": 5.56,
+        "Oct": 4.83,
+        "Nov": 4.09,
+        "Dec": 3.63
+      },
+      "average": 4.96
+    },
+    {
+      "name": "Ashdod",
+      "admin1_code": "01",
+      "location": [
+        31.79213,
+        34.64966
+      ],
+      "monthly": {
+        "Jan": 3.64,
+        "Feb": 4.12,
+        "Mar": 4.91,
+        "Apr": 5.39,
+        "May": 5.7,
+        "Jun": 5.86,
+        "Jul": 5.78,
+        "Aug": 5.73,
+        "Sep": 5.57,
+        "Oct": 4.81,
+        "Nov": 4.05,
+        "Dec": 3.57
+      },
+      "average": 4.93
+    },
+    {
+      "name": "‘Ara-‘Ar‘ara",
+      "admin1_code": "04",
+      "location": [
+        32.49565,
+        35.09261
+      ],
+      "monthly": {
+        "Jan": 3.38,
+        "Feb": 3.85,
+        "Mar": 4.6,
+        "Apr": 5.04,
+        "May": 5.48,
+        "Jun": 5.66,
+        "Jul": 5.63,
+        "Aug": 5.51,
+        "Sep": 5.29,
+        "Oct": 4.51,
+        "Nov": 3.85,
+        "Dec": 3.36
+      },
+      "average": 4.68
+    },
+    {
+      "name": "Arad",
+      "admin1_code": "01",
+      "location": [
+        31.25882,
+        35.21282
+      ],
+      "monthly": {
+        "Jan": 4.21,
+        "Feb": 4.67,
+        "Mar": 5.36,
+        "Apr": 5.61,
+        "May": 5.73,
+        "Jun": 5.85,
+        "Jul": 5.83,
+        "Aug": 5.87,
+        "Sep": 5.79,
+        "Oct": 5.17,
+        "Nov": 4.53,
+        "Dec": 4.08
+      },
+      "average": 5.22
+    },
+    {
+      "name": "Acre",
+      "admin1_code": "03",
+      "location": [
+        32.92814,
+        35.07647
+      ],
+      "monthly": {
+        "Jan": 3.37,
+        "Feb": 3.93,
+        "Mar": 4.81,
+        "Apr": 5.29,
+        "May": 5.7,
+        "Jun": 5.84,
+        "Jul": 5.76,
+        "Aug": 5.67,
+        "Sep": 5.51,
+        "Oct": 4.71,
+        "Nov": 3.92,
+        "Dec": 3.26
+      },
+      "average": 4.81
+    },
+    {
+      "name": "Afula",
+      "admin1_code": "03",
+      "location": [
+        32.60907,
+        35.2892
+      ],
+      "monthly": {
+        "Jan": 3.51,
+        "Feb": 3.99,
+        "Mar": 4.75,
+        "Apr": 5.17,
+        "May": 5.58,
+        "Jun": 5.77,
+        "Jul": 5.74,
+        "Aug": 5.65,
+        "Sep": 5.43,
+        "Oct": 4.65,
+        "Nov": 3.99,
+        "Dec": 3.44
+      },
+      "average": 4.81
+    },
+    {
+      "name": "West Jerusalem",
+      "admin1_code": "06",
+      "location": [
+        31.78199,
+        35.21961
+      ],
+      "monthly": {
+        "Jan": 3.84,
+        "Feb": 4.28,
+        "Mar": 5.03,
+        "Apr": 5.45,
+        "May": 5.75,
+        "Jun": 5.94,
+        "Jul": 5.93,
+        "Aug": 5.9,
+        "Sep": 5.7,
+        "Oct": 4.96,
+        "Nov": 4.2,
+        "Dec": 3.76
+      },
+      "average": 5.06
+    },
+    {
+      "name": "Rahat",
+      "admin1_code": "01",
+      "location": [
+        31.39547,
+        34.75699
+      ],
+      "monthly": {
+        "Jan": 3.89,
+        "Feb": 4.32,
+        "Mar": 4.97,
+        "Apr": 5.32,
+        "May": 5.61,
+        "Jun": 5.79,
+        "Jul": 5.77,
+        "Aug": 5.74,
+        "Sep": 5.58,
+        "Oct": 4.9,
+        "Nov": 4.25,
+        "Dec": 3.89
+      },
+      "average": 5
+    },
+    {
+      "name": "Modiin Ilit",
+      "admin1_code": "06",
+      "location": [
+        31.93221,
+        35.04416
+      ],
+      "monthly": {
+        "Jan": 3.63,
+        "Feb": 4,
+        "Mar": 4.72,
+        "Apr": 5.18,
+        "May": 5.56,
+        "Jun": 5.77,
+        "Jul": 5.76,
+        "Aug": 5.68,
+        "Sep": 5.41,
+        "Oct": 4.66,
+        "Nov": 4.03,
+        "Dec": 3.61
+      },
+      "average": 4.83
+    },
+    {
+      "name": "Ariel",
+      "admin1_code": "WE",
+      "location": [
+        32.1065,
+        35.18449
+      ],
+      "monthly": {
+        "Jan": 3.61,
+        "Feb": 3.99,
+        "Mar": 4.75,
+        "Apr": 5.23,
+        "May": 5.62,
+        "Jun": 5.84,
+        "Jul": 5.84,
+        "Aug": 5.76,
+        "Sep": 5.5,
+        "Oct": 4.72,
+        "Nov": 4.03,
+        "Dec": 3.62
+      },
+      "average": 4.88
+    },
+    {
+      "name": "Tel Sheva‘",
+      "admin1_code": "01",
+      "location": [
+        31.24864,
+        34.86007
+      ],
+      "monthly": {
+        "Jan": 4.01,
+        "Feb": 4.41,
+        "Mar": 5.1,
+        "Apr": 5.4,
+        "May": 5.62,
+        "Jun": 5.81,
+        "Jul": 5.79,
+        "Aug": 5.8,
+        "Sep": 5.67,
+        "Oct": 5.03,
+        "Nov": 4.35,
+        "Dec": 3.97
+      },
+      "average": 5.08
+    },
+    {
+      "name": "‘Ar‘ara BaNegev",
+      "admin1_code": "01",
+      "location": [
+        31.16046,
+        35.02274
+      ],
+      "monthly": {
+        "Jan": 4.13,
+        "Feb": 4.53,
+        "Mar": 5.22,
+        "Apr": 5.5,
+        "May": 5.66,
+        "Jun": 5.8,
+        "Jul": 5.79,
+        "Aug": 5.82,
+        "Sep": 5.73,
+        "Oct": 5.13,
+        "Nov": 4.48,
+        "Dec": 4.07
+      },
+      "average": 5.16
+    },
+    {
+      "name": "H̱ura",
+      "admin1_code": "01",
+      "location": [
+        31.30084,
+        34.93606
+      ],
+      "monthly": {
+        "Jan": 3.93,
+        "Feb": 4.35,
+        "Mar": 5.07,
+        "Apr": 5.38,
+        "May": 5.63,
+        "Jun": 5.82,
+        "Jul": 5.8,
+        "Aug": 5.8,
+        "Sep": 5.66,
+        "Oct": 5.01,
+        "Nov": 4.31,
+        "Dec": 3.92
+      },
+      "average": 5.06
+    },
+    {
+      "name": "Kuseifa",
+      "admin1_code": "01",
+      "location": [
+        31.24535,
+        35.0931
+      ],
+      "monthly": {
+        "Jan": 4.12,
+        "Feb": 4.52,
+        "Mar": 5.24,
+        "Apr": 5.51,
+        "May": 5.67,
+        "Jun": 5.82,
+        "Jul": 5.8,
+        "Aug": 5.83,
+        "Sep": 5.76,
+        "Oct": 5.14,
+        "Nov": 4.45,
+        "Dec": 4.05
+      },
+      "average": 5.16
+    },
+    {
+      "name": "Shoham",
+      "admin1_code": "02",
+      "location": [
+        31.99866,
+        34.94559
+      ],
+      "monthly": {
+        "Jan": 3.62,
+        "Feb": 4.02,
+        "Mar": 4.76,
+        "Apr": 5.2,
+        "May": 5.57,
+        "Jun": 5.78,
+        "Jul": 5.76,
+        "Aug": 5.66,
+        "Sep": 5.41,
+        "Oct": 4.64,
+        "Nov": 3.98,
+        "Dec": 3.57
+      },
+      "average": 4.83
+    },
+    {
+      "name": "El‘ad",
+      "admin1_code": "02",
+      "location": [
+        32.04984,
+        34.95382
+      ],
+      "monthly": {
+        "Jan": 3.62,
+        "Feb": 4.03,
+        "Mar": 4.76,
+        "Apr": 5.2,
+        "May": 5.57,
+        "Jun": 5.77,
+        "Jul": 5.75,
+        "Aug": 5.64,
+        "Sep": 5.39,
+        "Oct": 4.63,
+        "Nov": 3.98,
+        "Dec": 3.55
+      },
+      "average": 4.82
+    },
+    {
+      "name": "Yehud-Monosson",
+      "admin1_code": "05",
+      "location": [
+        32.0284,
+        34.8796
+      ],
+      "monthly": {
+        "Jan": 3.63,
+        "Feb": 4.1,
+        "Mar": 4.85,
+        "Apr": 5.3,
+        "May": 5.62,
+        "Jun": 5.81,
+        "Jul": 5.78,
+        "Aug": 5.69,
+        "Sep": 5.46,
+        "Oct": 4.7,
+        "Nov": 4.03,
+        "Dec": 3.57
+      },
+      "average": 4.88
+    },
+    {
+      "name": "Kadima Zoran",
+      "admin1_code": "02",
+      "location": [
+        32.27782,
+        34.9194
+      ],
+      "monthly": {
+        "Jan": 3.57,
+        "Feb": 4.04,
+        "Mar": 4.83,
+        "Apr": 5.26,
+        "May": 5.61,
+        "Jun": 5.78,
+        "Jul": 5.74,
+        "Aug": 5.64,
+        "Sep": 5.42,
+        "Oct": 4.66,
+        "Nov": 3.98,
+        "Dec": 3.51
+      },
+      "average": 4.84
+    },
+    {
+      "name": "Kiryat Ono",
+      "admin1_code": "05",
+      "location": [
+        32.06124,
+        34.85618
+      ],
+      "monthly": {
+        "Jan": 3.64,
+        "Feb": 4.12,
+        "Mar": 4.88,
+        "Apr": 5.32,
+        "May": 5.64,
+        "Jun": 5.82,
+        "Jul": 5.78,
+        "Aug": 5.69,
+        "Sep": 5.47,
+        "Oct": 4.73,
+        "Nov": 4.03,
+        "Dec": 3.57
+      },
+      "average": 4.89
+    },
+    {
+      "name": "Binyamina-Giv'at Ada",
+      "admin1_code": "04",
+      "location": [
+        32.51824,
+        34.95398
+      ],
+      "monthly": {
+        "Jan": 3.47,
+        "Feb": 4.01,
+        "Mar": 4.82,
+        "Apr": 5.25,
+        "May": 5.6,
+        "Jun": 5.74,
+        "Jul": 5.65,
+        "Aug": 5.55,
+        "Sep": 5.41,
+        "Oct": 4.68,
+        "Nov": 3.96,
+        "Dec": 3.41
+      },
+      "average": 4.8
+    }
+  ]
+}

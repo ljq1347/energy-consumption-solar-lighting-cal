@@ -1,0 +1,1340 @@
+{
+  "country": "New Zealand",
+  "countryCode": "NZ",
+  "cities": [
+    {
+      "name": "Wellington",
+      "admin1_code": "G2",
+      "location": [
+        -41.28664,
+        174.77557
+      ],
+      "monthly": {
+        "Jan": 4.82,
+        "Feb": 4.76,
+        "Mar": 4.12,
+        "Apr": 3.37,
+        "May": 2.72,
+        "Jun": 2.24,
+        "Jul": 2.49,
+        "Aug": 3.07,
+        "Sep": 3.64,
+        "Oct": 4.2,
+        "Nov": 4.61,
+        "Dec": 4.52
+      },
+      "average": 3.71
+    },
+    {
+      "name": "Whanganui",
+      "admin1_code": "F3",
+      "location": [
+        -39.93333,
+        175.05
+      ],
+      "monthly": {
+        "Jan": 5.04,
+        "Feb": 4.84,
+        "Mar": 4.37,
+        "Apr": 3.64,
+        "May": 2.89,
+        "Jun": 2.48,
+        "Jul": 2.74,
+        "Aug": 3.28,
+        "Sep": 3.74,
+        "Oct": 4.2,
+        "Nov": 4.74,
+        "Dec": 4.71
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Wainuiomata",
+      "admin1_code": "G2",
+      "location": [
+        -41.26667,
+        174.95
+      ],
+      "monthly": {
+        "Jan": 4.61,
+        "Feb": 4.47,
+        "Mar": 3.86,
+        "Apr": 3.13,
+        "May": 2.48,
+        "Jun": 2.04,
+        "Jul": 2.27,
+        "Aug": 2.74,
+        "Sep": 3.33,
+        "Oct": 3.78,
+        "Nov": 4.33,
+        "Dec": 4.17
+      },
+      "average": 3.43
+    },
+    {
+      "name": "Timaru",
+      "admin1_code": "E9",
+      "location": [
+        -44.39672,
+        171.25364
+      ],
+      "monthly": {
+        "Jan": 4.26,
+        "Feb": 4.15,
+        "Mar": 3.79,
+        "Apr": 3.27,
+        "May": 2.83,
+        "Jun": 2.54,
+        "Jul": 2.87,
+        "Aug": 3.41,
+        "Sep": 4.01,
+        "Oct": 4.29,
+        "Nov": 4.38,
+        "Dec": 4.2
+      },
+      "average": 3.67
+    },
+    {
+      "name": "Taupo",
+      "admin1_code": "G1",
+      "location": [
+        -38.68333,
+        176.08333
+      ],
+      "monthly": {
+        "Jan": 4.92,
+        "Feb": 4.58,
+        "Mar": 4.39,
+        "Apr": 3.62,
+        "May": 3.07,
+        "Jun": 2.69,
+        "Jul": 2.83,
+        "Aug": 3.22,
+        "Sep": 3.69,
+        "Oct": 4.18,
+        "Nov": 4.65,
+        "Dec": 4.55
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Stoke",
+      "admin1_code": "F5",
+      "location": [
+        -41.31667,
+        173.23333
+      ],
+      "monthly": {
+        "Jan": 4.95,
+        "Feb": 4.94,
+        "Mar": 4.51,
+        "Apr": 3.83,
+        "May": 3.31,
+        "Jun": 2.95,
+        "Jul": 3.13,
+        "Aug": 3.69,
+        "Sep": 4.21,
+        "Oct": 4.55,
+        "Nov": 4.74,
+        "Dec": 4.67
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Rolleston",
+      "admin1_code": "E9",
+      "location": [
+        -43.58333,
+        172.38333
+      ],
+      "monthly": {
+        "Jan": 4.62,
+        "Feb": 4.46,
+        "Mar": 4.05,
+        "Apr": 3.56,
+        "May": 3.02,
+        "Jun": 2.58,
+        "Jul": 2.86,
+        "Aug": 3.55,
+        "Sep": 4.18,
+        "Oct": 4.6,
+        "Nov": 4.74,
+        "Dec": 4.44
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Richmond",
+      "admin1_code": "TAS",
+      "location": [
+        -41.33333,
+        173.18333
+      ],
+      "monthly": {
+        "Jan": 5.07,
+        "Feb": 5.04,
+        "Mar": 4.63,
+        "Apr": 3.95,
+        "May": 3.42,
+        "Jun": 3.01,
+        "Jul": 3.2,
+        "Aug": 3.8,
+        "Sep": 4.35,
+        "Oct": 4.66,
+        "Nov": 4.85,
+        "Dec": 4.79
+      },
+      "average": 4.23
+    },
+    {
+      "name": "Pukekohe East",
+      "admin1_code": "E7",
+      "location": [
+        -37.2,
+        174.95
+      ],
+      "monthly": {
+        "Jan": 4.56,
+        "Feb": 4.21,
+        "Mar": 4.04,
+        "Apr": 3.4,
+        "May": 2.96,
+        "Jun": 2.59,
+        "Jul": 2.76,
+        "Aug": 3.16,
+        "Sep": 3.47,
+        "Oct": 3.8,
+        "Nov": 4.18,
+        "Dec": 4.21
+      },
+      "average": 3.61
+    },
+    {
+      "name": "Porirua",
+      "admin1_code": "G2",
+      "location": [
+        -41.13333,
+        174.85
+      ],
+      "monthly": {
+        "Jan": 4.78,
+        "Feb": 4.7,
+        "Mar": 4.17,
+        "Apr": 3.4,
+        "May": 2.69,
+        "Jun": 2.29,
+        "Jul": 2.54,
+        "Aug": 3.07,
+        "Sep": 3.58,
+        "Oct": 4.03,
+        "Nov": 4.51,
+        "Dec": 4.39
+      },
+      "average": 3.68
+    },
+    {
+      "name": "Paraparaumu",
+      "admin1_code": "G2",
+      "location": [
+        -40.91667,
+        175.01667
+      ],
+      "monthly": {
+        "Jan": 4.62,
+        "Feb": 4.55,
+        "Mar": 4.11,
+        "Apr": 3.29,
+        "May": 2.58,
+        "Jun": 2.29,
+        "Jul": 2.48,
+        "Aug": 2.96,
+        "Sep": 3.42,
+        "Oct": 3.72,
+        "Nov": 4.32,
+        "Dec": 4.26
+      },
+      "average": 3.55
+    },
+    {
+      "name": "Palmerston North",
+      "admin1_code": "F3",
+      "location": [
+        -40.35636,
+        175.61113
+      ],
+      "monthly": {
+        "Jan": 4.68,
+        "Feb": 4.66,
+        "Mar": 4.1,
+        "Apr": 3.4,
+        "May": 2.64,
+        "Jun": 2.29,
+        "Jul": 2.52,
+        "Aug": 2.94,
+        "Sep": 3.42,
+        "Oct": 3.73,
+        "Nov": 4.36,
+        "Dec": 4.41
+      },
+      "average": 3.6
+    },
+    {
+      "name": "North Shore",
+      "admin1_code": "E7",
+      "location": [
+        -36.8,
+        174.75
+      ],
+      "monthly": {
+        "Jan": 4.74,
+        "Feb": 4.49,
+        "Mar": 4.22,
+        "Apr": 3.44,
+        "May": 2.99,
+        "Jun": 2.58,
+        "Jul": 2.74,
+        "Aug": 3.16,
+        "Sep": 3.59,
+        "Oct": 3.99,
+        "Nov": 4.36,
+        "Dec": 4.4
+      },
+      "average": 3.73
+    },
+    {
+      "name": "New Plymouth",
+      "admin1_code": "F9",
+      "location": [
+        -39.06667,
+        174.08333
+      ],
+      "monthly": {
+        "Jan": 5.05,
+        "Feb": 4.97,
+        "Mar": 4.47,
+        "Apr": 3.59,
+        "May": 2.87,
+        "Jun": 2.43,
+        "Jul": 2.7,
+        "Aug": 3.24,
+        "Sep": 3.67,
+        "Oct": 4.1,
+        "Nov": 4.74,
+        "Dec": 4.66
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Nelson",
+      "admin1_code": "F5",
+      "location": [
+        -41.27078,
+        173.28404
+      ],
+      "monthly": {
+        "Jan": 5.04,
+        "Feb": 5.02,
+        "Mar": 4.6,
+        "Apr": 3.87,
+        "May": 3.3,
+        "Jun": 2.89,
+        "Jul": 3.08,
+        "Aug": 3.68,
+        "Sep": 4.24,
+        "Oct": 4.64,
+        "Nov": 4.83,
+        "Dec": 4.77
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Napier",
+      "admin1_code": "F2",
+      "location": [
+        -39.4926,
+        176.91233
+      ],
+      "monthly": {
+        "Jan": 4.82,
+        "Feb": 4.51,
+        "Mar": 4.19,
+        "Apr": 3.6,
+        "May": 3.24,
+        "Jun": 2.73,
+        "Jul": 2.97,
+        "Aug": 3.5,
+        "Sep": 3.99,
+        "Oct": 4.49,
+        "Nov": 4.64,
+        "Dec": 4.54
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Manukau City",
+      "admin1_code": "E7",
+      "location": [
+        -36.99282,
+        174.87986
+      ],
+      "monthly": {
+        "Jan": 4.69,
+        "Feb": 4.41,
+        "Mar": 4.19,
+        "Apr": 3.53,
+        "May": 3.07,
+        "Jun": 2.69,
+        "Jul": 2.91,
+        "Aug": 3.29,
+        "Sep": 3.72,
+        "Oct": 4.08,
+        "Nov": 4.37,
+        "Dec": 4.41
+      },
+      "average": 3.78
+    },
+    {
+      "name": "Mangere",
+      "admin1_code": "E7",
+      "location": [
+        -36.96807,
+        174.79875
+      ],
+      "monthly": {
+        "Jan": 4.78,
+        "Feb": 4.54,
+        "Mar": 4.28,
+        "Apr": 3.59,
+        "May": 3.1,
+        "Jun": 2.69,
+        "Jul": 2.89,
+        "Aug": 3.32,
+        "Sep": 3.74,
+        "Oct": 4.14,
+        "Nov": 4.45,
+        "Dec": 4.47
+      },
+      "average": 3.83
+    },
+    {
+      "name": "Lower Hutt",
+      "admin1_code": "G2",
+      "location": [
+        -41.21667,
+        174.91667
+      ],
+      "monthly": {
+        "Jan": 4.71,
+        "Feb": 4.57,
+        "Mar": 3.96,
+        "Apr": 3.25,
+        "May": 2.61,
+        "Jun": 2.16,
+        "Jul": 2.39,
+        "Aug": 2.88,
+        "Sep": 3.42,
+        "Oct": 3.89,
+        "Nov": 4.44,
+        "Dec": 4.26
+      },
+      "average": 3.54
+    },
+    {
+      "name": "Karori",
+      "admin1_code": "G2",
+      "location": [
+        -41.28374,
+        174.74141
+      ],
+      "monthly": {
+        "Jan": 4.82,
+        "Feb": 4.74,
+        "Mar": 4.13,
+        "Apr": 3.35,
+        "May": 2.72,
+        "Jun": 2.29,
+        "Jul": 2.53,
+        "Aug": 3.07,
+        "Sep": 3.66,
+        "Oct": 4.19,
+        "Nov": 4.6,
+        "Dec": 4.5
+      },
+      "average": 3.72
+    },
+    {
+      "name": "Invercargill",
+      "admin1_code": "F8",
+      "location": [
+        -46.4,
+        168.35
+      ],
+      "monthly": {
+        "Jan": 4.32,
+        "Feb": 4.13,
+        "Mar": 3.57,
+        "Apr": 2.86,
+        "May": 2.27,
+        "Jun": 2.2,
+        "Jul": 2.35,
+        "Aug": 2.99,
+        "Sep": 3.41,
+        "Oct": 3.9,
+        "Nov": 4.23,
+        "Dec": 4.41
+      },
+      "average": 3.39
+    },
+    {
+      "name": "Hastings",
+      "admin1_code": "F2",
+      "location": [
+        -39.6381,
+        176.84918
+      ],
+      "monthly": {
+        "Jan": 4.83,
+        "Feb": 4.54,
+        "Mar": 4.21,
+        "Apr": 3.67,
+        "May": 3.34,
+        "Jun": 2.85,
+        "Jul": 3.1,
+        "Aug": 3.65,
+        "Sep": 4.13,
+        "Oct": 4.55,
+        "Nov": 4.72,
+        "Dec": 4.56
+      },
+      "average": 4.01
+    },
+    {
+      "name": "Hamilton",
+      "admin1_code": "G1",
+      "location": [
+        -37.78333,
+        175.28333
+      ],
+      "monthly": {
+        "Jan": 4.7,
+        "Feb": 4.41,
+        "Mar": 4.2,
+        "Apr": 3.53,
+        "May": 2.99,
+        "Jun": 2.62,
+        "Jul": 2.77,
+        "Aug": 3.19,
+        "Sep": 3.54,
+        "Oct": 3.98,
+        "Nov": 4.4,
+        "Dec": 4.34
+      },
+      "average": 3.72
+    },
+    {
+      "name": "Dunedin",
+      "admin1_code": "F7",
+      "location": [
+        -45.87416,
+        170.50361
+      ],
+      "monthly": {
+        "Jan": 4.09,
+        "Feb": 4.05,
+        "Mar": 3.61,
+        "Apr": 2.92,
+        "May": 2.42,
+        "Jun": 2.19,
+        "Jul": 2.42,
+        "Aug": 2.97,
+        "Sep": 3.55,
+        "Oct": 3.86,
+        "Nov": 3.99,
+        "Dec": 4.04
+      },
+      "average": 3.34
+    },
+    {
+      "name": "Christchurch",
+      "admin1_code": "E9",
+      "location": [
+        -43.53333,
+        172.63333
+      ],
+      "monthly": {
+        "Jan": 4.68,
+        "Feb": 4.5,
+        "Mar": 4.03,
+        "Apr": 3.49,
+        "May": 2.94,
+        "Jun": 2.49,
+        "Jul": 2.82,
+        "Aug": 3.55,
+        "Sep": 4.17,
+        "Oct": 4.59,
+        "Nov": 4.72,
+        "Dec": 4.5
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Avondale",
+      "admin1_code": "E7",
+      "location": [
+        -36.88333,
+        174.7
+      ],
+      "monthly": {
+        "Jan": 4.72,
+        "Feb": 4.47,
+        "Mar": 4.2,
+        "Apr": 3.44,
+        "May": 3.02,
+        "Jun": 2.62,
+        "Jul": 2.78,
+        "Aug": 3.21,
+        "Sep": 3.61,
+        "Oct": 4.03,
+        "Nov": 4.37,
+        "Dec": 4.39
+      },
+      "average": 3.74
+    },
+    {
+      "name": "Auckland",
+      "admin1_code": "E7",
+      "location": [
+        -36.84853,
+        174.76349
+      ],
+      "monthly": {
+        "Jan": 4.77,
+        "Feb": 4.48,
+        "Mar": 4.24,
+        "Apr": 3.44,
+        "May": 3.01,
+        "Jun": 2.58,
+        "Jul": 2.73,
+        "Aug": 3.17,
+        "Sep": 3.59,
+        "Oct": 4,
+        "Nov": 4.38,
+        "Dec": 4.42
+      },
+      "average": 3.73
+    },
+    {
+      "name": "Levin",
+      "admin1_code": "F3",
+      "location": [
+        -40.63333,
+        175.275
+      ],
+      "monthly": {
+        "Jan": 4.6,
+        "Feb": 4.58,
+        "Mar": 4.11,
+        "Apr": 3.34,
+        "May": 2.65,
+        "Jun": 2.41,
+        "Jul": 2.63,
+        "Aug": 3.1,
+        "Sep": 3.48,
+        "Oct": 3.77,
+        "Nov": 4.41,
+        "Dec": 4.33
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Gisborne",
+      "admin1_code": "F1",
+      "location": [
+        -38.65333,
+        178.00417
+      ],
+      "monthly": {
+        "Jan": 4.83,
+        "Feb": 4.54,
+        "Mar": 4.14,
+        "Apr": 3.55,
+        "May": 3.18,
+        "Jun": 2.69,
+        "Jul": 2.94,
+        "Aug": 3.52,
+        "Sep": 4.04,
+        "Oct": 4.58,
+        "Nov": 4.67,
+        "Dec": 4.62
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Masterton",
+      "admin1_code": "G2",
+      "location": [
+        -40.95972,
+        175.6575
+      ],
+      "monthly": {
+        "Jan": 4.65,
+        "Feb": 4.48,
+        "Mar": 4.07,
+        "Apr": 3.54,
+        "May": 3.02,
+        "Jun": 2.44,
+        "Jul": 2.74,
+        "Aug": 3.21,
+        "Sep": 3.73,
+        "Oct": 4.24,
+        "Nov": 4.5,
+        "Dec": 4.35
+      },
+      "average": 3.75
+    },
+    {
+      "name": "Tauranga",
+      "admin1_code": "E8",
+      "location": [
+        -37.68611,
+        176.16667
+      ],
+      "monthly": {
+        "Jan": 4.97,
+        "Feb": 4.67,
+        "Mar": 4.4,
+        "Apr": 3.64,
+        "May": 3.21,
+        "Jun": 2.67,
+        "Jul": 2.84,
+        "Aug": 3.31,
+        "Sep": 3.69,
+        "Oct": 4.24,
+        "Nov": 4.66,
+        "Dec": 4.6
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Papakura",
+      "admin1_code": "E7",
+      "location": [
+        -37.0646,
+        174.94212
+      ],
+      "monthly": {
+        "Jan": 4.55,
+        "Feb": 4.25,
+        "Mar": 4.03,
+        "Apr": 3.41,
+        "May": 2.98,
+        "Jun": 2.61,
+        "Jul": 2.79,
+        "Aug": 3.17,
+        "Sep": 3.57,
+        "Oct": 3.88,
+        "Nov": 4.2,
+        "Dec": 4.26
+      },
+      "average": 3.64
+    },
+    {
+      "name": "Whakatane",
+      "admin1_code": "E8",
+      "location": [
+        -37.95855,
+        176.98545
+      ],
+      "monthly": {
+        "Jan": 4.91,
+        "Feb": 4.7,
+        "Mar": 4.52,
+        "Apr": 3.72,
+        "May": 3.31,
+        "Jun": 2.8,
+        "Jul": 3,
+        "Aug": 3.5,
+        "Sep": 3.85,
+        "Oct": 4.4,
+        "Nov": 4.74,
+        "Dec": 4.69
+      },
+      "average": 4.01
+    },
+    {
+      "name": "Ashburton",
+      "admin1_code": "E9",
+      "location": [
+        -43.89834,
+        171.73011
+      ],
+      "monthly": {
+        "Jan": 4.37,
+        "Feb": 4.23,
+        "Mar": 3.93,
+        "Apr": 3.53,
+        "May": 3.05,
+        "Jun": 2.72,
+        "Jul": 3,
+        "Aug": 3.6,
+        "Sep": 4.22,
+        "Oct": 4.47,
+        "Nov": 4.51,
+        "Dec": 4.25
+      },
+      "average": 3.82
+    },
+    {
+      "name": "Rangiora",
+      "admin1_code": "E9",
+      "location": [
+        -43.30437,
+        172.58356
+      ],
+      "monthly": {
+        "Jan": 4.62,
+        "Feb": 4.48,
+        "Mar": 4.06,
+        "Apr": 3.55,
+        "May": 3.07,
+        "Jun": 2.63,
+        "Jul": 2.92,
+        "Aug": 3.57,
+        "Sep": 4.16,
+        "Oct": 4.49,
+        "Nov": 4.66,
+        "Dec": 4.42
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Whangarei",
+      "admin1_code": "F6",
+      "location": [
+        -35.73167,
+        174.32391
+      ],
+      "monthly": {
+        "Jan": 4.47,
+        "Feb": 4.11,
+        "Mar": 3.86,
+        "Apr": 3.18,
+        "May": 2.92,
+        "Jun": 2.56,
+        "Jul": 2.72,
+        "Aug": 3.06,
+        "Sep": 3.53,
+        "Oct": 3.96,
+        "Nov": 4.07,
+        "Dec": 4.14
+      },
+      "average": 3.55
+    },
+    {
+      "name": "Takanini",
+      "admin1_code": "E7",
+      "location": [
+        -37.0393,
+        174.92815
+      ],
+      "monthly": {
+        "Jan": 4.59,
+        "Feb": 4.3,
+        "Mar": 4.09,
+        "Apr": 3.46,
+        "May": 3.02,
+        "Jun": 2.64,
+        "Jul": 2.84,
+        "Aug": 3.23,
+        "Sep": 3.64,
+        "Oct": 3.97,
+        "Nov": 4.27,
+        "Dec": 4.32
+      },
+      "average": 3.7
+    },
+    {
+      "name": "Mangere East",
+      "admin1_code": "E7",
+      "location": [
+        -36.96587,
+        174.82389
+      ],
+      "monthly": {
+        "Jan": 4.76,
+        "Feb": 4.51,
+        "Mar": 4.26,
+        "Apr": 3.57,
+        "May": 3.11,
+        "Jun": 2.7,
+        "Jul": 2.9,
+        "Aug": 3.34,
+        "Sep": 3.76,
+        "Oct": 4.14,
+        "Nov": 4.43,
+        "Dec": 4.48
+      },
+      "average": 3.83
+    },
+    {
+      "name": "Papatoetoe",
+      "admin1_code": "E7",
+      "location": [
+        -36.9682,
+        174.84019
+      ],
+      "monthly": {
+        "Jan": 4.75,
+        "Feb": 4.49,
+        "Mar": 4.25,
+        "Apr": 3.57,
+        "May": 3.1,
+        "Jun": 2.71,
+        "Jul": 2.92,
+        "Aug": 3.34,
+        "Sep": 3.75,
+        "Oct": 4.14,
+        "Nov": 4.43,
+        "Dec": 4.47
+      },
+      "average": 3.83
+    },
+    {
+      "name": "Otahuhu",
+      "admin1_code": "E7",
+      "location": [
+        -36.9382,
+        174.84019
+      ],
+      "monthly": {
+        "Jan": 4.74,
+        "Feb": 4.47,
+        "Mar": 4.24,
+        "Apr": 3.54,
+        "May": 3.09,
+        "Jun": 2.7,
+        "Jul": 2.89,
+        "Aug": 3.31,
+        "Sep": 3.71,
+        "Oct": 4.11,
+        "Nov": 4.39,
+        "Dec": 4.46
+      },
+      "average": 3.8
+    },
+    {
+      "name": "Manurewa",
+      "admin1_code": "E7",
+      "location": [
+        -37.0182,
+        174.88019
+      ],
+      "monthly": {
+        "Jan": 4.7,
+        "Feb": 4.4,
+        "Mar": 4.19,
+        "Apr": 3.55,
+        "May": 3.09,
+        "Jun": 2.68,
+        "Jul": 2.92,
+        "Aug": 3.3,
+        "Sep": 3.75,
+        "Oct": 4.08,
+        "Nov": 4.39,
+        "Dec": 4.41
+      },
+      "average": 3.79
+    },
+    {
+      "name": "Otara",
+      "admin1_code": "E7",
+      "location": [
+        -36.9482,
+        174.87019
+      ],
+      "monthly": {
+        "Jan": 4.7,
+        "Feb": 4.45,
+        "Mar": 4.21,
+        "Apr": 3.52,
+        "May": 3.06,
+        "Jun": 2.68,
+        "Jul": 2.87,
+        "Aug": 3.27,
+        "Sep": 3.67,
+        "Oct": 4.06,
+        "Nov": 4.34,
+        "Dec": 4.42
+      },
+      "average": 3.77
+    },
+    {
+      "name": "New Lynn",
+      "admin1_code": "E7",
+      "location": [
+        -36.90694,
+        174.68704
+      ],
+      "monthly": {
+        "Jan": 4.71,
+        "Feb": 4.46,
+        "Mar": 4.19,
+        "Apr": 3.44,
+        "May": 3,
+        "Jun": 2.61,
+        "Jul": 2.78,
+        "Aug": 3.21,
+        "Sep": 3.59,
+        "Oct": 4.03,
+        "Nov": 4.38,
+        "Dec": 4.38
+      },
+      "average": 3.73
+    },
+    {
+      "name": "Epsom",
+      "admin1_code": "E7",
+      "location": [
+        -36.88745,
+        174.77059
+      ],
+      "monthly": {
+        "Jan": 4.79,
+        "Feb": 4.49,
+        "Mar": 4.26,
+        "Apr": 3.53,
+        "May": 3.13,
+        "Jun": 2.7,
+        "Jul": 2.87,
+        "Aug": 3.29,
+        "Sep": 3.69,
+        "Oct": 4.1,
+        "Nov": 4.43,
+        "Dec": 4.46
+      },
+      "average": 3.81
+    },
+    {
+      "name": "Mount Eden",
+      "admin1_code": "E7",
+      "location": [
+        -36.88158,
+        174.76204
+      ],
+      "monthly": {
+        "Jan": 4.77,
+        "Feb": 4.47,
+        "Mar": 4.24,
+        "Apr": 3.5,
+        "May": 3.1,
+        "Jun": 2.65,
+        "Jul": 2.81,
+        "Aug": 3.25,
+        "Sep": 3.66,
+        "Oct": 4.07,
+        "Nov": 4.4,
+        "Dec": 4.44
+      },
+      "average": 3.78
+    },
+    {
+      "name": "Titirangi",
+      "admin1_code": "E7",
+      "location": [
+        -36.93754,
+        174.65584
+      ],
+      "monthly": {
+        "Jan": 4.68,
+        "Feb": 4.42,
+        "Mar": 4.15,
+        "Apr": 3.37,
+        "May": 2.87,
+        "Jun": 2.48,
+        "Jul": 2.67,
+        "Aug": 3.11,
+        "Sep": 3.52,
+        "Oct": 3.96,
+        "Nov": 4.3,
+        "Dec": 4.32
+      },
+      "average": 3.65
+    },
+    {
+      "name": "Remuera",
+      "admin1_code": "E7",
+      "location": [
+        -36.88041,
+        174.79819
+      ],
+      "monthly": {
+        "Jan": 4.79,
+        "Feb": 4.49,
+        "Mar": 4.26,
+        "Apr": 3.53,
+        "May": 3.12,
+        "Jun": 2.69,
+        "Jul": 2.86,
+        "Aug": 3.28,
+        "Sep": 3.68,
+        "Oct": 4.08,
+        "Nov": 4.41,
+        "Dec": 4.46
+      },
+      "average": 3.8
+    },
+    {
+      "name": "Massey East",
+      "admin1_code": "E7",
+      "location": [
+        -36.8282,
+        174.62019
+      ],
+      "monthly": {
+        "Jan": 4.67,
+        "Feb": 4.4,
+        "Mar": 4.15,
+        "Apr": 3.38,
+        "May": 2.98,
+        "Jun": 2.6,
+        "Jul": 2.76,
+        "Aug": 3.21,
+        "Sep": 3.62,
+        "Oct": 4.02,
+        "Nov": 4.35,
+        "Dec": 4.37
+      },
+      "average": 3.71
+    },
+    {
+      "name": "Te Atatu Peninsula",
+      "admin1_code": "E7",
+      "location": [
+        -36.84103,
+        174.65223
+      ],
+      "monthly": {
+        "Jan": 4.66,
+        "Feb": 4.43,
+        "Mar": 4.15,
+        "Apr": 3.36,
+        "May": 2.95,
+        "Jun": 2.57,
+        "Jul": 2.72,
+        "Aug": 3.18,
+        "Sep": 3.58,
+        "Oct": 3.98,
+        "Nov": 4.31,
+        "Dec": 4.36
+      },
+      "average": 3.69
+    },
+    {
+      "name": "Te Atatu South",
+      "admin1_code": "E7",
+      "location": [
+        -36.86472,
+        174.64768
+      ],
+      "monthly": {
+        "Jan": 4.68,
+        "Feb": 4.44,
+        "Mar": 4.17,
+        "Apr": 3.39,
+        "May": 2.98,
+        "Jun": 2.59,
+        "Jul": 2.75,
+        "Aug": 3.22,
+        "Sep": 3.61,
+        "Oct": 4.02,
+        "Nov": 4.35,
+        "Dec": 4.37
+      },
+      "average": 3.71
+    },
+    {
+      "name": "Lincoln",
+      "admin1_code": "E7",
+      "location": [
+        -36.8582,
+        174.62019
+      ],
+      "monthly": {
+        "Jan": 4.67,
+        "Feb": 4.39,
+        "Mar": 4.14,
+        "Apr": 3.37,
+        "May": 2.96,
+        "Jun": 2.58,
+        "Jul": 2.74,
+        "Aug": 3.21,
+        "Sep": 3.59,
+        "Oct": 4,
+        "Nov": 4.32,
+        "Dec": 4.35
+      },
+      "average": 3.69
+    },
+    {
+      "name": "Henderson",
+      "admin1_code": "E7",
+      "location": [
+        -36.88012,
+        174.61975
+      ],
+      "monthly": {
+        "Jan": 4.66,
+        "Feb": 4.4,
+        "Mar": 4.13,
+        "Apr": 3.37,
+        "May": 2.95,
+        "Jun": 2.57,
+        "Jul": 2.73,
+        "Aug": 3.2,
+        "Sep": 3.61,
+        "Oct": 4,
+        "Nov": 4.33,
+        "Dec": 4.32
+      },
+      "average": 3.69
+    },
+    {
+      "name": "Massey",
+      "admin1_code": "E7",
+      "location": [
+        -36.8382,
+        174.61019
+      ],
+      "monthly": {
+        "Jan": 4.66,
+        "Feb": 4.38,
+        "Mar": 4.13,
+        "Apr": 3.37,
+        "May": 2.97,
+        "Jun": 2.59,
+        "Jul": 2.75,
+        "Aug": 3.21,
+        "Sep": 3.6,
+        "Oct": 4.01,
+        "Nov": 4.33,
+        "Dec": 4.34
+      },
+      "average": 3.7
+    },
+    {
+      "name": "Cambridge",
+      "admin1_code": "G1",
+      "location": [
+        -37.87822,
+        175.4402
+      ],
+      "monthly": {
+        "Jan": 4.75,
+        "Feb": 4.48,
+        "Mar": 4.26,
+        "Apr": 3.61,
+        "May": 3.04,
+        "Jun": 2.67,
+        "Jul": 2.86,
+        "Aug": 3.25,
+        "Sep": 3.54,
+        "Oct": 4.01,
+        "Nov": 4.45,
+        "Dec": 4.42
+      },
+      "average": 3.78
+    },
+    {
+      "name": "Rotorua",
+      "admin1_code": "E8",
+      "location": [
+        -38.13874,
+        176.24516
+      ],
+      "monthly": {
+        "Jan": 4.69,
+        "Feb": 4.39,
+        "Mar": 4.21,
+        "Apr": 3.46,
+        "May": 3.07,
+        "Jun": 2.62,
+        "Jul": 2.75,
+        "Aug": 3.17,
+        "Sep": 3.49,
+        "Oct": 3.98,
+        "Nov": 4.47,
+        "Dec": 4.4
+      },
+      "average": 3.72
+    },
+    {
+      "name": "Blenheim",
+      "admin1_code": "F4",
+      "location": [
+        -41.51603,
+        173.9528
+      ],
+      "monthly": {
+        "Jan": 4.95,
+        "Feb": 4.86,
+        "Mar": 4.59,
+        "Apr": 3.9,
+        "May": 3.46,
+        "Jun": 2.97,
+        "Jul": 3.22,
+        "Aug": 3.88,
+        "Sep": 4.37,
+        "Oct": 4.77,
+        "Nov": 4.83,
+        "Dec": 4.71
+      },
+      "average": 4.21
+    },
+    {
+      "name": "Upper Hutt",
+      "admin1_code": "G2",
+      "location": [
+        -41.13827,
+        175.0502
+      ],
+      "monthly": {
+        "Jan": 4.58,
+        "Feb": 4.47,
+        "Mar": 3.95,
+        "Apr": 3.22,
+        "May": 2.59,
+        "Jun": 2.14,
+        "Jul": 2.37,
+        "Aug": 2.84,
+        "Sep": 3.37,
+        "Oct": 3.77,
+        "Nov": 4.34,
+        "Dec": 4.2
+      },
+      "average": 3.49
+    },
+    {
+      "name": "Hamilton East",
+      "admin1_code": "G1",
+      "location": [
+        -37.78821,
+        175.2902
+      ],
+      "monthly": {
+        "Jan": 4.7,
+        "Feb": 4.41,
+        "Mar": 4.21,
+        "Apr": 3.53,
+        "May": 2.99,
+        "Jun": 2.62,
+        "Jul": 2.77,
+        "Aug": 3.18,
+        "Sep": 3.53,
+        "Oct": 3.98,
+        "Nov": 4.39,
+        "Dec": 4.34
+      },
+      "average": 3.72
+    }
+  ]
+}

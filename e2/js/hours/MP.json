@@ -1,0 +1,29 @@
+{
+  "country": "MP",
+  "countryCode": "MP",
+  "cities": [
+    {
+      "name": "Saipan",
+      "admin1_code": "110",
+      "location": [
+        15.21233,
+        145.7545
+      ],
+      "monthly": {
+        "Jan": 4.3,
+        "Feb": 4.73,
+        "Mar": 5.11,
+        "Apr": 5.25,
+        "May": 5.07,
+        "Jun": 4.88,
+        "Jul": 4.33,
+        "Aug": 4.14,
+        "Sep": 4.24,
+        "Oct": 4.29,
+        "Nov": 4.62,
+        "Dec": 4.47
+      },
+      "average": 4.62
+    }
+  ]
+}

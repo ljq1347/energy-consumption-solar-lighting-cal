@@ -1,0 +1,190 @@
+{
+  "country": "Montenegro",
+  "countryCode": "ME",
+  "cities": [
+    {
+      "name": "Podgorica",
+      "admin1_code": "16",
+      "location": [
+        42.44124,
+        19.26309
+      ],
+      "monthly": {
+        "Jan": 2.81,
+        "Feb": 3.39,
+        "Mar": 4.11,
+        "Apr": 4.35,
+        "May": 4.75,
+        "Jun": 5.21,
+        "Jul": 5.42,
+        "Aug": 5.19,
+        "Sep": 4.45,
+        "Oct": 3.77,
+        "Nov": 2.74,
+        "Dec": 2.47
+      },
+      "average": 4.06
+    },
+    {
+      "name": "Pljevlja",
+      "admin1_code": "14",
+      "location": [
+        43.3567,
+        19.35843
+      ],
+      "monthly": {
+        "Jan": 2.42,
+        "Feb": 3.03,
+        "Mar": 3.77,
+        "Apr": 3.91,
+        "May": 4.15,
+        "Jun": 4.61,
+        "Jul": 4.79,
+        "Aug": 4.65,
+        "Sep": 3.82,
+        "Oct": 3.35,
+        "Nov": 2.38,
+        "Dec": 1.99
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Nikšić",
+      "admin1_code": "12",
+      "location": [
+        42.7731,
+        18.94446
+      ],
+      "monthly": {
+        "Jan": 2.87,
+        "Feb": 3.39,
+        "Mar": 4.15,
+        "Apr": 4.19,
+        "May": 4.5,
+        "Jun": 4.98,
+        "Jul": 5.17,
+        "Aug": 4.96,
+        "Sep": 4.35,
+        "Oct": 3.8,
+        "Nov": 2.79,
+        "Dec": 2.57
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Herceg Novi",
+      "admin1_code": "08",
+      "location": [
+        42.45306,
+        18.5375
+      ],
+      "monthly": {
+        "Jan": 2.49,
+        "Feb": 3.11,
+        "Mar": 3.87,
+        "Apr": 4.3,
+        "May": 4.74,
+        "Jun": 5.3,
+        "Jul": 5.5,
+        "Aug": 5.22,
+        "Sep": 4.31,
+        "Oct": 3.46,
+        "Nov": 2.38,
+        "Dec": 2.21
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Cetinje",
+      "admin1_code": "06",
+      "location": [
+        42.39063,
+        18.91417
+      ],
+      "monthly": {
+        "Jan": 2.71,
+        "Feb": 3.29,
+        "Mar": 4,
+        "Apr": 4.17,
+        "May": 4.57,
+        "Jun": 5.12,
+        "Jul": 5.34,
+        "Aug": 5.06,
+        "Sep": 4.21,
+        "Oct": 3.61,
+        "Nov": 2.61,
+        "Dec": 2.39
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Budva",
+      "admin1_code": "05",
+      "location": [
+        42.28721,
+        18.83922
+      ],
+      "monthly": {
+        "Jan": 2.41,
+        "Feb": 2.98,
+        "Mar": 3.76,
+        "Apr": 4.23,
+        "May": 4.7,
+        "Jun": 5.26,
+        "Jul": 5.48,
+        "Aug": 5.2,
+        "Sep": 4.25,
+        "Oct": 3.35,
+        "Nov": 2.29,
+        "Dec": 2.11
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Bijelo Polje",
+      "admin1_code": "04",
+      "location": [
+        43.03834,
+        19.74758
+      ],
+      "monthly": {
+        "Jan": 2.32,
+        "Feb": 3,
+        "Mar": 3.72,
+        "Apr": 3.92,
+        "May": 4.22,
+        "Jun": 4.68,
+        "Jul": 4.84,
+        "Aug": 4.7,
+        "Sep": 3.81,
+        "Oct": 3.21,
+        "Nov": 2.24,
+        "Dec": 1.7
+      },
+      "average": 3.53
+    },
+    {
+      "name": "Bar",
+      "admin1_code": "02",
+      "location": [
+        42.0937,
+        19.09841
+      ],
+      "monthly": {
+        "Jan": 2.62,
+        "Feb": 3.19,
+        "Mar": 3.97,
+        "Apr": 4.42,
+        "May": 4.88,
+        "Jun": 5.4,
+        "Jul": 5.61,
+        "Aug": 5.34,
+        "Sep": 4.45,
+        "Oct": 3.61,
+        "Nov": 2.47,
+        "Dec": 2.27
+      },
+      "average": 4.02
+    }
+  ]
+}

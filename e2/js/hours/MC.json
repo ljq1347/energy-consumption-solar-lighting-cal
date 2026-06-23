@@ -1,0 +1,52 @@
+{
+  "country": "Monaco",
+  "countryCode": "MC",
+  "cities": [
+    {
+      "name": "Monte-Carlo",
+      "admin1_code": "00",
+      "location": [
+        43.73976,
+        7.42732
+      ],
+      "monthly": {
+        "Jan": 2.85,
+        "Feb": 3.49,
+        "Mar": 4.32,
+        "Apr": 4.54,
+        "May": 4.87,
+        "Jun": 5.17,
+        "Jul": 5.4,
+        "Aug": 5.18,
+        "Sep": 4.46,
+        "Oct": 3.43,
+        "Nov": 2.79,
+        "Dec": 2.55
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Monaco",
+      "admin1_code": "00",
+      "location": [
+        43.73718,
+        7.42145
+      ],
+      "monthly": {
+        "Jan": 2.85,
+        "Feb": 3.46,
+        "Mar": 4.27,
+        "Apr": 4.51,
+        "May": 4.86,
+        "Jun": 5.16,
+        "Jul": 5.39,
+        "Aug": 5.16,
+        "Sep": 4.42,
+        "Oct": 3.38,
+        "Nov": 2.75,
+        "Dec": 2.53
+      },
+      "average": 4.06
+    }
+  ]
+}

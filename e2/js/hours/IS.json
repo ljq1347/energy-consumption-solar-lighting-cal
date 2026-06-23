@@ -1,0 +1,75 @@
+{
+  "country": "Iceland",
+  "countryCode": "IS",
+  "cities": [
+    {
+      "name": "Reykjavik",
+      "admin1_code": "01",
+      "location": [
+        64.12652,
+        -21.81743
+      ],
+      "monthly": {
+        "Jan": 0.8,
+        "Feb": 1.2,
+        "Mar": 2.0,
+        "Apr": 3.2,
+        "May": 4.5,
+        "Jun": 4.8,
+        "Jul": 4.5,
+        "Aug": 3.5,
+        "Sep": 2.5,
+        "Oct": 1.5,
+        "Nov": 0.8,
+        "Dec": 0.5
+      },
+      "average": 2.5
+    },
+    {
+      "name": "Akureyri",
+      "admin1_code": "07",
+      "location": [
+        65.68333,
+        -18.10000
+      ],
+      "monthly": {
+        "Jan": 0.5,
+        "Feb": 0.8,
+        "Mar": 1.5,
+        "Apr": 2.8,
+        "May": 4.2,
+        "Jun": 4.5,
+        "Jul": 4.2,
+        "Aug": 3.2,
+        "Sep": 2.0,
+        "Oct": 1.0,
+        "Nov": 0.5,
+        "Dec": 0.3
+      },
+      "average": 2.1
+    },
+    {
+      "name": "Hafnarfjordur",
+      "admin1_code": "01",
+      "location": [
+        64.06892,
+        -21.90837
+      ],
+      "monthly": {
+        "Jan": 0.8,
+        "Feb": 1.2,
+        "Mar": 2.0,
+        "Apr": 3.2,
+        "May": 4.5,
+        "Jun": 4.8,
+        "Jul": 4.5,
+        "Aug": 3.5,
+        "Sep": 2.5,
+        "Oct": 1.5,
+        "Nov": 0.8,
+        "Dec": 0.5
+      },
+      "average": 2.5
+    }
+  ]
+}

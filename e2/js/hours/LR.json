@@ -1,0 +1,374 @@
+{
+  "country": "Liberia",
+  "countryCode": "LR",
+  "cities": [
+    {
+      "name": "Zwedru",
+      "admin1_code": "19",
+      "location": [
+        6.06846,
+        -8.13559
+      ],
+      "monthly": {
+        "Jan": 4.39,
+        "Feb": 4.39,
+        "Mar": 4.3,
+        "Apr": 4.21,
+        "May": 3.94,
+        "Jun": 3.47,
+        "Jul": 3.23,
+        "Aug": 3.46,
+        "Sep": 4.01,
+        "Oct": 4.28,
+        "Nov": 4.36,
+        "Dec": 4.29
+      },
+      "average": 4.03
+    },
+    {
+      "name": "New Yekepa",
+      "admin1_code": "09",
+      "location": [
+        7.57944,
+        -8.53778
+      ],
+      "monthly": {
+        "Jan": 4.78,
+        "Feb": 4.64,
+        "Mar": 4.23,
+        "Apr": 4.02,
+        "May": 3.83,
+        "Jun": 3.43,
+        "Jul": 3.18,
+        "Aug": 3.51,
+        "Sep": 3.98,
+        "Oct": 4.02,
+        "Nov": 4.24,
+        "Dec": 4.67
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Voinjama",
+      "admin1_code": "20",
+      "location": [
+        8.42194,
+        -9.74778
+      ],
+      "monthly": {
+        "Jan": 4.88,
+        "Feb": 4.89,
+        "Mar": 4.43,
+        "Apr": 4.16,
+        "May": 3.94,
+        "Jun": 3.55,
+        "Jul": 3.4,
+        "Aug": 3.59,
+        "Sep": 4.16,
+        "Oct": 4.38,
+        "Nov": 4.51,
+        "Dec": 4.77
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Tubmanburg",
+      "admin1_code": "15",
+      "location": [
+        6.87064,
+        -10.8211
+      ],
+      "monthly": {
+        "Jan": 4.38,
+        "Feb": 4.49,
+        "Mar": 4.16,
+        "Apr": 4.03,
+        "May": 3.79,
+        "Jun": 3.35,
+        "Jul": 3.04,
+        "Aug": 3.11,
+        "Sep": 3.64,
+        "Oct": 4.08,
+        "Nov": 4.13,
+        "Dec": 4.25
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Sanniquellie",
+      "admin1_code": "09",
+      "location": [
+        7.36215,
+        -8.71326
+      ],
+      "monthly": {
+        "Jan": 4.71,
+        "Feb": 4.63,
+        "Mar": 4.28,
+        "Apr": 4.01,
+        "May": 3.82,
+        "Jun": 3.36,
+        "Jul": 3.06,
+        "Aug": 3.41,
+        "Sep": 4.03,
+        "Oct": 4.18,
+        "Nov": 4.33,
+        "Dec": 4.57
+      },
+      "average": 4.03
+    },
+    {
+      "name": "Saclepea",
+      "admin1_code": "09",
+      "location": [
+        6.9625,
+        -8.84056
+      ],
+      "monthly": {
+        "Jan": 4.53,
+        "Feb": 4.53,
+        "Mar": 4.27,
+        "Apr": 4.05,
+        "May": 3.88,
+        "Jun": 3.47,
+        "Jul": 3.18,
+        "Aug": 3.42,
+        "Sep": 4.01,
+        "Oct": 4.3,
+        "Nov": 4.36,
+        "Dec": 4.37
+      },
+      "average": 4.03
+    },
+    {
+      "name": "Pleebo City",
+      "admin1_code": "13",
+      "location": [
+        4.58953,
+        -7.67218
+      ],
+      "monthly": {
+        "Jan": 3.99,
+        "Feb": 3.97,
+        "Mar": 4.07,
+        "Apr": 3.93,
+        "May": 3.46,
+        "Jun": 2.86,
+        "Jul": 3.01,
+        "Aug": 3.09,
+        "Sep": 3.28,
+        "Oct": 3.53,
+        "Nov": 3.69,
+        "Dec": 3.9
+      },
+      "average": 3.56
+    },
+    {
+      "name": "Monrovia",
+      "admin1_code": "14",
+      "location": [
+        6.30054,
+        -10.7969
+      ],
+      "monthly": {
+        "Jan": 4.36,
+        "Feb": 4.59,
+        "Mar": 4.5,
+        "Apr": 4.37,
+        "May": 3.93,
+        "Jun": 3.33,
+        "Jul": 3.14,
+        "Aug": 3.35,
+        "Sep": 3.64,
+        "Oct": 4.06,
+        "Nov": 4.12,
+        "Dec": 4.18
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Kakata",
+      "admin1_code": "17",
+      "location": [
+        6.53104,
+        -10.35368
+      ],
+      "monthly": {
+        "Jan": 4.24,
+        "Feb": 4.31,
+        "Mar": 4.12,
+        "Apr": 4.01,
+        "May": 3.73,
+        "Jun": 3.35,
+        "Jul": 3.02,
+        "Aug": 3.13,
+        "Sep": 3.61,
+        "Oct": 4.02,
+        "Nov": 4.11,
+        "Dec": 4.16
+      },
+      "average": 3.82
+    },
+    {
+      "name": "Harper",
+      "admin1_code": "13",
+      "location": [
+        4.3782,
+        -7.71081
+      ],
+      "monthly": {
+        "Jan": 4.19,
+        "Feb": 4.39,
+        "Mar": 4.52,
+        "Apr": 4.33,
+        "May": 3.75,
+        "Jun": 2.97,
+        "Jul": 3.12,
+        "Aug": 3.22,
+        "Sep": 3.41,
+        "Oct": 3.84,
+        "Nov": 4.16,
+        "Dec": 4.11
+      },
+      "average": 3.83
+    },
+    {
+      "name": "Harbel",
+      "admin1_code": "17",
+      "location": [
+        6.24683,
+        -10.35642
+      ],
+      "monthly": {
+        "Jan": 4.2,
+        "Feb": 4.28,
+        "Mar": 4.12,
+        "Apr": 4,
+        "May": 3.68,
+        "Jun": 3.21,
+        "Jul": 2.9,
+        "Aug": 3.04,
+        "Sep": 3.45,
+        "Oct": 3.87,
+        "Nov": 4,
+        "Dec": 4.12
+      },
+      "average": 3.74
+    },
+    {
+      "name": "Greenville",
+      "admin1_code": "10",
+      "location": [
+        5.01133,
+        -9.0388
+      ],
+      "monthly": {
+        "Jan": 4.2,
+        "Feb": 4.4,
+        "Mar": 4.43,
+        "Apr": 4.31,
+        "May": 3.74,
+        "Jun": 3.01,
+        "Jul": 2.92,
+        "Aug": 3.15,
+        "Sep": 3.41,
+        "Oct": 3.79,
+        "Nov": 3.99,
+        "Dec": 4.1
+      },
+      "average": 3.79
+    },
+    {
+      "name": "Gbarnga",
+      "admin1_code": "01",
+      "location": [
+        6.99543,
+        -9.47122
+      ],
+      "monthly": {
+        "Jan": 4.49,
+        "Feb": 4.52,
+        "Mar": 4.29,
+        "Apr": 4.08,
+        "May": 3.87,
+        "Jun": 3.44,
+        "Jul": 3.16,
+        "Aug": 3.35,
+        "Sep": 3.93,
+        "Oct": 4.26,
+        "Nov": 4.34,
+        "Dec": 4.36
+      },
+      "average": 4.01
+    },
+    {
+      "name": "Ganta",
+      "admin1_code": "09",
+      "location": [
+        7.235,
+        -8.98444
+      ],
+      "monthly": {
+        "Jan": 4.59,
+        "Feb": 4.59,
+        "Mar": 4.31,
+        "Apr": 4.07,
+        "May": 3.87,
+        "Jun": 3.43,
+        "Jul": 3.12,
+        "Aug": 3.39,
+        "Sep": 4,
+        "Oct": 4.2,
+        "Nov": 4.31,
+        "Dec": 4.43
+      },
+      "average": 4.03
+    },
+    {
+      "name": "Foya Kamara",
+      "admin1_code": "20",
+      "location": [
+        8.36028,
+        -10.20639
+      ],
+      "monthly": {
+        "Jan": 4.8,
+        "Feb": 4.89,
+        "Mar": 4.43,
+        "Apr": 4.16,
+        "May": 3.87,
+        "Jun": 3.48,
+        "Jul": 3.34,
+        "Aug": 3.47,
+        "Sep": 4.09,
+        "Oct": 4.28,
+        "Nov": 4.41,
+        "Dec": 4.66
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Buchanan",
+      "admin1_code": "11",
+      "location": [
+        5.87693,
+        -10.04964
+      ],
+      "monthly": {
+        "Jan": 4.31,
+        "Feb": 4.5,
+        "Mar": 4.5,
+        "Apr": 4.34,
+        "May": 3.87,
+        "Jun": 3.29,
+        "Jul": 3.05,
+        "Aug": 3.23,
+        "Sep": 3.59,
+        "Oct": 3.96,
+        "Nov": 4.07,
+        "Dec": 4.14
+      },
+      "average": 3.9
+    }
+  ]
+}

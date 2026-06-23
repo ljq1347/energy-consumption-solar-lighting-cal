@@ -1,0 +1,29 @@
+{
+  "country": "JE",
+  "countryCode": "JE",
+  "cities": [
+    {
+      "name": "Saint Helier",
+      "admin1_code": "3237864",
+      "location": [
+        49.18804,
+        -2.10491
+      ],
+      "monthly": {
+        "Jan": 1.38,
+        "Feb": 2.23,
+        "Mar": 3.24,
+        "Apr": 4.43,
+        "May": 4.76,
+        "Jun": 4.83,
+        "Jul": 4.78,
+        "Aug": 4.29,
+        "Sep": 3.66,
+        "Oct": 2.42,
+        "Nov": 1.54,
+        "Dec": 1.2
+      },
+      "average": 3.23
+    }
+  ]
+}

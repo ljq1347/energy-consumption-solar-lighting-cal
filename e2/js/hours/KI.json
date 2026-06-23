@@ -1,0 +1,29 @@
+{
+  "country": "Kiribati",
+  "countryCode": "KI",
+  "cities": [
+    {
+      "name": "Tarawa",
+      "admin1_code": "01",
+      "location": [
+        1.3278,
+        172.97696
+      ],
+      "monthly": {
+        "Jan": 4.41,
+        "Feb": 4.68,
+        "Mar": 4.66,
+        "Apr": 4.58,
+        "May": 4.52,
+        "Jun": 4.34,
+        "Jul": 4.32,
+        "Aug": 4.85,
+        "Sep": 5.01,
+        "Oct": 5.22,
+        "Nov": 4.98,
+        "Dec": 4.45
+      },
+      "average": 4.67
+    }
+  ]
+}

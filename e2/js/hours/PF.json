@@ -1,0 +1,75 @@
+{
+  "country": "PF",
+  "countryCode": "PF",
+  "cities": [
+    {
+      "name": "Punaauia",
+      "admin1_code": "01",
+      "location": [
+        -17.63333,
+        -149.6
+      ],
+      "monthly": {
+        "Jan": 3.99,
+        "Feb": 4.16,
+        "Mar": 4.34,
+        "Apr": 4.11,
+        "May": 3.88,
+        "Jun": 3.71,
+        "Jul": 3.9,
+        "Aug": 4.27,
+        "Sep": 4.34,
+        "Oct": 4.32,
+        "Nov": 4.16,
+        "Dec": 3.97
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Papeete",
+      "admin1_code": "01",
+      "location": [
+        -17.5347,
+        -149.56843
+      ],
+      "monthly": {
+        "Jan": 4.48,
+        "Feb": 4.64,
+        "Mar": 4.82,
+        "Apr": 4.51,
+        "May": 4.23,
+        "Jun": 4.08,
+        "Jul": 4.32,
+        "Aug": 4.7,
+        "Sep": 4.92,
+        "Oct": 4.94,
+        "Nov": 4.75,
+        "Dec": 4.49
+      },
+      "average": 4.57
+    },
+    {
+      "name": "Faaa",
+      "admin1_code": "01",
+      "location": [
+        -17.55933,
+        -149.60352
+      ],
+      "monthly": {
+        "Jan": 4.42,
+        "Feb": 4.57,
+        "Mar": 4.75,
+        "Apr": 4.46,
+        "May": 4.2,
+        "Jun": 4.05,
+        "Jul": 4.28,
+        "Aug": 4.66,
+        "Sep": 4.84,
+        "Oct": 4.85,
+        "Nov": 4.68,
+        "Dec": 4.43
+      },
+      "average": 4.52
+    }
+  ]
+}

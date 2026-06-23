@@ -1,0 +1,5572 @@
+{
+  "country": "Netherlands",
+  "countryCode": "NL",
+  "cities": [
+    {
+      "name": "Zwolle",
+      "admin1_code": "15",
+      "location": [
+        52.5125,
+        6.09444
+      ],
+      "monthly": {
+        "Jan": 1.19,
+        "Feb": 2.02,
+        "Mar": 3.01,
+        "Apr": 3.96,
+        "May": 4.21,
+        "Jun": 4.21,
+        "Jul": 4.09,
+        "Aug": 3.81,
+        "Sep": 3.17,
+        "Oct": 2.24,
+        "Nov": 1.33,
+        "Dec": 0.97
+      },
+      "average": 2.85
+    },
+    {
+      "name": "Zwijndrecht",
+      "admin1_code": "11",
+      "location": [
+        51.8175,
+        4.63333
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.05,
+        "Mar": 3.04,
+        "Apr": 4.04,
+        "May": 4.34,
+        "Jun": 4.32,
+        "Jul": 4.14,
+        "Aug": 3.87,
+        "Sep": 3.23,
+        "Oct": 2.23,
+        "Nov": 1.37,
+        "Dec": 1
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Zutphen",
+      "admin1_code": "03",
+      "location": [
+        52.13833,
+        6.20139
+      ],
+      "monthly": {
+        "Jan": 1.2,
+        "Feb": 2,
+        "Mar": 3,
+        "Apr": 3.97,
+        "May": 4.21,
+        "Jun": 4.26,
+        "Jul": 4.07,
+        "Aug": 3.83,
+        "Sep": 3.19,
+        "Oct": 2.24,
+        "Nov": 1.36,
+        "Dec": 0.97
+      },
+      "average": 2.86
+    },
+    {
+      "name": "Zoetermeer",
+      "admin1_code": "11",
+      "location": [
+        52.0575,
+        4.49306
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.07,
+        "Mar": 3.11,
+        "Apr": 4.12,
+        "May": 4.44,
+        "Jun": 4.43,
+        "Jul": 4.26,
+        "Aug": 3.92,
+        "Sep": 3.2,
+        "Oct": 2.18,
+        "Nov": 1.33,
+        "Dec": 0.98
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Zevenaar",
+      "admin1_code": "03",
+      "location": [
+        51.93,
+        6.07083
+      ],
+      "monthly": {
+        "Jan": 1.24,
+        "Feb": 2.02,
+        "Mar": 3.03,
+        "Apr": 3.98,
+        "May": 4.24,
+        "Jun": 4.28,
+        "Jul": 4.1,
+        "Aug": 3.85,
+        "Sep": 3.23,
+        "Oct": 2.27,
+        "Nov": 1.4,
+        "Dec": 0.97
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Zeist",
+      "admin1_code": "09",
+      "location": [
+        52.09,
+        5.23333
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 1.96,
+        "Mar": 2.95,
+        "Apr": 3.92,
+        "May": 4.18,
+        "Jun": 4.19,
+        "Jul": 4.05,
+        "Aug": 3.78,
+        "Sep": 3.14,
+        "Oct": 2.19,
+        "Nov": 1.32,
+        "Dec": 0.97
+      },
+      "average": 2.82
+    },
+    {
+      "name": "Zeewolde",
+      "admin1_code": "16",
+      "location": [
+        52.33,
+        5.54167
+      ],
+      "monthly": {
+        "Jan": 1.2,
+        "Feb": 1.97,
+        "Mar": 2.99,
+        "Apr": 3.96,
+        "May": 4.23,
+        "Jun": 4.24,
+        "Jul": 4.1,
+        "Aug": 3.81,
+        "Sep": 3.17,
+        "Oct": 2.21,
+        "Nov": 1.33,
+        "Dec": 0.94
+      },
+      "average": 2.85
+    },
+    {
+      "name": "Zandvoort",
+      "admin1_code": "07",
+      "location": [
+        52.37125,
+        4.53306
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2.07,
+        "Mar": 3.18,
+        "Apr": 4.31,
+        "May": 4.68,
+        "Jun": 4.64,
+        "Jul": 4.48,
+        "Aug": 4.07,
+        "Sep": 3.19,
+        "Oct": 2.14,
+        "Nov": 1.25,
+        "Dec": 0.93
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Zaltbommel",
+      "admin1_code": "03",
+      "location": [
+        51.81,
+        5.24444
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.05,
+        "Mar": 3.03,
+        "Apr": 4.01,
+        "May": 4.27,
+        "Jun": 4.32,
+        "Jul": 4.13,
+        "Aug": 3.88,
+        "Sep": 3.25,
+        "Oct": 2.29,
+        "Nov": 1.4,
+        "Dec": 1
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Zaanstad",
+      "admin1_code": "07",
+      "location": [
+        52.45313,
+        4.81356
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2.03,
+        "Mar": 3.08,
+        "Apr": 4.13,
+        "May": 4.49,
+        "Jun": 4.44,
+        "Jul": 4.29,
+        "Aug": 3.9,
+        "Sep": 3.16,
+        "Oct": 2.15,
+        "Nov": 1.3,
+        "Dec": 0.96
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Zaandam",
+      "admin1_code": "07",
+      "location": [
+        52.43854,
+        4.82643
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 2.02,
+        "Mar": 3.07,
+        "Apr": 4.11,
+        "May": 4.46,
+        "Jun": 4.42,
+        "Jul": 4.27,
+        "Aug": 3.89,
+        "Sep": 3.15,
+        "Oct": 2.14,
+        "Nov": 1.3,
+        "Dec": 0.96
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Woerden",
+      "admin1_code": "09",
+      "location": [
+        52.085,
+        4.88333
+      ],
+      "monthly": {
+        "Jan": 1.24,
+        "Feb": 2.04,
+        "Mar": 3.06,
+        "Apr": 4.05,
+        "May": 4.33,
+        "Jun": 4.34,
+        "Jul": 4.18,
+        "Aug": 3.89,
+        "Sep": 3.24,
+        "Oct": 2.23,
+        "Nov": 1.35,
+        "Dec": 0.98
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Wisch",
+      "admin1_code": "03",
+      "location": [
+        51.92648,
+        6.41705
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 2.01,
+        "Mar": 3.05,
+        "Apr": 3.98,
+        "May": 4.24,
+        "Jun": 4.3,
+        "Jul": 4.11,
+        "Aug": 3.86,
+        "Sep": 3.24,
+        "Oct": 2.28,
+        "Nov": 1.41,
+        "Dec": 0.97
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Winterswijk",
+      "admin1_code": "03",
+      "location": [
+        51.9725,
+        6.71944
+      ],
+      "monthly": {
+        "Jan": 1.19,
+        "Feb": 1.99,
+        "Mar": 3.02,
+        "Apr": 3.95,
+        "May": 4.22,
+        "Jun": 4.28,
+        "Jul": 4.1,
+        "Aug": 3.85,
+        "Sep": 3.2,
+        "Oct": 2.27,
+        "Nov": 1.38,
+        "Dec": 0.96
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Winschoten",
+      "admin1_code": "04",
+      "location": [
+        53.14417,
+        7.03472
+      ],
+      "monthly": {
+        "Jan": 1.11,
+        "Feb": 1.87,
+        "Mar": 2.96,
+        "Apr": 3.96,
+        "May": 4.22,
+        "Jun": 4.15,
+        "Jul": 4.01,
+        "Aug": 3.81,
+        "Sep": 3.15,
+        "Oct": 2.2,
+        "Nov": 1.24,
+        "Dec": 0.91
+      },
+      "average": 2.8
+    },
+    {
+      "name": "Wijk bij Duurstede",
+      "admin1_code": "09",
+      "location": [
+        51.97417,
+        5.34167
+      ],
+      "monthly": {
+        "Jan": 1.24,
+        "Feb": 2,
+        "Mar": 3,
+        "Apr": 3.96,
+        "May": 4.23,
+        "Jun": 4.26,
+        "Jul": 4.1,
+        "Aug": 3.85,
+        "Sep": 3.19,
+        "Oct": 2.24,
+        "Nov": 1.36,
+        "Dec": 0.98
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Wijchen",
+      "admin1_code": "03",
+      "location": [
+        51.80917,
+        5.725
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.04,
+        "Mar": 3.05,
+        "Apr": 4,
+        "May": 4.26,
+        "Jun": 4.31,
+        "Jul": 4.13,
+        "Aug": 3.88,
+        "Sep": 3.27,
+        "Oct": 2.3,
+        "Nov": 1.42,
+        "Dec": 0.98
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Wierden",
+      "admin1_code": "15",
+      "location": [
+        52.35917,
+        6.59306
+      ],
+      "monthly": {
+        "Jan": 1.18,
+        "Feb": 1.99,
+        "Mar": 3,
+        "Apr": 3.94,
+        "May": 4.17,
+        "Jun": 4.21,
+        "Jul": 4.04,
+        "Aug": 3.81,
+        "Sep": 3.17,
+        "Oct": 2.24,
+        "Nov": 1.35,
+        "Dec": 0.95
+      },
+      "average": 2.84
+    },
+    {
+      "name": "Weesp",
+      "admin1_code": "07",
+      "location": [
+        52.3075,
+        5.04167
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2,
+        "Mar": 3.02,
+        "Apr": 4.05,
+        "May": 4.33,
+        "Jun": 4.31,
+        "Jul": 4.16,
+        "Aug": 3.84,
+        "Sep": 3.21,
+        "Oct": 2.19,
+        "Nov": 1.33,
+        "Dec": 0.97
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Weert",
+      "admin1_code": "05",
+      "location": [
+        51.25167,
+        5.70694
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.04,
+        "Mar": 3.05,
+        "Apr": 3.96,
+        "May": 4.22,
+        "Jun": 4.33,
+        "Jul": 4.11,
+        "Aug": 3.87,
+        "Sep": 3.31,
+        "Oct": 2.34,
+        "Nov": 1.48,
+        "Dec": 1.04
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Wassenaar",
+      "admin1_code": "11",
+      "location": [
+        52.14583,
+        4.40278
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.12,
+        "Mar": 3.22,
+        "Apr": 4.3,
+        "May": 4.61,
+        "Jun": 4.62,
+        "Jul": 4.46,
+        "Aug": 4.06,
+        "Sep": 3.24,
+        "Oct": 2.21,
+        "Nov": 1.32,
+        "Dec": 0.97
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Wageningen",
+      "admin1_code": "03",
+      "location": [
+        51.97,
+        5.66667
+      ],
+      "monthly": {
+        "Jan": 1.23,
+        "Feb": 2,
+        "Mar": 3.01,
+        "Apr": 3.95,
+        "May": 4.23,
+        "Jun": 4.26,
+        "Jul": 4.09,
+        "Aug": 3.84,
+        "Sep": 3.22,
+        "Oct": 2.25,
+        "Nov": 1.38,
+        "Dec": 0.97
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Waddinxveen",
+      "admin1_code": "11",
+      "location": [
+        52.045,
+        4.65139
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.04,
+        "Mar": 3.07,
+        "Apr": 4.07,
+        "May": 4.37,
+        "Jun": 4.36,
+        "Jul": 4.19,
+        "Aug": 3.9,
+        "Sep": 3.22,
+        "Oct": 2.22,
+        "Nov": 1.35,
+        "Dec": 0.98
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Waalwijk",
+      "admin1_code": "06",
+      "location": [
+        51.6825,
+        5.07083
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.04,
+        "Mar": 3.03,
+        "Apr": 3.97,
+        "May": 4.24,
+        "Jun": 4.3,
+        "Jul": 4.09,
+        "Aug": 3.85,
+        "Sep": 3.26,
+        "Oct": 2.29,
+        "Nov": 1.43,
+        "Dec": 1.01
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Vught",
+      "admin1_code": "06",
+      "location": [
+        51.65333,
+        5.2875
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.02,
+        "Mar": 3.01,
+        "Apr": 3.95,
+        "May": 4.2,
+        "Jun": 4.26,
+        "Jul": 4.07,
+        "Aug": 3.83,
+        "Sep": 3.25,
+        "Oct": 2.29,
+        "Nov": 1.41,
+        "Dec": 1.01
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Voorschoten",
+      "admin1_code": "11",
+      "location": [
+        52.1275,
+        4.44861
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.11,
+        "Mar": 3.2,
+        "Apr": 4.26,
+        "May": 4.58,
+        "Jun": 4.58,
+        "Jul": 4.42,
+        "Aug": 4.03,
+        "Sep": 3.23,
+        "Oct": 2.19,
+        "Nov": 1.33,
+        "Dec": 0.97
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Voorburg",
+      "admin1_code": "11",
+      "location": [
+        52.07417,
+        4.35972
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.1,
+        "Mar": 3.18,
+        "Apr": 4.25,
+        "May": 4.56,
+        "Jun": 4.56,
+        "Jul": 4.39,
+        "Aug": 3.99,
+        "Sep": 3.21,
+        "Oct": 2.19,
+        "Nov": 1.33,
+        "Dec": 0.98
+      },
+      "average": 3
+    },
+    {
+      "name": "Volendam",
+      "admin1_code": "07",
+      "location": [
+        52.495,
+        5.07083
+      ],
+      "monthly": {
+        "Jan": 1.2,
+        "Feb": 1.98,
+        "Mar": 3.04,
+        "Apr": 4.07,
+        "May": 4.39,
+        "Jun": 4.35,
+        "Jul": 4.2,
+        "Aug": 3.85,
+        "Sep": 3.16,
+        "Oct": 2.13,
+        "Nov": 1.26,
+        "Dec": 0.94
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Vlissingen",
+      "admin1_code": "10",
+      "location": [
+        51.4425,
+        3.57361
+      ],
+      "monthly": {
+        "Jan": 1.36,
+        "Feb": 2.15,
+        "Mar": 3.22,
+        "Apr": 4.32,
+        "May": 4.53,
+        "Jun": 4.6,
+        "Jul": 4.42,
+        "Aug": 4.14,
+        "Sep": 3.38,
+        "Oct": 2.35,
+        "Nov": 1.39,
+        "Dec": 1.03
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Vlaardingen",
+      "admin1_code": "11",
+      "location": [
+        51.9125,
+        4.34167
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.06,
+        "Mar": 3.1,
+        "Apr": 4.12,
+        "May": 4.43,
+        "Jun": 4.43,
+        "Jul": 4.24,
+        "Aug": 3.9,
+        "Sep": 3.18,
+        "Oct": 2.19,
+        "Nov": 1.33,
+        "Dec": 0.98
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Vianen",
+      "admin1_code": "09",
+      "location": [
+        51.9925,
+        5.09167
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.02,
+        "Mar": 3.03,
+        "Apr": 4.01,
+        "May": 4.27,
+        "Jun": 4.28,
+        "Jul": 4.13,
+        "Aug": 3.87,
+        "Sep": 3.22,
+        "Oct": 2.25,
+        "Nov": 1.36,
+        "Dec": 0.99
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Venray",
+      "admin1_code": "05",
+      "location": [
+        51.525,
+        5.975
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.03,
+        "Mar": 3.04,
+        "Apr": 3.96,
+        "May": 4.23,
+        "Jun": 4.31,
+        "Jul": 4.11,
+        "Aug": 3.87,
+        "Sep": 3.28,
+        "Oct": 2.31,
+        "Nov": 1.45,
+        "Dec": 1
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Venlo",
+      "admin1_code": "05",
+      "location": [
+        51.37,
+        6.16806
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.05,
+        "Mar": 3.05,
+        "Apr": 3.95,
+        "May": 4.22,
+        "Jun": 4.32,
+        "Jul": 4.11,
+        "Aug": 3.87,
+        "Sep": 3.3,
+        "Oct": 2.32,
+        "Nov": 1.46,
+        "Dec": 1.02
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Velsen-Zuid",
+      "admin1_code": "07",
+      "location": [
+        52.46,
+        4.65
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2.05,
+        "Mar": 3.17,
+        "Apr": 4.27,
+        "May": 4.65,
+        "Jun": 4.6,
+        "Jul": 4.44,
+        "Aug": 4.01,
+        "Sep": 3.19,
+        "Oct": 2.17,
+        "Nov": 1.29,
+        "Dec": 0.95
+      },
+      "average": 3
+    },
+    {
+      "name": "Velp",
+      "admin1_code": "03",
+      "location": [
+        51.995,
+        5.97361
+      ],
+      "monthly": {
+        "Jan": 1.19,
+        "Feb": 1.94,
+        "Mar": 2.98,
+        "Apr": 3.89,
+        "May": 4.16,
+        "Jun": 4.2,
+        "Jul": 4.04,
+        "Aug": 3.77,
+        "Sep": 3.16,
+        "Oct": 2.21,
+        "Nov": 1.35,
+        "Dec": 0.95
+      },
+      "average": 2.82
+    },
+    {
+      "name": "Veghel",
+      "admin1_code": "06",
+      "location": [
+        51.61667,
+        5.54861
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.04,
+        "Mar": 3.03,
+        "Apr": 3.96,
+        "May": 4.23,
+        "Jun": 4.3,
+        "Jul": 4.11,
+        "Aug": 3.86,
+        "Sep": 3.27,
+        "Oct": 2.3,
+        "Nov": 1.42,
+        "Dec": 1
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Veenendaal",
+      "admin1_code": "09",
+      "location": [
+        52.02863,
+        5.55891
+      ],
+      "monthly": {
+        "Jan": 1.23,
+        "Feb": 1.99,
+        "Mar": 2.99,
+        "Apr": 3.93,
+        "May": 4.2,
+        "Jun": 4.23,
+        "Jul": 4.07,
+        "Aug": 3.82,
+        "Sep": 3.19,
+        "Oct": 2.24,
+        "Nov": 1.37,
+        "Dec": 0.98
+      },
+      "average": 2.85
+    },
+    {
+      "name": "Veendam",
+      "admin1_code": "04",
+      "location": [
+        53.10667,
+        6.87917
+      ],
+      "monthly": {
+        "Jan": 1.12,
+        "Feb": 1.88,
+        "Mar": 2.94,
+        "Apr": 3.94,
+        "May": 4.21,
+        "Jun": 4.14,
+        "Jul": 4.02,
+        "Aug": 3.79,
+        "Sep": 3.12,
+        "Oct": 2.19,
+        "Nov": 1.25,
+        "Dec": 0.9
+      },
+      "average": 2.79
+    },
+    {
+      "name": "Valkenswaard",
+      "admin1_code": "06",
+      "location": [
+        51.35083,
+        5.45972
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.02,
+        "Mar": 3.02,
+        "Apr": 3.92,
+        "May": 4.18,
+        "Jun": 4.27,
+        "Jul": 4.07,
+        "Aug": 3.84,
+        "Sep": 3.28,
+        "Oct": 2.31,
+        "Nov": 1.44,
+        "Dec": 1.02
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Utrecht",
+      "admin1_code": "09",
+      "location": [
+        52.09083,
+        5.12222
+      ],
+      "monthly": {
+        "Jan": 1.23,
+        "Feb": 2.01,
+        "Mar": 2.99,
+        "Apr": 3.97,
+        "May": 4.24,
+        "Jun": 4.24,
+        "Jul": 4.09,
+        "Aug": 3.82,
+        "Sep": 3.18,
+        "Oct": 2.22,
+        "Nov": 1.35,
+        "Dec": 0.98
+      },
+      "average": 2.86
+    },
+    {
+      "name": "Urk",
+      "admin1_code": "16",
+      "location": [
+        52.6625,
+        5.60139
+      ],
+      "monthly": {
+        "Jan": 1.19,
+        "Feb": 2.01,
+        "Mar": 3.09,
+        "Apr": 4.14,
+        "May": 4.44,
+        "Jun": 4.45,
+        "Jul": 4.31,
+        "Aug": 3.99,
+        "Sep": 3.26,
+        "Oct": 2.23,
+        "Nov": 1.27,
+        "Dec": 0.96
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Uithoorn",
+      "admin1_code": "07",
+      "location": [
+        52.2375,
+        4.82639
+      ],
+      "monthly": {
+        "Jan": 1.23,
+        "Feb": 2.06,
+        "Mar": 3.07,
+        "Apr": 4.08,
+        "May": 4.41,
+        "Jun": 4.39,
+        "Jul": 4.23,
+        "Aug": 3.9,
+        "Sep": 3.22,
+        "Oct": 2.21,
+        "Nov": 1.33,
+        "Dec": 0.97
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Uden",
+      "admin1_code": "06",
+      "location": [
+        51.66083,
+        5.61944
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.02,
+        "Mar": 3.02,
+        "Apr": 3.95,
+        "May": 4.2,
+        "Jun": 4.26,
+        "Jul": 4.09,
+        "Aug": 3.84,
+        "Sep": 3.25,
+        "Oct": 2.28,
+        "Nov": 1.41,
+        "Dec": 0.99
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Tubbergen",
+      "admin1_code": "15",
+      "location": [
+        52.4075,
+        6.78472
+      ],
+      "monthly": {
+        "Jan": 1.16,
+        "Feb": 1.98,
+        "Mar": 3.01,
+        "Apr": 3.95,
+        "May": 4.18,
+        "Jun": 4.23,
+        "Jul": 4.07,
+        "Aug": 3.83,
+        "Sep": 3.18,
+        "Oct": 2.25,
+        "Nov": 1.35,
+        "Dec": 0.94
+      },
+      "average": 2.84
+    },
+    {
+      "name": "Tongelre",
+      "admin1_code": "06",
+      "location": [
+        51.44889,
+        5.51978
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.02,
+        "Mar": 3.01,
+        "Apr": 3.93,
+        "May": 4.18,
+        "Jun": 4.26,
+        "Jul": 4.06,
+        "Aug": 3.84,
+        "Sep": 3.28,
+        "Oct": 2.32,
+        "Nov": 1.44,
+        "Dec": 1.02
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Tilburg",
+      "admin1_code": "06",
+      "location": [
+        51.55551,
+        5.0913
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.01,
+        "Mar": 2.99,
+        "Apr": 3.92,
+        "May": 4.17,
+        "Jun": 4.23,
+        "Jul": 4.03,
+        "Aug": 3.81,
+        "Sep": 3.24,
+        "Oct": 2.28,
+        "Nov": 1.42,
+        "Dec": 1.02
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Tiel",
+      "admin1_code": "03",
+      "location": [
+        51.88667,
+        5.42917
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.04,
+        "Mar": 3.03,
+        "Apr": 4.01,
+        "May": 4.28,
+        "Jun": 4.31,
+        "Jul": 4.14,
+        "Aug": 3.88,
+        "Sep": 3.24,
+        "Oct": 2.27,
+        "Nov": 1.39,
+        "Dec": 0.99
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Terneuzen",
+      "admin1_code": "10",
+      "location": [
+        51.33583,
+        3.82778
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.09,
+        "Mar": 3.1,
+        "Apr": 4.14,
+        "May": 4.34,
+        "Jun": 4.39,
+        "Jul": 4.18,
+        "Aug": 3.94,
+        "Sep": 3.29,
+        "Oct": 2.29,
+        "Nov": 1.38,
+        "Dec": 1.03
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Tegelen",
+      "admin1_code": "05",
+      "location": [
+        51.34417,
+        6.13611
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.05,
+        "Mar": 3.06,
+        "Apr": 3.96,
+        "May": 4.23,
+        "Jun": 4.34,
+        "Jul": 4.12,
+        "Aug": 3.88,
+        "Sep": 3.31,
+        "Oct": 2.33,
+        "Nov": 1.46,
+        "Dec": 1.02
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Steenwijk",
+      "admin1_code": "15",
+      "location": [
+        52.7875,
+        6.12083
+      ],
+      "monthly": {
+        "Jan": 1.17,
+        "Feb": 1.95,
+        "Mar": 2.99,
+        "Apr": 3.96,
+        "May": 4.23,
+        "Jun": 4.2,
+        "Jul": 4.11,
+        "Aug": 3.82,
+        "Sep": 3.14,
+        "Oct": 2.19,
+        "Nov": 1.3,
+        "Dec": 0.95
+      },
+      "average": 2.83
+    },
+    {
+      "name": "Steenbergen",
+      "admin1_code": "06",
+      "location": [
+        51.58417,
+        4.31944
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.11,
+        "Mar": 3.14,
+        "Apr": 4.17,
+        "May": 4.44,
+        "Jun": 4.44,
+        "Jul": 4.22,
+        "Aug": 4.01,
+        "Sep": 3.35,
+        "Oct": 2.35,
+        "Nov": 1.42,
+        "Dec": 1.03
+      },
+      "average": 3
+    },
+    {
+      "name": "Staphorst",
+      "admin1_code": "15",
+      "location": [
+        52.645,
+        6.21111
+      ],
+      "monthly": {
+        "Jan": 1.18,
+        "Feb": 2,
+        "Mar": 3.01,
+        "Apr": 3.97,
+        "May": 4.23,
+        "Jun": 4.23,
+        "Jul": 4.12,
+        "Aug": 3.84,
+        "Sep": 3.17,
+        "Oct": 2.23,
+        "Nov": 1.32,
+        "Dec": 0.95
+      },
+      "average": 2.85
+    },
+    {
+      "name": "Stadskanaal",
+      "admin1_code": "04",
+      "location": [
+        52.98947,
+        6.9504
+      ],
+      "monthly": {
+        "Jan": 1.13,
+        "Feb": 1.88,
+        "Mar": 2.96,
+        "Apr": 3.94,
+        "May": 4.19,
+        "Jun": 4.16,
+        "Jul": 4.04,
+        "Aug": 3.79,
+        "Sep": 3.14,
+        "Oct": 2.2,
+        "Nov": 1.27,
+        "Dec": 0.92
+      },
+      "average": 2.8
+    },
+    {
+      "name": "Spijkenisse",
+      "admin1_code": "11",
+      "location": [
+        51.845,
+        4.32917
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.08,
+        "Mar": 3.11,
+        "Apr": 4.14,
+        "May": 4.44,
+        "Jun": 4.44,
+        "Jul": 4.24,
+        "Aug": 3.92,
+        "Sep": 3.22,
+        "Oct": 2.24,
+        "Nov": 1.36,
+        "Dec": 1
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Soest",
+      "admin1_code": "09",
+      "location": [
+        52.17333,
+        5.29167
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 1.95,
+        "Mar": 2.94,
+        "Apr": 3.9,
+        "May": 4.18,
+        "Jun": 4.18,
+        "Jul": 4.04,
+        "Aug": 3.76,
+        "Sep": 3.14,
+        "Oct": 2.2,
+        "Nov": 1.33,
+        "Dec": 0.97
+      },
+      "average": 2.82
+    },
+    {
+      "name": "Sneek",
+      "admin1_code": "02",
+      "location": [
+        53.03297,
+        5.6589
+      ],
+      "monthly": {
+        "Jan": 1.2,
+        "Feb": 2.01,
+        "Mar": 3.11,
+        "Apr": 4.07,
+        "May": 4.4,
+        "Jun": 4.33,
+        "Jul": 4.22,
+        "Aug": 3.89,
+        "Sep": 3.17,
+        "Oct": 2.24,
+        "Nov": 1.3,
+        "Dec": 0.97
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Sliedrecht",
+      "admin1_code": "11",
+      "location": [
+        51.82083,
+        4.77639
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.05,
+        "Mar": 3.04,
+        "Apr": 4.02,
+        "May": 4.29,
+        "Jun": 4.31,
+        "Jul": 4.14,
+        "Aug": 3.89,
+        "Sep": 3.25,
+        "Oct": 2.26,
+        "Nov": 1.37,
+        "Dec": 1
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Sittard",
+      "admin1_code": "05",
+      "location": [
+        50.99833,
+        5.86944
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.09,
+        "Mar": 3.09,
+        "Apr": 3.99,
+        "May": 4.26,
+        "Jun": 4.35,
+        "Jul": 4.12,
+        "Aug": 3.9,
+        "Sep": 3.34,
+        "Oct": 2.39,
+        "Nov": 1.51,
+        "Dec": 1.06
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Sint-Oedenrode",
+      "admin1_code": "06",
+      "location": [
+        51.5675,
+        5.45972
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.03,
+        "Mar": 3.01,
+        "Apr": 3.96,
+        "May": 4.21,
+        "Jun": 4.29,
+        "Jul": 4.1,
+        "Aug": 3.87,
+        "Sep": 3.28,
+        "Oct": 2.3,
+        "Nov": 1.43,
+        "Dec": 1
+      },
+      "average": 2.9
+    },
+    {
+      "name": "'s-Hertogenbosch",
+      "admin1_code": "06",
+      "location": [
+        51.69917,
+        5.30417
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.03,
+        "Mar": 3.01,
+        "Apr": 3.96,
+        "May": 4.22,
+        "Jun": 4.27,
+        "Jul": 4.09,
+        "Aug": 3.84,
+        "Sep": 3.26,
+        "Oct": 2.29,
+        "Nov": 1.42,
+        "Dec": 1.01
+      },
+      "average": 2.89
+    },
+    {
+      "name": "'s-Gravenzande",
+      "admin1_code": "11",
+      "location": [
+        52.00167,
+        4.16528
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.1,
+        "Mar": 3.2,
+        "Apr": 4.34,
+        "May": 4.66,
+        "Jun": 4.66,
+        "Jul": 4.49,
+        "Aug": 4.1,
+        "Sep": 3.25,
+        "Oct": 2.2,
+        "Nov": 1.29,
+        "Dec": 0.96
+      },
+      "average": 3.05
+    },
+    {
+      "name": "The Hague",
+      "admin1_code": "11",
+      "location": [
+        52.07667,
+        4.29861
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.1,
+        "Mar": 3.2,
+        "Apr": 4.3,
+        "May": 4.61,
+        "Jun": 4.62,
+        "Jul": 4.45,
+        "Aug": 4.05,
+        "Sep": 3.24,
+        "Oct": 2.2,
+        "Nov": 1.32,
+        "Dec": 0.97
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Schijndel",
+      "admin1_code": "06",
+      "location": [
+        51.6225,
+        5.43194
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.03,
+        "Mar": 3.02,
+        "Apr": 3.95,
+        "May": 4.22,
+        "Jun": 4.28,
+        "Jul": 4.1,
+        "Aug": 3.86,
+        "Sep": 3.27,
+        "Oct": 2.29,
+        "Nov": 1.42,
+        "Dec": 1
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Schiedam",
+      "admin1_code": "11",
+      "location": [
+        51.91917,
+        4.38889
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.03,
+        "Mar": 3.07,
+        "Apr": 4.08,
+        "May": 4.39,
+        "Jun": 4.39,
+        "Jul": 4.2,
+        "Aug": 3.88,
+        "Sep": 3.15,
+        "Oct": 2.17,
+        "Nov": 1.32,
+        "Dec": 0.97
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Schiebroek",
+      "admin1_code": "11",
+      "location": [
+        51.95838,
+        4.47124
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.04,
+        "Mar": 3.07,
+        "Apr": 4.07,
+        "May": 4.39,
+        "Jun": 4.39,
+        "Jul": 4.21,
+        "Aug": 3.89,
+        "Sep": 3.18,
+        "Oct": 2.18,
+        "Nov": 1.33,
+        "Dec": 0.98
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Scheveningen",
+      "admin1_code": "11",
+      "location": [
+        52.10461,
+        4.27557
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.08,
+        "Mar": 3.18,
+        "Apr": 4.31,
+        "May": 4.64,
+        "Jun": 4.65,
+        "Jul": 4.48,
+        "Aug": 4.07,
+        "Sep": 3.23,
+        "Oct": 2.17,
+        "Nov": 1.27,
+        "Dec": 0.94
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Schagen",
+      "admin1_code": "07",
+      "location": [
+        52.7875,
+        4.79861
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2.07,
+        "Mar": 3.23,
+        "Apr": 4.34,
+        "May": 4.72,
+        "Jun": 4.61,
+        "Jul": 4.48,
+        "Aug": 4.06,
+        "Sep": 3.24,
+        "Oct": 2.22,
+        "Nov": 1.32,
+        "Dec": 0.97
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Sassenheim",
+      "admin1_code": "11",
+      "location": [
+        52.225,
+        4.52222
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.14,
+        "Mar": 3.25,
+        "Apr": 4.32,
+        "May": 4.64,
+        "Jun": 4.62,
+        "Jul": 4.47,
+        "Aug": 4.07,
+        "Sep": 3.26,
+        "Oct": 2.23,
+        "Nov": 1.34,
+        "Dec": 0.99
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Rotterdam",
+      "admin1_code": "11",
+      "location": [
+        51.9225,
+        4.47917
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.01,
+        "Mar": 3.03,
+        "Apr": 4.02,
+        "May": 4.33,
+        "Jun": 4.31,
+        "Jul": 4.14,
+        "Aug": 3.84,
+        "Sep": 3.14,
+        "Oct": 2.16,
+        "Nov": 1.32,
+        "Dec": 0.97
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Roosendaal",
+      "admin1_code": "06",
+      "location": [
+        51.53083,
+        4.46528
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.1,
+        "Mar": 3.1,
+        "Apr": 4.06,
+        "May": 4.31,
+        "Jun": 4.34,
+        "Jul": 4.13,
+        "Aug": 3.91,
+        "Sep": 3.29,
+        "Oct": 2.32,
+        "Nov": 1.42,
+        "Dec": 1.05
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Roermond",
+      "admin1_code": "05",
+      "location": [
+        51.19417,
+        5.9875
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.06,
+        "Mar": 3.08,
+        "Apr": 3.97,
+        "May": 4.27,
+        "Jun": 4.36,
+        "Jul": 4.14,
+        "Aug": 3.91,
+        "Sep": 3.33,
+        "Oct": 2.34,
+        "Nov": 1.47,
+        "Dec": 1.04
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Rijswijk",
+      "admin1_code": "11",
+      "location": [
+        52.03634,
+        4.32501
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.1,
+        "Mar": 3.18,
+        "Apr": 4.25,
+        "May": 4.56,
+        "Jun": 4.56,
+        "Jul": 4.38,
+        "Aug": 3.99,
+        "Sep": 3.22,
+        "Oct": 2.19,
+        "Nov": 1.34,
+        "Dec": 0.98
+      },
+      "average": 3
+    },
+    {
+      "name": "Rijssen",
+      "admin1_code": "15",
+      "location": [
+        52.30667,
+        6.51806
+      ],
+      "monthly": {
+        "Jan": 1.18,
+        "Feb": 1.97,
+        "Mar": 2.98,
+        "Apr": 3.93,
+        "May": 4.16,
+        "Jun": 4.21,
+        "Jul": 4.04,
+        "Aug": 3.8,
+        "Sep": 3.16,
+        "Oct": 2.22,
+        "Nov": 1.35,
+        "Dec": 0.94
+      },
+      "average": 2.83
+    },
+    {
+      "name": "Rijen",
+      "admin1_code": "06",
+      "location": [
+        51.59083,
+        4.91944
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.02,
+        "Mar": 3.01,
+        "Apr": 3.94,
+        "May": 4.2,
+        "Jun": 4.26,
+        "Jul": 4.05,
+        "Aug": 3.84,
+        "Sep": 3.24,
+        "Oct": 2.28,
+        "Nov": 1.41,
+        "Dec": 1.02
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Ridderkerk",
+      "admin1_code": "11",
+      "location": [
+        51.8725,
+        4.60278
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.03,
+        "Mar": 3.03,
+        "Apr": 4.03,
+        "May": 4.33,
+        "Jun": 4.31,
+        "Jul": 4.15,
+        "Aug": 3.86,
+        "Sep": 3.21,
+        "Oct": 2.2,
+        "Nov": 1.35,
+        "Dec": 0.98
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Rhoon",
+      "admin1_code": "11",
+      "location": [
+        51.8575,
+        4.42222
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.05,
+        "Mar": 3.06,
+        "Apr": 4.07,
+        "May": 4.38,
+        "Jun": 4.36,
+        "Jul": 4.18,
+        "Aug": 3.89,
+        "Sep": 3.19,
+        "Oct": 2.21,
+        "Nov": 1.34,
+        "Dec": 0.99
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Rhenen",
+      "admin1_code": "09",
+      "location": [
+        51.95917,
+        5.56806
+      ],
+      "monthly": {
+        "Jan": 1.24,
+        "Feb": 2,
+        "Mar": 3.01,
+        "Apr": 3.98,
+        "May": 4.26,
+        "Jun": 4.28,
+        "Jul": 4.12,
+        "Aug": 3.86,
+        "Sep": 3.22,
+        "Oct": 2.25,
+        "Nov": 1.37,
+        "Dec": 0.98
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Raalte",
+      "admin1_code": "15",
+      "location": [
+        52.38583,
+        6.275
+      ],
+      "monthly": {
+        "Jan": 1.18,
+        "Feb": 2.01,
+        "Mar": 3.01,
+        "Apr": 3.94,
+        "May": 4.19,
+        "Jun": 4.23,
+        "Jul": 4.06,
+        "Aug": 3.82,
+        "Sep": 3.18,
+        "Oct": 2.24,
+        "Nov": 1.35,
+        "Dec": 0.96
+      },
+      "average": 2.85
+    },
+    {
+      "name": "Putten",
+      "admin1_code": "03",
+      "location": [
+        52.25917,
+        5.60694
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 1.97,
+        "Mar": 2.96,
+        "Apr": 3.91,
+        "May": 4.18,
+        "Jun": 4.2,
+        "Jul": 4.06,
+        "Aug": 3.78,
+        "Sep": 3.16,
+        "Oct": 2.21,
+        "Nov": 1.34,
+        "Dec": 0.96
+      },
+      "average": 2.83
+    },
+    {
+      "name": "Purmerend",
+      "admin1_code": "07",
+      "location": [
+        52.505,
+        4.95972
+      ],
+      "monthly": {
+        "Jan": 1.23,
+        "Feb": 2.02,
+        "Mar": 3.09,
+        "Apr": 4.11,
+        "May": 4.44,
+        "Jun": 4.39,
+        "Jul": 4.27,
+        "Aug": 3.89,
+        "Sep": 3.19,
+        "Oct": 2.19,
+        "Nov": 1.32,
+        "Dec": 0.96
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Pijnacker",
+      "admin1_code": "11",
+      "location": [
+        52.01954,
+        4.42946
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.08,
+        "Mar": 3.12,
+        "Apr": 4.16,
+        "May": 4.48,
+        "Jun": 4.48,
+        "Jul": 4.3,
+        "Aug": 3.94,
+        "Sep": 3.2,
+        "Oct": 2.18,
+        "Nov": 1.33,
+        "Dec": 0.97
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Papendrecht",
+      "admin1_code": "11",
+      "location": [
+        51.83167,
+        4.6875
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.04,
+        "Mar": 3.03,
+        "Apr": 4.02,
+        "May": 4.31,
+        "Jun": 4.31,
+        "Jul": 4.14,
+        "Aug": 3.87,
+        "Sep": 3.23,
+        "Oct": 2.23,
+        "Nov": 1.36,
+        "Dec": 0.99
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Oud-Beijerland",
+      "admin1_code": "11",
+      "location": [
+        51.82417,
+        4.4125
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.07,
+        "Mar": 3.1,
+        "Apr": 4.11,
+        "May": 4.41,
+        "Jun": 4.41,
+        "Jul": 4.2,
+        "Aug": 3.93,
+        "Sep": 3.24,
+        "Oct": 2.26,
+        "Nov": 1.37,
+        "Dec": 1
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Oss",
+      "admin1_code": "06",
+      "location": [
+        51.765,
+        5.51806
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.05,
+        "Mar": 3.05,
+        "Apr": 4,
+        "May": 4.25,
+        "Jun": 4.29,
+        "Jul": 4.11,
+        "Aug": 3.86,
+        "Sep": 3.26,
+        "Oct": 2.3,
+        "Nov": 1.42,
+        "Dec": 1.01
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Oosterhout",
+      "admin1_code": "06",
+      "location": [
+        51.645,
+        4.85972
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.04,
+        "Mar": 3.03,
+        "Apr": 3.98,
+        "May": 4.24,
+        "Jun": 4.28,
+        "Jul": 4.08,
+        "Aug": 3.86,
+        "Sep": 3.25,
+        "Oct": 2.29,
+        "Nov": 1.41,
+        "Dec": 1.01
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Ommoord",
+      "admin1_code": "11",
+      "location": [
+        51.95951,
+        4.54533
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.04,
+        "Mar": 3.05,
+        "Apr": 4.04,
+        "May": 4.35,
+        "Jun": 4.34,
+        "Jul": 4.17,
+        "Aug": 3.88,
+        "Sep": 3.19,
+        "Oct": 2.19,
+        "Nov": 1.34,
+        "Dec": 0.99
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Oldenzaal",
+      "admin1_code": "15",
+      "location": [
+        52.31333,
+        6.92917
+      ],
+      "monthly": {
+        "Jan": 1.15,
+        "Feb": 1.95,
+        "Mar": 2.97,
+        "Apr": 3.92,
+        "May": 4.19,
+        "Jun": 4.23,
+        "Jul": 4.09,
+        "Aug": 3.84,
+        "Sep": 3.17,
+        "Oct": 2.24,
+        "Nov": 1.33,
+        "Dec": 0.93
+      },
+      "average": 2.83
+    },
+    {
+      "name": "Oisterwijk",
+      "admin1_code": "06",
+      "location": [
+        51.57917,
+        5.18889
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2,
+        "Mar": 3,
+        "Apr": 3.93,
+        "May": 4.19,
+        "Jun": 4.25,
+        "Jul": 4.05,
+        "Aug": 3.82,
+        "Sep": 3.25,
+        "Oct": 2.28,
+        "Nov": 1.41,
+        "Dec": 1.01
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Oegstgeest",
+      "admin1_code": "11",
+      "location": [
+        52.18,
+        4.46944
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.12,
+        "Mar": 3.23,
+        "Apr": 4.31,
+        "May": 4.63,
+        "Jun": 4.62,
+        "Jul": 4.47,
+        "Aug": 4.08,
+        "Sep": 3.26,
+        "Oct": 2.21,
+        "Nov": 1.34,
+        "Dec": 0.98
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Nunspeet",
+      "admin1_code": "03",
+      "location": [
+        52.37917,
+        5.78611
+      ],
+      "monthly": {
+        "Jan": 1.19,
+        "Feb": 1.99,
+        "Mar": 3,
+        "Apr": 3.92,
+        "May": 4.2,
+        "Jun": 4.22,
+        "Jul": 4.08,
+        "Aug": 3.8,
+        "Sep": 3.17,
+        "Oct": 2.24,
+        "Nov": 1.35,
+        "Dec": 0.97
+      },
+      "average": 2.84
+    },
+    {
+      "name": "Nuenen",
+      "admin1_code": "06",
+      "location": [
+        51.47,
+        5.55278
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.01,
+        "Mar": 3.01,
+        "Apr": 3.93,
+        "May": 4.19,
+        "Jun": 4.27,
+        "Jul": 4.07,
+        "Aug": 3.84,
+        "Sep": 3.28,
+        "Oct": 2.32,
+        "Nov": 1.44,
+        "Dec": 1.02
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Nootdorp",
+      "admin1_code": "11",
+      "location": [
+        52.045,
+        4.39583
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.09,
+        "Mar": 3.14,
+        "Apr": 4.2,
+        "May": 4.51,
+        "Jun": 4.51,
+        "Jul": 4.33,
+        "Aug": 3.95,
+        "Sep": 3.19,
+        "Oct": 2.18,
+        "Nov": 1.33,
+        "Dec": 0.97
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Noordwijk-Binnen",
+      "admin1_code": "11",
+      "location": [
+        52.234,
+        4.44474
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.1,
+        "Mar": 3.22,
+        "Apr": 4.32,
+        "May": 4.65,
+        "Jun": 4.65,
+        "Jul": 4.49,
+        "Aug": 4.09,
+        "Sep": 3.25,
+        "Oct": 2.2,
+        "Nov": 1.29,
+        "Dec": 0.96
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Nijverdal",
+      "admin1_code": "15",
+      "location": [
+        52.36,
+        6.46806
+      ],
+      "monthly": {
+        "Jan": 1.17,
+        "Feb": 1.99,
+        "Mar": 2.98,
+        "Apr": 3.91,
+        "May": 4.14,
+        "Jun": 4.18,
+        "Jul": 4.02,
+        "Aug": 3.79,
+        "Sep": 3.15,
+        "Oct": 2.23,
+        "Nov": 1.34,
+        "Dec": 0.95
+      },
+      "average": 2.82
+    },
+    {
+      "name": "Nijmegen",
+      "admin1_code": "03",
+      "location": [
+        51.8425,
+        5.85278
+      ],
+      "monthly": {
+        "Jan": 1.24,
+        "Feb": 2.01,
+        "Mar": 3.03,
+        "Apr": 3.95,
+        "May": 4.22,
+        "Jun": 4.26,
+        "Jul": 4.09,
+        "Aug": 3.84,
+        "Sep": 3.24,
+        "Oct": 2.27,
+        "Nov": 1.4,
+        "Dec": 0.97
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Nijkerk",
+      "admin1_code": "03",
+      "location": [
+        52.22,
+        5.48611
+      ],
+      "monthly": {
+        "Jan": 1.23,
+        "Feb": 1.99,
+        "Mar": 3,
+        "Apr": 3.96,
+        "May": 4.23,
+        "Jun": 4.23,
+        "Jul": 4.08,
+        "Aug": 3.82,
+        "Sep": 3.19,
+        "Oct": 2.22,
+        "Nov": 1.36,
+        "Dec": 0.96
+      },
+      "average": 2.86
+    },
+    {
+      "name": "Nieuw-Vennep",
+      "admin1_code": "07",
+      "location": [
+        52.26417,
+        4.63056
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.1,
+        "Mar": 3.19,
+        "Apr": 4.24,
+        "May": 4.57,
+        "Jun": 4.54,
+        "Jul": 4.36,
+        "Aug": 3.99,
+        "Sep": 3.23,
+        "Oct": 2.22,
+        "Nov": 1.34,
+        "Dec": 0.98
+      },
+      "average": 3
+    },
+    {
+      "name": "Nieuwegein",
+      "admin1_code": "09",
+      "location": [
+        52.02917,
+        5.08056
+      ],
+      "monthly": {
+        "Jan": 1.24,
+        "Feb": 2.02,
+        "Mar": 3.02,
+        "Apr": 4,
+        "May": 4.27,
+        "Jun": 4.28,
+        "Jul": 4.13,
+        "Aug": 3.86,
+        "Sep": 3.22,
+        "Oct": 2.24,
+        "Nov": 1.36,
+        "Dec": 0.99
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Naarden",
+      "admin1_code": "07",
+      "location": [
+        52.29583,
+        5.1625
+      ],
+      "monthly": {
+        "Jan": 1.2,
+        "Feb": 1.99,
+        "Mar": 3,
+        "Apr": 4.03,
+        "May": 4.32,
+        "Jun": 4.32,
+        "Jul": 4.17,
+        "Aug": 3.86,
+        "Sep": 3.2,
+        "Oct": 2.19,
+        "Nov": 1.31,
+        "Dec": 0.96
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Naaldwijk",
+      "admin1_code": "11",
+      "location": [
+        51.99417,
+        4.20972
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.13,
+        "Mar": 3.22,
+        "Apr": 4.33,
+        "May": 4.64,
+        "Jun": 4.64,
+        "Jul": 4.47,
+        "Aug": 4.11,
+        "Sep": 3.28,
+        "Oct": 2.25,
+        "Nov": 1.34,
+        "Dec": 0.99
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Mijdrecht",
+      "admin1_code": "09",
+      "location": [
+        52.20667,
+        4.8625
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.06,
+        "Mar": 3.07,
+        "Apr": 4.07,
+        "May": 4.37,
+        "Jun": 4.36,
+        "Jul": 4.21,
+        "Aug": 3.89,
+        "Sep": 3.23,
+        "Oct": 2.22,
+        "Nov": 1.34,
+        "Dec": 0.98
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Middelharnis",
+      "admin1_code": "11",
+      "location": [
+        51.7575,
+        4.16528
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.13,
+        "Mar": 3.18,
+        "Apr": 4.24,
+        "May": 4.53,
+        "Jun": 4.53,
+        "Jul": 4.31,
+        "Aug": 4.05,
+        "Sep": 3.31,
+        "Oct": 2.31,
+        "Nov": 1.37,
+        "Dec": 1.01
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Middelburg",
+      "admin1_code": "10",
+      "location": [
+        51.5,
+        3.61389
+      ],
+      "monthly": {
+        "Jan": 1.38,
+        "Feb": 2.17,
+        "Mar": 3.25,
+        "Apr": 4.35,
+        "May": 4.56,
+        "Jun": 4.61,
+        "Jul": 4.43,
+        "Aug": 4.15,
+        "Sep": 3.4,
+        "Oct": 2.37,
+        "Nov": 1.42,
+        "Dec": 1.05
+      },
+      "average": 3.09
+    },
+    {
+      "name": "Merenwijk",
+      "admin1_code": "11",
+      "location": [
+        52.17655,
+        4.50885
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.12,
+        "Mar": 3.22,
+        "Apr": 4.27,
+        "May": 4.6,
+        "Jun": 4.6,
+        "Jul": 4.44,
+        "Aug": 4.04,
+        "Sep": 3.24,
+        "Oct": 2.2,
+        "Nov": 1.34,
+        "Dec": 0.97
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Meppel",
+      "admin1_code": "01",
+      "location": [
+        52.69583,
+        6.19444
+      ],
+      "monthly": {
+        "Jan": 1.18,
+        "Feb": 1.99,
+        "Mar": 3.01,
+        "Apr": 3.97,
+        "May": 4.23,
+        "Jun": 4.23,
+        "Jul": 4.12,
+        "Aug": 3.84,
+        "Sep": 3.17,
+        "Oct": 2.21,
+        "Nov": 1.32,
+        "Dec": 0.95
+      },
+      "average": 2.85
+    },
+    {
+      "name": "Medemblik",
+      "admin1_code": "07",
+      "location": [
+        52.77167,
+        5.10556
+      ],
+      "monthly": {
+        "Jan": 1.18,
+        "Feb": 1.98,
+        "Mar": 3.08,
+        "Apr": 4.18,
+        "May": 4.49,
+        "Jun": 4.39,
+        "Jul": 4.24,
+        "Aug": 3.87,
+        "Sep": 3.17,
+        "Oct": 2.16,
+        "Nov": 1.28,
+        "Dec": 0.96
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Maastricht",
+      "admin1_code": "05",
+      "location": [
+        50.84833,
+        5.68889
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.08,
+        "Mar": 3.08,
+        "Apr": 3.97,
+        "May": 4.24,
+        "Jun": 4.37,
+        "Jul": 4.13,
+        "Aug": 3.91,
+        "Sep": 3.34,
+        "Oct": 2.38,
+        "Nov": 1.51,
+        "Dec": 1.07
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Maassluis",
+      "admin1_code": "11",
+      "location": [
+        51.92333,
+        4.25
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.11,
+        "Mar": 3.16,
+        "Apr": 4.24,
+        "May": 4.55,
+        "Jun": 4.55,
+        "Jul": 4.36,
+        "Aug": 4.01,
+        "Sep": 3.24,
+        "Oct": 2.23,
+        "Nov": 1.35,
+        "Dec": 1
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Maarssen",
+      "admin1_code": "09",
+      "location": [
+        52.13917,
+        5.04167
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 1.98,
+        "Mar": 3,
+        "Apr": 3.99,
+        "May": 4.27,
+        "Jun": 4.28,
+        "Jul": 4.13,
+        "Aug": 3.84,
+        "Sep": 3.2,
+        "Oct": 2.19,
+        "Nov": 1.32,
+        "Dec": 0.96
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Losser",
+      "admin1_code": "15",
+      "location": [
+        52.26083,
+        7.00417
+      ],
+      "monthly": {
+        "Jan": 1.15,
+        "Feb": 1.94,
+        "Mar": 2.99,
+        "Apr": 3.92,
+        "May": 4.18,
+        "Jun": 4.23,
+        "Jul": 4.08,
+        "Aug": 3.84,
+        "Sep": 3.17,
+        "Oct": 2.25,
+        "Nov": 1.34,
+        "Dec": 0.94
+      },
+      "average": 2.84
+    },
+    {
+      "name": "Loon op Zand",
+      "admin1_code": "06",
+      "location": [
+        51.6275,
+        5.075
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.02,
+        "Mar": 3.01,
+        "Apr": 3.94,
+        "May": 4.2,
+        "Jun": 4.26,
+        "Jul": 4.06,
+        "Aug": 3.82,
+        "Sep": 3.25,
+        "Oct": 2.29,
+        "Nov": 1.42,
+        "Dec": 1.01
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Lisse",
+      "admin1_code": "11",
+      "location": [
+        52.26,
+        4.55694
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.13,
+        "Mar": 3.24,
+        "Apr": 4.31,
+        "May": 4.65,
+        "Jun": 4.62,
+        "Jul": 4.46,
+        "Aug": 4.07,
+        "Sep": 3.26,
+        "Oct": 2.23,
+        "Nov": 1.34,
+        "Dec": 0.98
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Lindenholt",
+      "admin1_code": "03",
+      "location": [
+        51.8327,
+        5.7934
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.02,
+        "Mar": 3.04,
+        "Apr": 3.97,
+        "May": 4.24,
+        "Jun": 4.28,
+        "Jul": 4.11,
+        "Aug": 3.86,
+        "Sep": 3.25,
+        "Oct": 2.28,
+        "Nov": 1.41,
+        "Dec": 0.97
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Lichtenvoorde",
+      "admin1_code": "03",
+      "location": [
+        51.98667,
+        6.56667
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 2,
+        "Mar": 3.04,
+        "Apr": 3.97,
+        "May": 4.22,
+        "Jun": 4.29,
+        "Jul": 4.11,
+        "Aug": 3.86,
+        "Sep": 3.23,
+        "Oct": 2.28,
+        "Nov": 1.4,
+        "Dec": 0.97
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Leusden",
+      "admin1_code": "09",
+      "location": [
+        52.1325,
+        5.43194
+      ],
+      "monthly": {
+        "Jan": 1.23,
+        "Feb": 1.98,
+        "Mar": 2.98,
+        "Apr": 3.92,
+        "May": 4.18,
+        "Jun": 4.18,
+        "Jul": 4.03,
+        "Aug": 3.78,
+        "Sep": 3.17,
+        "Oct": 2.23,
+        "Nov": 1.36,
+        "Dec": 0.98
+      },
+      "average": 2.84
+    },
+    {
+      "name": "Lelystad",
+      "admin1_code": "16",
+      "location": [
+        52.50833,
+        5.475
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2.05,
+        "Mar": 3.11,
+        "Apr": 4.12,
+        "May": 4.39,
+        "Jun": 4.41,
+        "Jul": 4.26,
+        "Aug": 3.95,
+        "Sep": 3.27,
+        "Oct": 2.26,
+        "Nov": 1.32,
+        "Dec": 0.98
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Leiderdorp",
+      "admin1_code": "11",
+      "location": [
+        52.15833,
+        4.52917
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.1,
+        "Mar": 3.18,
+        "Apr": 4.21,
+        "May": 4.53,
+        "Jun": 4.52,
+        "Jul": 4.35,
+        "Aug": 3.97,
+        "Sep": 3.22,
+        "Oct": 2.2,
+        "Nov": 1.33,
+        "Dec": 0.97
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Leiden",
+      "admin1_code": "11",
+      "location": [
+        52.15833,
+        4.49306
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.11,
+        "Mar": 3.19,
+        "Apr": 4.24,
+        "May": 4.56,
+        "Jun": 4.56,
+        "Jul": 4.39,
+        "Aug": 4,
+        "Sep": 3.22,
+        "Oct": 2.19,
+        "Nov": 1.33,
+        "Dec": 0.97
+      },
+      "average": 3
+    },
+    {
+      "name": "Leeuwarden",
+      "admin1_code": "02",
+      "location": [
+        53.20271,
+        5.80973
+      ],
+      "monthly": {
+        "Jan": 1.16,
+        "Feb": 1.94,
+        "Mar": 3.07,
+        "Apr": 4.06,
+        "May": 4.37,
+        "Jun": 4.26,
+        "Jul": 4.16,
+        "Aug": 3.83,
+        "Sep": 3.11,
+        "Oct": 2.19,
+        "Nov": 1.28,
+        "Dec": 0.94
+      },
+      "average": 2.86
+    },
+    {
+      "name": "Leerdam",
+      "admin1_code": "09",
+      "location": [
+        51.89333,
+        5.09167
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.05,
+        "Mar": 3.04,
+        "Apr": 4.02,
+        "May": 4.27,
+        "Jun": 4.31,
+        "Jul": 4.14,
+        "Aug": 3.89,
+        "Sep": 3.25,
+        "Oct": 2.28,
+        "Nov": 1.39,
+        "Dec": 1
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Leek",
+      "admin1_code": "04",
+      "location": [
+        53.1625,
+        6.37639
+      ],
+      "monthly": {
+        "Jan": 1.13,
+        "Feb": 1.88,
+        "Mar": 2.95,
+        "Apr": 3.95,
+        "May": 4.23,
+        "Jun": 4.14,
+        "Jul": 4.06,
+        "Aug": 3.78,
+        "Sep": 3.08,
+        "Oct": 2.14,
+        "Nov": 1.26,
+        "Dec": 0.9
+      },
+      "average": 2.79
+    },
+    {
+      "name": "Krimpen aan den IJssel",
+      "admin1_code": "11",
+      "location": [
+        51.91667,
+        4.60278
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.03,
+        "Mar": 3.03,
+        "Apr": 4.03,
+        "May": 4.32,
+        "Jun": 4.3,
+        "Jul": 4.14,
+        "Aug": 3.85,
+        "Sep": 3.19,
+        "Oct": 2.19,
+        "Nov": 1.34,
+        "Dec": 0.98
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Korrewegwijk",
+      "admin1_code": "04",
+      "location": [
+        53.23235,
+        6.56804
+      ],
+      "monthly": {
+        "Jan": 1.11,
+        "Feb": 1.87,
+        "Mar": 2.94,
+        "Apr": 3.95,
+        "May": 4.23,
+        "Jun": 4.14,
+        "Jul": 4.05,
+        "Aug": 3.77,
+        "Sep": 3.09,
+        "Oct": 2.14,
+        "Nov": 1.24,
+        "Dec": 0.91
+      },
+      "average": 2.79
+    },
+    {
+      "name": "Kerkrade",
+      "admin1_code": "05",
+      "location": [
+        50.86583,
+        6.0625
+      ],
+      "monthly": {
+        "Jan": 1.35,
+        "Feb": 2.17,
+        "Mar": 3.13,
+        "Apr": 3.98,
+        "May": 4.23,
+        "Jun": 4.36,
+        "Jul": 4.16,
+        "Aug": 3.94,
+        "Sep": 3.38,
+        "Oct": 2.43,
+        "Nov": 1.57,
+        "Dec": 1.11
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Katwijk aan Zee",
+      "admin1_code": "11",
+      "location": [
+        52.20333,
+        4.39861
+      ],
+      "monthly": {
+        "Jan": 1.24,
+        "Feb": 2.07,
+        "Mar": 3.18,
+        "Apr": 4.3,
+        "May": 4.63,
+        "Jun": 4.63,
+        "Jul": 4.47,
+        "Aug": 4.07,
+        "Sep": 3.22,
+        "Oct": 2.16,
+        "Nov": 1.25,
+        "Dec": 0.94
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Kampen",
+      "admin1_code": "15",
+      "location": [
+        52.555,
+        5.91111
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 2.05,
+        "Mar": 3.07,
+        "Apr": 4.01,
+        "May": 4.27,
+        "Jun": 4.28,
+        "Jul": 4.14,
+        "Aug": 3.85,
+        "Sep": 3.22,
+        "Oct": 2.26,
+        "Nov": 1.35,
+        "Dec": 0.98
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Julianadorp",
+      "admin1_code": "07",
+      "location": [
+        52.89,
+        4.74028
+      ],
+      "monthly": {
+        "Jan": 1.19,
+        "Feb": 2.04,
+        "Mar": 3.21,
+        "Apr": 4.38,
+        "May": 4.76,
+        "Jun": 4.67,
+        "Jul": 4.54,
+        "Aug": 4.12,
+        "Sep": 3.23,
+        "Oct": 2.18,
+        "Nov": 1.25,
+        "Dec": 0.94
+      },
+      "average": 3.04
+    },
+    {
+      "name": "IJsselstein",
+      "admin1_code": "09",
+      "location": [
+        52.02,
+        5.04306
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.03,
+        "Mar": 3.03,
+        "Apr": 4.01,
+        "May": 4.28,
+        "Jun": 4.29,
+        "Jul": 4.14,
+        "Aug": 3.87,
+        "Sep": 3.23,
+        "Oct": 2.24,
+        "Nov": 1.36,
+        "Dec": 0.98
+      },
+      "average": 2.89
+    },
+    {
+      "name": "IJmuiden",
+      "admin1_code": "07",
+      "location": [
+        52.4603,
+        4.61048
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2.06,
+        "Mar": 3.17,
+        "Apr": 4.29,
+        "May": 4.67,
+        "Jun": 4.62,
+        "Jul": 4.47,
+        "Aug": 4.04,
+        "Sep": 3.2,
+        "Oct": 2.17,
+        "Nov": 1.28,
+        "Dec": 0.94
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Huizen",
+      "admin1_code": "07",
+      "location": [
+        52.29917,
+        5.24167
+      ],
+      "monthly": {
+        "Jan": 1.2,
+        "Feb": 1.99,
+        "Mar": 2.99,
+        "Apr": 3.98,
+        "May": 4.26,
+        "Jun": 4.27,
+        "Jul": 4.14,
+        "Aug": 3.83,
+        "Sep": 3.18,
+        "Oct": 2.2,
+        "Nov": 1.32,
+        "Dec": 0.96
+      },
+      "average": 2.86
+    },
+    {
+      "name": "Huissen",
+      "admin1_code": "03",
+      "location": [
+        51.93833,
+        5.93333
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 1.99,
+        "Mar": 3.01,
+        "Apr": 3.94,
+        "May": 4.21,
+        "Jun": 4.25,
+        "Jul": 4.09,
+        "Aug": 3.82,
+        "Sep": 3.21,
+        "Oct": 2.25,
+        "Nov": 1.38,
+        "Dec": 0.96
+      },
+      "average": 2.86
+    },
+    {
+      "name": "Hoorn",
+      "admin1_code": "07",
+      "location": [
+        52.6425,
+        5.05972
+      ],
+      "monthly": {
+        "Jan": 1.18,
+        "Feb": 1.97,
+        "Mar": 3.05,
+        "Apr": 4.11,
+        "May": 4.45,
+        "Jun": 4.37,
+        "Jul": 4.25,
+        "Aug": 3.88,
+        "Sep": 3.14,
+        "Oct": 2.13,
+        "Nov": 1.28,
+        "Dec": 0.95
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Hoogvliet",
+      "admin1_code": "11",
+      "location": [
+        51.86333,
+        4.3625
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.06,
+        "Mar": 3.09,
+        "Apr": 4.1,
+        "May": 4.41,
+        "Jun": 4.4,
+        "Jul": 4.21,
+        "Aug": 3.89,
+        "Sep": 3.19,
+        "Oct": 2.22,
+        "Nov": 1.34,
+        "Dec": 0.99
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Hoogezand",
+      "admin1_code": "04",
+      "location": [
+        53.16167,
+        6.76111
+      ],
+      "monthly": {
+        "Jan": 1.13,
+        "Feb": 1.88,
+        "Mar": 2.95,
+        "Apr": 3.94,
+        "May": 4.2,
+        "Jun": 4.12,
+        "Jul": 4.03,
+        "Aug": 3.79,
+        "Sep": 3.11,
+        "Oct": 2.16,
+        "Nov": 1.24,
+        "Dec": 0.9
+      },
+      "average": 2.79
+    },
+    {
+      "name": "Hoogeveen",
+      "admin1_code": "01",
+      "location": [
+        52.7225,
+        6.47639
+      ],
+      "monthly": {
+        "Jan": 1.14,
+        "Feb": 1.92,
+        "Mar": 2.95,
+        "Apr": 3.94,
+        "May": 4.19,
+        "Jun": 4.18,
+        "Jul": 4.06,
+        "Aug": 3.79,
+        "Sep": 3.14,
+        "Oct": 2.17,
+        "Nov": 1.3,
+        "Dec": 0.93
+      },
+      "average": 2.81
+    },
+    {
+      "name": "Hoofddorp",
+      "admin1_code": "07",
+      "location": [
+        52.3025,
+        4.68889
+      ],
+      "monthly": {
+        "Jan": 1.24,
+        "Feb": 2.07,
+        "Mar": 3.14,
+        "Apr": 4.2,
+        "May": 4.54,
+        "Jun": 4.5,
+        "Jul": 4.32,
+        "Aug": 3.94,
+        "Sep": 3.19,
+        "Oct": 2.19,
+        "Nov": 1.32,
+        "Dec": 0.97
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Hoge Vucht",
+      "admin1_code": "06",
+      "location": [
+        51.60794,
+        4.7915
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.05,
+        "Mar": 3.03,
+        "Apr": 3.97,
+        "May": 4.23,
+        "Jun": 4.28,
+        "Jul": 4.06,
+        "Aug": 3.85,
+        "Sep": 3.24,
+        "Oct": 2.28,
+        "Nov": 1.41,
+        "Dec": 1.02
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Hoensbroek",
+      "admin1_code": "05",
+      "location": [
+        50.92387,
+        5.92528
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.13,
+        "Mar": 3.12,
+        "Apr": 4.01,
+        "May": 4.26,
+        "Jun": 4.38,
+        "Jul": 4.15,
+        "Aug": 3.93,
+        "Sep": 3.37,
+        "Oct": 2.4,
+        "Nov": 1.54,
+        "Dec": 1.09
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Hilversum",
+      "admin1_code": "07",
+      "location": [
+        52.22333,
+        5.17639
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 1.98,
+        "Mar": 2.98,
+        "Apr": 3.96,
+        "May": 4.24,
+        "Jun": 4.25,
+        "Jul": 4.11,
+        "Aug": 3.81,
+        "Sep": 3.17,
+        "Oct": 2.19,
+        "Nov": 1.33,
+        "Dec": 0.97
+      },
+      "average": 2.85
+    },
+    {
+      "name": "Hillegom",
+      "admin1_code": "11",
+      "location": [
+        52.29083,
+        4.58333
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.13,
+        "Mar": 3.23,
+        "Apr": 4.31,
+        "May": 4.66,
+        "Jun": 4.62,
+        "Jul": 4.45,
+        "Aug": 4.05,
+        "Sep": 3.24,
+        "Oct": 2.22,
+        "Nov": 1.33,
+        "Dec": 0.98
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Hengelo",
+      "admin1_code": "15",
+      "location": [
+        52.26583,
+        6.79306
+      ],
+      "monthly": {
+        "Jan": 1.16,
+        "Feb": 1.95,
+        "Mar": 2.98,
+        "Apr": 3.92,
+        "May": 4.17,
+        "Jun": 4.22,
+        "Jul": 4.07,
+        "Aug": 3.83,
+        "Sep": 3.18,
+        "Oct": 2.24,
+        "Nov": 1.34,
+        "Dec": 0.94
+      },
+      "average": 2.83
+    },
+    {
+      "name": "Hendrik-Ido-Ambacht",
+      "admin1_code": "11",
+      "location": [
+        51.84417,
+        4.63889
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.03,
+        "Mar": 3.03,
+        "Apr": 4.03,
+        "May": 4.32,
+        "Jun": 4.31,
+        "Jul": 4.14,
+        "Aug": 3.87,
+        "Sep": 3.22,
+        "Oct": 2.22,
+        "Nov": 1.36,
+        "Dec": 0.99
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Helmond",
+      "admin1_code": "06",
+      "location": [
+        51.48167,
+        5.66111
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.02,
+        "Mar": 3.02,
+        "Apr": 3.94,
+        "May": 4.19,
+        "Jun": 4.27,
+        "Jul": 4.07,
+        "Aug": 3.83,
+        "Sep": 3.28,
+        "Oct": 2.31,
+        "Nov": 1.44,
+        "Dec": 1.02
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Hellevoetsluis",
+      "admin1_code": "11",
+      "location": [
+        51.83333,
+        4.13333
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.11,
+        "Mar": 3.2,
+        "Apr": 4.29,
+        "May": 4.6,
+        "Jun": 4.61,
+        "Jul": 4.41,
+        "Aug": 4.08,
+        "Sep": 3.3,
+        "Oct": 2.27,
+        "Nov": 1.35,
+        "Dec": 0.99
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Heiloo",
+      "admin1_code": "07",
+      "location": [
+        52.60252,
+        4.68815
+      ],
+      "monthly": {
+        "Jan": 1.24,
+        "Feb": 2.08,
+        "Mar": 3.23,
+        "Apr": 4.34,
+        "May": 4.71,
+        "Jun": 4.64,
+        "Jul": 4.51,
+        "Aug": 4.09,
+        "Sep": 3.25,
+        "Oct": 2.23,
+        "Nov": 1.32,
+        "Dec": 0.97
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Heerlen",
+      "admin1_code": "05",
+      "location": [
+        50.88365,
+        5.98154
+      ],
+      "monthly": {
+        "Jan": 1.34,
+        "Feb": 2.13,
+        "Mar": 3.12,
+        "Apr": 3.99,
+        "May": 4.24,
+        "Jun": 4.36,
+        "Jul": 4.14,
+        "Aug": 3.92,
+        "Sep": 3.36,
+        "Oct": 2.4,
+        "Nov": 1.54,
+        "Dec": 1.1
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Heerhugowaard",
+      "admin1_code": "07",
+      "location": [
+        52.67144,
+        4.84862
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2.03,
+        "Mar": 3.13,
+        "Apr": 4.19,
+        "May": 4.55,
+        "Jun": 4.49,
+        "Jul": 4.34,
+        "Aug": 3.92,
+        "Sep": 3.16,
+        "Oct": 2.17,
+        "Nov": 1.31,
+        "Dec": 0.96
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Heerenveen",
+      "admin1_code": "02",
+      "location": [
+        52.95929,
+        5.91854
+      ],
+      "monthly": {
+        "Jan": 1.19,
+        "Feb": 1.95,
+        "Mar": 3.03,
+        "Apr": 4,
+        "May": 4.28,
+        "Jun": 4.23,
+        "Jul": 4.14,
+        "Aug": 3.83,
+        "Sep": 3.13,
+        "Oct": 2.2,
+        "Nov": 1.29,
+        "Dec": 0.96
+      },
+      "average": 2.85
+    },
+    {
+      "name": "Heemstede",
+      "admin1_code": "07",
+      "location": [
+        52.34992,
+        4.62301
+      ],
+      "monthly": {
+        "Jan": 1.23,
+        "Feb": 2.08,
+        "Mar": 3.18,
+        "Apr": 4.26,
+        "May": 4.63,
+        "Jun": 4.59,
+        "Jul": 4.41,
+        "Aug": 4,
+        "Sep": 3.2,
+        "Oct": 2.19,
+        "Nov": 1.31,
+        "Dec": 0.96
+      },
+      "average": 3
+    },
+    {
+      "name": "Heemskerk",
+      "admin1_code": "07",
+      "location": [
+        52.51108,
+        4.67165
+      ],
+      "monthly": {
+        "Jan": 1.24,
+        "Feb": 2.07,
+        "Mar": 3.2,
+        "Apr": 4.3,
+        "May": 4.67,
+        "Jun": 4.61,
+        "Jul": 4.46,
+        "Aug": 4.04,
+        "Sep": 3.22,
+        "Oct": 2.19,
+        "Nov": 1.3,
+        "Dec": 0.95
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Harlingen",
+      "admin1_code": "02",
+      "location": [
+        53.17477,
+        5.42244
+      ],
+      "monthly": {
+        "Jan": 1.17,
+        "Feb": 2,
+        "Mar": 3.19,
+        "Apr": 4.27,
+        "May": 4.62,
+        "Jun": 4.5,
+        "Jul": 4.4,
+        "Aug": 4.07,
+        "Sep": 3.24,
+        "Oct": 2.21,
+        "Nov": 1.23,
+        "Dec": 0.95
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Harderwijk",
+      "admin1_code": "03",
+      "location": [
+        52.34167,
+        5.62083
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 1.98,
+        "Mar": 2.99,
+        "Apr": 3.93,
+        "May": 4.21,
+        "Jun": 4.22,
+        "Jul": 4.08,
+        "Aug": 3.79,
+        "Sep": 3.17,
+        "Oct": 2.22,
+        "Nov": 1.33,
+        "Dec": 0.96
+      },
+      "average": 2.84
+    },
+    {
+      "name": "Hardenberg",
+      "admin1_code": "15",
+      "location": [
+        52.57583,
+        6.61944
+      ],
+      "monthly": {
+        "Jan": 1.16,
+        "Feb": 1.96,
+        "Mar": 2.99,
+        "Apr": 3.95,
+        "May": 4.18,
+        "Jun": 4.18,
+        "Jul": 4.05,
+        "Aug": 3.82,
+        "Sep": 3.16,
+        "Oct": 2.22,
+        "Nov": 1.33,
+        "Dec": 0.95
+      },
+      "average": 2.83
+    },
+    {
+      "name": "Haarlem",
+      "admin1_code": "07",
+      "location": [
+        52.38084,
+        4.63683
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2.06,
+        "Mar": 3.16,
+        "Apr": 4.25,
+        "May": 4.63,
+        "Jun": 4.58,
+        "Jul": 4.41,
+        "Aug": 3.99,
+        "Sep": 3.18,
+        "Oct": 2.18,
+        "Nov": 1.29,
+        "Dec": 0.96
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Haaksbergen",
+      "admin1_code": "15",
+      "location": [
+        52.15667,
+        6.73889
+      ],
+      "monthly": {
+        "Jan": 1.16,
+        "Feb": 1.96,
+        "Mar": 3,
+        "Apr": 3.96,
+        "May": 4.2,
+        "Jun": 4.26,
+        "Jul": 4.1,
+        "Aug": 3.85,
+        "Sep": 3.19,
+        "Oct": 2.25,
+        "Nov": 1.35,
+        "Dec": 0.95
+      },
+      "average": 2.85
+    },
+    {
+      "name": "Groot IJsselmonde",
+      "admin1_code": "11",
+      "location": [
+        51.88264,
+        4.54937
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.03,
+        "Mar": 3.03,
+        "Apr": 4.04,
+        "May": 4.32,
+        "Jun": 4.3,
+        "Jul": 4.14,
+        "Aug": 3.84,
+        "Sep": 3.18,
+        "Oct": 2.19,
+        "Nov": 1.34,
+        "Dec": 0.98
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Groningen",
+      "admin1_code": "04",
+      "location": [
+        53.21917,
+        6.56667
+      ],
+      "monthly": {
+        "Jan": 1.11,
+        "Feb": 1.87,
+        "Mar": 2.92,
+        "Apr": 3.94,
+        "May": 4.21,
+        "Jun": 4.12,
+        "Jul": 4.03,
+        "Aug": 3.76,
+        "Sep": 3.07,
+        "Oct": 2.13,
+        "Nov": 1.23,
+        "Dec": 0.9
+      },
+      "average": 2.77
+    },
+    {
+      "name": "Groesbeek",
+      "admin1_code": "03",
+      "location": [
+        51.77667,
+        5.93611
+      ],
+      "monthly": {
+        "Jan": 1.24,
+        "Feb": 2,
+        "Mar": 3.02,
+        "Apr": 3.93,
+        "May": 4.21,
+        "Jun": 4.26,
+        "Jul": 4.07,
+        "Aug": 3.84,
+        "Sep": 3.24,
+        "Oct": 2.28,
+        "Nov": 1.42,
+        "Dec": 0.97
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Gouda",
+      "admin1_code": "11",
+      "location": [
+        52.01667,
+        4.70833
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.04,
+        "Mar": 3.04,
+        "Apr": 4.03,
+        "May": 4.32,
+        "Jun": 4.32,
+        "Jul": 4.16,
+        "Aug": 3.87,
+        "Sep": 3.21,
+        "Oct": 2.2,
+        "Nov": 1.33,
+        "Dec": 0.98
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Gorinchem",
+      "admin1_code": "11",
+      "location": [
+        51.83652,
+        4.97243
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.05,
+        "Mar": 3.05,
+        "Apr": 4.03,
+        "May": 4.29,
+        "Jun": 4.32,
+        "Jul": 4.14,
+        "Aug": 3.9,
+        "Sep": 3.26,
+        "Oct": 2.28,
+        "Nov": 1.39,
+        "Dec": 1
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Goirle",
+      "admin1_code": "06",
+      "location": [
+        51.52083,
+        5.06667
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.01,
+        "Mar": 3,
+        "Apr": 3.93,
+        "May": 4.18,
+        "Jun": 4.24,
+        "Jul": 4.04,
+        "Aug": 3.82,
+        "Sep": 3.24,
+        "Oct": 2.29,
+        "Nov": 1.42,
+        "Dec": 1.02
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Goes",
+      "admin1_code": "10",
+      "location": [
+        51.50417,
+        3.88889
+      ],
+      "monthly": {
+        "Jan": 1.36,
+        "Feb": 2.13,
+        "Mar": 3.18,
+        "Apr": 4.25,
+        "May": 4.46,
+        "Jun": 4.49,
+        "Jul": 4.26,
+        "Aug": 4.03,
+        "Sep": 3.34,
+        "Oct": 2.34,
+        "Nov": 1.41,
+        "Dec": 1.04
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Glanerbrug",
+      "admin1_code": "15",
+      "location": [
+        52.21583,
+        6.97083
+      ],
+      "monthly": {
+        "Jan": 1.14,
+        "Feb": 1.93,
+        "Mar": 2.99,
+        "Apr": 3.93,
+        "May": 4.18,
+        "Jun": 4.24,
+        "Jul": 4.08,
+        "Aug": 3.84,
+        "Sep": 3.18,
+        "Oct": 2.24,
+        "Nov": 1.34,
+        "Dec": 0.94
+      },
+      "average": 2.84
+    },
+    {
+      "name": "Gennep",
+      "admin1_code": "05",
+      "location": [
+        51.69833,
+        5.97361
+      ],
+      "monthly": {
+        "Jan": 1.24,
+        "Feb": 2.02,
+        "Mar": 3.04,
+        "Apr": 3.97,
+        "May": 4.24,
+        "Jun": 4.29,
+        "Jul": 4.11,
+        "Aug": 3.86,
+        "Sep": 3.25,
+        "Oct": 2.28,
+        "Nov": 1.42,
+        "Dec": 0.97
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Gemert",
+      "admin1_code": "06",
+      "location": [
+        51.55583,
+        5.69028
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.02,
+        "Mar": 3.03,
+        "Apr": 3.97,
+        "May": 4.22,
+        "Jun": 4.3,
+        "Jul": 4.1,
+        "Aug": 3.86,
+        "Sep": 3.29,
+        "Oct": 2.31,
+        "Nov": 1.44,
+        "Dec": 1.01
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Geleen",
+      "admin1_code": "05",
+      "location": [
+        50.97417,
+        5.82917
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.09,
+        "Mar": 3.09,
+        "Apr": 3.99,
+        "May": 4.26,
+        "Jun": 4.36,
+        "Jul": 4.13,
+        "Aug": 3.91,
+        "Sep": 3.35,
+        "Oct": 2.39,
+        "Nov": 1.52,
+        "Dec": 1.07
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Geldrop",
+      "admin1_code": "06",
+      "location": [
+        51.42167,
+        5.55972
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.02,
+        "Mar": 3.01,
+        "Apr": 3.93,
+        "May": 4.17,
+        "Jun": 4.26,
+        "Jul": 4.06,
+        "Aug": 3.83,
+        "Sep": 3.28,
+        "Oct": 2.31,
+        "Nov": 1.44,
+        "Dec": 1.02
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Geldermalsen",
+      "admin1_code": "03",
+      "location": [
+        51.88083,
+        5.28889
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.05,
+        "Mar": 3.04,
+        "Apr": 4.02,
+        "May": 4.28,
+        "Jun": 4.32,
+        "Jul": 4.14,
+        "Aug": 3.89,
+        "Sep": 3.25,
+        "Oct": 2.28,
+        "Nov": 1.4,
+        "Dec": 1
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Geertruidenberg",
+      "admin1_code": "06",
+      "location": [
+        51.70167,
+        4.85694
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.03,
+        "Mar": 3.03,
+        "Apr": 4.02,
+        "May": 4.28,
+        "Jun": 4.34,
+        "Jul": 4.13,
+        "Aug": 3.9,
+        "Sep": 3.26,
+        "Oct": 2.27,
+        "Nov": 1.39,
+        "Dec": 1
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Epe",
+      "admin1_code": "03",
+      "location": [
+        52.3475,
+        5.98333
+      ],
+      "monthly": {
+        "Jan": 1.18,
+        "Feb": 1.97,
+        "Mar": 2.95,
+        "Apr": 3.85,
+        "May": 4.1,
+        "Jun": 4.13,
+        "Jul": 3.97,
+        "Aug": 3.72,
+        "Sep": 3.1,
+        "Oct": 2.21,
+        "Nov": 1.33,
+        "Dec": 0.97
+      },
+      "average": 2.79
+    },
+    {
+      "name": "Enschede",
+      "admin1_code": "15",
+      "location": [
+        52.21833,
+        6.89583
+      ],
+      "monthly": {
+        "Jan": 1.15,
+        "Feb": 1.93,
+        "Mar": 2.98,
+        "Apr": 3.92,
+        "May": 4.16,
+        "Jun": 4.21,
+        "Jul": 4.06,
+        "Aug": 3.82,
+        "Sep": 3.16,
+        "Oct": 2.24,
+        "Nov": 1.33,
+        "Dec": 0.94
+      },
+      "average": 2.82
+    },
+    {
+      "name": "Enkhuizen",
+      "admin1_code": "07",
+      "location": [
+        52.70333,
+        5.29167
+      ],
+      "monthly": {
+        "Jan": 1.18,
+        "Feb": 1.96,
+        "Mar": 3.06,
+        "Apr": 4.14,
+        "May": 4.43,
+        "Jun": 4.35,
+        "Jul": 4.22,
+        "Aug": 3.89,
+        "Sep": 3.19,
+        "Oct": 2.17,
+        "Nov": 1.25,
+        "Dec": 0.95
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Emmen",
+      "admin1_code": "01",
+      "location": [
+        52.77917,
+        6.90694
+      ],
+      "monthly": {
+        "Jan": 1.12,
+        "Feb": 1.89,
+        "Mar": 2.94,
+        "Apr": 3.93,
+        "May": 4.18,
+        "Jun": 4.18,
+        "Jul": 4.05,
+        "Aug": 3.8,
+        "Sep": 3.14,
+        "Oct": 2.18,
+        "Nov": 1.28,
+        "Dec": 0.91
+      },
+      "average": 2.8
+    },
+    {
+      "name": "Emmeloord",
+      "admin1_code": "16",
+      "location": [
+        52.71083,
+        5.74861
+      ],
+      "monthly": {
+        "Jan": 1.23,
+        "Feb": 2.03,
+        "Mar": 3.11,
+        "Apr": 4.15,
+        "May": 4.46,
+        "Jun": 4.44,
+        "Jul": 4.3,
+        "Aug": 3.98,
+        "Sep": 3.32,
+        "Oct": 2.32,
+        "Nov": 1.35,
+        "Dec": 1
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Elst",
+      "admin1_code": "03",
+      "location": [
+        51.91917,
+        5.84167
+      ],
+      "monthly": {
+        "Jan": 1.23,
+        "Feb": 2.01,
+        "Mar": 3.02,
+        "Apr": 3.96,
+        "May": 4.24,
+        "Jun": 4.28,
+        "Jul": 4.1,
+        "Aug": 3.85,
+        "Sep": 3.23,
+        "Oct": 2.25,
+        "Nov": 1.38,
+        "Dec": 0.96
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Elburg",
+      "admin1_code": "03",
+      "location": [
+        52.4475,
+        5.84306
+      ],
+      "monthly": {
+        "Jan": 1.2,
+        "Feb": 2.01,
+        "Mar": 3.03,
+        "Apr": 3.97,
+        "May": 4.23,
+        "Jun": 4.25,
+        "Jul": 4.11,
+        "Aug": 3.82,
+        "Sep": 3.2,
+        "Oct": 2.26,
+        "Nov": 1.36,
+        "Dec": 0.98
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Eindhoven",
+      "admin1_code": "06",
+      "location": [
+        51.44083,
+        5.47778
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.01,
+        "Mar": 3,
+        "Apr": 3.92,
+        "May": 4.17,
+        "Jun": 4.25,
+        "Jul": 4.05,
+        "Aug": 3.83,
+        "Sep": 3.27,
+        "Oct": 2.32,
+        "Nov": 1.44,
+        "Dec": 1.02
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Eibergen",
+      "admin1_code": "03",
+      "location": [
+        52.1,
+        6.64861
+      ],
+      "monthly": {
+        "Jan": 1.19,
+        "Feb": 1.99,
+        "Mar": 3.02,
+        "Apr": 3.97,
+        "May": 4.23,
+        "Jun": 4.28,
+        "Jul": 4.11,
+        "Aug": 3.86,
+        "Sep": 3.21,
+        "Oct": 2.27,
+        "Nov": 1.38,
+        "Dec": 0.97
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Eersel",
+      "admin1_code": "06",
+      "location": [
+        51.3575,
+        5.31806
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.03,
+        "Mar": 3.02,
+        "Apr": 3.94,
+        "May": 4.2,
+        "Jun": 4.28,
+        "Jul": 4.09,
+        "Aug": 3.87,
+        "Sep": 3.29,
+        "Oct": 2.32,
+        "Nov": 1.44,
+        "Dec": 1.02
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Ede",
+      "admin1_code": "03",
+      "location": [
+        52.03333,
+        5.65833
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 1.97,
+        "Mar": 2.98,
+        "Apr": 3.93,
+        "May": 4.2,
+        "Jun": 4.24,
+        "Jul": 4.07,
+        "Aug": 3.82,
+        "Sep": 3.19,
+        "Oct": 2.22,
+        "Nov": 1.36,
+        "Dec": 0.96
+      },
+      "average": 2.85
+    },
+    {
+      "name": "Duiven",
+      "admin1_code": "03",
+      "location": [
+        51.94667,
+        6.01389
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2,
+        "Mar": 3.02,
+        "Apr": 3.95,
+        "May": 4.22,
+        "Jun": 4.27,
+        "Jul": 4.09,
+        "Aug": 3.83,
+        "Sep": 3.21,
+        "Oct": 2.24,
+        "Nov": 1.38,
+        "Dec": 0.96
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Dronten",
+      "admin1_code": "16",
+      "location": [
+        52.525,
+        5.71806
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2.05,
+        "Mar": 3.09,
+        "Apr": 4.09,
+        "May": 4.35,
+        "Jun": 4.34,
+        "Jul": 4.19,
+        "Aug": 3.89,
+        "Sep": 3.26,
+        "Oct": 2.31,
+        "Nov": 1.37,
+        "Dec": 0.98
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Driebergen-Rijsenburg",
+      "admin1_code": "09",
+      "location": [
+        52.05333,
+        5.28056
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 1.95,
+        "Mar": 2.95,
+        "Apr": 3.91,
+        "May": 4.19,
+        "Jun": 4.2,
+        "Jul": 4.05,
+        "Aug": 3.79,
+        "Sep": 3.14,
+        "Oct": 2.19,
+        "Nov": 1.32,
+        "Dec": 0.96
+      },
+      "average": 2.82
+    },
+    {
+      "name": "Drachten",
+      "admin1_code": "02",
+      "location": [
+        53.11254,
+        6.0989
+      ],
+      "monthly": {
+        "Jan": 1.13,
+        "Feb": 1.88,
+        "Mar": 2.96,
+        "Apr": 3.95,
+        "May": 4.25,
+        "Jun": 4.16,
+        "Jul": 4.08,
+        "Aug": 3.77,
+        "Sep": 3.06,
+        "Oct": 2.13,
+        "Nov": 1.25,
+        "Dec": 0.92
+      },
+      "average": 2.79
+    },
+    {
+      "name": "Dordrecht",
+      "admin1_code": "11",
+      "location": [
+        51.81,
+        4.67361
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.04,
+        "Mar": 3.03,
+        "Apr": 4.02,
+        "May": 4.32,
+        "Jun": 4.31,
+        "Jul": 4.13,
+        "Aug": 3.87,
+        "Sep": 3.22,
+        "Oct": 2.23,
+        "Nov": 1.36,
+        "Dec": 0.99
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Dongen",
+      "admin1_code": "06",
+      "location": [
+        51.62667,
+        4.93889
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.04,
+        "Mar": 3.03,
+        "Apr": 3.97,
+        "May": 4.22,
+        "Jun": 4.28,
+        "Jul": 4.07,
+        "Aug": 3.85,
+        "Sep": 3.26,
+        "Oct": 2.3,
+        "Nov": 1.43,
+        "Dec": 1.02
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Doetinchem",
+      "admin1_code": "03",
+      "location": [
+        51.965,
+        6.28889
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2.01,
+        "Mar": 3.03,
+        "Apr": 3.98,
+        "May": 4.25,
+        "Jun": 4.32,
+        "Jul": 4.12,
+        "Aug": 3.86,
+        "Sep": 3.23,
+        "Oct": 2.27,
+        "Nov": 1.4,
+        "Dec": 0.97
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Diemen",
+      "admin1_code": "07",
+      "location": [
+        52.33964,
+        4.96256
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2.01,
+        "Mar": 3.01,
+        "Apr": 4.04,
+        "May": 4.33,
+        "Jun": 4.31,
+        "Jul": 4.17,
+        "Aug": 3.82,
+        "Sep": 3.17,
+        "Oct": 2.16,
+        "Nov": 1.31,
+        "Dec": 0.97
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Didam",
+      "admin1_code": "03",
+      "location": [
+        51.94083,
+        6.13194
+      ],
+      "monthly": {
+        "Jan": 1.24,
+        "Feb": 2.03,
+        "Mar": 3.03,
+        "Apr": 3.99,
+        "May": 4.26,
+        "Jun": 4.3,
+        "Jul": 4.11,
+        "Aug": 3.86,
+        "Sep": 3.25,
+        "Oct": 2.27,
+        "Nov": 1.4,
+        "Dec": 0.98
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Deventer",
+      "admin1_code": "15",
+      "location": [
+        52.255,
+        6.16389
+      ],
+      "monthly": {
+        "Jan": 1.18,
+        "Feb": 1.99,
+        "Mar": 3,
+        "Apr": 3.93,
+        "May": 4.18,
+        "Jun": 4.23,
+        "Jul": 4.05,
+        "Aug": 3.82,
+        "Sep": 3.17,
+        "Oct": 2.23,
+        "Nov": 1.35,
+        "Dec": 0.96
+      },
+      "average": 2.84
+    },
+    {
+      "name": "Den Helder",
+      "admin1_code": "07",
+      "location": [
+        52.95988,
+        4.75933
+      ],
+      "monthly": {
+        "Jan": 1.17,
+        "Feb": 1.99,
+        "Mar": 3.18,
+        "Apr": 4.36,
+        "May": 4.74,
+        "Jun": 4.66,
+        "Jul": 4.53,
+        "Aug": 4.11,
+        "Sep": 3.2,
+        "Oct": 2.15,
+        "Nov": 1.22,
+        "Dec": 0.93
+      },
+      "average": 3.02
+    },
+    {
+      "name": "De Meern",
+      "admin1_code": "09",
+      "location": [
+        52.08167,
+        5.03611
+      ],
+      "monthly": {
+        "Jan": 1.24,
+        "Feb": 2.01,
+        "Mar": 3.02,
+        "Apr": 4.01,
+        "May": 4.29,
+        "Jun": 4.3,
+        "Jul": 4.15,
+        "Aug": 3.86,
+        "Sep": 3.22,
+        "Oct": 2.23,
+        "Nov": 1.35,
+        "Dec": 0.98
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Delfzijl",
+      "admin1_code": "04",
+      "location": [
+        53.33,
+        6.91806
+      ],
+      "monthly": {
+        "Jan": 1.09,
+        "Feb": 1.88,
+        "Mar": 2.99,
+        "Apr": 4.01,
+        "May": 4.3,
+        "Jun": 4.2,
+        "Jul": 4.06,
+        "Aug": 3.8,
+        "Sep": 3.13,
+        "Oct": 2.16,
+        "Nov": 1.2,
+        "Dec": 0.88
+      },
+      "average": 2.81
+    },
+    {
+      "name": "Delft",
+      "admin1_code": "11",
+      "location": [
+        52.00667,
+        4.35556
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.09,
+        "Mar": 3.15,
+        "Apr": 4.2,
+        "May": 4.51,
+        "Jun": 4.51,
+        "Jul": 4.32,
+        "Aug": 3.95,
+        "Sep": 3.2,
+        "Oct": 2.19,
+        "Nov": 1.34,
+        "Dec": 0.98
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Dalfsen",
+      "admin1_code": "15",
+      "location": [
+        52.51167,
+        6.25694
+      ],
+      "monthly": {
+        "Jan": 1.18,
+        "Feb": 2.03,
+        "Mar": 3.01,
+        "Apr": 3.96,
+        "May": 4.21,
+        "Jun": 4.22,
+        "Jul": 4.09,
+        "Aug": 3.82,
+        "Sep": 3.18,
+        "Oct": 2.24,
+        "Nov": 1.35,
+        "Dec": 0.96
+      },
+      "average": 2.85
+    },
+    {
+      "name": "Culemborg",
+      "admin1_code": "03",
+      "location": [
+        51.955,
+        5.22778
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.04,
+        "Mar": 3.03,
+        "Apr": 4,
+        "May": 4.27,
+        "Jun": 4.3,
+        "Jul": 4.14,
+        "Aug": 3.88,
+        "Sep": 3.22,
+        "Oct": 2.26,
+        "Nov": 1.38,
+        "Dec": 0.99
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Cranendonck",
+      "admin1_code": "06",
+      "location": [
+        51.30417,
+        5.58889
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.03,
+        "Mar": 3.02,
+        "Apr": 3.94,
+        "May": 4.19,
+        "Jun": 4.3,
+        "Jul": 4.09,
+        "Aug": 3.85,
+        "Sep": 3.3,
+        "Oct": 2.32,
+        "Nov": 1.46,
+        "Dec": 1.02
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Castricum",
+      "admin1_code": "07",
+      "location": [
+        52.54833,
+        4.66944
+      ],
+      "monthly": {
+        "Jan": 1.24,
+        "Feb": 2.07,
+        "Mar": 3.21,
+        "Apr": 4.33,
+        "May": 4.71,
+        "Jun": 4.64,
+        "Jul": 4.49,
+        "Aug": 4.07,
+        "Sep": 3.23,
+        "Oct": 2.21,
+        "Nov": 1.31,
+        "Dec": 0.96
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Capelle aan den IJssel",
+      "admin1_code": "11",
+      "location": [
+        51.92917,
+        4.57778
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.03,
+        "Mar": 3.03,
+        "Apr": 4.04,
+        "May": 4.33,
+        "Jun": 4.31,
+        "Jul": 4.15,
+        "Aug": 3.85,
+        "Sep": 3.18,
+        "Oct": 2.18,
+        "Nov": 1.33,
+        "Dec": 0.98
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Bussum",
+      "admin1_code": "07",
+      "location": [
+        52.27333,
+        5.16111
+      ],
+      "monthly": {
+        "Jan": 1.2,
+        "Feb": 2,
+        "Mar": 3,
+        "Apr": 4.01,
+        "May": 4.29,
+        "Jun": 4.29,
+        "Jul": 4.15,
+        "Aug": 3.85,
+        "Sep": 3.2,
+        "Oct": 2.19,
+        "Nov": 1.32,
+        "Dec": 0.96
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Brunssum",
+      "admin1_code": "05",
+      "location": [
+        50.94667,
+        5.97083
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.13,
+        "Mar": 3.12,
+        "Apr": 4,
+        "May": 4.26,
+        "Jun": 4.37,
+        "Jul": 4.14,
+        "Aug": 3.92,
+        "Sep": 3.36,
+        "Oct": 2.4,
+        "Nov": 1.53,
+        "Dec": 1.09
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Brummen",
+      "admin1_code": "03",
+      "location": [
+        52.09,
+        6.15556
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 2.02,
+        "Mar": 3,
+        "Apr": 3.95,
+        "May": 4.2,
+        "Jun": 4.24,
+        "Jul": 4.05,
+        "Aug": 3.83,
+        "Sep": 3.19,
+        "Oct": 2.25,
+        "Nov": 1.38,
+        "Dec": 0.98
+      },
+      "average": 2.86
+    },
+    {
+      "name": "Breda",
+      "admin1_code": "06",
+      "location": [
+        51.58656,
+        4.77596
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.04,
+        "Mar": 3.02,
+        "Apr": 3.96,
+        "May": 4.21,
+        "Jun": 4.26,
+        "Jul": 4.05,
+        "Aug": 3.84,
+        "Sep": 3.23,
+        "Oct": 2.28,
+        "Nov": 1.4,
+        "Dec": 1.03
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Boxtel",
+      "admin1_code": "06",
+      "location": [
+        51.59083,
+        5.32917
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.01,
+        "Mar": 3,
+        "Apr": 3.94,
+        "May": 4.2,
+        "Jun": 4.26,
+        "Jul": 4.07,
+        "Aug": 3.84,
+        "Sep": 3.25,
+        "Oct": 2.28,
+        "Nov": 1.41,
+        "Dec": 1.01
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Boskoop",
+      "admin1_code": "11",
+      "location": [
+        52.075,
+        4.65556
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.05,
+        "Mar": 3.08,
+        "Apr": 4.07,
+        "May": 4.36,
+        "Jun": 4.36,
+        "Jul": 4.2,
+        "Aug": 3.89,
+        "Sep": 3.21,
+        "Oct": 2.21,
+        "Nov": 1.34,
+        "Dec": 0.97
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Borssele",
+      "admin1_code": "10",
+      "location": [
+        51.42333,
+        3.73472
+      ],
+      "monthly": {
+        "Jan": 1.36,
+        "Feb": 2.11,
+        "Mar": 3.16,
+        "Apr": 4.24,
+        "May": 4.46,
+        "Jun": 4.5,
+        "Jul": 4.31,
+        "Aug": 4.05,
+        "Sep": 3.34,
+        "Oct": 2.32,
+        "Nov": 1.39,
+        "Dec": 1.04
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Borne",
+      "admin1_code": "15",
+      "location": [
+        52.30136,
+        6.7482
+      ],
+      "monthly": {
+        "Jan": 1.16,
+        "Feb": 1.98,
+        "Mar": 3,
+        "Apr": 3.93,
+        "May": 4.18,
+        "Jun": 4.22,
+        "Jul": 4.07,
+        "Aug": 3.82,
+        "Sep": 3.19,
+        "Oct": 2.24,
+        "Nov": 1.35,
+        "Dec": 0.94
+      },
+      "average": 2.84
+    },
+    {
+      "name": "Bodegraven",
+      "admin1_code": "11",
+      "location": [
+        52.0825,
+        4.75
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.05,
+        "Mar": 3.06,
+        "Apr": 4.06,
+        "May": 4.35,
+        "Jun": 4.36,
+        "Jul": 4.19,
+        "Aug": 3.9,
+        "Sep": 3.22,
+        "Oct": 2.2,
+        "Nov": 1.33,
+        "Dec": 0.97
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Blerick",
+      "admin1_code": "05",
+      "location": [
+        51.37167,
+        6.14861
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.06,
+        "Mar": 3.06,
+        "Apr": 3.97,
+        "May": 4.24,
+        "Jun": 4.34,
+        "Jul": 4.12,
+        "Aug": 3.88,
+        "Sep": 3.31,
+        "Oct": 2.33,
+        "Nov": 1.46,
+        "Dec": 1.02
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Bilthoven",
+      "admin1_code": "09",
+      "location": [
+        52.13,
+        5.20139
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 1.96,
+        "Mar": 2.96,
+        "Apr": 3.92,
+        "May": 4.19,
+        "Jun": 4.2,
+        "Jul": 4.07,
+        "Aug": 3.78,
+        "Sep": 3.14,
+        "Oct": 2.19,
+        "Nov": 1.33,
+        "Dec": 0.97
+      },
+      "average": 2.83
+    },
+    {
+      "name": "Beverwijk",
+      "admin1_code": "07",
+      "location": [
+        52.48333,
+        4.65694
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2.05,
+        "Mar": 3.17,
+        "Apr": 4.28,
+        "May": 4.66,
+        "Jun": 4.61,
+        "Jul": 4.45,
+        "Aug": 4.01,
+        "Sep": 3.2,
+        "Oct": 2.17,
+        "Nov": 1.29,
+        "Dec": 0.95
+      },
+      "average": 3
+    },
+    {
+      "name": "Beuningen",
+      "admin1_code": "03",
+      "location": [
+        51.86083,
+        5.76667
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.03,
+        "Mar": 3.05,
+        "Apr": 3.99,
+        "May": 4.26,
+        "Jun": 4.3,
+        "Jul": 4.13,
+        "Aug": 3.88,
+        "Sep": 3.26,
+        "Oct": 2.28,
+        "Nov": 1.4,
+        "Dec": 0.98
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Best",
+      "admin1_code": "06",
+      "location": [
+        51.5075,
+        5.39028
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.01,
+        "Mar": 2.99,
+        "Apr": 3.93,
+        "May": 4.19,
+        "Jun": 4.26,
+        "Jul": 4.07,
+        "Aug": 3.84,
+        "Sep": 3.27,
+        "Oct": 2.3,
+        "Nov": 1.42,
+        "Dec": 1.01
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Bergschenhoek",
+      "admin1_code": "11",
+      "location": [
+        51.99,
+        4.49861
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.05,
+        "Mar": 3.08,
+        "Apr": 4.08,
+        "May": 4.39,
+        "Jun": 4.39,
+        "Jul": 4.22,
+        "Aug": 3.91,
+        "Sep": 3.2,
+        "Oct": 2.19,
+        "Nov": 1.34,
+        "Dec": 0.98
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Bergeijk",
+      "admin1_code": "06",
+      "location": [
+        51.31917,
+        5.35833
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.03,
+        "Mar": 3.02,
+        "Apr": 3.94,
+        "May": 4.2,
+        "Jun": 4.28,
+        "Jul": 4.08,
+        "Aug": 3.86,
+        "Sep": 3.29,
+        "Oct": 2.32,
+        "Nov": 1.44,
+        "Dec": 1.02
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Bergen op Zoom",
+      "admin1_code": "06",
+      "location": [
+        51.495,
+        4.29167
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.09,
+        "Mar": 3.12,
+        "Apr": 4.12,
+        "May": 4.36,
+        "Jun": 4.4,
+        "Jul": 4.18,
+        "Aug": 3.97,
+        "Sep": 3.32,
+        "Oct": 2.33,
+        "Nov": 1.41,
+        "Dec": 1.03
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Bergen",
+      "admin1_code": "07",
+      "location": [
+        52.66917,
+        4.70417
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2.06,
+        "Mar": 3.2,
+        "Apr": 4.33,
+        "May": 4.71,
+        "Jun": 4.63,
+        "Jul": 4.51,
+        "Aug": 4.07,
+        "Sep": 3.24,
+        "Oct": 2.2,
+        "Nov": 1.3,
+        "Dec": 0.96
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Benthuizen",
+      "admin1_code": "11",
+      "location": [
+        52.0775,
+        4.54444
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.05,
+        "Mar": 3.11,
+        "Apr": 4.13,
+        "May": 4.45,
+        "Jun": 4.45,
+        "Jul": 4.26,
+        "Aug": 3.94,
+        "Sep": 3.21,
+        "Oct": 2.19,
+        "Nov": 1.34,
+        "Dec": 0.97
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Bennekom",
+      "admin1_code": "03",
+      "location": [
+        51.99833,
+        5.67639
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 1.97,
+        "Mar": 2.99,
+        "Apr": 3.93,
+        "May": 4.21,
+        "Jun": 4.24,
+        "Jul": 4.07,
+        "Aug": 3.82,
+        "Sep": 3.19,
+        "Oct": 2.23,
+        "Nov": 1.37,
+        "Dec": 0.96
+      },
+      "average": 2.85
+    },
+    {
+      "name": "Barneveld",
+      "admin1_code": "03",
+      "location": [
+        52.14,
+        5.58472
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 1.98,
+        "Mar": 2.98,
+        "Apr": 3.93,
+        "May": 4.2,
+        "Jun": 4.22,
+        "Jul": 4.07,
+        "Aug": 3.81,
+        "Sep": 3.18,
+        "Oct": 2.23,
+        "Nov": 1.35,
+        "Dec": 0.97
+      },
+      "average": 2.84
+    },
+    {
+      "name": "Barendrecht",
+      "admin1_code": "11",
+      "location": [
+        51.85667,
+        4.53472
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.04,
+        "Mar": 3.04,
+        "Apr": 4.05,
+        "May": 4.34,
+        "Jun": 4.32,
+        "Jul": 4.15,
+        "Aug": 3.87,
+        "Sep": 3.2,
+        "Oct": 2.21,
+        "Nov": 1.36,
+        "Dec": 0.99
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Badhoevedorp",
+      "admin1_code": "07",
+      "location": [
+        52.33723,
+        4.78523
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2.04,
+        "Mar": 3.08,
+        "Apr": 4.12,
+        "May": 4.47,
+        "Jun": 4.43,
+        "Jul": 4.25,
+        "Aug": 3.89,
+        "Sep": 3.17,
+        "Oct": 2.17,
+        "Nov": 1.31,
+        "Dec": 0.97
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Baarn",
+      "admin1_code": "09",
+      "location": [
+        52.21167,
+        5.2875
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 1.97,
+        "Mar": 2.96,
+        "Apr": 3.92,
+        "May": 4.2,
+        "Jun": 4.2,
+        "Jul": 4.07,
+        "Aug": 3.78,
+        "Sep": 3.15,
+        "Oct": 2.2,
+        "Nov": 1.33,
+        "Dec": 0.96
+      },
+      "average": 2.83
+    },
+    {
+      "name": "Assendelft",
+      "admin1_code": "07",
+      "location": [
+        52.46833,
+        4.74306
+      ],
+      "monthly": {
+        "Jan": 1.24,
+        "Feb": 2.05,
+        "Mar": 3.15,
+        "Apr": 4.22,
+        "May": 4.57,
+        "Jun": 4.53,
+        "Jul": 4.38,
+        "Aug": 3.95,
+        "Sep": 3.19,
+        "Oct": 2.17,
+        "Nov": 1.31,
+        "Dec": 0.96
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Assen",
+      "admin1_code": "01",
+      "location": [
+        52.99667,
+        6.5625
+      ],
+      "monthly": {
+        "Jan": 1.12,
+        "Feb": 1.88,
+        "Mar": 2.92,
+        "Apr": 3.91,
+        "May": 4.19,
+        "Jun": 4.13,
+        "Jul": 4.02,
+        "Aug": 3.76,
+        "Sep": 3.09,
+        "Oct": 2.14,
+        "Nov": 1.26,
+        "Dec": 0.91
+      },
+      "average": 2.78
+    },
+    {
+      "name": "Arnhem",
+      "admin1_code": "03",
+      "location": [
+        51.98,
+        5.91111
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 1.95,
+        "Mar": 2.98,
+        "Apr": 3.9,
+        "May": 4.17,
+        "Jun": 4.2,
+        "Jul": 4.05,
+        "Aug": 3.79,
+        "Sep": 3.17,
+        "Oct": 2.21,
+        "Nov": 1.36,
+        "Dec": 0.95
+      },
+      "average": 2.83
+    },
+    {
+      "name": "Apeldoorn",
+      "admin1_code": "03",
+      "location": [
+        52.21,
+        5.96944
+      ],
+      "monthly": {
+        "Jan": 1.18,
+        "Feb": 1.95,
+        "Mar": 2.93,
+        "Apr": 3.83,
+        "May": 4.09,
+        "Jun": 4.15,
+        "Jul": 3.97,
+        "Aug": 3.73,
+        "Sep": 3.11,
+        "Oct": 2.2,
+        "Nov": 1.33,
+        "Dec": 0.96
+      },
+      "average": 2.79
+    },
+    {
+      "name": "Amsterdam",
+      "admin1_code": "07",
+      "location": [
+        52.37403,
+        4.88969
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 2,
+        "Mar": 3.01,
+        "Apr": 4.03,
+        "May": 4.37,
+        "Jun": 4.34,
+        "Jul": 4.18,
+        "Aug": 3.81,
+        "Sep": 3.13,
+        "Oct": 2.14,
+        "Nov": 1.29,
+        "Dec": 0.96
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Amstelveen",
+      "admin1_code": "07",
+      "location": [
+        52.30083,
+        4.86389
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 2.03,
+        "Mar": 3.03,
+        "Apr": 4.03,
+        "May": 4.36,
+        "Jun": 4.33,
+        "Jul": 4.18,
+        "Aug": 3.83,
+        "Sep": 3.16,
+        "Oct": 2.16,
+        "Nov": 1.31,
+        "Dec": 0.97
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Amersfoort",
+      "admin1_code": "09",
+      "location": [
+        52.155,
+        5.3875
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 1.96,
+        "Mar": 2.96,
+        "Apr": 3.9,
+        "May": 4.16,
+        "Jun": 4.18,
+        "Jul": 4.02,
+        "Aug": 3.76,
+        "Sep": 3.15,
+        "Oct": 2.21,
+        "Nov": 1.34,
+        "Dec": 0.97
+      },
+      "average": 2.82
+    },
+    {
+      "name": "Alphen aan den Rijn",
+      "admin1_code": "11",
+      "location": [
+        52.12917,
+        4.65546
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.07,
+        "Mar": 3.09,
+        "Apr": 4.11,
+        "May": 4.41,
+        "Jun": 4.41,
+        "Jul": 4.24,
+        "Aug": 3.91,
+        "Sep": 3.21,
+        "Oct": 2.2,
+        "Nov": 1.33,
+        "Dec": 0.96
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Almere Stad",
+      "admin1_code": "16",
+      "location": [
+        52.37025,
+        5.21413
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 2.02,
+        "Mar": 3.05,
+        "Apr": 4.09,
+        "May": 4.37,
+        "Jun": 4.37,
+        "Jul": 4.21,
+        "Aug": 3.89,
+        "Sep": 3.23,
+        "Oct": 2.21,
+        "Nov": 1.3,
+        "Dec": 0.97
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Almelo",
+      "admin1_code": "15",
+      "location": [
+        52.35667,
+        6.6625
+      ],
+      "monthly": {
+        "Jan": 1.17,
+        "Feb": 1.99,
+        "Mar": 3,
+        "Apr": 3.95,
+        "May": 4.18,
+        "Jun": 4.22,
+        "Jul": 4.06,
+        "Aug": 3.81,
+        "Sep": 3.17,
+        "Oct": 2.24,
+        "Nov": 1.35,
+        "Dec": 0.94
+      },
+      "average": 2.84
+    },
+    {
+      "name": "Alkmaar",
+      "admin1_code": "07",
+      "location": [
+        52.63167,
+        4.74861
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2.02,
+        "Mar": 3.17,
+        "Apr": 4.26,
+        "May": 4.64,
+        "Jun": 4.57,
+        "Jul": 4.44,
+        "Aug": 4,
+        "Sep": 3.19,
+        "Oct": 2.18,
+        "Nov": 1.3,
+        "Dec": 0.95
+      },
+      "average": 3
+    },
+    {
+      "name": "Alblasserdam",
+      "admin1_code": "11",
+      "location": [
+        51.86583,
+        4.66111
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.03,
+        "Mar": 3.03,
+        "Apr": 4.02,
+        "May": 4.31,
+        "Jun": 4.3,
+        "Jul": 4.14,
+        "Aug": 3.87,
+        "Sep": 3.22,
+        "Oct": 2.22,
+        "Nov": 1.35,
+        "Dec": 0.99
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Aalten",
+      "admin1_code": "03",
+      "location": [
+        51.925,
+        6.58056
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 2,
+        "Mar": 3.03,
+        "Apr": 3.97,
+        "May": 4.24,
+        "Jun": 4.3,
+        "Jul": 4.12,
+        "Aug": 3.86,
+        "Sep": 3.23,
+        "Oct": 2.28,
+        "Nov": 1.4,
+        "Dec": 0.96
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Aalsmeer",
+      "admin1_code": "07",
+      "location": [
+        52.25917,
+        4.75972
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2.05,
+        "Mar": 3.09,
+        "Apr": 4.13,
+        "May": 4.47,
+        "Jun": 4.43,
+        "Jul": 4.25,
+        "Aug": 3.91,
+        "Sep": 3.21,
+        "Oct": 2.19,
+        "Nov": 1.32,
+        "Dec": 0.97
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Amsterdam-Zuidoost",
+      "admin1_code": "07",
+      "location": [
+        52.3075,
+        4.97222
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 2.01,
+        "Mar": 3.02,
+        "Apr": 4.04,
+        "May": 4.33,
+        "Jun": 4.31,
+        "Jul": 4.17,
+        "Aug": 3.83,
+        "Sep": 3.19,
+        "Oct": 2.17,
+        "Nov": 1.32,
+        "Dec": 0.98
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Berkel en Rodenrijs",
+      "admin1_code": "11",
+      "location": [
+        51.99313,
+        4.47865
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.06,
+        "Mar": 3.09,
+        "Apr": 4.09,
+        "May": 4.41,
+        "Jun": 4.41,
+        "Jul": 4.23,
+        "Aug": 3.92,
+        "Sep": 3.2,
+        "Oct": 2.19,
+        "Nov": 1.34,
+        "Dec": 0.98
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Ypenburg",
+      "admin1_code": "11",
+      "location": [
+        52.04098,
+        4.36981
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.09,
+        "Mar": 3.15,
+        "Apr": 4.21,
+        "May": 4.52,
+        "Jun": 4.52,
+        "Jul": 4.34,
+        "Aug": 3.95,
+        "Sep": 3.2,
+        "Oct": 2.18,
+        "Nov": 1.34,
+        "Dec": 0.97
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Velserbroek",
+      "admin1_code": "07",
+      "location": [
+        52.43283,
+        4.66155
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2.05,
+        "Mar": 3.16,
+        "Apr": 4.26,
+        "May": 4.64,
+        "Jun": 4.59,
+        "Jul": 4.43,
+        "Aug": 3.99,
+        "Sep": 3.18,
+        "Oct": 2.17,
+        "Nov": 1.29,
+        "Dec": 0.95
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Maaspoort",
+      "admin1_code": "06",
+      "location": [
+        51.72611,
+        5.30194
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.05,
+        "Mar": 3.03,
+        "Apr": 3.99,
+        "May": 4.24,
+        "Jun": 4.29,
+        "Jul": 4.1,
+        "Aug": 3.86,
+        "Sep": 3.26,
+        "Oct": 2.3,
+        "Nov": 1.42,
+        "Dec": 1.01
+      },
+      "average": 2.9
+    }
+  ]
+}

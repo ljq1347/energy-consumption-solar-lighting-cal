@@ -1,0 +1,558 @@
+{
+  "country": "Mongolia",
+  "countryCode": "MN",
+  "cities": [
+    {
+      "name": "Uliastay",
+      "admin1_code": "09",
+      "location": [
+        47.74167,
+        96.84444
+      ],
+      "monthly": {
+        "Jan": 3.65,
+        "Feb": 5.11,
+        "Mar": 5.75,
+        "Apr": 5.49,
+        "May": 5.33,
+        "Jun": 4.98,
+        "Jul": 4.79,
+        "Aug": 4.81,
+        "Sep": 5.07,
+        "Oct": 4.53,
+        "Nov": 2.88,
+        "Dec": 2.91
+      },
+      "average": 4.61
+    },
+    {
+      "name": "Ulaangom",
+      "admin1_code": "19",
+      "location": [
+        49.98111,
+        92.06667
+      ],
+      "monthly": {
+        "Jan": 1.79,
+        "Feb": 2.99,
+        "Mar": 4.46,
+        "Apr": 5.34,
+        "May": 5.44,
+        "Jun": 5.22,
+        "Jul": 4.94,
+        "Aug": 4.89,
+        "Sep": 4.77,
+        "Oct": 3.96,
+        "Nov": 1.75,
+        "Dec": 1.29
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Ölgii",
+      "admin1_code": "03",
+      "location": [
+        48.96833,
+        89.9625
+      ],
+      "monthly": {
+        "Jan": 3.09,
+        "Feb": 4.13,
+        "Mar": 5.31,
+        "Apr": 5.22,
+        "May": 5.09,
+        "Jun": 4.81,
+        "Jul": 4.76,
+        "Aug": 4.77,
+        "Sep": 4.81,
+        "Oct": 4.26,
+        "Nov": 3.11,
+        "Dec": 2.62
+      },
+      "average": 4.33
+    },
+    {
+      "name": "Khovd",
+      "admin1_code": "12",
+      "location": [
+        48.00556,
+        91.64194
+      ],
+      "monthly": {
+        "Jan": 3.38,
+        "Feb": 4.46,
+        "Mar": 5.5,
+        "Apr": 5.48,
+        "May": 5.36,
+        "Jun": 4.96,
+        "Jul": 4.88,
+        "Aug": 4.86,
+        "Sep": 4.99,
+        "Oct": 4.44,
+        "Nov": 3.2,
+        "Dec": 2.66
+      },
+      "average": 4.51
+    },
+    {
+      "name": "Altai",
+      "admin1_code": "10",
+      "location": [
+        46.37222,
+        96.25833
+      ],
+      "monthly": {
+        "Jan": 4.15,
+        "Feb": 5.14,
+        "Mar": 5.49,
+        "Apr": 5.46,
+        "May": 5.38,
+        "Jun": 5.03,
+        "Jul": 4.93,
+        "Aug": 4.95,
+        "Sep": 5.28,
+        "Oct": 4.47,
+        "Nov": 3.43,
+        "Dec": 3.57
+      },
+      "average": 4.77
+    },
+    {
+      "name": "Ulan Bator",
+      "admin1_code": "20",
+      "location": [
+        47.90771,
+        106.88324
+      ],
+      "monthly": {
+        "Jan": 4.79,
+        "Feb": 5.65,
+        "Mar": 5.73,
+        "Apr": 5.47,
+        "May": 5.15,
+        "Jun": 4.58,
+        "Jul": 4.33,
+        "Aug": 4.42,
+        "Sep": 4.9,
+        "Oct": 4.75,
+        "Nov": 4.09,
+        "Dec": 4.17
+      },
+      "average": 4.84
+    },
+    {
+      "name": "Tsetserleg",
+      "admin1_code": "01",
+      "location": [
+        47.475,
+        101.45417
+      ],
+      "monthly": {
+        "Jan": 4.19,
+        "Feb": 5.25,
+        "Mar": 5.68,
+        "Apr": 5.41,
+        "May": 5.14,
+        "Jun": 4.7,
+        "Jul": 4.57,
+        "Aug": 4.74,
+        "Sep": 5.05,
+        "Oct": 4.68,
+        "Nov": 3.84,
+        "Dec": 3.65
+      },
+      "average": 4.74
+    },
+    {
+      "name": "Sühbaatar",
+      "admin1_code": "16",
+      "location": [
+        50.23139,
+        106.20778
+      ],
+      "monthly": {
+        "Jan": 3.67,
+        "Feb": 5.19,
+        "Mar": 5.64,
+        "Apr": 5.32,
+        "May": 5.09,
+        "Jun": 4.72,
+        "Jul": 4.56,
+        "Aug": 4.44,
+        "Sep": 4.55,
+        "Oct": 4.07,
+        "Nov": 3.24,
+        "Dec": 3.24
+      },
+      "average": 4.48
+    },
+    {
+      "name": "Undurkhaan",
+      "admin1_code": "11",
+      "location": [
+        47.31944,
+        110.65556
+      ],
+      "monthly": {
+        "Jan": 4.58,
+        "Feb": 5.67,
+        "Mar": 5.95,
+        "Apr": 5.65,
+        "May": 5.21,
+        "Jun": 4.8,
+        "Jul": 4.54,
+        "Aug": 4.75,
+        "Sep": 5.05,
+        "Oct": 4.94,
+        "Nov": 4.04,
+        "Dec": 3.94
+      },
+      "average": 4.93
+    },
+    {
+      "name": "Nalayh",
+      "admin1_code": "20",
+      "location": [
+        47.76667,
+        107.28333
+      ],
+      "monthly": {
+        "Jan": 4.84,
+        "Feb": 5.88,
+        "Mar": 6.11,
+        "Apr": 5.76,
+        "May": 5.47,
+        "Jun": 4.87,
+        "Jul": 4.58,
+        "Aug": 4.74,
+        "Sep": 5.27,
+        "Oct": 5.03,
+        "Nov": 4.09,
+        "Dec": 4.23
+      },
+      "average": 5.07
+    },
+    {
+      "name": "Mörön",
+      "admin1_code": "13",
+      "location": [
+        49.63417,
+        100.1625
+      ],
+      "monthly": {
+        "Jan": 3.54,
+        "Feb": 5.07,
+        "Mar": 5.47,
+        "Apr": 5.54,
+        "May": 5.36,
+        "Jun": 5.03,
+        "Jul": 4.88,
+        "Aug": 4.87,
+        "Sep": 4.96,
+        "Oct": 4.4,
+        "Nov": 3.34,
+        "Dec": 3.23
+      },
+      "average": 4.64
+    },
+    {
+      "name": "Bogd",
+      "admin1_code": "15",
+      "location": [
+        44.67024,
+        102.17491
+      ],
+      "monthly": {
+        "Jan": 4.63,
+        "Feb": 5.52,
+        "Mar": 5.73,
+        "Apr": 5.66,
+        "May": 5.47,
+        "Jun": 5.05,
+        "Jul": 4.78,
+        "Aug": 5.01,
+        "Sep": 5.35,
+        "Oct": 5.28,
+        "Nov": 4.65,
+        "Dec": 4.39
+      },
+      "average": 5.13
+    },
+    {
+      "name": "Erdenet",
+      "admin1_code": "25",
+      "location": [
+        49.03333,
+        104.08333
+      ],
+      "monthly": {
+        "Jan": 4.17,
+        "Feb": 5.36,
+        "Mar": 5.88,
+        "Apr": 5.54,
+        "May": 5.25,
+        "Jun": 4.8,
+        "Jul": 4.6,
+        "Aug": 4.6,
+        "Sep": 4.94,
+        "Oct": 4.43,
+        "Nov": 3.31,
+        "Dec": 3.34
+      },
+      "average": 4.68
+    },
+    {
+      "name": "Dzuunmod",
+      "admin1_code": "18",
+      "location": [
+        47.70694,
+        106.95278
+      ],
+      "monthly": {
+        "Jan": 4.46,
+        "Feb": 5.72,
+        "Mar": 6.18,
+        "Apr": 5.82,
+        "May": 5.54,
+        "Jun": 4.91,
+        "Jul": 4.64,
+        "Aug": 4.77,
+        "Sep": 5.27,
+        "Oct": 5.08,
+        "Nov": 3.8,
+        "Dec": 3.8
+      },
+      "average": 5
+    },
+    {
+      "name": "Dzüünharaa",
+      "admin1_code": "16",
+      "location": [
+        48.85229,
+        106.45786
+      ],
+      "monthly": {
+        "Jan": 3.83,
+        "Feb": 5.33,
+        "Mar": 5.77,
+        "Apr": 5.45,
+        "May": 5.16,
+        "Jun": 4.68,
+        "Jul": 4.53,
+        "Aug": 4.47,
+        "Sep": 4.72,
+        "Oct": 4.43,
+        "Nov": 3.35,
+        "Dec": 3.35
+      },
+      "average": 4.59
+    },
+    {
+      "name": "Darhan",
+      "admin1_code": "23",
+      "location": [
+        49.48667,
+        105.92278
+      ],
+      "monthly": {
+        "Jan": 3.6,
+        "Feb": 5.08,
+        "Mar": 5.58,
+        "Apr": 5.44,
+        "May": 5.21,
+        "Jun": 4.77,
+        "Jul": 4.64,
+        "Aug": 4.55,
+        "Sep": 4.69,
+        "Oct": 4.3,
+        "Nov": 3.12,
+        "Dec": 2.9
+      },
+      "average": 4.49
+    },
+    {
+      "name": "Dalandzadgad",
+      "admin1_code": "14",
+      "location": [
+        43.57083,
+        104.425
+      ],
+      "monthly": {
+        "Jan": 5.04,
+        "Feb": 5.54,
+        "Mar": 5.71,
+        "Apr": 5.62,
+        "May": 5.38,
+        "Jun": 4.85,
+        "Jul": 4.54,
+        "Aug": 4.84,
+        "Sep": 5.19,
+        "Oct": 5.26,
+        "Nov": 4.75,
+        "Dec": 4.61
+      },
+      "average": 5.11
+    },
+    {
+      "name": "Choibalsan",
+      "admin1_code": "06",
+      "location": [
+        48.07257,
+        114.53264
+      ],
+      "monthly": {
+        "Jan": 4.59,
+        "Feb": 5.66,
+        "Mar": 5.85,
+        "Apr": 5.59,
+        "May": 5.02,
+        "Jun": 4.78,
+        "Jul": 4.55,
+        "Aug": 4.64,
+        "Sep": 4.95,
+        "Oct": 4.74,
+        "Nov": 3.99,
+        "Dec": 4.03
+      },
+      "average": 4.87
+    },
+    {
+      "name": "Saynshand",
+      "admin1_code": "07",
+      "location": [
+        44.88239,
+        110.11631
+      ],
+      "monthly": {
+        "Jan": 4.57,
+        "Feb": 5.44,
+        "Mar": 5.84,
+        "Apr": 5.84,
+        "May": 5.32,
+        "Jun": 5.02,
+        "Jul": 4.8,
+        "Aug": 4.98,
+        "Sep": 5.16,
+        "Oct": 4.99,
+        "Nov": 4.39,
+        "Dec": 4.21
+      },
+      "average": 5.05
+    },
+    {
+      "name": "Bulgan",
+      "admin1_code": "21",
+      "location": [
+        48.8125,
+        103.53472
+      ],
+      "monthly": {
+        "Jan": 4.03,
+        "Feb": 5.2,
+        "Mar": 5.69,
+        "Apr": 5.48,
+        "May": 5.2,
+        "Jun": 4.79,
+        "Jul": 4.64,
+        "Aug": 4.63,
+        "Sep": 4.92,
+        "Oct": 4.56,
+        "Nov": 3.44,
+        "Dec": 3.45
+      },
+      "average": 4.67
+    },
+    {
+      "name": "Bayanhongor",
+      "admin1_code": "02",
+      "location": [
+        46.19444,
+        100.71806
+      ],
+      "monthly": {
+        "Jan": 4.53,
+        "Feb": 5.52,
+        "Mar": 5.9,
+        "Apr": 5.77,
+        "May": 5.62,
+        "Jun": 5.16,
+        "Jul": 4.94,
+        "Aug": 5.15,
+        "Sep": 5.42,
+        "Oct": 5.26,
+        "Nov": 4.32,
+        "Dec": 3.89
+      },
+      "average": 5.12
+    },
+    {
+      "name": "Baruun-Urt",
+      "admin1_code": "17",
+      "location": [
+        46.68056,
+        113.27917
+      ],
+      "monthly": {
+        "Jan": 4.49,
+        "Feb": 5.62,
+        "Mar": 6.01,
+        "Apr": 5.7,
+        "May": 5.15,
+        "Jun": 4.82,
+        "Jul": 4.6,
+        "Aug": 4.73,
+        "Sep": 5.06,
+        "Oct": 4.96,
+        "Nov": 4.01,
+        "Dec": 3.93
+      },
+      "average": 4.92
+    },
+    {
+      "name": "Arvayheer",
+      "admin1_code": "15",
+      "location": [
+        46.26389,
+        102.775
+      ],
+      "monthly": {
+        "Jan": 4.73,
+        "Feb": 5.59,
+        "Mar": 5.79,
+        "Apr": 5.67,
+        "May": 5.48,
+        "Jun": 5,
+        "Jul": 4.74,
+        "Aug": 5,
+        "Sep": 5.4,
+        "Oct": 5.25,
+        "Nov": 4.55,
+        "Dec": 4.27
+      },
+      "average": 5.12
+    },
+    {
+      "name": "Zuunmod",
+      "admin1_code": "18",
+      "location": [
+        47.70693,
+        106.95276
+      ],
+      "monthly": {
+        "Jan": 4.46,
+        "Feb": 5.72,
+        "Mar": 6.18,
+        "Apr": 5.82,
+        "May": 5.54,
+        "Jun": 4.91,
+        "Jul": 4.64,
+        "Aug": 4.77,
+        "Sep": 5.27,
+        "Oct": 5.08,
+        "Nov": 3.8,
+        "Dec": 3.8
+      },
+      "average": 5
+    }
+  ]
+}

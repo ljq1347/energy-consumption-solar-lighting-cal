@@ -1,0 +1,98 @@
+{
+  "country": "Guinea-Bissau",
+  "countryCode": "GW",
+  "cities": [
+    {
+      "name": "Xitole",
+      "admin1_code": "01",
+      "location": [
+        11.73333,
+        -14.81667
+      ],
+      "monthly": {
+        "Jan": 4.84,
+        "Feb": 5.01,
+        "Mar": 5.06,
+        "Apr": 4.98,
+        "May": 4.42,
+        "Jun": 3.84,
+        "Jul": 3.63,
+        "Aug": 3.61,
+        "Sep": 4.09,
+        "Oct": 4.42,
+        "Nov": 4.61,
+        "Dec": 4.64
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Gabú",
+      "admin1_code": "10",
+      "location": [
+        12.28,
+        -14.22222
+      ],
+      "monthly": {
+        "Jan": 4.87,
+        "Feb": 5.06,
+        "Mar": 5.12,
+        "Apr": 5.05,
+        "May": 4.54,
+        "Jun": 4.01,
+        "Jul": 3.82,
+        "Aug": 3.76,
+        "Sep": 4.2,
+        "Oct": 4.49,
+        "Nov": 4.71,
+        "Dec": 4.66
+      },
+      "average": 4.52
+    },
+    {
+      "name": "Bissau",
+      "admin1_code": "11",
+      "location": [
+        11.86357,
+        -15.59767
+      ],
+      "monthly": {
+        "Jan": 4.88,
+        "Feb": 5.09,
+        "Mar": 5.17,
+        "Apr": 5.13,
+        "May": 4.64,
+        "Jun": 4.01,
+        "Jul": 3.7,
+        "Aug": 3.69,
+        "Sep": 4.14,
+        "Oct": 4.48,
+        "Nov": 4.66,
+        "Dec": 4.68
+      },
+      "average": 4.52
+    },
+    {
+      "name": "Bafatá",
+      "admin1_code": "01",
+      "location": [
+        12.16583,
+        -14.66167
+      ],
+      "monthly": {
+        "Jan": 4.86,
+        "Feb": 5.04,
+        "Mar": 5.1,
+        "Apr": 5.04,
+        "May": 4.53,
+        "Jun": 3.97,
+        "Jul": 3.77,
+        "Aug": 3.72,
+        "Sep": 4.16,
+        "Oct": 4.49,
+        "Nov": 4.68,
+        "Dec": 4.65
+      },
+      "average": 4.5
+    }
+  ]
+}

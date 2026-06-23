@@ -1,0 +1,328 @@
+{
+  "country": "Mauritius",
+  "countryCode": "MU",
+  "cities": [
+    {
+      "name": "Vacoas",
+      "admin1_code": "17",
+      "location": [
+        -20.29806,
+        57.47833
+      ],
+      "monthly": {
+        "Jan": 4.32,
+        "Feb": 4.4,
+        "Mar": 4.49,
+        "Apr": 4.39,
+        "May": 4.05,
+        "Jun": 3.89,
+        "Jul": 3.97,
+        "Aug": 4.29,
+        "Sep": 4.66,
+        "Oct": 4.76,
+        "Nov": 4.51,
+        "Dec": 4.46
+      },
+      "average": 4.35
+    },
+    {
+      "name": "Triolet",
+      "admin1_code": "16",
+      "location": [
+        -20.0576,
+        57.55025
+      ],
+      "monthly": {
+        "Jan": 4.63,
+        "Feb": 4.68,
+        "Mar": 4.68,
+        "Apr": 4.5,
+        "May": 4.17,
+        "Jun": 3.98,
+        "Jul": 4.04,
+        "Aug": 4.41,
+        "Sep": 4.86,
+        "Oct": 5.09,
+        "Nov": 4.98,
+        "Dec": 4.9
+      },
+      "average": 4.58
+    },
+    {
+      "name": "Saint Pierre",
+      "admin1_code": "15",
+      "location": [
+        -20.2215,
+        57.53431
+      ],
+      "monthly": {
+        "Jan": 4.24,
+        "Feb": 4.3,
+        "Mar": 4.33,
+        "Apr": 4.22,
+        "May": 3.85,
+        "Jun": 3.7,
+        "Jul": 3.74,
+        "Aug": 4.06,
+        "Sep": 4.44,
+        "Oct": 4.61,
+        "Nov": 4.48,
+        "Dec": 4.41
+      },
+      "average": 4.2
+    },
+    {
+      "name": "Quatre Bornes",
+      "admin1_code": "17",
+      "location": [
+        -20.26381,
+        57.4791
+      ],
+      "monthly": {
+        "Jan": 4.34,
+        "Feb": 4.43,
+        "Mar": 4.51,
+        "Apr": 4.42,
+        "May": 4.09,
+        "Jun": 3.96,
+        "Jul": 4.03,
+        "Aug": 4.33,
+        "Sep": 4.68,
+        "Oct": 4.77,
+        "Nov": 4.53,
+        "Dec": 4.47
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Port Louis",
+      "admin1_code": "18",
+      "location": [
+        -20.16194,
+        57.49889
+      ],
+      "monthly": {
+        "Jan": 4.38,
+        "Feb": 4.48,
+        "Mar": 4.52,
+        "Apr": 4.38,
+        "May": 4.07,
+        "Jun": 3.91,
+        "Jul": 3.96,
+        "Aug": 4.3,
+        "Sep": 4.69,
+        "Oct": 4.81,
+        "Nov": 4.65,
+        "Dec": 4.58
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Mahébourg",
+      "admin1_code": "14",
+      "location": [
+        -20.40806,
+        57.7
+      ],
+      "monthly": {
+        "Jan": 4.61,
+        "Feb": 4.61,
+        "Mar": 4.5,
+        "Apr": 4.19,
+        "May": 3.77,
+        "Jun": 3.46,
+        "Jul": 3.45,
+        "Aug": 3.92,
+        "Sep": 4.57,
+        "Oct": 4.85,
+        "Nov": 4.92,
+        "Dec": 4.82
+      },
+      "average": 4.31
+    },
+    {
+      "name": "Goodlands",
+      "admin1_code": "19",
+      "location": [
+        -20.03841,
+        57.65055
+      ],
+      "monthly": {
+        "Jan": 4.89,
+        "Feb": 4.83,
+        "Mar": 4.88,
+        "Apr": 4.66,
+        "May": 4.24,
+        "Jun": 4.01,
+        "Jul": 4.11,
+        "Aug": 4.57,
+        "Sep": 5.13,
+        "Oct": 5.41,
+        "Nov": 5.36,
+        "Dec": 5.16
+      },
+      "average": 4.77
+    },
+    {
+      "name": "Curepipe",
+      "admin1_code": "17",
+      "location": [
+        -20.31628,
+        57.52594
+      ],
+      "monthly": {
+        "Jan": 4.25,
+        "Feb": 4.24,
+        "Mar": 4.27,
+        "Apr": 4.08,
+        "May": 3.69,
+        "Jun": 3.46,
+        "Jul": 3.45,
+        "Aug": 3.83,
+        "Sep": 4.29,
+        "Oct": 4.54,
+        "Nov": 4.43,
+        "Dec": 4.41
+      },
+      "average": 4.08
+    },
+    {
+      "name": "Centre de Flacq",
+      "admin1_code": "13",
+      "location": [
+        -20.18972,
+        57.71444
+      ],
+      "monthly": {
+        "Jan": 4.52,
+        "Feb": 4.53,
+        "Mar": 4.52,
+        "Apr": 4.28,
+        "May": 3.87,
+        "Jun": 3.63,
+        "Jul": 3.66,
+        "Aug": 4.06,
+        "Sep": 4.64,
+        "Oct": 4.98,
+        "Nov": 4.99,
+        "Dec": 4.79
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Bel Air Rivière Sèche",
+      "admin1_code": "13",
+      "location": [
+        -20.25777,
+        57.74976
+      ],
+      "monthly": {
+        "Jan": 4.56,
+        "Feb": 4.58,
+        "Mar": 4.56,
+        "Apr": 4.29,
+        "May": 3.87,
+        "Jun": 3.61,
+        "Jul": 3.63,
+        "Aug": 4.08,
+        "Sep": 4.7,
+        "Oct": 4.99,
+        "Nov": 5.01,
+        "Dec": 4.79
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Beau Bassin-Rose Hill",
+      "admin1_code": "17",
+      "location": [
+        -20.23325,
+        57.46609
+      ],
+      "monthly": {
+        "Jan": 4.33,
+        "Feb": 4.43,
+        "Mar": 4.54,
+        "Apr": 4.44,
+        "May": 4.14,
+        "Jun": 4.03,
+        "Jul": 4.08,
+        "Aug": 4.37,
+        "Sep": 4.72,
+        "Oct": 4.79,
+        "Nov": 4.53,
+        "Dec": 4.45
+      },
+      "average": 4.4
+    },
+    {
+      "name": "Bambous",
+      "admin1_code": "12",
+      "location": [
+        -20.25667,
+        57.40611
+      ],
+      "monthly": {
+        "Jan": 4.32,
+        "Feb": 4.4,
+        "Mar": 4.49,
+        "Apr": 4.36,
+        "May": 4.13,
+        "Jun": 3.98,
+        "Jul": 4.02,
+        "Aug": 4.29,
+        "Sep": 4.66,
+        "Oct": 4.7,
+        "Nov": 4.48,
+        "Dec": 4.39
+      },
+      "average": 4.35
+    },
+    {
+      "name": "Baie du Tombeau",
+      "admin1_code": "16",
+      "location": [
+        -20.11944,
+        57.49139
+      ],
+      "monthly": {
+        "Jan": 4.51,
+        "Feb": 4.62,
+        "Mar": 4.64,
+        "Apr": 4.43,
+        "May": 4.13,
+        "Jun": 3.92,
+        "Jul": 3.98,
+        "Aug": 4.3,
+        "Sep": 4.72,
+        "Oct": 4.89,
+        "Nov": 4.78,
+        "Dec": 4.73
+      },
+      "average": 4.47
+    },
+    {
+      "name": "Le Hochet",
+      "admin1_code": "16",
+      "location": [
+        -20.13859,
+        57.53013
+      ],
+      "monthly": {
+        "Jan": 4.41,
+        "Feb": 4.51,
+        "Mar": 4.55,
+        "Apr": 4.42,
+        "May": 4.11,
+        "Jun": 3.94,
+        "Jul": 4.02,
+        "Aug": 4.34,
+        "Sep": 4.72,
+        "Oct": 4.88,
+        "Nov": 4.72,
+        "Dec": 4.64
+      },
+      "average": 4.44
+    }
+  ]
+}

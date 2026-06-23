@@ -1,0 +1,52 @@
+{
+  "country": "Saint Lucia",
+  "countryCode": "LC",
+  "cities": [
+    {
+      "name": "Gros Islet",
+      "admin1_code": "06",
+      "location": [
+        14.06667,
+        -60.95
+      ],
+      "monthly": {
+        "Jan": 4.54,
+        "Feb": 4.89,
+        "Mar": 4.96,
+        "Apr": 4.77,
+        "May": 4.48,
+        "Jun": 4.2,
+        "Jul": 4.37,
+        "Aug": 4.58,
+        "Sep": 4.76,
+        "Oct": 4.51,
+        "Nov": 4.34,
+        "Dec": 4.39
+      },
+      "average": 4.57
+    },
+    {
+      "name": "Castries",
+      "admin1_code": "03",
+      "location": [
+        13.9957,
+        -61.00614
+      ],
+      "monthly": {
+        "Jan": 4.54,
+        "Feb": 4.88,
+        "Mar": 4.96,
+        "Apr": 4.81,
+        "May": 4.53,
+        "Jun": 4.2,
+        "Jul": 4.36,
+        "Aug": 4.56,
+        "Sep": 4.73,
+        "Oct": 4.49,
+        "Nov": 4.35,
+        "Dec": 4.39
+      },
+      "average": 4.57
+    }
+  ]
+}

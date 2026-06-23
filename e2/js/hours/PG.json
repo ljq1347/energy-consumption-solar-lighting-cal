@@ -1,0 +1,305 @@
+{
+  "country": "Papua New Guinea",
+  "countryCode": "PG",
+  "cities": [
+    {
+      "name": "Wewak",
+      "admin1_code": "11",
+      "location": [
+        -3.54964,
+        143.63229
+      ],
+      "monthly": {
+        "Jan": 3.87,
+        "Feb": 3.9,
+        "Mar": 4.07,
+        "Apr": 4.06,
+        "May": 4,
+        "Jun": 3.91,
+        "Jul": 3.81,
+        "Aug": 4.25,
+        "Sep": 4.32,
+        "Oct": 4.28,
+        "Nov": 3.95,
+        "Dec": 3.8
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Port Moresby",
+      "admin1_code": "20",
+      "location": [
+        -9.47723,
+        147.15089
+      ],
+      "monthly": {
+        "Jan": 4.09,
+        "Feb": 4.32,
+        "Mar": 4.3,
+        "Apr": 4.38,
+        "May": 4.29,
+        "Jun": 4.1,
+        "Jul": 4.21,
+        "Aug": 4.49,
+        "Sep": 4.68,
+        "Oct": 4.89,
+        "Nov": 4.76,
+        "Dec": 4.47
+      },
+      "average": 4.42
+    },
+    {
+      "name": "Popondetta",
+      "admin1_code": "04",
+      "location": [
+        -8.76536,
+        148.23252
+      ],
+      "monthly": {
+        "Jan": 3.93,
+        "Feb": 4.09,
+        "Mar": 4.12,
+        "Apr": 4.07,
+        "May": 3.87,
+        "Jun": 3.7,
+        "Jul": 3.76,
+        "Aug": 4.01,
+        "Sep": 4.14,
+        "Oct": 4.38,
+        "Nov": 4.3,
+        "Dec": 4.24
+      },
+      "average": 4.05
+    },
+    {
+      "name": "Mount Hagen",
+      "admin1_code": "16",
+      "location": [
+        -5.85746,
+        144.23058
+      ],
+      "monthly": {
+        "Jan": 4.02,
+        "Feb": 4.07,
+        "Mar": 4.19,
+        "Apr": 4.23,
+        "May": 4.28,
+        "Jun": 4.15,
+        "Jul": 4.05,
+        "Aug": 4.39,
+        "Sep": 4.43,
+        "Oct": 4.47,
+        "Nov": 4.3,
+        "Dec": 4.15
+      },
+      "average": 4.23
+    },
+    {
+      "name": "Mendi",
+      "admin1_code": "05",
+      "location": [
+        -6.14755,
+        143.65633
+      ],
+      "monthly": {
+        "Jan": 3.75,
+        "Feb": 3.85,
+        "Mar": 3.88,
+        "Apr": 4.06,
+        "May": 4.04,
+        "Jun": 3.79,
+        "Jul": 3.6,
+        "Aug": 3.88,
+        "Sep": 3.91,
+        "Oct": 4.08,
+        "Nov": 3.99,
+        "Dec": 3.87
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Madang",
+      "admin1_code": "12",
+      "location": [
+        -5.22152,
+        145.78695
+      ],
+      "monthly": {
+        "Jan": 3.9,
+        "Feb": 4.02,
+        "Mar": 4.2,
+        "Apr": 4.14,
+        "May": 4.23,
+        "Jun": 4.18,
+        "Jul": 4.12,
+        "Aug": 4.56,
+        "Sep": 4.68,
+        "Oct": 4.55,
+        "Nov": 4.16,
+        "Dec": 4.03
+      },
+      "average": 4.23
+    },
+    {
+      "name": "Lae",
+      "admin1_code": "14",
+      "location": [
+        -6.72333,
+        146.99611
+      ],
+      "monthly": {
+        "Jan": 4.26,
+        "Feb": 4.35,
+        "Mar": 4.43,
+        "Apr": 4.3,
+        "May": 3.87,
+        "Jun": 3.4,
+        "Jul": 3.11,
+        "Aug": 3.47,
+        "Sep": 3.86,
+        "Oct": 4.54,
+        "Nov": 4.58,
+        "Dec": 4.48
+      },
+      "average": 4.05
+    },
+    {
+      "name": "Kokopo",
+      "admin1_code": "10",
+      "location": [
+        -4.3432,
+        152.26867
+      ],
+      "monthly": {
+        "Jan": 3.95,
+        "Feb": 4.06,
+        "Mar": 4.2,
+        "Apr": 4.23,
+        "May": 4.14,
+        "Jun": 4.02,
+        "Jul": 3.79,
+        "Aug": 4.16,
+        "Sep": 4.43,
+        "Oct": 4.55,
+        "Nov": 4.27,
+        "Dec": 4.08
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Kimbe",
+      "admin1_code": "17",
+      "location": [
+        -5.55085,
+        150.13766
+      ],
+      "monthly": {
+        "Jan": 3.35,
+        "Feb": 3.41,
+        "Mar": 3.8,
+        "Apr": 3.98,
+        "May": 4,
+        "Jun": 3.83,
+        "Jul": 3.73,
+        "Aug": 4.01,
+        "Sep": 4.28,
+        "Oct": 4.39,
+        "Nov": 4.04,
+        "Dec": 3.83
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Goroka",
+      "admin1_code": "09",
+      "location": [
+        -6.085,
+        145.38667
+      ],
+      "monthly": {
+        "Jan": 4.05,
+        "Feb": 4.19,
+        "Mar": 4.33,
+        "Apr": 4.36,
+        "May": 4.46,
+        "Jun": 4.19,
+        "Jul": 4.04,
+        "Aug": 4.37,
+        "Sep": 4.41,
+        "Oct": 4.61,
+        "Nov": 4.43,
+        "Dec": 4.26
+      },
+      "average": 4.31
+    },
+    {
+      "name": "Daru",
+      "admin1_code": "06",
+      "location": [
+        -9.07786,
+        143.20893
+      ],
+      "monthly": {
+        "Jan": 3.92,
+        "Feb": 4.19,
+        "Mar": 4.05,
+        "Apr": 3.63,
+        "May": 3.13,
+        "Jun": 2.92,
+        "Jul": 2.98,
+        "Aug": 3.34,
+        "Sep": 3.69,
+        "Oct": 4.21,
+        "Nov": 4.49,
+        "Dec": 4.19
+      },
+      "average": 3.73
+    },
+    {
+      "name": "Bulolo",
+      "admin1_code": "14",
+      "location": [
+        -7.2036,
+        146.64014
+      ],
+      "monthly": {
+        "Jan": 4.21,
+        "Feb": 4.33,
+        "Mar": 4.39,
+        "Apr": 4.39,
+        "May": 4.16,
+        "Jun": 3.81,
+        "Jul": 3.62,
+        "Aug": 4.05,
+        "Sep": 4.23,
+        "Oct": 4.65,
+        "Nov": 4.62,
+        "Dec": 4.47
+      },
+      "average": 4.24
+    },
+    {
+      "name": "Arawa",
+      "admin1_code": "07",
+      "location": [
+        -6.22977,
+        155.56598
+      ],
+      "monthly": {
+        "Jan": 3.65,
+        "Feb": 3.58,
+        "Mar": 3.79,
+        "Apr": 3.77,
+        "May": 3.72,
+        "Jun": 3.54,
+        "Jul": 3.46,
+        "Aug": 3.63,
+        "Sep": 3.9,
+        "Oct": 4.05,
+        "Nov": 3.77,
+        "Dec": 3.6
+      },
+      "average": 3.71
+    }
+  ]
+}

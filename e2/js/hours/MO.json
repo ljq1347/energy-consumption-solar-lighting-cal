@@ -1,0 +1,144 @@
+{
+  "country": "Macau",
+  "countryCode": "MO",
+  "cities": [
+    {
+      "name": "Taipa",
+      "admin1_code": "11875159",
+      "location": [
+        22.15583,
+        113.55694
+      ],
+      "monthly": {
+        "Jan": 3.15,
+        "Feb": 2.91,
+        "Mar": 2.82,
+        "Apr": 3.1,
+        "May": 3.58,
+        "Jun": 3.71,
+        "Jul": 4.25,
+        "Aug": 3.9,
+        "Sep": 4.04,
+        "Oct": 3.79,
+        "Nov": 3.43,
+        "Dec": 3.25
+      },
+      "average": 3.49
+    },
+    {
+      "name": "Macau",
+      "admin1_code": "02",
+      "location": [
+        22.20056,
+        113.54611
+      ],
+      "monthly": {
+        "Jan": 3.11,
+        "Feb": 2.86,
+        "Mar": 2.74,
+        "Apr": 3,
+        "May": 3.46,
+        "Jun": 3.6,
+        "Jul": 4.15,
+        "Aug": 3.81,
+        "Sep": 3.97,
+        "Oct": 3.75,
+        "Nov": 3.38,
+        "Dec": 3.22
+      },
+      "average": 3.42
+    },
+    {
+      "name": "Lai Chi Van",
+      "admin1_code": "11875161",
+      "location": [
+        22.11972,
+        113.55111
+      ],
+      "monthly": {
+        "Jan": 3.11,
+        "Feb": 2.89,
+        "Mar": 2.81,
+        "Apr": 3.1,
+        "May": 3.6,
+        "Jun": 3.72,
+        "Jul": 4.26,
+        "Aug": 3.92,
+        "Sep": 4.03,
+        "Oct": 3.76,
+        "Nov": 3.4,
+        "Dec": 3.21
+      },
+      "average": 3.48
+    },
+    {
+      "name": "Luhuan",
+      "admin1_code": "11875161",
+      "location": [
+        22.11806,
+        113.55194
+      ],
+      "monthly": {
+        "Jan": 3.11,
+        "Feb": 2.89,
+        "Mar": 2.81,
+        "Apr": 3.1,
+        "May": 3.6,
+        "Jun": 3.72,
+        "Jul": 4.26,
+        "Aug": 3.92,
+        "Sep": 4.03,
+        "Oct": 3.76,
+        "Nov": 3.4,
+        "Dec": 3.21
+      },
+      "average": 3.48
+    },
+    {
+      "name": "Zhuojiacun",
+      "admin1_code": "11875159",
+      "location": [
+        22.16139,
+        113.55639
+      ],
+      "monthly": {
+        "Jan": 3.11,
+        "Feb": 2.88,
+        "Mar": 2.79,
+        "Apr": 3.06,
+        "May": 3.53,
+        "Jun": 3.66,
+        "Jul": 4.21,
+        "Aug": 3.86,
+        "Sep": 4.01,
+        "Oct": 3.76,
+        "Nov": 3.39,
+        "Dec": 3.21
+      },
+      "average": 3.46
+    },
+    {
+      "name": "Sé",
+      "admin1_code": "",
+      "location": [
+        22.19089,
+        113.54733
+      ],
+      "monthly": {
+        "Jan": 3.12,
+        "Feb": 2.87,
+        "Mar": 2.76,
+        "Apr": 3.02,
+        "May": 3.48,
+        "Jun": 3.62,
+        "Jul": 4.19,
+        "Aug": 3.84,
+        "Sep": 3.98,
+        "Oct": 3.76,
+        "Nov": 3.38,
+        "Dec": 3.21
+      },
+      "average": 3.44
+    }
+  ]
+}

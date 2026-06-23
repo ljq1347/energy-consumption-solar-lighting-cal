@@ -1,0 +1,29 @@
+{
+  "country": "Saint Kitts and Nevis",
+  "countryCode": "KN",
+  "cities": [
+    {
+      "name": "Basseterre",
+      "admin1_code": "03",
+      "location": [
+        17.2955,
+        -62.72499
+      ],
+      "monthly": {
+        "Jan": 4.68,
+        "Feb": 5.04,
+        "Mar": 5.31,
+        "Apr": 5.11,
+        "May": 4.75,
+        "Jun": 4.65,
+        "Jul": 4.72,
+        "Aug": 4.97,
+        "Sep": 4.94,
+        "Oct": 4.68,
+        "Nov": 4.51,
+        "Dec": 4.42
+      },
+      "average": 4.81
+    }
+  ]
+}

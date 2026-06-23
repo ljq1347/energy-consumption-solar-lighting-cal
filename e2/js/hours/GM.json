@@ -1,0 +1,765 @@
+{
+  "country": "Gambia",
+  "countryCode": "GM",
+  "cities": [
+    {
+      "name": "Welingara",
+      "admin1_code": "05",
+      "location": [
+        13.40361,
+        -16.67361
+      ],
+      "monthly": {
+        "Jan": 4.89,
+        "Feb": 5.12,
+        "Mar": 5.35,
+        "Apr": 5.36,
+        "May": 4.93,
+        "Jun": 4.31,
+        "Jul": 3.93,
+        "Aug": 3.9,
+        "Sep": 4.23,
+        "Oct": 4.63,
+        "Nov": 4.78,
+        "Dec": 4.64
+      },
+      "average": 4.67
+    },
+    {
+      "name": "Tanji",
+      "admin1_code": "05",
+      "location": [
+        13.34889,
+        -16.79083
+      ],
+      "monthly": {
+        "Jan": 4.89,
+        "Feb": 5.13,
+        "Mar": 5.36,
+        "Apr": 5.35,
+        "May": 4.9,
+        "Jun": 4.3,
+        "Jul": 4.01,
+        "Aug": 3.99,
+        "Sep": 4.26,
+        "Oct": 4.64,
+        "Nov": 4.76,
+        "Dec": 4.63
+      },
+      "average": 4.68
+    },
+    {
+      "name": "Sukuta",
+      "admin1_code": "05",
+      "location": [
+        13.41033,
+        -16.70815
+      ],
+      "monthly": {
+        "Jan": 4.89,
+        "Feb": 5.12,
+        "Mar": 5.36,
+        "Apr": 5.36,
+        "May": 4.91,
+        "Jun": 4.32,
+        "Jul": 3.98,
+        "Aug": 3.96,
+        "Sep": 4.25,
+        "Oct": 4.66,
+        "Nov": 4.78,
+        "Dec": 4.64
+      },
+      "average": 4.69
+    },
+    {
+      "name": "Soma",
+      "admin1_code": "02",
+      "location": [
+        13.43333,
+        -15.53333
+      ],
+      "monthly": {
+        "Jan": 4.81,
+        "Feb": 5.02,
+        "Mar": 5.18,
+        "Apr": 5.18,
+        "May": 4.75,
+        "Jun": 4.23,
+        "Jul": 3.99,
+        "Aug": 3.93,
+        "Sep": 4.32,
+        "Oct": 4.7,
+        "Nov": 4.72,
+        "Dec": 4.6
+      },
+      "average": 4.62
+    },
+    {
+      "name": "Serekunda",
+      "admin1_code": "01",
+      "location": [
+        13.43833,
+        -16.67806
+      ],
+      "monthly": {
+        "Jan": 4.88,
+        "Feb": 5.11,
+        "Mar": 5.35,
+        "Apr": 5.35,
+        "May": 4.91,
+        "Jun": 4.32,
+        "Jul": 3.97,
+        "Aug": 3.94,
+        "Sep": 4.24,
+        "Oct": 4.64,
+        "Nov": 4.77,
+        "Dec": 4.63
+      },
+      "average": 4.68
+    },
+    {
+      "name": "Sanyang",
+      "admin1_code": "05",
+      "location": [
+        13.26667,
+        -16.76056
+      ],
+      "monthly": {
+        "Jan": 4.88,
+        "Feb": 5.13,
+        "Mar": 5.35,
+        "Apr": 5.36,
+        "May": 4.9,
+        "Jun": 4.28,
+        "Jul": 3.95,
+        "Aug": 3.92,
+        "Sep": 4.21,
+        "Oct": 4.61,
+        "Nov": 4.76,
+        "Dec": 4.63
+      },
+      "average": 4.67
+    },
+    {
+      "name": "Sanchaba",
+      "admin1_code": "05",
+      "location": [
+        13.42222,
+        -16.70972
+      ],
+      "monthly": {
+        "Jan": 4.88,
+        "Feb": 5.11,
+        "Mar": 5.35,
+        "Apr": 5.36,
+        "May": 4.91,
+        "Jun": 4.32,
+        "Jul": 4.01,
+        "Aug": 3.98,
+        "Sep": 4.26,
+        "Oct": 4.66,
+        "Nov": 4.77,
+        "Dec": 4.63
+      },
+      "average": 4.69
+    },
+    {
+      "name": "Nema Kunku",
+      "admin1_code": "05",
+      "location": [
+        13.25,
+        -15.88333
+      ],
+      "monthly": {
+        "Jan": 4.81,
+        "Feb": 5.02,
+        "Mar": 5.19,
+        "Apr": 5.18,
+        "May": 4.76,
+        "Jun": 4.19,
+        "Jul": 3.92,
+        "Aug": 3.87,
+        "Sep": 4.26,
+        "Oct": 4.65,
+        "Nov": 4.73,
+        "Dec": 4.6
+      },
+      "average": 4.6
+    },
+    {
+      "name": "Manjai Kunda",
+      "admin1_code": "01",
+      "location": [
+        13.44528,
+        -16.70278
+      ],
+      "monthly": {
+        "Jan": 4.86,
+        "Feb": 5.09,
+        "Mar": 5.34,
+        "Apr": 5.35,
+        "May": 4.91,
+        "Jun": 4.34,
+        "Jul": 4.02,
+        "Aug": 3.99,
+        "Sep": 4.26,
+        "Oct": 4.64,
+        "Nov": 4.74,
+        "Dec": 4.6
+      },
+      "average": 4.68
+    },
+    {
+      "name": "Latri Sabiji",
+      "admin1_code": "05",
+      "location": [
+        13.41333,
+        -16.67889
+      ],
+      "monthly": {
+        "Jan": 4.89,
+        "Feb": 5.12,
+        "Mar": 5.35,
+        "Apr": 5.36,
+        "May": 4.92,
+        "Jun": 4.31,
+        "Jul": 3.94,
+        "Aug": 3.92,
+        "Sep": 4.23,
+        "Oct": 4.64,
+        "Nov": 4.78,
+        "Dec": 4.65
+      },
+      "average": 4.68
+    },
+    {
+      "name": "Latri Kunda",
+      "admin1_code": "01",
+      "location": [
+        13.44861,
+        -16.68528
+      ],
+      "monthly": {
+        "Jan": 4.88,
+        "Feb": 5.1,
+        "Mar": 5.34,
+        "Apr": 5.35,
+        "May": 4.9,
+        "Jun": 4.32,
+        "Jul": 3.99,
+        "Aug": 3.96,
+        "Sep": 4.25,
+        "Oct": 4.64,
+        "Nov": 4.76,
+        "Dec": 4.63
+      },
+      "average": 4.68
+    },
+    {
+      "name": "Lamin",
+      "admin1_code": "07",
+      "location": [
+        13.35222,
+        -16.43389
+      ],
+      "monthly": {
+        "Jan": 4.8,
+        "Feb": 5.03,
+        "Mar": 5.25,
+        "Apr": 5.27,
+        "May": 4.87,
+        "Jun": 4.3,
+        "Jul": 4,
+        "Aug": 3.94,
+        "Sep": 4.28,
+        "Oct": 4.62,
+        "Nov": 4.71,
+        "Dec": 4.57
+      },
+      "average": 4.64
+    },
+    {
+      "name": "Kunkujang",
+      "admin1_code": "05",
+      "location": [
+        13.38972,
+        -16.67278
+      ],
+      "monthly": {
+        "Jan": 4.9,
+        "Feb": 5.13,
+        "Mar": 5.35,
+        "Apr": 5.37,
+        "May": 4.93,
+        "Jun": 4.3,
+        "Jul": 3.91,
+        "Aug": 3.89,
+        "Sep": 4.22,
+        "Oct": 4.63,
+        "Nov": 4.79,
+        "Dec": 4.65
+      },
+      "average": 4.67
+    },
+    {
+      "name": "Kotu",
+      "admin1_code": "01",
+      "location": [
+        13.45944,
+        -16.70528
+      ],
+      "monthly": {
+        "Jan": 4.82,
+        "Feb": 5.06,
+        "Mar": 5.32,
+        "Apr": 5.33,
+        "May": 4.9,
+        "Jun": 4.34,
+        "Jul": 4.03,
+        "Aug": 4.01,
+        "Sep": 4.26,
+        "Oct": 4.62,
+        "Nov": 4.71,
+        "Dec": 4.56
+      },
+      "average": 4.66
+    },
+    {
+      "name": "Kanifing",
+      "admin1_code": "01",
+      "location": [
+        13.44639,
+        -16.67444
+      ],
+      "monthly": {
+        "Jan": 4.87,
+        "Feb": 5.1,
+        "Mar": 5.34,
+        "Apr": 5.35,
+        "May": 4.91,
+        "Jun": 4.32,
+        "Jul": 3.97,
+        "Aug": 3.94,
+        "Sep": 4.24,
+        "Oct": 4.64,
+        "Nov": 4.75,
+        "Dec": 4.62
+      },
+      "average": 4.67
+    },
+    {
+      "name": "Ibo Town",
+      "admin1_code": "01",
+      "location": [
+        13.43528,
+        -16.67639
+      ],
+      "monthly": {
+        "Jan": 4.88,
+        "Feb": 5.11,
+        "Mar": 5.35,
+        "Apr": 5.35,
+        "May": 4.91,
+        "Jun": 4.32,
+        "Jul": 3.97,
+        "Aug": 3.94,
+        "Sep": 4.24,
+        "Oct": 4.64,
+        "Nov": 4.77,
+        "Dec": 4.63
+      },
+      "average": 4.68
+    },
+    {
+      "name": "Gunjur",
+      "admin1_code": "05",
+      "location": [
+        13.20194,
+        -16.73389
+      ],
+      "monthly": {
+        "Jan": 4.88,
+        "Feb": 5.13,
+        "Mar": 5.35,
+        "Apr": 5.35,
+        "May": 4.89,
+        "Jun": 4.25,
+        "Jul": 3.9,
+        "Aug": 3.87,
+        "Sep": 4.18,
+        "Oct": 4.58,
+        "Nov": 4.76,
+        "Dec": 4.64
+      },
+      "average": 4.65
+    },
+    {
+      "name": "Farato",
+      "admin1_code": "04",
+      "location": [
+        13.4,
+        -14.21667
+      ],
+      "monthly": {
+        "Jan": 4.78,
+        "Feb": 4.97,
+        "Mar": 5.09,
+        "Apr": 5.06,
+        "May": 4.65,
+        "Jun": 4.21,
+        "Jul": 3.98,
+        "Aug": 3.88,
+        "Sep": 4.31,
+        "Oct": 4.65,
+        "Nov": 4.69,
+        "Dec": 4.57
+      },
+      "average": 4.57
+    },
+    {
+      "name": "Farafenni",
+      "admin1_code": "07",
+      "location": [
+        13.56667,
+        -15.6
+      ],
+      "monthly": {
+        "Jan": 4.82,
+        "Feb": 5.04,
+        "Mar": 5.21,
+        "Apr": 5.21,
+        "May": 4.8,
+        "Jun": 4.3,
+        "Jul": 4.06,
+        "Aug": 3.98,
+        "Sep": 4.32,
+        "Oct": 4.7,
+        "Nov": 4.7,
+        "Dec": 4.59
+      },
+      "average": 4.64
+    },
+    {
+      "name": "Faji Kunda",
+      "admin1_code": "05",
+      "location": [
+        13.41778,
+        -16.66667
+      ],
+      "monthly": {
+        "Jan": 4.88,
+        "Feb": 5.11,
+        "Mar": 5.34,
+        "Apr": 5.36,
+        "May": 4.92,
+        "Jun": 4.32,
+        "Jul": 3.94,
+        "Aug": 3.92,
+        "Sep": 4.23,
+        "Oct": 4.63,
+        "Nov": 4.76,
+        "Dec": 4.63
+      },
+      "average": 4.67
+    },
+    {
+      "name": "Dippa Kunda",
+      "admin1_code": "01",
+      "location": [
+        13.44028,
+        -16.68694
+      ],
+      "monthly": {
+        "Jan": 4.88,
+        "Feb": 5.11,
+        "Mar": 5.35,
+        "Apr": 5.35,
+        "May": 4.91,
+        "Jun": 4.32,
+        "Jul": 3.98,
+        "Aug": 3.95,
+        "Sep": 4.24,
+        "Oct": 4.65,
+        "Nov": 4.77,
+        "Dec": 4.63
+      },
+      "average": 4.68
+    },
+    {
+      "name": "Busumbala",
+      "admin1_code": "05",
+      "location": [
+        13.33917,
+        -16.6875
+      ],
+      "monthly": {
+        "Jan": 4.89,
+        "Feb": 5.13,
+        "Mar": 5.35,
+        "Apr": 5.37,
+        "May": 4.92,
+        "Jun": 4.28,
+        "Jul": 3.87,
+        "Aug": 3.86,
+        "Sep": 4.19,
+        "Oct": 4.61,
+        "Nov": 4.78,
+        "Dec": 4.64
+      },
+      "average": 4.66
+    },
+    {
+      "name": "Bununka Kunda",
+      "admin1_code": "01",
+      "location": [
+        13.42722,
+        -16.68528
+      ],
+      "monthly": {
+        "Jan": 4.89,
+        "Feb": 5.11,
+        "Mar": 5.35,
+        "Apr": 5.36,
+        "May": 4.91,
+        "Jun": 4.32,
+        "Jul": 3.97,
+        "Aug": 3.95,
+        "Sep": 4.24,
+        "Oct": 4.65,
+        "Nov": 4.77,
+        "Dec": 4.64
+      },
+      "average": 4.68
+    },
+    {
+      "name": "Brufut",
+      "admin1_code": "05",
+      "location": [
+        13.38417,
+        -16.75139
+      ],
+      "monthly": {
+        "Jan": 4.87,
+        "Feb": 5.12,
+        "Mar": 5.35,
+        "Apr": 5.35,
+        "May": 4.9,
+        "Jun": 4.31,
+        "Jul": 4,
+        "Aug": 3.98,
+        "Sep": 4.25,
+        "Oct": 4.64,
+        "Nov": 4.75,
+        "Dec": 4.62
+      },
+      "average": 4.68
+    },
+    {
+      "name": "Brikama",
+      "admin1_code": "05",
+      "location": [
+        13.27136,
+        -16.64944
+      ],
+      "monthly": {
+        "Jan": 4.87,
+        "Feb": 5.11,
+        "Mar": 5.32,
+        "Apr": 5.34,
+        "May": 4.9,
+        "Jun": 4.24,
+        "Jul": 3.83,
+        "Aug": 3.81,
+        "Sep": 4.15,
+        "Oct": 4.56,
+        "Nov": 4.76,
+        "Dec": 4.63
+      },
+      "average": 4.63
+    },
+    {
+      "name": "Banjul",
+      "admin1_code": "01",
+      "location": [
+        13.45274,
+        -16.57803
+      ],
+      "monthly": {
+        "Jan": 4.79,
+        "Feb": 5.03,
+        "Mar": 5.27,
+        "Apr": 5.29,
+        "May": 4.89,
+        "Jun": 4.32,
+        "Jul": 3.99,
+        "Aug": 3.95,
+        "Sep": 4.28,
+        "Oct": 4.62,
+        "Nov": 4.69,
+        "Dec": 4.55
+      },
+      "average": 4.64
+    },
+    {
+      "name": "Bakoti",
+      "admin1_code": "05",
+      "location": [
+        13.43,
+        -16.69833
+      ],
+      "monthly": {
+        "Jan": 4.88,
+        "Feb": 5.11,
+        "Mar": 5.35,
+        "Apr": 5.36,
+        "May": 4.91,
+        "Jun": 4.32,
+        "Jul": 3.99,
+        "Aug": 3.96,
+        "Sep": 4.25,
+        "Oct": 4.65,
+        "Nov": 4.77,
+        "Dec": 4.63
+      },
+      "average": 4.68
+    },
+    {
+      "name": "Bakau",
+      "admin1_code": "01",
+      "location": [
+        13.47806,
+        -16.68194
+      ],
+      "monthly": {
+        "Jan": 4.79,
+        "Feb": 5.04,
+        "Mar": 5.3,
+        "Apr": 5.32,
+        "May": 4.9,
+        "Jun": 4.34,
+        "Jul": 4.04,
+        "Aug": 4.01,
+        "Sep": 4.27,
+        "Oct": 4.61,
+        "Nov": 4.68,
+        "Dec": 4.53
+      },
+      "average": 4.65
+    },
+    {
+      "name": "Abuko",
+      "admin1_code": "05",
+      "location": [
+        13.40417,
+        -16.65583
+      ],
+      "monthly": {
+        "Jan": 4.87,
+        "Feb": 5.1,
+        "Mar": 5.33,
+        "Apr": 5.35,
+        "May": 4.92,
+        "Jun": 4.3,
+        "Jul": 3.9,
+        "Aug": 3.88,
+        "Sep": 4.21,
+        "Oct": 4.61,
+        "Nov": 4.76,
+        "Dec": 4.62
+      },
+      "average": 4.65
+    },
+    {
+      "name": "Bakau New Town",
+      "admin1_code": "01",
+      "location": [
+        13.47297,
+        -16.68514
+      ],
+      "monthly": {
+        "Jan": 4.82,
+        "Feb": 5.06,
+        "Mar": 5.32,
+        "Apr": 5.33,
+        "May": 4.9,
+        "Jun": 4.34,
+        "Jul": 4.03,
+        "Aug": 4.01,
+        "Sep": 4.27,
+        "Oct": 4.63,
+        "Nov": 4.71,
+        "Dec": 4.56
+      },
+      "average": 4.67
+    },
+    {
+      "name": "New Jeshwang",
+      "admin1_code": "01",
+      "location": [
+        13.44735,
+        -16.665
+      ],
+      "monthly": {
+        "Jan": 4.86,
+        "Feb": 5.09,
+        "Mar": 5.33,
+        "Apr": 5.34,
+        "May": 4.91,
+        "Jun": 4.32,
+        "Jul": 3.96,
+        "Aug": 3.93,
+        "Sep": 4.24,
+        "Oct": 4.62,
+        "Nov": 4.74,
+        "Dec": 4.6
+      },
+      "average": 4.66
+    },
+    {
+      "name": "Talinding",
+      "admin1_code": "01",
+      "location": [
+        13.42558,
+        -16.67261
+      ],
+      "monthly": {
+        "Jan": 4.88,
+        "Feb": 5.1,
+        "Mar": 5.34,
+        "Apr": 5.36,
+        "May": 4.92,
+        "Jun": 4.32,
+        "Jul": 3.95,
+        "Aug": 3.92,
+        "Sep": 4.23,
+        "Oct": 4.63,
+        "Nov": 4.76,
+        "Dec": 4.63
+      },
+      "average": 4.67
+    },
+    {
+      "name": "Sinchu Alagi",
+      "admin1_code": "05",
+      "location": [
+        13.37491,
+        -16.67841
+      ],
+      "monthly": {
+        "Jan": 4.9,
+        "Feb": 5.13,
+        "Mar": 5.36,
+        "Apr": 5.37,
+        "May": 4.93,
+        "Jun": 4.3,
+        "Jul": 3.9,
+        "Aug": 3.88,
+        "Sep": 4.22,
+        "Oct": 4.63,
+        "Nov": 4.79,
+        "Dec": 4.65
+      },
+      "average": 4.67
+    }
+  ]
+}

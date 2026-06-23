@@ -1,0 +1,29 @@
+{
+  "country": "Greenland",
+  "countryCode": "GL",
+  "cities": [
+    {
+      "name": "Nuuk",
+      "admin1_code": "07",
+      "location": [
+        64.18347,
+        -51.72157
+      ],
+      "monthly": {
+        "Jan": 0.6,
+        "Feb": 1.7,
+        "Mar": 3.77,
+        "Apr": 4.96,
+        "May": 5.54,
+        "Jun": 4.82,
+        "Jul": 4.74,
+        "Aug": 4.12,
+        "Sep": 3.27,
+        "Oct": 2.2,
+        "Nov": 1,
+        "Dec": 0.22
+      },
+      "average": 3.08
+    }
+  ]
+}

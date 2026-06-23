@@ -1,0 +1,98 @@
+{
+  "country": "Equatorial Guinea",
+  "countryCode": "GQ",
+  "cities": [
+    {
+      "name": "Ebebiyin",
+      "admin1_code": "07",
+      "location": [
+        2.15218,
+        11.33013
+      ],
+      "monthly": {
+        "Jan": 4.33,
+        "Feb": 4.25,
+        "Mar": 4.06,
+        "Apr": 3.96,
+        "May": 3.66,
+        "Jun": 3.32,
+        "Jul": 3.18,
+        "Aug": 3.25,
+        "Sep": 3.79,
+        "Oct": 3.93,
+        "Nov": 3.86,
+        "Dec": 4.15
+      },
+      "average": 3.81
+    },
+    {
+      "name": "Malabo",
+      "admin1_code": "04",
+      "location": [
+        3.75578,
+        8.78166
+      ],
+      "monthly": {
+        "Jan": 4.18,
+        "Feb": 4.18,
+        "Mar": 3.87,
+        "Apr": 3.85,
+        "May": 3.61,
+        "Jun": 3.15,
+        "Jul": 3.02,
+        "Aug": 3.17,
+        "Sep": 3.45,
+        "Oct": 3.58,
+        "Nov": 3.82,
+        "Dec": 4.13
+      },
+      "average": 3.67
+    },
+    {
+      "name": "Bata",
+      "admin1_code": "08",
+      "location": [
+        1.86391,
+        9.76582
+      ],
+      "monthly": {
+        "Jan": 4.42,
+        "Feb": 4.43,
+        "Mar": 4.25,
+        "Apr": 4.06,
+        "May": 3.86,
+        "Jun": 3.62,
+        "Jul": 3.66,
+        "Aug": 3.8,
+        "Sep": 3.95,
+        "Oct": 3.88,
+        "Nov": 3.93,
+        "Dec": 4.25
+      },
+      "average": 4.01
+    },
+    {
+      "name": "Ciudad de la Paz",
+      "admin1_code": "10",
+      "location": [
+        1.5925,
+        10.82361
+      ],
+      "monthly": {
+        "Jan": 4.35,
+        "Feb": 4.33,
+        "Mar": 4.13,
+        "Apr": 3.99,
+        "May": 3.64,
+        "Jun": 3.27,
+        "Jul": 3.2,
+        "Aug": 3.3,
+        "Sep": 3.81,
+        "Oct": 3.95,
+        "Nov": 3.73,
+        "Dec": 4.07
+      },
+      "average": 3.81
+    }
+  ]
+}

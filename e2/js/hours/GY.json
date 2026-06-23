@@ -1,0 +1,75 @@
+{
+  "country": "Guyana",
+  "countryCode": "GY",
+  "cities": [
+    {
+      "name": "New Amsterdam",
+      "admin1_code": "13",
+      "location": [
+        6.24924,
+        -57.51578
+      ],
+      "monthly": {
+        "Jan": 4.16,
+        "Feb": 4.18,
+        "Mar": 4.44,
+        "Apr": 4.23,
+        "May": 3.84,
+        "Jun": 3.97,
+        "Jul": 4.27,
+        "Aug": 4.72,
+        "Sep": 5.01,
+        "Oct": 4.9,
+        "Nov": 4.56,
+        "Dec": 4.01
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Linden",
+      "admin1_code": "18",
+      "location": [
+        6.00815,
+        -58.30724
+      ],
+      "monthly": {
+        "Jan": 3.82,
+        "Feb": 3.83,
+        "Mar": 4,
+        "Apr": 3.9,
+        "May": 3.58,
+        "Jun": 3.66,
+        "Jul": 3.96,
+        "Aug": 4.4,
+        "Sep": 4.68,
+        "Oct": 4.46,
+        "Nov": 4.13,
+        "Dec": 3.71
+      },
+      "average": 4.01
+    },
+    {
+      "name": "Georgetown",
+      "admin1_code": "12",
+      "location": [
+        6.80448,
+        -58.15527
+      ],
+      "monthly": {
+        "Jan": 4.2,
+        "Feb": 4.38,
+        "Mar": 4.55,
+        "Apr": 4.35,
+        "May": 3.83,
+        "Jun": 3.8,
+        "Jul": 4.1,
+        "Aug": 4.64,
+        "Sep": 4.9,
+        "Oct": 4.71,
+        "Nov": 4.34,
+        "Dec": 3.98
+      },
+      "average": 4.31
+    }
+  ]
+}

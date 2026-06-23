@@ -1,0 +1,29 @@
+{
+  "country": "MF",
+  "countryCode": "MF",
+  "cities": [
+    {
+      "name": "Marigot",
+      "admin1_code": "00",
+      "location": [
+        18.06819,
+        -63.08302
+      ],
+      "monthly": {
+        "Jan": 4.55,
+        "Feb": 4.94,
+        "Mar": 5.13,
+        "Apr": 5.01,
+        "May": 4.63,
+        "Jun": 4.58,
+        "Jul": 4.65,
+        "Aug": 4.86,
+        "Sep": 4.84,
+        "Oct": 4.6,
+        "Nov": 4.36,
+        "Dec": 4.34
+      },
+      "average": 4.71
+    }
+  ]
+}

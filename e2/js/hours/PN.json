@@ -1,0 +1,29 @@
+{
+  "country": "PN",
+  "countryCode": "PN",
+  "cities": [
+    {
+      "name": "Adamstown",
+      "admin1_code": "",
+      "location": [
+        -25.06597,
+        -130.10147
+      ],
+      "monthly": {
+        "Jan": 5.1,
+        "Feb": 5.15,
+        "Mar": 4.89,
+        "Apr": 4.23,
+        "May": 3.61,
+        "Jun": 3.28,
+        "Jul": 3.5,
+        "Aug": 3.97,
+        "Sep": 4.43,
+        "Oct": 4.67,
+        "Nov": 4.76,
+        "Dec": 4.82
+      },
+      "average": 4.37
+    }
+  ]
+}

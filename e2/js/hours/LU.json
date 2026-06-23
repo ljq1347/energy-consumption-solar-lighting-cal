@@ -1,0 +1,75 @@
+{
+  "country": "Luxembourg",
+  "countryCode": "LU",
+  "cities": [
+    {
+      "name": "Luxembourg",
+      "admin1_code": "LU",
+      "location": [
+        49.60982,
+        6.13268
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.11,
+        "Mar": 3.22,
+        "Apr": 4.06,
+        "May": 4.24,
+        "Jun": 4.47,
+        "Jul": 4.34,
+        "Aug": 4.04,
+        "Sep": 3.48,
+        "Oct": 2.31,
+        "Nov": 1.29,
+        "Dec": 1.02
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Esch-sur-Alzette",
+      "admin1_code": "ES",
+      "location": [
+        49.49583,
+        5.98056
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.17,
+        "Mar": 3.28,
+        "Apr": 4.1,
+        "May": 4.28,
+        "Jun": 4.51,
+        "Jul": 4.36,
+        "Aug": 4.1,
+        "Sep": 3.53,
+        "Oct": 2.37,
+        "Nov": 1.33,
+        "Dec": 1.05
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Dudelange",
+      "admin1_code": "ES",
+      "location": [
+        49.48056,
+        6.0875
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.17,
+        "Mar": 3.28,
+        "Apr": 4.09,
+        "May": 4.26,
+        "Jun": 4.51,
+        "Jul": 4.36,
+        "Aug": 4.08,
+        "Sep": 3.53,
+        "Oct": 2.36,
+        "Nov": 1.34,
+        "Dec": 1.03
+      },
+      "average": 3.02
+    }
+  ]
+}

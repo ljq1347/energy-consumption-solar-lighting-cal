@@ -1,0 +1,29 @@
+{
+  "country": "Maldives",
+  "countryCode": "MV",
+  "cities": [
+    {
+      "name": "Male",
+      "admin1_code": "38",
+      "location": [
+        4.17521,
+        73.50916
+      ],
+      "monthly": {
+        "Jan": 4.67,
+        "Feb": 5.16,
+        "Mar": 5.23,
+        "Apr": 4.79,
+        "May": 4.07,
+        "Jun": 4.06,
+        "Jul": 3.98,
+        "Aug": 4.26,
+        "Sep": 4.32,
+        "Oct": 4.57,
+        "Nov": 4.24,
+        "Dec": 4.21
+      },
+      "average": 4.46
+    }
+  ]
+}

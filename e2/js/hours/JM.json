@@ -1,0 +1,259 @@
+{
+  "country": "Jamaica",
+  "countryCode": "JM",
+  "cities": [
+    {
+      "name": "Spanish Town",
+      "admin1_code": "10",
+      "location": [
+        17.99107,
+        -76.95742
+      ],
+      "monthly": {
+        "Jan": 4.48,
+        "Feb": 4.7,
+        "Mar": 4.92,
+        "Apr": 4.89,
+        "May": 4.59,
+        "Jun": 4.54,
+        "Jul": 4.7,
+        "Aug": 4.66,
+        "Sep": 4.65,
+        "Oct": 4.39,
+        "Nov": 4.3,
+        "Dec": 4.3
+      },
+      "average": 4.59
+    },
+    {
+      "name": "Savanna-la-Mar",
+      "admin1_code": "16",
+      "location": [
+        18.21895,
+        -78.1332
+      ],
+      "monthly": {
+        "Jan": 4.61,
+        "Feb": 4.79,
+        "Mar": 5.11,
+        "Apr": 5.02,
+        "May": 4.62,
+        "Jun": 4.36,
+        "Jul": 4.4,
+        "Aug": 4.48,
+        "Sep": 4.59,
+        "Oct": 4.43,
+        "Nov": 4.47,
+        "Dec": 4.44
+      },
+      "average": 4.61
+    },
+    {
+      "name": "Portmore",
+      "admin1_code": "10",
+      "location": [
+        17.97102,
+        -76.88691
+      ],
+      "monthly": {
+        "Jan": 4.66,
+        "Feb": 4.96,
+        "Mar": 5.16,
+        "Apr": 5.08,
+        "May": 4.71,
+        "Jun": 4.6,
+        "Jul": 4.79,
+        "Aug": 4.76,
+        "Sep": 4.77,
+        "Oct": 4.52,
+        "Nov": 4.45,
+        "Dec": 4.44
+      },
+      "average": 4.74
+    },
+    {
+      "name": "Old Harbour",
+      "admin1_code": "10",
+      "location": [
+        17.94144,
+        -77.10898
+      ],
+      "monthly": {
+        "Jan": 4.44,
+        "Feb": 4.62,
+        "Mar": 4.93,
+        "Apr": 4.93,
+        "May": 4.55,
+        "Jun": 4.45,
+        "Jul": 4.61,
+        "Aug": 4.61,
+        "Sep": 4.64,
+        "Oct": 4.38,
+        "Nov": 4.38,
+        "Dec": 4.28
+      },
+      "average": 4.57
+    },
+    {
+      "name": "New Kingston",
+      "admin1_code": "08",
+      "location": [
+        18.00747,
+        -76.78319
+      ],
+      "monthly": {
+        "Jan": 4.43,
+        "Feb": 4.71,
+        "Mar": 4.96,
+        "Apr": 4.89,
+        "May": 4.58,
+        "Jun": 4.56,
+        "Jul": 4.69,
+        "Aug": 4.64,
+        "Sep": 4.65,
+        "Oct": 4.37,
+        "Nov": 4.25,
+        "Dec": 4.22
+      },
+      "average": 4.58
+    },
+    {
+      "name": "Montego Bay",
+      "admin1_code": "12",
+      "location": [
+        18.47116,
+        -77.91883
+      ],
+      "monthly": {
+        "Jan": 4.33,
+        "Feb": 4.72,
+        "Mar": 4.94,
+        "Apr": 4.85,
+        "May": 4.23,
+        "Jun": 4.13,
+        "Jul": 4.3,
+        "Aug": 4.31,
+        "Sep": 4.38,
+        "Oct": 4.3,
+        "Nov": 4.29,
+        "Dec": 4.22
+      },
+      "average": 4.42
+    },
+    {
+      "name": "May Pen",
+      "admin1_code": "01",
+      "location": [
+        17.96454,
+        -77.24515
+      ],
+      "monthly": {
+        "Jan": 4.38,
+        "Feb": 4.6,
+        "Mar": 4.86,
+        "Apr": 4.88,
+        "May": 4.5,
+        "Jun": 4.4,
+        "Jul": 4.58,
+        "Aug": 4.58,
+        "Sep": 4.55,
+        "Oct": 4.29,
+        "Nov": 4.33,
+        "Dec": 4.27
+      },
+      "average": 4.52
+    },
+    {
+      "name": "Mandeville",
+      "admin1_code": "04",
+      "location": [
+        18.04168,
+        -77.50714
+      ],
+      "monthly": {
+        "Jan": 4.29,
+        "Feb": 4.42,
+        "Mar": 4.61,
+        "Apr": 4.61,
+        "May": 4.27,
+        "Jun": 4.13,
+        "Jul": 4.39,
+        "Aug": 4.4,
+        "Sep": 4.44,
+        "Oct": 4.14,
+        "Nov": 4.2,
+        "Dec": 4.15
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Linstead",
+      "admin1_code": "10",
+      "location": [
+        18.13683,
+        -77.03171
+      ],
+      "monthly": {
+        "Jan": 4.16,
+        "Feb": 4.35,
+        "Mar": 4.53,
+        "Apr": 4.48,
+        "May": 4.12,
+        "Jun": 4.01,
+        "Jul": 4.12,
+        "Aug": 4.18,
+        "Sep": 4.25,
+        "Oct": 4.09,
+        "Nov": 4.12,
+        "Dec": 4.05
+      },
+      "average": 4.21
+    },
+    {
+      "name": "Kingston",
+      "admin1_code": "17",
+      "location": [
+        17.99702,
+        -76.79358
+      ],
+      "monthly": {
+        "Jan": 4.53,
+        "Feb": 4.81,
+        "Mar": 5.05,
+        "Apr": 4.97,
+        "May": 4.63,
+        "Jun": 4.59,
+        "Jul": 4.74,
+        "Aug": 4.7,
+        "Sep": 4.7,
+        "Oct": 4.43,
+        "Nov": 4.34,
+        "Dec": 4.31
+      },
+      "average": 4.65
+    },
+    {
+      "name": "Half Way Tree",
+      "admin1_code": "08",
+      "location": [
+        18.01248,
+        -76.79928
+      ],
+      "monthly": {
+        "Jan": 4.45,
+        "Feb": 4.72,
+        "Mar": 4.97,
+        "Apr": 4.9,
+        "May": 4.58,
+        "Jun": 4.56,
+        "Jul": 4.7,
+        "Aug": 4.65,
+        "Sep": 4.65,
+        "Oct": 4.37,
+        "Nov": 4.26,
+        "Dec": 4.21
+      },
+      "average": 4.58
+    }
+  ]
+}

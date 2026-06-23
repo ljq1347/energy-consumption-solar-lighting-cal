@@ -1,0 +1,719 @@
+{
+  "country": "Kyrgyzstan",
+  "countryCode": "KG",
+  "cities": [
+    {
+      "name": "Suluktu",
+      "admin1_code": "09",
+      "location": [
+        39.93652,
+        69.56779
+      ],
+      "monthly": {
+        "Jan": 2.7,
+        "Feb": 3.26,
+        "Mar": 3.84,
+        "Apr": 4.41,
+        "May": 4.87,
+        "Jun": 5.3,
+        "Jul": 5.49,
+        "Aug": 5.56,
+        "Sep": 5.36,
+        "Oct": 4.24,
+        "Nov": 3.1,
+        "Dec": 2.44
+      },
+      "average": 4.21
+    },
+    {
+      "name": "Razzakov",
+      "admin1_code": "09",
+      "location": [
+        39.83895,
+        69.5276
+      ],
+      "monthly": {
+        "Jan": 2.63,
+        "Feb": 3.13,
+        "Mar": 3.75,
+        "Apr": 4.23,
+        "May": 4.66,
+        "Jun": 5.14,
+        "Jul": 5.36,
+        "Aug": 5.47,
+        "Sep": 5.32,
+        "Oct": 4.22,
+        "Nov": 3.12,
+        "Dec": 2.42
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Balykchy",
+      "admin1_code": "07",
+      "location": [
+        42.46017,
+        76.18709
+      ],
+      "monthly": {
+        "Jan": 3.7,
+        "Feb": 4.34,
+        "Mar": 4.79,
+        "Apr": 5,
+        "May": 5.12,
+        "Jun": 4.98,
+        "Jul": 5.06,
+        "Aug": 5.28,
+        "Sep": 5.21,
+        "Oct": 4.36,
+        "Nov": 3.89,
+        "Dec": 3.58
+      },
+      "average": 4.61
+    },
+    {
+      "name": "Tokmok",
+      "admin1_code": "02",
+      "location": [
+        42.84194,
+        75.30149
+      ],
+      "monthly": {
+        "Jan": 2.46,
+        "Feb": 3.28,
+        "Mar": 4.07,
+        "Apr": 4.53,
+        "May": 5.03,
+        "Jun": 5.11,
+        "Jul": 5.18,
+        "Aug": 5.33,
+        "Sep": 5.05,
+        "Oct": 3.99,
+        "Nov": 3.12,
+        "Dec": 2.29
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Tash-Kumyr",
+      "admin1_code": "03",
+      "location": [
+        41.34612,
+        72.21707
+      ],
+      "monthly": {
+        "Jan": 2.49,
+        "Feb": 3.15,
+        "Mar": 3.66,
+        "Apr": 4.38,
+        "May": 4.9,
+        "Jun": 5.2,
+        "Jul": 5.28,
+        "Aug": 5.27,
+        "Sep": 4.96,
+        "Oct": 3.8,
+        "Nov": 2.86,
+        "Dec": 2.22
+      },
+      "average": 4.01
+    },
+    {
+      "name": "Talas",
+      "admin1_code": "06",
+      "location": [
+        42.52256,
+        72.2417
+      ],
+      "monthly": {
+        "Jan": 2.47,
+        "Feb": 3.15,
+        "Mar": 4.03,
+        "Apr": 4.7,
+        "May": 5.17,
+        "Jun": 5.34,
+        "Jul": 5.46,
+        "Aug": 5.57,
+        "Sep": 5.26,
+        "Oct": 4.16,
+        "Nov": 3.1,
+        "Dec": 2.28
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Suzak",
+      "admin1_code": "03",
+      "location": [
+        40.8982,
+        72.90481
+      ],
+      "monthly": {
+        "Jan": 2.31,
+        "Feb": 2.99,
+        "Mar": 3.59,
+        "Apr": 4.31,
+        "May": 4.88,
+        "Jun": 5.19,
+        "Jul": 5.23,
+        "Aug": 5.25,
+        "Sep": 4.93,
+        "Oct": 3.76,
+        "Nov": 2.85,
+        "Dec": 2.19
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Kyzyl-Suu",
+      "admin1_code": "07",
+      "location": [
+        42.34211,
+        78.00644
+      ],
+      "monthly": {
+        "Jan": 3.06,
+        "Feb": 3.82,
+        "Mar": 4.74,
+        "Apr": 4.91,
+        "May": 5.19,
+        "Jun": 5.11,
+        "Jul": 5.2,
+        "Aug": 5.21,
+        "Sep": 5.22,
+        "Oct": 4.33,
+        "Nov": 3.49,
+        "Dec": 2.59
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Uzgen",
+      "admin1_code": "08",
+      "location": [
+        40.76994,
+        73.30068
+      ],
+      "monthly": {
+        "Jan": 2.27,
+        "Feb": 2.95,
+        "Mar": 3.67,
+        "Apr": 4.31,
+        "May": 4.88,
+        "Jun": 5.19,
+        "Jul": 5.25,
+        "Aug": 5.32,
+        "Sep": 5.03,
+        "Oct": 3.88,
+        "Nov": 2.96,
+        "Dec": 2.15
+      },
+      "average": 3.99
+    },
+    {
+      "name": "Osh",
+      "admin1_code": "08",
+      "location": [
+        40.52828,
+        72.7985
+      ],
+      "monthly": {
+        "Jan": 2.4,
+        "Feb": 2.93,
+        "Mar": 3.5,
+        "Apr": 4.2,
+        "May": 4.73,
+        "Jun": 5.03,
+        "Jul": 5.11,
+        "Aug": 5.2,
+        "Sep": 4.93,
+        "Oct": 3.79,
+        "Nov": 2.87,
+        "Dec": 2.21
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Naryn",
+      "admin1_code": "04",
+      "location": [
+        41.4283,
+        75.9957
+      ],
+      "monthly": {
+        "Jan": 2.74,
+        "Feb": 3.57,
+        "Mar": 4.71,
+        "Apr": 4.86,
+        "May": 4.84,
+        "Jun": 4.95,
+        "Jul": 5.13,
+        "Aug": 5.32,
+        "Sep": 5.39,
+        "Oct": 4.41,
+        "Nov": 3.66,
+        "Dec": 2.64
+      },
+      "average": 4.35
+    },
+    {
+      "name": "Massy",
+      "admin1_code": "03",
+      "location": [
+        41.0601,
+        72.63285
+      ],
+      "monthly": {
+        "Jan": 2.18,
+        "Feb": 2.92,
+        "Mar": 3.62,
+        "Apr": 4.39,
+        "May": 4.96,
+        "Jun": 5.28,
+        "Jul": 5.31,
+        "Aug": 5.28,
+        "Sep": 4.97,
+        "Oct": 3.81,
+        "Nov": 2.83,
+        "Dec": 2.06
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Lebedinovka",
+      "admin1_code": "02",
+      "location": [
+        42.88454,
+        74.67819
+      ],
+      "monthly": {
+        "Jan": 2.42,
+        "Feb": 3.15,
+        "Mar": 3.9,
+        "Apr": 4.4,
+        "May": 4.97,
+        "Jun": 5.1,
+        "Jul": 5.18,
+        "Aug": 5.3,
+        "Sep": 5.02,
+        "Oct": 3.88,
+        "Nov": 2.95,
+        "Dec": 2.19
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Kyzyl-Kyya",
+      "admin1_code": "09",
+      "location": [
+        40.25684,
+        72.12793
+      ],
+      "monthly": {
+        "Jan": 2.45,
+        "Feb": 2.91,
+        "Mar": 3.38,
+        "Apr": 4.08,
+        "May": 4.57,
+        "Jun": 4.92,
+        "Jul": 5.05,
+        "Aug": 5.19,
+        "Sep": 4.93,
+        "Oct": 3.76,
+        "Nov": 2.82,
+        "Dec": 2.26
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Kochkor-Ata",
+      "admin1_code": "03",
+      "location": [
+        41.03709,
+        72.4832
+      ],
+      "monthly": {
+        "Jan": 2.16,
+        "Feb": 2.91,
+        "Mar": 3.57,
+        "Apr": 4.37,
+        "May": 4.94,
+        "Jun": 5.24,
+        "Jul": 5.28,
+        "Aug": 5.26,
+        "Sep": 4.92,
+        "Oct": 3.74,
+        "Nov": 2.77,
+        "Dec": 2.02
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Kara Suu",
+      "admin1_code": "08",
+      "location": [
+        40.7046,
+        72.86666
+      ],
+      "monthly": {
+        "Jan": 2.28,
+        "Feb": 2.89,
+        "Mar": 3.49,
+        "Apr": 4.24,
+        "May": 4.81,
+        "Jun": 5.1,
+        "Jul": 5.14,
+        "Aug": 5.18,
+        "Sep": 4.86,
+        "Oct": 3.71,
+        "Nov": 2.8,
+        "Dec": 2.15
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Karakol",
+      "admin1_code": "07",
+      "location": [
+        42.49047,
+        78.39197
+      ],
+      "monthly": {
+        "Jan": 3.02,
+        "Feb": 3.76,
+        "Mar": 4.58,
+        "Apr": 4.78,
+        "May": 5.08,
+        "Jun": 5.03,
+        "Jul": 5.17,
+        "Aug": 5.21,
+        "Sep": 5.17,
+        "Oct": 4.27,
+        "Nov": 3.49,
+        "Dec": 2.53
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Kara-Kul’",
+      "admin1_code": "03",
+      "location": [
+        41.62828,
+        72.67027
+      ],
+      "monthly": {
+        "Jan": 2.02,
+        "Feb": 2.9,
+        "Mar": 3.79,
+        "Apr": 4.45,
+        "May": 4.77,
+        "Jun": 5.07,
+        "Jul": 5.3,
+        "Aug": 5.31,
+        "Sep": 5.06,
+        "Oct": 3.92,
+        "Nov": 2.89,
+        "Dec": 1.98
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Kara-Balta",
+      "admin1_code": "02",
+      "location": [
+        42.81423,
+        73.84813
+      ],
+      "monthly": {
+        "Jan": 2.17,
+        "Feb": 2.95,
+        "Mar": 3.77,
+        "Apr": 4.37,
+        "May": 4.91,
+        "Jun": 5.02,
+        "Jul": 5.16,
+        "Aug": 5.3,
+        "Sep": 5.05,
+        "Oct": 3.88,
+        "Nov": 2.88,
+        "Dec": 2
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Kant",
+      "admin1_code": "02",
+      "location": [
+        42.89106,
+        74.85077
+      ],
+      "monthly": {
+        "Jan": 2.26,
+        "Feb": 3.14,
+        "Mar": 3.94,
+        "Apr": 4.49,
+        "May": 5.05,
+        "Jun": 5.15,
+        "Jul": 5.22,
+        "Aug": 5.34,
+        "Sep": 5.05,
+        "Oct": 3.92,
+        "Nov": 2.97,
+        "Dec": 1.98
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Manas",
+      "admin1_code": "03",
+      "location": [
+        40.94498,
+        72.99313
+      ],
+      "monthly": {
+        "Jan": 2.32,
+        "Feb": 3,
+        "Mar": 3.64,
+        "Apr": 4.34,
+        "May": 4.92,
+        "Jun": 5.24,
+        "Jul": 5.28,
+        "Aug": 5.3,
+        "Sep": 4.98,
+        "Oct": 3.81,
+        "Nov": 2.9,
+        "Dec": 2.21
+      },
+      "average": 3.99
+    },
+    {
+      "name": "Ivanovka",
+      "admin1_code": "02",
+      "location": [
+        42.88778,
+        75.085
+      ],
+      "monthly": {
+        "Jan": 2.32,
+        "Feb": 3.16,
+        "Mar": 4,
+        "Apr": 4.55,
+        "May": 5.08,
+        "Jun": 5.16,
+        "Jul": 5.23,
+        "Aug": 5.35,
+        "Sep": 5.06,
+        "Oct": 3.95,
+        "Nov": 3.03,
+        "Dec": 2.08
+      },
+      "average": 4.08
+    },
+    {
+      "name": "Iradan",
+      "admin1_code": "09",
+      "location": [
+        40.26667,
+        72.1
+      ],
+      "monthly": {
+        "Jan": 2.42,
+        "Feb": 2.89,
+        "Mar": 3.38,
+        "Apr": 4.11,
+        "May": 4.6,
+        "Jun": 4.94,
+        "Jul": 5.06,
+        "Aug": 5.18,
+        "Sep": 4.91,
+        "Oct": 3.74,
+        "Nov": 2.8,
+        "Dec": 2.25
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Nookat",
+      "admin1_code": "08",
+      "location": [
+        40.26597,
+        72.61834
+      ],
+      "monthly": {
+        "Jan": 2.55,
+        "Feb": 3.06,
+        "Mar": 3.43,
+        "Apr": 3.89,
+        "May": 4.27,
+        "Jun": 4.65,
+        "Jul": 4.87,
+        "Aug": 5.04,
+        "Sep": 4.93,
+        "Oct": 3.85,
+        "Nov": 2.94,
+        "Dec": 2.26
+      },
+      "average": 3.81
+    },
+    {
+      "name": "Bishkek",
+      "admin1_code": "01",
+      "location": [
+        42.87,
+        74.59
+      ],
+      "monthly": {
+        "Jan": 2.51,
+        "Feb": 3.23,
+        "Mar": 3.91,
+        "Apr": 4.41,
+        "May": 4.97,
+        "Jun": 5.09,
+        "Jul": 5.17,
+        "Aug": 5.29,
+        "Sep": 5.01,
+        "Oct": 3.88,
+        "Nov": 2.96,
+        "Dec": 2.3
+      },
+      "average": 4.06
+    },
+    {
+      "name": "Belovodskoye",
+      "admin1_code": "02",
+      "location": [
+        42.82944,
+        74.1083
+      ],
+      "monthly": {
+        "Jan": 2.11,
+        "Feb": 2.91,
+        "Mar": 3.75,
+        "Apr": 4.39,
+        "May": 4.95,
+        "Jun": 5.05,
+        "Jul": 5.17,
+        "Aug": 5.28,
+        "Sep": 5.02,
+        "Oct": 3.87,
+        "Nov": 2.85,
+        "Dec": 1.91
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Bazar-Korgon",
+      "admin1_code": "03",
+      "location": [
+        41.0376,
+        72.74586
+      ],
+      "monthly": {
+        "Jan": 2.21,
+        "Feb": 2.93,
+        "Mar": 3.63,
+        "Apr": 4.4,
+        "May": 4.96,
+        "Jun": 5.28,
+        "Jul": 5.32,
+        "Aug": 5.29,
+        "Sep": 4.98,
+        "Oct": 3.81,
+        "Nov": 2.86,
+        "Dec": 2.11
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Batken",
+      "admin1_code": "09",
+      "location": [
+        40.0604,
+        70.81929
+      ],
+      "monthly": {
+        "Jan": 2.69,
+        "Feb": 3.13,
+        "Mar": 3.65,
+        "Apr": 4.34,
+        "May": 4.71,
+        "Jun": 5.06,
+        "Jul": 5.21,
+        "Aug": 5.3,
+        "Sep": 5.1,
+        "Oct": 3.96,
+        "Nov": 2.98,
+        "Dec": 2.53
+      },
+      "average": 4.05
+    },
+    {
+      "name": "Ala-Buka",
+      "admin1_code": "03",
+      "location": [
+        41.4105,
+        71.48628
+      ],
+      "monthly": {
+        "Jan": 2.51,
+        "Feb": 3.18,
+        "Mar": 3.78,
+        "Apr": 4.48,
+        "May": 4.96,
+        "Jun": 5.3,
+        "Jul": 5.43,
+        "Aug": 5.5,
+        "Sep": 5.23,
+        "Oct": 4.07,
+        "Nov": 3.11,
+        "Dec": 2.28
+      },
+      "average": 4.15
+    },
+    {
+      "name": "Toktogul",
+      "admin1_code": "03",
+      "location": [
+        41.87442,
+        72.94192
+      ],
+      "monthly": {
+        "Jan": 2.15,
+        "Feb": 2.96,
+        "Mar": 4.03,
+        "Apr": 4.77,
+        "May": 5.1,
+        "Jun": 5.32,
+        "Jul": 5.45,
+        "Aug": 5.51,
+        "Sep": 5.19,
+        "Oct": 4.05,
+        "Nov": 3.12,
+        "Dec": 2.27
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Kara-Kulja",
+      "admin1_code": "08",
+      "location": [
+        40.63223,
+        73.59249
+      ],
+      "monthly": {
+        "Jan": 2.46,
+        "Feb": 3.07,
+        "Mar": 3.74,
+        "Apr": 4.24,
+        "May": 4.66,
+        "Jun": 4.95,
+        "Jul": 5.09,
+        "Aug": 5.27,
+        "Sep": 5.09,
+        "Oct": 4,
+        "Nov": 3.05,
+        "Dec": 2.27
+      },
+      "average": 3.99
+    }
+  ]
+}

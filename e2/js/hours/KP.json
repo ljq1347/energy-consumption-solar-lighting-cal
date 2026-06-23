@@ -1,0 +1,2237 @@
+{
+  "country": "North Korea",
+  "countryCode": "KP",
+  "cities": [
+    {
+      "name": "Yŏnan-ŭp",
+      "admin1_code": "06",
+      "location": [
+        37.90889,
+        126.16111
+      ],
+      "monthly": {
+        "Jan": 4.02,
+        "Feb": 4.33,
+        "Mar": 4.47,
+        "Apr": 4.39,
+        "May": 4.26,
+        "Jun": 3.99,
+        "Jul": 3.23,
+        "Aug": 3.68,
+        "Sep": 4.05,
+        "Oct": 4.18,
+        "Nov": 3.46,
+        "Dec": 3.57
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Wŏnsan",
+      "admin1_code": "09",
+      "location": [
+        39.15278,
+        127.44361
+      ],
+      "monthly": {
+        "Jan": 4.11,
+        "Feb": 4.34,
+        "Mar": 4.38,
+        "Apr": 4.4,
+        "May": 4.28,
+        "Jun": 3.9,
+        "Jul": 3.34,
+        "Aug": 3.44,
+        "Sep": 3.77,
+        "Oct": 3.83,
+        "Nov": 3.47,
+        "Dec": 3.72
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Ŭnch’ŏn-ŭp",
+      "admin1_code": "06",
+      "location": [
+        38.56556,
+        125.42722
+      ],
+      "monthly": {
+        "Jan": 3.93,
+        "Feb": 4.3,
+        "Mar": 4.65,
+        "Apr": 4.57,
+        "May": 4.35,
+        "Jun": 4.01,
+        "Jul": 3.28,
+        "Aug": 3.64,
+        "Sep": 4.08,
+        "Oct": 4.01,
+        "Nov": 3.2,
+        "Dec": 3.12
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Ŭllyul",
+      "admin1_code": "06",
+      "location": [
+        38.51389,
+        125.18972
+      ],
+      "monthly": {
+        "Jan": 3.68,
+        "Feb": 4.17,
+        "Mar": 4.62,
+        "Apr": 4.58,
+        "May": 4.38,
+        "Jun": 4.01,
+        "Jul": 3.26,
+        "Aug": 3.6,
+        "Sep": 4.05,
+        "Oct": 3.92,
+        "Nov": 3.05,
+        "Dec": 2.92
+      },
+      "average": 3.85
+    },
+    {
+      "name": "T’ongch’ŏn-ŭp",
+      "admin1_code": "09",
+      "location": [
+        38.95389,
+        127.89167
+      ],
+      "monthly": {
+        "Jan": 4,
+        "Feb": 4.26,
+        "Mar": 4.29,
+        "Apr": 4.37,
+        "May": 4.29,
+        "Jun": 3.95,
+        "Jul": 3.38,
+        "Aug": 3.47,
+        "Sep": 3.78,
+        "Oct": 3.79,
+        "Nov": 3.51,
+        "Dec": 3.76
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Tŏkch’ŏn",
+      "admin1_code": "15",
+      "location": [
+        39.75261,
+        126.25798
+      ],
+      "monthly": {
+        "Jan": 4.34,
+        "Feb": 4.45,
+        "Mar": 4.44,
+        "Apr": 4.33,
+        "May": 4.17,
+        "Jun": 3.95,
+        "Jul": 3.27,
+        "Aug": 3.53,
+        "Sep": 4.12,
+        "Oct": 3.95,
+        "Nov": 3.2,
+        "Dec": 3.43
+      },
+      "average": 3.93
+    },
+    {
+      "name": "T’aet’an-ŭp",
+      "admin1_code": "06",
+      "location": [
+        38.08822,
+        125.2983
+      ],
+      "monthly": {
+        "Jan": 3.76,
+        "Feb": 4.27,
+        "Mar": 4.68,
+        "Apr": 4.57,
+        "May": 4.4,
+        "Jun": 4.05,
+        "Jul": 3.23,
+        "Aug": 3.67,
+        "Sep": 4.09,
+        "Oct": 4.1,
+        "Nov": 3.21,
+        "Dec": 3.08
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Sŭngho 1-tong",
+      "admin1_code": "12",
+      "location": [
+        38.99139,
+        125.97778
+      ],
+      "monthly": {
+        "Jan": 4.07,
+        "Feb": 4.3,
+        "Mar": 4.52,
+        "Apr": 4.46,
+        "May": 4.29,
+        "Jun": 4.05,
+        "Jul": 3.36,
+        "Aug": 3.64,
+        "Sep": 4.11,
+        "Oct": 3.99,
+        "Nov": 3.33,
+        "Dec": 3.38
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Sunch’ŏn",
+      "admin1_code": "15",
+      "location": [
+        39.43167,
+        125.93278
+      ],
+      "monthly": {
+        "Jan": 4.17,
+        "Feb": 4.32,
+        "Mar": 4.46,
+        "Apr": 4.41,
+        "May": 4.23,
+        "Jun": 4.06,
+        "Jul": 3.33,
+        "Aug": 3.63,
+        "Sep": 4.2,
+        "Oct": 4,
+        "Nov": 3.28,
+        "Dec": 3.4
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Sunan",
+      "admin1_code": "12",
+      "location": [
+        39.20323,
+        125.69312
+      ],
+      "monthly": {
+        "Jan": 4.25,
+        "Feb": 4.4,
+        "Mar": 4.6,
+        "Apr": 4.51,
+        "May": 4.3,
+        "Jun": 4.06,
+        "Jul": 3.3,
+        "Aug": 3.64,
+        "Sep": 4.2,
+        "Oct": 4.04,
+        "Nov": 3.38,
+        "Dec": 3.43
+      },
+      "average": 4.01
+    },
+    {
+      "name": "Songnim-ni",
+      "admin1_code": "07",
+      "location": [
+        38.76349,
+        125.64096
+      ],
+      "monthly": {
+        "Jan": 4,
+        "Feb": 4.31,
+        "Mar": 4.6,
+        "Apr": 4.51,
+        "May": 4.34,
+        "Jun": 4.04,
+        "Jul": 3.37,
+        "Aug": 3.69,
+        "Sep": 4.09,
+        "Oct": 4.01,
+        "Nov": 3.31,
+        "Dec": 3.31
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Songhwa",
+      "admin1_code": "06",
+      "location": [
+        38.36028,
+        125.13722
+      ],
+      "monthly": {
+        "Jan": 3.78,
+        "Feb": 4.3,
+        "Mar": 4.72,
+        "Apr": 4.69,
+        "May": 4.44,
+        "Jun": 4.08,
+        "Jul": 3.3,
+        "Aug": 3.7,
+        "Sep": 4.14,
+        "Oct": 4.05,
+        "Nov": 3.11,
+        "Dec": 2.86
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Sinwŏn-ŭp",
+      "admin1_code": "06",
+      "location": [
+        38.23532,
+        125.76244
+      ],
+      "monthly": {
+        "Jan": 3.93,
+        "Feb": 4.3,
+        "Mar": 4.59,
+        "Apr": 4.49,
+        "May": 4.32,
+        "Jun": 4.02,
+        "Jul": 3.24,
+        "Aug": 3.62,
+        "Sep": 4.01,
+        "Oct": 4.05,
+        "Nov": 3.27,
+        "Dec": 3.33
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Sil-li",
+      "admin1_code": "15",
+      "location": [
+        39.49472,
+        125.47361
+      ],
+      "monthly": {
+        "Jan": 4.35,
+        "Feb": 4.48,
+        "Mar": 4.59,
+        "Apr": 4.48,
+        "May": 4.24,
+        "Jun": 4.01,
+        "Jul": 3.35,
+        "Aug": 3.73,
+        "Sep": 4.27,
+        "Oct": 4.1,
+        "Nov": 3.41,
+        "Dec": 3.49
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Sinmak",
+      "admin1_code": "07",
+      "location": [
+        38.41667,
+        126.23333
+      ],
+      "monthly": {
+        "Jan": 4.15,
+        "Feb": 4.35,
+        "Mar": 4.49,
+        "Apr": 4.42,
+        "May": 4.27,
+        "Jun": 3.98,
+        "Jul": 3.21,
+        "Aug": 3.58,
+        "Sep": 4.03,
+        "Oct": 4.09,
+        "Nov": 3.38,
+        "Dec": 3.47
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Sinch’ŏn-ŭp",
+      "admin1_code": "06",
+      "location": [
+        38.35323,
+        125.48423
+      ],
+      "monthly": {
+        "Jan": 3.98,
+        "Feb": 4.29,
+        "Mar": 4.65,
+        "Apr": 4.56,
+        "May": 4.37,
+        "Jun": 4.02,
+        "Jul": 3.28,
+        "Aug": 3.65,
+        "Sep": 4.07,
+        "Oct": 4.09,
+        "Nov": 3.25,
+        "Dec": 3.11
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Sinanju",
+      "admin1_code": "15",
+      "location": [
+        39.59806,
+        125.60972
+      ],
+      "monthly": {
+        "Jan": 4.29,
+        "Feb": 4.39,
+        "Mar": 4.51,
+        "Apr": 4.42,
+        "May": 4.19,
+        "Jun": 3.97,
+        "Jul": 3.25,
+        "Aug": 3.6,
+        "Sep": 4.21,
+        "Oct": 4.03,
+        "Nov": 3.33,
+        "Dec": 3.49
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Sariwŏn-si",
+      "admin1_code": "07",
+      "location": [
+        38.50722,
+        125.75583
+      ],
+      "monthly": {
+        "Jan": 3.98,
+        "Feb": 4.27,
+        "Mar": 4.56,
+        "Apr": 4.46,
+        "May": 4.3,
+        "Jun": 4.03,
+        "Jul": 3.32,
+        "Aug": 3.68,
+        "Sep": 4.07,
+        "Oct": 4.05,
+        "Nov": 3.32,
+        "Dec": 3.22
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Samho-rodongjagu",
+      "admin1_code": "03",
+      "location": [
+        39.9475,
+        127.87111
+      ],
+      "monthly": {
+        "Jan": 3.86,
+        "Feb": 4.35,
+        "Mar": 4.53,
+        "Apr": 4.51,
+        "May": 4.26,
+        "Jun": 3.87,
+        "Jul": 3.46,
+        "Aug": 3.66,
+        "Sep": 4.02,
+        "Oct": 3.88,
+        "Nov": 3.52,
+        "Dec": 3.71
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Samch’ŏn",
+      "admin1_code": "06",
+      "location": [
+        38.35944,
+        125.32586
+      ],
+      "monthly": {
+        "Jan": 3.93,
+        "Feb": 4.3,
+        "Mar": 4.68,
+        "Apr": 4.58,
+        "May": 4.36,
+        "Jun": 4,
+        "Jul": 3.21,
+        "Aug": 3.62,
+        "Sep": 4.09,
+        "Oct": 4.06,
+        "Nov": 3.22,
+        "Dec": 3.08
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Pyongyang",
+      "admin1_code": "12",
+      "location": [
+        39.03385,
+        125.75432
+      ],
+      "monthly": {
+        "Jan": 4.07,
+        "Feb": 4.32,
+        "Mar": 4.55,
+        "Apr": 4.47,
+        "May": 4.28,
+        "Jun": 4,
+        "Jul": 3.26,
+        "Aug": 3.6,
+        "Sep": 4.15,
+        "Oct": 4.01,
+        "Nov": 3.34,
+        "Dec": 3.45
+      },
+      "average": 3.96
+    },
+    {
+      "name": "P’yŏngsŏng",
+      "admin1_code": "15",
+      "location": [
+        39.24639,
+        125.87194
+      ],
+      "monthly": {
+        "Jan": 4.14,
+        "Feb": 4.31,
+        "Mar": 4.48,
+        "Apr": 4.4,
+        "May": 4.2,
+        "Jun": 3.95,
+        "Jul": 3.2,
+        "Aug": 3.51,
+        "Sep": 4.11,
+        "Oct": 3.97,
+        "Nov": 3.29,
+        "Dec": 3.37
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Pongch’ŏn-ŭp",
+      "admin1_code": "06",
+      "location": [
+        38.12389,
+        126.20472
+      ],
+      "monthly": {
+        "Jan": 4.06,
+        "Feb": 4.3,
+        "Mar": 4.39,
+        "Apr": 4.3,
+        "May": 4.17,
+        "Jun": 3.86,
+        "Jul": 3.04,
+        "Aug": 3.48,
+        "Sep": 3.95,
+        "Oct": 4.07,
+        "Nov": 3.36,
+        "Dec": 3.5
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Paech’ŏn-ŭp",
+      "admin1_code": "06",
+      "location": [
+        37.99306,
+        126.30139
+      ],
+      "monthly": {
+        "Jan": 4.08,
+        "Feb": 4.31,
+        "Mar": 4.42,
+        "Apr": 4.32,
+        "May": 4.22,
+        "Jun": 3.96,
+        "Jul": 3.17,
+        "Aug": 3.62,
+        "Sep": 4,
+        "Oct": 4.11,
+        "Nov": 3.42,
+        "Dec": 3.54
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Ongjin",
+      "admin1_code": "06",
+      "location": [
+        37.93472,
+        125.36194
+      ],
+      "monthly": {
+        "Jan": 3.87,
+        "Feb": 4.28,
+        "Mar": 4.65,
+        "Apr": 4.56,
+        "May": 4.36,
+        "Jun": 4.02,
+        "Jul": 3.2,
+        "Aug": 3.69,
+        "Sep": 4.1,
+        "Oct": 4.16,
+        "Nov": 3.3,
+        "Dec": 3.24
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Namp’o",
+      "admin1_code": "14",
+      "location": [
+        38.7375,
+        125.40778
+      ],
+      "monthly": {
+        "Jan": 3.87,
+        "Feb": 4.32,
+        "Mar": 4.64,
+        "Apr": 4.56,
+        "May": 4.4,
+        "Jun": 4.11,
+        "Jul": 3.46,
+        "Aug": 3.78,
+        "Sep": 4.16,
+        "Oct": 3.98,
+        "Nov": 3.25,
+        "Dec": 3.18
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Man’gyŏngdae-ri",
+      "admin1_code": "12",
+      "location": [
+        38.99182,
+        125.65871
+      ],
+      "monthly": {
+        "Jan": 4.05,
+        "Feb": 4.34,
+        "Mar": 4.59,
+        "Apr": 4.51,
+        "May": 4.33,
+        "Jun": 4.06,
+        "Jul": 3.36,
+        "Aug": 3.69,
+        "Sep": 4.16,
+        "Oct": 4.01,
+        "Nov": 3.34,
+        "Dec": 3.38
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Kwail-ŭp",
+      "admin1_code": "06",
+      "location": [
+        38.44611,
+        125.01861
+      ],
+      "monthly": {
+        "Jan": 3.62,
+        "Feb": 4.24,
+        "Mar": 4.77,
+        "Apr": 4.74,
+        "May": 4.5,
+        "Jun": 4.14,
+        "Jul": 3.46,
+        "Aug": 3.8,
+        "Sep": 4.19,
+        "Oct": 4,
+        "Nov": 3.01,
+        "Dec": 2.83
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Kusŏng-si",
+      "admin1_code": "11",
+      "location": [
+        39.97969,
+        125.2529
+      ],
+      "monthly": {
+        "Jan": 4.34,
+        "Feb": 4.41,
+        "Mar": 4.5,
+        "Apr": 4.4,
+        "May": 4.14,
+        "Jun": 3.78,
+        "Jul": 3.21,
+        "Aug": 3.58,
+        "Sep": 4.23,
+        "Oct": 4.02,
+        "Nov": 3.31,
+        "Dec": 3.56
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Kujang-ŭp",
+      "admin1_code": "11",
+      "location": [
+        39.86722,
+        126.03028
+      ],
+      "monthly": {
+        "Jan": 4.17,
+        "Feb": 4.28,
+        "Mar": 4.36,
+        "Apr": 4.27,
+        "May": 4.07,
+        "Jun": 3.88,
+        "Jul": 3.19,
+        "Aug": 3.52,
+        "Sep": 4.14,
+        "Oct": 3.95,
+        "Nov": 3.2,
+        "Dec": 3.47
+      },
+      "average": 3.88
+    },
+    {
+      "name": "Kowŏn-ŭp",
+      "admin1_code": "03",
+      "location": [
+        39.43806,
+        127.24306
+      ],
+      "monthly": {
+        "Jan": 4.34,
+        "Feb": 4.43,
+        "Mar": 4.44,
+        "Apr": 4.47,
+        "May": 4.24,
+        "Jun": 3.85,
+        "Jul": 3.34,
+        "Aug": 3.44,
+        "Sep": 3.8,
+        "Oct": 3.87,
+        "Nov": 3.51,
+        "Dec": 3.78
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Kosan",
+      "admin1_code": "09",
+      "location": [
+        38.85583,
+        127.41806
+      ],
+      "monthly": {
+        "Jan": 4.28,
+        "Feb": 4.48,
+        "Mar": 4.39,
+        "Apr": 4.39,
+        "May": 4.29,
+        "Jun": 3.82,
+        "Jul": 3.14,
+        "Aug": 3.26,
+        "Sep": 3.64,
+        "Oct": 3.86,
+        "Nov": 3.54,
+        "Dec": 3.84
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Kangsŏn",
+      "admin1_code": "15",
+      "location": [
+        38.93639,
+        125.58111
+      ],
+      "monthly": {
+        "Jan": 3.97,
+        "Feb": 4.32,
+        "Mar": 4.62,
+        "Apr": 4.52,
+        "May": 4.34,
+        "Jun": 4.04,
+        "Jul": 3.37,
+        "Aug": 3.69,
+        "Sep": 4.14,
+        "Oct": 4,
+        "Nov": 3.32,
+        "Dec": 3.34
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Kangnyŏng",
+      "admin1_code": "06",
+      "location": [
+        37.9075,
+        125.51
+      ],
+      "monthly": {
+        "Jan": 3.93,
+        "Feb": 4.34,
+        "Mar": 4.61,
+        "Apr": 4.52,
+        "May": 4.34,
+        "Jun": 4.03,
+        "Jul": 3.24,
+        "Aug": 3.72,
+        "Sep": 4.09,
+        "Oct": 4.16,
+        "Nov": 3.35,
+        "Dec": 3.33
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Kangdong-ŭp",
+      "admin1_code": "12",
+      "location": [
+        39.1425,
+        126.09611
+      ],
+      "monthly": {
+        "Jan": 4.03,
+        "Feb": 4.22,
+        "Mar": 4.43,
+        "Apr": 4.39,
+        "May": 4.23,
+        "Jun": 4.01,
+        "Jul": 3.26,
+        "Aug": 3.53,
+        "Sep": 4.1,
+        "Oct": 3.97,
+        "Nov": 3.26,
+        "Dec": 3.33
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Kaesŏng",
+      "admin1_code": "19",
+      "location": [
+        37.97083,
+        126.55444
+      ],
+      "monthly": {
+        "Jan": 4.06,
+        "Feb": 4.34,
+        "Mar": 4.42,
+        "Apr": 4.34,
+        "May": 4.25,
+        "Jun": 3.97,
+        "Jul": 3.2,
+        "Aug": 3.61,
+        "Sep": 4,
+        "Oct": 4.1,
+        "Nov": 3.46,
+        "Dec": 3.56
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Kaech’ŏn",
+      "admin1_code": "15",
+      "location": [
+        39.70056,
+        125.89333
+      ],
+      "monthly": {
+        "Jan": 4.19,
+        "Feb": 4.3,
+        "Mar": 4.43,
+        "Apr": 4.34,
+        "May": 4.16,
+        "Jun": 3.97,
+        "Jul": 3.29,
+        "Aug": 3.62,
+        "Sep": 4.2,
+        "Oct": 4,
+        "Nov": 3.25,
+        "Dec": 3.43
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Hwangju-ŭp",
+      "admin1_code": "07",
+      "location": [
+        38.67028,
+        125.77611
+      ],
+      "monthly": {
+        "Jan": 3.98,
+        "Feb": 4.27,
+        "Mar": 4.55,
+        "Apr": 4.48,
+        "May": 4.31,
+        "Jun": 4.03,
+        "Jul": 3.33,
+        "Aug": 3.64,
+        "Sep": 4.06,
+        "Oct": 4,
+        "Nov": 3.29,
+        "Dec": 3.29
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Hŭngnam",
+      "admin1_code": "03",
+      "location": [
+        39.84198,
+        127.63206
+      ],
+      "monthly": {
+        "Jan": 4.21,
+        "Feb": 4.58,
+        "Mar": 4.62,
+        "Apr": 4.59,
+        "May": 4.35,
+        "Jun": 4.01,
+        "Jul": 3.6,
+        "Aug": 3.72,
+        "Sep": 4.08,
+        "Oct": 3.97,
+        "Nov": 3.62,
+        "Dec": 3.88
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Hŭkkyo-ri",
+      "admin1_code": "07",
+      "location": [
+        38.79861,
+        125.79194
+      ],
+      "monthly": {
+        "Jan": 4.1,
+        "Feb": 4.34,
+        "Mar": 4.59,
+        "Apr": 4.51,
+        "May": 4.33,
+        "Jun": 4.05,
+        "Jul": 3.34,
+        "Aug": 3.67,
+        "Sep": 4.09,
+        "Oct": 4.04,
+        "Nov": 3.36,
+        "Dec": 3.4
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Hoeyang",
+      "admin1_code": "09",
+      "location": [
+        38.71028,
+        127.59833
+      ],
+      "monthly": {
+        "Jan": 4.32,
+        "Feb": 4.57,
+        "Mar": 4.39,
+        "Apr": 4.44,
+        "May": 4.38,
+        "Jun": 4.03,
+        "Jul": 3.29,
+        "Aug": 3.46,
+        "Sep": 3.73,
+        "Oct": 3.86,
+        "Nov": 3.46,
+        "Dec": 3.65
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Hamhŭng",
+      "admin1_code": "03",
+      "location": [
+        39.91833,
+        127.53639
+      ],
+      "monthly": {
+        "Jan": 4.34,
+        "Feb": 4.64,
+        "Mar": 4.61,
+        "Apr": 4.55,
+        "May": 4.3,
+        "Jun": 3.94,
+        "Jul": 3.52,
+        "Aug": 3.67,
+        "Sep": 4.05,
+        "Oct": 4.01,
+        "Nov": 3.69,
+        "Dec": 3.97
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Haeju",
+      "admin1_code": "06",
+      "location": [
+        38.04056,
+        125.71472
+      ],
+      "monthly": {
+        "Jan": 3.94,
+        "Feb": 4.3,
+        "Mar": 4.48,
+        "Apr": 4.39,
+        "May": 4.24,
+        "Jun": 3.93,
+        "Jul": 3.14,
+        "Aug": 3.62,
+        "Sep": 4.05,
+        "Oct": 4.14,
+        "Nov": 3.35,
+        "Dec": 3.49
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Chunghwa",
+      "admin1_code": "12",
+      "location": [
+        38.86389,
+        125.8
+      ],
+      "monthly": {
+        "Jan": 4.07,
+        "Feb": 4.34,
+        "Mar": 4.57,
+        "Apr": 4.51,
+        "May": 4.32,
+        "Jun": 4.04,
+        "Jul": 3.34,
+        "Aug": 3.65,
+        "Sep": 4.12,
+        "Oct": 4.04,
+        "Nov": 3.36,
+        "Dec": 3.41
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Chŏngju",
+      "admin1_code": "11",
+      "location": [
+        39.69333,
+        125.21028
+      ],
+      "monthly": {
+        "Jan": 4.29,
+        "Feb": 4.37,
+        "Mar": 4.55,
+        "Apr": 4.47,
+        "May": 4.21,
+        "Jun": 3.9,
+        "Jul": 3.28,
+        "Aug": 3.65,
+        "Sep": 4.26,
+        "Oct": 4.04,
+        "Nov": 3.35,
+        "Dec": 3.54
+      },
+      "average": 3.99
+    },
+    {
+      "name": "Ch’ŏngdan-ŭp",
+      "admin1_code": "06",
+      "location": [
+        37.97028,
+        125.9375
+      ],
+      "monthly": {
+        "Jan": 4.06,
+        "Feb": 4.41,
+        "Mar": 4.51,
+        "Apr": 4.41,
+        "May": 4.25,
+        "Jun": 3.96,
+        "Jul": 3.2,
+        "Aug": 3.69,
+        "Sep": 4.09,
+        "Oct": 4.19,
+        "Nov": 3.44,
+        "Dec": 3.55
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Changyŏn",
+      "admin1_code": "06",
+      "location": [
+        38.25083,
+        125.09611
+      ],
+      "monthly": {
+        "Jan": 3.68,
+        "Feb": 4.21,
+        "Mar": 4.69,
+        "Apr": 4.64,
+        "May": 4.41,
+        "Jun": 4.07,
+        "Jul": 3.25,
+        "Aug": 3.65,
+        "Sep": 4.08,
+        "Oct": 4.02,
+        "Nov": 3.09,
+        "Dec": 2.76
+      },
+      "average": 3.88
+    },
+    {
+      "name": "Chaeryŏng-ŭp",
+      "admin1_code": "06",
+      "location": [
+        38.39917,
+        125.61556
+      ],
+      "monthly": {
+        "Jan": 4.03,
+        "Feb": 4.34,
+        "Mar": 4.66,
+        "Apr": 4.56,
+        "May": 4.38,
+        "Jun": 4.07,
+        "Jul": 3.37,
+        "Aug": 3.7,
+        "Sep": 4.08,
+        "Oct": 4.1,
+        "Nov": 3.33,
+        "Dec": 3.21
+      },
+      "average": 3.99
+    },
+    {
+      "name": "Chaeryŏng-ni",
+      "admin1_code": "15",
+      "location": [
+        38.73583,
+        125.23083
+      ],
+      "monthly": {
+        "Jan": 3.86,
+        "Feb": 4.34,
+        "Mar": 4.72,
+        "Apr": 4.63,
+        "May": 4.43,
+        "Jun": 4.12,
+        "Jul": 3.49,
+        "Aug": 3.83,
+        "Sep": 4.22,
+        "Oct": 4.01,
+        "Nov": 3.22,
+        "Dec": 3.16
+      },
+      "average": 4
+    },
+    {
+      "name": "Ayang-ni",
+      "admin1_code": "06",
+      "location": [
+        38.24719,
+        125.79476
+      ],
+      "monthly": {
+        "Jan": 3.95,
+        "Feb": 4.3,
+        "Mar": 4.6,
+        "Apr": 4.5,
+        "May": 4.34,
+        "Jun": 4.03,
+        "Jul": 3.26,
+        "Aug": 3.63,
+        "Sep": 4.02,
+        "Oct": 4.07,
+        "Nov": 3.29,
+        "Dec": 3.35
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Anju",
+      "admin1_code": "15",
+      "location": [
+        39.61778,
+        125.66472
+      ],
+      "monthly": {
+        "Jan": 4.25,
+        "Feb": 4.37,
+        "Mar": 4.49,
+        "Apr": 4.4,
+        "May": 4.18,
+        "Jun": 3.95,
+        "Jul": 3.22,
+        "Aug": 3.57,
+        "Sep": 4.19,
+        "Oct": 4,
+        "Nov": 3.29,
+        "Dec": 3.51
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Anbyŏn-ŭp",
+      "admin1_code": "09",
+      "location": [
+        39.0425,
+        127.52389
+      ],
+      "monthly": {
+        "Jan": 4.2,
+        "Feb": 4.44,
+        "Mar": 4.34,
+        "Apr": 4.36,
+        "May": 4.27,
+        "Jun": 3.85,
+        "Jul": 3.25,
+        "Aug": 3.33,
+        "Sep": 3.67,
+        "Oct": 3.81,
+        "Nov": 3.5,
+        "Dec": 3.79
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Anak",
+      "admin1_code": "07",
+      "location": [
+        38.51083,
+        125.49417
+      ],
+      "monthly": {
+        "Jan": 4.01,
+        "Feb": 4.35,
+        "Mar": 4.7,
+        "Apr": 4.6,
+        "May": 4.39,
+        "Jun": 4.08,
+        "Jul": 3.38,
+        "Aug": 3.72,
+        "Sep": 4.13,
+        "Oct": 4.07,
+        "Nov": 3.29,
+        "Dec": 3.15
+      },
+      "average": 3.99
+    },
+    {
+      "name": "Ch’ŏsal-li",
+      "admin1_code": "15",
+      "location": [
+        39.40333,
+        125.50889
+      ],
+      "monthly": {
+        "Jan": 4.34,
+        "Feb": 4.51,
+        "Mar": 4.63,
+        "Apr": 4.5,
+        "May": 4.25,
+        "Jun": 4.02,
+        "Jul": 3.34,
+        "Aug": 3.71,
+        "Sep": 4.25,
+        "Oct": 4.09,
+        "Nov": 3.42,
+        "Dec": 3.52
+      },
+      "average": 4.05
+    },
+    {
+      "name": "Paek'ak",
+      "admin1_code": "15",
+      "location": [
+        39.46275,
+        125.60594
+      ],
+      "monthly": {
+        "Jan": 4.32,
+        "Feb": 4.45,
+        "Mar": 4.59,
+        "Apr": 4.49,
+        "May": 4.24,
+        "Jun": 4.02,
+        "Jul": 3.29,
+        "Aug": 3.64,
+        "Sep": 4.22,
+        "Oct": 4.07,
+        "Nov": 3.41,
+        "Dec": 3.53
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Yuktae-dong",
+      "admin1_code": "03",
+      "location": [
+        40.02472,
+        128.15972
+      ],
+      "monthly": {
+        "Jan": 3.93,
+        "Feb": 4.41,
+        "Mar": 4.59,
+        "Apr": 4.59,
+        "May": 4.32,
+        "Jun": 3.97,
+        "Jul": 3.61,
+        "Aug": 3.72,
+        "Sep": 4.1,
+        "Oct": 3.93,
+        "Nov": 3.51,
+        "Dec": 3.72
+      },
+      "average": 4.03
+    },
+    {
+      "name": "Yŏnsa-ŭp",
+      "admin1_code": "17",
+      "location": [
+        41.90806,
+        129.01111
+      ],
+      "monthly": {
+        "Jan": 4.29,
+        "Feb": 4.62,
+        "Mar": 4.46,
+        "Apr": 4.21,
+        "May": 3.94,
+        "Jun": 3.82,
+        "Jul": 3.85,
+        "Aug": 3.81,
+        "Sep": 4.28,
+        "Oct": 4.23,
+        "Nov": 3.53,
+        "Dec": 3.74
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Ŭndŏk",
+      "admin1_code": "17",
+      "location": [
+        42.51878,
+        130.33479
+      ],
+      "monthly": {
+        "Jan": 4.45,
+        "Feb": 4.81,
+        "Mar": 4.49,
+        "Apr": 4.39,
+        "May": 3.92,
+        "Jun": 3.55,
+        "Jul": 3.34,
+        "Aug": 3.41,
+        "Sep": 4.14,
+        "Oct": 4.21,
+        "Nov": 3.5,
+        "Dec": 3.82
+      },
+      "average": 4
+    },
+    {
+      "name": "Uiju",
+      "admin1_code": "11",
+      "location": [
+        40.19944,
+        124.53167
+      ],
+      "monthly": {
+        "Jan": 4.32,
+        "Feb": 4.33,
+        "Mar": 4.47,
+        "Apr": 4.38,
+        "May": 4.14,
+        "Jun": 3.7,
+        "Jul": 3.25,
+        "Aug": 3.61,
+        "Sep": 4.2,
+        "Oct": 3.9,
+        "Nov": 3.33,
+        "Dec": 3.52
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Songwŏn",
+      "admin1_code": "01",
+      "location": [
+        40.37704,
+        125.87867
+      ],
+      "monthly": {
+        "Jan": 4.14,
+        "Feb": 4.34,
+        "Mar": 4.38,
+        "Apr": 4.29,
+        "May": 4.07,
+        "Jun": 3.79,
+        "Jul": 3.29,
+        "Aug": 3.54,
+        "Sep": 4.12,
+        "Oct": 3.87,
+        "Nov": 3.1,
+        "Dec": 3.48
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Sŏnbong",
+      "admin1_code": "18",
+      "location": [
+        42.35118,
+        130.38307
+      ],
+      "monthly": {
+        "Jan": 4.19,
+        "Feb": 4.58,
+        "Mar": 4.42,
+        "Apr": 4.36,
+        "May": 3.92,
+        "Jun": 3.48,
+        "Jul": 3.24,
+        "Aug": 3.42,
+        "Sep": 4.13,
+        "Oct": 4.14,
+        "Nov": 3.45,
+        "Dec": 3.64
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Sinŭiju",
+      "admin1_code": "11",
+      "location": [
+        40.10056,
+        124.39806
+      ],
+      "monthly": {
+        "Jan": 4.21,
+        "Feb": 4.3,
+        "Mar": 4.46,
+        "Apr": 4.37,
+        "May": 4.15,
+        "Jun": 3.71,
+        "Jul": 3.26,
+        "Aug": 3.65,
+        "Sep": 4.22,
+        "Oct": 3.94,
+        "Nov": 3.35,
+        "Dec": 3.53
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Sinp’o",
+      "admin1_code": "03",
+      "location": [
+        40.03971,
+        128.1943
+      ],
+      "monthly": {
+        "Jan": 4.01,
+        "Feb": 4.46,
+        "Mar": 4.64,
+        "Apr": 4.67,
+        "May": 4.38,
+        "Jun": 3.99,
+        "Jul": 3.63,
+        "Aug": 3.75,
+        "Sep": 4.15,
+        "Oct": 3.99,
+        "Nov": 3.58,
+        "Dec": 3.8
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Sijung",
+      "admin1_code": "01",
+      "location": [
+        41.07889,
+        126.375
+      ],
+      "monthly": {
+        "Jan": 4.42,
+        "Feb": 4.69,
+        "Mar": 4.47,
+        "Apr": 4.23,
+        "May": 4.11,
+        "Jun": 3.88,
+        "Jul": 3.59,
+        "Aug": 3.72,
+        "Sep": 4.16,
+        "Oct": 3.94,
+        "Nov": 3.02,
+        "Dec": 3.46
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Samjiyŏn-ŭp",
+      "admin1_code": "13",
+      "location": [
+        41.80356,
+        128.31886
+      ],
+      "monthly": {
+        "Jan": 4.66,
+        "Feb": 4.82,
+        "Mar": 4.67,
+        "Apr": 4.44,
+        "May": 4.03,
+        "Jun": 3.64,
+        "Jul": 3.63,
+        "Aug": 3.64,
+        "Sep": 4.26,
+        "Oct": 4.37,
+        "Nov": 3.59,
+        "Dec": 4.08
+      },
+      "average": 4.15
+    },
+    {
+      "name": "Sakchu-ŭp",
+      "admin1_code": "11",
+      "location": [
+        40.38944,
+        125.04667
+      ],
+      "monthly": {
+        "Jan": 4.26,
+        "Feb": 4.37,
+        "Mar": 4.51,
+        "Apr": 4.39,
+        "May": 4.14,
+        "Jun": 3.72,
+        "Jul": 3.24,
+        "Aug": 3.53,
+        "Sep": 4.14,
+        "Oct": 3.91,
+        "Nov": 3.2,
+        "Dec": 3.47
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Puryŏng-ŭp",
+      "admin1_code": "17",
+      "location": [
+        42.06224,
+        129.70457
+      ],
+      "monthly": {
+        "Jan": 4.24,
+        "Feb": 4.61,
+        "Mar": 4.49,
+        "Apr": 4.36,
+        "May": 3.92,
+        "Jun": 3.47,
+        "Jul": 3.19,
+        "Aug": 3.23,
+        "Sep": 3.99,
+        "Oct": 4.18,
+        "Nov": 3.53,
+        "Dec": 3.74
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Yŏnggwang-ŭp",
+      "admin1_code": "03",
+      "location": [
+        40.01833,
+        127.45472
+      ],
+      "monthly": {
+        "Jan": 4.5,
+        "Feb": 4.69,
+        "Mar": 4.62,
+        "Apr": 4.51,
+        "May": 4.22,
+        "Jun": 3.84,
+        "Jul": 3.44,
+        "Aug": 3.62,
+        "Sep": 4.07,
+        "Oct": 4.04,
+        "Nov": 3.74,
+        "Dec": 4.08
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Ŏrang",
+      "admin1_code": "17",
+      "location": [
+        41.44778,
+        129.65556
+      ],
+      "monthly": {
+        "Jan": 3.62,
+        "Feb": 4.52,
+        "Mar": 4.52,
+        "Apr": 4.43,
+        "May": 4.02,
+        "Jun": 3.59,
+        "Jul": 3.41,
+        "Aug": 3.6,
+        "Sep": 4.19,
+        "Oct": 4.18,
+        "Nov": 3.41,
+        "Dec": 3.14
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Onsŏng",
+      "admin1_code": "17",
+      "location": [
+        42.95722,
+        129.99333
+      ],
+      "monthly": {
+        "Jan": 4.54,
+        "Feb": 4.79,
+        "Mar": 4.5,
+        "Apr": 4.36,
+        "May": 4,
+        "Jun": 3.71,
+        "Jul": 3.49,
+        "Aug": 3.53,
+        "Sep": 4.16,
+        "Oct": 4.12,
+        "Nov": 3.31,
+        "Dec": 3.79
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Ranam",
+      "admin1_code": "17",
+      "location": [
+        41.71361,
+        129.68444
+      ],
+      "monthly": {
+        "Jan": 3.9,
+        "Feb": 4.56,
+        "Mar": 4.55,
+        "Apr": 4.46,
+        "May": 3.97,
+        "Jun": 3.5,
+        "Jul": 3.28,
+        "Aug": 3.48,
+        "Sep": 4.14,
+        "Oct": 4.2,
+        "Nov": 3.42,
+        "Dec": 3.33
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Namyang-nodongjagu",
+      "admin1_code": "17",
+      "location": [
+        42.95389,
+        129.85722
+      ],
+      "monthly": {
+        "Jan": 4.31,
+        "Feb": 4.54,
+        "Mar": 4.35,
+        "Apr": 4.27,
+        "May": 3.96,
+        "Jun": 3.67,
+        "Jul": 3.46,
+        "Aug": 3.46,
+        "Sep": 4.07,
+        "Oct": 4.02,
+        "Nov": 3.22,
+        "Dec": 3.7
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Namyang",
+      "admin1_code": "17",
+      "location": [
+        42.95044,
+        129.85571
+      ],
+      "monthly": {
+        "Jan": 4.31,
+        "Feb": 4.54,
+        "Mar": 4.35,
+        "Apr": 4.27,
+        "May": 3.96,
+        "Jun": 3.67,
+        "Jul": 3.46,
+        "Aug": 3.46,
+        "Sep": 4.07,
+        "Oct": 4.02,
+        "Nov": 3.22,
+        "Dec": 3.7
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Rajin",
+      "admin1_code": "18",
+      "location": [
+        42.25559,
+        130.28308
+      ],
+      "monthly": {
+        "Jan": 4.11,
+        "Feb": 4.54,
+        "Mar": 4.43,
+        "Apr": 4.38,
+        "May": 3.91,
+        "Jun": 3.42,
+        "Jul": 3.21,
+        "Aug": 3.42,
+        "Sep": 4.11,
+        "Oct": 4.14,
+        "Nov": 3.42,
+        "Dec": 3.55
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Songwŏn-ŭp",
+      "admin1_code": "01",
+      "location": [
+        40.37278,
+        126.30833
+      ],
+      "monthly": {
+        "Jan": 3.98,
+        "Feb": 4.31,
+        "Mar": 4.35,
+        "Apr": 4.22,
+        "May": 3.99,
+        "Jun": 3.76,
+        "Jul": 3.25,
+        "Aug": 3.51,
+        "Sep": 4.22,
+        "Oct": 3.96,
+        "Nov": 3.05,
+        "Dec": 3.25
+      },
+      "average": 3.82
+    },
+    {
+      "name": "Hwasŏng",
+      "admin1_code": "17",
+      "location": [
+        41.25556,
+        129.49278
+      ],
+      "monthly": {
+        "Jan": 4.2,
+        "Feb": 4.65,
+        "Mar": 4.55,
+        "Apr": 4.51,
+        "May": 4.12,
+        "Jun": 3.7,
+        "Jul": 3.4,
+        "Aug": 3.52,
+        "Sep": 4.15,
+        "Oct": 4.21,
+        "Nov": 3.6,
+        "Dec": 3.44
+      },
+      "average": 4
+    },
+    {
+      "name": "Myŏngch’ŏn",
+      "admin1_code": "17",
+      "location": [
+        41.07056,
+        129.42917
+      ],
+      "monthly": {
+        "Jan": 4.17,
+        "Feb": 4.7,
+        "Mar": 4.59,
+        "Apr": 4.61,
+        "May": 4.26,
+        "Jun": 3.81,
+        "Jul": 3.47,
+        "Aug": 3.54,
+        "Sep": 4.16,
+        "Oct": 4.22,
+        "Nov": 3.65,
+        "Dec": 3.67
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Musan-ŭp",
+      "admin1_code": "17",
+      "location": [
+        42.22609,
+        129.20776
+      ],
+      "monthly": {
+        "Jan": 4.2,
+        "Feb": 4.5,
+        "Mar": 4.35,
+        "Apr": 4.21,
+        "May": 3.98,
+        "Jun": 3.92,
+        "Jul": 3.85,
+        "Aug": 3.78,
+        "Sep": 4.21,
+        "Oct": 4.14,
+        "Nov": 3.4,
+        "Dec": 3.65
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Manp’o",
+      "admin1_code": "01",
+      "location": [
+        41.15472,
+        126.28944
+      ],
+      "monthly": {
+        "Jan": 4.33,
+        "Feb": 4.43,
+        "Mar": 4.34,
+        "Apr": 4.19,
+        "May": 4.07,
+        "Jun": 3.82,
+        "Jul": 3.54,
+        "Aug": 3.66,
+        "Sep": 4.09,
+        "Oct": 3.87,
+        "Nov": 2.97,
+        "Dec": 3.34
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Kyŏngsŏng",
+      "admin1_code": "17",
+      "location": [
+        41.58778,
+        129.60611
+      ],
+      "monthly": {
+        "Jan": 3.96,
+        "Feb": 4.71,
+        "Mar": 4.58,
+        "Apr": 4.47,
+        "May": 3.99,
+        "Jun": 3.54,
+        "Jul": 3.29,
+        "Aug": 3.48,
+        "Sep": 4.17,
+        "Oct": 4.23,
+        "Nov": 3.47,
+        "Dec": 3.32
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Kop’ung",
+      "admin1_code": "01",
+      "location": [
+        40.60389,
+        125.94667
+      ],
+      "monthly": {
+        "Jan": 4,
+        "Feb": 4.37,
+        "Mar": 4.43,
+        "Apr": 4.27,
+        "May": 4.1,
+        "Jun": 3.76,
+        "Jul": 3.36,
+        "Aug": 3.59,
+        "Sep": 4.16,
+        "Oct": 3.92,
+        "Nov": 2.93,
+        "Dec": 3.23
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Kilju",
+      "admin1_code": "17",
+      "location": [
+        40.96417,
+        129.32778
+      ],
+      "monthly": {
+        "Jan": 4.2,
+        "Feb": 4.62,
+        "Mar": 4.59,
+        "Apr": 4.66,
+        "May": 4.3,
+        "Jun": 3.77,
+        "Jul": 3.47,
+        "Aug": 3.58,
+        "Sep": 4.18,
+        "Oct": 4.24,
+        "Nov": 3.72,
+        "Dec": 3.8
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Kapsan-ŭp",
+      "admin1_code": "13",
+      "location": [
+        41.09028,
+        128.29333
+      ],
+      "monthly": {
+        "Jan": 4.77,
+        "Feb": 5.2,
+        "Mar": 4.88,
+        "Apr": 4.52,
+        "May": 4.22,
+        "Jun": 4.01,
+        "Jul": 3.87,
+        "Aug": 3.9,
+        "Sep": 4.33,
+        "Oct": 4.31,
+        "Nov": 3.73,
+        "Dec": 4.11
+      },
+      "average": 4.32
+    },
+    {
+      "name": "Kanggye",
+      "admin1_code": "01",
+      "location": [
+        40.96946,
+        126.58523
+      ],
+      "monthly": {
+        "Jan": 4.45,
+        "Feb": 4.56,
+        "Mar": 4.39,
+        "Apr": 4.21,
+        "May": 4.09,
+        "Jun": 3.88,
+        "Jul": 3.63,
+        "Aug": 3.73,
+        "Sep": 4.17,
+        "Oct": 3.97,
+        "Nov": 3.12,
+        "Dec": 3.58
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Iwŏn-ŭp",
+      "admin1_code": "03",
+      "location": [
+        40.32306,
+        128.65528
+      ],
+      "monthly": {
+        "Jan": 3.83,
+        "Feb": 4.26,
+        "Mar": 4.45,
+        "Apr": 4.47,
+        "May": 4.2,
+        "Jun": 3.83,
+        "Jul": 3.52,
+        "Aug": 3.72,
+        "Sep": 4.09,
+        "Oct": 3.93,
+        "Nov": 3.44,
+        "Dec": 3.65
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Hyesan-dong",
+      "admin1_code": "13",
+      "location": [
+        41.3953,
+        128.18727
+      ],
+      "monthly": {
+        "Jan": 4.71,
+        "Feb": 5.21,
+        "Mar": 4.94,
+        "Apr": 4.39,
+        "May": 4.22,
+        "Jun": 4.01,
+        "Jul": 3.9,
+        "Aug": 3.84,
+        "Sep": 4.25,
+        "Oct": 4.25,
+        "Nov": 3.35,
+        "Dec": 3.86
+      },
+      "average": 4.24
+    },
+    {
+      "name": "Hyesan",
+      "admin1_code": "13",
+      "location": [
+        41.40167,
+        128.17778
+      ],
+      "monthly": {
+        "Jan": 4.86,
+        "Feb": 5.19,
+        "Mar": 4.89,
+        "Apr": 4.4,
+        "May": 4.24,
+        "Jun": 4.03,
+        "Jul": 3.92,
+        "Aug": 3.86,
+        "Sep": 4.27,
+        "Oct": 4.29,
+        "Nov": 3.41,
+        "Dec": 3.95
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Hwadae",
+      "admin1_code": "17",
+      "location": [
+        40.83806,
+        129.49694
+      ],
+      "monthly": {
+        "Jan": 3.77,
+        "Feb": 4.39,
+        "Mar": 4.61,
+        "Apr": 4.72,
+        "May": 4.32,
+        "Jun": 3.87,
+        "Jul": 3.61,
+        "Aug": 3.77,
+        "Sep": 4.25,
+        "Oct": 4.19,
+        "Nov": 3.49,
+        "Dec": 3.45
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Hongwŏn",
+      "admin1_code": "03",
+      "location": [
+        40.02528,
+        127.95583
+      ],
+      "monthly": {
+        "Jan": 4.06,
+        "Feb": 4.52,
+        "Mar": 4.61,
+        "Apr": 4.55,
+        "May": 4.29,
+        "Jun": 3.92,
+        "Jul": 3.55,
+        "Aug": 3.72,
+        "Sep": 4.12,
+        "Oct": 3.99,
+        "Nov": 3.63,
+        "Dec": 3.83
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Hoeryŏng",
+      "admin1_code": "17",
+      "location": [
+        42.44113,
+        129.74601
+      ],
+      "monthly": {
+        "Jan": 4.54,
+        "Feb": 4.75,
+        "Mar": 4.51,
+        "Apr": 4.39,
+        "May": 4.09,
+        "Jun": 3.88,
+        "Jul": 3.67,
+        "Aug": 3.62,
+        "Sep": 4.25,
+        "Oct": 4.28,
+        "Nov": 3.61,
+        "Dec": 3.95
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Chunggang",
+      "admin1_code": "01",
+      "location": [
+        41.77722,
+        126.87361
+      ],
+      "monthly": {
+        "Jan": 4.3,
+        "Feb": 4.51,
+        "Mar": 4.37,
+        "Apr": 4.09,
+        "May": 4,
+        "Jun": 3.74,
+        "Jul": 3.62,
+        "Aug": 3.59,
+        "Sep": 3.95,
+        "Oct": 3.89,
+        "Nov": 2.93,
+        "Dec": 3.46
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Chongjin",
+      "admin1_code": "17",
+      "location": [
+        41.79556,
+        129.77583
+      ],
+      "monthly": {
+        "Jan": 3.92,
+        "Feb": 4.49,
+        "Mar": 4.54,
+        "Apr": 4.48,
+        "May": 4.04,
+        "Jun": 3.61,
+        "Jul": 3.43,
+        "Aug": 3.59,
+        "Sep": 4.22,
+        "Oct": 4.23,
+        "Nov": 3.42,
+        "Dec": 3.42
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Changam-ch’on",
+      "admin1_code": "03",
+      "location": [
+        40.60611,
+        128.78194
+      ],
+      "monthly": {
+        "Jan": 4.02,
+        "Feb": 4.47,
+        "Mar": 4.55,
+        "Apr": 4.54,
+        "May": 4.18,
+        "Jun": 3.75,
+        "Jul": 3.39,
+        "Aug": 3.49,
+        "Sep": 4.01,
+        "Oct": 4,
+        "Nov": 3.51,
+        "Dec": 3.66
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Aoji-ri",
+      "admin1_code": "17",
+      "location": [
+        42.52182,
+        130.39572
+      ],
+      "monthly": {
+        "Jan": 4.43,
+        "Feb": 4.79,
+        "Mar": 4.45,
+        "Apr": 4.35,
+        "May": 3.9,
+        "Jun": 3.51,
+        "Jul": 3.33,
+        "Aug": 3.41,
+        "Sep": 4.14,
+        "Oct": 4.2,
+        "Nov": 3.46,
+        "Dec": 3.76
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Myŏnggan-dong",
+      "admin1_code": "17",
+      "location": [
+        41.13722,
+        129.49472
+      ],
+      "monthly": {
+        "Jan": 3.89,
+        "Feb": 4.53,
+        "Mar": 4.53,
+        "Apr": 4.51,
+        "May": 4.16,
+        "Jun": 3.66,
+        "Jul": 3.3,
+        "Aug": 3.35,
+        "Sep": 4.02,
+        "Oct": 4.12,
+        "Nov": 3.46,
+        "Dec": 3.37
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Yŏch’im-dong",
+      "admin1_code": "01",
+      "location": [
+        40.36174,
+        126.65852
+      ],
+      "monthly": {
+        "Jan": 4.11,
+        "Feb": 4.37,
+        "Mar": 4.28,
+        "Apr": 4.2,
+        "May": 4.07,
+        "Jun": 3.86,
+        "Jul": 3.38,
+        "Aug": 3.63,
+        "Sep": 4.22,
+        "Oct": 3.92,
+        "Nov": 3.1,
+        "Dec": 3.41
+      },
+      "average": 3.88
+    },
+    {
+      "name": "Unggi",
+      "admin1_code": "18",
+      "location": [
+        42.34166,
+        130.41081
+      ],
+      "monthly": {
+        "Jan": 3.96,
+        "Feb": 4.38,
+        "Mar": 4.35,
+        "Apr": 4.29,
+        "May": 3.86,
+        "Jun": 3.4,
+        "Jul": 3.21,
+        "Aug": 3.4,
+        "Sep": 4.08,
+        "Oct": 4.07,
+        "Nov": 3.32,
+        "Dec": 3.45
+      },
+      "average": 3.81
+    }
+  ]
+}

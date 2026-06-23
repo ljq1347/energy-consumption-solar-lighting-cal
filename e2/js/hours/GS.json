@@ -1,0 +1,29 @@
+{
+  "country": "GS",
+  "countryCode": "GS",
+  "cities": [
+    {
+      "name": "Grytviken",
+      "admin1_code": "00",
+      "location": [
+        -54.28111,
+        -36.5092
+      ],
+      "monthly": {
+        "Jan": 4.61,
+        "Feb": 3.89,
+        "Mar": 2.77,
+        "Apr": 1.67,
+        "May": 0.9,
+        "Jun": 0.2,
+        "Jul": 0.71,
+        "Aug": 1.84,
+        "Sep": 2.99,
+        "Oct": 4.44,
+        "Nov": 5,
+        "Dec": 4.83
+      },
+      "average": 2.82
+    }
+  ]
+}

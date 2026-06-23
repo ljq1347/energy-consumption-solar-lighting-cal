@@ -1,0 +1,75 @@
+{
+  "country": "NC",
+  "countryCode": "NC",
+  "cities": [
+    {
+      "name": "Nouméa",
+      "admin1_code": "02",
+      "location": [
+        -22.27407,
+        166.44884
+      ],
+      "monthly": {
+        "Jan": 4.71,
+        "Feb": 4.47,
+        "Mar": 4.43,
+        "Apr": 4,
+        "May": 3.69,
+        "Jun": 3.4,
+        "Jul": 3.62,
+        "Aug": 4.15,
+        "Sep": 4.83,
+        "Oct": 5.03,
+        "Nov": 5.12,
+        "Dec": 4.79
+      },
+      "average": 4.35
+    },
+    {
+      "name": "Mont-Dore",
+      "admin1_code": "02",
+      "location": [
+        -22.26257,
+        166.56621
+      ],
+      "monthly": {
+        "Jan": 4.24,
+        "Feb": 3.97,
+        "Mar": 3.85,
+        "Apr": 3.5,
+        "May": 3.29,
+        "Jun": 3.06,
+        "Jul": 3.24,
+        "Aug": 3.74,
+        "Sep": 4.38,
+        "Oct": 4.54,
+        "Nov": 4.72,
+        "Dec": 4.38
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Dumbéa",
+      "admin1_code": "02",
+      "location": [
+        -22.15757,
+        166.4572
+      ],
+      "monthly": {
+        "Jan": 4.18,
+        "Feb": 3.91,
+        "Mar": 3.91,
+        "Apr": 3.57,
+        "May": 3.34,
+        "Jun": 3.13,
+        "Jul": 3.33,
+        "Aug": 3.82,
+        "Sep": 4.42,
+        "Oct": 4.57,
+        "Nov": 4.63,
+        "Dec": 4.33
+      },
+      "average": 3.93
+    }
+  ]
+}

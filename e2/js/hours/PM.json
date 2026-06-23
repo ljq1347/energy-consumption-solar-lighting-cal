@@ -1,0 +1,29 @@
+{
+  "country": "PM",
+  "countryCode": "PM",
+  "cities": [
+    {
+      "name": "Saint-Pierre",
+      "admin1_code": "97502",
+      "location": [
+        46.77914,
+        -56.1773
+      ],
+      "monthly": {
+        "Jan": 1.36,
+        "Feb": 2.05,
+        "Mar": 3.38,
+        "Apr": 4.05,
+        "May": 4.61,
+        "Jun": 4.29,
+        "Jul": 3.99,
+        "Aug": 3.99,
+        "Sep": 3.84,
+        "Oct": 2.81,
+        "Nov": 1.7,
+        "Dec": 1.2
+      },
+      "average": 3.11
+    }
+  ]
+}
