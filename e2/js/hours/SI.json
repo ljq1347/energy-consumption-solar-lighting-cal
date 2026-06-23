@@ -1,0 +1,213 @@
+{
+  "country": "Slovenia",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "name": "Trbovlje",
+      "admin1_code": "D3",
+      "location": [
+        46.1541,
+        15.05178
+      ],
+      "monthly": {
+        "Jan": 2.07,
+        "Feb": 2.83,
+        "Mar": 3.57,
+        "Apr": 3.94,
+        "May": 4.23,
+        "Jun": 4.55,
+        "Jul": 4.66,
+        "Aug": 4.42,
+        "Sep": 3.65,
+        "Oct": 2.8,
+        "Nov": 1.85,
+        "Dec": 1.71
+      },
+      "average": 3.36
+    },
+    {
+      "name": "Velenje",
+      "admin1_code": "D7",
+      "location": [
+        46.35719,
+        15.11277
+      ],
+      "monthly": {
+        "Jan": 2.14,
+        "Feb": 2.99,
+        "Mar": 3.67,
+        "Apr": 3.99,
+        "May": 4.21,
+        "Jun": 4.51,
+        "Jul": 4.57,
+        "Aug": 4.38,
+        "Sep": 3.7,
+        "Oct": 2.94,
+        "Nov": 1.96,
+        "Dec": 1.72
+      },
+      "average": 3.4
+    },
+    {
+      "name": "Ptuj",
+      "admin1_code": "K7",
+      "location": [
+        46.42005,
+        15.87018
+      ],
+      "monthly": {
+        "Jan": 2.12,
+        "Feb": 3.01,
+        "Mar": 3.76,
+        "Apr": 4.24,
+        "May": 4.49,
+        "Jun": 4.76,
+        "Jul": 4.75,
+        "Aug": 4.58,
+        "Sep": 3.82,
+        "Oct": 3.07,
+        "Nov": 2.03,
+        "Dec": 1.74
+      },
+      "average": 3.53
+    },
+    {
+      "name": "Novo Mesto",
+      "admin1_code": "J7",
+      "location": [
+        45.80397,
+        15.16886
+      ],
+      "monthly": {
+        "Jan": 2.05,
+        "Feb": 2.89,
+        "Mar": 3.67,
+        "Apr": 4.03,
+        "May": 4.32,
+        "Jun": 4.69,
+        "Jul": 4.78,
+        "Aug": 4.56,
+        "Sep": 3.72,
+        "Oct": 2.84,
+        "Nov": 1.82,
+        "Dec": 1.66
+      },
+      "average": 3.42
+    },
+    {
+      "name": "Maribor",
+      "admin1_code": "J2",
+      "location": [
+        46.55583,
+        15.64593
+      ],
+      "monthly": {
+        "Jan": 2.17,
+        "Feb": 3.08,
+        "Mar": 3.73,
+        "Apr": 4.12,
+        "May": 4.32,
+        "Jun": 4.6,
+        "Jul": 4.65,
+        "Aug": 4.45,
+        "Sep": 3.76,
+        "Oct": 3.05,
+        "Nov": 2.02,
+        "Dec": 1.77
+      },
+      "average": 3.48
+    },
+    {
+      "name": "Ljubljana",
+      "admin1_code": "61",
+      "location": [
+        46.05108,
+        14.50513
+      ],
+      "monthly": {
+        "Jan": 1.99,
+        "Feb": 2.77,
+        "Mar": 3.72,
+        "Apr": 4.1,
+        "May": 4.41,
+        "Jun": 4.76,
+        "Jul": 4.89,
+        "Aug": 4.59,
+        "Sep": 3.73,
+        "Oct": 2.67,
+        "Nov": 1.68,
+        "Dec": 1.47
+      },
+      "average": 3.4
+    },
+    {
+      "name": "Kranj",
+      "admin1_code": "52",
+      "location": [
+        46.23887,
+        14.35561
+      ],
+      "monthly": {
+        "Jan": 2.14,
+        "Feb": 2.97,
+        "Mar": 3.73,
+        "Apr": 4.02,
+        "May": 4.28,
+        "Jun": 4.64,
+        "Jul": 4.75,
+        "Aug": 4.51,
+        "Sep": 3.77,
+        "Oct": 2.84,
+        "Nov": 1.88,
+        "Dec": 1.7
+      },
+      "average": 3.44
+    },
+    {
+      "name": "Koper",
+      "admin1_code": "50",
+      "location": [
+        45.5482,
+        13.72963
+      ],
+      "monthly": {
+        "Jan": 2.22,
+        "Feb": 3.01,
+        "Mar": 3.92,
+        "Apr": 4.29,
+        "May": 4.65,
+        "Jun": 5.03,
+        "Jul": 5.2,
+        "Aug": 4.87,
+        "Sep": 4.07,
+        "Oct": 3.09,
+        "Nov": 2.12,
+        "Dec": 1.94
+      },
+      "average": 3.7
+    },
+    {
+      "name": "Celje",
+      "admin1_code": "11",
+      "location": [
+        46.23092,
+        15.26044
+      ],
+      "monthly": {
+        "Jan": 2,
+        "Feb": 2.86,
+        "Mar": 3.59,
+        "Apr": 4.01,
+        "May": 4.27,
+        "Jun": 4.56,
+        "Jul": 4.63,
+        "Aug": 4.46,
+        "Sep": 3.68,
+        "Oct": 2.85,
+        "Nov": 1.86,
+        "Dec": 1.55
+      },
+      "average": 3.36
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "country": "VA",
+  "countryCode": "VA",
+  "cities": [
+    {
+      "name": "Vatican City",
+      "admin1_code": "",
+      "location": [
+        41.90268,
+        12.45414
+      ],
+      "monthly": {
+        "Jan": 2.77,
+        "Feb": 3.57,
+        "Mar": 4.21,
+        "Apr": 4.62,
+        "May": 5,
+        "Jun": 5.32,
+        "Jul": 5.54,
+        "Aug": 5.26,
+        "Sep": 4.47,
+        "Oct": 3.69,
+        "Nov": 2.79,
+        "Dec": 2.55
+      },
+      "average": 4.15
+    }
+  ]
+}

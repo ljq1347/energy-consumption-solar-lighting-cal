@@ -1,0 +1,144 @@
+{
+  "country": "YT",
+  "countryCode": "YT",
+  "cities": [
+    {
+      "name": "Mamoudzou",
+      "admin1_code": "97611",
+      "location": [
+        -12.78234,
+        45.22878
+      ],
+      "monthly": {
+        "Jan": 3.96,
+        "Feb": 4.17,
+        "Mar": 4.47,
+        "Apr": 4.64,
+        "May": 4.72,
+        "Jun": 4.61,
+        "Jul": 4.66,
+        "Aug": 4.98,
+        "Sep": 5.01,
+        "Oct": 4.85,
+        "Nov": 4.52,
+        "Dec": 4.31
+      },
+      "average": 4.57
+    },
+    {
+      "name": "Dzaoudzi",
+      "admin1_code": "97608",
+      "location": [
+        -12.78339,
+        45.25693
+      ],
+      "monthly": {
+        "Jan": 4.02,
+        "Feb": 4.22,
+        "Mar": 4.54,
+        "Apr": 4.71,
+        "May": 4.78,
+        "Jun": 4.67,
+        "Jul": 4.74,
+        "Aug": 5.09,
+        "Sep": 5.16,
+        "Oct": 5.04,
+        "Nov": 4.66,
+        "Dec": 4.4
+      },
+      "average": 4.67
+    },
+    {
+      "name": "Koungou",
+      "admin1_code": "97610",
+      "location": [
+        -12.73361,
+        45.20417
+      ],
+      "monthly": {
+        "Jan": 4,
+        "Feb": 4.21,
+        "Mar": 4.45,
+        "Apr": 4.59,
+        "May": 4.66,
+        "Jun": 4.59,
+        "Jul": 4.64,
+        "Aug": 4.9,
+        "Sep": 4.91,
+        "Oct": 4.85,
+        "Nov": 4.58,
+        "Dec": 4.37
+      },
+      "average": 4.56
+    },
+    {
+      "name": "Kaouéni",
+      "admin1_code": "97611",
+      "location": [
+        -12.77121,
+        45.22419
+      ],
+      "monthly": {
+        "Jan": 3.94,
+        "Feb": 4.16,
+        "Mar": 4.44,
+        "Apr": 4.61,
+        "May": 4.68,
+        "Jun": 4.57,
+        "Jul": 4.63,
+        "Aug": 4.94,
+        "Sep": 4.96,
+        "Oct": 4.81,
+        "Nov": 4.5,
+        "Dec": 4.29
+      },
+      "average": 4.54
+    },
+    {
+      "name": "Mtsapéré",
+      "admin1_code": "97611",
+      "location": [
+        -12.78636,
+        45.21732
+      ],
+      "monthly": {
+        "Jan": 3.91,
+        "Feb": 4.13,
+        "Mar": 4.43,
+        "Apr": 4.61,
+        "May": 4.7,
+        "Jun": 4.59,
+        "Jul": 4.63,
+        "Aug": 4.94,
+        "Sep": 4.96,
+        "Oct": 4.76,
+        "Nov": 4.43,
+        "Dec": 4.24
+      },
+      "average": 4.53
+    },
+    {
+      "name": "Labattoir",
+      "admin1_code": "97608",
+      "location": [
+        -12.77698,
+        45.28234
+      ],
+      "monthly": {
+        "Jan": 4.06,
+        "Feb": 4.27,
+        "Mar": 4.61,
+        "Apr": 4.77,
+        "May": 4.85,
+        "Jun": 4.73,
+        "Jul": 4.8,
+        "Aug": 5.16,
+        "Sep": 5.23,
+        "Oct": 5.16,
+        "Nov": 4.75,
+        "Dec": 4.44
+      },
+      "average": 4.74
+    }
+  ]
+}

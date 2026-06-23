@@ -1,0 +1,29 @@
+{
+  "country": "Vanuatu",
+  "countryCode": "VU",
+  "cities": [
+    {
+      "name": "Port-Vila",
+      "admin1_code": "18",
+      "location": [
+        -17.73648,
+        168.31366
+      ],
+      "monthly": {
+        "Jan": 4.14,
+        "Feb": 4.18,
+        "Mar": 3.98,
+        "Apr": 3.77,
+        "May": 3.52,
+        "Jun": 3.14,
+        "Jul": 3.21,
+        "Aug": 3.46,
+        "Sep": 3.94,
+        "Oct": 3.98,
+        "Nov": 4.13,
+        "Dec": 4.33
+      },
+      "average": 3.81
+    }
+  ]
+}

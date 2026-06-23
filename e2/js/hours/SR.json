@@ -1,0 +1,282 @@
+{
+  "country": "Suriname",
+  "countryCode": "SR",
+  "cities": [
+    {
+      "name": "Rainville",
+      "admin1_code": "16",
+      "location": [
+        5.83436,
+        -55.13769
+      ],
+      "monthly": {
+        "Jan": 3.94,
+        "Feb": 3.99,
+        "Mar": 4.19,
+        "Apr": 4,
+        "May": 3.64,
+        "Jun": 3.73,
+        "Jul": 4.16,
+        "Aug": 4.62,
+        "Sep": 5.06,
+        "Oct": 4.88,
+        "Nov": 4.4,
+        "Dec": 3.84
+      },
+      "average": 4.2
+    },
+    {
+      "name": "Paramaribo",
+      "admin1_code": "16",
+      "location": [
+        5.86638,
+        -55.16682
+      ],
+      "monthly": {
+        "Jan": 3.99,
+        "Feb": 4.05,
+        "Mar": 4.26,
+        "Apr": 4.04,
+        "May": 3.64,
+        "Jun": 3.72,
+        "Jul": 4.14,
+        "Aug": 4.6,
+        "Sep": 5.02,
+        "Oct": 4.84,
+        "Nov": 4.38,
+        "Dec": 3.85
+      },
+      "average": 4.21
+    },
+    {
+      "name": "Lelydorp",
+      "admin1_code": "19",
+      "location": [
+        5.7,
+        -55.23333
+      ],
+      "monthly": {
+        "Jan": 3.75,
+        "Feb": 3.77,
+        "Mar": 3.97,
+        "Apr": 3.87,
+        "May": 3.6,
+        "Jun": 3.79,
+        "Jul": 4.2,
+        "Aug": 4.68,
+        "Sep": 5.06,
+        "Oct": 4.89,
+        "Nov": 4.44,
+        "Dec": 3.78
+      },
+      "average": 4.15
+    },
+    {
+      "name": "Flora",
+      "admin1_code": "16",
+      "location": [
+        5.8,
+        -55.2
+      ],
+      "monthly": {
+        "Jan": 3.85,
+        "Feb": 3.89,
+        "Mar": 4.1,
+        "Apr": 3.95,
+        "May": 3.62,
+        "Jun": 3.74,
+        "Jul": 4.15,
+        "Aug": 4.62,
+        "Sep": 5.01,
+        "Oct": 4.87,
+        "Nov": 4.42,
+        "Dec": 3.81
+      },
+      "average": 4.17
+    },
+    {
+      "name": "Blauwgrond",
+      "admin1_code": "16",
+      "location": [
+        5.84342,
+        -55.11929
+      ],
+      "monthly": {
+        "Jan": 3.92,
+        "Feb": 3.97,
+        "Mar": 4.18,
+        "Apr": 3.99,
+        "May": 3.63,
+        "Jun": 3.73,
+        "Jul": 4.16,
+        "Aug": 4.62,
+        "Sep": 5.06,
+        "Oct": 4.87,
+        "Nov": 4.38,
+        "Dec": 3.83
+      },
+      "average": 4.2
+    },
+    {
+      "name": "Munder Buiten",
+      "admin1_code": "16",
+      "location": [
+        5.84116,
+        -55.18247
+      ],
+      "monthly": {
+        "Jan": 3.94,
+        "Feb": 4,
+        "Mar": 4.2,
+        "Apr": 4,
+        "May": 3.63,
+        "Jun": 3.72,
+        "Jul": 4.14,
+        "Aug": 4.6,
+        "Sep": 5.01,
+        "Oct": 4.84,
+        "Nov": 4.39,
+        "Dec": 3.82
+      },
+      "average": 4.19
+    },
+    {
+      "name": "Tammenga",
+      "admin1_code": "16",
+      "location": [
+        5.82893,
+        -55.202
+      ],
+      "monthly": {
+        "Jan": 3.87,
+        "Feb": 3.94,
+        "Mar": 4.12,
+        "Apr": 3.95,
+        "May": 3.6,
+        "Jun": 3.7,
+        "Jul": 4.11,
+        "Aug": 4.57,
+        "Sep": 4.97,
+        "Oct": 4.82,
+        "Nov": 4.36,
+        "Dec": 3.78
+      },
+      "average": 4.15
+    },
+    {
+      "name": "Welgelegen",
+      "admin1_code": "16",
+      "location": [
+        5.84213,
+        -55.21863
+      ],
+      "monthly": {
+        "Jan": 3.93,
+        "Feb": 3.99,
+        "Mar": 4.17,
+        "Apr": 3.98,
+        "May": 3.6,
+        "Jun": 3.69,
+        "Jul": 4.09,
+        "Aug": 4.55,
+        "Sep": 4.95,
+        "Oct": 4.79,
+        "Nov": 4.32,
+        "Dec": 3.78
+      },
+      "average": 4.15
+    },
+    {
+      "name": "Beekhuizen",
+      "admin1_code": "16",
+      "location": [
+        5.80575,
+        -55.17367
+      ],
+      "monthly": {
+        "Jan": 3.89,
+        "Feb": 3.94,
+        "Mar": 4.14,
+        "Apr": 3.97,
+        "May": 3.63,
+        "Jun": 3.75,
+        "Jul": 4.17,
+        "Aug": 4.64,
+        "Sep": 5.05,
+        "Oct": 4.9,
+        "Nov": 4.44,
+        "Dec": 3.83
+      },
+      "average": 4.2
+    },
+    {
+      "name": "Pontbuiten",
+      "admin1_code": "19",
+      "location": [
+        5.78808,
+        -55.20895
+      ],
+      "monthly": {
+        "Jan": 3.81,
+        "Feb": 3.85,
+        "Mar": 4.06,
+        "Apr": 3.92,
+        "May": 3.6,
+        "Jun": 3.73,
+        "Jul": 4.14,
+        "Aug": 4.61,
+        "Sep": 4.99,
+        "Oct": 4.83,
+        "Nov": 4.39,
+        "Dec": 3.79
+      },
+      "average": 4.14
+    },
+    {
+      "name": "Latour",
+      "admin1_code": "16",
+      "location": [
+        5.79668,
+        -55.20858
+      ],
+      "monthly": {
+        "Jan": 3.81,
+        "Feb": 3.85,
+        "Mar": 4.05,
+        "Apr": 3.91,
+        "May": 3.59,
+        "Jun": 3.72,
+        "Jul": 4.13,
+        "Aug": 4.6,
+        "Sep": 4.98,
+        "Oct": 4.82,
+        "Nov": 4.38,
+        "Dec": 3.77
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Weg naar Zee",
+      "admin1_code": "16",
+      "location": [
+        5.87126,
+        -55.2149
+      ],
+      "monthly": {
+        "Jan": 3.99,
+        "Feb": 4.05,
+        "Mar": 4.24,
+        "Apr": 4.02,
+        "May": 3.61,
+        "Jun": 3.68,
+        "Jul": 4.09,
+        "Aug": 4.56,
+        "Sep": 4.98,
+        "Oct": 4.82,
+        "Nov": 4.35,
+        "Dec": 3.83
+      },
+      "average": 4.18
+    }
+  ]
+}

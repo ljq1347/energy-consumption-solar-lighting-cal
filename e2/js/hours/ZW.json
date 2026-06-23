@@ -1,0 +1,696 @@
+{
+  "country": "Zimbabwe",
+  "countryCode": "ZW",
+  "cities": [
+    {
+      "name": "Zvishavane",
+      "admin1_code": "08",
+      "location": [
+        -20.32674,
+        30.06648
+      ],
+      "monthly": {
+        "Jan": 4.48,
+        "Feb": 4.6,
+        "Mar": 4.68,
+        "Apr": 4.72,
+        "May": 4.93,
+        "Jun": 4.65,
+        "Jul": 4.65,
+        "Aug": 5.26,
+        "Sep": 5.23,
+        "Oct": 4.98,
+        "Nov": 4.53,
+        "Dec": 4.32
+      },
+      "average": 4.75
+    },
+    {
+      "name": "Victoria Falls",
+      "admin1_code": "06",
+      "location": [
+        -17.93285,
+        25.83066
+      ],
+      "monthly": {
+        "Jan": 4.29,
+        "Feb": 4.61,
+        "Mar": 4.91,
+        "Apr": 5.33,
+        "May": 5.49,
+        "Jun": 5.28,
+        "Jul": 5.42,
+        "Aug": 5.67,
+        "Sep": 5.58,
+        "Oct": 5.24,
+        "Nov": 4.53,
+        "Dec": 4.28
+      },
+      "average": 5.05
+    },
+    {
+      "name": "Shurugwi",
+      "admin1_code": "02",
+      "location": [
+        -19.67016,
+        30.00589
+      ],
+      "monthly": {
+        "Jan": 4.39,
+        "Feb": 4.57,
+        "Mar": 4.78,
+        "Apr": 4.89,
+        "May": 5.17,
+        "Jun": 4.9,
+        "Jul": 4.91,
+        "Aug": 5.52,
+        "Sep": 5.51,
+        "Oct": 5.18,
+        "Nov": 4.53,
+        "Dec": 4.27
+      },
+      "average": 4.88
+    },
+    {
+      "name": "Ruwa",
+      "admin1_code": "04",
+      "location": [
+        -17.88972,
+        31.24472
+      ],
+      "monthly": {
+        "Jan": 4.3,
+        "Feb": 4.5,
+        "Mar": 4.73,
+        "Apr": 5,
+        "May": 5.23,
+        "Jun": 5.09,
+        "Jul": 5.16,
+        "Aug": 5.66,
+        "Sep": 5.8,
+        "Oct": 5.4,
+        "Nov": 4.74,
+        "Dec": 4.43
+      },
+      "average": 5
+    },
+    {
+      "name": "Rusape",
+      "admin1_code": "01",
+      "location": [
+        -18.52785,
+        32.12843
+      ],
+      "monthly": {
+        "Jan": 4.38,
+        "Feb": 4.59,
+        "Mar": 4.8,
+        "Apr": 4.91,
+        "May": 5.15,
+        "Jun": 4.88,
+        "Jul": 4.91,
+        "Aug": 5.54,
+        "Sep": 5.64,
+        "Oct": 5.29,
+        "Nov": 4.64,
+        "Dec": 4.37
+      },
+      "average": 4.92
+    },
+    {
+      "name": "Redcliff",
+      "admin1_code": "02",
+      "location": [
+        -19.03333,
+        29.78333
+      ],
+      "monthly": {
+        "Jan": 4.45,
+        "Feb": 4.67,
+        "Mar": 4.91,
+        "Apr": 5.08,
+        "May": 5.3,
+        "Jun": 5.09,
+        "Jul": 5.18,
+        "Aug": 5.64,
+        "Sep": 5.64,
+        "Oct": 5.25,
+        "Nov": 4.55,
+        "Dec": 4.36
+      },
+      "average": 5.01
+    },
+    {
+      "name": "Norton",
+      "admin1_code": "05",
+      "location": [
+        -17.88333,
+        30.7
+      ],
+      "monthly": {
+        "Jan": 4.36,
+        "Feb": 4.63,
+        "Mar": 4.88,
+        "Apr": 5.08,
+        "May": 5.27,
+        "Jun": 5.1,
+        "Jul": 5.19,
+        "Aug": 5.63,
+        "Sep": 5.72,
+        "Oct": 5.34,
+        "Nov": 4.66,
+        "Dec": 4.35
+      },
+      "average": 5.02
+    },
+    {
+      "name": "Mvurwi",
+      "admin1_code": "03",
+      "location": [
+        -17.03333,
+        30.85
+      ],
+      "monthly": {
+        "Jan": 4.06,
+        "Feb": 4.3,
+        "Mar": 4.59,
+        "Apr": 4.85,
+        "May": 5.08,
+        "Jun": 4.89,
+        "Jul": 5.08,
+        "Aug": 5.59,
+        "Sep": 5.73,
+        "Oct": 5.36,
+        "Nov": 4.63,
+        "Dec": 4.22
+      },
+      "average": 4.87
+    },
+    {
+      "name": "Mutare",
+      "admin1_code": "01",
+      "location": [
+        -18.9707,
+        32.67086
+      ],
+      "monthly": {
+        "Jan": 4.46,
+        "Feb": 4.62,
+        "Mar": 4.8,
+        "Apr": 4.84,
+        "May": 4.92,
+        "Jun": 4.61,
+        "Jul": 4.62,
+        "Aug": 5.23,
+        "Sep": 5.34,
+        "Oct": 5.18,
+        "Nov": 4.69,
+        "Dec": 4.46
+      },
+      "average": 4.81
+    },
+    {
+      "name": "Masvingo",
+      "admin1_code": "08",
+      "location": [
+        -20.06373,
+        30.82766
+      ],
+      "monthly": {
+        "Jan": 4.48,
+        "Feb": 4.64,
+        "Mar": 4.75,
+        "Apr": 4.8,
+        "May": 5.02,
+        "Jun": 4.72,
+        "Jul": 4.73,
+        "Aug": 5.35,
+        "Sep": 5.36,
+        "Oct": 5.08,
+        "Nov": 4.56,
+        "Dec": 4.36
+      },
+      "average": 4.82
+    },
+    {
+      "name": "Marondera",
+      "admin1_code": "04",
+      "location": [
+        -18.18527,
+        31.55193
+      ],
+      "monthly": {
+        "Jan": 4.33,
+        "Feb": 4.56,
+        "Mar": 4.76,
+        "Apr": 4.96,
+        "May": 5.24,
+        "Jun": 5.05,
+        "Jul": 5.12,
+        "Aug": 5.64,
+        "Sep": 5.76,
+        "Oct": 5.32,
+        "Nov": 4.64,
+        "Dec": 4.33
+      },
+      "average": 4.98
+    },
+    {
+      "name": "Kwekwe",
+      "admin1_code": "02",
+      "location": [
+        -18.92809,
+        29.81486
+      ],
+      "monthly": {
+        "Jan": 4.45,
+        "Feb": 4.66,
+        "Mar": 4.92,
+        "Apr": 5.13,
+        "May": 5.33,
+        "Jun": 5.12,
+        "Jul": 5.22,
+        "Aug": 5.65,
+        "Sep": 5.66,
+        "Oct": 5.28,
+        "Nov": 4.6,
+        "Dec": 4.39
+      },
+      "average": 5.03
+    },
+    {
+      "name": "Karoi",
+      "admin1_code": "05",
+      "location": [
+        -16.80993,
+        29.69247
+      ],
+      "monthly": {
+        "Jan": 4.18,
+        "Feb": 4.36,
+        "Mar": 4.72,
+        "Apr": 5.01,
+        "May": 5.17,
+        "Jun": 4.97,
+        "Jul": 5.1,
+        "Aug": 5.57,
+        "Sep": 5.67,
+        "Oct": 5.36,
+        "Nov": 4.6,
+        "Dec": 4.31
+      },
+      "average": 4.92
+    },
+    {
+      "name": "Kariba",
+      "admin1_code": "05",
+      "location": [
+        -16.51667,
+        28.8
+      ],
+      "monthly": {
+        "Jan": 4.21,
+        "Feb": 4.42,
+        "Mar": 4.73,
+        "Apr": 4.94,
+        "May": 5.13,
+        "Jun": 4.84,
+        "Jul": 4.93,
+        "Aug": 5.34,
+        "Sep": 5.41,
+        "Oct": 5.24,
+        "Nov": 4.59,
+        "Dec": 4.36
+      },
+      "average": 4.84
+    },
+    {
+      "name": "Kadoma",
+      "admin1_code": "05",
+      "location": [
+        -18.33328,
+        29.91534
+      ],
+      "monthly": {
+        "Jan": 4.47,
+        "Feb": 4.72,
+        "Mar": 4.97,
+        "Apr": 5.14,
+        "May": 5.31,
+        "Jun": 5.14,
+        "Jul": 5.25,
+        "Aug": 5.63,
+        "Sep": 5.66,
+        "Oct": 5.28,
+        "Nov": 4.6,
+        "Dec": 4.35
+      },
+      "average": 5.04
+    },
+    {
+      "name": "Hwange",
+      "admin1_code": "06",
+      "location": [
+        -18.36446,
+        26.49877
+      ],
+      "monthly": {
+        "Jan": 4.34,
+        "Feb": 4.62,
+        "Mar": 4.97,
+        "Apr": 5.24,
+        "May": 5.38,
+        "Jun": 5.15,
+        "Jul": 5.31,
+        "Aug": 5.58,
+        "Sep": 5.52,
+        "Oct": 5.26,
+        "Nov": 4.61,
+        "Dec": 4.33
+      },
+      "average": 5.03
+    },
+    {
+      "name": "Harare",
+      "admin1_code": "10",
+      "location": [
+        -17.82772,
+        31.05337
+      ],
+      "monthly": {
+        "Jan": 4.11,
+        "Feb": 4.34,
+        "Mar": 4.59,
+        "Apr": 4.89,
+        "May": 5.18,
+        "Jun": 5.03,
+        "Jul": 5.09,
+        "Aug": 5.56,
+        "Sep": 5.67,
+        "Oct": 5.28,
+        "Nov": 4.53,
+        "Dec": 4.19
+      },
+      "average": 4.87
+    },
+    {
+      "name": "Gweru",
+      "admin1_code": "02",
+      "location": [
+        -19.45,
+        29.81667
+      ],
+      "monthly": {
+        "Jan": 4.49,
+        "Feb": 4.66,
+        "Mar": 4.88,
+        "Apr": 5,
+        "May": 5.27,
+        "Jun": 5.06,
+        "Jul": 5.12,
+        "Aug": 5.64,
+        "Sep": 5.65,
+        "Oct": 5.25,
+        "Nov": 4.57,
+        "Dec": 4.37
+      },
+      "average": 5
+    },
+    {
+      "name": "Gwanda",
+      "admin1_code": "07",
+      "location": [
+        -20.93622,
+        29.00698
+      ],
+      "monthly": {
+        "Jan": 4.41,
+        "Feb": 4.5,
+        "Mar": 4.67,
+        "Apr": 4.71,
+        "May": 5.04,
+        "Jun": 4.75,
+        "Jul": 4.79,
+        "Aug": 5.33,
+        "Sep": 5.28,
+        "Oct": 5,
+        "Nov": 4.47,
+        "Dec": 4.27
+      },
+      "average": 4.77
+    },
+    {
+      "name": "Gokwe",
+      "admin1_code": "02",
+      "location": [
+        -18.20476,
+        28.9349
+      ],
+      "monthly": {
+        "Jan": 4.38,
+        "Feb": 4.64,
+        "Mar": 5.03,
+        "Apr": 5.24,
+        "May": 5.41,
+        "Jun": 5.24,
+        "Jul": 5.38,
+        "Aug": 5.75,
+        "Sep": 5.74,
+        "Oct": 5.4,
+        "Nov": 4.64,
+        "Dec": 4.34
+      },
+      "average": 5.1
+    },
+    {
+      "name": "Chiredzi",
+      "admin1_code": "08",
+      "location": [
+        -21.05,
+        31.66667
+      ],
+      "monthly": {
+        "Jan": 4.47,
+        "Feb": 4.56,
+        "Mar": 4.63,
+        "Apr": 4.55,
+        "May": 4.66,
+        "Jun": 4.4,
+        "Jul": 4.41,
+        "Aug": 4.92,
+        "Sep": 4.92,
+        "Oct": 4.76,
+        "Nov": 4.48,
+        "Dec": 4.4
+      },
+      "average": 4.6
+    },
+    {
+      "name": "Chipinge",
+      "admin1_code": "01",
+      "location": [
+        -20.18833,
+        32.62365
+      ],
+      "monthly": {
+        "Jan": 4.42,
+        "Feb": 4.53,
+        "Mar": 4.66,
+        "Apr": 4.64,
+        "May": 4.77,
+        "Jun": 4.45,
+        "Jul": 4.47,
+        "Aug": 5.11,
+        "Sep": 5.25,
+        "Oct": 5.06,
+        "Nov": 4.63,
+        "Dec": 4.39
+      },
+      "average": 4.7
+    },
+    {
+      "name": "Chinhoyi",
+      "admin1_code": "05",
+      "location": [
+        -17.36667,
+        30.2
+      ],
+      "monthly": {
+        "Jan": 4.24,
+        "Feb": 4.53,
+        "Mar": 4.86,
+        "Apr": 5.03,
+        "May": 5.18,
+        "Jun": 4.98,
+        "Jul": 5.11,
+        "Aug": 5.51,
+        "Sep": 5.59,
+        "Oct": 5.24,
+        "Nov": 4.56,
+        "Dec": 4.29
+      },
+      "average": 4.93
+    },
+    {
+      "name": "Chegutu",
+      "admin1_code": "05",
+      "location": [
+        -18.13021,
+        30.14074
+      ],
+      "monthly": {
+        "Jan": 4.44,
+        "Feb": 4.68,
+        "Mar": 4.95,
+        "Apr": 5.13,
+        "May": 5.28,
+        "Jun": 5.11,
+        "Jul": 5.23,
+        "Aug": 5.59,
+        "Sep": 5.64,
+        "Oct": 5.28,
+        "Nov": 4.63,
+        "Dec": 4.37
+      },
+      "average": 5.03
+    },
+    {
+      "name": "Bulawayo",
+      "admin1_code": "09",
+      "location": [
+        -20.15,
+        28.58333
+      ],
+      "monthly": {
+        "Jan": 4.53,
+        "Feb": 4.72,
+        "Mar": 4.92,
+        "Apr": 5.1,
+        "May": 5.38,
+        "Jun": 5.14,
+        "Jul": 5.23,
+        "Aug": 5.69,
+        "Sep": 5.61,
+        "Oct": 5.25,
+        "Nov": 4.61,
+        "Dec": 4.42
+      },
+      "average": 5.05
+    },
+    {
+      "name": "Bindura",
+      "admin1_code": "03",
+      "location": [
+        -17.30192,
+        31.33056
+      ],
+      "monthly": {
+        "Jan": 4.29,
+        "Feb": 4.56,
+        "Mar": 4.89,
+        "Apr": 5.03,
+        "May": 5.22,
+        "Jun": 4.92,
+        "Jul": 5.04,
+        "Aug": 5.52,
+        "Sep": 5.63,
+        "Oct": 5.32,
+        "Nov": 4.63,
+        "Dec": 4.35
+      },
+      "average": 4.95
+    },
+    {
+      "name": "Beitbridge",
+      "admin1_code": "07",
+      "location": [
+        -22.21667,
+        30
+      ],
+      "monthly": {
+        "Jan": 4.53,
+        "Feb": 4.59,
+        "Mar": 4.72,
+        "Apr": 4.58,
+        "May": 4.78,
+        "Jun": 4.62,
+        "Jul": 4.68,
+        "Aug": 5.04,
+        "Sep": 5.08,
+        "Oct": 4.86,
+        "Nov": 4.54,
+        "Dec": 4.47
+      },
+      "average": 4.71
+    },
+    {
+      "name": "Epworth",
+      "admin1_code": "10",
+      "location": [
+        -17.89,
+        31.1475
+      ],
+      "monthly": {
+        "Jan": 4.2,
+        "Feb": 4.45,
+        "Mar": 4.68,
+        "Apr": 4.96,
+        "May": 5.21,
+        "Jun": 5.07,
+        "Jul": 5.13,
+        "Aug": 5.61,
+        "Sep": 5.73,
+        "Oct": 5.34,
+        "Nov": 4.63,
+        "Dec": 4.31
+      },
+      "average": 4.94
+    },
+    {
+      "name": "Chitungwiza",
+      "admin1_code": "10",
+      "location": [
+        -18.01274,
+        31.07555
+      ],
+      "monthly": {
+        "Jan": 4.33,
+        "Feb": 4.58,
+        "Mar": 4.82,
+        "Apr": 5.03,
+        "May": 5.26,
+        "Jun": 5.09,
+        "Jul": 5.15,
+        "Aug": 5.62,
+        "Sep": 5.72,
+        "Oct": 5.33,
+        "Nov": 4.67,
+        "Dec": 4.36
+      },
+      "average": 5
+    },
+    {
+      "name": "Harare Western Suburbs",
+      "admin1_code": "05",
+      "location": [
+        -17.8415,
+        30.87674
+      ],
+      "monthly": {
+        "Jan": 4.23,
+        "Feb": 4.51,
+        "Mar": 4.71,
+        "Apr": 4.94,
+        "May": 5.19,
+        "Jun": 5.04,
+        "Jul": 5.11,
+        "Aug": 5.56,
+        "Sep": 5.65,
+        "Oct": 5.25,
+        "Nov": 4.54,
+        "Dec": 4.26
+      },
+      "average": 4.92
+    }
+  ]
+}

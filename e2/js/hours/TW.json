@@ -1,0 +1,1524 @@
+{
+  "country": "Taiwan",
+  "countryCode": "TW",
+  "cities": [
+    {
+      "name": "Douliu",
+      "admin1_code": "04",
+      "location": [
+        23.70944,
+        120.54333
+      ],
+      "monthly": {
+        "Jan": 3.7,
+        "Feb": 3.78,
+        "Mar": 3.76,
+        "Apr": 3.62,
+        "May": 3.69,
+        "Jun": 3.74,
+        "Jul": 4.03,
+        "Aug": 3.83,
+        "Sep": 4.06,
+        "Oct": 4.09,
+        "Nov": 3.67,
+        "Dec": 3.56
+      },
+      "average": 3.79
+    },
+    {
+      "name": "Yongkang",
+      "admin1_code": "04",
+      "location": [
+        23.02444,
+        120.25556
+      ],
+      "monthly": {
+        "Jan": 3.98,
+        "Feb": 4.27,
+        "Mar": 4.25,
+        "Apr": 4.15,
+        "May": 4.05,
+        "Jun": 3.97,
+        "Jul": 4,
+        "Aug": 3.71,
+        "Sep": 3.99,
+        "Oct": 4.12,
+        "Nov": 3.82,
+        "Dec": 3.76
+      },
+      "average": 4.01
+    },
+    {
+      "name": "Yongjing",
+      "admin1_code": "04",
+      "location": [
+        23.92148,
+        120.54594
+      ],
+      "monthly": {
+        "Jan": 3.78,
+        "Feb": 3.88,
+        "Mar": 3.8,
+        "Apr": 3.69,
+        "May": 3.76,
+        "Jun": 3.74,
+        "Jul": 4.08,
+        "Aug": 3.85,
+        "Sep": 4.17,
+        "Oct": 4.27,
+        "Nov": 3.74,
+        "Dec": 3.63
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Yujing",
+      "admin1_code": "04",
+      "location": [
+        23.12493,
+        120.46138
+      ],
+      "monthly": {
+        "Jan": 3.84,
+        "Feb": 4.06,
+        "Mar": 3.99,
+        "Apr": 3.81,
+        "May": 3.73,
+        "Jun": 3.78,
+        "Jul": 4.01,
+        "Aug": 3.74,
+        "Sep": 4.09,
+        "Oct": 4.03,
+        "Nov": 3.7,
+        "Dec": 3.63
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Yuanlin",
+      "admin1_code": "04",
+      "location": [
+        23.95671,
+        120.57608
+      ],
+      "monthly": {
+        "Jan": 3.78,
+        "Feb": 3.87,
+        "Mar": 3.79,
+        "Apr": 3.61,
+        "May": 3.66,
+        "Jun": 3.63,
+        "Jul": 3.97,
+        "Aug": 3.76,
+        "Sep": 4.1,
+        "Oct": 4.24,
+        "Nov": 3.73,
+        "Dec": 3.62
+      },
+      "average": 3.81
+    },
+    {
+      "name": "Yingge",
+      "admin1_code": "03",
+      "location": [
+        24.95608,
+        121.3507
+      ],
+      "monthly": {
+        "Jan": 2.56,
+        "Feb": 2.69,
+        "Mar": 2.92,
+        "Apr": 2.98,
+        "May": 3.35,
+        "Jun": 3.53,
+        "Jul": 4.16,
+        "Aug": 4,
+        "Sep": 3.95,
+        "Oct": 3.25,
+        "Nov": 2.84,
+        "Dec": 2.4
+      },
+      "average": 3.22
+    },
+    {
+      "name": "Wufeng",
+      "admin1_code": "04",
+      "location": [
+        24.0637,
+        120.698
+      ],
+      "monthly": {
+        "Jan": 3.73,
+        "Feb": 3.84,
+        "Mar": 3.72,
+        "Apr": 3.56,
+        "May": 3.62,
+        "Jun": 3.57,
+        "Jul": 3.98,
+        "Aug": 3.79,
+        "Sep": 4.14,
+        "Oct": 4.22,
+        "Nov": 3.73,
+        "Dec": 3.57
+      },
+      "average": 3.79
+    },
+    {
+      "name": "Citong",
+      "admin1_code": "04",
+      "location": [
+        23.75751,
+        120.49965
+      ],
+      "monthly": {
+        "Jan": 3.77,
+        "Feb": 3.87,
+        "Mar": 3.86,
+        "Apr": 3.76,
+        "May": 3.84,
+        "Jun": 3.83,
+        "Jul": 4.12,
+        "Aug": 3.93,
+        "Sep": 4.23,
+        "Oct": 4.27,
+        "Nov": 3.76,
+        "Dec": 3.65
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Donggang",
+      "admin1_code": "04",
+      "location": [
+        22.46515,
+        120.44927
+      ],
+      "monthly": {
+        "Jan": 3.86,
+        "Feb": 4.28,
+        "Mar": 4.31,
+        "Apr": 4.27,
+        "May": 4.24,
+        "Jun": 4.23,
+        "Jul": 4.27,
+        "Aug": 3.86,
+        "Sep": 4.21,
+        "Oct": 4.11,
+        "Nov": 3.81,
+        "Dec": 3.59
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Caotun",
+      "admin1_code": "04",
+      "location": [
+        23.97699,
+        120.68766
+      ],
+      "monthly": {
+        "Jan": 3.71,
+        "Feb": 3.81,
+        "Mar": 3.69,
+        "Apr": 3.52,
+        "May": 3.56,
+        "Jun": 3.59,
+        "Jul": 4.02,
+        "Aug": 3.81,
+        "Sep": 4.17,
+        "Oct": 4.2,
+        "Nov": 3.72,
+        "Dec": 3.54
+      },
+      "average": 3.78
+    },
+    {
+      "name": "Toufen",
+      "admin1_code": "04",
+      "location": [
+        24.68753,
+        120.90942
+      ],
+      "monthly": {
+        "Jan": 2.8,
+        "Feb": 2.77,
+        "Mar": 3.05,
+        "Apr": 3.2,
+        "May": 3.6,
+        "Jun": 3.86,
+        "Jul": 4.28,
+        "Aug": 4.02,
+        "Sep": 4.12,
+        "Oct": 3.84,
+        "Nov": 3.23,
+        "Dec": 2.82
+      },
+      "average": 3.47
+    },
+    {
+      "name": "Tianwei",
+      "admin1_code": "04",
+      "location": [
+        23.8927,
+        120.524
+      ],
+      "monthly": {
+        "Jan": 3.81,
+        "Feb": 3.91,
+        "Mar": 3.84,
+        "Apr": 3.75,
+        "May": 3.82,
+        "Jun": 3.8,
+        "Jul": 4.12,
+        "Aug": 3.91,
+        "Sep": 4.22,
+        "Oct": 4.32,
+        "Nov": 3.77,
+        "Dec": 3.67
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Tianzhong",
+      "admin1_code": "04",
+      "location": [
+        23.85808,
+        120.5857
+      ],
+      "monthly": {
+        "Jan": 3.72,
+        "Feb": 3.8,
+        "Mar": 3.71,
+        "Apr": 3.58,
+        "May": 3.66,
+        "Jun": 3.67,
+        "Jul": 4.01,
+        "Aug": 3.84,
+        "Sep": 4.15,
+        "Oct": 4.2,
+        "Nov": 3.71,
+        "Dec": 3.57
+      },
+      "average": 3.8
+    },
+    {
+      "name": "Danshui",
+      "admin1_code": "03",
+      "location": [
+        25.17196,
+        121.4429
+      ],
+      "monthly": {
+        "Jan": 2.3,
+        "Feb": 2.5,
+        "Mar": 2.88,
+        "Apr": 3.08,
+        "May": 3.45,
+        "Jun": 3.67,
+        "Jul": 4.42,
+        "Aug": 4.25,
+        "Sep": 3.99,
+        "Oct": 2.93,
+        "Nov": 2.49,
+        "Dec": 2.12
+      },
+      "average": 3.17
+    },
+    {
+      "name": "Taitung",
+      "admin1_code": "04",
+      "location": [
+        22.75991,
+        121.14457
+      ],
+      "monthly": {
+        "Jan": 2.79,
+        "Feb": 3.12,
+        "Mar": 3.18,
+        "Apr": 3.4,
+        "May": 3.76,
+        "Jun": 4.38,
+        "Jul": 4.78,
+        "Aug": 4.44,
+        "Sep": 4.32,
+        "Oct": 3.82,
+        "Nov": 3.2,
+        "Dec": 2.77
+      },
+      "average": 3.66
+    },
+    {
+      "name": "Taipei",
+      "admin1_code": "04",
+      "location": [
+        25.05306,
+        121.52639
+      ],
+      "monthly": {
+        "Jan": 2.29,
+        "Feb": 2.56,
+        "Mar": 2.91,
+        "Apr": 3.01,
+        "May": 3.36,
+        "Jun": 3.52,
+        "Jul": 4.25,
+        "Aug": 4.12,
+        "Sep": 3.91,
+        "Oct": 2.91,
+        "Nov": 2.5,
+        "Dec": 2.13
+      },
+      "average": 3.12
+    },
+    {
+      "name": "Taibao",
+      "admin1_code": "04",
+      "location": [
+        23.45944,
+        120.33222
+      ],
+      "monthly": {
+        "Jan": 3.85,
+        "Feb": 4.01,
+        "Mar": 4.07,
+        "Apr": 3.98,
+        "May": 3.97,
+        "Jun": 3.85,
+        "Jul": 4.08,
+        "Aug": 3.85,
+        "Sep": 4.21,
+        "Oct": 4.26,
+        "Nov": 3.77,
+        "Dec": 3.71
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Xinying",
+      "admin1_code": "04",
+      "location": [
+        23.30694,
+        120.31056
+      ],
+      "monthly": {
+        "Jan": 3.87,
+        "Feb": 4.07,
+        "Mar": 4.11,
+        "Apr": 4.01,
+        "May": 3.96,
+        "Jun": 3.81,
+        "Jul": 4.04,
+        "Aug": 3.78,
+        "Sep": 4.16,
+        "Oct": 4.22,
+        "Nov": 3.78,
+        "Dec": 3.7
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Tainan",
+      "admin1_code": "04",
+      "location": [
+        22.99083,
+        120.21333
+      ],
+      "monthly": {
+        "Jan": 4.01,
+        "Feb": 4.31,
+        "Mar": 4.31,
+        "Apr": 4.23,
+        "May": 4.16,
+        "Jun": 4.06,
+        "Jul": 4.1,
+        "Aug": 3.83,
+        "Sep": 4.16,
+        "Oct": 4.24,
+        "Nov": 3.87,
+        "Dec": 3.78
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Taichung",
+      "admin1_code": "04",
+      "location": [
+        24.1469,
+        120.6839
+      ],
+      "monthly": {
+        "Jan": 3.81,
+        "Feb": 3.95,
+        "Mar": 3.82,
+        "Apr": 3.65,
+        "May": 3.66,
+        "Jun": 3.61,
+        "Jul": 3.96,
+        "Aug": 3.68,
+        "Sep": 4,
+        "Oct": 4.22,
+        "Nov": 3.81,
+        "Dec": 3.67
+      },
+      "average": 3.82
+    },
+    {
+      "name": "Daxi",
+      "admin1_code": "04",
+      "location": [
+        24.88373,
+        121.29043
+      ],
+      "monthly": {
+        "Jan": 2.69,
+        "Feb": 2.74,
+        "Mar": 2.91,
+        "Apr": 2.89,
+        "May": 3.25,
+        "Jun": 3.43,
+        "Jul": 4.04,
+        "Aug": 3.87,
+        "Sep": 3.92,
+        "Oct": 3.56,
+        "Nov": 3.07,
+        "Dec": 2.62
+      },
+      "average": 3.25
+    },
+    {
+      "name": "Shulin",
+      "admin1_code": "03",
+      "location": [
+        24.99085,
+        121.42199
+      ],
+      "monthly": {
+        "Jan": 2.33,
+        "Feb": 2.55,
+        "Mar": 2.87,
+        "Apr": 2.94,
+        "May": 3.33,
+        "Jun": 3.53,
+        "Jul": 4.24,
+        "Aug": 4.05,
+        "Sep": 3.89,
+        "Oct": 2.91,
+        "Nov": 2.54,
+        "Dec": 2.16
+      },
+      "average": 3.11
+    },
+    {
+      "name": "Shetou",
+      "admin1_code": "04",
+      "location": [
+        23.89804,
+        120.58831
+      ],
+      "monthly": {
+        "Jan": 3.76,
+        "Feb": 3.84,
+        "Mar": 3.75,
+        "Apr": 3.61,
+        "May": 3.7,
+        "Jun": 3.67,
+        "Jul": 4.02,
+        "Aug": 3.82,
+        "Sep": 4.12,
+        "Oct": 4.22,
+        "Nov": 3.72,
+        "Dec": 3.61
+      },
+      "average": 3.82
+    },
+    {
+      "name": "Banqiao",
+      "admin1_code": "03",
+      "location": [
+        25.01427,
+        121.46719
+      ],
+      "monthly": {
+        "Jan": 2.29,
+        "Feb": 2.54,
+        "Mar": 2.88,
+        "Apr": 2.97,
+        "May": 3.33,
+        "Jun": 3.52,
+        "Jul": 4.23,
+        "Aug": 4.06,
+        "Sep": 3.88,
+        "Oct": 2.86,
+        "Nov": 2.48,
+        "Dec": 2.11
+      },
+      "average": 3.1
+    },
+    {
+      "name": "Sanxia",
+      "admin1_code": "03",
+      "location": [
+        24.93448,
+        121.37139
+      ],
+      "monthly": {
+        "Jan": 2.51,
+        "Feb": 2.65,
+        "Mar": 2.87,
+        "Apr": 2.9,
+        "May": 3.28,
+        "Jun": 3.46,
+        "Jul": 4.11,
+        "Aug": 3.96,
+        "Sep": 3.9,
+        "Oct": 3.18,
+        "Nov": 2.77,
+        "Dec": 2.35
+      },
+      "average": 3.16
+    },
+    {
+      "name": "Sanzhi",
+      "admin1_code": "03",
+      "location": [
+        25.25782,
+        121.50182
+      ],
+      "monthly": {
+        "Jan": 1.91,
+        "Feb": 2.2,
+        "Mar": 2.71,
+        "Apr": 2.95,
+        "May": 3.34,
+        "Jun": 3.58,
+        "Jul": 4.33,
+        "Aug": 4.14,
+        "Sep": 3.71,
+        "Oct": 2.48,
+        "Nov": 2.08,
+        "Dec": 1.76
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Buzi",
+      "admin1_code": "04",
+      "location": [
+        24.21013,
+        120.5725
+      ],
+      "monthly": {
+        "Jan": 3.54,
+        "Feb": 3.65,
+        "Mar": 3.76,
+        "Apr": 3.69,
+        "May": 3.8,
+        "Jun": 3.78,
+        "Jul": 4.19,
+        "Aug": 3.97,
+        "Sep": 4.31,
+        "Oct": 4.35,
+        "Nov": 3.72,
+        "Dec": 3.53
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Budai",
+      "admin1_code": "04",
+      "location": [
+        23.37795,
+        120.16154
+      ],
+      "monthly": {
+        "Jan": 3.82,
+        "Feb": 4.05,
+        "Mar": 4.15,
+        "Apr": 4.15,
+        "May": 4.16,
+        "Jun": 4.06,
+        "Jul": 4.34,
+        "Aug": 4.08,
+        "Sep": 4.51,
+        "Oct": 4.43,
+        "Nov": 3.83,
+        "Dec": 3.66
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Puli",
+      "admin1_code": "04",
+      "location": [
+        23.96639,
+        120.96952
+      ],
+      "monthly": {
+        "Jan": 3.7,
+        "Feb": 3.79,
+        "Mar": 3.62,
+        "Apr": 3.36,
+        "May": 3.41,
+        "Jun": 3.58,
+        "Jul": 4.03,
+        "Aug": 3.79,
+        "Sep": 4.1,
+        "Oct": 4.05,
+        "Nov": 3.73,
+        "Dec": 3.52
+      },
+      "average": 3.72
+    },
+    {
+      "name": "Pitou",
+      "admin1_code": "04",
+      "location": [
+        23.895,
+        120.47858
+      ],
+      "monthly": {
+        "Jan": 3.83,
+        "Feb": 3.93,
+        "Mar": 3.88,
+        "Apr": 3.81,
+        "May": 3.87,
+        "Jun": 3.83,
+        "Jul": 4.19,
+        "Aug": 3.97,
+        "Sep": 4.33,
+        "Oct": 4.39,
+        "Nov": 3.79,
+        "Dec": 3.71
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Beidou",
+      "admin1_code": "04",
+      "location": [
+        23.87292,
+        120.52426
+      ],
+      "monthly": {
+        "Jan": 3.81,
+        "Feb": 3.9,
+        "Mar": 3.84,
+        "Apr": 3.75,
+        "May": 3.83,
+        "Jun": 3.81,
+        "Jul": 4.14,
+        "Aug": 3.93,
+        "Sep": 4.25,
+        "Oct": 4.33,
+        "Nov": 3.77,
+        "Dec": 3.67
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Beigang",
+      "admin1_code": "04",
+      "location": [
+        23.5701,
+        120.30162
+      ],
+      "monthly": {
+        "Jan": 3.88,
+        "Feb": 4.01,
+        "Mar": 4.07,
+        "Apr": 3.99,
+        "May": 3.99,
+        "Jun": 3.92,
+        "Jul": 4.14,
+        "Aug": 3.88,
+        "Sep": 4.23,
+        "Oct": 4.34,
+        "Nov": 3.82,
+        "Dec": 3.74
+      },
+      "average": 4
+    },
+    {
+      "name": "Bade",
+      "admin1_code": "04",
+      "location": [
+        24.92981,
+        121.28372
+      ],
+      "monthly": {
+        "Jan": 2.68,
+        "Feb": 2.75,
+        "Mar": 2.95,
+        "Apr": 3.02,
+        "May": 3.39,
+        "Jun": 3.57,
+        "Jul": 4.16,
+        "Aug": 4.01,
+        "Sep": 3.99,
+        "Oct": 3.47,
+        "Nov": 3.02,
+        "Dec": 2.56
+      },
+      "average": 3.3
+    },
+    {
+      "name": "Neili",
+      "admin1_code": "04",
+      "location": [
+        24.9725,
+        121.26139
+      ],
+      "monthly": {
+        "Jan": 2.57,
+        "Feb": 2.67,
+        "Mar": 2.96,
+        "Apr": 3.09,
+        "May": 3.49,
+        "Jun": 3.68,
+        "Jul": 4.22,
+        "Aug": 4.07,
+        "Sep": 4,
+        "Oct": 3.36,
+        "Nov": 2.91,
+        "Dec": 2.45
+      },
+      "average": 3.29
+    },
+    {
+      "name": "Neihu",
+      "admin1_code": "04",
+      "location": [
+        25.0815,
+        121.58809
+      ],
+      "monthly": {
+        "Jan": 2.18,
+        "Feb": 2.46,
+        "Mar": 2.85,
+        "Apr": 2.97,
+        "May": 3.3,
+        "Jun": 3.52,
+        "Jul": 4.31,
+        "Aug": 4.19,
+        "Sep": 3.89,
+        "Oct": 2.8,
+        "Nov": 2.36,
+        "Dec": 2.03
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Nantou",
+      "admin1_code": "04",
+      "location": [
+        23.91566,
+        120.66387
+      ],
+      "monthly": {
+        "Jan": 3.72,
+        "Feb": 3.79,
+        "Mar": 3.7,
+        "Apr": 3.53,
+        "May": 3.59,
+        "Jun": 3.66,
+        "Jul": 4.03,
+        "Aug": 3.82,
+        "Sep": 4.01,
+        "Oct": 4.09,
+        "Nov": 3.69,
+        "Dec": 3.55
+      },
+      "average": 3.76
+    },
+    {
+      "name": "Miaoli",
+      "admin1_code": "04",
+      "location": [
+        24.56427,
+        120.82367
+      ],
+      "monthly": {
+        "Jan": 2.87,
+        "Feb": 2.88,
+        "Mar": 3.18,
+        "Apr": 3.33,
+        "May": 3.65,
+        "Jun": 3.81,
+        "Jul": 4.18,
+        "Aug": 3.88,
+        "Sep": 4.05,
+        "Oct": 3.86,
+        "Nov": 3.27,
+        "Dec": 2.88
+      },
+      "average": 3.49
+    },
+    {
+      "name": "Magong",
+      "admin1_code": "04",
+      "location": [
+        23.5654,
+        119.58627
+      ],
+      "monthly": {
+        "Jan": 2.66,
+        "Feb": 2.91,
+        "Mar": 3.54,
+        "Apr": 3.81,
+        "May": 4.08,
+        "Jun": 4.3,
+        "Jul": 4.66,
+        "Aug": 4.3,
+        "Sep": 4.43,
+        "Oct": 3.77,
+        "Nov": 2.99,
+        "Dec": 2.67
+      },
+      "average": 3.68
+    },
+    {
+      "name": "Lugu",
+      "admin1_code": "04",
+      "location": [
+        23.74639,
+        120.7525
+      ],
+      "monthly": {
+        "Jan": 3.45,
+        "Feb": 3.45,
+        "Mar": 3.27,
+        "Apr": 2.96,
+        "May": 3,
+        "Jun": 3.19,
+        "Jul": 3.59,
+        "Aug": 3.41,
+        "Sep": 3.6,
+        "Oct": 3.49,
+        "Nov": 3.34,
+        "Dec": 3.32
+      },
+      "average": 3.34
+    },
+    {
+      "name": "Linnei",
+      "admin1_code": "04",
+      "location": [
+        23.7615,
+        120.61885
+      ],
+      "monthly": {
+        "Jan": 3.59,
+        "Feb": 3.65,
+        "Mar": 3.58,
+        "Apr": 3.4,
+        "May": 3.47,
+        "Jun": 3.59,
+        "Jul": 3.94,
+        "Aug": 3.76,
+        "Sep": 4,
+        "Oct": 4,
+        "Nov": 3.58,
+        "Dec": 3.45
+      },
+      "average": 3.67
+    },
+    {
+      "name": "Fengshan",
+      "admin1_code": "02",
+      "location": [
+        22.62659,
+        120.36126
+      ],
+      "monthly": {
+        "Jan": 3.96,
+        "Feb": 4.31,
+        "Mar": 4.23,
+        "Apr": 4.14,
+        "May": 4.05,
+        "Jun": 4.02,
+        "Jul": 4.03,
+        "Aug": 3.64,
+        "Sep": 3.95,
+        "Oct": 3.9,
+        "Nov": 3.76,
+        "Dec": 3.69
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Kaohsiung",
+      "admin1_code": "02",
+      "location": [
+        22.61626,
+        120.31333
+      ],
+      "monthly": {
+        "Jan": 4,
+        "Feb": 4.38,
+        "Mar": 4.34,
+        "Apr": 4.3,
+        "May": 4.2,
+        "Jun": 4.15,
+        "Jul": 4.17,
+        "Aug": 3.78,
+        "Sep": 4.14,
+        "Oct": 4.12,
+        "Nov": 3.87,
+        "Dec": 3.73
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Yilan",
+      "admin1_code": "04",
+      "location": [
+        24.757,
+        121.753
+      ],
+      "monthly": {
+        "Jan": 2.09,
+        "Feb": 2.44,
+        "Mar": 2.86,
+        "Apr": 2.98,
+        "May": 3.39,
+        "Jun": 4.03,
+        "Jul": 4.9,
+        "Aug": 4.65,
+        "Sep": 4.09,
+        "Oct": 2.61,
+        "Nov": 2.14,
+        "Dec": 1.89
+      },
+      "average": 3.17
+    },
+    {
+      "name": "Hualien City",
+      "admin1_code": "04",
+      "location": [
+        23.97694,
+        121.60444
+      ],
+      "monthly": {
+        "Jan": 2.25,
+        "Feb": 2.63,
+        "Mar": 2.87,
+        "Apr": 3.02,
+        "May": 3.5,
+        "Jun": 4.28,
+        "Jul": 4.98,
+        "Aug": 4.71,
+        "Sep": 4.32,
+        "Oct": 3.28,
+        "Nov": 2.63,
+        "Dec": 2.3
+      },
+      "average": 3.4
+    },
+    {
+      "name": "Xiulin",
+      "admin1_code": "04",
+      "location": [
+        24.12019,
+        121.6263
+      ],
+      "monthly": {
+        "Jan": 2.17,
+        "Feb": 2.41,
+        "Mar": 2.65,
+        "Apr": 2.75,
+        "May": 3.25,
+        "Jun": 3.95,
+        "Jul": 4.72,
+        "Aug": 4.52,
+        "Sep": 4.1,
+        "Oct": 3.13,
+        "Nov": 2.5,
+        "Dec": 2.2
+      },
+      "average": 3.2
+    },
+    {
+      "name": "Xingang",
+      "admin1_code": "04",
+      "location": [
+        23.55736,
+        120.34603
+      ],
+      "monthly": {
+        "Jan": 3.87,
+        "Feb": 3.98,
+        "Mar": 4.05,
+        "Apr": 3.96,
+        "May": 3.97,
+        "Jun": 3.86,
+        "Jul": 4.11,
+        "Aug": 3.89,
+        "Sep": 4.26,
+        "Oct": 4.35,
+        "Nov": 3.79,
+        "Dec": 3.74
+      },
+      "average": 3.99
+    },
+    {
+      "name": "Hsinchu",
+      "admin1_code": "04",
+      "location": [
+        24.80361,
+        120.96861
+      ],
+      "monthly": {
+        "Jan": 2.78,
+        "Feb": 2.79,
+        "Mar": 3.09,
+        "Apr": 3.24,
+        "May": 3.66,
+        "Jun": 3.98,
+        "Jul": 4.45,
+        "Aug": 4.2,
+        "Sep": 4.22,
+        "Oct": 3.86,
+        "Nov": 3.23,
+        "Dec": 2.8
+      },
+      "average": 3.52
+    },
+    {
+      "name": "Jinhu",
+      "admin1_code": "01",
+      "location": [
+        24.43944,
+        118.42111
+      ],
+      "monthly": {
+        "Jan": 3.33,
+        "Feb": 3.29,
+        "Mar": 3.45,
+        "Apr": 3.56,
+        "May": 3.65,
+        "Jun": 3.91,
+        "Jul": 4.71,
+        "Aug": 4.55,
+        "Sep": 4.39,
+        "Oct": 3.96,
+        "Nov": 3.44,
+        "Dec": 3.22
+      },
+      "average": 3.79
+    },
+    {
+      "name": "Xiluo",
+      "admin1_code": "04",
+      "location": [
+        23.79891,
+        120.46337
+      ],
+      "monthly": {
+        "Jan": 3.83,
+        "Feb": 3.92,
+        "Mar": 3.89,
+        "Apr": 3.81,
+        "May": 3.87,
+        "Jun": 3.84,
+        "Jul": 4.15,
+        "Aug": 3.94,
+        "Sep": 4.28,
+        "Oct": 4.34,
+        "Nov": 3.77,
+        "Dec": 3.7
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Xihu",
+      "admin1_code": "04",
+      "location": [
+        23.95683,
+        120.47918
+      ],
+      "monthly": {
+        "Jan": 3.81,
+        "Feb": 3.94,
+        "Mar": 3.89,
+        "Apr": 3.8,
+        "May": 3.87,
+        "Jun": 3.84,
+        "Jul": 4.21,
+        "Aug": 3.99,
+        "Sep": 4.33,
+        "Oct": 4.39,
+        "Nov": 3.79,
+        "Dec": 3.69
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Xizhi",
+      "admin1_code": "03",
+      "location": [
+        25.06615,
+        121.65985
+      ],
+      "monthly": {
+        "Jan": 1.86,
+        "Feb": 2.18,
+        "Mar": 2.65,
+        "Apr": 2.79,
+        "May": 3.13,
+        "Jun": 3.52,
+        "Jul": 4.35,
+        "Aug": 4.13,
+        "Sep": 3.67,
+        "Oct": 2.37,
+        "Nov": 2.03,
+        "Dec": 1.74
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Hengchun",
+      "admin1_code": "04",
+      "location": [
+        22.00417,
+        120.74389
+      ],
+      "monthly": {
+        "Jan": 3.71,
+        "Feb": 4.1,
+        "Mar": 4.3,
+        "Apr": 4.27,
+        "May": 4.12,
+        "Jun": 4.17,
+        "Jul": 4.19,
+        "Aug": 3.8,
+        "Sep": 4.2,
+        "Oct": 4.12,
+        "Nov": 3.83,
+        "Dec": 3.58
+      },
+      "average": 4.03
+    },
+    {
+      "name": "Xizhou",
+      "admin1_code": "04",
+      "location": [
+        24.27667,
+        120.68917
+      ],
+      "monthly": {
+        "Jan": 3.72,
+        "Feb": 3.83,
+        "Mar": 3.79,
+        "Apr": 3.68,
+        "May": 3.75,
+        "Jun": 3.7,
+        "Jul": 4.09,
+        "Aug": 3.84,
+        "Sep": 4.22,
+        "Oct": 4.39,
+        "Nov": 3.84,
+        "Dec": 3.64
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Erlin",
+      "admin1_code": "04",
+      "location": [
+        23.90054,
+        120.3689
+      ],
+      "monthly": {
+        "Jan": 3.77,
+        "Feb": 3.89,
+        "Mar": 3.93,
+        "Apr": 3.9,
+        "May": 3.94,
+        "Jun": 3.93,
+        "Jul": 4.34,
+        "Aug": 4.09,
+        "Sep": 4.44,
+        "Oct": 4.46,
+        "Nov": 3.82,
+        "Dec": 3.71
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Zhudong",
+      "admin1_code": "04",
+      "location": [
+        24.73167,
+        121.09083
+      ],
+      "monthly": {
+        "Jan": 2.77,
+        "Feb": 2.74,
+        "Mar": 2.88,
+        "Apr": 2.87,
+        "May": 3.2,
+        "Jun": 3.5,
+        "Jul": 3.95,
+        "Aug": 3.75,
+        "Sep": 3.89,
+        "Oct": 3.8,
+        "Nov": 3.21,
+        "Dec": 2.79
+      },
+      "average": 3.28
+    },
+    {
+      "name": "Zhushan",
+      "admin1_code": "04",
+      "location": [
+        23.75551,
+        120.68203
+      ],
+      "monthly": {
+        "Jan": 3.49,
+        "Feb": 3.51,
+        "Mar": 3.37,
+        "Apr": 3.14,
+        "May": 3.19,
+        "Jun": 3.44,
+        "Jul": 3.83,
+        "Aug": 3.63,
+        "Sep": 3.82,
+        "Oct": 3.77,
+        "Nov": 3.45,
+        "Dec": 3.36
+      },
+      "average": 3.5
+    },
+    {
+      "name": "Zhubei",
+      "admin1_code": "04",
+      "location": [
+        24.83833,
+        121.00778
+      ],
+      "monthly": {
+        "Jan": 2.8,
+        "Feb": 2.82,
+        "Mar": 3.08,
+        "Apr": 3.22,
+        "May": 3.62,
+        "Jun": 3.96,
+        "Jul": 4.43,
+        "Aug": 4.19,
+        "Sep": 4.2,
+        "Oct": 3.89,
+        "Nov": 3.25,
+        "Dec": 2.81
+      },
+      "average": 3.52
+    },
+    {
+      "name": "Jincheng",
+      "admin1_code": "01",
+      "location": [
+        24.43415,
+        118.31712
+      ],
+      "monthly": {
+        "Jan": 3.36,
+        "Feb": 3.3,
+        "Mar": 3.43,
+        "Apr": 3.54,
+        "May": 3.64,
+        "Jun": 3.88,
+        "Jul": 4.67,
+        "Aug": 4.5,
+        "Sep": 4.32,
+        "Oct": 3.96,
+        "Nov": 3.5,
+        "Dec": 3.3
+      },
+      "average": 3.78
+    },
+    {
+      "name": "Keelung",
+      "admin1_code": "04",
+      "location": [
+        25.13089,
+        121.74094
+      ],
+      "monthly": {
+        "Jan": 1.7,
+        "Feb": 2.06,
+        "Mar": 2.58,
+        "Apr": 2.8,
+        "May": 3.2,
+        "Jun": 3.66,
+        "Jul": 4.59,
+        "Aug": 4.38,
+        "Sep": 3.72,
+        "Oct": 2.29,
+        "Nov": 1.85,
+        "Dec": 1.58
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Chiayi City",
+      "admin1_code": "04",
+      "location": [
+        23.47917,
+        120.44889
+      ],
+      "monthly": {
+        "Jan": 3.76,
+        "Feb": 3.92,
+        "Mar": 3.93,
+        "Apr": 3.79,
+        "May": 3.76,
+        "Jun": 3.79,
+        "Jul": 3.96,
+        "Aug": 3.73,
+        "Sep": 4.02,
+        "Oct": 4.08,
+        "Nov": 3.69,
+        "Dec": 3.61
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Chaozhou",
+      "admin1_code": "04",
+      "location": [
+        22.54987,
+        120.54067
+      ],
+      "monthly": {
+        "Jan": 3.71,
+        "Feb": 4.07,
+        "Mar": 4.07,
+        "Apr": 4.02,
+        "May": 3.97,
+        "Jun": 4.02,
+        "Jul": 4,
+        "Aug": 3.62,
+        "Sep": 3.85,
+        "Oct": 3.66,
+        "Nov": 3.57,
+        "Dec": 3.49
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Chang-hua",
+      "admin1_code": "04",
+      "location": [
+        24.07327,
+        120.56276
+      ],
+      "monthly": {
+        "Jan": 3.74,
+        "Feb": 3.87,
+        "Mar": 3.81,
+        "Apr": 3.67,
+        "May": 3.73,
+        "Jun": 3.7,
+        "Jul": 4.07,
+        "Aug": 3.87,
+        "Sep": 4.21,
+        "Oct": 4.32,
+        "Nov": 3.75,
+        "Dec": 3.62
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Changhua",
+      "admin1_code": "04",
+      "location": [
+        24.0692,
+        120.5512
+      ],
+      "monthly": {
+        "Jan": 3.75,
+        "Feb": 3.88,
+        "Mar": 3.82,
+        "Apr": 3.69,
+        "May": 3.75,
+        "Jun": 3.72,
+        "Jul": 4.07,
+        "Aug": 3.87,
+        "Sep": 4.21,
+        "Oct": 4.33,
+        "Nov": 3.76,
+        "Dec": 3.63
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Taoyuan",
+      "admin1_code": "04",
+      "location": [
+        24.99368,
+        121.29696
+      ],
+      "monthly": {
+        "Jan": 2.55,
+        "Feb": 2.68,
+        "Mar": 2.98,
+        "Apr": 3.11,
+        "May": 3.48,
+        "Jun": 3.67,
+        "Jul": 4.22,
+        "Aug": 4.08,
+        "Sep": 4,
+        "Oct": 3.3,
+        "Nov": 2.86,
+        "Dec": 2.41
+      },
+      "average": 3.28
+    },
+    {
+      "name": "Zhongxing New Village",
+      "admin1_code": "04",
+      "location": [
+        23.95908,
+        120.68516
+      ],
+      "monthly": {
+        "Jan": 3.69,
+        "Feb": 3.78,
+        "Mar": 3.67,
+        "Apr": 3.51,
+        "May": 3.55,
+        "Jun": 3.6,
+        "Jul": 4.02,
+        "Aug": 3.81,
+        "Sep": 4.13,
+        "Oct": 4.18,
+        "Nov": 3.7,
+        "Dec": 3.51
+      },
+      "average": 3.76
+    },
+    {
+      "name": "New Taipei City",
+      "admin1_code": "03",
+      "location": [
+        25.06199,
+        121.45703
+      ],
+      "monthly": {
+        "Jan": 2.34,
+        "Feb": 2.58,
+        "Mar": 2.93,
+        "Apr": 3.03,
+        "May": 3.4,
+        "Jun": 3.55,
+        "Jul": 4.25,
+        "Aug": 4.11,
+        "Sep": 3.92,
+        "Oct": 2.92,
+        "Nov": 2.55,
+        "Dec": 2.16
+      },
+      "average": 3.14
+    }
+  ]
+}

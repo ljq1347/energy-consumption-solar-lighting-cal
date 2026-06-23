@@ -1,0 +1,29 @@
+{
+  "country": "Tonga",
+  "countryCode": "TO",
+  "cities": [
+    {
+      "name": "Nuku‘alofa",
+      "admin1_code": "02",
+      "location": [
+        -21.13683,
+        -175.20114
+      ],
+      "monthly": {
+        "Jan": 4.39,
+        "Feb": 4.48,
+        "Mar": 4.22,
+        "Apr": 3.88,
+        "May": 3.5,
+        "Jun": 3.24,
+        "Jul": 3.38,
+        "Aug": 3.68,
+        "Sep": 4.13,
+        "Oct": 4.39,
+        "Nov": 4.52,
+        "Dec": 4.6
+      },
+      "average": 4.03
+    }
+  ]
+}

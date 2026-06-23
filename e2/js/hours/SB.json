@@ -1,0 +1,167 @@
+{
+  "country": "Solomon Islands",
+  "countryCode": "SB",
+  "cities": [
+    {
+      "name": "Panatina",
+      "admin1_code": "14",
+      "location": [
+        -9.43215,
+        160.00607
+      ],
+      "monthly": {
+        "Jan": 3.85,
+        "Feb": 4.05,
+        "Mar": 4.27,
+        "Apr": 4.28,
+        "May": 4.06,
+        "Jun": 3.89,
+        "Jul": 3.82,
+        "Aug": 4.08,
+        "Sep": 4.43,
+        "Oct": 4.51,
+        "Nov": 4.3,
+        "Dec": 4.08
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Nggosi",
+      "admin1_code": "06",
+      "location": [
+        -9.43056,
+        159.92103
+      ],
+      "monthly": {
+        "Jan": 3.74,
+        "Feb": 3.9,
+        "Mar": 4.17,
+        "Apr": 4.17,
+        "May": 3.94,
+        "Jun": 3.79,
+        "Jul": 3.72,
+        "Aug": 4.01,
+        "Sep": 4.32,
+        "Oct": 4.39,
+        "Nov": 4.19,
+        "Dec": 3.99
+      },
+      "average": 4.03
+    },
+    {
+      "name": "Honiara",
+      "admin1_code": "14",
+      "location": [
+        -9.43333,
+        159.95
+      ],
+      "monthly": {
+        "Jan": 3.78,
+        "Feb": 3.96,
+        "Mar": 4.22,
+        "Apr": 4.21,
+        "May": 3.98,
+        "Jun": 3.82,
+        "Jul": 3.75,
+        "Aug": 4.03,
+        "Sep": 4.36,
+        "Oct": 4.43,
+        "Nov": 4.23,
+        "Dec": 4.03
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Kola'a",
+      "admin1_code": "14",
+      "location": [
+        -9.44112,
+        159.97002
+      ],
+      "monthly": {
+        "Jan": 3.79,
+        "Feb": 3.97,
+        "Mar": 4.2,
+        "Apr": 4.2,
+        "May": 3.98,
+        "Jun": 3.82,
+        "Jul": 3.76,
+        "Aug": 4.03,
+        "Sep": 4.35,
+        "Oct": 4.42,
+        "Nov": 4.22,
+        "Dec": 4.01
+      },
+      "average": 4.06
+    },
+    {
+      "name": "Vura",
+      "admin1_code": "14",
+      "location": [
+        -9.44203,
+        159.98877
+      ],
+      "monthly": {
+        "Jan": 3.8,
+        "Feb": 3.98,
+        "Mar": 4.19,
+        "Apr": 4.2,
+        "May": 3.99,
+        "Jun": 3.83,
+        "Jul": 3.78,
+        "Aug": 4.04,
+        "Sep": 4.35,
+        "Oct": 4.41,
+        "Nov": 4.21,
+        "Dec": 4
+      },
+      "average": 4.06
+    },
+    {
+      "name": "Malango",
+      "admin1_code": "06",
+      "location": [
+        -9.42497,
+        160.05329
+      ],
+      "monthly": {
+        "Jan": 3.88,
+        "Feb": 4.09,
+        "Mar": 4.32,
+        "Apr": 4.33,
+        "May": 4.09,
+        "Jun": 3.92,
+        "Jul": 3.84,
+        "Aug": 4.1,
+        "Sep": 4.49,
+        "Oct": 4.56,
+        "Nov": 4.36,
+        "Dec": 4.15
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Tandai",
+      "admin1_code": "06",
+      "location": [
+        -9.44666,
+        159.94549
+      ],
+      "monthly": {
+        "Jan": 3.75,
+        "Feb": 3.92,
+        "Mar": 4.16,
+        "Apr": 4.16,
+        "May": 3.93,
+        "Jun": 3.79,
+        "Jul": 3.73,
+        "Aug": 4,
+        "Sep": 4.3,
+        "Oct": 4.37,
+        "Nov": 4.17,
+        "Dec": 3.97
+      },
+      "average": 4.02
+    }
+  ]
+}

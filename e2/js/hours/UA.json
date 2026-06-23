@@ -1,0 +1,8608 @@
+{
+  "country": "Ukraine",
+  "countryCode": "UA",
+  "cities": [
+    {
+      "name": "Lebedyn",
+      "admin1_code": "21",
+      "location": [
+        50.58518,
+        34.4849
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.29,
+        "Mar": 3.35,
+        "Apr": 4.06,
+        "May": 4.7,
+        "Jun": 4.81,
+        "Jul": 4.79,
+        "Aug": 4.6,
+        "Sep": 3.68,
+        "Oct": 2.5,
+        "Nov": 1.22,
+        "Dec": 0.91
+      },
+      "average": 3.18
+    },
+    {
+      "name": "Druzhkivka",
+      "admin1_code": "05",
+      "location": [
+        48.61995,
+        37.52537
+      ],
+      "monthly": {
+        "Jan": 1.49,
+        "Feb": 2.37,
+        "Mar": 3.37,
+        "Apr": 4.13,
+        "May": 4.76,
+        "Jun": 4.86,
+        "Jul": 4.91,
+        "Aug": 4.78,
+        "Sep": 4.11,
+        "Oct": 2.92,
+        "Nov": 1.6,
+        "Dec": 1.07
+      },
+      "average": 3.36
+    },
+    {
+      "name": "Zvenyhorodka",
+      "admin1_code": "01",
+      "location": [
+        49.07765,
+        30.96074
+      ],
+      "monthly": {
+        "Jan": 1.47,
+        "Feb": 2.29,
+        "Mar": 3.39,
+        "Apr": 4.15,
+        "May": 4.76,
+        "Jun": 4.91,
+        "Jul": 4.88,
+        "Aug": 4.74,
+        "Sep": 3.83,
+        "Oct": 2.82,
+        "Nov": 1.39,
+        "Dec": 1.04
+      },
+      "average": 3.31
+    },
+    {
+      "name": "Zuhres",
+      "admin1_code": "05",
+      "location": [
+        48.01428,
+        38.26599
+      ],
+      "monthly": {
+        "Jan": 1.55,
+        "Feb": 2.45,
+        "Mar": 3.32,
+        "Apr": 4.15,
+        "May": 4.77,
+        "Jun": 4.9,
+        "Jul": 4.99,
+        "Aug": 4.84,
+        "Sep": 4.21,
+        "Oct": 3.01,
+        "Nov": 1.66,
+        "Dec": 1.12
+      },
+      "average": 3.41
+    },
+    {
+      "name": "Zolotonosha",
+      "admin1_code": "01",
+      "location": [
+        49.66926,
+        32.03637
+      ],
+      "monthly": {
+        "Jan": 1.42,
+        "Feb": 2.36,
+        "Mar": 3.37,
+        "Apr": 4.19,
+        "May": 4.8,
+        "Jun": 4.96,
+        "Jul": 4.9,
+        "Aug": 4.74,
+        "Sep": 3.81,
+        "Oct": 2.74,
+        "Nov": 1.33,
+        "Dec": 1.05
+      },
+      "average": 3.31
+    },
+    {
+      "name": "Zolochiv",
+      "admin1_code": "15",
+      "location": [
+        49.8074,
+        24.90376
+      ],
+      "monthly": {
+        "Jan": 1.41,
+        "Feb": 2.14,
+        "Mar": 3.19,
+        "Apr": 3.99,
+        "May": 4.4,
+        "Jun": 4.54,
+        "Jul": 4.45,
+        "Aug": 4.39,
+        "Sep": 3.5,
+        "Oct": 2.62,
+        "Nov": 1.4,
+        "Dec": 1.09
+      },
+      "average": 3.09
+    },
+    {
+      "name": "Znamyanka",
+      "admin1_code": "10",
+      "location": [
+        48.72066,
+        32.65822
+      ],
+      "monthly": {
+        "Jan": 1.43,
+        "Feb": 2.33,
+        "Mar": 3.37,
+        "Apr": 4.22,
+        "May": 4.75,
+        "Jun": 4.99,
+        "Jul": 5,
+        "Aug": 4.8,
+        "Sep": 3.96,
+        "Oct": 2.87,
+        "Nov": 1.41,
+        "Dec": 1.07
+      },
+      "average": 3.35
+    },
+    {
+      "name": "Zhytomyr",
+      "admin1_code": "27",
+      "location": [
+        50.26235,
+        28.67913
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.14,
+        "Mar": 3.28,
+        "Apr": 4.14,
+        "May": 4.65,
+        "Jun": 4.8,
+        "Jul": 4.61,
+        "Aug": 4.5,
+        "Sep": 3.62,
+        "Oct": 2.6,
+        "Nov": 1.27,
+        "Dec": 1.01
+      },
+      "average": 3.16
+    },
+    {
+      "name": "Zhmerynka",
+      "admin1_code": "23",
+      "location": [
+        49.03523,
+        28.11405
+      ],
+      "monthly": {
+        "Jan": 1.47,
+        "Feb": 2.24,
+        "Mar": 3.4,
+        "Apr": 4.17,
+        "May": 4.73,
+        "Jun": 4.84,
+        "Jul": 4.72,
+        "Aug": 4.64,
+        "Sep": 3.74,
+        "Oct": 2.79,
+        "Nov": 1.45,
+        "Dec": 1.06
+      },
+      "average": 3.27
+    },
+    {
+      "name": "Zhovti Vody",
+      "admin1_code": "04",
+      "location": [
+        48.34518,
+        33.49743
+      ],
+      "monthly": {
+        "Jan": 1.47,
+        "Feb": 2.46,
+        "Mar": 3.38,
+        "Apr": 4.2,
+        "May": 4.77,
+        "Jun": 4.94,
+        "Jul": 5,
+        "Aug": 4.84,
+        "Sep": 4.08,
+        "Oct": 2.99,
+        "Nov": 1.53,
+        "Dec": 1.12
+      },
+      "average": 3.4
+    },
+    {
+      "name": "Zdolbuniv",
+      "admin1_code": "19",
+      "location": [
+        50.52205,
+        26.24823
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.1,
+        "Mar": 3.28,
+        "Apr": 4.14,
+        "May": 4.61,
+        "Jun": 4.72,
+        "Jul": 4.53,
+        "Aug": 4.47,
+        "Sep": 3.51,
+        "Oct": 2.55,
+        "Nov": 1.29,
+        "Dec": 0.93
+      },
+      "average": 3.12
+    },
+    {
+      "name": "Zaporizhzhya",
+      "admin1_code": "26",
+      "location": [
+        47.85167,
+        35.11714
+      ],
+      "monthly": {
+        "Jan": 1.58,
+        "Feb": 2.48,
+        "Mar": 3.37,
+        "Apr": 4.25,
+        "May": 4.88,
+        "Jun": 4.98,
+        "Jul": 5.05,
+        "Aug": 4.92,
+        "Sep": 4.16,
+        "Oct": 3.04,
+        "Nov": 1.67,
+        "Dec": 1.17
+      },
+      "average": 3.46
+    },
+    {
+      "name": "Pivdenne",
+      "admin1_code": "17",
+      "location": [
+        46.62472,
+        31.10182
+      ],
+      "monthly": {
+        "Jan": 1.69,
+        "Feb": 2.63,
+        "Mar": 3.54,
+        "Apr": 4.47,
+        "May": 5.04,
+        "Jun": 5.12,
+        "Jul": 5.2,
+        "Aug": 5.04,
+        "Sep": 4.29,
+        "Oct": 3.22,
+        "Nov": 1.78,
+        "Dec": 1.44
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Katerynivka",
+      "admin1_code": "14",
+      "location": [
+        48.55586,
+        39.18277
+      ],
+      "monthly": {
+        "Jan": 1.5,
+        "Feb": 2.35,
+        "Mar": 3.27,
+        "Apr": 4.14,
+        "May": 4.81,
+        "Jun": 4.88,
+        "Jul": 4.91,
+        "Aug": 4.79,
+        "Sep": 4.13,
+        "Oct": 2.89,
+        "Nov": 1.56,
+        "Dec": 1.01
+      },
+      "average": 3.35
+    },
+    {
+      "name": "Yevpatoriya",
+      "admin1_code": "11",
+      "location": [
+        45.20091,
+        33.36655
+      ],
+      "monthly": {
+        "Jan": 1.77,
+        "Feb": 2.69,
+        "Mar": 3.66,
+        "Apr": 4.64,
+        "May": 5.15,
+        "Jun": 5.23,
+        "Jul": 5.41,
+        "Aug": 5.16,
+        "Sep": 4.48,
+        "Oct": 3.38,
+        "Nov": 2.2,
+        "Dec": 1.54
+      },
+      "average": 3.78
+    },
+    {
+      "name": "Yenakiyeve",
+      "admin1_code": "05",
+      "location": [
+        48.23857,
+        38.20403
+      ],
+      "monthly": {
+        "Jan": 1.53,
+        "Feb": 2.38,
+        "Mar": 3.32,
+        "Apr": 4.14,
+        "May": 4.77,
+        "Jun": 4.94,
+        "Jul": 5.02,
+        "Aug": 4.87,
+        "Sep": 4.19,
+        "Oct": 2.95,
+        "Nov": 1.64,
+        "Dec": 1.1
+      },
+      "average": 3.4
+    },
+    {
+      "name": "Yasynuvata",
+      "admin1_code": "05",
+      "location": [
+        48.12678,
+        37.85924
+      ],
+      "monthly": {
+        "Jan": 1.54,
+        "Feb": 2.43,
+        "Mar": 3.32,
+        "Apr": 4.14,
+        "May": 4.78,
+        "Jun": 4.93,
+        "Jul": 5.03,
+        "Aug": 4.9,
+        "Sep": 4.22,
+        "Oct": 3,
+        "Nov": 1.66,
+        "Dec": 1.14
+      },
+      "average": 3.42
+    },
+    {
+      "name": "Yalta",
+      "admin1_code": "11",
+      "location": [
+        44.50218,
+        34.16624
+      ],
+      "monthly": {
+        "Jan": 1.77,
+        "Feb": 2.56,
+        "Mar": 3.38,
+        "Apr": 4.26,
+        "May": 4.64,
+        "Jun": 4.84,
+        "Jul": 4.94,
+        "Aug": 4.69,
+        "Sep": 4.04,
+        "Oct": 3.07,
+        "Nov": 2.14,
+        "Dec": 1.6
+      },
+      "average": 3.49
+    },
+    {
+      "name": "Yahotyn",
+      "admin1_code": "13",
+      "location": [
+        50.27975,
+        31.76246
+      ],
+      "monthly": {
+        "Jan": 1.34,
+        "Feb": 2.31,
+        "Mar": 3.39,
+        "Apr": 4.14,
+        "May": 4.74,
+        "Jun": 4.93,
+        "Jul": 4.82,
+        "Aug": 4.64,
+        "Sep": 3.73,
+        "Oct": 2.61,
+        "Nov": 1.24,
+        "Dec": 0.96
+      },
+      "average": 3.24
+    },
+    {
+      "name": "Vyshhorod",
+      "admin1_code": "13",
+      "location": [
+        50.58476,
+        30.4898
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.18,
+        "Mar": 3.34,
+        "Apr": 4.09,
+        "May": 4.62,
+        "Jun": 4.76,
+        "Jul": 4.67,
+        "Aug": 4.45,
+        "Sep": 3.65,
+        "Oct": 2.51,
+        "Nov": 1.19,
+        "Dec": 0.94
+      },
+      "average": 3.14
+    },
+    {
+      "name": "Vynohradiv",
+      "admin1_code": "25",
+      "location": [
+        48.14126,
+        23.03623
+      ],
+      "monthly": {
+        "Jan": 1.52,
+        "Feb": 2.39,
+        "Mar": 3.56,
+        "Apr": 4.25,
+        "May": 4.65,
+        "Jun": 4.84,
+        "Jul": 4.77,
+        "Aug": 4.77,
+        "Sep": 3.77,
+        "Oct": 2.88,
+        "Nov": 1.82,
+        "Dec": 1.16
+      },
+      "average": 3.37
+    },
+    {
+      "name": "Vyhurivshchyna-Troyeshchyna",
+      "admin1_code": "12",
+      "location": [
+        50.51137,
+        30.60251
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.22,
+        "Mar": 3.37,
+        "Apr": 4.15,
+        "May": 4.68,
+        "Jun": 4.8,
+        "Jul": 4.7,
+        "Aug": 4.5,
+        "Sep": 3.69,
+        "Oct": 2.58,
+        "Nov": 1.23,
+        "Dec": 0.98
+      },
+      "average": 3.18
+    },
+    {
+      "name": "Voznesensk",
+      "admin1_code": "16",
+      "location": [
+        47.56218,
+        31.33602
+      ],
+      "monthly": {
+        "Jan": 1.56,
+        "Feb": 2.47,
+        "Mar": 3.45,
+        "Apr": 4.24,
+        "May": 4.76,
+        "Jun": 4.88,
+        "Jul": 4.98,
+        "Aug": 4.79,
+        "Sep": 4.02,
+        "Oct": 3.09,
+        "Nov": 1.64,
+        "Dec": 1.28
+      },
+      "average": 3.43
+    },
+    {
+      "name": "Volochysk",
+      "admin1_code": "09",
+      "location": [
+        49.53606,
+        26.20681
+      ],
+      "monthly": {
+        "Jan": 1.41,
+        "Feb": 2.22,
+        "Mar": 3.33,
+        "Apr": 4.08,
+        "May": 4.57,
+        "Jun": 4.68,
+        "Jul": 4.55,
+        "Aug": 4.49,
+        "Sep": 3.61,
+        "Oct": 2.68,
+        "Nov": 1.36,
+        "Dec": 1.03
+      },
+      "average": 3.17
+    },
+    {
+      "name": "Volnovakha",
+      "admin1_code": "05",
+      "location": [
+        47.6008,
+        37.49358
+      ],
+      "monthly": {
+        "Jan": 1.58,
+        "Feb": 2.48,
+        "Mar": 3.37,
+        "Apr": 4.22,
+        "May": 4.81,
+        "Jun": 4.9,
+        "Jul": 5.07,
+        "Aug": 4.97,
+        "Sep": 4.29,
+        "Oct": 3.15,
+        "Nov": 1.74,
+        "Dec": 1.2
+      },
+      "average": 3.48
+    },
+    {
+      "name": "Vilnohirsk",
+      "admin1_code": "04",
+      "location": [
+        48.48416,
+        34.01708
+      ],
+      "monthly": {
+        "Jan": 1.49,
+        "Feb": 2.43,
+        "Mar": 3.39,
+        "Apr": 4.21,
+        "May": 4.81,
+        "Jun": 4.97,
+        "Jul": 5.05,
+        "Aug": 4.91,
+        "Sep": 4.1,
+        "Oct": 2.98,
+        "Nov": 1.54,
+        "Dec": 1.08
+      },
+      "average": 3.41
+    },
+    {
+      "name": "Vovchansk",
+      "admin1_code": "07",
+      "location": [
+        50.29078,
+        36.94108
+      ],
+      "monthly": {
+        "Jan": 1.38,
+        "Feb": 2.28,
+        "Mar": 3.38,
+        "Apr": 4.1,
+        "May": 4.74,
+        "Jun": 4.88,
+        "Jul": 4.87,
+        "Aug": 4.68,
+        "Sep": 3.9,
+        "Oct": 2.62,
+        "Nov": 1.33,
+        "Dec": 0.91
+      },
+      "average": 3.26
+    },
+    {
+      "name": "Volodymyr-Volynskyi",
+      "admin1_code": "24",
+      "location": [
+        50.85033,
+        24.32119
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.06,
+        "Mar": 3.28,
+        "Apr": 4.11,
+        "May": 4.6,
+        "Jun": 4.73,
+        "Jul": 4.51,
+        "Aug": 4.42,
+        "Sep": 3.47,
+        "Oct": 2.58,
+        "Nov": 1.29,
+        "Dec": 0.98
+      },
+      "average": 3.11
+    },
+    {
+      "name": "Vyshneve",
+      "admin1_code": "13",
+      "location": [
+        50.38913,
+        30.3705
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.14,
+        "Mar": 3.32,
+        "Apr": 4.14,
+        "May": 4.71,
+        "Jun": 4.85,
+        "Jul": 4.73,
+        "Aug": 4.52,
+        "Sep": 3.69,
+        "Oct": 2.58,
+        "Nov": 1.23,
+        "Dec": 0.92
+      },
+      "average": 3.17
+    },
+    {
+      "name": "Vinnytsya",
+      "admin1_code": "23",
+      "location": [
+        49.2322,
+        28.46871
+      ],
+      "monthly": {
+        "Jan": 1.45,
+        "Feb": 2.2,
+        "Mar": 3.31,
+        "Apr": 4.11,
+        "May": 4.66,
+        "Jun": 4.78,
+        "Jul": 4.66,
+        "Aug": 4.6,
+        "Sep": 3.69,
+        "Oct": 2.75,
+        "Nov": 1.4,
+        "Dec": 1.06
+      },
+      "average": 3.22
+    },
+    {
+      "name": "Vynnyky",
+      "admin1_code": "15",
+      "location": [
+        49.81672,
+        24.14417
+      ],
+      "monthly": {
+        "Jan": 1.46,
+        "Feb": 2.22,
+        "Mar": 3.24,
+        "Apr": 4.01,
+        "May": 4.39,
+        "Jun": 4.5,
+        "Jul": 4.41,
+        "Aug": 4.38,
+        "Sep": 3.51,
+        "Oct": 2.66,
+        "Nov": 1.47,
+        "Dec": 1.18
+      },
+      "average": 3.12
+    },
+    {
+      "name": "Vilnyansk",
+      "admin1_code": "26",
+      "location": [
+        47.94768,
+        35.44034
+      ],
+      "monthly": {
+        "Jan": 1.58,
+        "Feb": 2.51,
+        "Mar": 3.39,
+        "Apr": 4.23,
+        "May": 4.84,
+        "Jun": 4.96,
+        "Jul": 5.07,
+        "Aug": 4.94,
+        "Sep": 4.21,
+        "Oct": 3.1,
+        "Nov": 1.69,
+        "Dec": 1.15
+      },
+      "average": 3.47
+    },
+    {
+      "name": "Verkhnodniprovsk",
+      "admin1_code": "04",
+      "location": [
+        48.65557,
+        34.3262
+      ],
+      "monthly": {
+        "Jan": 1.42,
+        "Feb": 2.37,
+        "Mar": 3.36,
+        "Apr": 4.22,
+        "May": 4.81,
+        "Jun": 4.96,
+        "Jul": 5.03,
+        "Aug": 4.91,
+        "Sep": 4.09,
+        "Oct": 2.91,
+        "Nov": 1.49,
+        "Dec": 1.1
+      },
+      "average": 3.39
+    },
+    {
+      "name": "Velyka Kokhnivka",
+      "admin1_code": "18",
+      "location": [
+        49.11719,
+        33.48033
+      ],
+      "monthly": {
+        "Jan": 1.41,
+        "Feb": 2.36,
+        "Mar": 3.41,
+        "Apr": 4.26,
+        "May": 4.86,
+        "Jun": 5.02,
+        "Jul": 4.99,
+        "Aug": 4.84,
+        "Sep": 3.98,
+        "Oct": 2.85,
+        "Nov": 1.41,
+        "Dec": 1.09
+      },
+      "average": 3.37
+    },
+    {
+      "name": "Bahacheve",
+      "admin1_code": "01",
+      "location": [
+        49.01198,
+        31.04659
+      ],
+      "monthly": {
+        "Jan": 1.47,
+        "Feb": 2.31,
+        "Mar": 3.4,
+        "Apr": 4.14,
+        "May": 4.73,
+        "Jun": 4.89,
+        "Jul": 4.88,
+        "Aug": 4.74,
+        "Sep": 3.83,
+        "Oct": 2.84,
+        "Nov": 1.37,
+        "Dec": 1.03
+      },
+      "average": 3.3
+    },
+    {
+      "name": "Vasylkiv",
+      "admin1_code": "13",
+      "location": [
+        50.18693,
+        30.31346
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.14,
+        "Mar": 3.36,
+        "Apr": 4.17,
+        "May": 4.71,
+        "Jun": 4.88,
+        "Jul": 4.76,
+        "Aug": 4.58,
+        "Sep": 3.72,
+        "Oct": 2.62,
+        "Nov": 1.23,
+        "Dec": 0.93
+      },
+      "average": 3.2
+    },
+    {
+      "name": "Uzhhorod",
+      "admin1_code": "25",
+      "location": [
+        48.6242,
+        22.2947
+      ],
+      "monthly": {
+        "Jan": 1.46,
+        "Feb": 2.32,
+        "Mar": 3.59,
+        "Apr": 4.29,
+        "May": 4.67,
+        "Jun": 4.81,
+        "Jul": 4.68,
+        "Aug": 4.69,
+        "Sep": 3.77,
+        "Oct": 2.79,
+        "Nov": 1.68,
+        "Dec": 1.1
+      },
+      "average": 3.32
+    },
+    {
+      "name": "Uman",
+      "admin1_code": "01",
+      "location": [
+        48.7501,
+        30.21944
+      ],
+      "monthly": {
+        "Jan": 1.49,
+        "Feb": 2.34,
+        "Mar": 3.44,
+        "Apr": 4.18,
+        "May": 4.74,
+        "Jun": 4.91,
+        "Jul": 4.86,
+        "Aug": 4.77,
+        "Sep": 3.84,
+        "Oct": 2.87,
+        "Nov": 1.44,
+        "Dec": 1.11
+      },
+      "average": 3.33
+    },
+    {
+      "name": "Tulchyn",
+      "admin1_code": "23",
+      "location": [
+        48.67397,
+        28.86848
+      ],
+      "monthly": {
+        "Jan": 1.5,
+        "Feb": 2.34,
+        "Mar": 3.45,
+        "Apr": 4.18,
+        "May": 4.72,
+        "Jun": 4.84,
+        "Jul": 4.76,
+        "Aug": 4.69,
+        "Sep": 3.81,
+        "Oct": 2.89,
+        "Nov": 1.52,
+        "Dec": 1.15
+      },
+      "average": 3.32
+    },
+    {
+      "name": "Oleshky",
+      "admin1_code": "08",
+      "location": [
+        46.62553,
+        32.72426
+      ],
+      "monthly": {
+        "Jan": 1.64,
+        "Feb": 2.61,
+        "Mar": 3.52,
+        "Apr": 4.4,
+        "May": 4.87,
+        "Jun": 4.99,
+        "Jul": 5.13,
+        "Aug": 4.99,
+        "Sep": 4.29,
+        "Oct": 3.22,
+        "Nov": 1.84,
+        "Dec": 1.4
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Truskavets",
+      "admin1_code": "15",
+      "location": [
+        49.28067,
+        23.50365
+      ],
+      "monthly": {
+        "Jan": 1.68,
+        "Feb": 2.33,
+        "Mar": 3.17,
+        "Apr": 3.83,
+        "May": 4.07,
+        "Jun": 4.22,
+        "Jul": 4.19,
+        "Aug": 4.21,
+        "Sep": 3.4,
+        "Oct": 2.68,
+        "Nov": 1.67,
+        "Dec": 1.39
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Trostyanets",
+      "admin1_code": "21",
+      "location": [
+        50.48478,
+        34.96567
+      ],
+      "monthly": {
+        "Jan": 1.35,
+        "Feb": 2.33,
+        "Mar": 3.39,
+        "Apr": 4.07,
+        "May": 4.7,
+        "Jun": 4.88,
+        "Jul": 4.85,
+        "Aug": 4.66,
+        "Sep": 3.74,
+        "Oct": 2.55,
+        "Nov": 1.26,
+        "Dec": 0.93
+      },
+      "average": 3.23
+    },
+    {
+      "name": "Chystyakove",
+      "admin1_code": "05",
+      "location": [
+        48.03876,
+        38.59685
+      ],
+      "monthly": {
+        "Jan": 1.56,
+        "Feb": 2.42,
+        "Mar": 3.31,
+        "Apr": 4.18,
+        "May": 4.79,
+        "Jun": 4.92,
+        "Jul": 4.99,
+        "Aug": 4.85,
+        "Sep": 4.21,
+        "Oct": 3,
+        "Nov": 1.66,
+        "Dec": 1.08
+      },
+      "average": 3.41
+    },
+    {
+      "name": "Tokmak",
+      "admin1_code": "26",
+      "location": [
+        47.25554,
+        35.70836
+      ],
+      "monthly": {
+        "Jan": 1.66,
+        "Feb": 2.58,
+        "Mar": 3.4,
+        "Apr": 4.22,
+        "May": 4.82,
+        "Jun": 4.93,
+        "Jul": 5.07,
+        "Aug": 4.92,
+        "Sep": 4.26,
+        "Oct": 3.22,
+        "Nov": 1.83,
+        "Dec": 1.27
+      },
+      "average": 3.52
+    },
+    {
+      "name": "Terny",
+      "admin1_code": "04",
+      "location": [
+        48.14512,
+        33.55832
+      ],
+      "monthly": {
+        "Jan": 1.5,
+        "Feb": 2.44,
+        "Mar": 3.35,
+        "Apr": 4.19,
+        "May": 4.77,
+        "Jun": 4.92,
+        "Jul": 4.99,
+        "Aug": 4.85,
+        "Sep": 4.09,
+        "Oct": 3,
+        "Nov": 1.53,
+        "Dec": 1.13
+      },
+      "average": 3.4
+    },
+    {
+      "name": "Ternivka",
+      "admin1_code": "04",
+      "location": [
+        48.52656,
+        36.07051
+      ],
+      "monthly": {
+        "Jan": 1.47,
+        "Feb": 2.37,
+        "Mar": 3.39,
+        "Apr": 4.16,
+        "May": 4.82,
+        "Jun": 4.94,
+        "Jul": 5,
+        "Aug": 4.85,
+        "Sep": 4.14,
+        "Oct": 2.99,
+        "Nov": 1.6,
+        "Dec": 1.06
+      },
+      "average": 3.4
+    },
+    {
+      "name": "Ternopil",
+      "admin1_code": "22",
+      "location": [
+        49.55404,
+        25.59067
+      ],
+      "monthly": {
+        "Jan": 1.39,
+        "Feb": 2.21,
+        "Mar": 3.31,
+        "Apr": 4.04,
+        "May": 4.48,
+        "Jun": 4.59,
+        "Jul": 4.5,
+        "Aug": 4.43,
+        "Sep": 3.56,
+        "Oct": 2.66,
+        "Nov": 1.34,
+        "Dec": 1.06
+      },
+      "average": 3.13
+    },
+    {
+      "name": "Telychka",
+      "admin1_code": "12",
+      "location": [
+        50.4,
+        30.56667
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.18,
+        "Mar": 3.32,
+        "Apr": 4.12,
+        "May": 4.69,
+        "Jun": 4.83,
+        "Jul": 4.72,
+        "Aug": 4.5,
+        "Sep": 3.67,
+        "Oct": 2.56,
+        "Nov": 1.23,
+        "Dec": 0.98
+      },
+      "average": 3.17
+    },
+    {
+      "name": "Siverskodonetsk",
+      "admin1_code": "14",
+      "location": [
+        48.94628,
+        38.48624
+      ],
+      "monthly": {
+        "Jan": 1.48,
+        "Feb": 2.35,
+        "Mar": 3.3,
+        "Apr": 4.14,
+        "May": 4.74,
+        "Jun": 4.86,
+        "Jul": 4.87,
+        "Aug": 4.75,
+        "Sep": 4.07,
+        "Oct": 2.8,
+        "Nov": 1.53,
+        "Dec": 1.04
+      },
+      "average": 3.33
+    },
+    {
+      "name": "Svitlovodsk",
+      "admin1_code": "10",
+      "location": [
+        49.06287,
+        33.2458
+      ],
+      "monthly": {
+        "Jan": 1.39,
+        "Feb": 2.35,
+        "Mar": 3.45,
+        "Apr": 4.3,
+        "May": 4.88,
+        "Jun": 5.07,
+        "Jul": 5.05,
+        "Aug": 4.88,
+        "Sep": 4.01,
+        "Oct": 2.82,
+        "Nov": 1.38,
+        "Dec": 1.07
+      },
+      "average": 3.39
+    },
+    {
+      "name": "Dovzhansk",
+      "admin1_code": "14",
+      "location": [
+        48.08964,
+        39.65243
+      ],
+      "monthly": {
+        "Jan": 1.51,
+        "Feb": 2.41,
+        "Mar": 3.31,
+        "Apr": 4.25,
+        "May": 4.86,
+        "Jun": 4.95,
+        "Jul": 5.01,
+        "Aug": 4.9,
+        "Sep": 4.26,
+        "Oct": 3,
+        "Nov": 1.64,
+        "Dec": 1.05
+      },
+      "average": 3.43
+    },
+    {
+      "name": "Svatove",
+      "admin1_code": "14",
+      "location": [
+        49.40719,
+        38.15362
+      ],
+      "monthly": {
+        "Jan": 1.38,
+        "Feb": 2.33,
+        "Mar": 3.37,
+        "Apr": 4.14,
+        "May": 4.76,
+        "Jun": 4.92,
+        "Jul": 4.92,
+        "Aug": 4.74,
+        "Sep": 4.02,
+        "Oct": 2.76,
+        "Nov": 1.45,
+        "Dec": 0.95
+      },
+      "average": 3.31
+    },
+    {
+      "name": "Svalyava",
+      "admin1_code": "25",
+      "location": [
+        48.54735,
+        22.98673
+      ],
+      "monthly": {
+        "Jan": 1.5,
+        "Feb": 2.34,
+        "Mar": 3.38,
+        "Apr": 3.97,
+        "May": 4.37,
+        "Jun": 4.61,
+        "Jul": 4.53,
+        "Aug": 4.53,
+        "Sep": 3.59,
+        "Oct": 2.7,
+        "Nov": 1.68,
+        "Dec": 1.13
+      },
+      "average": 3.19
+    },
+    {
+      "name": "Sumy",
+      "admin1_code": "21",
+      "location": [
+        50.91741,
+        34.79906
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2.26,
+        "Mar": 3.38,
+        "Apr": 4.09,
+        "May": 4.73,
+        "Jun": 4.89,
+        "Jul": 4.8,
+        "Aug": 4.61,
+        "Sep": 3.67,
+        "Oct": 2.46,
+        "Nov": 1.19,
+        "Dec": 0.81
+      },
+      "average": 3.18
+    },
+    {
+      "name": "Sukhodilsk",
+      "admin1_code": "14",
+      "location": [
+        48.35022,
+        39.72698
+      ],
+      "monthly": {
+        "Jan": 1.52,
+        "Feb": 2.39,
+        "Mar": 3.29,
+        "Apr": 4.23,
+        "May": 4.89,
+        "Jun": 4.94,
+        "Jul": 4.97,
+        "Aug": 4.86,
+        "Sep": 4.22,
+        "Oct": 2.96,
+        "Nov": 1.62,
+        "Dec": 1.05
+      },
+      "average": 3.41
+    },
+    {
+      "name": "Sudak",
+      "admin1_code": "11",
+      "location": [
+        44.84924,
+        34.97471
+      ],
+      "monthly": {
+        "Jan": 1.86,
+        "Feb": 2.64,
+        "Mar": 3.5,
+        "Apr": 4.44,
+        "May": 4.98,
+        "Jun": 5.1,
+        "Jul": 5.27,
+        "Aug": 5.05,
+        "Sep": 4.4,
+        "Oct": 3.3,
+        "Nov": 2.24,
+        "Dec": 1.69
+      },
+      "average": 3.71
+    },
+    {
+      "name": "Stryi",
+      "admin1_code": "15",
+      "location": [
+        49.26103,
+        23.84845
+      ],
+      "monthly": {
+        "Jan": 1.6,
+        "Feb": 2.3,
+        "Mar": 3.24,
+        "Apr": 3.99,
+        "May": 4.27,
+        "Jun": 4.41,
+        "Jul": 4.36,
+        "Aug": 4.34,
+        "Sep": 3.5,
+        "Oct": 2.69,
+        "Nov": 1.58,
+        "Dec": 1.29
+      },
+      "average": 3.13
+    },
+    {
+      "name": "Stebnyk",
+      "admin1_code": "15",
+      "location": [
+        49.30098,
+        23.55197
+      ],
+      "monthly": {
+        "Jan": 1.63,
+        "Feb": 2.32,
+        "Mar": 3.21,
+        "Apr": 3.9,
+        "May": 4.15,
+        "Jun": 4.32,
+        "Jul": 4.28,
+        "Aug": 4.29,
+        "Sep": 3.45,
+        "Oct": 2.68,
+        "Nov": 1.62,
+        "Dec": 1.35
+      },
+      "average": 3.1
+    },
+    {
+      "name": "Starokostyantyniv",
+      "admin1_code": "09",
+      "location": [
+        49.75522,
+        27.21229
+      ],
+      "monthly": {
+        "Jan": 1.37,
+        "Feb": 2.15,
+        "Mar": 3.32,
+        "Apr": 4.11,
+        "May": 4.62,
+        "Jun": 4.77,
+        "Jul": 4.59,
+        "Aug": 4.52,
+        "Sep": 3.61,
+        "Oct": 2.67,
+        "Nov": 1.35,
+        "Dec": 1.02
+      },
+      "average": 3.18
+    },
+    {
+      "name": "Starobilsk",
+      "admin1_code": "14",
+      "location": [
+        49.27719,
+        38.91673
+      ],
+      "monthly": {
+        "Jan": 1.42,
+        "Feb": 2.35,
+        "Mar": 3.35,
+        "Apr": 4.18,
+        "May": 4.8,
+        "Jun": 4.93,
+        "Jul": 4.93,
+        "Aug": 4.78,
+        "Sep": 4.04,
+        "Oct": 2.77,
+        "Nov": 1.49,
+        "Dec": 0.95
+      },
+      "average": 3.33
+    },
+    {
+      "name": "Stara Darnytsya",
+      "admin1_code": "12",
+      "location": [
+        50.43333,
+        30.63333
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.2,
+        "Mar": 3.33,
+        "Apr": 4.13,
+        "May": 4.7,
+        "Jun": 4.82,
+        "Jul": 4.71,
+        "Aug": 4.51,
+        "Sep": 3.68,
+        "Oct": 2.57,
+        "Nov": 1.23,
+        "Dec": 0.99
+      },
+      "average": 3.18
+    },
+    {
+      "name": "Kadiyivka",
+      "admin1_code": "14",
+      "location": [
+        48.56818,
+        38.64352
+      ],
+      "monthly": {
+        "Jan": 1.52,
+        "Feb": 2.38,
+        "Mar": 3.31,
+        "Apr": 4.16,
+        "May": 4.8,
+        "Jun": 4.9,
+        "Jul": 4.92,
+        "Aug": 4.8,
+        "Sep": 4.13,
+        "Oct": 2.89,
+        "Nov": 1.59,
+        "Dec": 1.05
+      },
+      "average": 3.37
+    },
+    {
+      "name": "Sotsmisto",
+      "admin1_code": "05",
+      "location": [
+        48.73663,
+        37.59075
+      ],
+      "monthly": {
+        "Jan": 1.46,
+        "Feb": 2.36,
+        "Mar": 3.36,
+        "Apr": 4.14,
+        "May": 4.77,
+        "Jun": 4.88,
+        "Jul": 4.92,
+        "Aug": 4.79,
+        "Sep": 4.1,
+        "Oct": 2.88,
+        "Nov": 1.56,
+        "Dec": 1.07
+      },
+      "average": 3.36
+    },
+    {
+      "name": "Sokal",
+      "admin1_code": "15",
+      "location": [
+        50.47452,
+        24.28088
+      ],
+      "monthly": {
+        "Jan": 1.35,
+        "Feb": 2.14,
+        "Mar": 3.28,
+        "Apr": 4.08,
+        "May": 4.53,
+        "Jun": 4.65,
+        "Jul": 4.47,
+        "Aug": 4.4,
+        "Sep": 3.49,
+        "Oct": 2.61,
+        "Nov": 1.38,
+        "Dec": 1.04
+      },
+      "average": 3.12
+    },
+    {
+      "name": "Snizhne",
+      "admin1_code": "05",
+      "location": [
+        48.02328,
+        38.76205
+      ],
+      "monthly": {
+        "Jan": 1.55,
+        "Feb": 2.44,
+        "Mar": 3.34,
+        "Apr": 4.19,
+        "May": 4.82,
+        "Jun": 4.95,
+        "Jul": 5.01,
+        "Aug": 4.87,
+        "Sep": 4.22,
+        "Oct": 2.99,
+        "Nov": 1.65,
+        "Dec": 1.08
+      },
+      "average": 3.43
+    },
+    {
+      "name": "Smila",
+      "admin1_code": "01",
+      "location": [
+        49.23295,
+        31.88427
+      ],
+      "monthly": {
+        "Jan": 1.4,
+        "Feb": 2.3,
+        "Mar": 3.32,
+        "Apr": 4.18,
+        "May": 4.73,
+        "Jun": 4.9,
+        "Jul": 4.88,
+        "Aug": 4.73,
+        "Sep": 3.84,
+        "Oct": 2.79,
+        "Nov": 1.34,
+        "Dec": 1.05
+      },
+      "average": 3.29
+    },
+    {
+      "name": "Slovyansk",
+      "admin1_code": "05",
+      "location": [
+        48.84974,
+        37.59739
+      ],
+      "monthly": {
+        "Jan": 1.45,
+        "Feb": 2.34,
+        "Mar": 3.36,
+        "Apr": 4.14,
+        "May": 4.77,
+        "Jun": 4.9,
+        "Jul": 4.94,
+        "Aug": 4.79,
+        "Sep": 4.09,
+        "Oct": 2.85,
+        "Nov": 1.54,
+        "Dec": 1.03
+      },
+      "average": 3.35
+    },
+    {
+      "name": "Slavuta",
+      "admin1_code": "09",
+      "location": [
+        50.29609,
+        26.86613
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.15,
+        "Mar": 3.2,
+        "Apr": 4.04,
+        "May": 4.5,
+        "Jun": 4.6,
+        "Jul": 4.44,
+        "Aug": 4.44,
+        "Sep": 3.5,
+        "Oct": 2.54,
+        "Nov": 1.28,
+        "Dec": 0.99
+      },
+      "average": 3.08
+    },
+    {
+      "name": "Skvyra",
+      "admin1_code": "13",
+      "location": [
+        49.73303,
+        29.66426
+      ],
+      "monthly": {
+        "Jan": 1.38,
+        "Feb": 2.19,
+        "Mar": 3.37,
+        "Apr": 4.2,
+        "May": 4.75,
+        "Jun": 4.89,
+        "Jul": 4.78,
+        "Aug": 4.62,
+        "Sep": 3.74,
+        "Oct": 2.74,
+        "Nov": 1.36,
+        "Dec": 0.99
+      },
+      "average": 3.25
+    },
+    {
+      "name": "Skadovsk",
+      "admin1_code": "08",
+      "location": [
+        46.11313,
+        32.90978
+      ],
+      "monthly": {
+        "Jan": 1.74,
+        "Feb": 2.67,
+        "Mar": 3.61,
+        "Apr": 4.55,
+        "May": 5.14,
+        "Jun": 5.17,
+        "Jul": 5.35,
+        "Aug": 5.14,
+        "Sep": 4.47,
+        "Oct": 3.3,
+        "Nov": 1.95,
+        "Dec": 1.41
+      },
+      "average": 3.71
+    },
+    {
+      "name": "Synelnykove",
+      "admin1_code": "04",
+      "location": [
+        48.32362,
+        35.52612
+      ],
+      "monthly": {
+        "Jan": 1.52,
+        "Feb": 2.43,
+        "Mar": 3.41,
+        "Apr": 4.22,
+        "May": 4.83,
+        "Jun": 4.94,
+        "Jul": 5.05,
+        "Aug": 4.9,
+        "Sep": 4.17,
+        "Oct": 3.04,
+        "Nov": 1.62,
+        "Dec": 1.09
+      },
+      "average": 3.44
+    },
+    {
+      "name": "Simferopol",
+      "admin1_code": "11",
+      "location": [
+        44.95719,
+        34.11079
+      ],
+      "monthly": {
+        "Jan": 1.97,
+        "Feb": 2.78,
+        "Mar": 3.6,
+        "Apr": 4.49,
+        "May": 4.92,
+        "Jun": 4.95,
+        "Jul": 5.14,
+        "Aug": 4.97,
+        "Sep": 4.42,
+        "Oct": 3.45,
+        "Nov": 2.43,
+        "Dec": 1.75
+      },
+      "average": 3.74
+    },
+    {
+      "name": "Sykhiv",
+      "admin1_code": "15",
+      "location": [
+        49.79427,
+        24.06284
+      ],
+      "monthly": {
+        "Jan": 1.45,
+        "Feb": 2.2,
+        "Mar": 3.24,
+        "Apr": 4.03,
+        "May": 4.4,
+        "Jun": 4.51,
+        "Jul": 4.42,
+        "Aug": 4.39,
+        "Sep": 3.52,
+        "Oct": 2.65,
+        "Nov": 1.47,
+        "Dec": 1.2
+      },
+      "average": 3.12
+    },
+    {
+      "name": "Shpola",
+      "admin1_code": "01",
+      "location": [
+        49.01291,
+        31.3926
+      ],
+      "monthly": {
+        "Jan": 1.44,
+        "Feb": 2.33,
+        "Mar": 3.41,
+        "Apr": 4.18,
+        "May": 4.75,
+        "Jun": 4.93,
+        "Jul": 4.92,
+        "Aug": 4.76,
+        "Sep": 3.84,
+        "Oct": 2.86,
+        "Nov": 1.38,
+        "Dec": 1.08
+      },
+      "average": 3.32
+    },
+    {
+      "name": "Shostka",
+      "admin1_code": "21",
+      "location": [
+        51.86296,
+        33.4698
+      ],
+      "monthly": {
+        "Jan": 1.19,
+        "Feb": 2.11,
+        "Mar": 3.39,
+        "Apr": 4.1,
+        "May": 4.71,
+        "Jun": 4.85,
+        "Jul": 4.64,
+        "Aug": 4.45,
+        "Sep": 3.53,
+        "Oct": 2.29,
+        "Nov": 1.09,
+        "Dec": 0.77
+      },
+      "average": 3.09
+    },
+    {
+      "name": "Shepetivka",
+      "admin1_code": "09",
+      "location": [
+        50.18118,
+        27.06517
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.05,
+        "Mar": 3.15,
+        "Apr": 4.04,
+        "May": 4.54,
+        "Jun": 4.65,
+        "Jul": 4.49,
+        "Aug": 4.47,
+        "Sep": 3.52,
+        "Oct": 2.55,
+        "Nov": 1.27,
+        "Dec": 0.95
+      },
+      "average": 3.08
+    },
+    {
+      "name": "Shakhtarsk",
+      "admin1_code": "05",
+      "location": [
+        48.05657,
+        38.43826
+      ],
+      "monthly": {
+        "Jan": 1.54,
+        "Feb": 2.44,
+        "Mar": 3.31,
+        "Apr": 4.17,
+        "May": 4.79,
+        "Jun": 4.91,
+        "Jul": 4.99,
+        "Aug": 4.83,
+        "Sep": 4.2,
+        "Oct": 2.99,
+        "Nov": 1.67,
+        "Dec": 1.08
+      },
+      "average": 3.41
+    },
+    {
+      "name": "Sevastopol",
+      "admin1_code": "20",
+      "location": [
+        44.60795,
+        33.52134
+      ],
+      "monthly": {
+        "Jan": 1.77,
+        "Feb": 2.64,
+        "Mar": 3.66,
+        "Apr": 4.65,
+        "May": 5.25,
+        "Jun": 5.44,
+        "Jul": 5.56,
+        "Aug": 5.32,
+        "Sep": 4.57,
+        "Oct": 3.44,
+        "Nov": 2.26,
+        "Dec": 1.61
+      },
+      "average": 3.85
+    },
+    {
+      "name": "Selydove",
+      "admin1_code": "05",
+      "location": [
+        48.1465,
+        37.3022
+      ],
+      "monthly": {
+        "Jan": 1.55,
+        "Feb": 2.47,
+        "Mar": 3.35,
+        "Apr": 4.12,
+        "May": 4.76,
+        "Jun": 4.88,
+        "Jul": 4.99,
+        "Aug": 4.87,
+        "Sep": 4.2,
+        "Oct": 3.05,
+        "Nov": 1.68,
+        "Dec": 1.13
+      },
+      "average": 3.42
+    },
+    {
+      "name": "Sarny",
+      "admin1_code": "19",
+      "location": [
+        51.33898,
+        26.60693
+      ],
+      "monthly": {
+        "Jan": 1.2,
+        "Feb": 2.05,
+        "Mar": 3.26,
+        "Apr": 4.07,
+        "May": 4.53,
+        "Jun": 4.62,
+        "Jul": 4.43,
+        "Aug": 4.4,
+        "Sep": 3.46,
+        "Oct": 2.47,
+        "Nov": 1.18,
+        "Dec": 0.88
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Sambir",
+      "admin1_code": "15",
+      "location": [
+        49.51624,
+        23.20133
+      ],
+      "monthly": {
+        "Jan": 1.55,
+        "Feb": 2.25,
+        "Mar": 3.27,
+        "Apr": 3.99,
+        "May": 4.27,
+        "Jun": 4.4,
+        "Jul": 4.35,
+        "Aug": 4.34,
+        "Sep": 3.5,
+        "Oct": 2.67,
+        "Nov": 1.55,
+        "Dec": 1.27
+      },
+      "average": 3.12
+    },
+    {
+      "name": "Saki",
+      "admin1_code": "11",
+      "location": [
+        45.13424,
+        33.59996
+      ],
+      "monthly": {
+        "Jan": 1.82,
+        "Feb": 2.7,
+        "Mar": 3.65,
+        "Apr": 4.62,
+        "May": 5.12,
+        "Jun": 5.2,
+        "Jul": 5.4,
+        "Aug": 5.18,
+        "Sep": 4.53,
+        "Oct": 3.41,
+        "Nov": 2.26,
+        "Dec": 1.57
+      },
+      "average": 3.79
+    },
+    {
+      "name": "Rubizhne",
+      "admin1_code": "14",
+      "location": [
+        49.00606,
+        38.38119
+      ],
+      "monthly": {
+        "Jan": 1.47,
+        "Feb": 2.37,
+        "Mar": 3.3,
+        "Apr": 4.13,
+        "May": 4.72,
+        "Jun": 4.83,
+        "Jul": 4.86,
+        "Aug": 4.72,
+        "Sep": 4.05,
+        "Oct": 2.78,
+        "Nov": 1.52,
+        "Dec": 1.04
+      },
+      "average": 3.32
+    },
+    {
+      "name": "Rozdilna",
+      "admin1_code": "17",
+      "location": [
+        46.85479,
+        30.07091
+      ],
+      "monthly": {
+        "Jan": 1.71,
+        "Feb": 2.66,
+        "Mar": 3.57,
+        "Apr": 4.3,
+        "May": 4.82,
+        "Jun": 4.89,
+        "Jul": 4.97,
+        "Aug": 4.86,
+        "Sep": 4.12,
+        "Oct": 3.26,
+        "Nov": 1.81,
+        "Dec": 1.42
+      },
+      "average": 3.53
+    },
+    {
+      "name": "Kurakhove",
+      "admin1_code": "05",
+      "location": [
+        47.9847,
+        37.28069
+      ],
+      "monthly": {
+        "Jan": 1.52,
+        "Feb": 2.47,
+        "Mar": 3.36,
+        "Apr": 4.15,
+        "May": 4.79,
+        "Jun": 4.88,
+        "Jul": 5.02,
+        "Aug": 4.88,
+        "Sep": 4.2,
+        "Oct": 3.06,
+        "Nov": 1.65,
+        "Dec": 1.11
+      },
+      "average": 3.42
+    },
+    {
+      "name": "Rovenky",
+      "admin1_code": "14",
+      "location": [
+        48.08331,
+        39.37764
+      ],
+      "monthly": {
+        "Jan": 1.57,
+        "Feb": 2.44,
+        "Mar": 3.34,
+        "Apr": 4.22,
+        "May": 4.82,
+        "Jun": 4.9,
+        "Jul": 4.97,
+        "Aug": 4.87,
+        "Sep": 4.24,
+        "Oct": 3,
+        "Nov": 1.65,
+        "Dec": 1.06
+      },
+      "average": 3.42
+    },
+    {
+      "name": "Romny",
+      "admin1_code": "21",
+      "location": [
+        50.75104,
+        33.47471
+      ],
+      "monthly": {
+        "Jan": 1.38,
+        "Feb": 2.32,
+        "Mar": 3.46,
+        "Apr": 4.12,
+        "May": 4.77,
+        "Jun": 4.89,
+        "Jul": 4.84,
+        "Aug": 4.65,
+        "Sep": 3.66,
+        "Oct": 2.51,
+        "Nov": 1.22,
+        "Dec": 0.9
+      },
+      "average": 3.23
+    },
+    {
+      "name": "Rivne",
+      "admin1_code": "19",
+      "location": [
+        50.62036,
+        26.23695
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.07,
+        "Mar": 3.27,
+        "Apr": 4.14,
+        "May": 4.61,
+        "Jun": 4.7,
+        "Jul": 4.52,
+        "Aug": 4.46,
+        "Sep": 3.5,
+        "Oct": 2.53,
+        "Nov": 1.26,
+        "Dec": 0.91
+      },
+      "average": 3.1
+    },
+    {
+      "name": "Rakhiv",
+      "admin1_code": "25",
+      "location": [
+        48.05472,
+        24.20314
+      ],
+      "monthly": {
+        "Jan": 1.71,
+        "Feb": 2.49,
+        "Mar": 3.38,
+        "Apr": 3.79,
+        "May": 4.13,
+        "Jun": 4.37,
+        "Jul": 4.33,
+        "Aug": 4.44,
+        "Sep": 3.5,
+        "Oct": 2.77,
+        "Nov": 1.84,
+        "Dec": 1.33
+      },
+      "average": 3.17
+    },
+    {
+      "name": "Radomyshl",
+      "admin1_code": "27",
+      "location": [
+        50.4962,
+        29.23003
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.15,
+        "Mar": 3.35,
+        "Apr": 4.17,
+        "May": 4.71,
+        "Jun": 4.82,
+        "Jul": 4.65,
+        "Aug": 4.5,
+        "Sep": 3.63,
+        "Oct": 2.59,
+        "Nov": 1.24,
+        "Dec": 0.98
+      },
+      "average": 3.17
+    },
+    {
+      "name": "Pyatykhatky",
+      "admin1_code": "04",
+      "location": [
+        48.40821,
+        33.70919
+      ],
+      "monthly": {
+        "Jan": 1.5,
+        "Feb": 2.45,
+        "Mar": 3.38,
+        "Apr": 4.2,
+        "May": 4.78,
+        "Jun": 4.96,
+        "Jul": 5.02,
+        "Aug": 4.86,
+        "Sep": 4.1,
+        "Oct": 3,
+        "Nov": 1.52,
+        "Dec": 1.12
+      },
+      "average": 3.41
+    },
+    {
+      "name": "Pryluky",
+      "admin1_code": "02",
+      "location": [
+        50.59525,
+        32.38382
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.25,
+        "Mar": 3.36,
+        "Apr": 4.12,
+        "May": 4.75,
+        "Jun": 4.9,
+        "Jul": 4.83,
+        "Aug": 4.65,
+        "Sep": 3.69,
+        "Oct": 2.54,
+        "Nov": 1.19,
+        "Dec": 0.89
+      },
+      "average": 3.21
+    },
+    {
+      "name": "Popasna",
+      "admin1_code": "14",
+      "location": [
+        48.63328,
+        38.37804
+      ],
+      "monthly": {
+        "Jan": 1.5,
+        "Feb": 2.39,
+        "Mar": 3.36,
+        "Apr": 4.18,
+        "May": 4.79,
+        "Jun": 4.93,
+        "Jul": 4.96,
+        "Aug": 4.83,
+        "Sep": 4.14,
+        "Oct": 2.9,
+        "Nov": 1.6,
+        "Dec": 1.06
+      },
+      "average": 3.39
+    },
+    {
+      "name": "Poltava",
+      "admin1_code": "18",
+      "location": [
+        49.58925,
+        34.55367
+      ],
+      "monthly": {
+        "Jan": 1.4,
+        "Feb": 2.36,
+        "Mar": 3.38,
+        "Apr": 4.14,
+        "May": 4.79,
+        "Jun": 4.93,
+        "Jul": 4.96,
+        "Aug": 4.78,
+        "Sep": 3.93,
+        "Oct": 2.73,
+        "Nov": 1.39,
+        "Dec": 1.01
+      },
+      "average": 3.32
+    },
+    {
+      "name": "Polonne",
+      "admin1_code": "09",
+      "location": [
+        50.11944,
+        27.50856
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.09,
+        "Mar": 3.25,
+        "Apr": 4.11,
+        "May": 4.64,
+        "Jun": 4.78,
+        "Jul": 4.6,
+        "Aug": 4.52,
+        "Sep": 3.58,
+        "Oct": 2.59,
+        "Nov": 1.3,
+        "Dec": 0.95
+      },
+      "average": 3.14
+    },
+    {
+      "name": "Polohy",
+      "admin1_code": "26",
+      "location": [
+        47.47865,
+        36.25463
+      ],
+      "monthly": {
+        "Jan": 1.62,
+        "Feb": 2.55,
+        "Mar": 3.4,
+        "Apr": 4.2,
+        "May": 4.83,
+        "Jun": 4.89,
+        "Jul": 5.02,
+        "Aug": 4.89,
+        "Sep": 4.26,
+        "Oct": 3.22,
+        "Nov": 1.84,
+        "Dec": 1.22
+      },
+      "average": 3.5
+    },
+    {
+      "name": "Podil",
+      "admin1_code": "12",
+      "location": [
+        50.46936,
+        30.51627
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.15,
+        "Mar": 3.3,
+        "Apr": 4.08,
+        "May": 4.62,
+        "Jun": 4.75,
+        "Jul": 4.65,
+        "Aug": 4.43,
+        "Sep": 3.65,
+        "Oct": 2.54,
+        "Nov": 1.21,
+        "Dec": 0.97
+      },
+      "average": 3.14
+    },
+    {
+      "name": "Pidhorodne",
+      "admin1_code": "04",
+      "location": [
+        48.57422,
+        35.09702
+      ],
+      "monthly": {
+        "Jan": 1.5,
+        "Feb": 2.45,
+        "Mar": 3.4,
+        "Apr": 4.23,
+        "May": 4.84,
+        "Jun": 4.97,
+        "Jul": 5.02,
+        "Aug": 4.87,
+        "Sep": 4.12,
+        "Oct": 2.97,
+        "Nov": 1.58,
+        "Dec": 1.08
+      },
+      "average": 3.42
+    },
+    {
+      "name": "Voznesenskyi",
+      "admin1_code": "05",
+      "location": [
+        47.93161,
+        37.62971
+      ],
+      "monthly": {
+        "Jan": 1.52,
+        "Feb": 2.44,
+        "Mar": 3.32,
+        "Apr": 4.16,
+        "May": 4.8,
+        "Jun": 4.95,
+        "Jul": 5.05,
+        "Aug": 4.9,
+        "Sep": 4.23,
+        "Oct": 3.05,
+        "Nov": 1.68,
+        "Dec": 1.12
+      },
+      "average": 3.44
+    },
+    {
+      "name": "Pisochyn",
+      "admin1_code": "07",
+      "location": [
+        49.9516,
+        36.10262
+      ],
+      "monthly": {
+        "Jan": 1.34,
+        "Feb": 2.29,
+        "Mar": 3.33,
+        "Apr": 4.04,
+        "May": 4.71,
+        "Jun": 4.89,
+        "Jul": 4.87,
+        "Aug": 4.66,
+        "Sep": 3.88,
+        "Oct": 2.62,
+        "Nov": 1.36,
+        "Dec": 0.94
+      },
+      "average": 3.24
+    },
+    {
+      "name": "Zlatopil",
+      "admin1_code": "07",
+      "location": [
+        49.37646,
+        36.21848
+      ],
+      "monthly": {
+        "Jan": 1.41,
+        "Feb": 2.33,
+        "Mar": 3.41,
+        "Apr": 4.1,
+        "May": 4.76,
+        "Jun": 4.92,
+        "Jul": 4.96,
+        "Aug": 4.75,
+        "Sep": 4.04,
+        "Oct": 2.79,
+        "Nov": 1.45,
+        "Dec": 0.97
+      },
+      "average": 3.32
+    },
+    {
+      "name": "Sokolohirsk",
+      "admin1_code": "14",
+      "location": [
+        48.62831,
+        38.56205
+      ],
+      "monthly": {
+        "Jan": 1.52,
+        "Feb": 2.37,
+        "Mar": 3.31,
+        "Apr": 4.13,
+        "May": 4.76,
+        "Jun": 4.89,
+        "Jul": 4.9,
+        "Aug": 4.77,
+        "Sep": 4.1,
+        "Oct": 2.86,
+        "Nov": 1.58,
+        "Dec": 1.04
+      },
+      "average": 3.35
+    },
+    {
+      "name": "Pervomaysk",
+      "admin1_code": "16",
+      "location": [
+        48.04478,
+        30.84784
+      ],
+      "monthly": {
+        "Jan": 1.55,
+        "Feb": 2.45,
+        "Mar": 3.44,
+        "Apr": 4.2,
+        "May": 4.74,
+        "Jun": 4.86,
+        "Jul": 4.92,
+        "Aug": 4.78,
+        "Sep": 3.93,
+        "Oct": 2.97,
+        "Nov": 1.5,
+        "Dec": 1.17
+      },
+      "average": 3.38
+    },
+    {
+      "name": "Shakhtarske",
+      "admin1_code": "04",
+      "location": [
+        48.3479,
+        36.39637
+      ],
+      "monthly": {
+        "Jan": 1.52,
+        "Feb": 2.44,
+        "Mar": 3.38,
+        "Apr": 4.15,
+        "May": 4.79,
+        "Jun": 4.91,
+        "Jul": 5.02,
+        "Aug": 4.88,
+        "Sep": 4.18,
+        "Oct": 3.04,
+        "Nov": 1.64,
+        "Dec": 1.11
+      },
+      "average": 3.42
+    },
+    {
+      "name": "Pereiaslav",
+      "admin1_code": "13",
+      "location": [
+        50.06739,
+        31.44969
+      ],
+      "monthly": {
+        "Jan": 1.35,
+        "Feb": 2.33,
+        "Mar": 3.41,
+        "Apr": 4.2,
+        "May": 4.82,
+        "Jun": 4.94,
+        "Jul": 4.85,
+        "Aug": 4.69,
+        "Sep": 3.77,
+        "Oct": 2.68,
+        "Nov": 1.28,
+        "Dec": 0.99
+      },
+      "average": 3.28
+    },
+    {
+      "name": "Perevalsk",
+      "admin1_code": "14",
+      "location": [
+        48.43779,
+        38.84384
+      ],
+      "monthly": {
+        "Jan": 1.55,
+        "Feb": 2.38,
+        "Mar": 3.28,
+        "Apr": 4.17,
+        "May": 4.8,
+        "Jun": 4.91,
+        "Jul": 4.91,
+        "Aug": 4.81,
+        "Sep": 4.16,
+        "Oct": 2.92,
+        "Nov": 1.61,
+        "Dec": 1.07
+      },
+      "average": 3.38
+    },
+    {
+      "name": "Pelahiivka",
+      "admin1_code": "05",
+      "location": [
+        48.10752,
+        38.61338
+      ],
+      "monthly": {
+        "Jan": 1.58,
+        "Feb": 2.46,
+        "Mar": 3.33,
+        "Apr": 4.17,
+        "May": 4.76,
+        "Jun": 4.9,
+        "Jul": 4.97,
+        "Aug": 4.84,
+        "Sep": 4.2,
+        "Oct": 2.99,
+        "Nov": 1.65,
+        "Dec": 1.09
+      },
+      "average": 3.41
+    },
+    {
+      "name": "Pavlohrad",
+      "admin1_code": "04",
+      "location": [
+        48.53214,
+        35.86878
+      ],
+      "monthly": {
+        "Jan": 1.46,
+        "Feb": 2.38,
+        "Mar": 3.38,
+        "Apr": 4.18,
+        "May": 4.83,
+        "Jun": 4.93,
+        "Jul": 4.99,
+        "Aug": 4.83,
+        "Sep": 4.13,
+        "Oct": 2.99,
+        "Nov": 1.62,
+        "Dec": 1.06
+      },
+      "average": 3.4
+    },
+    {
+      "name": "Ovruch",
+      "admin1_code": "27",
+      "location": [
+        51.3274,
+        28.80165
+      ],
+      "monthly": {
+        "Jan": 1.2,
+        "Feb": 2.06,
+        "Mar": 3.29,
+        "Apr": 4.1,
+        "May": 4.62,
+        "Jun": 4.77,
+        "Jul": 4.55,
+        "Aug": 4.44,
+        "Sep": 3.57,
+        "Oct": 2.49,
+        "Nov": 1.14,
+        "Dec": 0.85
+      },
+      "average": 3.09
+    },
+    {
+      "name": "Pokrov",
+      "admin1_code": "04",
+      "location": [
+        47.65361,
+        34.11488
+      ],
+      "monthly": {
+        "Jan": 1.6,
+        "Feb": 2.51,
+        "Mar": 3.44,
+        "Apr": 4.35,
+        "May": 4.91,
+        "Jun": 4.98,
+        "Jul": 5.09,
+        "Aug": 4.95,
+        "Sep": 4.23,
+        "Oct": 3.13,
+        "Nov": 1.69,
+        "Dec": 1.21
+      },
+      "average": 3.51
+    },
+    {
+      "name": "Oleksandriya",
+      "admin1_code": "10",
+      "location": [
+        48.67466,
+        33.11761
+      ],
+      "monthly": {
+        "Jan": 1.42,
+        "Feb": 2.34,
+        "Mar": 3.35,
+        "Apr": 4.19,
+        "May": 4.79,
+        "Jun": 4.96,
+        "Jul": 4.98,
+        "Aug": 4.79,
+        "Sep": 3.99,
+        "Oct": 2.89,
+        "Nov": 1.41,
+        "Dec": 1.07
+      },
+      "average": 3.35
+    },
+    {
+      "name": "Ihren",
+      "admin1_code": "04",
+      "location": [
+        48.47614,
+        35.15842
+      ],
+      "monthly": {
+        "Jan": 1.47,
+        "Feb": 2.39,
+        "Mar": 3.38,
+        "Apr": 4.2,
+        "May": 4.8,
+        "Jun": 4.91,
+        "Jul": 4.98,
+        "Aug": 4.85,
+        "Sep": 4.09,
+        "Oct": 2.93,
+        "Nov": 1.56,
+        "Dec": 1.1
+      },
+      "average": 3.39
+    },
+    {
+      "name": "Odesa",
+      "admin1_code": "17",
+      "location": [
+        46.48572,
+        30.74383
+      ],
+      "monthly": {
+        "Jan": 1.69,
+        "Feb": 2.64,
+        "Mar": 3.48,
+        "Apr": 4.38,
+        "May": 4.93,
+        "Jun": 5.01,
+        "Jul": 5.07,
+        "Aug": 4.93,
+        "Sep": 4.15,
+        "Oct": 3.13,
+        "Nov": 1.73,
+        "Dec": 1.44
+      },
+      "average": 3.55
+    },
+    {
+      "name": "Obukhiv",
+      "admin1_code": "13",
+      "location": [
+        50.10689,
+        30.61848
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.15,
+        "Mar": 3.29,
+        "Apr": 4.12,
+        "May": 4.7,
+        "Jun": 4.86,
+        "Jul": 4.78,
+        "Aug": 4.58,
+        "Sep": 3.7,
+        "Oct": 2.62,
+        "Nov": 1.24,
+        "Dec": 0.93
+      },
+      "average": 3.19
+    },
+    {
+      "name": "Novyi Rozdil",
+      "admin1_code": "15",
+      "location": [
+        49.47136,
+        24.13352
+      ],
+      "monthly": {
+        "Jan": 1.45,
+        "Feb": 2.19,
+        "Mar": 3.21,
+        "Apr": 3.99,
+        "May": 4.35,
+        "Jun": 4.5,
+        "Jul": 4.43,
+        "Aug": 4.39,
+        "Sep": 3.51,
+        "Oct": 2.64,
+        "Nov": 1.44,
+        "Dec": 1.15
+      },
+      "average": 3.1
+    },
+    {
+      "name": "Novovolynsk",
+      "admin1_code": "24",
+      "location": [
+        50.72949,
+        24.15976
+      ],
+      "monthly": {
+        "Jan": 1.34,
+        "Feb": 2.08,
+        "Mar": 3.28,
+        "Apr": 4.13,
+        "May": 4.62,
+        "Jun": 4.73,
+        "Jul": 4.48,
+        "Aug": 4.41,
+        "Sep": 3.49,
+        "Oct": 2.61,
+        "Nov": 1.35,
+        "Dec": 1
+      },
+      "average": 3.13
+    },
+    {
+      "name": "Novoukrayinka",
+      "admin1_code": "10",
+      "location": [
+        48.31661,
+        31.52355
+      ],
+      "monthly": {
+        "Jan": 1.53,
+        "Feb": 2.41,
+        "Mar": 3.43,
+        "Apr": 4.18,
+        "May": 4.68,
+        "Jun": 4.85,
+        "Jul": 4.9,
+        "Aug": 4.72,
+        "Sep": 3.91,
+        "Oct": 2.93,
+        "Nov": 1.48,
+        "Dec": 1.12
+      },
+      "average": 3.34
+    },
+    {
+      "name": "Samar",
+      "admin1_code": "04",
+      "location": [
+        48.62893,
+        35.2589
+      ],
+      "monthly": {
+        "Jan": 1.49,
+        "Feb": 2.42,
+        "Mar": 3.43,
+        "Apr": 4.22,
+        "May": 4.84,
+        "Jun": 4.96,
+        "Jul": 4.99,
+        "Aug": 4.84,
+        "Sep": 4.1,
+        "Oct": 2.94,
+        "Nov": 1.58,
+        "Dec": 1.1
+      },
+      "average": 3.41
+    },
+    {
+      "name": "Zvyahel",
+      "admin1_code": "27",
+      "location": [
+        50.59141,
+        27.60884
+      ],
+      "monthly": {
+        "Jan": 1.23,
+        "Feb": 2.06,
+        "Mar": 3.27,
+        "Apr": 4.14,
+        "May": 4.66,
+        "Jun": 4.8,
+        "Jul": 4.58,
+        "Aug": 4.52,
+        "Sep": 3.56,
+        "Oct": 2.53,
+        "Nov": 1.25,
+        "Dec": 0.93
+      },
+      "average": 3.13
+    },
+    {
+      "name": "Novhorod-Siverskyi",
+      "admin1_code": "02",
+      "location": [
+        52.00684,
+        33.2634
+      ],
+      "monthly": {
+        "Jan": 1.2,
+        "Feb": 2.16,
+        "Mar": 3.41,
+        "Apr": 4.08,
+        "May": 4.68,
+        "Jun": 4.84,
+        "Jul": 4.66,
+        "Aug": 4.45,
+        "Sep": 3.54,
+        "Oct": 2.29,
+        "Nov": 1.07,
+        "Dec": 0.78
+      },
+      "average": 3.1
+    },
+    {
+      "name": "Nova Kakhovka",
+      "admin1_code": "08",
+      "location": [
+        46.75966,
+        33.35591
+      ],
+      "monthly": {
+        "Jan": 1.62,
+        "Feb": 2.55,
+        "Mar": 3.46,
+        "Apr": 4.29,
+        "May": 4.85,
+        "Jun": 4.92,
+        "Jul": 5.08,
+        "Aug": 4.94,
+        "Sep": 4.24,
+        "Oct": 3.17,
+        "Nov": 1.75,
+        "Dec": 1.32
+      },
+      "average": 3.52
+    },
+    {
+      "name": "Nova Darnytsya",
+      "admin1_code": "12",
+      "location": [
+        50.42405,
+        30.6558
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.21,
+        "Mar": 3.33,
+        "Apr": 4.14,
+        "May": 4.69,
+        "Jun": 4.82,
+        "Jul": 4.71,
+        "Aug": 4.51,
+        "Sep": 3.69,
+        "Oct": 2.57,
+        "Nov": 1.23,
+        "Dec": 0.99
+      },
+      "average": 3.18
+    },
+    {
+      "name": "Nizhyn",
+      "admin1_code": "02",
+      "location": [
+        51.04772,
+        31.88844
+      ],
+      "monthly": {
+        "Jan": 1.23,
+        "Feb": 2.22,
+        "Mar": 3.42,
+        "Apr": 4.12,
+        "May": 4.74,
+        "Jun": 4.92,
+        "Jul": 4.82,
+        "Aug": 4.59,
+        "Sep": 3.66,
+        "Oct": 2.49,
+        "Nov": 1.17,
+        "Dec": 0.9
+      },
+      "average": 3.19
+    },
+    {
+      "name": "Nyzhnodniprovsk",
+      "admin1_code": "04",
+      "location": [
+        48.47546,
+        35.1167
+      ],
+      "monthly": {
+        "Jan": 1.49,
+        "Feb": 2.41,
+        "Mar": 3.4,
+        "Apr": 4.24,
+        "May": 4.83,
+        "Jun": 4.93,
+        "Jul": 5,
+        "Aug": 4.87,
+        "Sep": 4.11,
+        "Oct": 2.95,
+        "Nov": 1.58,
+        "Dec": 1.13
+      },
+      "average": 3.41
+    },
+    {
+      "name": "Nikopol",
+      "admin1_code": "04",
+      "location": [
+        47.56826,
+        34.39126
+      ],
+      "monthly": {
+        "Jan": 1.58,
+        "Feb": 2.43,
+        "Mar": 3.45,
+        "Apr": 4.4,
+        "May": 5.01,
+        "Jun": 5.06,
+        "Jul": 5.18,
+        "Aug": 5.03,
+        "Sep": 4.26,
+        "Oct": 3.11,
+        "Nov": 1.69,
+        "Dec": 1.19
+      },
+      "average": 3.53
+    },
+    {
+      "name": "Netishyn",
+      "admin1_code": "09",
+      "location": [
+        50.32863,
+        26.64872
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.13,
+        "Mar": 3.21,
+        "Apr": 4.09,
+        "May": 4.57,
+        "Jun": 4.67,
+        "Jul": 4.52,
+        "Aug": 4.47,
+        "Sep": 3.52,
+        "Oct": 2.55,
+        "Nov": 1.28,
+        "Dec": 0.95
+      },
+      "average": 3.1
+    },
+    {
+      "name": "Nadvirna",
+      "admin1_code": "06",
+      "location": [
+        48.63659,
+        24.5714
+      ],
+      "monthly": {
+        "Jan": 1.89,
+        "Feb": 2.53,
+        "Mar": 3.31,
+        "Apr": 3.89,
+        "May": 4.13,
+        "Jun": 4.21,
+        "Jul": 4.21,
+        "Aug": 4.21,
+        "Sep": 3.5,
+        "Oct": 2.83,
+        "Nov": 1.83,
+        "Dec": 1.52
+      },
+      "average": 3.17
+    },
+    {
+      "name": "Mykolayiv",
+      "admin1_code": "16",
+      "location": [
+        46.97625,
+        31.99296
+      ],
+      "monthly": {
+        "Jan": 1.6,
+        "Feb": 2.57,
+        "Mar": 3.5,
+        "Apr": 4.36,
+        "May": 4.84,
+        "Jun": 4.92,
+        "Jul": 5.04,
+        "Aug": 4.88,
+        "Sep": 4.17,
+        "Oct": 3.17,
+        "Nov": 1.72,
+        "Dec": 1.33
+      },
+      "average": 3.51
+    },
+    {
+      "name": "Mukachevo",
+      "admin1_code": "25",
+      "location": [
+        48.44248,
+        22.718
+      ],
+      "monthly": {
+        "Jan": 1.47,
+        "Feb": 2.35,
+        "Mar": 3.53,
+        "Apr": 4.17,
+        "May": 4.58,
+        "Jun": 4.79,
+        "Jul": 4.71,
+        "Aug": 4.7,
+        "Sep": 3.74,
+        "Oct": 2.8,
+        "Nov": 1.73,
+        "Dec": 1.13
+      },
+      "average": 3.31
+    },
+    {
+      "name": "Mostyska",
+      "admin1_code": "15",
+      "location": [
+        49.79467,
+        23.15077
+      ],
+      "monthly": {
+        "Jan": 1.43,
+        "Feb": 2.17,
+        "Mar": 3.25,
+        "Apr": 4.01,
+        "May": 4.37,
+        "Jun": 4.51,
+        "Jul": 4.39,
+        "Aug": 4.36,
+        "Sep": 3.48,
+        "Oct": 2.6,
+        "Nov": 1.47,
+        "Dec": 1.16
+      },
+      "average": 3.1
+    },
+    {
+      "name": "Otamanivka",
+      "admin1_code": "14",
+      "location": [
+        48.34511,
+        39.65244
+      ],
+      "monthly": {
+        "Jan": 1.54,
+        "Feb": 2.38,
+        "Mar": 3.27,
+        "Apr": 4.22,
+        "May": 4.88,
+        "Jun": 4.93,
+        "Jul": 4.96,
+        "Aug": 4.86,
+        "Sep": 4.21,
+        "Oct": 2.96,
+        "Nov": 1.61,
+        "Dec": 1.03
+      },
+      "average": 3.4
+    },
+    {
+      "name": "Mohyliv-Podilskyy",
+      "admin1_code": "23",
+      "location": [
+        48.44278,
+        27.79975
+      ],
+      "monthly": {
+        "Jan": 1.54,
+        "Feb": 2.31,
+        "Mar": 3.4,
+        "Apr": 4.15,
+        "May": 4.65,
+        "Jun": 4.77,
+        "Jul": 4.68,
+        "Aug": 4.63,
+        "Sep": 3.74,
+        "Oct": 2.86,
+        "Nov": 1.52,
+        "Dec": 1.15
+      },
+      "average": 3.28
+    },
+    {
+      "name": "Myrhorod",
+      "admin1_code": "18",
+      "location": [
+        49.96464,
+        33.60861
+      ],
+      "monthly": {
+        "Jan": 1.38,
+        "Feb": 2.33,
+        "Mar": 3.37,
+        "Apr": 4.16,
+        "May": 4.78,
+        "Jun": 4.95,
+        "Jul": 4.92,
+        "Aug": 4.75,
+        "Sep": 3.82,
+        "Oct": 2.66,
+        "Nov": 1.31,
+        "Dec": 0.97
+      },
+      "average": 3.28
+    },
+    {
+      "name": "Merefa",
+      "admin1_code": "07",
+      "location": [
+        49.82107,
+        36.0567
+      ],
+      "monthly": {
+        "Jan": 1.39,
+        "Feb": 2.37,
+        "Mar": 3.41,
+        "Apr": 4.08,
+        "May": 4.72,
+        "Jun": 4.88,
+        "Jul": 4.87,
+        "Aug": 4.68,
+        "Sep": 3.94,
+        "Oct": 2.7,
+        "Nov": 1.41,
+        "Dec": 0.98
+      },
+      "average": 3.29
+    },
+    {
+      "name": "Melitopol",
+      "admin1_code": "26",
+      "location": [
+        46.84735,
+        35.38196
+      ],
+      "monthly": {
+        "Jan": 1.65,
+        "Feb": 2.57,
+        "Mar": 3.43,
+        "Apr": 4.28,
+        "May": 4.9,
+        "Jun": 4.93,
+        "Jul": 5.06,
+        "Aug": 4.93,
+        "Sep": 4.3,
+        "Oct": 3.21,
+        "Nov": 1.89,
+        "Dec": 1.32
+      },
+      "average": 3.54
+    },
+    {
+      "name": "Masany",
+      "admin1_code": "02",
+      "location": [
+        51.53316,
+        31.2313
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.16,
+        "Mar": 3.42,
+        "Apr": 4.14,
+        "May": 4.75,
+        "Jun": 4.89,
+        "Jul": 4.72,
+        "Aug": 4.51,
+        "Sep": 3.62,
+        "Oct": 2.43,
+        "Nov": 1.12,
+        "Dec": 0.86
+      },
+      "average": 3.16
+    },
+    {
+      "name": "Mariupol",
+      "admin1_code": "05",
+      "location": [
+        47.09514,
+        37.54131
+      ],
+      "monthly": {
+        "Jan": 1.56,
+        "Feb": 2.54,
+        "Mar": 3.45,
+        "Apr": 4.39,
+        "May": 5.07,
+        "Jun": 5.09,
+        "Jul": 5.22,
+        "Aug": 5.07,
+        "Sep": 4.36,
+        "Oct": 3.2,
+        "Nov": 1.84,
+        "Dec": 1.28
+      },
+      "average": 3.59
+    },
+    {
+      "name": "Marhanets",
+      "admin1_code": "04",
+      "location": [
+        47.63088,
+        34.6245
+      ],
+      "monthly": {
+        "Jan": 1.6,
+        "Feb": 2.48,
+        "Mar": 3.44,
+        "Apr": 4.36,
+        "May": 4.95,
+        "Jun": 5.04,
+        "Jul": 5.11,
+        "Aug": 4.99,
+        "Sep": 4.25,
+        "Oct": 3.11,
+        "Nov": 1.73,
+        "Dec": 1.2
+      },
+      "average": 3.52
+    },
+    {
+      "name": "Malyn",
+      "admin1_code": "27",
+      "location": [
+        50.76756,
+        29.24225
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.15,
+        "Mar": 3.34,
+        "Apr": 4.1,
+        "May": 4.61,
+        "Jun": 4.76,
+        "Jul": 4.6,
+        "Aug": 4.47,
+        "Sep": 3.62,
+        "Oct": 2.54,
+        "Nov": 1.19,
+        "Dec": 0.95
+      },
+      "average": 3.13
+    },
+    {
+      "name": "Makiyivka",
+      "admin1_code": "05",
+      "location": [
+        48.04782,
+        37.92576
+      ],
+      "monthly": {
+        "Jan": 1.54,
+        "Feb": 2.46,
+        "Mar": 3.32,
+        "Apr": 4.14,
+        "May": 4.76,
+        "Jun": 4.91,
+        "Jul": 5.02,
+        "Aug": 4.9,
+        "Sep": 4.22,
+        "Oct": 3,
+        "Nov": 1.66,
+        "Dec": 1.15
+      },
+      "average": 3.42
+    },
+    {
+      "name": "Liubotyn",
+      "admin1_code": "07",
+      "location": [
+        49.94691,
+        35.92907
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.35,
+        "Mar": 3.41,
+        "Apr": 4.1,
+        "May": 4.75,
+        "Jun": 4.92,
+        "Jul": 4.91,
+        "Aug": 4.71,
+        "Sep": 3.92,
+        "Oct": 2.67,
+        "Nov": 1.37,
+        "Dec": 0.94
+      },
+      "average": 3.28
+    },
+    {
+      "name": "Lviv",
+      "admin1_code": "15",
+      "location": [
+        49.83826,
+        24.02324
+      ],
+      "monthly": {
+        "Jan": 1.44,
+        "Feb": 2.19,
+        "Mar": 3.2,
+        "Apr": 3.97,
+        "May": 4.33,
+        "Jun": 4.45,
+        "Jul": 4.36,
+        "Aug": 4.35,
+        "Sep": 3.47,
+        "Oct": 2.61,
+        "Nov": 1.44,
+        "Dec": 1.19
+      },
+      "average": 3.08
+    },
+    {
+      "name": "Lutuhyne",
+      "admin1_code": "14",
+      "location": [
+        48.40507,
+        39.22675
+      ],
+      "monthly": {
+        "Jan": 1.53,
+        "Feb": 2.39,
+        "Mar": 3.29,
+        "Apr": 4.19,
+        "May": 4.84,
+        "Jun": 4.88,
+        "Jul": 4.9,
+        "Aug": 4.79,
+        "Sep": 4.16,
+        "Oct": 2.93,
+        "Nov": 1.61,
+        "Dec": 1.05
+      },
+      "average": 3.38
+    },
+    {
+      "name": "Lutsk",
+      "admin1_code": "24",
+      "location": [
+        50.75784,
+        25.35024
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.05,
+        "Mar": 3.31,
+        "Apr": 4.13,
+        "May": 4.58,
+        "Jun": 4.7,
+        "Jul": 4.51,
+        "Aug": 4.46,
+        "Sep": 3.47,
+        "Oct": 2.54,
+        "Nov": 1.3,
+        "Dec": 0.95
+      },
+      "average": 3.11
+    },
+    {
+      "name": "Luhansk",
+      "admin1_code": "14",
+      "location": [
+        48.56814,
+        39.30553
+      ],
+      "monthly": {
+        "Jan": 1.49,
+        "Feb": 2.36,
+        "Mar": 3.27,
+        "Apr": 4.13,
+        "May": 4.82,
+        "Jun": 4.89,
+        "Jul": 4.92,
+        "Aug": 4.79,
+        "Sep": 4.11,
+        "Oct": 2.86,
+        "Nov": 1.57,
+        "Dec": 1.03
+      },
+      "average": 3.35
+    },
+    {
+      "name": "Lubny",
+      "admin1_code": "18",
+      "location": [
+        50.01413,
+        32.99975
+      ],
+      "monthly": {
+        "Jan": 1.38,
+        "Feb": 2.32,
+        "Mar": 3.36,
+        "Apr": 4.17,
+        "May": 4.77,
+        "Jun": 4.92,
+        "Jul": 4.9,
+        "Aug": 4.71,
+        "Sep": 3.81,
+        "Oct": 2.64,
+        "Nov": 1.28,
+        "Dec": 1
+      },
+      "average": 3.27
+    },
+    {
+      "name": "Lozova",
+      "admin1_code": "07",
+      "location": [
+        48.89066,
+        36.31412
+      ],
+      "monthly": {
+        "Jan": 1.47,
+        "Feb": 2.37,
+        "Mar": 3.42,
+        "Apr": 4.14,
+        "May": 4.8,
+        "Jun": 4.94,
+        "Jul": 4.99,
+        "Aug": 4.81,
+        "Sep": 4.1,
+        "Oct": 2.93,
+        "Nov": 1.55,
+        "Dec": 1.03
+      },
+      "average": 3.38
+    },
+    {
+      "name": "Lysychansk",
+      "admin1_code": "14",
+      "location": [
+        48.90421,
+        38.44094
+      ],
+      "monthly": {
+        "Jan": 1.47,
+        "Feb": 2.35,
+        "Mar": 3.32,
+        "Apr": 4.17,
+        "May": 4.79,
+        "Jun": 4.92,
+        "Jul": 4.93,
+        "Aug": 4.79,
+        "Sep": 4.09,
+        "Oct": 2.82,
+        "Nov": 1.54,
+        "Dec": 1.03
+      },
+      "average": 3.35
+    },
+    {
+      "name": "Ladyzhyn",
+      "admin1_code": "23",
+      "location": [
+        48.68437,
+        29.23636
+      ],
+      "monthly": {
+        "Jan": 1.48,
+        "Feb": 2.33,
+        "Mar": 3.42,
+        "Apr": 4.19,
+        "May": 4.75,
+        "Jun": 4.87,
+        "Jul": 4.8,
+        "Aug": 4.71,
+        "Sep": 3.82,
+        "Oct": 2.87,
+        "Nov": 1.49,
+        "Dec": 1.13
+      },
+      "average": 3.32
+    },
+    {
+      "name": "Kyiv",
+      "admin1_code": "12",
+      "location": [
+        50.45466,
+        30.5238
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.16,
+        "Mar": 3.32,
+        "Apr": 4.11,
+        "May": 4.66,
+        "Jun": 4.8,
+        "Jul": 4.68,
+        "Aug": 4.46,
+        "Sep": 3.67,
+        "Oct": 2.56,
+        "Nov": 1.23,
+        "Dec": 0.98
+      },
+      "average": 3.16
+    },
+    {
+      "name": "Kupyansk",
+      "admin1_code": "07",
+      "location": [
+        49.71003,
+        37.61581
+      ],
+      "monthly": {
+        "Jan": 1.4,
+        "Feb": 2.32,
+        "Mar": 3.36,
+        "Apr": 4.12,
+        "May": 4.75,
+        "Jun": 4.88,
+        "Jul": 4.92,
+        "Aug": 4.7,
+        "Sep": 3.96,
+        "Oct": 2.71,
+        "Nov": 1.41,
+        "Dec": 0.93
+      },
+      "average": 3.29
+    },
+    {
+      "name": "Kryvyy Rih",
+      "admin1_code": "04",
+      "location": [
+        47.90572,
+        33.39404
+      ],
+      "monthly": {
+        "Jan": 1.54,
+        "Feb": 2.45,
+        "Mar": 3.36,
+        "Apr": 4.2,
+        "May": 4.77,
+        "Jun": 4.92,
+        "Jul": 5.01,
+        "Aug": 4.88,
+        "Sep": 4.1,
+        "Oct": 3.02,
+        "Nov": 1.57,
+        "Dec": 1.16
+      },
+      "average": 3.41
+    },
+    {
+      "name": "Kryukiv",
+      "admin1_code": "18",
+      "location": [
+        49.02894,
+        33.43847
+      ],
+      "monthly": {
+        "Jan": 1.41,
+        "Feb": 2.33,
+        "Mar": 3.38,
+        "Apr": 4.25,
+        "May": 4.85,
+        "Jun": 5.03,
+        "Jul": 5.01,
+        "Aug": 4.84,
+        "Sep": 3.99,
+        "Oct": 2.83,
+        "Nov": 1.39,
+        "Dec": 1.08
+      },
+      "average": 3.37
+    },
+    {
+      "name": "Krolevets",
+      "admin1_code": "21",
+      "location": [
+        51.54775,
+        33.38475
+      ],
+      "monthly": {
+        "Jan": 1.24,
+        "Feb": 2.14,
+        "Mar": 3.41,
+        "Apr": 4.09,
+        "May": 4.7,
+        "Jun": 4.83,
+        "Jul": 4.7,
+        "Aug": 4.5,
+        "Sep": 3.57,
+        "Oct": 2.35,
+        "Nov": 1.13,
+        "Dec": 0.84
+      },
+      "average": 3.13
+    },
+    {
+      "name": "Kreminna",
+      "admin1_code": "14",
+      "location": [
+        49.0495,
+        38.21893
+      ],
+      "monthly": {
+        "Jan": 1.47,
+        "Feb": 2.37,
+        "Mar": 3.3,
+        "Apr": 4.12,
+        "May": 4.68,
+        "Jun": 4.82,
+        "Jul": 4.82,
+        "Aug": 4.7,
+        "Sep": 4.02,
+        "Oct": 2.77,
+        "Nov": 1.52,
+        "Dec": 1.06
+      },
+      "average": 3.3
+    },
+    {
+      "name": "Kremenets",
+      "admin1_code": "22",
+      "location": [
+        50.09864,
+        25.72787
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.06,
+        "Mar": 3.15,
+        "Apr": 4,
+        "May": 4.45,
+        "Jun": 4.55,
+        "Jul": 4.43,
+        "Aug": 4.37,
+        "Sep": 3.47,
+        "Oct": 2.54,
+        "Nov": 1.3,
+        "Dec": 0.96
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Kremenchuk",
+      "admin1_code": "18",
+      "location": [
+        49.06253,
+        33.40484
+      ],
+      "monthly": {
+        "Jan": 1.4,
+        "Feb": 2.34,
+        "Mar": 3.4,
+        "Apr": 4.27,
+        "May": 4.87,
+        "Jun": 5.04,
+        "Jul": 5.01,
+        "Aug": 4.84,
+        "Sep": 3.98,
+        "Oct": 2.82,
+        "Nov": 1.39,
+        "Dec": 1.07
+      },
+      "average": 3.37
+    },
+    {
+      "name": "Khrustalnyi",
+      "admin1_code": "14",
+      "location": [
+        48.13954,
+        38.93715
+      ],
+      "monthly": {
+        "Jan": 1.58,
+        "Feb": 2.43,
+        "Mar": 3.32,
+        "Apr": 4.19,
+        "May": 4.8,
+        "Jun": 4.91,
+        "Jul": 4.97,
+        "Aug": 4.86,
+        "Sep": 4.2,
+        "Oct": 2.97,
+        "Nov": 1.66,
+        "Dec": 1.1
+      },
+      "average": 3.42
+    },
+    {
+      "name": "Lyman",
+      "admin1_code": "05",
+      "location": [
+        48.99012,
+        37.80843
+      ],
+      "monthly": {
+        "Jan": 1.45,
+        "Feb": 2.32,
+        "Mar": 3.35,
+        "Apr": 4.14,
+        "May": 4.72,
+        "Jun": 4.87,
+        "Jul": 4.91,
+        "Aug": 4.77,
+        "Sep": 4.09,
+        "Oct": 2.81,
+        "Nov": 1.52,
+        "Dec": 1.03
+      },
+      "average": 3.33
+    },
+    {
+      "name": "Yany Kapu",
+      "admin1_code": "11",
+      "location": [
+        45.95547,
+        33.79261
+      ],
+      "monthly": {
+        "Jan": 1.74,
+        "Feb": 2.7,
+        "Mar": 3.6,
+        "Apr": 4.55,
+        "May": 5.19,
+        "Jun": 5.19,
+        "Jul": 5.43,
+        "Aug": 5.18,
+        "Sep": 4.55,
+        "Oct": 3.33,
+        "Nov": 1.99,
+        "Dec": 1.45
+      },
+      "average": 3.74
+    },
+    {
+      "name": "Berestyn",
+      "admin1_code": "07",
+      "location": [
+        49.3776,
+        35.44485
+      ],
+      "monthly": {
+        "Jan": 1.39,
+        "Feb": 2.36,
+        "Mar": 3.41,
+        "Apr": 4.12,
+        "May": 4.76,
+        "Jun": 4.95,
+        "Jul": 4.97,
+        "Aug": 4.79,
+        "Sep": 4.02,
+        "Oct": 2.82,
+        "Nov": 1.43,
+        "Dec": 0.98
+      },
+      "average": 3.33
+    },
+    {
+      "name": "Sorokyne",
+      "admin1_code": "14",
+      "location": [
+        48.29235,
+        39.73921
+      ],
+      "monthly": {
+        "Jan": 1.52,
+        "Feb": 2.38,
+        "Mar": 3.29,
+        "Apr": 4.23,
+        "May": 4.9,
+        "Jun": 4.93,
+        "Jul": 4.95,
+        "Aug": 4.84,
+        "Sep": 4.21,
+        "Oct": 2.97,
+        "Nov": 1.63,
+        "Dec": 1.04
+      },
+      "average": 3.41
+    },
+    {
+      "name": "Pokrovsk",
+      "admin1_code": "05",
+      "location": [
+        48.28014,
+        37.17706
+      ],
+      "monthly": {
+        "Jan": 1.54,
+        "Feb": 2.45,
+        "Mar": 3.41,
+        "Apr": 4.14,
+        "May": 4.8,
+        "Jun": 4.91,
+        "Jul": 4.98,
+        "Aug": 4.88,
+        "Sep": 4.2,
+        "Oct": 3.03,
+        "Nov": 1.65,
+        "Dec": 1.12
+      },
+      "average": 3.43
+    },
+    {
+      "name": "Krasyliv",
+      "admin1_code": "09",
+      "location": [
+        49.65376,
+        26.97211
+      ],
+      "monthly": {
+        "Jan": 1.36,
+        "Feb": 2.16,
+        "Mar": 3.27,
+        "Apr": 4.07,
+        "May": 4.6,
+        "Jun": 4.7,
+        "Jul": 4.57,
+        "Aug": 4.51,
+        "Sep": 3.61,
+        "Oct": 2.67,
+        "Nov": 1.35,
+        "Dec": 1
+      },
+      "average": 3.16
+    },
+    {
+      "name": "Kramatorsk",
+      "admin1_code": "05",
+      "location": [
+        48.73106,
+        37.56779
+      ],
+      "monthly": {
+        "Jan": 1.47,
+        "Feb": 2.36,
+        "Mar": 3.36,
+        "Apr": 4.14,
+        "May": 4.77,
+        "Jun": 4.88,
+        "Jul": 4.92,
+        "Aug": 4.79,
+        "Sep": 4.11,
+        "Oct": 2.89,
+        "Nov": 1.56,
+        "Dec": 1.07
+      },
+      "average": 3.36
+    },
+    {
+      "name": "Kivsharivka",
+      "admin1_code": "07",
+      "location": [
+        49.63026,
+        37.6775
+      ],
+      "monthly": {
+        "Jan": 1.39,
+        "Feb": 2.3,
+        "Mar": 3.35,
+        "Apr": 4.13,
+        "May": 4.76,
+        "Jun": 4.88,
+        "Jul": 4.91,
+        "Aug": 4.72,
+        "Sep": 3.98,
+        "Oct": 2.72,
+        "Nov": 1.42,
+        "Dec": 0.91
+      },
+      "average": 3.29
+    },
+    {
+      "name": "Kovel",
+      "admin1_code": "24",
+      "location": [
+        51.21548,
+        24.70077
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.01,
+        "Mar": 3.28,
+        "Apr": 4.06,
+        "May": 4.56,
+        "Jun": 4.66,
+        "Jul": 4.49,
+        "Aug": 4.42,
+        "Sep": 3.43,
+        "Oct": 2.49,
+        "Nov": 1.22,
+        "Dec": 0.94
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Kotsyubynske",
+      "admin1_code": "13",
+      "location": [
+        50.48836,
+        30.32957
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.1,
+        "Mar": 3.22,
+        "Apr": 4.02,
+        "May": 4.56,
+        "Jun": 4.72,
+        "Jul": 4.6,
+        "Aug": 4.41,
+        "Sep": 3.6,
+        "Oct": 2.5,
+        "Nov": 1.18,
+        "Dec": 0.95
+      },
+      "average": 3.09
+    },
+    {
+      "name": "Podilsk",
+      "admin1_code": "17",
+      "location": [
+        47.74988,
+        29.53074
+      ],
+      "monthly": {
+        "Jan": 1.66,
+        "Feb": 2.46,
+        "Mar": 3.54,
+        "Apr": 4.23,
+        "May": 4.78,
+        "Jun": 4.9,
+        "Jul": 4.92,
+        "Aug": 4.81,
+        "Sep": 3.98,
+        "Oct": 3.1,
+        "Nov": 1.65,
+        "Dec": 1.28
+      },
+      "average": 3.44
+    },
+    {
+      "name": "Kostopil",
+      "admin1_code": "19",
+      "location": [
+        50.87732,
+        26.44797
+      ],
+      "monthly": {
+        "Jan": 1.23,
+        "Feb": 2.07,
+        "Mar": 3.21,
+        "Apr": 4.04,
+        "May": 4.51,
+        "Jun": 4.63,
+        "Jul": 4.46,
+        "Aug": 4.41,
+        "Sep": 3.46,
+        "Oct": 2.48,
+        "Nov": 1.22,
+        "Dec": 0.94
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Korsun-Shevchenkivskyy",
+      "admin1_code": "01",
+      "location": [
+        49.41822,
+        31.25174
+      ],
+      "monthly": {
+        "Jan": 1.42,
+        "Feb": 2.3,
+        "Mar": 3.35,
+        "Apr": 4.1,
+        "May": 4.71,
+        "Jun": 4.89,
+        "Jul": 4.84,
+        "Aug": 4.7,
+        "Sep": 3.78,
+        "Oct": 2.73,
+        "Nov": 1.31,
+        "Dec": 1.03
+      },
+      "average": 3.26
+    },
+    {
+      "name": "Korostyshiv",
+      "admin1_code": "27",
+      "location": [
+        50.31686,
+        29.05774
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.18,
+        "Mar": 3.32,
+        "Apr": 4.13,
+        "May": 4.66,
+        "Jun": 4.8,
+        "Jul": 4.64,
+        "Aug": 4.49,
+        "Sep": 3.61,
+        "Oct": 2.59,
+        "Nov": 1.27,
+        "Dec": 1.02
+      },
+      "average": 3.17
+    },
+    {
+      "name": "Korosten",
+      "admin1_code": "27",
+      "location": [
+        50.9512,
+        28.63859
+      ],
+      "monthly": {
+        "Jan": 1.23,
+        "Feb": 2.14,
+        "Mar": 3.31,
+        "Apr": 4.12,
+        "May": 4.63,
+        "Jun": 4.81,
+        "Jul": 4.61,
+        "Aug": 4.47,
+        "Sep": 3.58,
+        "Oct": 2.52,
+        "Nov": 1.18,
+        "Dec": 0.9
+      },
+      "average": 3.13
+    },
+    {
+      "name": "Kostyantynivka",
+      "admin1_code": "05",
+      "location": [
+        48.52728,
+        37.70594
+      ],
+      "monthly": {
+        "Jan": 1.5,
+        "Feb": 2.37,
+        "Mar": 3.36,
+        "Apr": 4.15,
+        "May": 4.77,
+        "Jun": 4.88,
+        "Jul": 4.93,
+        "Aug": 4.82,
+        "Sep": 4.15,
+        "Oct": 2.94,
+        "Nov": 1.62,
+        "Dec": 1.09
+      },
+      "average": 3.38
+    },
+    {
+      "name": "Konotop",
+      "admin1_code": "21",
+      "location": [
+        51.24032,
+        33.20263
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.19,
+        "Mar": 3.42,
+        "Apr": 4.13,
+        "May": 4.75,
+        "Jun": 4.89,
+        "Jul": 4.76,
+        "Aug": 4.56,
+        "Sep": 3.62,
+        "Oct": 2.42,
+        "Nov": 1.16,
+        "Dec": 0.84
+      },
+      "average": 3.17
+    },
+    {
+      "name": "Slobozhanske",
+      "admin1_code": "07",
+      "location": [
+        49.59054,
+        36.52172
+      ],
+      "monthly": {
+        "Jan": 1.36,
+        "Feb": 2.24,
+        "Mar": 3.31,
+        "Apr": 4.07,
+        "May": 4.73,
+        "Jun": 4.91,
+        "Jul": 4.93,
+        "Aug": 4.72,
+        "Sep": 3.97,
+        "Oct": 2.72,
+        "Nov": 1.43,
+        "Dec": 0.94
+      },
+      "average": 3.28
+    },
+    {
+      "name": "Kolomyia",
+      "admin1_code": "06",
+      "location": [
+        48.52496,
+        25.03712
+      ],
+      "monthly": {
+        "Jan": 1.78,
+        "Feb": 2.45,
+        "Mar": 3.36,
+        "Apr": 4.01,
+        "May": 4.34,
+        "Jun": 4.44,
+        "Jul": 4.43,
+        "Aug": 4.36,
+        "Sep": 3.59,
+        "Oct": 2.82,
+        "Nov": 1.67,
+        "Dec": 1.36
+      },
+      "average": 3.22
+    },
+    {
+      "name": "Khrestivka",
+      "admin1_code": "05",
+      "location": [
+        48.14969,
+        38.35941
+      ],
+      "monthly": {
+        "Jan": 1.58,
+        "Feb": 2.45,
+        "Mar": 3.32,
+        "Apr": 4.18,
+        "May": 4.79,
+        "Jun": 4.93,
+        "Jul": 5.01,
+        "Aug": 4.88,
+        "Sep": 4.23,
+        "Oct": 3.01,
+        "Nov": 1.66,
+        "Dec": 1.09
+      },
+      "average": 3.43
+    },
+    {
+      "name": "Holubivka",
+      "admin1_code": "14",
+      "location": [
+        48.63751,
+        38.6428
+      ],
+      "monthly": {
+        "Jan": 1.52,
+        "Feb": 2.38,
+        "Mar": 3.31,
+        "Apr": 4.14,
+        "May": 4.8,
+        "Jun": 4.91,
+        "Jul": 4.93,
+        "Aug": 4.8,
+        "Sep": 4.12,
+        "Oct": 2.86,
+        "Nov": 1.58,
+        "Dec": 1.05
+      },
+      "average": 3.37
+    },
+    {
+      "name": "Kropyvnytskyi",
+      "admin1_code": "10",
+      "location": [
+        48.50834,
+        32.26618
+      ],
+      "monthly": {
+        "Jan": 1.47,
+        "Feb": 2.38,
+        "Mar": 3.38,
+        "Apr": 4.22,
+        "May": 4.74,
+        "Jun": 4.92,
+        "Jul": 4.97,
+        "Aug": 4.76,
+        "Sep": 3.95,
+        "Oct": 2.9,
+        "Nov": 1.43,
+        "Dec": 1.09
+      },
+      "average": 3.35
+    },
+    {
+      "name": "Kiliya",
+      "admin1_code": "17",
+      "location": [
+        45.44445,
+        29.26396
+      ],
+      "monthly": {
+        "Jan": 1.92,
+        "Feb": 2.76,
+        "Mar": 3.64,
+        "Apr": 4.38,
+        "May": 4.9,
+        "Jun": 5.02,
+        "Jul": 5.16,
+        "Aug": 4.98,
+        "Sep": 4.24,
+        "Oct": 3.29,
+        "Nov": 2.07,
+        "Dec": 1.67
+      },
+      "average": 3.67
+    },
+    {
+      "name": "Khust",
+      "admin1_code": "25",
+      "location": [
+        48.17193,
+        23.29791
+      ],
+      "monthly": {
+        "Jan": 1.47,
+        "Feb": 2.35,
+        "Mar": 3.42,
+        "Apr": 4.02,
+        "May": 4.44,
+        "Jun": 4.66,
+        "Jul": 4.6,
+        "Aug": 4.63,
+        "Sep": 3.63,
+        "Oct": 2.75,
+        "Nov": 1.72,
+        "Dec": 1.08
+      },
+      "average": 3.23
+    },
+    {
+      "name": "Khmelnytskyi",
+      "admin1_code": "09",
+      "location": [
+        49.41835,
+        26.97936
+      ],
+      "monthly": {
+        "Jan": 1.4,
+        "Feb": 2.17,
+        "Mar": 3.28,
+        "Apr": 4.09,
+        "May": 4.59,
+        "Jun": 4.71,
+        "Jul": 4.58,
+        "Aug": 4.52,
+        "Sep": 3.65,
+        "Oct": 2.68,
+        "Nov": 1.35,
+        "Dec": 1.02
+      },
+      "average": 3.17
+    },
+    {
+      "name": "Khmilnyk",
+      "admin1_code": "23",
+      "location": [
+        49.5581,
+        27.95682
+      ],
+      "monthly": {
+        "Jan": 1.41,
+        "Feb": 2.16,
+        "Mar": 3.29,
+        "Apr": 4.14,
+        "May": 4.66,
+        "Jun": 4.8,
+        "Jul": 4.66,
+        "Aug": 4.56,
+        "Sep": 3.64,
+        "Oct": 2.71,
+        "Nov": 1.38,
+        "Dec": 1.02
+      },
+      "average": 3.2
+    },
+    {
+      "name": "Kherson",
+      "admin1_code": "08",
+      "location": [
+        46.63695,
+        32.61458
+      ],
+      "monthly": {
+        "Jan": 1.65,
+        "Feb": 2.64,
+        "Mar": 3.55,
+        "Apr": 4.46,
+        "May": 4.93,
+        "Jun": 5.01,
+        "Jul": 5.14,
+        "Aug": 5,
+        "Sep": 4.3,
+        "Oct": 3.25,
+        "Nov": 1.86,
+        "Dec": 1.41
+      },
+      "average": 3.6
+    },
+    {
+      "name": "Khartsyzk",
+      "admin1_code": "05",
+      "location": [
+        48.04277,
+        38.14025
+      ],
+      "monthly": {
+        "Jan": 1.54,
+        "Feb": 2.43,
+        "Mar": 3.35,
+        "Apr": 4.18,
+        "May": 4.8,
+        "Jun": 4.95,
+        "Jul": 5.05,
+        "Aug": 4.91,
+        "Sep": 4.26,
+        "Oct": 3.03,
+        "Nov": 1.66,
+        "Dec": 1.13
+      },
+      "average": 3.44
+    },
+    {
+      "name": "Kharkiv",
+      "admin1_code": "07",
+      "location": [
+        49.98177,
+        36.25475
+      ],
+      "monthly": {
+        "Jan": 1.36,
+        "Feb": 2.3,
+        "Mar": 3.32,
+        "Apr": 4.06,
+        "May": 4.73,
+        "Jun": 4.88,
+        "Jul": 4.87,
+        "Aug": 4.66,
+        "Sep": 3.9,
+        "Oct": 2.62,
+        "Nov": 1.38,
+        "Dec": 1
+      },
+      "average": 3.26
+    },
+    {
+      "name": "Khanzhonkove",
+      "admin1_code": "05",
+      "location": [
+        48.0945,
+        38.07553
+      ],
+      "monthly": {
+        "Jan": 1.55,
+        "Feb": 2.46,
+        "Mar": 3.35,
+        "Apr": 4.16,
+        "May": 4.77,
+        "Jun": 4.93,
+        "Jul": 5.04,
+        "Aug": 4.91,
+        "Sep": 4.25,
+        "Oct": 3.02,
+        "Nov": 1.66,
+        "Dec": 1.14
+      },
+      "average": 3.44
+    },
+    {
+      "name": "Kerch",
+      "admin1_code": "11",
+      "location": [
+        45.35675,
+        36.47542
+      ],
+      "monthly": {
+        "Jan": 1.67,
+        "Feb": 2.55,
+        "Mar": 3.51,
+        "Apr": 4.42,
+        "May": 5.03,
+        "Jun": 5.09,
+        "Jul": 5.28,
+        "Aug": 5.05,
+        "Sep": 4.37,
+        "Oct": 3.21,
+        "Nov": 2.02,
+        "Dec": 1.45
+      },
+      "average": 3.64
+    },
+    {
+      "name": "Kozyatyn",
+      "admin1_code": "23",
+      "location": [
+        49.7164,
+        28.83858
+      ],
+      "monthly": {
+        "Jan": 1.37,
+        "Feb": 2.15,
+        "Mar": 3.32,
+        "Apr": 4.16,
+        "May": 4.72,
+        "Jun": 4.88,
+        "Jul": 4.72,
+        "Aug": 4.62,
+        "Sep": 3.69,
+        "Oct": 2.73,
+        "Nov": 1.36,
+        "Dec": 1.01
+      },
+      "average": 3.23
+    },
+    {
+      "name": "Kaniv",
+      "admin1_code": "01",
+      "location": [
+        49.75187,
+        31.47003
+      ],
+      "monthly": {
+        "Jan": 1.38,
+        "Feb": 2.29,
+        "Mar": 3.35,
+        "Apr": 4.1,
+        "May": 4.72,
+        "Jun": 4.85,
+        "Jul": 4.8,
+        "Aug": 4.64,
+        "Sep": 3.74,
+        "Oct": 2.65,
+        "Nov": 1.29,
+        "Dec": 1.03
+      },
+      "average": 3.24
+    },
+    {
+      "name": "Kamyanets-Podilskyi",
+      "admin1_code": "09",
+      "location": [
+        48.67882,
+        26.58516
+      ],
+      "monthly": {
+        "Jan": 1.57,
+        "Feb": 2.31,
+        "Mar": 3.42,
+        "Apr": 4.11,
+        "May": 4.61,
+        "Jun": 4.73,
+        "Jul": 4.66,
+        "Aug": 4.55,
+        "Sep": 3.69,
+        "Oct": 2.79,
+        "Nov": 1.46,
+        "Dec": 1.09
+      },
+      "average": 3.25
+    },
+    {
+      "name": "Kalush",
+      "admin1_code": "06",
+      "location": [
+        49.02398,
+        24.37206
+      ],
+      "monthly": {
+        "Jan": 1.65,
+        "Feb": 2.35,
+        "Mar": 3.26,
+        "Apr": 3.99,
+        "May": 4.31,
+        "Jun": 4.42,
+        "Jul": 4.38,
+        "Aug": 4.36,
+        "Sep": 3.53,
+        "Oct": 2.74,
+        "Nov": 1.63,
+        "Dec": 1.29
+      },
+      "average": 3.16
+    },
+    {
+      "name": "Kalynivka",
+      "admin1_code": "23",
+      "location": [
+        49.46129,
+        28.51541
+      ],
+      "monthly": {
+        "Jan": 1.42,
+        "Feb": 2.19,
+        "Mar": 3.31,
+        "Apr": 4.12,
+        "May": 4.69,
+        "Jun": 4.84,
+        "Jul": 4.71,
+        "Aug": 4.63,
+        "Sep": 3.69,
+        "Oct": 2.73,
+        "Nov": 1.38,
+        "Dec": 1.04
+      },
+      "average": 3.23
+    },
+    {
+      "name": "Kakhovka",
+      "admin1_code": "08",
+      "location": [
+        46.81601,
+        33.47862
+      ],
+      "monthly": {
+        "Jan": 1.6,
+        "Feb": 2.54,
+        "Mar": 3.49,
+        "Apr": 4.31,
+        "May": 4.91,
+        "Jun": 4.97,
+        "Jul": 5.11,
+        "Aug": 4.99,
+        "Sep": 4.26,
+        "Oct": 3.19,
+        "Nov": 1.74,
+        "Dec": 1.29
+      },
+      "average": 3.53
+    },
+    {
+      "name": "Izyum",
+      "admin1_code": "07",
+      "location": [
+        49.20697,
+        37.27679
+      ],
+      "monthly": {
+        "Jan": 1.45,
+        "Feb": 2.33,
+        "Mar": 3.33,
+        "Apr": 4.09,
+        "May": 4.66,
+        "Jun": 4.8,
+        "Jul": 4.86,
+        "Aug": 4.68,
+        "Sep": 4.02,
+        "Oct": 2.78,
+        "Nov": 1.49,
+        "Dec": 1
+      },
+      "average": 3.29
+    },
+    {
+      "name": "Iziaslav",
+      "admin1_code": "09",
+      "location": [
+        50.11978,
+        26.82475
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 2.09,
+        "Mar": 3.21,
+        "Apr": 4.08,
+        "May": 4.57,
+        "Jun": 4.68,
+        "Jul": 4.53,
+        "Aug": 4.49,
+        "Sep": 3.53,
+        "Oct": 2.58,
+        "Nov": 1.29,
+        "Dec": 0.94
+      },
+      "average": 3.1
+    },
+    {
+      "name": "Izmayil",
+      "admin1_code": "17",
+      "location": [
+        45.35058,
+        28.83751
+      ],
+      "monthly": {
+        "Jan": 1.94,
+        "Feb": 2.78,
+        "Mar": 3.67,
+        "Apr": 4.38,
+        "May": 4.88,
+        "Jun": 5.02,
+        "Jul": 5.14,
+        "Aug": 4.94,
+        "Sep": 4.24,
+        "Oct": 3.3,
+        "Nov": 2.08,
+        "Dec": 1.71
+      },
+      "average": 3.67
+    },
+    {
+      "name": "Ivano-Frankivsk",
+      "admin1_code": "06",
+      "location": [
+        48.92312,
+        24.71248
+      ],
+      "monthly": {
+        "Jan": 1.64,
+        "Feb": 2.27,
+        "Mar": 3.27,
+        "Apr": 4.04,
+        "May": 4.37,
+        "Jun": 4.45,
+        "Jul": 4.45,
+        "Aug": 4.39,
+        "Sep": 3.55,
+        "Oct": 2.7,
+        "Nov": 1.53,
+        "Dec": 1.23
+      },
+      "average": 3.16
+    },
+    {
+      "name": "Irpin",
+      "admin1_code": "13",
+      "location": [
+        50.52175,
+        30.25055
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.18,
+        "Mar": 3.31,
+        "Apr": 4.1,
+        "May": 4.61,
+        "Jun": 4.77,
+        "Jul": 4.64,
+        "Aug": 4.45,
+        "Sep": 3.64,
+        "Oct": 2.53,
+        "Nov": 1.2,
+        "Dec": 0.96
+      },
+      "average": 3.14
+    },
+    {
+      "name": "Inhulets",
+      "admin1_code": "04",
+      "location": [
+        47.7301,
+        33.25189
+      ],
+      "monthly": {
+        "Jan": 1.55,
+        "Feb": 2.49,
+        "Mar": 3.39,
+        "Apr": 4.23,
+        "May": 4.76,
+        "Jun": 4.88,
+        "Jul": 5.02,
+        "Aug": 4.88,
+        "Sep": 4.13,
+        "Oct": 3.11,
+        "Nov": 1.62,
+        "Dec": 1.2
+      },
+      "average": 3.44
+    },
+    {
+      "name": "Ilovays’k",
+      "admin1_code": "05",
+      "location": [
+        47.92498,
+        38.20235
+      ],
+      "monthly": {
+        "Jan": 1.55,
+        "Feb": 2.44,
+        "Mar": 3.33,
+        "Apr": 4.2,
+        "May": 4.8,
+        "Jun": 4.93,
+        "Jul": 5.03,
+        "Aug": 4.89,
+        "Sep": 4.26,
+        "Oct": 3.06,
+        "Nov": 1.68,
+        "Dec": 1.13
+      },
+      "average": 3.44
+    },
+    {
+      "name": "Chornomors’k",
+      "admin1_code": "17",
+      "location": [
+        46.29914,
+        30.65529
+      ],
+      "monthly": {
+        "Jan": 1.66,
+        "Feb": 2.67,
+        "Mar": 3.56,
+        "Apr": 4.48,
+        "May": 5.07,
+        "Jun": 5.14,
+        "Jul": 5.2,
+        "Aug": 5.05,
+        "Sep": 4.28,
+        "Oct": 3.19,
+        "Nov": 1.77,
+        "Dec": 1.46
+      },
+      "average": 3.63
+    },
+    {
+      "name": "Horodok",
+      "admin1_code": "09",
+      "location": [
+        49.17209,
+        26.56357
+      ],
+      "monthly": {
+        "Jan": 1.45,
+        "Feb": 2.22,
+        "Mar": 3.31,
+        "Apr": 4.04,
+        "May": 4.53,
+        "Jun": 4.66,
+        "Jul": 4.53,
+        "Aug": 4.48,
+        "Sep": 3.61,
+        "Oct": 2.69,
+        "Nov": 1.39,
+        "Dec": 1.03
+      },
+      "average": 3.16
+    },
+    {
+      "name": "Horlivka",
+      "admin1_code": "05",
+      "location": [
+        48.29986,
+        38.01709
+      ],
+      "monthly": {
+        "Jan": 1.53,
+        "Feb": 2.42,
+        "Mar": 3.32,
+        "Apr": 4.14,
+        "May": 4.77,
+        "Jun": 4.91,
+        "Jul": 4.98,
+        "Aug": 4.85,
+        "Sep": 4.19,
+        "Oct": 2.96,
+        "Nov": 1.65,
+        "Dec": 1.1
+      },
+      "average": 3.4
+    },
+    {
+      "name": "Hlukhiv",
+      "admin1_code": "21",
+      "location": [
+        51.67822,
+        33.9162
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2.18,
+        "Mar": 3.47,
+        "Apr": 4.12,
+        "May": 4.74,
+        "Jun": 4.88,
+        "Jul": 4.74,
+        "Aug": 4.53,
+        "Sep": 3.59,
+        "Oct": 2.34,
+        "Nov": 1.14,
+        "Dec": 0.81
+      },
+      "average": 3.15
+    },
+    {
+      "name": "Hostomel",
+      "admin1_code": "13",
+      "location": [
+        50.56841,
+        30.2651
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.18,
+        "Mar": 3.33,
+        "Apr": 4.12,
+        "May": 4.63,
+        "Jun": 4.77,
+        "Jul": 4.64,
+        "Aug": 4.45,
+        "Sep": 3.65,
+        "Oct": 2.55,
+        "Nov": 1.21,
+        "Dec": 0.95
+      },
+      "average": 3.15
+    },
+    {
+      "name": "Horodok",
+      "admin1_code": "15",
+      "location": [
+        49.78476,
+        23.6481
+      ],
+      "monthly": {
+        "Jan": 1.43,
+        "Feb": 2.17,
+        "Mar": 3.25,
+        "Apr": 4.02,
+        "May": 4.39,
+        "Jun": 4.53,
+        "Jul": 4.42,
+        "Aug": 4.38,
+        "Sep": 3.5,
+        "Oct": 2.61,
+        "Nov": 1.43,
+        "Dec": 1.14
+      },
+      "average": 3.11
+    },
+    {
+      "name": "Henichesk",
+      "admin1_code": "08",
+      "location": [
+        46.16824,
+        34.80861
+      ],
+      "monthly": {
+        "Jan": 1.69,
+        "Feb": 2.54,
+        "Mar": 3.57,
+        "Apr": 4.51,
+        "May": 5.15,
+        "Jun": 5.13,
+        "Jul": 5.33,
+        "Aug": 5.15,
+        "Sep": 4.48,
+        "Oct": 3.23,
+        "Nov": 1.88,
+        "Dec": 1.38
+      },
+      "average": 3.67
+    },
+    {
+      "name": "Haysyn",
+      "admin1_code": "23",
+      "location": [
+        48.81294,
+        29.37917
+      ],
+      "monthly": {
+        "Jan": 1.47,
+        "Feb": 2.34,
+        "Mar": 3.43,
+        "Apr": 4.19,
+        "May": 4.76,
+        "Jun": 4.87,
+        "Jul": 4.8,
+        "Aug": 4.69,
+        "Sep": 3.81,
+        "Oct": 2.84,
+        "Nov": 1.47,
+        "Dec": 1.13
+      },
+      "average": 3.32
+    },
+    {
+      "name": "Hadyach",
+      "admin1_code": "18",
+      "location": [
+        50.36912,
+        33.997
+      ],
+      "monthly": {
+        "Jan": 1.34,
+        "Feb": 2.35,
+        "Mar": 3.42,
+        "Apr": 4.14,
+        "May": 4.75,
+        "Jun": 4.87,
+        "Jul": 4.86,
+        "Aug": 4.66,
+        "Sep": 3.72,
+        "Oct": 2.57,
+        "Nov": 1.25,
+        "Dec": 0.93
+      },
+      "average": 3.24
+    },
+    {
+      "name": "Feodosiya",
+      "admin1_code": "11",
+      "location": [
+        45.03199,
+        35.38153
+      ],
+      "monthly": {
+        "Jan": 1.68,
+        "Feb": 2.5,
+        "Mar": 3.41,
+        "Apr": 4.39,
+        "May": 4.94,
+        "Jun": 4.99,
+        "Jul": 5.15,
+        "Aug": 4.99,
+        "Sep": 4.29,
+        "Oct": 3.17,
+        "Nov": 2.01,
+        "Dec": 1.47
+      },
+      "average": 3.58
+    },
+    {
+      "name": "Fastiv",
+      "admin1_code": "13",
+      "location": [
+        50.0767,
+        29.9177
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.19,
+        "Mar": 3.33,
+        "Apr": 4.17,
+        "May": 4.72,
+        "Jun": 4.89,
+        "Jul": 4.74,
+        "Aug": 4.58,
+        "Sep": 3.71,
+        "Oct": 2.63,
+        "Nov": 1.29,
+        "Dec": 0.94
+      },
+      "average": 3.21
+    },
+    {
+      "name": "Enerhodar",
+      "admin1_code": "26",
+      "location": [
+        47.49048,
+        34.66199
+      ],
+      "monthly": {
+        "Jan": 1.6,
+        "Feb": 2.49,
+        "Mar": 3.47,
+        "Apr": 4.38,
+        "May": 4.97,
+        "Jun": 5.09,
+        "Jul": 5.22,
+        "Aug": 5.06,
+        "Sep": 4.29,
+        "Oct": 3.13,
+        "Nov": 1.72,
+        "Dec": 1.2
+      },
+      "average": 3.55
+    },
+    {
+      "name": "Dzhankoy",
+      "admin1_code": "11",
+      "location": [
+        45.7131,
+        34.39273
+      ],
+      "monthly": {
+        "Jan": 1.67,
+        "Feb": 2.54,
+        "Mar": 3.5,
+        "Apr": 4.42,
+        "May": 4.96,
+        "Jun": 4.94,
+        "Jul": 5.21,
+        "Aug": 5.03,
+        "Sep": 4.39,
+        "Oct": 3.21,
+        "Nov": 2,
+        "Dec": 1.47
+      },
+      "average": 3.61
+    },
+    {
+      "name": "Toretsk",
+      "admin1_code": "05",
+      "location": [
+        48.39477,
+        37.8478
+      ],
+      "monthly": {
+        "Jan": 1.52,
+        "Feb": 2.4,
+        "Mar": 3.36,
+        "Apr": 4.15,
+        "May": 4.79,
+        "Jun": 4.92,
+        "Jul": 4.96,
+        "Aug": 4.86,
+        "Sep": 4.18,
+        "Oct": 2.97,
+        "Nov": 1.65,
+        "Dec": 1.12
+      },
+      "average": 3.41
+    },
+    {
+      "name": "Dunayivtsi",
+      "admin1_code": "09",
+      "location": [
+        48.88697,
+        26.84816
+      ],
+      "monthly": {
+        "Jan": 1.52,
+        "Feb": 2.28,
+        "Mar": 3.41,
+        "Apr": 4.12,
+        "May": 4.62,
+        "Jun": 4.76,
+        "Jul": 4.64,
+        "Aug": 4.59,
+        "Sep": 3.7,
+        "Oct": 2.77,
+        "Nov": 1.45,
+        "Dec": 1.1
+      },
+      "average": 3.25
+    },
+    {
+      "name": "Dubno",
+      "admin1_code": "19",
+      "location": [
+        50.40752,
+        25.7624
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.13,
+        "Mar": 3.28,
+        "Apr": 4.11,
+        "May": 4.56,
+        "Jun": 4.68,
+        "Jul": 4.53,
+        "Aug": 4.46,
+        "Sep": 3.51,
+        "Oct": 2.57,
+        "Nov": 1.35,
+        "Dec": 0.97
+      },
+      "average": 3.12
+    },
+    {
+      "name": "Drohobych",
+      "admin1_code": "15",
+      "location": [
+        49.35196,
+        23.51121
+      ],
+      "monthly": {
+        "Jan": 1.57,
+        "Feb": 2.28,
+        "Mar": 3.23,
+        "Apr": 3.94,
+        "May": 4.19,
+        "Jun": 4.35,
+        "Jul": 4.31,
+        "Aug": 4.32,
+        "Sep": 3.47,
+        "Oct": 2.66,
+        "Nov": 1.59,
+        "Dec": 1.3
+      },
+      "average": 3.1
+    },
+    {
+      "name": "Donetsk",
+      "admin1_code": "05",
+      "location": [
+        48.023,
+        37.80224
+      ],
+      "monthly": {
+        "Jan": 1.55,
+        "Feb": 2.48,
+        "Mar": 3.33,
+        "Apr": 4.15,
+        "May": 4.78,
+        "Jun": 4.93,
+        "Jul": 5.04,
+        "Aug": 4.9,
+        "Sep": 4.21,
+        "Oct": 3.02,
+        "Nov": 1.68,
+        "Dec": 1.16
+      },
+      "average": 3.44
+    },
+    {
+      "name": "Dolyna",
+      "admin1_code": "06",
+      "location": [
+        48.97158,
+        23.96558
+      ],
+      "monthly": {
+        "Jan": 1.81,
+        "Feb": 2.42,
+        "Mar": 3.23,
+        "Apr": 3.87,
+        "May": 4.07,
+        "Jun": 4.19,
+        "Jul": 4.18,
+        "Aug": 4.22,
+        "Sep": 3.43,
+        "Oct": 2.75,
+        "Nov": 1.77,
+        "Dec": 1.44
+      },
+      "average": 3.12
+    },
+    {
+      "name": "Dolynska",
+      "admin1_code": "10",
+      "location": [
+        48.11725,
+        32.77691
+      ],
+      "monthly": {
+        "Jan": 1.56,
+        "Feb": 2.5,
+        "Mar": 3.41,
+        "Apr": 4.21,
+        "May": 4.76,
+        "Jun": 4.9,
+        "Jul": 5,
+        "Aug": 4.81,
+        "Sep": 4.06,
+        "Oct": 3.04,
+        "Nov": 1.52,
+        "Dec": 1.12
+      },
+      "average": 3.41
+    },
+    {
+      "name": "Dokuchayevsk",
+      "admin1_code": "05",
+      "location": [
+        47.7522,
+        37.67761
+      ],
+      "monthly": {
+        "Jan": 1.54,
+        "Feb": 2.51,
+        "Mar": 3.36,
+        "Apr": 4.21,
+        "May": 4.82,
+        "Jun": 4.93,
+        "Jul": 5.04,
+        "Aug": 4.93,
+        "Sep": 4.28,
+        "Oct": 3.11,
+        "Nov": 1.7,
+        "Dec": 1.17
+      },
+      "average": 3.47
+    },
+    {
+      "name": "Dobropillia",
+      "admin1_code": "05",
+      "location": [
+        48.46674,
+        37.08567
+      ],
+      "monthly": {
+        "Jan": 1.51,
+        "Feb": 2.41,
+        "Mar": 3.41,
+        "Apr": 4.13,
+        "May": 4.77,
+        "Jun": 4.88,
+        "Jul": 4.98,
+        "Aug": 4.83,
+        "Sep": 4.16,
+        "Oct": 2.99,
+        "Nov": 1.6,
+        "Dec": 1.1
+      },
+      "average": 3.4
+    },
+    {
+      "name": "Dnipro",
+      "admin1_code": "04",
+      "location": [
+        48.46664,
+        35.04066
+      ],
+      "monthly": {
+        "Jan": 1.49,
+        "Feb": 2.42,
+        "Mar": 3.35,
+        "Apr": 4.2,
+        "May": 4.8,
+        "Jun": 4.92,
+        "Jul": 4.99,
+        "Aug": 4.85,
+        "Sep": 4.09,
+        "Oct": 2.94,
+        "Nov": 1.58,
+        "Dec": 1.12
+      },
+      "average": 3.4
+    },
+    {
+      "name": "Kamyanske",
+      "admin1_code": "04",
+      "location": [
+        48.51716,
+        34.60617
+      ],
+      "monthly": {
+        "Jan": 1.43,
+        "Feb": 2.34,
+        "Mar": 3.33,
+        "Apr": 4.23,
+        "May": 4.84,
+        "Jun": 4.97,
+        "Jul": 5.03,
+        "Aug": 4.9,
+        "Sep": 4.1,
+        "Oct": 2.93,
+        "Nov": 1.54,
+        "Dec": 1.09
+      },
+      "average": 3.39
+    },
+    {
+      "name": "Dniprorudne",
+      "admin1_code": "26",
+      "location": [
+        47.38993,
+        35.00065
+      ],
+      "monthly": {
+        "Jan": 1.61,
+        "Feb": 2.54,
+        "Mar": 3.5,
+        "Apr": 4.36,
+        "May": 4.97,
+        "Jun": 5.08,
+        "Jul": 5.21,
+        "Aug": 5.06,
+        "Sep": 4.31,
+        "Oct": 3.18,
+        "Nov": 1.78,
+        "Dec": 1.2
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Myrnohrad",
+      "admin1_code": "05",
+      "location": [
+        48.3099,
+        37.26513
+      ],
+      "monthly": {
+        "Jan": 1.52,
+        "Feb": 2.41,
+        "Mar": 3.38,
+        "Apr": 4.11,
+        "May": 4.75,
+        "Jun": 4.87,
+        "Jul": 4.94,
+        "Aug": 4.83,
+        "Sep": 4.17,
+        "Oct": 3.01,
+        "Nov": 1.64,
+        "Dec": 1.1
+      },
+      "average": 3.39
+    },
+    {
+      "name": "Derhachi",
+      "admin1_code": "07",
+      "location": [
+        50.10789,
+        36.1209
+      ],
+      "monthly": {
+        "Jan": 1.34,
+        "Feb": 2.34,
+        "Mar": 3.38,
+        "Apr": 4.07,
+        "May": 4.75,
+        "Jun": 4.89,
+        "Jul": 4.9,
+        "Aug": 4.68,
+        "Sep": 3.89,
+        "Oct": 2.64,
+        "Nov": 1.36,
+        "Dec": 0.96
+      },
+      "average": 3.27
+    },
+    {
+      "name": "Debaltseve",
+      "admin1_code": "05",
+      "location": [
+        48.33592,
+        38.40261
+      ],
+      "monthly": {
+        "Jan": 1.58,
+        "Feb": 2.41,
+        "Mar": 3.36,
+        "Apr": 4.2,
+        "May": 4.8,
+        "Jun": 4.93,
+        "Jul": 5,
+        "Aug": 4.86,
+        "Sep": 4.21,
+        "Oct": 2.97,
+        "Nov": 1.66,
+        "Dec": 1.1
+      },
+      "average": 3.42
+    },
+    {
+      "name": "Chuhuyiv",
+      "admin1_code": "07",
+      "location": [
+        49.83538,
+        36.6865
+      ],
+      "monthly": {
+        "Jan": 1.38,
+        "Feb": 2.3,
+        "Mar": 3.34,
+        "Apr": 4.09,
+        "May": 4.73,
+        "Jun": 4.87,
+        "Jul": 4.88,
+        "Aug": 4.68,
+        "Sep": 3.93,
+        "Oct": 2.67,
+        "Nov": 1.4,
+        "Dec": 0.96
+      },
+      "average": 3.27
+    },
+    {
+      "name": "Chortkiv",
+      "admin1_code": "22",
+      "location": [
+        49.01701,
+        25.79808
+      ],
+      "monthly": {
+        "Jan": 1.52,
+        "Feb": 2.28,
+        "Mar": 3.33,
+        "Apr": 4.03,
+        "May": 4.46,
+        "Jun": 4.61,
+        "Jul": 4.51,
+        "Aug": 4.41,
+        "Sep": 3.57,
+        "Oct": 2.74,
+        "Nov": 1.43,
+        "Dec": 1.13
+      },
+      "average": 3.17
+    },
+    {
+      "name": "Voznesenivka",
+      "admin1_code": "14",
+      "location": [
+        48.07613,
+        39.79618
+      ],
+      "monthly": {
+        "Jan": 1.5,
+        "Feb": 2.43,
+        "Mar": 3.32,
+        "Apr": 4.3,
+        "May": 4.87,
+        "Jun": 4.97,
+        "Jul": 5.03,
+        "Aug": 4.93,
+        "Sep": 4.32,
+        "Oct": 3.04,
+        "Nov": 1.66,
+        "Dec": 1.07
+      },
+      "average": 3.45
+    },
+    {
+      "name": "Sheptytskyi",
+      "admin1_code": "15",
+      "location": [
+        50.39403,
+        24.23935
+      ],
+      "monthly": {
+        "Jan": 1.36,
+        "Feb": 2.15,
+        "Mar": 3.25,
+        "Apr": 4.04,
+        "May": 4.47,
+        "Jun": 4.61,
+        "Jul": 4.46,
+        "Aug": 4.4,
+        "Sep": 3.47,
+        "Oct": 2.6,
+        "Nov": 1.38,
+        "Dec": 1.05
+      },
+      "average": 3.1
+    },
+    {
+      "name": "Chernivtsi",
+      "admin1_code": "03",
+      "location": [
+        48.29045,
+        25.93241
+      ],
+      "monthly": {
+        "Jan": 1.7,
+        "Feb": 2.41,
+        "Mar": 3.38,
+        "Apr": 4.08,
+        "May": 4.51,
+        "Jun": 4.6,
+        "Jul": 4.61,
+        "Aug": 4.49,
+        "Sep": 3.69,
+        "Oct": 2.85,
+        "Nov": 1.61,
+        "Dec": 1.28
+      },
+      "average": 3.27
+    },
+    {
+      "name": "Chernihiv",
+      "admin1_code": "02",
+      "location": [
+        51.50541,
+        31.28656
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.15,
+        "Mar": 3.42,
+        "Apr": 4.12,
+        "May": 4.73,
+        "Jun": 4.86,
+        "Jul": 4.69,
+        "Aug": 4.49,
+        "Sep": 3.61,
+        "Oct": 2.42,
+        "Nov": 1.12,
+        "Dec": 0.84
+      },
+      "average": 3.14
+    },
+    {
+      "name": "Cherkasy",
+      "admin1_code": "01",
+      "location": [
+        49.44452,
+        32.05738
+      ],
+      "monthly": {
+        "Jan": 1.38,
+        "Feb": 2.32,
+        "Mar": 3.34,
+        "Apr": 4.24,
+        "May": 4.8,
+        "Jun": 4.95,
+        "Jul": 4.9,
+        "Aug": 4.76,
+        "Sep": 3.85,
+        "Oct": 2.74,
+        "Nov": 1.29,
+        "Dec": 1.01
+      },
+      "average": 3.3
+    },
+    {
+      "name": "Bucha",
+      "admin1_code": "13",
+      "location": [
+        50.54345,
+        30.21201
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.17,
+        "Mar": 3.36,
+        "Apr": 4.15,
+        "May": 4.66,
+        "Jun": 4.81,
+        "Jul": 4.68,
+        "Aug": 4.47,
+        "Sep": 3.67,
+        "Oct": 2.56,
+        "Nov": 1.21,
+        "Dec": 0.93
+      },
+      "average": 3.17
+    },
+    {
+      "name": "Bryanka",
+      "admin1_code": "14",
+      "location": [
+        48.511,
+        38.67222
+      ],
+      "monthly": {
+        "Jan": 1.54,
+        "Feb": 2.41,
+        "Mar": 3.31,
+        "Apr": 4.17,
+        "May": 4.8,
+        "Jun": 4.91,
+        "Jul": 4.92,
+        "Aug": 4.8,
+        "Sep": 4.15,
+        "Oct": 2.92,
+        "Nov": 1.6,
+        "Dec": 1.07
+      },
+      "average": 3.38
+    },
+    {
+      "name": "Brovary",
+      "admin1_code": "13",
+      "location": [
+        50.51809,
+        30.80671
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.17,
+        "Mar": 3.33,
+        "Apr": 4.12,
+        "May": 4.68,
+        "Jun": 4.82,
+        "Jul": 4.73,
+        "Aug": 4.51,
+        "Sep": 3.67,
+        "Oct": 2.57,
+        "Nov": 1.2,
+        "Dec": 0.97
+      },
+      "average": 3.17
+    },
+    {
+      "name": "Brody",
+      "admin1_code": "15",
+      "location": [
+        50.08854,
+        25.14606
+      ],
+      "monthly": {
+        "Jan": 1.4,
+        "Feb": 2.12,
+        "Mar": 3.18,
+        "Apr": 4,
+        "May": 4.42,
+        "Jun": 4.52,
+        "Jul": 4.45,
+        "Aug": 4.39,
+        "Sep": 3.49,
+        "Oct": 2.6,
+        "Nov": 1.41,
+        "Dec": 1.06
+      },
+      "average": 3.09
+    },
+    {
+      "name": "Boyarka",
+      "admin1_code": "13",
+      "location": [
+        50.31911,
+        30.29728
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.16,
+        "Mar": 3.34,
+        "Apr": 4.14,
+        "May": 4.69,
+        "Jun": 4.82,
+        "Jul": 4.71,
+        "Aug": 4.5,
+        "Sep": 3.67,
+        "Oct": 2.58,
+        "Nov": 1.22,
+        "Dec": 0.96
+      },
+      "average": 3.17
+    },
+    {
+      "name": "Bortnychi",
+      "admin1_code": "12",
+      "location": [
+        50.38489,
+        30.69542
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.19,
+        "Mar": 3.32,
+        "Apr": 4.14,
+        "May": 4.69,
+        "Jun": 4.82,
+        "Jul": 4.74,
+        "Aug": 4.53,
+        "Sep": 3.69,
+        "Oct": 2.56,
+        "Nov": 1.23,
+        "Dec": 0.98
+      },
+      "average": 3.18
+    },
+    {
+      "name": "Boryspil",
+      "admin1_code": "13",
+      "location": [
+        50.35269,
+        30.95501
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.21,
+        "Mar": 3.37,
+        "Apr": 4.18,
+        "May": 4.78,
+        "Jun": 4.93,
+        "Jul": 4.83,
+        "Aug": 4.61,
+        "Sep": 3.72,
+        "Oct": 2.63,
+        "Nov": 1.25,
+        "Dec": 0.95
+      },
+      "average": 3.23
+    },
+    {
+      "name": "Boryslav",
+      "admin1_code": "15",
+      "location": [
+        49.28998,
+        23.42889
+      ],
+      "monthly": {
+        "Jan": 1.69,
+        "Feb": 2.34,
+        "Mar": 3.19,
+        "Apr": 3.84,
+        "May": 4.07,
+        "Jun": 4.21,
+        "Jul": 4.19,
+        "Aug": 4.21,
+        "Sep": 3.4,
+        "Oct": 2.67,
+        "Nov": 1.66,
+        "Dec": 1.4
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Bolhrad",
+      "admin1_code": "17",
+      "location": [
+        45.67786,
+        28.61811
+      ],
+      "monthly": {
+        "Jan": 1.87,
+        "Feb": 2.75,
+        "Mar": 3.69,
+        "Apr": 4.32,
+        "May": 4.82,
+        "Jun": 4.95,
+        "Jul": 5.06,
+        "Aug": 4.9,
+        "Sep": 4.22,
+        "Oct": 3.3,
+        "Nov": 2.04,
+        "Dec": 1.64
+      },
+      "average": 3.63
+    },
+    {
+      "name": "Bohuslav",
+      "admin1_code": "13",
+      "location": [
+        49.54637,
+        30.87407
+      ],
+      "monthly": {
+        "Jan": 1.4,
+        "Feb": 2.26,
+        "Mar": 3.35,
+        "Apr": 4.11,
+        "May": 4.71,
+        "Jun": 4.87,
+        "Jul": 4.8,
+        "Aug": 4.66,
+        "Sep": 3.77,
+        "Oct": 2.73,
+        "Nov": 1.33,
+        "Dec": 1.03
+      },
+      "average": 3.25
+    },
+    {
+      "name": "Bohuniya",
+      "admin1_code": "27",
+      "location": [
+        50.27691,
+        28.60962
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.13,
+        "Mar": 3.26,
+        "Apr": 4.1,
+        "May": 4.62,
+        "Jun": 4.79,
+        "Jul": 4.61,
+        "Aug": 4.48,
+        "Sep": 3.6,
+        "Oct": 2.59,
+        "Nov": 1.26,
+        "Dec": 1
+      },
+      "average": 3.15
+    },
+    {
+      "name": "Bohodukhiv",
+      "admin1_code": "07",
+      "location": [
+        50.16147,
+        35.52367
+      ],
+      "monthly": {
+        "Jan": 1.37,
+        "Feb": 2.33,
+        "Mar": 3.4,
+        "Apr": 4.07,
+        "May": 4.74,
+        "Jun": 4.88,
+        "Jul": 4.88,
+        "Aug": 4.7,
+        "Sep": 3.86,
+        "Oct": 2.65,
+        "Nov": 1.31,
+        "Dec": 0.94
+      },
+      "average": 3.26
+    },
+    {
+      "name": "Bilhorod-Dnistrovskyi",
+      "admin1_code": "17",
+      "location": [
+        46.19484,
+        30.34827
+      ],
+      "monthly": {
+        "Jan": 1.71,
+        "Feb": 2.73,
+        "Mar": 3.6,
+        "Apr": 4.45,
+        "May": 5.02,
+        "Jun": 5.12,
+        "Jul": 5.2,
+        "Aug": 5.03,
+        "Sep": 4.26,
+        "Oct": 3.22,
+        "Nov": 1.83,
+        "Dec": 1.49
+      },
+      "average": 3.64
+    },
+    {
+      "name": "Bila Tserkva",
+      "admin1_code": "13",
+      "location": [
+        49.8004,
+        30.12851
+      ],
+      "monthly": {
+        "Jan": 1.35,
+        "Feb": 2.19,
+        "Mar": 3.35,
+        "Apr": 4.13,
+        "May": 4.71,
+        "Jun": 4.87,
+        "Jul": 4.75,
+        "Aug": 4.59,
+        "Sep": 3.73,
+        "Oct": 2.68,
+        "Nov": 1.3,
+        "Dec": 0.99
+      },
+      "average": 3.22
+    },
+    {
+      "name": "Berezhany",
+      "admin1_code": "22",
+      "location": [
+        49.44578,
+        24.93686
+      ],
+      "monthly": {
+        "Jan": 1.46,
+        "Feb": 2.22,
+        "Mar": 3.24,
+        "Apr": 3.95,
+        "May": 4.37,
+        "Jun": 4.49,
+        "Jul": 4.43,
+        "Aug": 4.36,
+        "Sep": 3.5,
+        "Oct": 2.67,
+        "Nov": 1.45,
+        "Dec": 1.13
+      },
+      "average": 3.11
+    },
+    {
+      "name": "Berezan",
+      "admin1_code": "13",
+      "location": [
+        50.3112,
+        31.46712
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.29,
+        "Mar": 3.37,
+        "Apr": 4.15,
+        "May": 4.78,
+        "Jun": 4.94,
+        "Jul": 4.81,
+        "Aug": 4.64,
+        "Sep": 3.73,
+        "Oct": 2.62,
+        "Nov": 1.25,
+        "Dec": 0.96
+      },
+      "average": 3.24
+    },
+    {
+      "name": "Berehove",
+      "admin1_code": "25",
+      "location": [
+        48.20514,
+        22.64453
+      ],
+      "monthly": {
+        "Jan": 1.5,
+        "Feb": 2.38,
+        "Mar": 3.64,
+        "Apr": 4.31,
+        "May": 4.68,
+        "Jun": 4.87,
+        "Jul": 4.79,
+        "Aug": 4.76,
+        "Sep": 3.79,
+        "Oct": 2.88,
+        "Nov": 1.8,
+        "Dec": 1.16
+      },
+      "average": 3.38
+    },
+    {
+      "name": "Berdychiv",
+      "admin1_code": "27",
+      "location": [
+        49.89421,
+        28.58236
+      ],
+      "monthly": {
+        "Jan": 1.35,
+        "Feb": 2.14,
+        "Mar": 3.3,
+        "Apr": 4.17,
+        "May": 4.7,
+        "Jun": 4.85,
+        "Jul": 4.66,
+        "Aug": 4.57,
+        "Sep": 3.64,
+        "Oct": 2.67,
+        "Nov": 1.34,
+        "Dec": 1.01
+      },
+      "average": 3.2
+    },
+    {
+      "name": "Berdyansk",
+      "admin1_code": "26",
+      "location": [
+        46.75578,
+        36.78815
+      ],
+      "monthly": {
+        "Jan": 1.63,
+        "Feb": 2.56,
+        "Mar": 3.57,
+        "Apr": 4.52,
+        "May": 5.19,
+        "Jun": 5.27,
+        "Jul": 5.39,
+        "Aug": 5.21,
+        "Sep": 4.47,
+        "Oct": 3.24,
+        "Nov": 1.8,
+        "Dec": 1.34
+      },
+      "average": 3.68
+    },
+    {
+      "name": "Bilopillia",
+      "admin1_code": "21",
+      "location": [
+        51.15016,
+        34.31287
+      ],
+      "monthly": {
+        "Jan": 1.23,
+        "Feb": 2.2,
+        "Mar": 3.47,
+        "Apr": 4.08,
+        "May": 4.75,
+        "Jun": 4.9,
+        "Jul": 4.8,
+        "Aug": 4.59,
+        "Sep": 3.62,
+        "Oct": 2.42,
+        "Nov": 1.15,
+        "Dec": 0.79
+      },
+      "average": 3.17
+    },
+    {
+      "name": "Bilohirsk",
+      "admin1_code": "11",
+      "location": [
+        45.05679,
+        34.60386
+      ],
+      "monthly": {
+        "Jan": 1.9,
+        "Feb": 2.65,
+        "Mar": 3.49,
+        "Apr": 4.35,
+        "May": 4.8,
+        "Jun": 4.82,
+        "Jul": 5,
+        "Aug": 4.86,
+        "Sep": 4.28,
+        "Oct": 3.27,
+        "Nov": 2.31,
+        "Dec": 1.69
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Bilohorodka",
+      "admin1_code": "13",
+      "location": [
+        50.38969,
+        30.22532
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.14,
+        "Mar": 3.33,
+        "Apr": 4.14,
+        "May": 4.69,
+        "Jun": 4.83,
+        "Jul": 4.71,
+        "Aug": 4.51,
+        "Sep": 3.68,
+        "Oct": 2.57,
+        "Nov": 1.22,
+        "Dec": 0.93
+      },
+      "average": 3.17
+    },
+    {
+      "name": "Bilychi",
+      "admin1_code": "12",
+      "location": [
+        50.46544,
+        30.34654
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.1,
+        "Mar": 3.22,
+        "Apr": 4.04,
+        "May": 4.58,
+        "Jun": 4.74,
+        "Jul": 4.63,
+        "Aug": 4.43,
+        "Sep": 3.62,
+        "Oct": 2.52,
+        "Nov": 1.2,
+        "Dec": 0.93
+      },
+      "average": 3.11
+    },
+    {
+      "name": "Bar",
+      "admin1_code": "23",
+      "location": [
+        49.07362,
+        27.67404
+      ],
+      "monthly": {
+        "Jan": 1.49,
+        "Feb": 2.24,
+        "Mar": 3.39,
+        "Apr": 4.16,
+        "May": 4.7,
+        "Jun": 4.86,
+        "Jul": 4.7,
+        "Aug": 4.64,
+        "Sep": 3.73,
+        "Oct": 2.77,
+        "Nov": 1.42,
+        "Dec": 1.06
+      },
+      "average": 3.26
+    },
+    {
+      "name": "Balta",
+      "admin1_code": "17",
+      "location": [
+        47.93596,
+        29.62225
+      ],
+      "monthly": {
+        "Jan": 1.62,
+        "Feb": 2.41,
+        "Mar": 3.48,
+        "Apr": 4.16,
+        "May": 4.72,
+        "Jun": 4.84,
+        "Jul": 4.86,
+        "Aug": 4.76,
+        "Sep": 3.92,
+        "Oct": 3.01,
+        "Nov": 1.6,
+        "Dec": 1.23
+      },
+      "average": 3.38
+    },
+    {
+      "name": "Balakliya",
+      "admin1_code": "07",
+      "location": [
+        49.45595,
+        36.84433
+      ],
+      "monthly": {
+        "Jan": 1.4,
+        "Feb": 2.31,
+        "Mar": 3.37,
+        "Apr": 4.12,
+        "May": 4.74,
+        "Jun": 4.9,
+        "Jul": 4.93,
+        "Aug": 4.72,
+        "Sep": 4,
+        "Oct": 2.75,
+        "Nov": 1.45,
+        "Dec": 0.97
+      },
+      "average": 3.3
+    },
+    {
+      "name": "Balaklava",
+      "admin1_code": "20",
+      "location": [
+        44.51118,
+        33.59942
+      ],
+      "monthly": {
+        "Jan": 1.76,
+        "Feb": 2.63,
+        "Mar": 3.63,
+        "Apr": 4.59,
+        "May": 5.14,
+        "Jun": 5.35,
+        "Jul": 5.49,
+        "Aug": 5.25,
+        "Sep": 4.51,
+        "Oct": 3.37,
+        "Nov": 2.21,
+        "Dec": 1.58
+      },
+      "average": 3.79
+    },
+    {
+      "name": "Bakhmach",
+      "admin1_code": "02",
+      "location": [
+        51.18144,
+        32.83463
+      ],
+      "monthly": {
+        "Jan": 1.24,
+        "Feb": 2.22,
+        "Mar": 3.43,
+        "Apr": 4.12,
+        "May": 4.75,
+        "Jun": 4.9,
+        "Jul": 4.8,
+        "Aug": 4.59,
+        "Sep": 3.64,
+        "Oct": 2.44,
+        "Nov": 1.16,
+        "Dec": 0.86
+      },
+      "average": 3.18
+    },
+    {
+      "name": "Bakhchysaray",
+      "admin1_code": "11",
+      "location": [
+        44.75525,
+        33.85782
+      ],
+      "monthly": {
+        "Jan": 1.97,
+        "Feb": 2.81,
+        "Mar": 3.64,
+        "Apr": 4.54,
+        "May": 5.02,
+        "Jun": 5.11,
+        "Jul": 5.29,
+        "Aug": 5.09,
+        "Sep": 4.48,
+        "Oct": 3.53,
+        "Nov": 2.46,
+        "Dec": 1.76
+      },
+      "average": 3.81
+    },
+    {
+      "name": "Avdiyivka",
+      "admin1_code": "05",
+      "location": [
+        48.14019,
+        37.75008
+      ],
+      "monthly": {
+        "Jan": 1.54,
+        "Feb": 2.45,
+        "Mar": 3.34,
+        "Apr": 4.15,
+        "May": 4.79,
+        "Jun": 4.93,
+        "Jul": 5.01,
+        "Aug": 4.89,
+        "Sep": 4.2,
+        "Oct": 3.02,
+        "Nov": 1.67,
+        "Dec": 1.13
+      },
+      "average": 3.43
+    },
+    {
+      "name": "Bakhmut",
+      "admin1_code": "05",
+      "location": [
+        48.59419,
+        37.99886
+      ],
+      "monthly": {
+        "Jan": 1.5,
+        "Feb": 2.41,
+        "Mar": 3.36,
+        "Apr": 4.13,
+        "May": 4.75,
+        "Jun": 4.9,
+        "Jul": 4.93,
+        "Aug": 4.81,
+        "Sep": 4.13,
+        "Oct": 2.9,
+        "Nov": 1.6,
+        "Dec": 1.1
+      },
+      "average": 3.38
+    },
+    {
+      "name": "Armyansk",
+      "admin1_code": "11",
+      "location": [
+        46.10919,
+        33.69206
+      ],
+      "monthly": {
+        "Jan": 1.74,
+        "Feb": 2.71,
+        "Mar": 3.65,
+        "Apr": 4.56,
+        "May": 5.16,
+        "Jun": 5.16,
+        "Jul": 5.36,
+        "Aug": 5.13,
+        "Sep": 4.53,
+        "Oct": 3.37,
+        "Nov": 2.01,
+        "Dec": 1.46
+      },
+      "average": 3.74
+    },
+    {
+      "name": "Apostolove",
+      "admin1_code": "04",
+      "location": [
+        47.65983,
+        33.71952
+      ],
+      "monthly": {
+        "Jan": 1.6,
+        "Feb": 2.53,
+        "Mar": 3.4,
+        "Apr": 4.25,
+        "May": 4.8,
+        "Jun": 4.93,
+        "Jul": 5.07,
+        "Aug": 4.91,
+        "Sep": 4.18,
+        "Oct": 3.13,
+        "Nov": 1.65,
+        "Dec": 1.22
+      },
+      "average": 3.47
+    },
+    {
+      "name": "Antratsyt",
+      "admin1_code": "14",
+      "location": [
+        48.11503,
+        39.09128
+      ],
+      "monthly": {
+        "Jan": 1.55,
+        "Feb": 2.43,
+        "Mar": 3.31,
+        "Apr": 4.19,
+        "May": 4.82,
+        "Jun": 4.92,
+        "Jul": 4.97,
+        "Aug": 4.85,
+        "Sep": 4.18,
+        "Oct": 2.95,
+        "Nov": 1.64,
+        "Dec": 1.07
+      },
+      "average": 3.41
+    },
+    {
+      "name": "Amvrosiivka",
+      "admin1_code": "05",
+      "location": [
+        47.79062,
+        38.47851
+      ],
+      "monthly": {
+        "Jan": 1.53,
+        "Feb": 2.45,
+        "Mar": 3.3,
+        "Apr": 4.22,
+        "May": 4.84,
+        "Jun": 4.97,
+        "Jul": 5.03,
+        "Aug": 4.91,
+        "Sep": 4.26,
+        "Oct": 3.07,
+        "Nov": 1.7,
+        "Dec": 1.13
+      },
+      "average": 3.45
+    },
+    {
+      "name": "Alushta",
+      "admin1_code": "11",
+      "location": [
+        44.67728,
+        34.4097
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.59,
+        "Mar": 3.34,
+        "Apr": 4.2,
+        "May": 4.65,
+        "Jun": 4.82,
+        "Jul": 4.96,
+        "Aug": 4.78,
+        "Sep": 4.14,
+        "Oct": 3.15,
+        "Nov": 2.2,
+        "Dec": 1.69
+      },
+      "average": 3.53
+    },
+    {
+      "name": "Alchevsk",
+      "admin1_code": "14",
+      "location": [
+        48.46893,
+        38.81669
+      ],
+      "monthly": {
+        "Jan": 1.53,
+        "Feb": 2.36,
+        "Mar": 3.27,
+        "Apr": 4.14,
+        "May": 4.79,
+        "Jun": 4.9,
+        "Jul": 4.9,
+        "Aug": 4.79,
+        "Sep": 4.13,
+        "Oct": 2.9,
+        "Nov": 1.59,
+        "Dec": 1.07
+      },
+      "average": 3.36
+    },
+    {
+      "name": "Okhtyrka",
+      "admin1_code": "21",
+      "location": [
+        50.31036,
+        34.89879
+      ],
+      "monthly": {
+        "Jan": 1.34,
+        "Feb": 2.29,
+        "Mar": 3.34,
+        "Apr": 4.08,
+        "May": 4.75,
+        "Jun": 4.89,
+        "Jul": 4.87,
+        "Aug": 4.67,
+        "Sep": 3.78,
+        "Oct": 2.55,
+        "Nov": 1.27,
+        "Dec": 0.92
+      },
+      "average": 3.23
+    },
+    {
+      "name": "Horishni Plavni",
+      "admin1_code": "18",
+      "location": [
+        49.00835,
+        33.62926
+      ],
+      "monthly": {
+        "Jan": 1.38,
+        "Feb": 2.32,
+        "Mar": 3.34,
+        "Apr": 4.22,
+        "May": 4.86,
+        "Jun": 5.02,
+        "Jul": 4.99,
+        "Aug": 4.84,
+        "Sep": 3.99,
+        "Oct": 2.83,
+        "Nov": 1.39,
+        "Dec": 1.07
+      },
+      "average": 3.35
+    },
+    {
+      "name": "Saltivka",
+      "admin1_code": "07",
+      "location": [
+        50.02207,
+        36.34901
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.27,
+        "Mar": 3.33,
+        "Apr": 4.07,
+        "May": 4.73,
+        "Jun": 4.87,
+        "Jul": 4.87,
+        "Aug": 4.67,
+        "Sep": 3.9,
+        "Oct": 2.62,
+        "Nov": 1.36,
+        "Dec": 0.95
+      },
+      "average": 3.25
+    },
+    {
+      "name": "Zhuravlivka",
+      "admin1_code": "07",
+      "location": [
+        50.0125,
+        36.27214
+      ],
+      "monthly": {
+        "Jan": 1.36,
+        "Feb": 2.29,
+        "Mar": 3.31,
+        "Apr": 4.04,
+        "May": 4.72,
+        "Jun": 4.87,
+        "Jul": 4.86,
+        "Aug": 4.66,
+        "Sep": 3.88,
+        "Oct": 2.6,
+        "Nov": 1.36,
+        "Dec": 0.98
+      },
+      "average": 3.24
+    },
+    {
+      "name": "Pivnichna Saltivka",
+      "admin1_code": "07",
+      "location": [
+        50.04512,
+        36.35905
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.27,
+        "Mar": 3.33,
+        "Apr": 4.07,
+        "May": 4.74,
+        "Jun": 4.89,
+        "Jul": 4.9,
+        "Aug": 4.69,
+        "Sep": 3.91,
+        "Oct": 2.62,
+        "Nov": 1.35,
+        "Dec": 0.92
+      },
+      "average": 3.25
+    },
+    {
+      "name": "Slavutych",
+      "admin1_code": "13",
+      "location": [
+        51.5225,
+        30.71806
+      ],
+      "monthly": {
+        "Jan": 1.24,
+        "Feb": 2.08,
+        "Mar": 3.31,
+        "Apr": 4.07,
+        "May": 4.63,
+        "Jun": 4.77,
+        "Jul": 4.59,
+        "Aug": 4.42,
+        "Sep": 3.55,
+        "Oct": 2.37,
+        "Nov": 1.08,
+        "Dec": 0.87
+      },
+      "average": 3.08
+    },
+    {
+      "name": "Pivdennoukrainsk",
+      "admin1_code": "16",
+      "location": [
+        47.82879,
+        31.17513
+      ],
+      "monthly": {
+        "Jan": 1.56,
+        "Feb": 2.45,
+        "Mar": 3.47,
+        "Apr": 4.22,
+        "May": 4.76,
+        "Jun": 4.91,
+        "Jul": 4.99,
+        "Aug": 4.8,
+        "Sep": 4,
+        "Oct": 3.03,
+        "Nov": 1.55,
+        "Dec": 1.19
+      },
+      "average": 3.41
+    },
+    {
+      "name": "Varash",
+      "admin1_code": "19",
+      "location": [
+        51.34038,
+        25.85547
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 1.99,
+        "Mar": 3.27,
+        "Apr": 4.05,
+        "May": 4.49,
+        "Jun": 4.59,
+        "Jul": 4.42,
+        "Aug": 4.4,
+        "Sep": 3.44,
+        "Oct": 2.47,
+        "Nov": 1.2,
+        "Dec": 0.89
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Svyatopetrivske",
+      "admin1_code": "13",
+      "location": [
+        50.38214,
+        30.32278
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.17,
+        "Mar": 3.33,
+        "Apr": 4.12,
+        "May": 4.68,
+        "Jun": 4.82,
+        "Jul": 4.71,
+        "Aug": 4.51,
+        "Sep": 3.68,
+        "Oct": 2.58,
+        "Nov": 1.23,
+        "Dec": 0.92
+      },
+      "average": 3.17
+    },
+    {
+      "name": "Novoyavorivs'k",
+      "admin1_code": "15",
+      "location": [
+        49.93023,
+        23.57357
+      ],
+      "monthly": {
+        "Jan": 1.38,
+        "Feb": 2.13,
+        "Mar": 3.15,
+        "Apr": 3.96,
+        "May": 4.38,
+        "Jun": 4.52,
+        "Jul": 4.41,
+        "Aug": 4.36,
+        "Sep": 3.45,
+        "Oct": 2.56,
+        "Nov": 1.4,
+        "Dec": 1.12
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Obolon",
+      "admin1_code": "12",
+      "location": [
+        50.5132,
+        30.5055
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.17,
+        "Mar": 3.31,
+        "Apr": 4.09,
+        "May": 4.63,
+        "Jun": 4.77,
+        "Jul": 4.67,
+        "Aug": 4.45,
+        "Sep": 3.66,
+        "Oct": 2.54,
+        "Nov": 1.22,
+        "Dec": 0.97
+      },
+      "average": 3.15
+    },
+    {
+      "name": "Cheremushky",
+      "admin1_code": "17",
+      "location": [
+        46.43251,
+        30.71151
+      ],
+      "monthly": {
+        "Jan": 1.7,
+        "Feb": 2.71,
+        "Mar": 3.57,
+        "Apr": 4.49,
+        "May": 5.03,
+        "Jun": 5.1,
+        "Jul": 5.14,
+        "Aug": 5.03,
+        "Sep": 4.24,
+        "Oct": 3.22,
+        "Nov": 1.78,
+        "Dec": 1.49
+      },
+      "average": 3.63
+    },
+    {
+      "name": "Molodizhnyi",
+      "admin1_code": "18",
+      "location": [
+        49.1504,
+        33.4305
+      ],
+      "monthly": {
+        "Jan": 1.4,
+        "Feb": 2.35,
+        "Mar": 3.42,
+        "Apr": 4.26,
+        "May": 4.86,
+        "Jun": 5.04,
+        "Jul": 5,
+        "Aug": 4.84,
+        "Sep": 3.97,
+        "Oct": 2.86,
+        "Nov": 1.39,
+        "Dec": 1.09
+      },
+      "average": 3.37
+    },
+    {
+      "name": "Demiyivka",
+      "admin1_code": "12",
+      "location": [
+        50.40206,
+        30.51564
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.19,
+        "Mar": 3.31,
+        "Apr": 4.1,
+        "May": 4.66,
+        "Jun": 4.8,
+        "Jul": 4.69,
+        "Aug": 4.47,
+        "Sep": 3.67,
+        "Oct": 2.56,
+        "Nov": 1.23,
+        "Dec": 0.99
+      },
+      "average": 3.16
+    },
+    {
+      "name": "Borshchahivka",
+      "admin1_code": "12",
+      "location": [
+        50.4316,
+        30.3899
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.12,
+        "Mar": 3.27,
+        "Apr": 4.11,
+        "May": 4.67,
+        "Jun": 4.81,
+        "Jul": 4.7,
+        "Aug": 4.48,
+        "Sep": 3.67,
+        "Oct": 2.56,
+        "Nov": 1.22,
+        "Dec": 0.93
+      },
+      "average": 3.15
+    },
+    {
+      "name": "Reni",
+      "admin1_code": "17",
+      "location": [
+        45.45421,
+        28.27731
+      ],
+      "monthly": {
+        "Jan": 1.89,
+        "Feb": 2.76,
+        "Mar": 3.69,
+        "Apr": 4.33,
+        "May": 4.83,
+        "Jun": 4.98,
+        "Jul": 5.11,
+        "Aug": 4.95,
+        "Sep": 4.22,
+        "Oct": 3.28,
+        "Nov": 2.05,
+        "Dec": 1.64
+      },
+      "average": 3.64
+    },
+    {
+      "name": "Avtozavodskyi",
+      "admin1_code": "18",
+      "location": [
+        49.09753,
+        33.43206
+      ],
+      "monthly": {
+        "Jan": 1.41,
+        "Feb": 2.34,
+        "Mar": 3.4,
+        "Apr": 4.26,
+        "May": 4.86,
+        "Jun": 5.02,
+        "Jul": 4.98,
+        "Aug": 4.83,
+        "Sep": 3.98,
+        "Oct": 2.84,
+        "Nov": 1.4,
+        "Dec": 1.08
+      },
+      "average": 3.37
+    },
+    {
+      "name": "Oleksiyivka",
+      "admin1_code": "07",
+      "location": [
+        50.04516,
+        36.19322
+      ],
+      "monthly": {
+        "Jan": 1.37,
+        "Feb": 2.32,
+        "Mar": 3.34,
+        "Apr": 4.05,
+        "May": 4.74,
+        "Jun": 4.9,
+        "Jul": 4.9,
+        "Aug": 4.68,
+        "Sep": 3.89,
+        "Oct": 2.62,
+        "Nov": 1.37,
+        "Dec": 0.98
+      },
+      "average": 3.26
+    },
+    {
+      "name": "Knyahynyn",
+      "admin1_code": "06",
+      "location": [
+        48.93561,
+        24.71307
+      ],
+      "monthly": {
+        "Jan": 1.63,
+        "Feb": 2.28,
+        "Mar": 3.28,
+        "Apr": 4.03,
+        "May": 4.37,
+        "Jun": 4.45,
+        "Jul": 4.46,
+        "Aug": 4.38,
+        "Sep": 3.56,
+        "Oct": 2.7,
+        "Nov": 1.53,
+        "Dec": 1.23
+      },
+      "average": 3.16
+    },
+    {
+      "name": "Sofiivska Borschahivka",
+      "admin1_code": "13",
+      "location": [
+        50.40931,
+        30.35908
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.11,
+        "Mar": 3.28,
+        "Apr": 4.11,
+        "May": 4.67,
+        "Jun": 4.81,
+        "Jul": 4.69,
+        "Aug": 4.49,
+        "Sep": 3.67,
+        "Oct": 2.56,
+        "Nov": 1.22,
+        "Dec": 0.91
+      },
+      "average": 3.15
+    },
+    {
+      "name": "Holosiyiv",
+      "admin1_code": "12",
+      "location": [
+        50.34433,
+        30.55178
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.19,
+        "Mar": 3.33,
+        "Apr": 4.13,
+        "May": 4.7,
+        "Jun": 4.85,
+        "Jul": 4.76,
+        "Aug": 4.54,
+        "Sep": 3.69,
+        "Oct": 2.57,
+        "Nov": 1.24,
+        "Dec": 0.98
+      },
+      "average": 3.19
+    },
+    {
+      "name": "Pechersk",
+      "admin1_code": "12",
+      "location": [
+        50.44441,
+        30.52348
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.17,
+        "Mar": 3.32,
+        "Apr": 4.11,
+        "May": 4.65,
+        "Jun": 4.79,
+        "Jul": 4.68,
+        "Aug": 4.46,
+        "Sep": 3.66,
+        "Oct": 2.56,
+        "Nov": 1.24,
+        "Dec": 0.99
+      },
+      "average": 3.16
+    },
+    {
+      "name": "Svyatoshyn",
+      "admin1_code": "12",
+      "location": [
+        50.46341,
+        30.34612
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.1,
+        "Mar": 3.22,
+        "Apr": 4.04,
+        "May": 4.58,
+        "Jun": 4.74,
+        "Jul": 4.63,
+        "Aug": 4.43,
+        "Sep": 3.62,
+        "Oct": 2.52,
+        "Nov": 1.2,
+        "Dec": 0.93
+      },
+      "average": 3.11
+    },
+    {
+      "name": "Dniprovskyi",
+      "admin1_code": "12",
+      "location": [
+        50.45366,
+        30.60146
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.2,
+        "Mar": 3.34,
+        "Apr": 4.13,
+        "May": 4.68,
+        "Jun": 4.8,
+        "Jul": 4.7,
+        "Aug": 4.49,
+        "Sep": 3.68,
+        "Oct": 2.56,
+        "Nov": 1.24,
+        "Dec": 1
+      },
+      "average": 3.18
+    },
+    {
+      "name": "Desna",
+      "admin1_code": "12",
+      "location": [
+        50.52207,
+        30.68228
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.2,
+        "Mar": 3.35,
+        "Apr": 4.14,
+        "May": 4.68,
+        "Jun": 4.8,
+        "Jul": 4.69,
+        "Aug": 4.51,
+        "Sep": 3.67,
+        "Oct": 2.56,
+        "Nov": 1.21,
+        "Dec": 0.99
+      },
+      "average": 3.18
+    },
+    {
+      "name": "Solomyansk",
+      "admin1_code": "12",
+      "location": [
+        50.42838,
+        30.45211
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.14,
+        "Mar": 3.3,
+        "Apr": 4.12,
+        "May": 4.68,
+        "Jun": 4.82,
+        "Jul": 4.71,
+        "Aug": 4.48,
+        "Sep": 3.68,
+        "Oct": 2.56,
+        "Nov": 1.23,
+        "Dec": 0.95
+      },
+      "average": 3.16
+    },
+    {
+      "name": "Shevchenkivskyi",
+      "admin1_code": "12",
+      "location": [
+        50.46408,
+        30.46576
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.15,
+        "Mar": 3.3,
+        "Apr": 4.1,
+        "May": 4.65,
+        "Jun": 4.79,
+        "Jul": 4.68,
+        "Aug": 4.46,
+        "Sep": 3.66,
+        "Oct": 2.55,
+        "Nov": 1.23,
+        "Dec": 0.98
+      },
+      "average": 3.15
+    },
+    {
+      "name": "Zhulyany",
+      "admin1_code": "12",
+      "location": [
+        50.39428,
+        30.44057
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.14,
+        "Mar": 3.3,
+        "Apr": 4.12,
+        "May": 4.69,
+        "Jun": 4.84,
+        "Jul": 4.73,
+        "Aug": 4.5,
+        "Sep": 3.69,
+        "Oct": 2.58,
+        "Nov": 1.23,
+        "Dec": 0.93
+      },
+      "average": 3.17
+    },
+    {
+      "name": "Fortechnyi",
+      "admin1_code": "10",
+      "location": [
+        48.49865,
+        32.25365
+      ],
+      "monthly": {
+        "Jan": 1.45,
+        "Feb": 2.38,
+        "Mar": 3.38,
+        "Apr": 4.22,
+        "May": 4.75,
+        "Jun": 4.93,
+        "Jul": 4.98,
+        "Aug": 4.77,
+        "Sep": 3.96,
+        "Oct": 2.91,
+        "Nov": 1.44,
+        "Dec": 1.09
+      },
+      "average": 3.36
+    },
+    {
+      "name": "Podilskyi",
+      "admin1_code": "10",
+      "location": [
+        48.50357,
+        32.28035
+      ],
+      "monthly": {
+        "Jan": 1.46,
+        "Feb": 2.38,
+        "Mar": 3.38,
+        "Apr": 4.23,
+        "May": 4.75,
+        "Jun": 4.94,
+        "Jul": 4.97,
+        "Aug": 4.77,
+        "Sep": 3.96,
+        "Oct": 2.9,
+        "Nov": 1.43,
+        "Dec": 1.09
+      },
+      "average": 3.35
+    },
+    {
+      "name": "Novyi Lviv",
+      "admin1_code": "15",
+      "location": [
+        49.81519,
+        24.03171
+      ],
+      "monthly": {
+        "Jan": 1.45,
+        "Feb": 2.19,
+        "Mar": 3.23,
+        "Apr": 4.01,
+        "May": 4.38,
+        "Jun": 4.48,
+        "Jul": 4.39,
+        "Aug": 4.38,
+        "Sep": 3.5,
+        "Oct": 2.64,
+        "Nov": 1.46,
+        "Dec": 1.19
+      },
+      "average": 3.11
+    },
+    {
+      "name": "Bohodukhivskyi",
+      "admin1_code": "05",
+      "location": [
+        47.96688,
+        37.86255
+      ],
+      "monthly": {
+        "Jan": 1.54,
+        "Feb": 2.42,
+        "Mar": 3.32,
+        "Apr": 4.15,
+        "May": 4.79,
+        "Jun": 4.95,
+        "Jul": 5.05,
+        "Aug": 4.91,
+        "Sep": 4.22,
+        "Oct": 3.01,
+        "Nov": 1.67,
+        "Dec": 1.13
+      },
+      "average": 3.43
+    },
+    {
+      "name": "Yuzivskyi",
+      "admin1_code": "05",
+      "location": [
+        48,
+        37.80006
+      ],
+      "monthly": {
+        "Jan": 1.55,
+        "Feb": 2.45,
+        "Mar": 3.33,
+        "Apr": 4.14,
+        "May": 4.78,
+        "Jun": 4.93,
+        "Jul": 5.03,
+        "Aug": 4.89,
+        "Sep": 4.21,
+        "Oct": 3.01,
+        "Nov": 1.68,
+        "Dec": 1.15
+      },
+      "average": 3.43
+    },
+    {
+      "name": "Kalynivskyi",
+      "admin1_code": "05",
+      "location": [
+        48.00741,
+        37.85378
+      ],
+      "monthly": {
+        "Jan": 1.55,
+        "Feb": 2.45,
+        "Mar": 3.33,
+        "Apr": 4.14,
+        "May": 4.78,
+        "Jun": 4.93,
+        "Jul": 5.03,
+        "Aug": 4.9,
+        "Sep": 4.22,
+        "Oct": 3,
+        "Nov": 1.67,
+        "Dec": 1.15
+      },
+      "average": 3.43
+    },
+    {
+      "name": "Kyivskyi",
+      "admin1_code": "05",
+      "location": [
+        48.04646,
+        37.77571
+      ],
+      "monthly": {
+        "Jan": 1.54,
+        "Feb": 2.47,
+        "Mar": 3.33,
+        "Apr": 4.15,
+        "May": 4.79,
+        "Jun": 4.93,
+        "Jul": 5.04,
+        "Aug": 4.9,
+        "Sep": 4.21,
+        "Oct": 3.03,
+        "Nov": 1.69,
+        "Dec": 1.15
+      },
+      "average": 3.44
+    },
+    {
+      "name": "Rutchenkivskyi",
+      "admin1_code": "05",
+      "location": [
+        47.97597,
+        37.69677
+      ],
+      "monthly": {
+        "Jan": 1.56,
+        "Feb": 2.48,
+        "Mar": 3.33,
+        "Apr": 4.15,
+        "May": 4.79,
+        "Jun": 4.93,
+        "Jul": 5.04,
+        "Aug": 4.9,
+        "Sep": 4.23,
+        "Oct": 3.05,
+        "Nov": 1.7,
+        "Dec": 1.15
+      },
+      "average": 3.44
+    },
+    {
+      "name": "Bosse",
+      "admin1_code": "05",
+      "location": [
+        47.95519,
+        37.8003
+      ],
+      "monthly": {
+        "Jan": 1.53,
+        "Feb": 2.4,
+        "Mar": 3.31,
+        "Apr": 4.14,
+        "May": 4.78,
+        "Jun": 4.93,
+        "Jul": 5.03,
+        "Aug": 4.89,
+        "Sep": 4.21,
+        "Oct": 3.01,
+        "Nov": 1.66,
+        "Dec": 1.12
+      },
+      "average": 3.42
+    },
+    {
+      "name": "Oleksandrivskyi",
+      "admin1_code": "05",
+      "location": [
+        47.96788,
+        37.80335
+      ],
+      "monthly": {
+        "Jan": 1.54,
+        "Feb": 2.42,
+        "Mar": 3.32,
+        "Apr": 4.15,
+        "May": 4.79,
+        "Jun": 4.94,
+        "Jul": 5.03,
+        "Aug": 4.89,
+        "Sep": 4.21,
+        "Oct": 3.01,
+        "Nov": 1.67,
+        "Dec": 1.14
+      },
+      "average": 3.43
+    },
+    {
+      "name": "Chumakivskyi",
+      "admin1_code": "05",
+      "location": [
+        47.95671,
+        37.94194
+      ],
+      "monthly": {
+        "Jan": 1.52,
+        "Feb": 2.43,
+        "Mar": 3.31,
+        "Apr": 4.14,
+        "May": 4.78,
+        "Jun": 4.95,
+        "Jul": 5.05,
+        "Aug": 4.91,
+        "Sep": 4.23,
+        "Oct": 3.01,
+        "Nov": 1.65,
+        "Dec": 1.12
+      },
+      "average": 3.42
+    },
+    {
+      "name": "Tekstylnyk",
+      "admin1_code": "05",
+      "location": [
+        47.94594,
+        37.69848
+      ],
+      "monthly": {
+        "Jan": 1.56,
+        "Feb": 2.46,
+        "Mar": 3.34,
+        "Apr": 4.16,
+        "May": 4.79,
+        "Jun": 4.93,
+        "Jul": 5.05,
+        "Aug": 4.91,
+        "Sep": 4.24,
+        "Oct": 3.05,
+        "Nov": 1.7,
+        "Dec": 1.15
+      },
+      "average": 3.44
+    },
+    {
+      "name": "Podil",
+      "admin1_code": "18",
+      "location": [
+        49.6039,
+        34.59443
+      ],
+      "monthly": {
+        "Jan": 1.4,
+        "Feb": 2.36,
+        "Mar": 3.36,
+        "Apr": 4.11,
+        "May": 4.74,
+        "Jun": 4.89,
+        "Jul": 4.92,
+        "Aug": 4.75,
+        "Sep": 3.9,
+        "Oct": 2.71,
+        "Nov": 1.38,
+        "Dec": 1.02
+      },
+      "average": 3.3
+    },
+    {
+      "name": "Kyivskyi",
+      "admin1_code": "18",
+      "location": [
+        49.60902,
+        34.52933
+      ],
+      "monthly": {
+        "Jan": 1.41,
+        "Feb": 2.37,
+        "Mar": 3.38,
+        "Apr": 4.15,
+        "May": 4.8,
+        "Jun": 4.94,
+        "Jul": 4.97,
+        "Aug": 4.79,
+        "Sep": 3.92,
+        "Oct": 2.74,
+        "Nov": 1.38,
+        "Dec": 0.99
+      },
+      "average": 3.32
+    },
+    {
+      "name": "Shevchenko",
+      "admin1_code": "18",
+      "location": [
+        49.5645,
+        34.53873
+      ],
+      "monthly": {
+        "Jan": 1.41,
+        "Feb": 2.36,
+        "Mar": 3.38,
+        "Apr": 4.14,
+        "May": 4.79,
+        "Jun": 4.94,
+        "Jul": 4.96,
+        "Aug": 4.79,
+        "Sep": 3.93,
+        "Oct": 2.74,
+        "Nov": 1.39,
+        "Dec": 1.01
+      },
+      "average": 3.32
+    },
+    {
+      "name": "Rayon KTZ",
+      "admin1_code": "07",
+      "location": [
+        49.94349,
+        36.36959
+      ],
+      "monthly": {
+        "Jan": 1.35,
+        "Feb": 2.28,
+        "Mar": 3.36,
+        "Apr": 4.12,
+        "May": 4.77,
+        "Jun": 4.9,
+        "Jul": 4.89,
+        "Aug": 4.71,
+        "Sep": 3.96,
+        "Oct": 2.66,
+        "Nov": 1.37,
+        "Dec": 0.94
+      },
+      "average": 3.28
+    },
+    {
+      "name": "Pravyi Bereh",
+      "admin1_code": "05",
+      "location": [
+        47.11498,
+        37.58519
+      ],
+      "monthly": {
+        "Jan": 1.56,
+        "Feb": 2.55,
+        "Mar": 3.44,
+        "Apr": 4.36,
+        "May": 5.04,
+        "Jun": 5.06,
+        "Jul": 5.19,
+        "Aug": 5.05,
+        "Sep": 4.34,
+        "Oct": 3.19,
+        "Nov": 1.84,
+        "Dec": 1.28
+      },
+      "average": 3.58
+    },
+    {
+      "name": "Nyvky",
+      "admin1_code": "12",
+      "location": [
+        50.46461,
+        30.40593
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.14,
+        "Mar": 3.26,
+        "Apr": 4.08,
+        "May": 4.62,
+        "Jun": 4.78,
+        "Jul": 4.67,
+        "Aug": 4.46,
+        "Sep": 3.65,
+        "Oct": 2.54,
+        "Nov": 1.21,
+        "Dec": 0.96
+      },
+      "average": 3.14
+    },
+    {
+      "name": "Pozniaky",
+      "admin1_code": "12",
+      "location": [
+        50.40259,
+        30.62352
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.2,
+        "Mar": 3.32,
+        "Apr": 4.13,
+        "May": 4.69,
+        "Jun": 4.81,
+        "Jul": 4.72,
+        "Aug": 4.5,
+        "Sep": 3.68,
+        "Oct": 2.57,
+        "Nov": 1.23,
+        "Dec": 0.98
+      },
+      "average": 3.18
+    },
+    {
+      "name": "Darnytsya",
+      "admin1_code": "12",
+      "location": [
+        50.41596,
+        30.69534
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.19,
+        "Mar": 3.31,
+        "Apr": 4.11,
+        "May": 4.66,
+        "Jun": 4.79,
+        "Jul": 4.7,
+        "Aug": 4.5,
+        "Sep": 3.67,
+        "Oct": 2.55,
+        "Nov": 1.22,
+        "Dec": 0.98
+      },
+      "average": 3.16
+    },
+    {
+      "name": "Berezniaky",
+      "admin1_code": "12",
+      "location": [
+        50.42627,
+        30.60218
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.19,
+        "Mar": 3.33,
+        "Apr": 4.13,
+        "May": 4.69,
+        "Jun": 4.81,
+        "Jul": 4.71,
+        "Aug": 4.49,
+        "Sep": 3.68,
+        "Oct": 2.56,
+        "Nov": 1.23,
+        "Dec": 0.99
+      },
+      "average": 3.18
+    },
+    {
+      "name": "Voskresenka",
+      "admin1_code": "12",
+      "location": [
+        50.48481,
+        30.6032
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.21,
+        "Mar": 3.36,
+        "Apr": 4.15,
+        "May": 4.69,
+        "Jun": 4.81,
+        "Jul": 4.7,
+        "Aug": 4.49,
+        "Sep": 3.68,
+        "Oct": 2.57,
+        "Nov": 1.24,
+        "Dec": 1
+      },
+      "average": 3.19
+    },
+    {
+      "name": "Stare Misto",
+      "admin1_code": "12",
+      "location": [
+        50.44759,
+        30.52635
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.17,
+        "Mar": 3.32,
+        "Apr": 4.11,
+        "May": 4.66,
+        "Jun": 4.8,
+        "Jul": 4.69,
+        "Aug": 4.47,
+        "Sep": 3.67,
+        "Oct": 2.56,
+        "Nov": 1.24,
+        "Dec": 0.99
+      },
+      "average": 3.17
+    },
+    {
+      "name": "Lypky",
+      "admin1_code": "12",
+      "location": [
+        50.44296,
+        30.53039
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.17,
+        "Mar": 3.32,
+        "Apr": 4.11,
+        "May": 4.66,
+        "Jun": 4.8,
+        "Jul": 4.69,
+        "Aug": 4.47,
+        "Sep": 3.67,
+        "Oct": 2.56,
+        "Nov": 1.24,
+        "Dec": 0.99
+      },
+      "average": 3.17
+    },
+    {
+      "name": "Vynohradar",
+      "admin1_code": "12",
+      "location": [
+        50.51429,
+        30.42452
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.14,
+        "Mar": 3.27,
+        "Apr": 4.06,
+        "May": 4.6,
+        "Jun": 4.75,
+        "Jul": 4.65,
+        "Aug": 4.45,
+        "Sep": 3.65,
+        "Oct": 2.53,
+        "Nov": 1.21,
+        "Dec": 0.97
+      },
+      "average": 3.13
+    },
+    {
+      "name": "Teremky",
+      "admin1_code": "12",
+      "location": [
+        50.37053,
+        30.45881
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.16,
+        "Mar": 3.31,
+        "Apr": 4.11,
+        "May": 4.68,
+        "Jun": 4.83,
+        "Jul": 4.73,
+        "Aug": 4.51,
+        "Sep": 3.68,
+        "Oct": 2.58,
+        "Nov": 1.23,
+        "Dec": 0.96
+      },
+      "average": 3.17
+    },
+    {
+      "name": "Vidradnyi",
+      "admin1_code": "12",
+      "location": [
+        50.43194,
+        30.42231
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.13,
+        "Mar": 3.28,
+        "Apr": 4.11,
+        "May": 4.67,
+        "Jun": 4.81,
+        "Jul": 4.7,
+        "Aug": 4.48,
+        "Sep": 3.67,
+        "Oct": 2.56,
+        "Nov": 1.22,
+        "Dec": 0.94
+      },
+      "average": 3.15
+    },
+    {
+      "name": "Chokolivka",
+      "admin1_code": "12",
+      "location": [
+        50.42444,
+        30.44732
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.12,
+        "Mar": 3.29,
+        "Apr": 4.12,
+        "May": 4.68,
+        "Jun": 4.82,
+        "Jul": 4.71,
+        "Aug": 4.49,
+        "Sep": 3.68,
+        "Oct": 2.56,
+        "Nov": 1.23,
+        "Dec": 0.94
+      },
+      "average": 3.16
+    },
+    {
+      "name": "Darnytskyi Masyv",
+      "admin1_code": "12",
+      "location": [
+        50.44311,
+        30.62759
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.2,
+        "Mar": 3.33,
+        "Apr": 4.13,
+        "May": 4.69,
+        "Jun": 4.81,
+        "Jul": 4.7,
+        "Aug": 4.5,
+        "Sep": 3.68,
+        "Oct": 2.57,
+        "Nov": 1.23,
+        "Dec": 0.98
+      },
+      "average": 3.18
+    },
+    {
+      "name": "Rayduzhnyi Masyv",
+      "admin1_code": "12",
+      "location": [
+        50.48551,
+        30.58571
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.21,
+        "Mar": 3.35,
+        "Apr": 4.14,
+        "May": 4.68,
+        "Jun": 4.8,
+        "Jul": 4.7,
+        "Aug": 4.48,
+        "Sep": 3.68,
+        "Oct": 2.56,
+        "Nov": 1.24,
+        "Dec": 0.99
+      },
+      "average": 3.18
+    },
+    {
+      "name": "Vyshhorodskyi Masyv",
+      "admin1_code": "12",
+      "location": [
+        50.50978,
+        30.45355
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.15,
+        "Mar": 3.28,
+        "Apr": 4.06,
+        "May": 4.6,
+        "Jun": 4.74,
+        "Jul": 4.64,
+        "Aug": 4.43,
+        "Sep": 3.64,
+        "Oct": 2.52,
+        "Nov": 1.21,
+        "Dec": 0.97
+      },
+      "average": 3.13
+    },
+    {
+      "name": "Mostytskyi Masyv",
+      "admin1_code": "12",
+      "location": [
+        50.50231,
+        30.44121
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.15,
+        "Mar": 3.28,
+        "Apr": 4.06,
+        "May": 4.61,
+        "Jun": 4.75,
+        "Jul": 4.65,
+        "Aug": 4.44,
+        "Sep": 3.64,
+        "Oct": 2.53,
+        "Nov": 1.21,
+        "Dec": 0.97
+      },
+      "average": 3.13
+    },
+    {
+      "name": "Syrets",
+      "admin1_code": "12",
+      "location": [
+        50.47955,
+        30.44491
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.14,
+        "Mar": 3.29,
+        "Apr": 4.07,
+        "May": 4.62,
+        "Jun": 4.77,
+        "Jul": 4.66,
+        "Aug": 4.45,
+        "Sep": 3.65,
+        "Oct": 2.54,
+        "Nov": 1.22,
+        "Dec": 0.98
+      },
+      "average": 3.14
+    },
+    {
+      "name": "Kurenivka",
+      "admin1_code": "12",
+      "location": [
+        50.49371,
+        30.47104
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.15,
+        "Mar": 3.29,
+        "Apr": 4.07,
+        "May": 4.61,
+        "Jun": 4.75,
+        "Jul": 4.65,
+        "Aug": 4.44,
+        "Sep": 3.65,
+        "Oct": 2.53,
+        "Nov": 1.22,
+        "Dec": 0.97
+      },
+      "average": 3.14
+    },
+    {
+      "name": "Tatarka",
+      "admin1_code": "12",
+      "location": [
+        50.46941,
+        30.48649
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.15,
+        "Mar": 3.3,
+        "Apr": 4.09,
+        "May": 4.64,
+        "Jun": 4.78,
+        "Jul": 4.67,
+        "Aug": 4.45,
+        "Sep": 3.66,
+        "Oct": 2.55,
+        "Nov": 1.22,
+        "Dec": 0.97
+      },
+      "average": 3.15
+    },
+    {
+      "name": "Shulyavka",
+      "admin1_code": "12",
+      "location": [
+        50.45356,
+        30.4531
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.15,
+        "Mar": 3.3,
+        "Apr": 4.1,
+        "May": 4.65,
+        "Jun": 4.8,
+        "Jul": 4.68,
+        "Aug": 4.46,
+        "Sep": 3.66,
+        "Oct": 2.56,
+        "Nov": 1.23,
+        "Dec": 0.98
+      },
+      "average": 3.16
+    },
+    {
+      "name": "Galagany",
+      "admin1_code": "12",
+      "location": [
+        50.45537,
+        30.40233
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.14,
+        "Mar": 3.26,
+        "Apr": 4.08,
+        "May": 4.63,
+        "Jun": 4.78,
+        "Jul": 4.67,
+        "Aug": 4.45,
+        "Sep": 3.65,
+        "Oct": 2.54,
+        "Nov": 1.21,
+        "Dec": 0.95
+      },
+      "average": 3.14
+    },
+    {
+      "name": "Lukyanivka",
+      "admin1_code": "12",
+      "location": [
+        50.46642,
+        30.47591
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.15,
+        "Mar": 3.3,
+        "Apr": 4.1,
+        "May": 4.64,
+        "Jun": 4.79,
+        "Jul": 4.68,
+        "Aug": 4.45,
+        "Sep": 3.66,
+        "Oct": 2.55,
+        "Nov": 1.23,
+        "Dec": 0.98
+      },
+      "average": 3.15
+    },
+    {
+      "name": "Mykilska Borshchahivka",
+      "admin1_code": "12",
+      "location": [
+        50.42638,
+        30.37442
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.11,
+        "Mar": 3.27,
+        "Apr": 4.09,
+        "May": 4.65,
+        "Jun": 4.79,
+        "Jul": 4.68,
+        "Aug": 4.47,
+        "Sep": 3.66,
+        "Oct": 2.55,
+        "Nov": 1.22,
+        "Dec": 0.92
+      },
+      "average": 3.14
+    },
+    {
+      "name": "Kharkivskyi Masyv",
+      "admin1_code": "12",
+      "location": [
+        50.40848,
+        30.66006
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.21,
+        "Mar": 3.33,
+        "Apr": 4.14,
+        "May": 4.7,
+        "Jun": 4.82,
+        "Jul": 4.72,
+        "Aug": 4.52,
+        "Sep": 3.69,
+        "Oct": 2.57,
+        "Nov": 1.23,
+        "Dec": 0.99
+      },
+      "average": 3.19
+    },
+    {
+      "name": "Pivnichni Osokorky",
+      "admin1_code": "12",
+      "location": [
+        50.3932,
+        30.61304
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.19,
+        "Mar": 3.33,
+        "Apr": 4.14,
+        "May": 4.71,
+        "Jun": 4.84,
+        "Jul": 4.74,
+        "Aug": 4.52,
+        "Sep": 3.69,
+        "Oct": 2.57,
+        "Nov": 1.24,
+        "Dec": 0.98
+      },
+      "average": 3.19
+    },
+    {
+      "name": "Klov",
+      "admin1_code": "12",
+      "location": [
+        50.4349,
+        30.53807
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.18,
+        "Mar": 3.32,
+        "Apr": 4.11,
+        "May": 4.66,
+        "Jun": 4.79,
+        "Jul": 4.68,
+        "Aug": 4.46,
+        "Sep": 3.67,
+        "Oct": 2.56,
+        "Nov": 1.24,
+        "Dec": 0.99
+      },
+      "average": 3.16
+    },
+    {
+      "name": "Zvirynets",
+      "admin1_code": "12",
+      "location": [
+        50.41626,
+        30.5492
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.19,
+        "Mar": 3.34,
+        "Apr": 4.13,
+        "May": 4.69,
+        "Jun": 4.82,
+        "Jul": 4.72,
+        "Aug": 4.49,
+        "Sep": 3.68,
+        "Oct": 2.58,
+        "Nov": 1.23,
+        "Dec": 0.99
+      },
+      "average": 3.18
+    },
+    {
+      "name": "Kybalchych",
+      "admin1_code": "12",
+      "location": [
+        50.49288,
+        30.59756
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.21,
+        "Mar": 3.36,
+        "Apr": 4.14,
+        "May": 4.68,
+        "Jun": 4.8,
+        "Jul": 4.7,
+        "Aug": 4.49,
+        "Sep": 3.68,
+        "Oct": 2.57,
+        "Nov": 1.24,
+        "Dec": 0.99
+      },
+      "average": 3.18
+    },
+    {
+      "name": "Pivnichno-Brovarskyi Masyv",
+      "admin1_code": "12",
+      "location": [
+        50.46304,
+        30.61697
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.2,
+        "Mar": 3.34,
+        "Apr": 4.14,
+        "May": 4.69,
+        "Jun": 4.81,
+        "Jul": 4.7,
+        "Aug": 4.5,
+        "Sep": 3.68,
+        "Oct": 2.57,
+        "Nov": 1.23,
+        "Dec": 0.99
+      },
+      "average": 3.18
+    },
+    {
+      "name": "Rusanivka",
+      "admin1_code": "12",
+      "location": [
+        50.43996,
+        30.59682
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.19,
+        "Mar": 3.33,
+        "Apr": 4.12,
+        "May": 4.68,
+        "Jun": 4.81,
+        "Jul": 4.7,
+        "Aug": 4.48,
+        "Sep": 3.67,
+        "Oct": 2.56,
+        "Nov": 1.24,
+        "Dec": 1
+      },
+      "average": 3.17
+    },
+    {
+      "name": "Saperna Slobidka",
+      "admin1_code": "12",
+      "location": [
+        50.40077,
+        30.5349
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.18,
+        "Mar": 3.31,
+        "Apr": 4.09,
+        "May": 4.64,
+        "Jun": 4.78,
+        "Jul": 4.67,
+        "Aug": 4.46,
+        "Sep": 3.65,
+        "Oct": 2.55,
+        "Nov": 1.23,
+        "Dec": 0.98
+      },
+      "average": 3.15
+    },
+    {
+      "name": "Minskyi Masyv",
+      "admin1_code": "12",
+      "location": [
+        50.51815,
+        30.46238
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.16,
+        "Mar": 3.29,
+        "Apr": 4.06,
+        "May": 4.6,
+        "Jun": 4.75,
+        "Jul": 4.65,
+        "Aug": 4.44,
+        "Sep": 3.64,
+        "Oct": 2.52,
+        "Nov": 1.21,
+        "Dec": 0.97
+      },
+      "average": 3.13
+    },
+    {
+      "name": "Smolyanskyi",
+      "admin1_code": "05",
+      "location": [
+        48.01435,
+        37.73586
+      ],
+      "monthly": {
+        "Jan": 1.57,
+        "Feb": 2.48,
+        "Mar": 3.33,
+        "Apr": 4.15,
+        "May": 4.78,
+        "Jun": 4.93,
+        "Jul": 5.03,
+        "Aug": 4.89,
+        "Sep": 4.23,
+        "Oct": 3.04,
+        "Nov": 1.7,
+        "Dec": 1.15
+      },
+      "average": 3.44
+    },
+    {
+      "name": "Tsentralno-Miskyi",
+      "admin1_code": "05",
+      "location": [
+        48.06167,
+        37.97157
+      ],
+      "monthly": {
+        "Jan": 1.54,
+        "Feb": 2.45,
+        "Mar": 3.32,
+        "Apr": 4.14,
+        "May": 4.77,
+        "Jun": 4.92,
+        "Jul": 5.03,
+        "Aug": 4.91,
+        "Sep": 4.23,
+        "Oct": 3,
+        "Nov": 1.66,
+        "Dec": 1.13
+      },
+      "average": 3.43
+    },
+    {
+      "name": "Khanzhonkivskyi",
+      "admin1_code": "05",
+      "location": [
+        48.09512,
+        38.04202
+      ],
+      "monthly": {
+        "Jan": 1.55,
+        "Feb": 2.46,
+        "Mar": 3.34,
+        "Apr": 4.14,
+        "May": 4.76,
+        "Jun": 4.91,
+        "Jul": 5.01,
+        "Aug": 4.9,
+        "Sep": 4.24,
+        "Oct": 3.01,
+        "Nov": 1.66,
+        "Dec": 1.14
+      },
+      "average": 3.43
+    },
+    {
+      "name": "Hruzkyi",
+      "admin1_code": "05",
+      "location": [
+        48.0651,
+        37.93619
+      ],
+      "monthly": {
+        "Jan": 1.53,
+        "Feb": 2.45,
+        "Mar": 3.31,
+        "Apr": 4.12,
+        "May": 4.74,
+        "Jun": 4.89,
+        "Jul": 5,
+        "Aug": 4.88,
+        "Sep": 4.2,
+        "Oct": 2.98,
+        "Nov": 1.65,
+        "Dec": 1.14
+      },
+      "average": 3.41
+    },
+    {
+      "name": "Hirnytskyi",
+      "admin1_code": "05",
+      "location": [
+        48.0211,
+        37.96914
+      ],
+      "monthly": {
+        "Jan": 1.54,
+        "Feb": 2.42,
+        "Mar": 3.3,
+        "Apr": 4.12,
+        "May": 4.75,
+        "Jun": 4.9,
+        "Jul": 5.01,
+        "Aug": 4.88,
+        "Sep": 4.2,
+        "Oct": 2.98,
+        "Nov": 1.65,
+        "Dec": 1.13
+      },
+      "average": 3.41
+    },
+    {
+      "name": "Berestovskyi",
+      "admin1_code": "05",
+      "location": [
+        48.04426,
+        37.87654
+      ],
+      "monthly": {
+        "Jan": 1.57,
+        "Feb": 2.48,
+        "Mar": 3.33,
+        "Apr": 4.13,
+        "May": 4.76,
+        "Jun": 4.91,
+        "Jul": 5.02,
+        "Aug": 4.89,
+        "Sep": 4.23,
+        "Oct": 3.02,
+        "Nov": 1.68,
+        "Dec": 1.16
+      },
+      "average": 3.43
+    },
+    {
+      "name": "Shevchenkivskyi",
+      "admin1_code": "14",
+      "location": [
+        48.56346,
+        39.33216
+      ],
+      "monthly": {
+        "Jan": 1.5,
+        "Feb": 2.36,
+        "Mar": 3.28,
+        "Apr": 4.14,
+        "May": 4.82,
+        "Jun": 4.89,
+        "Jul": 4.92,
+        "Aug": 4.79,
+        "Sep": 4.11,
+        "Oct": 2.87,
+        "Nov": 1.58,
+        "Dec": 1.04
+      },
+      "average": 3.36
+    },
+    {
+      "name": "Verhunskyi",
+      "admin1_code": "14",
+      "location": [
+        48.58573,
+        39.37158
+      ],
+      "monthly": {
+        "Jan": 1.5,
+        "Feb": 2.36,
+        "Mar": 3.27,
+        "Apr": 4.12,
+        "May": 4.81,
+        "Jun": 4.87,
+        "Jul": 4.91,
+        "Aug": 4.78,
+        "Sep": 4.11,
+        "Oct": 2.86,
+        "Nov": 1.58,
+        "Dec": 1.04
+      },
+      "average": 3.35
+    },
+    {
+      "name": "Vilkhivskyi",
+      "admin1_code": "14",
+      "location": [
+        48.54327,
+        39.28201
+      ],
+      "monthly": {
+        "Jan": 1.5,
+        "Feb": 2.36,
+        "Mar": 3.27,
+        "Apr": 4.13,
+        "May": 4.81,
+        "Jun": 4.86,
+        "Jul": 4.89,
+        "Aug": 4.77,
+        "Sep": 4.11,
+        "Oct": 2.87,
+        "Nov": 1.57,
+        "Dec": 1.03
+      },
+      "average": 3.35
+    },
+    {
+      "name": "Kamyanobridskyi",
+      "admin1_code": "14",
+      "location": [
+        48.5865,
+        39.28092
+      ],
+      "monthly": {
+        "Jan": 1.49,
+        "Feb": 2.36,
+        "Mar": 3.27,
+        "Apr": 4.13,
+        "May": 4.82,
+        "Jun": 4.89,
+        "Jul": 4.92,
+        "Aug": 4.79,
+        "Sep": 4.13,
+        "Oct": 2.88,
+        "Nov": 1.57,
+        "Dec": 1.02
+      },
+      "average": 3.36
+    },
+    {
+      "name": "Kovpakivskyi",
+      "admin1_code": "21",
+      "location": [
+        50.92508,
+        34.79484
+      ],
+      "monthly": {
+        "Jan": 1.22,
+        "Feb": 2.27,
+        "Mar": 3.39,
+        "Apr": 4.08,
+        "May": 4.73,
+        "Jun": 4.89,
+        "Jul": 4.8,
+        "Aug": 4.61,
+        "Sep": 3.67,
+        "Oct": 2.46,
+        "Nov": 1.19,
+        "Dec": 0.81
+      },
+      "average": 3.18
+    },
+    {
+      "name": "Zarichnyi",
+      "admin1_code": "21",
+      "location": [
+        50.90376,
+        34.80933
+      ],
+      "monthly": {
+        "Jan": 1.21,
+        "Feb": 2.25,
+        "Mar": 3.38,
+        "Apr": 4.08,
+        "May": 4.73,
+        "Jun": 4.88,
+        "Jul": 4.8,
+        "Aug": 4.61,
+        "Sep": 3.67,
+        "Oct": 2.46,
+        "Nov": 1.19,
+        "Dec": 0.81
+      },
+      "average": 3.17
+    },
+    {
+      "name": "Tsentralno-Miskyi",
+      "admin1_code": "05",
+      "location": [
+        48.30237,
+        38.03165
+      ],
+      "monthly": {
+        "Jan": 1.53,
+        "Feb": 2.41,
+        "Mar": 3.33,
+        "Apr": 4.14,
+        "May": 4.77,
+        "Jun": 4.91,
+        "Jul": 4.98,
+        "Aug": 4.85,
+        "Sep": 4.18,
+        "Oct": 2.96,
+        "Nov": 1.65,
+        "Dec": 1.1
+      },
+      "average": 3.4
+    },
+    {
+      "name": "Kindrativskyi",
+      "admin1_code": "05",
+      "location": [
+        48.30282,
+        38.05475
+      ],
+      "monthly": {
+        "Jan": 1.53,
+        "Feb": 2.41,
+        "Mar": 3.32,
+        "Apr": 4.14,
+        "May": 4.76,
+        "Jun": 4.9,
+        "Jul": 4.97,
+        "Aug": 4.85,
+        "Sep": 4.19,
+        "Oct": 2.96,
+        "Nov": 1.64,
+        "Dec": 1.09
+      },
+      "average": 3.4
+    },
+    {
+      "name": "Mykytivskyi",
+      "admin1_code": "05",
+      "location": [
+        48.31421,
+        38.00378
+      ],
+      "monthly": {
+        "Jan": 1.52,
+        "Feb": 2.4,
+        "Mar": 3.32,
+        "Apr": 4.13,
+        "May": 4.75,
+        "Jun": 4.89,
+        "Jul": 4.95,
+        "Aug": 4.83,
+        "Sep": 4.16,
+        "Oct": 2.95,
+        "Nov": 1.64,
+        "Dec": 1.1
+      },
+      "average": 3.39
+    },
+    {
+      "name": "Tsentralnyi",
+      "admin1_code": "05",
+      "location": [
+        47.09833,
+        37.54838
+      ],
+      "monthly": {
+        "Jan": 1.56,
+        "Feb": 2.54,
+        "Mar": 3.45,
+        "Apr": 4.39,
+        "May": 5.08,
+        "Jun": 5.11,
+        "Jul": 5.23,
+        "Aug": 5.09,
+        "Sep": 4.36,
+        "Oct": 3.19,
+        "Nov": 1.84,
+        "Dec": 1.29
+      },
+      "average": 3.59
+    },
+    {
+      "name": "Kalmiuskyi",
+      "admin1_code": "05",
+      "location": [
+        47.11046,
+        37.54375
+      ],
+      "monthly": {
+        "Jan": 1.56,
+        "Feb": 2.54,
+        "Mar": 3.43,
+        "Apr": 4.37,
+        "May": 5.03,
+        "Jun": 5.06,
+        "Jul": 5.19,
+        "Aug": 5.05,
+        "Sep": 4.34,
+        "Oct": 3.2,
+        "Nov": 1.86,
+        "Dec": 1.27
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Livoberezhnyi",
+      "admin1_code": "05",
+      "location": [
+        47.1093,
+        37.64306
+      ],
+      "monthly": {
+        "Jan": 1.56,
+        "Feb": 2.56,
+        "Mar": 3.45,
+        "Apr": 4.38,
+        "May": 5.07,
+        "Jun": 5.09,
+        "Jul": 5.22,
+        "Aug": 5.08,
+        "Sep": 4.36,
+        "Oct": 3.2,
+        "Nov": 1.83,
+        "Dec": 1.29
+      },
+      "average": 3.59
+    },
+    {
+      "name": "Prymorskyi",
+      "admin1_code": "05",
+      "location": [
+        47.07098,
+        37.49973
+      ],
+      "monthly": {
+        "Jan": 1.57,
+        "Feb": 2.54,
+        "Mar": 3.47,
+        "Apr": 4.41,
+        "May": 5.07,
+        "Jun": 5.1,
+        "Jul": 5.24,
+        "Aug": 5.09,
+        "Sep": 4.38,
+        "Oct": 3.22,
+        "Nov": 1.83,
+        "Dec": 1.27
+      },
+      "average": 3.6
+    },
+    {
+      "name": "Desnyanskyi",
+      "admin1_code": "02",
+      "location": [
+        51.50631,
+        31.3168
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 2.17,
+        "Mar": 3.42,
+        "Apr": 4.14,
+        "May": 4.74,
+        "Jun": 4.87,
+        "Jul": 4.72,
+        "Aug": 4.51,
+        "Sep": 3.62,
+        "Oct": 2.42,
+        "Nov": 1.12,
+        "Dec": 0.85
+      },
+      "average": 3.15
+    },
+    {
+      "name": "Novozavodskyi",
+      "admin1_code": "02",
+      "location": [
+        51.4893,
+        31.25634
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.15,
+        "Mar": 3.42,
+        "Apr": 4.14,
+        "May": 4.74,
+        "Jun": 4.86,
+        "Jul": 4.7,
+        "Aug": 4.49,
+        "Sep": 3.62,
+        "Oct": 2.42,
+        "Nov": 1.12,
+        "Dec": 0.84
+      },
+      "average": 3.15
+    },
+    {
+      "name": "Korolyov",
+      "admin1_code": "27",
+      "location": [
+        50.24487,
+        28.70013
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.12,
+        "Mar": 3.27,
+        "Apr": 4.14,
+        "May": 4.66,
+        "Jun": 4.8,
+        "Jul": 4.61,
+        "Aug": 4.5,
+        "Sep": 3.62,
+        "Oct": 2.61,
+        "Nov": 1.27,
+        "Dec": 0.99
+      },
+      "average": 3.16
+    },
+    {
+      "name": "Rakove",
+      "admin1_code": "09",
+      "location": [
+        49.39556,
+        27.06009
+      ],
+      "monthly": {
+        "Jan": 1.41,
+        "Feb": 2.16,
+        "Mar": 3.29,
+        "Apr": 4.1,
+        "May": 4.62,
+        "Jun": 4.74,
+        "Jul": 4.61,
+        "Aug": 4.54,
+        "Sep": 3.67,
+        "Oct": 2.69,
+        "Nov": 1.35,
+        "Dec": 1.01
+      },
+      "average": 3.18
+    },
+    {
+      "name": "Nyzhnya Telychka",
+      "admin1_code": "12",
+      "location": [
+        50.38809,
+        30.57487
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.19,
+        "Mar": 3.32,
+        "Apr": 4.12,
+        "May": 4.69,
+        "Jun": 4.83,
+        "Jul": 4.74,
+        "Aug": 4.51,
+        "Sep": 3.68,
+        "Oct": 2.56,
+        "Nov": 1.23,
+        "Dec": 0.98
+      },
+      "average": 3.18
+    }
+  ]
+}

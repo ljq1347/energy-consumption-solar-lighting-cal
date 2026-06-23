@@ -1,0 +1,811 @@
+{
+  "country": "El Salvador",
+  "countryCode": "SV",
+  "cities": [
+    {
+      "name": "Zacatecoluca",
+      "admin1_code": "06",
+      "location": [
+        13.50872,
+        -88.87017
+      ],
+      "monthly": {
+        "Jan": 5.26,
+        "Feb": 5.38,
+        "Mar": 5.09,
+        "Apr": 4.48,
+        "May": 4.03,
+        "Jun": 3.99,
+        "Jul": 4.49,
+        "Aug": 4.53,
+        "Sep": 4.33,
+        "Oct": 4.28,
+        "Nov": 4.91,
+        "Dec": 5.12
+      },
+      "average": 4.66
+    },
+    {
+      "name": "Usulután",
+      "admin1_code": "14",
+      "location": [
+        13.34467,
+        -88.43994
+      ],
+      "monthly": {
+        "Jan": 5.3,
+        "Feb": 5.49,
+        "Mar": 5.35,
+        "Apr": 4.78,
+        "May": 4.22,
+        "Jun": 4.12,
+        "Jul": 4.63,
+        "Aug": 4.7,
+        "Sep": 4.56,
+        "Oct": 4.49,
+        "Nov": 5.02,
+        "Dec": 5.15
+      },
+      "average": 4.82
+    },
+    {
+      "name": "Soyapango",
+      "admin1_code": "10",
+      "location": [
+        13.71024,
+        -89.13989
+      ],
+      "monthly": {
+        "Jan": 5.44,
+        "Feb": 5.56,
+        "Mar": 5.41,
+        "Apr": 4.88,
+        "May": 4.27,
+        "Jun": 4.06,
+        "Jul": 4.56,
+        "Aug": 4.67,
+        "Sep": 4.4,
+        "Oct": 4.56,
+        "Nov": 5.15,
+        "Dec": 5.32
+      },
+      "average": 4.86
+    },
+    {
+      "name": "Sonzacate",
+      "admin1_code": "13",
+      "location": [
+        13.73417,
+        -89.71472
+      ],
+      "monthly": {
+        "Jan": 5.34,
+        "Feb": 5.41,
+        "Mar": 5.15,
+        "Apr": 4.59,
+        "May": 4.01,
+        "Jun": 3.82,
+        "Jul": 4.31,
+        "Aug": 4.34,
+        "Sep": 4.07,
+        "Oct": 4.15,
+        "Nov": 4.84,
+        "Dec": 5.18
+      },
+      "average": 4.6
+    },
+    {
+      "name": "Sonsonate",
+      "admin1_code": "13",
+      "location": [
+        13.71726,
+        -89.72304
+      ],
+      "monthly": {
+        "Jan": 5.37,
+        "Feb": 5.47,
+        "Mar": 5.26,
+        "Apr": 4.72,
+        "May": 4.12,
+        "Jun": 3.89,
+        "Jul": 4.35,
+        "Aug": 4.41,
+        "Sep": 4.17,
+        "Oct": 4.24,
+        "Nov": 4.89,
+        "Dec": 5.21
+      },
+      "average": 4.68
+    },
+    {
+      "name": "Sensuntepeque",
+      "admin1_code": "02",
+      "location": [
+        13.87583,
+        -88.62727
+      ],
+      "monthly": {
+        "Jan": 5.41,
+        "Feb": 5.57,
+        "Mar": 5.39,
+        "Apr": 4.86,
+        "May": 4.35,
+        "Jun": 4.18,
+        "Jul": 4.62,
+        "Aug": 4.7,
+        "Sep": 4.54,
+        "Oct": 4.52,
+        "Nov": 5.08,
+        "Dec": 5.26
+      },
+      "average": 4.87
+    },
+    {
+      "name": "San Vicente",
+      "admin1_code": "12",
+      "location": [
+        13.64114,
+        -88.78459
+      ],
+      "monthly": {
+        "Jan": 5.21,
+        "Feb": 5.38,
+        "Mar": 5.26,
+        "Apr": 4.78,
+        "May": 4.22,
+        "Jun": 4.06,
+        "Jul": 4.6,
+        "Aug": 4.7,
+        "Sep": 4.44,
+        "Oct": 4.5,
+        "Nov": 5.01,
+        "Dec": 5.1
+      },
+      "average": 4.77
+    },
+    {
+      "name": "Santiago de María",
+      "admin1_code": "14",
+      "location": [
+        13.48333,
+        -88.46667
+      ],
+      "monthly": {
+        "Jan": 5.29,
+        "Feb": 5.41,
+        "Mar": 5.02,
+        "Apr": 4.24,
+        "May": 3.62,
+        "Jun": 3.65,
+        "Jul": 4.34,
+        "Aug": 4.17,
+        "Sep": 3.79,
+        "Oct": 3.92,
+        "Nov": 4.81,
+        "Dec": 5.1
+      },
+      "average": 4.45
+    },
+    {
+      "name": "Santa Ana",
+      "admin1_code": "11",
+      "location": [
+        13.98827,
+        -89.55685
+      ],
+      "monthly": {
+        "Jan": 5.46,
+        "Feb": 5.54,
+        "Mar": 5.39,
+        "Apr": 4.88,
+        "May": 4.31,
+        "Jun": 4.08,
+        "Jul": 4.61,
+        "Aug": 4.73,
+        "Sep": 4.53,
+        "Oct": 4.66,
+        "Nov": 5.15,
+        "Dec": 5.3
+      },
+      "average": 4.89
+    },
+    {
+      "name": "San Salvador",
+      "admin1_code": "10",
+      "location": [
+        13.68935,
+        -89.18718
+      ],
+      "monthly": {
+        "Jan": 5.39,
+        "Feb": 5.48,
+        "Mar": 5.33,
+        "Apr": 4.78,
+        "May": 4.13,
+        "Jun": 3.94,
+        "Jul": 4.48,
+        "Aug": 4.56,
+        "Sep": 4.27,
+        "Oct": 4.45,
+        "Nov": 5.09,
+        "Dec": 5.24
+      },
+      "average": 4.76
+    },
+    {
+      "name": "San Rafael Oriente",
+      "admin1_code": "09",
+      "location": [
+        13.38333,
+        -88.35
+      ],
+      "monthly": {
+        "Jan": 5.25,
+        "Feb": 5.46,
+        "Mar": 5.31,
+        "Apr": 4.73,
+        "May": 4.19,
+        "Jun": 4.13,
+        "Jul": 4.63,
+        "Aug": 4.73,
+        "Sep": 4.6,
+        "Oct": 4.52,
+        "Nov": 4.99,
+        "Dec": 5.09
+      },
+      "average": 4.8
+    },
+    {
+      "name": "San Miguel",
+      "admin1_code": "09",
+      "location": [
+        13.48261,
+        -88.18211
+      ],
+      "monthly": {
+        "Jan": 5.21,
+        "Feb": 5.47,
+        "Mar": 5.4,
+        "Apr": 4.94,
+        "May": 4.38,
+        "Jun": 4.21,
+        "Jul": 4.62,
+        "Aug": 4.81,
+        "Sep": 4.76,
+        "Oct": 4.75,
+        "Nov": 5.07,
+        "Dec": 5.08
+      },
+      "average": 4.89
+    },
+    {
+      "name": "San Martín",
+      "admin1_code": "04",
+      "location": [
+        13.78333,
+        -88.91667
+      ],
+      "monthly": {
+        "Jan": 5.29,
+        "Feb": 5.38,
+        "Mar": 5.2,
+        "Apr": 4.69,
+        "May": 4.13,
+        "Jun": 3.97,
+        "Jul": 4.53,
+        "Aug": 4.59,
+        "Sep": 4.31,
+        "Oct": 4.5,
+        "Nov": 5.09,
+        "Dec": 5.17
+      },
+      "average": 4.74
+    },
+    {
+      "name": "San Marcos",
+      "admin1_code": "10",
+      "location": [
+        13.66108,
+        -89.18252
+      ],
+      "monthly": {
+        "Jan": 5.3,
+        "Feb": 5.45,
+        "Mar": 5.22,
+        "Apr": 4.69,
+        "May": 4.03,
+        "Jun": 3.85,
+        "Jul": 4.43,
+        "Aug": 4.46,
+        "Sep": 4.1,
+        "Oct": 4.28,
+        "Nov": 4.97,
+        "Dec": 5.18
+      },
+      "average": 4.66
+    },
+    {
+      "name": "San Francisco",
+      "admin1_code": "08",
+      "location": [
+        13.69408,
+        -88.10407
+      ],
+      "monthly": {
+        "Jan": 5.25,
+        "Feb": 5.47,
+        "Mar": 5.32,
+        "Apr": 4.8,
+        "May": 4.36,
+        "Jun": 4.22,
+        "Jul": 4.61,
+        "Aug": 4.76,
+        "Sep": 4.72,
+        "Oct": 4.62,
+        "Nov": 5.03,
+        "Dec": 5.09
+      },
+      "average": 4.85
+    },
+    {
+      "name": "Quezaltepeque",
+      "admin1_code": "05",
+      "location": [
+        13.83124,
+        -89.27221
+      ],
+      "monthly": {
+        "Jan": 5.38,
+        "Feb": 5.48,
+        "Mar": 5.31,
+        "Apr": 4.81,
+        "May": 4.26,
+        "Jun": 4.02,
+        "Jul": 4.59,
+        "Aug": 4.7,
+        "Sep": 4.45,
+        "Oct": 4.64,
+        "Nov": 5.16,
+        "Dec": 5.25
+      },
+      "average": 4.84
+    },
+    {
+      "name": "Puerto El Triunfo",
+      "admin1_code": "14",
+      "location": [
+        13.28333,
+        -88.55
+      ],
+      "monthly": {
+        "Jan": 5.38,
+        "Feb": 5.6,
+        "Mar": 5.53,
+        "Apr": 4.97,
+        "May": 4.39,
+        "Jun": 4.2,
+        "Jul": 4.66,
+        "Aug": 4.78,
+        "Sep": 4.68,
+        "Oct": 4.65,
+        "Nov": 5.1,
+        "Dec": 5.22
+      },
+      "average": 4.93
+    },
+    {
+      "name": "Santa Tecla",
+      "admin1_code": "05",
+      "location": [
+        13.67741,
+        -89.28335
+      ],
+      "monthly": {
+        "Jan": 5.39,
+        "Feb": 5.41,
+        "Mar": 5.15,
+        "Apr": 4.53,
+        "May": 3.85,
+        "Jun": 3.72,
+        "Jul": 4.38,
+        "Aug": 4.31,
+        "Sep": 3.91,
+        "Oct": 4.09,
+        "Nov": 4.91,
+        "Dec": 5.23
+      },
+      "average": 4.57
+    },
+    {
+      "name": "Metapán",
+      "admin1_code": "11",
+      "location": [
+        14.33333,
+        -89.45
+      ],
+      "monthly": {
+        "Jan": 5.49,
+        "Feb": 5.59,
+        "Mar": 5.52,
+        "Apr": 5.02,
+        "May": 4.47,
+        "Jun": 4.25,
+        "Jul": 4.55,
+        "Aug": 4.66,
+        "Sep": 4.55,
+        "Oct": 4.64,
+        "Nov": 5.13,
+        "Dec": 5.26
+      },
+      "average": 4.93
+    },
+    {
+      "name": "Mejicanos",
+      "admin1_code": "10",
+      "location": [
+        13.72397,
+        -89.188
+      ],
+      "monthly": {
+        "Jan": 5.42,
+        "Feb": 5.51,
+        "Mar": 5.34,
+        "Apr": 4.8,
+        "May": 4.16,
+        "Jun": 3.96,
+        "Jul": 4.52,
+        "Aug": 4.61,
+        "Sep": 4.3,
+        "Oct": 4.52,
+        "Nov": 5.15,
+        "Dec": 5.3
+      },
+      "average": 4.8
+    },
+    {
+      "name": "La Unión",
+      "admin1_code": "07",
+      "location": [
+        13.33915,
+        -87.84328
+      ],
+      "monthly": {
+        "Jan": 5.35,
+        "Feb": 5.62,
+        "Mar": 5.59,
+        "Apr": 5.08,
+        "May": 4.51,
+        "Jun": 4.27,
+        "Jul": 4.66,
+        "Aug": 4.87,
+        "Sep": 4.84,
+        "Oct": 4.83,
+        "Nov": 5.09,
+        "Dec": 5.17
+      },
+      "average": 4.99
+    },
+    {
+      "name": "La Libertad",
+      "admin1_code": "05",
+      "location": [
+        13.48833,
+        -89.32222
+      ],
+      "monthly": {
+        "Jan": 5.41,
+        "Feb": 5.6,
+        "Mar": 5.48,
+        "Apr": 4.96,
+        "May": 4.37,
+        "Jun": 4.19,
+        "Jul": 4.65,
+        "Aug": 4.76,
+        "Sep": 4.63,
+        "Oct": 4.62,
+        "Nov": 5.08,
+        "Dec": 5.26
+      },
+      "average": 4.92
+    },
+    {
+      "name": "Izalco",
+      "admin1_code": "13",
+      "location": [
+        13.74472,
+        -89.67306
+      ],
+      "monthly": {
+        "Jan": 5.33,
+        "Feb": 5.39,
+        "Mar": 5.1,
+        "Apr": 4.52,
+        "May": 3.96,
+        "Jun": 3.77,
+        "Jul": 4.29,
+        "Aug": 4.3,
+        "Sep": 4,
+        "Oct": 4.09,
+        "Nov": 4.81,
+        "Dec": 5.18
+      },
+      "average": 4.56
+    },
+    {
+      "name": "Ilopango",
+      "admin1_code": "10",
+      "location": [
+        13.70167,
+        -89.10944
+      ],
+      "monthly": {
+        "Jan": 5.46,
+        "Feb": 5.59,
+        "Mar": 5.47,
+        "Apr": 4.96,
+        "May": 4.32,
+        "Jun": 4.09,
+        "Jul": 4.57,
+        "Aug": 4.7,
+        "Sep": 4.45,
+        "Oct": 4.58,
+        "Nov": 5.15,
+        "Dec": 5.32
+      },
+      "average": 4.89
+    },
+    {
+      "name": "Delgado",
+      "admin1_code": "10",
+      "location": [
+        13.72171,
+        -89.16874
+      ],
+      "monthly": {
+        "Jan": 5.41,
+        "Feb": 5.51,
+        "Mar": 5.35,
+        "Apr": 4.81,
+        "May": 4.18,
+        "Jun": 3.99,
+        "Jul": 4.52,
+        "Aug": 4.62,
+        "Sep": 4.33,
+        "Oct": 4.53,
+        "Nov": 5.14,
+        "Dec": 5.29
+      },
+      "average": 4.81
+    },
+    {
+      "name": "Cuscatancingo",
+      "admin1_code": "10",
+      "location": [
+        13.72702,
+        -89.18161
+      ],
+      "monthly": {
+        "Jan": 5.43,
+        "Feb": 5.52,
+        "Mar": 5.36,
+        "Apr": 4.83,
+        "May": 4.2,
+        "Jun": 3.99,
+        "Jul": 4.54,
+        "Aug": 4.64,
+        "Sep": 4.35,
+        "Oct": 4.55,
+        "Nov": 5.16,
+        "Dec": 5.31
+      },
+      "average": 4.82
+    },
+    {
+      "name": "Cojutepeque",
+      "admin1_code": "04",
+      "location": [
+        13.71971,
+        -88.93309
+      ],
+      "monthly": {
+        "Jan": 5.4,
+        "Feb": 5.51,
+        "Mar": 5.32,
+        "Apr": 4.79,
+        "May": 4.16,
+        "Jun": 3.99,
+        "Jul": 4.54,
+        "Aug": 4.57,
+        "Sep": 4.3,
+        "Oct": 4.44,
+        "Nov": 5.12,
+        "Dec": 5.25
+      },
+      "average": 4.78
+    },
+    {
+      "name": "Chalchuapa",
+      "admin1_code": "11",
+      "location": [
+        13.98667,
+        -89.68111
+      ],
+      "monthly": {
+        "Jan": 5.37,
+        "Feb": 5.47,
+        "Mar": 5.35,
+        "Apr": 4.82,
+        "May": 4.22,
+        "Jun": 4.02,
+        "Jul": 4.53,
+        "Aug": 4.66,
+        "Sep": 4.44,
+        "Oct": 4.56,
+        "Nov": 5.03,
+        "Dec": 5.19
+      },
+      "average": 4.8
+    },
+    {
+      "name": "Chalatenango",
+      "admin1_code": "03",
+      "location": [
+        14.04138,
+        -88.93951
+      ],
+      "monthly": {
+        "Jan": 5.4,
+        "Feb": 5.53,
+        "Mar": 5.4,
+        "Apr": 4.95,
+        "May": 4.45,
+        "Jun": 4.22,
+        "Jul": 4.61,
+        "Aug": 4.73,
+        "Sep": 4.6,
+        "Oct": 4.62,
+        "Nov": 5.09,
+        "Dec": 5.25
+      },
+      "average": 4.9
+    },
+    {
+      "name": "Ayutuxtepeque",
+      "admin1_code": "10",
+      "location": [
+        13.73538,
+        -89.20221
+      ],
+      "monthly": {
+        "Jan": 5.42,
+        "Feb": 5.49,
+        "Mar": 5.32,
+        "Apr": 4.77,
+        "May": 4.13,
+        "Jun": 3.92,
+        "Jul": 4.53,
+        "Aug": 4.6,
+        "Sep": 4.27,
+        "Oct": 4.51,
+        "Nov": 5.16,
+        "Dec": 5.3
+      },
+      "average": 4.79
+    },
+    {
+      "name": "Apopa",
+      "admin1_code": "10",
+      "location": [
+        13.80722,
+        -89.17917
+      ],
+      "monthly": {
+        "Jan": 5.4,
+        "Feb": 5.51,
+        "Mar": 5.38,
+        "Apr": 4.89,
+        "May": 4.32,
+        "Jun": 4.05,
+        "Jul": 4.59,
+        "Aug": 4.72,
+        "Sep": 4.48,
+        "Oct": 4.66,
+        "Nov": 5.18,
+        "Dec": 5.29
+      },
+      "average": 4.87
+    },
+    {
+      "name": "Antiguo Cuscatlán",
+      "admin1_code": "05",
+      "location": [
+        13.66492,
+        -89.25319
+      ],
+      "monthly": {
+        "Jan": 5.35,
+        "Feb": 5.42,
+        "Mar": 5.18,
+        "Apr": 4.54,
+        "May": 3.85,
+        "Jun": 3.71,
+        "Jul": 4.37,
+        "Aug": 4.33,
+        "Sep": 3.95,
+        "Oct": 4.11,
+        "Nov": 4.92,
+        "Dec": 5.22
+      },
+      "average": 4.58
+    },
+    {
+      "name": "Ahuachapán",
+      "admin1_code": "01",
+      "location": [
+        13.92403,
+        -89.84344
+      ],
+      "monthly": {
+        "Jan": 5.33,
+        "Feb": 5.44,
+        "Mar": 5.29,
+        "Apr": 4.74,
+        "May": 4,
+        "Jun": 3.68,
+        "Jul": 4.23,
+        "Aug": 4.23,
+        "Sep": 3.92,
+        "Oct": 4.26,
+        "Nov": 4.93,
+        "Dec": 5.16
+      },
+      "average": 4.6
+    },
+    {
+      "name": "Aguilares",
+      "admin1_code": "10",
+      "location": [
+        13.95722,
+        -89.18972
+      ],
+      "monthly": {
+        "Jan": 5.42,
+        "Feb": 5.57,
+        "Mar": 5.45,
+        "Apr": 4.98,
+        "May": 4.41,
+        "Jun": 4.15,
+        "Jul": 4.62,
+        "Aug": 4.75,
+        "Sep": 4.58,
+        "Oct": 4.75,
+        "Nov": 5.18,
+        "Dec": 5.28
+      },
+      "average": 4.93
+    },
+    {
+      "name": "Acajutla",
+      "admin1_code": "13",
+      "location": [
+        13.59278,
+        -89.8275
+      ],
+      "monthly": {
+        "Jan": 5.47,
+        "Feb": 5.64,
+        "Mar": 5.54,
+        "Apr": 5.04,
+        "May": 4.35,
+        "Jun": 4.1,
+        "Jul": 4.53,
+        "Aug": 4.65,
+        "Sep": 4.53,
+        "Oct": 4.59,
+        "Nov": 5.1,
+        "Dec": 5.3
+      },
+      "average": 4.9
+    }
+  ]
+}

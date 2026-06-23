@@ -1,0 +1,2421 @@
+{
+  "country": "Sweden",
+  "countryCode": "SE",
+  "cities": [
+    {
+      "name": "Umeå",
+      "admin1_code": "23",
+      "location": [
+        63.82842,
+        20.25972
+      ],
+      "monthly": {
+        "Jan": 0.67,
+        "Feb": 1.53,
+        "Mar": 3.39,
+        "Apr": 4.51,
+        "May": 4.88,
+        "Jun": 4.84,
+        "Jul": 4.5,
+        "Aug": 3.7,
+        "Sep": 2.75,
+        "Oct": 1.61,
+        "Nov": 0.59,
+        "Dec": 0.22
+      },
+      "average": 2.77
+    },
+    {
+      "name": "Skellefteå",
+      "admin1_code": "23",
+      "location": [
+        64.75067,
+        20.95279
+      ],
+      "monthly": {
+        "Jan": 0.54,
+        "Feb": 1.48,
+        "Mar": 3.24,
+        "Apr": 4.5,
+        "May": 4.84,
+        "Jun": 4.67,
+        "Jul": 4.31,
+        "Aug": 3.61,
+        "Sep": 2.68,
+        "Oct": 1.53,
+        "Nov": 0.51,
+        "Dec": 0.07
+      },
+      "average": 2.67
+    },
+    {
+      "name": "Ystad",
+      "admin1_code": "27",
+      "location": [
+        55.42966,
+        13.82041
+      ],
+      "monthly": {
+        "Jan": 0.98,
+        "Feb": 1.77,
+        "Mar": 3.16,
+        "Apr": 4.44,
+        "May": 4.95,
+        "Jun": 4.91,
+        "Jul": 4.65,
+        "Aug": 4.25,
+        "Sep": 3.33,
+        "Oct": 2.1,
+        "Nov": 1.02,
+        "Dec": 0.7
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Visby",
+      "admin1_code": "05",
+      "location": [
+        57.64089,
+        18.29602
+      ],
+      "monthly": {
+        "Jan": 0.85,
+        "Feb": 1.81,
+        "Mar": 3.32,
+        "Apr": 4.61,
+        "May": 5.22,
+        "Jun": 5.23,
+        "Jul": 4.9,
+        "Aug": 4.26,
+        "Sep": 3.37,
+        "Oct": 1.95,
+        "Nov": 0.86,
+        "Dec": 0.58
+      },
+      "average": 3.08
+    },
+    {
+      "name": "Växjö",
+      "admin1_code": "12",
+      "location": [
+        56.87767,
+        14.80906
+      ],
+      "monthly": {
+        "Jan": 0.89,
+        "Feb": 1.68,
+        "Mar": 3.19,
+        "Apr": 4.14,
+        "May": 4.49,
+        "Jun": 4.47,
+        "Jul": 4.23,
+        "Aug": 3.8,
+        "Sep": 3.04,
+        "Oct": 1.86,
+        "Nov": 0.87,
+        "Dec": 0.6
+      },
+      "average": 2.77
+    },
+    {
+      "name": "Västra Frölunda",
+      "admin1_code": "28",
+      "location": [
+        57.64667,
+        11.92944
+      ],
+      "monthly": {
+        "Jan": 1,
+        "Feb": 1.88,
+        "Mar": 3.29,
+        "Apr": 4.3,
+        "May": 4.77,
+        "Jun": 4.73,
+        "Jul": 4.53,
+        "Aug": 3.97,
+        "Sep": 3.14,
+        "Oct": 1.98,
+        "Nov": 1.05,
+        "Dec": 0.69
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Västervik",
+      "admin1_code": "09",
+      "location": [
+        57.7584,
+        16.63733
+      ],
+      "monthly": {
+        "Jan": 0.99,
+        "Feb": 1.89,
+        "Mar": 3.36,
+        "Apr": 4.35,
+        "May": 4.74,
+        "Jun": 4.74,
+        "Jul": 4.44,
+        "Aug": 3.96,
+        "Sep": 3.22,
+        "Oct": 2.02,
+        "Nov": 0.98,
+        "Dec": 0.71
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Västerås",
+      "admin1_code": "25",
+      "location": [
+        59.61617,
+        16.55276
+      ],
+      "monthly": {
+        "Jan": 0.86,
+        "Feb": 1.86,
+        "Mar": 3.3,
+        "Apr": 4.26,
+        "May": 4.68,
+        "Jun": 4.72,
+        "Jul": 4.44,
+        "Aug": 3.88,
+        "Sep": 3.08,
+        "Oct": 1.98,
+        "Nov": 0.88,
+        "Dec": 0.55
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Vasastaden",
+      "admin1_code": "26",
+      "location": [
+        59.35,
+        18.03333
+      ],
+      "monthly": {
+        "Jan": 0.86,
+        "Feb": 1.83,
+        "Mar": 3.28,
+        "Apr": 4.3,
+        "May": 4.81,
+        "Jun": 4.8,
+        "Jul": 4.48,
+        "Aug": 3.91,
+        "Sep": 3.11,
+        "Oct": 1.94,
+        "Nov": 0.89,
+        "Dec": 0.57
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Värnamo",
+      "admin1_code": "08",
+      "location": [
+        57.18604,
+        14.04001
+      ],
+      "monthly": {
+        "Jan": 0.87,
+        "Feb": 1.67,
+        "Mar": 3.11,
+        "Apr": 4.03,
+        "May": 4.41,
+        "Jun": 4.36,
+        "Jul": 4.13,
+        "Aug": 3.71,
+        "Sep": 2.96,
+        "Oct": 1.82,
+        "Nov": 0.87,
+        "Dec": 0.58
+      },
+      "average": 2.71
+    },
+    {
+      "name": "Varberg",
+      "admin1_code": "06",
+      "location": [
+        57.10557,
+        12.25078
+      ],
+      "monthly": {
+        "Jan": 1,
+        "Feb": 1.86,
+        "Mar": 3.26,
+        "Apr": 4.37,
+        "May": 4.88,
+        "Jun": 4.8,
+        "Jul": 4.61,
+        "Aug": 4.07,
+        "Sep": 3.19,
+        "Oct": 2.03,
+        "Nov": 1.04,
+        "Dec": 0.69
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Vänersborg",
+      "admin1_code": "28",
+      "location": [
+        58.38075,
+        12.3234
+      ],
+      "monthly": {
+        "Jan": 0.86,
+        "Feb": 1.71,
+        "Mar": 3.19,
+        "Apr": 4.19,
+        "May": 4.62,
+        "Jun": 4.6,
+        "Jul": 4.39,
+        "Aug": 3.79,
+        "Sep": 3.05,
+        "Oct": 1.94,
+        "Nov": 0.91,
+        "Dec": 0.59
+      },
+      "average": 2.82
+    },
+    {
+      "name": "Vallentuna",
+      "admin1_code": "26",
+      "location": [
+        59.53436,
+        18.07758
+      ],
+      "monthly": {
+        "Jan": 0.81,
+        "Feb": 1.82,
+        "Mar": 3.27,
+        "Apr": 4.28,
+        "May": 4.76,
+        "Jun": 4.76,
+        "Jul": 4.46,
+        "Aug": 3.89,
+        "Sep": 3.09,
+        "Oct": 1.95,
+        "Nov": 0.85,
+        "Dec": 0.57
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Uppsala",
+      "admin1_code": "21",
+      "location": [
+        59.85882,
+        17.63889
+      ],
+      "monthly": {
+        "Jan": 0.83,
+        "Feb": 1.8,
+        "Mar": 3.29,
+        "Apr": 4.33,
+        "May": 4.7,
+        "Jun": 4.73,
+        "Jul": 4.37,
+        "Aug": 3.79,
+        "Sep": 3.05,
+        "Oct": 1.98,
+        "Nov": 0.83,
+        "Dec": 0.58
+      },
+      "average": 2.86
+    },
+    {
+      "name": "Upplands Väsby",
+      "admin1_code": "26",
+      "location": [
+        59.51839,
+        17.91128
+      ],
+      "monthly": {
+        "Jan": 0.83,
+        "Feb": 1.84,
+        "Mar": 3.29,
+        "Apr": 4.3,
+        "May": 4.78,
+        "Jun": 4.79,
+        "Jul": 4.48,
+        "Aug": 3.92,
+        "Sep": 3.1,
+        "Oct": 1.96,
+        "Nov": 0.86,
+        "Dec": 0.57
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Uddevalla",
+      "admin1_code": "28",
+      "location": [
+        58.34784,
+        11.9424
+      ],
+      "monthly": {
+        "Jan": 0.82,
+        "Feb": 1.74,
+        "Mar": 3.13,
+        "Apr": 4.09,
+        "May": 4.51,
+        "Jun": 4.5,
+        "Jul": 4.31,
+        "Aug": 3.71,
+        "Sep": 2.99,
+        "Oct": 1.9,
+        "Nov": 0.91,
+        "Dec": 0.55
+      },
+      "average": 2.76
+    },
+    {
+      "name": "Tumba",
+      "admin1_code": "26",
+      "location": [
+        59.19858,
+        17.83317
+      ],
+      "monthly": {
+        "Jan": 0.82,
+        "Feb": 1.82,
+        "Mar": 3.28,
+        "Apr": 4.3,
+        "May": 4.78,
+        "Jun": 4.78,
+        "Jul": 4.46,
+        "Aug": 3.89,
+        "Sep": 3.1,
+        "Oct": 1.92,
+        "Nov": 0.86,
+        "Dec": 0.54
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Tullinge",
+      "admin1_code": "26",
+      "location": [
+        59.2,
+        17.9
+      ],
+      "monthly": {
+        "Jan": 0.86,
+        "Feb": 1.83,
+        "Mar": 3.29,
+        "Apr": 4.3,
+        "May": 4.8,
+        "Jun": 4.79,
+        "Jul": 4.47,
+        "Aug": 3.9,
+        "Sep": 3.1,
+        "Oct": 1.94,
+        "Nov": 0.87,
+        "Dec": 0.57
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Trollhättan",
+      "admin1_code": "28",
+      "location": [
+        58.28365,
+        12.28864
+      ],
+      "monthly": {
+        "Jan": 0.87,
+        "Feb": 1.75,
+        "Mar": 3.2,
+        "Apr": 4.18,
+        "May": 4.58,
+        "Jun": 4.58,
+        "Jul": 4.36,
+        "Aug": 3.77,
+        "Sep": 3.05,
+        "Oct": 1.94,
+        "Nov": 0.93,
+        "Dec": 0.6
+      },
+      "average": 2.82
+    },
+    {
+      "name": "Trelleborg",
+      "admin1_code": "27",
+      "location": [
+        55.37514,
+        13.15691
+      ],
+      "monthly": {
+        "Jan": 1.02,
+        "Feb": 1.83,
+        "Mar": 3.23,
+        "Apr": 4.54,
+        "May": 4.99,
+        "Jun": 4.96,
+        "Jul": 4.71,
+        "Aug": 4.34,
+        "Sep": 3.46,
+        "Oct": 2.18,
+        "Nov": 1.1,
+        "Dec": 0.72
+      },
+      "average": 3.09
+    },
+    {
+      "name": "Täby",
+      "admin1_code": "26",
+      "location": [
+        59.4439,
+        18.06872
+      ],
+      "monthly": {
+        "Jan": 0.85,
+        "Feb": 1.84,
+        "Mar": 3.27,
+        "Apr": 4.28,
+        "May": 4.78,
+        "Jun": 4.76,
+        "Jul": 4.46,
+        "Aug": 3.89,
+        "Sep": 3.09,
+        "Oct": 1.95,
+        "Nov": 0.87,
+        "Dec": 0.56
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Sundsvall",
+      "admin1_code": "24",
+      "location": [
+        62.39129,
+        17.3063
+      ],
+      "monthly": {
+        "Jan": 0.5,
+        "Feb": 1.74,
+        "Mar": 3.38,
+        "Apr": 4.39,
+        "May": 4.53,
+        "Jun": 4.7,
+        "Jul": 4.3,
+        "Aug": 3.57,
+        "Sep": 2.75,
+        "Oct": 1.83,
+        "Nov": 0.73,
+        "Dec": 0.04
+      },
+      "average": 2.7
+    },
+    {
+      "name": "Sundbyberg",
+      "admin1_code": "26",
+      "location": [
+        59.36128,
+        17.97114
+      ],
+      "monthly": {
+        "Jan": 0.86,
+        "Feb": 1.85,
+        "Mar": 3.3,
+        "Apr": 4.32,
+        "May": 4.82,
+        "Jun": 4.8,
+        "Jul": 4.48,
+        "Aug": 3.92,
+        "Sep": 3.12,
+        "Oct": 1.96,
+        "Nov": 0.89,
+        "Dec": 0.57
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Stockholm",
+      "admin1_code": "26",
+      "location": [
+        59.32938,
+        18.06871
+      ],
+      "monthly": {
+        "Jan": 0.86,
+        "Feb": 1.82,
+        "Mar": 3.27,
+        "Apr": 4.3,
+        "May": 4.79,
+        "Jun": 4.77,
+        "Jul": 4.47,
+        "Aug": 3.89,
+        "Sep": 3.09,
+        "Oct": 1.94,
+        "Nov": 0.89,
+        "Dec": 0.57
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Staffanstorp",
+      "admin1_code": "27",
+      "location": [
+        55.64277,
+        13.20638
+      ],
+      "monthly": {
+        "Jan": 0.99,
+        "Feb": 1.82,
+        "Mar": 3.2,
+        "Apr": 4.42,
+        "May": 4.82,
+        "Jun": 4.75,
+        "Jul": 4.48,
+        "Aug": 4.14,
+        "Sep": 3.34,
+        "Oct": 2.15,
+        "Nov": 1.08,
+        "Dec": 0.68
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Solna",
+      "admin1_code": "26",
+      "location": [
+        59.36004,
+        18.00086
+      ],
+      "monthly": {
+        "Jan": 0.86,
+        "Feb": 1.83,
+        "Mar": 3.29,
+        "Apr": 4.31,
+        "May": 4.81,
+        "Jun": 4.8,
+        "Jul": 4.48,
+        "Aug": 3.91,
+        "Sep": 3.11,
+        "Oct": 1.95,
+        "Nov": 0.89,
+        "Dec": 0.57
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Sollentuna",
+      "admin1_code": "26",
+      "location": [
+        59.42804,
+        17.95093
+      ],
+      "monthly": {
+        "Jan": 0.86,
+        "Feb": 1.84,
+        "Mar": 3.28,
+        "Apr": 4.31,
+        "May": 4.79,
+        "Jun": 4.78,
+        "Jul": 4.46,
+        "Aug": 3.91,
+        "Sep": 3.1,
+        "Oct": 1.95,
+        "Nov": 0.88,
+        "Dec": 0.57
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Södertälje",
+      "admin1_code": "26",
+      "location": [
+        59.19554,
+        17.62525
+      ],
+      "monthly": {
+        "Jan": 0.86,
+        "Feb": 1.86,
+        "Mar": 3.29,
+        "Apr": 4.27,
+        "May": 4.72,
+        "Jun": 4.73,
+        "Jul": 4.42,
+        "Aug": 3.87,
+        "Sep": 3.09,
+        "Oct": 1.93,
+        "Nov": 0.86,
+        "Dec": 0.56
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Södermalm",
+      "admin1_code": "26",
+      "location": [
+        59.31278,
+        18.07577
+      ],
+      "monthly": {
+        "Jan": 0.87,
+        "Feb": 1.83,
+        "Mar": 3.29,
+        "Apr": 4.32,
+        "May": 4.82,
+        "Jun": 4.8,
+        "Jul": 4.5,
+        "Aug": 3.91,
+        "Sep": 3.12,
+        "Oct": 1.96,
+        "Nov": 0.89,
+        "Dec": 0.57
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Skövde",
+      "admin1_code": "28",
+      "location": [
+        58.39118,
+        13.84506
+      ],
+      "monthly": {
+        "Jan": 0.88,
+        "Feb": 1.77,
+        "Mar": 3.35,
+        "Apr": 4.29,
+        "May": 4.55,
+        "Jun": 4.6,
+        "Jul": 4.29,
+        "Aug": 3.79,
+        "Sep": 3.05,
+        "Oct": 1.99,
+        "Nov": 0.92,
+        "Dec": 0.6
+      },
+      "average": 2.84
+    },
+    {
+      "name": "Sandviken",
+      "admin1_code": "03",
+      "location": [
+        60.61667,
+        16.76667
+      ],
+      "monthly": {
+        "Jan": 0.87,
+        "Feb": 1.81,
+        "Mar": 3.36,
+        "Apr": 4.36,
+        "May": 4.49,
+        "Jun": 4.63,
+        "Jul": 4.29,
+        "Aug": 3.65,
+        "Sep": 2.89,
+        "Oct": 1.93,
+        "Nov": 0.82,
+        "Dec": 0.61
+      },
+      "average": 2.81
+    },
+    {
+      "name": "Rinkeby",
+      "admin1_code": "26",
+      "location": [
+        59.38708,
+        17.92754
+      ],
+      "monthly": {
+        "Jan": 0.86,
+        "Feb": 1.85,
+        "Mar": 3.3,
+        "Apr": 4.34,
+        "May": 4.82,
+        "Jun": 4.81,
+        "Jul": 4.49,
+        "Aug": 3.93,
+        "Sep": 3.12,
+        "Oct": 1.96,
+        "Nov": 0.89,
+        "Dec": 0.56
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Råsunda",
+      "admin1_code": "26",
+      "location": [
+        59.36588,
+        17.99569
+      ],
+      "monthly": {
+        "Jan": 0.86,
+        "Feb": 1.84,
+        "Mar": 3.29,
+        "Apr": 4.31,
+        "May": 4.81,
+        "Jun": 4.8,
+        "Jul": 4.48,
+        "Aug": 3.91,
+        "Sep": 3.11,
+        "Oct": 1.95,
+        "Nov": 0.89,
+        "Dec": 0.57
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Partille",
+      "admin1_code": "28",
+      "location": [
+        57.7395,
+        12.10642
+      ],
+      "monthly": {
+        "Jan": 0.86,
+        "Feb": 1.75,
+        "Mar": 3.14,
+        "Apr": 4.09,
+        "May": 4.46,
+        "Jun": 4.42,
+        "Jul": 4.19,
+        "Aug": 3.64,
+        "Sep": 2.93,
+        "Oct": 1.85,
+        "Nov": 0.94,
+        "Dec": 0.51
+      },
+      "average": 2.73
+    },
+    {
+      "name": "Östersund",
+      "admin1_code": "07",
+      "location": [
+        63.1792,
+        14.63566
+      ],
+      "monthly": {
+        "Jan": 0.64,
+        "Feb": 1.49,
+        "Mar": 2.94,
+        "Apr": 4.27,
+        "May": 4.41,
+        "Jun": 4.47,
+        "Jul": 4.14,
+        "Aug": 3.43,
+        "Sep": 2.49,
+        "Oct": 1.43,
+        "Nov": 0.64,
+        "Dec": 0.48
+      },
+      "average": 2.57
+    },
+    {
+      "name": "Östermalm",
+      "admin1_code": "26",
+      "location": [
+        59.33879,
+        18.08487
+      ],
+      "monthly": {
+        "Jan": 0.86,
+        "Feb": 1.81,
+        "Mar": 3.27,
+        "Apr": 4.31,
+        "May": 4.82,
+        "Jun": 4.8,
+        "Jul": 4.5,
+        "Aug": 3.91,
+        "Sep": 3.11,
+        "Oct": 1.95,
+        "Nov": 0.89,
+        "Dec": 0.58
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Oskarshamn",
+      "admin1_code": "09",
+      "location": [
+        57.26455,
+        16.44837
+      ],
+      "monthly": {
+        "Jan": 1.02,
+        "Feb": 1.91,
+        "Mar": 3.33,
+        "Apr": 4.32,
+        "May": 4.69,
+        "Jun": 4.69,
+        "Jul": 4.4,
+        "Aug": 3.94,
+        "Sep": 3.23,
+        "Oct": 2.01,
+        "Nov": 1.02,
+        "Dec": 0.71
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Örnsköldsvik",
+      "admin1_code": "24",
+      "location": [
+        63.29091,
+        18.71525
+      ],
+      "monthly": {
+        "Jan": 0.61,
+        "Feb": 1.58,
+        "Mar": 3.31,
+        "Apr": 4.47,
+        "May": 4.74,
+        "Jun": 4.78,
+        "Jul": 4.36,
+        "Aug": 3.61,
+        "Sep": 2.72,
+        "Oct": 1.66,
+        "Nov": 0.6,
+        "Dec": 0.27
+      },
+      "average": 2.73
+    },
+    {
+      "name": "Örebro",
+      "admin1_code": "15",
+      "location": [
+        59.27412,
+        15.2066
+      ],
+      "monthly": {
+        "Jan": 0.84,
+        "Feb": 1.85,
+        "Mar": 3.32,
+        "Apr": 4.2,
+        "May": 4.6,
+        "Jun": 4.71,
+        "Jul": 4.39,
+        "Aug": 3.83,
+        "Sep": 3.05,
+        "Oct": 1.98,
+        "Nov": 0.87,
+        "Dec": 0.57
+      },
+      "average": 2.85
+    },
+    {
+      "name": "Nyköping",
+      "admin1_code": "18",
+      "location": [
+        58.753,
+        17.00788
+      ],
+      "monthly": {
+        "Jan": 0.92,
+        "Feb": 1.89,
+        "Mar": 3.41,
+        "Apr": 4.34,
+        "May": 4.79,
+        "Jun": 4.81,
+        "Jul": 4.52,
+        "Aug": 3.95,
+        "Sep": 3.19,
+        "Oct": 2.04,
+        "Nov": 0.96,
+        "Dec": 0.63
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Norrtälje",
+      "admin1_code": "26",
+      "location": [
+        59.75799,
+        18.70496
+      ],
+      "monthly": {
+        "Jan": 0.76,
+        "Feb": 1.76,
+        "Mar": 3.22,
+        "Apr": 4.32,
+        "May": 4.83,
+        "Jun": 4.84,
+        "Jul": 4.53,
+        "Aug": 3.92,
+        "Sep": 3.07,
+        "Oct": 1.89,
+        "Nov": 0.82,
+        "Dec": 0.54
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Norrköping",
+      "admin1_code": "16",
+      "location": [
+        58.59419,
+        16.1826
+      ],
+      "monthly": {
+        "Jan": 0.88,
+        "Feb": 1.82,
+        "Mar": 3.35,
+        "Apr": 4.24,
+        "May": 4.67,
+        "Jun": 4.69,
+        "Jul": 4.4,
+        "Aug": 3.89,
+        "Sep": 3.09,
+        "Oct": 2.02,
+        "Nov": 0.94,
+        "Dec": 0.61
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Nässjö",
+      "admin1_code": "08",
+      "location": [
+        57.65307,
+        14.69676
+      ],
+      "monthly": {
+        "Jan": 0.93,
+        "Feb": 1.77,
+        "Mar": 3.29,
+        "Apr": 4.19,
+        "May": 4.41,
+        "Jun": 4.43,
+        "Jul": 4.14,
+        "Aug": 3.71,
+        "Sep": 2.97,
+        "Oct": 1.86,
+        "Nov": 0.88,
+        "Dec": 0.59
+      },
+      "average": 2.76
+    },
+    {
+      "name": "Nacka",
+      "admin1_code": "26",
+      "location": [
+        59.31053,
+        18.16372
+      ],
+      "monthly": {
+        "Jan": 0.88,
+        "Feb": 1.82,
+        "Mar": 3.26,
+        "Apr": 4.29,
+        "May": 4.81,
+        "Jun": 4.79,
+        "Jul": 4.5,
+        "Aug": 3.9,
+        "Sep": 3.1,
+        "Oct": 1.94,
+        "Nov": 0.88,
+        "Dec": 0.58
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Motala",
+      "admin1_code": "16",
+      "location": [
+        58.53706,
+        15.03649
+      ],
+      "monthly": {
+        "Jan": 0.87,
+        "Feb": 1.83,
+        "Mar": 3.41,
+        "Apr": 4.4,
+        "May": 4.83,
+        "Jun": 4.91,
+        "Jul": 4.55,
+        "Aug": 3.99,
+        "Sep": 3.15,
+        "Oct": 2.02,
+        "Nov": 0.92,
+        "Dec": 0.58
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Mölnlycke",
+      "admin1_code": "28",
+      "location": [
+        57.65893,
+        12.11792
+      ],
+      "monthly": {
+        "Jan": 0.94,
+        "Feb": 1.78,
+        "Mar": 3.16,
+        "Apr": 4.14,
+        "May": 4.51,
+        "Jun": 4.47,
+        "Jul": 4.25,
+        "Aug": 3.7,
+        "Sep": 2.96,
+        "Oct": 1.87,
+        "Nov": 0.98,
+        "Dec": 0.63
+      },
+      "average": 2.78
+    },
+    {
+      "name": "Mölndal",
+      "admin1_code": "28",
+      "location": [
+        57.6554,
+        12.01378
+      ],
+      "monthly": {
+        "Jan": 1,
+        "Feb": 1.85,
+        "Mar": 3.26,
+        "Apr": 4.25,
+        "May": 4.67,
+        "Jun": 4.63,
+        "Jul": 4.42,
+        "Aug": 3.86,
+        "Sep": 3.07,
+        "Oct": 1.95,
+        "Nov": 1.04,
+        "Dec": 0.67
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Märsta",
+      "admin1_code": "26",
+      "location": [
+        59.62157,
+        17.85476
+      ],
+      "monthly": {
+        "Jan": 0.83,
+        "Feb": 1.84,
+        "Mar": 3.3,
+        "Apr": 4.27,
+        "May": 4.74,
+        "Jun": 4.76,
+        "Jul": 4.45,
+        "Aug": 3.9,
+        "Sep": 3.08,
+        "Oct": 1.95,
+        "Nov": 0.85,
+        "Dec": 0.55
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Mariestad",
+      "admin1_code": "28",
+      "location": [
+        58.70971,
+        13.82367
+      ],
+      "monthly": {
+        "Jan": 0.84,
+        "Feb": 1.76,
+        "Mar": 3.36,
+        "Apr": 4.36,
+        "May": 4.79,
+        "Jun": 4.88,
+        "Jul": 4.5,
+        "Aug": 3.96,
+        "Sep": 3.11,
+        "Oct": 1.97,
+        "Nov": 0.89,
+        "Dec": 0.56
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Malmö",
+      "admin1_code": "27",
+      "location": [
+        55.60587,
+        13.00073
+      ],
+      "monthly": {
+        "Jan": 1.01,
+        "Feb": 1.81,
+        "Mar": 3.15,
+        "Apr": 4.36,
+        "May": 4.8,
+        "Jun": 4.77,
+        "Jul": 4.52,
+        "Aug": 4.11,
+        "Sep": 3.26,
+        "Oct": 2.08,
+        "Nov": 1.05,
+        "Dec": 0.67
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Lund",
+      "admin1_code": "27",
+      "location": [
+        55.70584,
+        13.19321
+      ],
+      "monthly": {
+        "Jan": 0.99,
+        "Feb": 1.82,
+        "Mar": 3.2,
+        "Apr": 4.39,
+        "May": 4.79,
+        "Jun": 4.74,
+        "Jul": 4.48,
+        "Aug": 4.14,
+        "Sep": 3.33,
+        "Oct": 2.15,
+        "Nov": 1.08,
+        "Dec": 0.69
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Ludvika",
+      "admin1_code": "10",
+      "location": [
+        60.14959,
+        15.18776
+      ],
+      "monthly": {
+        "Jan": 0.86,
+        "Feb": 1.74,
+        "Mar": 3.41,
+        "Apr": 4.28,
+        "May": 4.28,
+        "Jun": 4.54,
+        "Jul": 4.1,
+        "Aug": 3.53,
+        "Sep": 2.77,
+        "Oct": 1.87,
+        "Nov": 0.82,
+        "Dec": 0.56
+      },
+      "average": 2.73
+    },
+    {
+      "name": "Ljungby",
+      "admin1_code": "12",
+      "location": [
+        56.83324,
+        13.94082
+      ],
+      "monthly": {
+        "Jan": 0.88,
+        "Feb": 1.7,
+        "Mar": 3.1,
+        "Apr": 4.07,
+        "May": 4.46,
+        "Jun": 4.4,
+        "Jul": 4.17,
+        "Aug": 3.79,
+        "Sep": 3,
+        "Oct": 1.87,
+        "Nov": 0.9,
+        "Dec": 0.59
+      },
+      "average": 2.74
+    },
+    {
+      "name": "Linköping",
+      "admin1_code": "16",
+      "location": [
+        58.41086,
+        15.62157
+      ],
+      "monthly": {
+        "Jan": 0.85,
+        "Feb": 1.78,
+        "Mar": 3.32,
+        "Apr": 4.24,
+        "May": 4.61,
+        "Jun": 4.67,
+        "Jul": 4.3,
+        "Aug": 3.81,
+        "Sep": 3.08,
+        "Oct": 2.02,
+        "Nov": 0.94,
+        "Dec": 0.59
+      },
+      "average": 2.85
+    },
+    {
+      "name": "Lidköping",
+      "admin1_code": "28",
+      "location": [
+        58.50517,
+        13.15765
+      ],
+      "monthly": {
+        "Jan": 0.82,
+        "Feb": 1.74,
+        "Mar": 3.32,
+        "Apr": 4.4,
+        "May": 4.79,
+        "Jun": 4.81,
+        "Jul": 4.44,
+        "Aug": 3.9,
+        "Sep": 3.15,
+        "Oct": 1.99,
+        "Nov": 0.9,
+        "Dec": 0.57
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Lidingö",
+      "admin1_code": "26",
+      "location": [
+        59.36667,
+        18.13333
+      ],
+      "monthly": {
+        "Jan": 0.85,
+        "Feb": 1.79,
+        "Mar": 3.24,
+        "Apr": 4.25,
+        "May": 4.76,
+        "Jun": 4.76,
+        "Jul": 4.46,
+        "Aug": 3.88,
+        "Sep": 3.08,
+        "Oct": 1.92,
+        "Nov": 0.86,
+        "Dec": 0.56
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Lerum",
+      "admin1_code": "28",
+      "location": [
+        57.77051,
+        12.26904
+      ],
+      "monthly": {
+        "Jan": 0.88,
+        "Feb": 1.74,
+        "Mar": 3.13,
+        "Apr": 4.07,
+        "May": 4.42,
+        "Jun": 4.4,
+        "Jul": 4.2,
+        "Aug": 3.65,
+        "Sep": 2.94,
+        "Oct": 1.84,
+        "Nov": 0.93,
+        "Dec": 0.57
+      },
+      "average": 2.73
+    },
+    {
+      "name": "Landskrona",
+      "admin1_code": "27",
+      "location": [
+        55.8708,
+        12.83016
+      ],
+      "monthly": {
+        "Jan": 0.99,
+        "Feb": 1.79,
+        "Mar": 3.16,
+        "Apr": 4.33,
+        "May": 4.74,
+        "Jun": 4.68,
+        "Jul": 4.45,
+        "Aug": 4.07,
+        "Sep": 3.25,
+        "Oct": 2.07,
+        "Nov": 1.06,
+        "Dec": 0.71
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Kungsholmen",
+      "admin1_code": "26",
+      "location": [
+        59.33183,
+        18.04118
+      ],
+      "monthly": {
+        "Jan": 0.86,
+        "Feb": 1.84,
+        "Mar": 3.29,
+        "Apr": 4.3,
+        "May": 4.8,
+        "Jun": 4.78,
+        "Jul": 4.47,
+        "Aug": 3.9,
+        "Sep": 3.1,
+        "Oct": 1.95,
+        "Nov": 0.89,
+        "Dec": 0.57
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Kungsbacka",
+      "admin1_code": "06",
+      "location": [
+        57.48719,
+        12.07612
+      ],
+      "monthly": {
+        "Jan": 0.95,
+        "Feb": 1.83,
+        "Mar": 3.24,
+        "Apr": 4.28,
+        "May": 4.71,
+        "Jun": 4.65,
+        "Jul": 4.45,
+        "Aug": 3.9,
+        "Sep": 3.08,
+        "Oct": 1.93,
+        "Nov": 1.02,
+        "Dec": 0.65
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Kungälv",
+      "admin1_code": "28",
+      "location": [
+        57.87096,
+        11.98054
+      ],
+      "monthly": {
+        "Jan": 0.93,
+        "Feb": 1.78,
+        "Mar": 3.19,
+        "Apr": 4.18,
+        "May": 4.59,
+        "Jun": 4.57,
+        "Jul": 4.35,
+        "Aug": 3.77,
+        "Sep": 3.02,
+        "Oct": 1.91,
+        "Nov": 0.97,
+        "Dec": 0.63
+      },
+      "average": 2.82
+    },
+    {
+      "name": "Kumla",
+      "admin1_code": "15",
+      "location": [
+        59.1277,
+        15.14341
+      ],
+      "monthly": {
+        "Jan": 0.8,
+        "Feb": 1.81,
+        "Mar": 3.35,
+        "Apr": 4.26,
+        "May": 4.66,
+        "Jun": 4.76,
+        "Jul": 4.41,
+        "Aug": 3.88,
+        "Sep": 3.11,
+        "Oct": 2.02,
+        "Nov": 0.88,
+        "Dec": 0.56
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Kristinehamn",
+      "admin1_code": "22",
+      "location": [
+        59.30978,
+        14.10808
+      ],
+      "monthly": {
+        "Jan": 0.86,
+        "Feb": 1.86,
+        "Mar": 3.37,
+        "Apr": 4.27,
+        "May": 4.8,
+        "Jun": 4.84,
+        "Jul": 4.58,
+        "Aug": 3.96,
+        "Sep": 3.05,
+        "Oct": 1.95,
+        "Nov": 0.88,
+        "Dec": 0.6
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Kristianstad",
+      "admin1_code": "27",
+      "location": [
+        56.03129,
+        14.15242
+      ],
+      "monthly": {
+        "Jan": 0.94,
+        "Feb": 1.76,
+        "Mar": 3.2,
+        "Apr": 4.26,
+        "May": 4.69,
+        "Jun": 4.69,
+        "Jul": 4.42,
+        "Aug": 3.98,
+        "Sep": 3.19,
+        "Oct": 2.05,
+        "Nov": 1.01,
+        "Dec": 0.66
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Köping",
+      "admin1_code": "25",
+      "location": [
+        59.51404,
+        15.99255
+      ],
+      "monthly": {
+        "Jan": 0.85,
+        "Feb": 1.86,
+        "Mar": 3.32,
+        "Apr": 4.24,
+        "May": 4.62,
+        "Jun": 4.68,
+        "Jul": 4.4,
+        "Aug": 3.87,
+        "Sep": 3.08,
+        "Oct": 2.01,
+        "Nov": 0.88,
+        "Dec": 0.56
+      },
+      "average": 2.86
+    },
+    {
+      "name": "Kinna",
+      "admin1_code": "28",
+      "location": [
+        57.50728,
+        12.69463
+      ],
+      "monthly": {
+        "Jan": 0.89,
+        "Feb": 1.72,
+        "Mar": 3.07,
+        "Apr": 4.01,
+        "May": 4.38,
+        "Jun": 4.34,
+        "Jul": 4.15,
+        "Aug": 3.67,
+        "Sep": 2.93,
+        "Oct": 1.83,
+        "Nov": 0.94,
+        "Dec": 0.58
+      },
+      "average": 2.71
+    },
+    {
+      "name": "Katrineholm",
+      "admin1_code": "18",
+      "location": [
+        58.99587,
+        16.20721
+      ],
+      "monthly": {
+        "Jan": 0.88,
+        "Feb": 1.87,
+        "Mar": 3.34,
+        "Apr": 4.19,
+        "May": 4.61,
+        "Jun": 4.64,
+        "Jul": 4.35,
+        "Aug": 3.86,
+        "Sep": 3.05,
+        "Oct": 1.98,
+        "Nov": 0.89,
+        "Dec": 0.59
+      },
+      "average": 2.85
+    },
+    {
+      "name": "Karlstad",
+      "admin1_code": "22",
+      "location": [
+        59.3793,
+        13.50357
+      ],
+      "monthly": {
+        "Jan": 0.9,
+        "Feb": 1.91,
+        "Mar": 3.49,
+        "Apr": 4.3,
+        "May": 4.79,
+        "Jun": 4.87,
+        "Jul": 4.59,
+        "Aug": 3.99,
+        "Sep": 3.1,
+        "Oct": 1.97,
+        "Nov": 0.91,
+        "Dec": 0.62
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Karlskrona",
+      "admin1_code": "02",
+      "location": [
+        56.16156,
+        15.58661
+      ],
+      "monthly": {
+        "Jan": 0.98,
+        "Feb": 1.81,
+        "Mar": 3.27,
+        "Apr": 4.47,
+        "May": 5,
+        "Jun": 5.05,
+        "Jul": 4.73,
+        "Aug": 4.26,
+        "Sep": 3.31,
+        "Oct": 2.07,
+        "Nov": 1.01,
+        "Dec": 0.68
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Karlskoga",
+      "admin1_code": "15",
+      "location": [
+        59.32667,
+        14.52386
+      ],
+      "monthly": {
+        "Jan": 0.82,
+        "Feb": 1.8,
+        "Mar": 3.32,
+        "Apr": 4.19,
+        "May": 4.57,
+        "Jun": 4.69,
+        "Jul": 4.37,
+        "Aug": 3.77,
+        "Sep": 2.99,
+        "Oct": 1.91,
+        "Nov": 0.85,
+        "Dec": 0.59
+      },
+      "average": 2.82
+    },
+    {
+      "name": "Karlshamn",
+      "admin1_code": "02",
+      "location": [
+        56.1706,
+        14.86188
+      ],
+      "monthly": {
+        "Jan": 0.97,
+        "Feb": 1.76,
+        "Mar": 3.22,
+        "Apr": 4.31,
+        "May": 4.82,
+        "Jun": 4.82,
+        "Jul": 4.53,
+        "Aug": 4.1,
+        "Sep": 3.25,
+        "Oct": 2.04,
+        "Nov": 1,
+        "Dec": 0.69
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Kalmar",
+      "admin1_code": "09",
+      "location": [
+        56.66157,
+        16.36163
+      ],
+      "monthly": {
+        "Jan": 1,
+        "Feb": 1.79,
+        "Mar": 3.34,
+        "Apr": 4.44,
+        "May": 4.89,
+        "Jun": 4.93,
+        "Jul": 4.56,
+        "Aug": 4.1,
+        "Sep": 3.29,
+        "Oct": 2.05,
+        "Nov": 0.98,
+        "Dec": 0.73
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Jönköping",
+      "admin1_code": "08",
+      "location": [
+        57.78145,
+        14.15618
+      ],
+      "monthly": {
+        "Jan": 0.88,
+        "Feb": 1.72,
+        "Mar": 3.23,
+        "Apr": 4.18,
+        "May": 4.48,
+        "Jun": 4.47,
+        "Jul": 4.2,
+        "Aug": 3.73,
+        "Sep": 2.96,
+        "Oct": 1.87,
+        "Nov": 0.85,
+        "Dec": 0.58
+      },
+      "average": 2.76
+    },
+    {
+      "name": "Jakobsberg",
+      "admin1_code": "26",
+      "location": [
+        59.42268,
+        17.83508
+      ],
+      "monthly": {
+        "Jan": 0.85,
+        "Feb": 1.84,
+        "Mar": 3.27,
+        "Apr": 4.32,
+        "May": 4.82,
+        "Jun": 4.83,
+        "Jul": 4.5,
+        "Aug": 3.94,
+        "Sep": 3.12,
+        "Oct": 1.95,
+        "Nov": 0.87,
+        "Dec": 0.55
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Huskvarna",
+      "admin1_code": "08",
+      "location": [
+        57.78596,
+        14.30214
+      ],
+      "monthly": {
+        "Jan": 0.91,
+        "Feb": 1.78,
+        "Mar": 3.29,
+        "Apr": 4.22,
+        "May": 4.52,
+        "Jun": 4.53,
+        "Jul": 4.23,
+        "Aug": 3.78,
+        "Sep": 3.01,
+        "Oct": 1.88,
+        "Nov": 0.87,
+        "Dec": 0.56
+      },
+      "average": 2.8
+    },
+    {
+      "name": "Hudiksvall",
+      "admin1_code": "03",
+      "location": [
+        61.72744,
+        17.10558
+      ],
+      "monthly": {
+        "Jan": 0.72,
+        "Feb": 1.79,
+        "Mar": 3.46,
+        "Apr": 4.49,
+        "May": 4.66,
+        "Jun": 4.82,
+        "Jul": 4.45,
+        "Aug": 3.64,
+        "Sep": 2.83,
+        "Oct": 1.9,
+        "Nov": 0.8,
+        "Dec": 0.48
+      },
+      "average": 2.84
+    },
+    {
+      "name": "Huddinge",
+      "admin1_code": "26",
+      "location": [
+        59.23705,
+        17.98192
+      ],
+      "monthly": {
+        "Jan": 0.87,
+        "Feb": 1.85,
+        "Mar": 3.31,
+        "Apr": 4.32,
+        "May": 4.82,
+        "Jun": 4.81,
+        "Jul": 4.49,
+        "Aug": 3.91,
+        "Sep": 3.12,
+        "Oct": 1.96,
+        "Nov": 0.88,
+        "Dec": 0.58
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Helsingborg",
+      "admin1_code": "27",
+      "location": [
+        56.04673,
+        12.69437
+      ],
+      "monthly": {
+        "Jan": 1,
+        "Feb": 1.79,
+        "Mar": 3.16,
+        "Apr": 4.32,
+        "May": 4.68,
+        "Jun": 4.59,
+        "Jul": 4.38,
+        "Aug": 3.97,
+        "Sep": 3.16,
+        "Oct": 2.03,
+        "Nov": 1.07,
+        "Dec": 0.71
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Hässleholm",
+      "admin1_code": "27",
+      "location": [
+        56.15905,
+        13.76638
+      ],
+      "monthly": {
+        "Jan": 0.9,
+        "Feb": 1.7,
+        "Mar": 3.05,
+        "Apr": 4.11,
+        "May": 4.51,
+        "Jun": 4.47,
+        "Jul": 4.25,
+        "Aug": 3.86,
+        "Sep": 3.07,
+        "Oct": 1.92,
+        "Nov": 0.94,
+        "Dec": 0.62
+      },
+      "average": 2.78
+    },
+    {
+      "name": "Hässelby Villastad",
+      "admin1_code": "26",
+      "location": [
+        59.38,
+        17.80867
+      ],
+      "monthly": {
+        "Jan": 0.86,
+        "Feb": 1.83,
+        "Mar": 3.3,
+        "Apr": 4.33,
+        "May": 4.83,
+        "Jun": 4.84,
+        "Jul": 4.51,
+        "Aug": 3.96,
+        "Sep": 3.13,
+        "Oct": 1.96,
+        "Nov": 0.87,
+        "Dec": 0.56
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Härnösand",
+      "admin1_code": "24",
+      "location": [
+        62.63228,
+        17.93794
+      ],
+      "monthly": {
+        "Jan": 0.67,
+        "Feb": 1.68,
+        "Mar": 3.41,
+        "Apr": 4.51,
+        "May": 4.77,
+        "Jun": 4.91,
+        "Jul": 4.55,
+        "Aug": 3.72,
+        "Sep": 2.8,
+        "Oct": 1.78,
+        "Nov": 0.7,
+        "Dec": 0.29
+      },
+      "average": 2.82
+    },
+    {
+      "name": "Haninge",
+      "admin1_code": "26",
+      "location": [
+        59.16775,
+        18.14478
+      ],
+      "monthly": {
+        "Jan": 0.88,
+        "Feb": 1.86,
+        "Mar": 3.31,
+        "Apr": 4.33,
+        "May": 4.85,
+        "Jun": 4.85,
+        "Jul": 4.55,
+        "Aug": 3.93,
+        "Sep": 3.12,
+        "Oct": 1.95,
+        "Nov": 0.88,
+        "Dec": 0.58
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Halmstad",
+      "admin1_code": "06",
+      "location": [
+        56.67446,
+        12.85676
+      ],
+      "monthly": {
+        "Jan": 0.94,
+        "Feb": 1.8,
+        "Mar": 3.19,
+        "Apr": 4.3,
+        "May": 4.74,
+        "Jun": 4.64,
+        "Jul": 4.42,
+        "Aug": 3.98,
+        "Sep": 3.13,
+        "Oct": 1.98,
+        "Nov": 1.03,
+        "Dec": 0.66
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Gustavsberg",
+      "admin1_code": "26",
+      "location": [
+        59.32684,
+        18.38975
+      ],
+      "monthly": {
+        "Jan": 0.86,
+        "Feb": 1.78,
+        "Mar": 3.24,
+        "Apr": 4.28,
+        "May": 4.84,
+        "Jun": 4.84,
+        "Jul": 4.58,
+        "Aug": 3.94,
+        "Sep": 3.1,
+        "Oct": 1.91,
+        "Nov": 0.86,
+        "Dec": 0.56
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Gothenburg",
+      "admin1_code": "28",
+      "location": [
+        57.70716,
+        11.96679
+      ],
+      "monthly": {
+        "Jan": 0.97,
+        "Feb": 1.86,
+        "Mar": 3.25,
+        "Apr": 4.23,
+        "May": 4.67,
+        "Jun": 4.63,
+        "Jul": 4.43,
+        "Aug": 3.83,
+        "Sep": 3.07,
+        "Oct": 1.95,
+        "Nov": 1.03,
+        "Dec": 0.67
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Gävle",
+      "admin1_code": "03",
+      "location": [
+        60.67452,
+        17.14174
+      ],
+      "monthly": {
+        "Jan": 0.87,
+        "Feb": 1.81,
+        "Mar": 3.36,
+        "Apr": 4.39,
+        "May": 4.59,
+        "Jun": 4.68,
+        "Jul": 4.36,
+        "Aug": 3.65,
+        "Sep": 2.91,
+        "Oct": 1.94,
+        "Nov": 0.81,
+        "Dec": 0.59
+      },
+      "average": 2.83
+    },
+    {
+      "name": "Gamla Uppsala",
+      "admin1_code": "21",
+      "location": [
+        59.89817,
+        17.63386
+      ],
+      "monthly": {
+        "Jan": 0.84,
+        "Feb": 1.8,
+        "Mar": 3.31,
+        "Apr": 4.36,
+        "May": 4.71,
+        "Jun": 4.75,
+        "Jul": 4.38,
+        "Aug": 3.79,
+        "Sep": 3.06,
+        "Oct": 1.99,
+        "Nov": 0.84,
+        "Dec": 0.59
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Falun",
+      "admin1_code": "10",
+      "location": [
+        60.60357,
+        15.62597
+      ],
+      "monthly": {
+        "Jan": 0.81,
+        "Feb": 1.81,
+        "Mar": 3.42,
+        "Apr": 4.33,
+        "May": 4.3,
+        "Jun": 4.55,
+        "Jul": 4.13,
+        "Aug": 3.53,
+        "Sep": 2.77,
+        "Oct": 1.88,
+        "Nov": 0.82,
+        "Dec": 0.6
+      },
+      "average": 2.75
+    },
+    {
+      "name": "Falköping",
+      "admin1_code": "28",
+      "location": [
+        58.17347,
+        13.55068
+      ],
+      "monthly": {
+        "Jan": 0.86,
+        "Feb": 1.78,
+        "Mar": 3.31,
+        "Apr": 4.29,
+        "May": 4.52,
+        "Jun": 4.56,
+        "Jul": 4.31,
+        "Aug": 3.81,
+        "Sep": 3.09,
+        "Oct": 1.98,
+        "Nov": 0.91,
+        "Dec": 0.59
+      },
+      "average": 2.83
+    },
+    {
+      "name": "Falkenberg",
+      "admin1_code": "06",
+      "location": [
+        56.90552,
+        12.49118
+      ],
+      "monthly": {
+        "Jan": 0.98,
+        "Feb": 1.88,
+        "Mar": 3.27,
+        "Apr": 4.37,
+        "May": 4.85,
+        "Jun": 4.75,
+        "Jul": 4.52,
+        "Aug": 4.06,
+        "Sep": 3.2,
+        "Oct": 2.03,
+        "Nov": 1.05,
+        "Dec": 0.69
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Eslöv",
+      "admin1_code": "27",
+      "location": [
+        55.83928,
+        13.30393
+      ],
+      "monthly": {
+        "Jan": 0.96,
+        "Feb": 1.75,
+        "Mar": 3.17,
+        "Apr": 4.28,
+        "May": 4.66,
+        "Jun": 4.59,
+        "Jul": 4.32,
+        "Aug": 3.96,
+        "Sep": 3.21,
+        "Oct": 2.06,
+        "Nov": 1.04,
+        "Dec": 0.67
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Eskilstuna",
+      "admin1_code": "18",
+      "location": [
+        59.36661,
+        16.5077
+      ],
+      "monthly": {
+        "Jan": 0.86,
+        "Feb": 1.85,
+        "Mar": 3.34,
+        "Apr": 4.25,
+        "May": 4.68,
+        "Jun": 4.7,
+        "Jul": 4.44,
+        "Aug": 3.88,
+        "Sep": 3.08,
+        "Oct": 2.01,
+        "Nov": 0.88,
+        "Dec": 0.58
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Enköping",
+      "admin1_code": "21",
+      "location": [
+        59.63607,
+        17.07768
+      ],
+      "monthly": {
+        "Jan": 0.86,
+        "Feb": 1.87,
+        "Mar": 3.33,
+        "Apr": 4.31,
+        "May": 4.76,
+        "Jun": 4.79,
+        "Jul": 4.49,
+        "Aug": 3.93,
+        "Sep": 3.13,
+        "Oct": 2.03,
+        "Nov": 0.86,
+        "Dec": 0.57
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Danderyd",
+      "admin1_code": "26",
+      "location": [
+        59.40398,
+        18.02376
+      ],
+      "monthly": {
+        "Jan": 0.85,
+        "Feb": 1.84,
+        "Mar": 3.28,
+        "Apr": 4.3,
+        "May": 4.78,
+        "Jun": 4.77,
+        "Jul": 4.45,
+        "Aug": 3.89,
+        "Sep": 3.1,
+        "Oct": 1.96,
+        "Nov": 0.88,
+        "Dec": 0.56
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Bromma",
+      "admin1_code": "26",
+      "location": [
+        59.34,
+        17.94
+      ],
+      "monthly": {
+        "Jan": 0.85,
+        "Feb": 1.84,
+        "Mar": 3.29,
+        "Apr": 4.31,
+        "May": 4.81,
+        "Jun": 4.8,
+        "Jul": 4.47,
+        "Aug": 3.91,
+        "Sep": 3.11,
+        "Oct": 1.94,
+        "Nov": 0.88,
+        "Dec": 0.56
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Borlänge",
+      "admin1_code": "10",
+      "location": [
+        60.4858,
+        15.43714
+      ],
+      "monthly": {
+        "Jan": 0.84,
+        "Feb": 1.84,
+        "Mar": 3.43,
+        "Apr": 4.35,
+        "May": 4.3,
+        "Jun": 4.55,
+        "Jul": 4.14,
+        "Aug": 3.53,
+        "Sep": 2.8,
+        "Oct": 1.92,
+        "Nov": 0.84,
+        "Dec": 0.62
+      },
+      "average": 2.76
+    },
+    {
+      "name": "Borås",
+      "admin1_code": "28",
+      "location": [
+        57.72101,
+        12.9401
+      ],
+      "monthly": {
+        "Jan": 0.89,
+        "Feb": 1.75,
+        "Mar": 3.13,
+        "Apr": 4.02,
+        "May": 4.36,
+        "Jun": 4.31,
+        "Jul": 4.1,
+        "Aug": 3.61,
+        "Sep": 2.91,
+        "Oct": 1.81,
+        "Nov": 0.88,
+        "Dec": 0.57
+      },
+      "average": 2.69
+    },
+    {
+      "name": "Boo",
+      "admin1_code": "26",
+      "location": [
+        59.33333,
+        18.28333
+      ],
+      "monthly": {
+        "Jan": 0.85,
+        "Feb": 1.8,
+        "Mar": 3.24,
+        "Apr": 4.26,
+        "May": 4.79,
+        "Jun": 4.79,
+        "Jul": 4.51,
+        "Aug": 3.9,
+        "Sep": 3.08,
+        "Oct": 1.92,
+        "Nov": 0.86,
+        "Dec": 0.56
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Björlanda",
+      "admin1_code": "28",
+      "location": [
+        57.76667,
+        11.83333
+      ],
+      "monthly": {
+        "Jan": 0.96,
+        "Feb": 1.84,
+        "Mar": 3.28,
+        "Apr": 4.32,
+        "May": 4.8,
+        "Jun": 4.77,
+        "Jul": 4.58,
+        "Aug": 3.99,
+        "Sep": 3.14,
+        "Oct": 1.99,
+        "Nov": 1.01,
+        "Dec": 0.66
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Årsta",
+      "admin1_code": "26",
+      "location": [
+        59.2978,
+        18.0514
+      ],
+      "monthly": {
+        "Jan": 0.87,
+        "Feb": 1.86,
+        "Mar": 3.31,
+        "Apr": 4.33,
+        "May": 4.83,
+        "Jun": 4.81,
+        "Jul": 4.5,
+        "Aug": 3.92,
+        "Sep": 3.12,
+        "Oct": 1.97,
+        "Nov": 0.9,
+        "Dec": 0.58
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Ängelholm",
+      "admin1_code": "27",
+      "location": [
+        56.2428,
+        12.86219
+      ],
+      "monthly": {
+        "Jan": 0.98,
+        "Feb": 1.77,
+        "Mar": 3.19,
+        "Apr": 4.33,
+        "May": 4.71,
+        "Jun": 4.59,
+        "Jul": 4.39,
+        "Aug": 3.96,
+        "Sep": 3.16,
+        "Oct": 2.04,
+        "Nov": 1.07,
+        "Dec": 0.68
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Alingsås",
+      "admin1_code": "28",
+      "location": [
+        57.93033,
+        12.53345
+      ],
+      "monthly": {
+        "Jan": 0.89,
+        "Feb": 1.73,
+        "Mar": 3.14,
+        "Apr": 4.11,
+        "May": 4.48,
+        "Jun": 4.44,
+        "Jul": 4.25,
+        "Aug": 3.73,
+        "Sep": 3,
+        "Oct": 1.88,
+        "Nov": 0.9,
+        "Dec": 0.59
+      },
+      "average": 2.76
+    },
+    {
+      "name": "Åkersberga",
+      "admin1_code": "26",
+      "location": [
+        59.47944,
+        18.29967
+      ],
+      "monthly": {
+        "Jan": 0.84,
+        "Feb": 1.82,
+        "Mar": 3.26,
+        "Apr": 4.26,
+        "May": 4.78,
+        "Jun": 4.79,
+        "Jul": 4.51,
+        "Aug": 3.91,
+        "Sep": 3.08,
+        "Oct": 1.92,
+        "Nov": 0.86,
+        "Dec": 0.56
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Majorna",
+      "admin1_code": "28",
+      "location": [
+        57.69195,
+        11.91605
+      ],
+      "monthly": {
+        "Jan": 0.99,
+        "Feb": 1.87,
+        "Mar": 3.28,
+        "Apr": 4.28,
+        "May": 4.73,
+        "Jun": 4.68,
+        "Jul": 4.48,
+        "Aug": 3.91,
+        "Sep": 3.11,
+        "Oct": 1.97,
+        "Nov": 1.05,
+        "Dec": 0.68
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Tensta",
+      "admin1_code": "26",
+      "location": [
+        59.3939,
+        17.90111
+      ],
+      "monthly": {
+        "Jan": 0.86,
+        "Feb": 1.85,
+        "Mar": 3.3,
+        "Apr": 4.34,
+        "May": 4.83,
+        "Jun": 4.83,
+        "Jul": 4.5,
+        "Aug": 3.94,
+        "Sep": 3.13,
+        "Oct": 1.96,
+        "Nov": 0.89,
+        "Dec": 0.56
+      },
+      "average": 2.92
+    }
+  ]
+}

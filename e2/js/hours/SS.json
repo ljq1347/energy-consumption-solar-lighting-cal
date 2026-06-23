@@ -1,0 +1,374 @@
+{
+  "country": "South Sudan",
+  "countryCode": "SS",
+  "cities": [
+    {
+      "name": "Yei",
+      "admin1_code": "01",
+      "location": [
+        4.09444,
+        30.67639
+      ],
+      "monthly": {
+        "Jan": 5.08,
+        "Feb": 5.06,
+        "Mar": 4.65,
+        "Apr": 4.32,
+        "May": 4.23,
+        "Jun": 3.87,
+        "Jul": 3.66,
+        "Aug": 4,
+        "Sep": 4.56,
+        "Oct": 4.48,
+        "Nov": 4.59,
+        "Dec": 4.9
+      },
+      "average": 4.45
+    },
+    {
+      "name": "Yambio",
+      "admin1_code": "10",
+      "location": [
+        4.57083,
+        28.39417
+      ],
+      "monthly": {
+        "Jan": 5.01,
+        "Feb": 4.95,
+        "Mar": 4.58,
+        "Apr": 4.35,
+        "May": 4.26,
+        "Jun": 3.93,
+        "Jul": 3.78,
+        "Aug": 4.07,
+        "Sep": 4.57,
+        "Oct": 4.53,
+        "Nov": 4.64,
+        "Dec": 4.81
+      },
+      "average": 4.46
+    },
+    {
+      "name": "Winejok",
+      "admin1_code": "05",
+      "location": [
+        9.01222,
+        27.57081
+      ],
+      "monthly": {
+        "Jan": 5.42,
+        "Feb": 5.35,
+        "Mar": 5.07,
+        "Apr": 4.69,
+        "May": 4.29,
+        "Jun": 3.97,
+        "Jul": 3.84,
+        "Aug": 4.02,
+        "Sep": 4.49,
+        "Oct": 4.8,
+        "Nov": 5.24,
+        "Dec": 5.33
+      },
+      "average": 4.71
+    },
+    {
+      "name": "Wau",
+      "admin1_code": "09",
+      "location": [
+        7.70111,
+        27.98972
+      ],
+      "monthly": {
+        "Jan": 5.31,
+        "Feb": 5.21,
+        "Mar": 4.91,
+        "Apr": 4.51,
+        "May": 4.22,
+        "Jun": 3.96,
+        "Jul": 3.83,
+        "Aug": 4.1,
+        "Sep": 4.53,
+        "Oct": 4.62,
+        "Nov": 4.99,
+        "Dec": 5.2
+      },
+      "average": 4.62
+    },
+    {
+      "name": "Aweil",
+      "admin1_code": "05",
+      "location": [
+        8.76194,
+        27.39194
+      ],
+      "monthly": {
+        "Jan": 5.43,
+        "Feb": 5.34,
+        "Mar": 5.01,
+        "Apr": 4.62,
+        "May": 4.25,
+        "Jun": 3.95,
+        "Jul": 3.81,
+        "Aug": 3.97,
+        "Sep": 4.48,
+        "Oct": 4.8,
+        "Nov": 5.23,
+        "Dec": 5.34
+      },
+      "average": 4.69
+    },
+    {
+      "name": "Torit",
+      "admin1_code": "02",
+      "location": [
+        4.41177,
+        32.57046
+      ],
+      "monthly": {
+        "Jan": 5.05,
+        "Feb": 4.97,
+        "Mar": 4.48,
+        "Apr": 4.17,
+        "May": 4.29,
+        "Jun": 4.02,
+        "Jul": 3.83,
+        "Aug": 4.24,
+        "Sep": 4.7,
+        "Oct": 4.63,
+        "Nov": 4.66,
+        "Dec": 4.83
+      },
+      "average": 4.49
+    },
+    {
+      "name": "Tonj",
+      "admin1_code": "08",
+      "location": [
+        7.27389,
+        28.6775
+      ],
+      "monthly": {
+        "Jan": 5.23,
+        "Feb": 5.13,
+        "Mar": 4.81,
+        "Apr": 4.38,
+        "May": 4.14,
+        "Jun": 3.92,
+        "Jul": 3.82,
+        "Aug": 4.06,
+        "Sep": 4.55,
+        "Oct": 4.64,
+        "Nov": 4.88,
+        "Dec": 5.11
+      },
+      "average": 4.56
+    },
+    {
+      "name": "Rumbek",
+      "admin1_code": "04",
+      "location": [
+        6.80619,
+        29.67742
+      ],
+      "monthly": {
+        "Jan": 5.12,
+        "Feb": 5.03,
+        "Mar": 4.67,
+        "Apr": 4.29,
+        "May": 4.12,
+        "Jun": 3.88,
+        "Jul": 3.82,
+        "Aug": 4.07,
+        "Sep": 4.5,
+        "Oct": 4.59,
+        "Nov": 4.67,
+        "Dec": 5.02
+      },
+      "average": 4.48
+    },
+    {
+      "name": "Malakal",
+      "admin1_code": "07",
+      "location": [
+        9.53342,
+        31.66049
+      ],
+      "monthly": {
+        "Jan": 5.26,
+        "Feb": 5.24,
+        "Mar": 5.04,
+        "Apr": 4.68,
+        "May": 3.94,
+        "Jun": 3.44,
+        "Jul": 3.48,
+        "Aug": 3.69,
+        "Sep": 4.14,
+        "Oct": 4.53,
+        "Nov": 5.15,
+        "Dec": 5.21
+      },
+      "average": 4.48
+    },
+    {
+      "name": "Leer",
+      "admin1_code": "06",
+      "location": [
+        8.30306,
+        30.14056
+      ],
+      "monthly": {
+        "Jan": 5.21,
+        "Feb": 5.12,
+        "Mar": 4.93,
+        "Apr": 4.55,
+        "May": 4.06,
+        "Jun": 3.68,
+        "Jul": 3.63,
+        "Aug": 3.89,
+        "Sep": 4.25,
+        "Oct": 4.47,
+        "Nov": 4.94,
+        "Dec": 5.16
+      },
+      "average": 4.49
+    },
+    {
+      "name": "Kuacjok",
+      "admin1_code": "08",
+      "location": [
+        8.30278,
+        27.98
+      ],
+      "monthly": {
+        "Jan": 5.35,
+        "Feb": 5.25,
+        "Mar": 4.97,
+        "Apr": 4.58,
+        "May": 4.24,
+        "Jun": 3.93,
+        "Jul": 3.8,
+        "Aug": 4.02,
+        "Sep": 4.5,
+        "Oct": 4.7,
+        "Nov": 5.12,
+        "Dec": 5.27
+      },
+      "average": 4.64
+    },
+    {
+      "name": "Kafia Kingi",
+      "admin1_code": "09",
+      "location": [
+        9.27345,
+        24.41701
+      ],
+      "monthly": {
+        "Jan": 5.64,
+        "Feb": 5.56,
+        "Mar": 5.21,
+        "Apr": 4.8,
+        "May": 4.21,
+        "Jun": 3.95,
+        "Jul": 3.83,
+        "Aug": 3.94,
+        "Sep": 4.45,
+        "Oct": 4.86,
+        "Nov": 5.4,
+        "Dec": 5.53
+      },
+      "average": 4.78
+    },
+    {
+      "name": "Juba",
+      "admin1_code": "01",
+      "location": [
+        4.85165,
+        31.58247
+      ],
+      "monthly": {
+        "Jan": 5.09,
+        "Feb": 5.02,
+        "Mar": 4.56,
+        "Apr": 4.23,
+        "May": 4.26,
+        "Jun": 3.98,
+        "Jul": 3.79,
+        "Aug": 4.18,
+        "Sep": 4.69,
+        "Oct": 4.69,
+        "Nov": 4.69,
+        "Dec": 4.92
+      },
+      "average": 4.51
+    },
+    {
+      "name": "Gogrial",
+      "admin1_code": "08",
+      "location": [
+        8.53324,
+        28.10037
+      ],
+      "monthly": {
+        "Jan": 5.34,
+        "Feb": 5.26,
+        "Mar": 4.99,
+        "Apr": 4.59,
+        "May": 4.23,
+        "Jun": 3.93,
+        "Jul": 3.81,
+        "Aug": 4,
+        "Sep": 4.49,
+        "Oct": 4.72,
+        "Nov": 5.15,
+        "Dec": 5.26
+      },
+      "average": 4.65
+    },
+    {
+      "name": "Pajok",
+      "admin1_code": "02",
+      "location": [
+        3.86512,
+        32.48212
+      ],
+      "monthly": {
+        "Jan": 4.94,
+        "Feb": 4.84,
+        "Mar": 4.39,
+        "Apr": 4.09,
+        "May": 4.14,
+        "Jun": 3.89,
+        "Jul": 3.7,
+        "Aug": 4.04,
+        "Sep": 4.55,
+        "Oct": 4.45,
+        "Nov": 4.52,
+        "Dec": 4.82
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Bor",
+      "admin1_code": "03",
+      "location": [
+        6.20889,
+        31.55861
+      ],
+      "monthly": {
+        "Jan": 4.93,
+        "Feb": 4.91,
+        "Mar": 4.41,
+        "Apr": 4.11,
+        "May": 4.04,
+        "Jun": 3.81,
+        "Jul": 3.67,
+        "Aug": 3.98,
+        "Sep": 4.33,
+        "Oct": 4.4,
+        "Nov": 4.41,
+        "Dec": 4.78
+      },
+      "average": 4.31
+    }
+  ]
+}

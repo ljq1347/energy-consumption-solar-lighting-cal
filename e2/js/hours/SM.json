@@ -1,0 +1,29 @@
+{
+  "country": "San Marino",
+  "countryCode": "SM",
+  "cities": [
+    {
+      "name": "San Marino",
+      "admin1_code": "07",
+      "location": [
+        43.93667,
+        12.44639
+      ],
+      "monthly": {
+        "Jan": 2.19,
+        "Feb": 3.08,
+        "Mar": 4.07,
+        "Apr": 4.34,
+        "May": 4.71,
+        "Jun": 5.06,
+        "Jul": 5.32,
+        "Aug": 4.98,
+        "Sep": 4.17,
+        "Oct": 3.08,
+        "Nov": 2.13,
+        "Dec": 1.95
+      },
+      "average": 3.76
+    }
+  ]
+}

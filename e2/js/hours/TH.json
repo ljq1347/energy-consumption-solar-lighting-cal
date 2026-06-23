@@ -1,0 +1,7527 @@
+{
+  "country": "Thailand",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "name": "Ban Talat Yai",
+      "admin1_code": "62",
+      "location": [
+        7.88481,
+        98.40008
+      ],
+      "monthly": {
+        "Jan": 4.7,
+        "Feb": 5.2,
+        "Mar": 5.03,
+        "Apr": 4.49,
+        "May": 3.66,
+        "Jun": 3.53,
+        "Jul": 3.52,
+        "Aug": 3.73,
+        "Sep": 3.72,
+        "Oct": 3.8,
+        "Nov": 3.9,
+        "Dec": 4.14
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Ban Talat Nua",
+      "admin1_code": "62",
+      "location": [
+        7.88489,
+        98.38557
+      ],
+      "monthly": {
+        "Jan": 4.7,
+        "Feb": 5.19,
+        "Mar": 5.02,
+        "Apr": 4.49,
+        "May": 3.68,
+        "Jun": 3.54,
+        "Jul": 3.53,
+        "Aug": 3.73,
+        "Sep": 3.74,
+        "Oct": 3.79,
+        "Nov": 3.9,
+        "Dec": 4.14
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Sam Roi Yot",
+      "admin1_code": "57",
+      "location": [
+        12.27081,
+        99.87203
+      ],
+      "monthly": {
+        "Jan": 4.61,
+        "Feb": 4.85,
+        "Mar": 4.91,
+        "Apr": 4.71,
+        "May": 4,
+        "Jun": 3.51,
+        "Jul": 3.28,
+        "Aug": 3.53,
+        "Sep": 3.61,
+        "Oct": 3.67,
+        "Nov": 4.01,
+        "Dec": 4.53
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Phetchaburi",
+      "admin1_code": "56",
+      "location": [
+        13.11189,
+        99.94467
+      ],
+      "monthly": {
+        "Jan": 4.66,
+        "Feb": 4.96,
+        "Mar": 4.95,
+        "Apr": 4.86,
+        "May": 4.22,
+        "Jun": 3.69,
+        "Jul": 3.48,
+        "Aug": 3.74,
+        "Sep": 3.89,
+        "Oct": 3.82,
+        "Nov": 4.22,
+        "Dec": 4.55
+      },
+      "average": 4.25
+    },
+    {
+      "name": "Trang",
+      "admin1_code": "65",
+      "location": [
+        7.55633,
+        99.61141
+      ],
+      "monthly": {
+        "Jan": 4.29,
+        "Feb": 4.98,
+        "Mar": 4.83,
+        "Apr": 4.33,
+        "May": 3.66,
+        "Jun": 3.52,
+        "Jul": 3.48,
+        "Aug": 3.68,
+        "Sep": 3.65,
+        "Oct": 3.61,
+        "Nov": 3.33,
+        "Dec": 3.56
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Thung Song",
+      "admin1_code": "64",
+      "location": [
+        8.16453,
+        99.68039
+      ],
+      "monthly": {
+        "Jan": 3.85,
+        "Feb": 4.65,
+        "Mar": 4.76,
+        "Apr": 4.4,
+        "May": 3.66,
+        "Jun": 3.49,
+        "Jul": 3.39,
+        "Aug": 3.66,
+        "Sep": 3.64,
+        "Oct": 3.51,
+        "Nov": 3.19,
+        "Dec": 3.38
+      },
+      "average": 3.8
+    },
+    {
+      "name": "Thoen",
+      "admin1_code": "06",
+      "location": [
+        17.61289,
+        99.21612
+      ],
+      "monthly": {
+        "Jan": 4.54,
+        "Feb": 4.87,
+        "Mar": 4.69,
+        "Apr": 4.59,
+        "May": 4.11,
+        "Jun": 3.57,
+        "Jul": 3.3,
+        "Aug": 3.39,
+        "Sep": 3.7,
+        "Oct": 3.75,
+        "Nov": 4.26,
+        "Dec": 4.39
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Thap Than",
+      "admin1_code": "15",
+      "location": [
+        15.46063,
+        99.89166
+      ],
+      "monthly": {
+        "Jan": 4.59,
+        "Feb": 4.76,
+        "Mar": 4.71,
+        "Apr": 4.75,
+        "May": 4.27,
+        "Jun": 3.93,
+        "Jul": 3.64,
+        "Aug": 3.76,
+        "Sep": 3.86,
+        "Oct": 3.94,
+        "Nov": 4.36,
+        "Dec": 4.58
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Tha Muang",
+      "admin1_code": "50",
+      "location": [
+        13.96118,
+        99.64122
+      ],
+      "monthly": {
+        "Jan": 4.54,
+        "Feb": 4.78,
+        "Mar": 4.83,
+        "Apr": 4.8,
+        "May": 4.22,
+        "Jun": 3.74,
+        "Jul": 3.48,
+        "Aug": 3.7,
+        "Sep": 3.89,
+        "Oct": 3.74,
+        "Nov": 4.1,
+        "Dec": 4.44
+      },
+      "average": 4.19
+    },
+    {
+      "name": "Tha Maka",
+      "admin1_code": "50",
+      "location": [
+        13.9,
+        99.76667
+      ],
+      "monthly": {
+        "Jan": 4.51,
+        "Feb": 4.76,
+        "Mar": 4.81,
+        "Apr": 4.78,
+        "May": 4.2,
+        "Jun": 3.75,
+        "Jul": 3.48,
+        "Aug": 3.72,
+        "Sep": 3.88,
+        "Oct": 3.69,
+        "Nov": 4.08,
+        "Dec": 4.42
+      },
+      "average": 4.17
+    },
+    {
+      "name": "Tak",
+      "admin1_code": "08",
+      "location": [
+        16.86968,
+        99.12898
+      ],
+      "monthly": {
+        "Jan": 4.58,
+        "Feb": 4.9,
+        "Mar": 4.75,
+        "Apr": 4.7,
+        "May": 4.07,
+        "Jun": 3.54,
+        "Jul": 3.25,
+        "Aug": 3.33,
+        "Sep": 3.72,
+        "Oct": 3.83,
+        "Nov": 4.27,
+        "Dec": 4.42
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Surat Thani",
+      "admin1_code": "60",
+      "location": [
+        9.14011,
+        99.33311
+      ],
+      "monthly": {
+        "Jan": 3.93,
+        "Feb": 4.8,
+        "Mar": 4.89,
+        "Apr": 4.52,
+        "May": 3.8,
+        "Jun": 3.66,
+        "Jul": 3.56,
+        "Aug": 3.81,
+        "Sep": 3.86,
+        "Oct": 3.67,
+        "Nov": 3.3,
+        "Dec": 3.27
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Sukhothai",
+      "admin1_code": "09",
+      "location": [
+        17.00778,
+        99.823
+      ],
+      "monthly": {
+        "Jan": 4.7,
+        "Feb": 4.91,
+        "Mar": 4.79,
+        "Apr": 4.79,
+        "May": 4.27,
+        "Jun": 3.72,
+        "Jul": 3.4,
+        "Aug": 3.53,
+        "Sep": 3.87,
+        "Oct": 4.16,
+        "Nov": 4.62,
+        "Dec": 4.63
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Si Satchanalai",
+      "admin1_code": "09",
+      "location": [
+        17.51692,
+        99.75978
+      ],
+      "monthly": {
+        "Jan": 4.61,
+        "Feb": 4.83,
+        "Mar": 4.72,
+        "Apr": 4.77,
+        "May": 4.27,
+        "Jun": 3.65,
+        "Jul": 3.34,
+        "Aug": 3.41,
+        "Sep": 3.77,
+        "Oct": 4.08,
+        "Nov": 4.52,
+        "Dec": 4.54
+      },
+      "average": 4.21
+    },
+    {
+      "name": "Sawankhalok",
+      "admin1_code": "09",
+      "location": [
+        17.31597,
+        99.83186
+      ],
+      "monthly": {
+        "Jan": 4.65,
+        "Feb": 4.86,
+        "Mar": 4.76,
+        "Apr": 4.8,
+        "May": 4.28,
+        "Jun": 3.76,
+        "Jul": 3.39,
+        "Aug": 3.47,
+        "Sep": 3.74,
+        "Oct": 4.08,
+        "Nov": 4.59,
+        "Dec": 4.59
+      },
+      "average": 4.25
+    },
+    {
+      "name": "San Pa Tong",
+      "admin1_code": "02",
+      "location": [
+        18.62828,
+        98.89572
+      ],
+      "monthly": {
+        "Jan": 4.75,
+        "Feb": 5.17,
+        "Mar": 4.86,
+        "Apr": 4.73,
+        "May": 4.29,
+        "Jun": 3.73,
+        "Jul": 3.39,
+        "Aug": 3.48,
+        "Sep": 3.89,
+        "Oct": 4.04,
+        "Nov": 4.52,
+        "Dec": 4.59
+      },
+      "average": 4.29
+    },
+    {
+      "name": "San Kamphaeng",
+      "admin1_code": "02",
+      "location": [
+        18.74486,
+        99.11953
+      ],
+      "monthly": {
+        "Jan": 4.69,
+        "Feb": 5.11,
+        "Mar": 4.82,
+        "Apr": 4.7,
+        "May": 4.26,
+        "Jun": 3.72,
+        "Jul": 3.37,
+        "Aug": 3.45,
+        "Sep": 3.73,
+        "Oct": 3.95,
+        "Nov": 4.47,
+        "Dec": 4.5
+      },
+      "average": 4.23
+    },
+    {
+      "name": "Ron Phibun",
+      "admin1_code": "64",
+      "location": [
+        8.17911,
+        99.85425
+      ],
+      "monthly": {
+        "Jan": 3.4,
+        "Feb": 4.2,
+        "Mar": 4.49,
+        "Apr": 4.33,
+        "May": 3.78,
+        "Jun": 3.63,
+        "Jul": 3.51,
+        "Aug": 3.77,
+        "Sep": 3.69,
+        "Oct": 3.46,
+        "Nov": 3.04,
+        "Dec": 3.05
+      },
+      "average": 3.7
+    },
+    {
+      "name": "Ratchaburi",
+      "admin1_code": "52",
+      "location": [
+        13.53671,
+        99.81712
+      ],
+      "monthly": {
+        "Jan": 4.53,
+        "Feb": 4.85,
+        "Mar": 4.86,
+        "Apr": 4.81,
+        "May": 4.19,
+        "Jun": 3.72,
+        "Jul": 3.49,
+        "Aug": 3.7,
+        "Sep": 3.83,
+        "Oct": 3.56,
+        "Nov": 3.97,
+        "Dec": 4.34
+      },
+      "average": 4.15
+    },
+    {
+      "name": "Ranong",
+      "admin1_code": "59",
+      "location": [
+        9.96583,
+        98.63476
+      ],
+      "monthly": {
+        "Jan": 4.15,
+        "Feb": 4.64,
+        "Mar": 4.69,
+        "Apr": 4.4,
+        "May": 3.48,
+        "Jun": 3.18,
+        "Jul": 3.02,
+        "Aug": 3.27,
+        "Sep": 3.36,
+        "Oct": 3.44,
+        "Nov": 3.43,
+        "Dec": 3.74
+      },
+      "average": 3.73
+    },
+    {
+      "name": "Pran Buri",
+      "admin1_code": "57",
+      "location": [
+        12.38487,
+        99.90157
+      ],
+      "monthly": {
+        "Jan": 4.64,
+        "Feb": 4.89,
+        "Mar": 4.95,
+        "Apr": 4.76,
+        "May": 4.07,
+        "Jun": 3.59,
+        "Jul": 3.38,
+        "Aug": 3.65,
+        "Sep": 3.73,
+        "Oct": 3.74,
+        "Nov": 4.09,
+        "Dec": 4.58
+      },
+      "average": 4.17
+    },
+    {
+      "name": "Prachuap Khiri Khan",
+      "admin1_code": "57",
+      "location": [
+        11.82098,
+        99.7841
+      ],
+      "monthly": {
+        "Jan": 4.59,
+        "Feb": 4.85,
+        "Mar": 4.96,
+        "Apr": 4.77,
+        "May": 4.08,
+        "Jun": 3.57,
+        "Jul": 3.32,
+        "Aug": 3.67,
+        "Sep": 3.69,
+        "Oct": 3.75,
+        "Nov": 3.98,
+        "Dec": 4.45
+      },
+      "average": 4.14
+    },
+    {
+      "name": "Tha Kham",
+      "admin1_code": "60",
+      "location": [
+        9.11072,
+        99.23208
+      ],
+      "monthly": {
+        "Jan": 3.92,
+        "Feb": 4.78,
+        "Mar": 4.87,
+        "Apr": 4.49,
+        "May": 3.77,
+        "Jun": 3.63,
+        "Jul": 3.51,
+        "Aug": 3.77,
+        "Sep": 3.82,
+        "Oct": 3.64,
+        "Nov": 3.29,
+        "Dec": 3.25
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Phuket",
+      "admin1_code": "62",
+      "location": [
+        7.89059,
+        98.3981
+      ],
+      "monthly": {
+        "Jan": 4.7,
+        "Feb": 5.2,
+        "Mar": 5.03,
+        "Apr": 4.49,
+        "May": 3.67,
+        "Jun": 3.54,
+        "Jul": 3.52,
+        "Aug": 3.73,
+        "Sep": 3.73,
+        "Oct": 3.8,
+        "Nov": 3.9,
+        "Dec": 4.14
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Photharam",
+      "admin1_code": "52",
+      "location": [
+        13.69234,
+        99.84969
+      ],
+      "monthly": {
+        "Jan": 4.51,
+        "Feb": 4.8,
+        "Mar": 4.82,
+        "Apr": 4.78,
+        "May": 4.16,
+        "Jun": 3.72,
+        "Jul": 3.48,
+        "Aug": 3.71,
+        "Sep": 3.8,
+        "Oct": 3.56,
+        "Nov": 3.99,
+        "Dec": 4.38
+      },
+      "average": 4.14
+    },
+    {
+      "name": "Phayao",
+      "admin1_code": "41",
+      "location": [
+        19.19203,
+        99.87883
+      ],
+      "monthly": {
+        "Jan": 4.55,
+        "Feb": 4.92,
+        "Mar": 4.63,
+        "Apr": 4.53,
+        "May": 4.14,
+        "Jun": 3.61,
+        "Jul": 3.29,
+        "Aug": 3.37,
+        "Sep": 3.7,
+        "Oct": 3.91,
+        "Nov": 4.3,
+        "Dec": 4.34
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Pa Sang",
+      "admin1_code": "05",
+      "location": [
+        18.52617,
+        98.93936
+      ],
+      "monthly": {
+        "Jan": 4.71,
+        "Feb": 5.13,
+        "Mar": 4.82,
+        "Apr": 4.68,
+        "May": 4.24,
+        "Jun": 3.68,
+        "Jul": 3.38,
+        "Aug": 3.46,
+        "Sep": 3.83,
+        "Oct": 3.98,
+        "Nov": 4.47,
+        "Dec": 4.54
+      },
+      "average": 4.24
+    },
+    {
+      "name": "Nakhon Si Thammarat",
+      "admin1_code": "64",
+      "location": [
+        8.43333,
+        99.96667
+      ],
+      "monthly": {
+        "Jan": 3.7,
+        "Feb": 4.55,
+        "Mar": 4.77,
+        "Apr": 4.54,
+        "May": 3.87,
+        "Jun": 3.71,
+        "Jul": 3.64,
+        "Aug": 3.88,
+        "Sep": 3.86,
+        "Oct": 3.64,
+        "Nov": 3.25,
+        "Dec": 3.2
+      },
+      "average": 3.88
+    },
+    {
+      "name": "Mae Sot",
+      "admin1_code": "08",
+      "location": [
+        16.71667,
+        98.56667
+      ],
+      "monthly": {
+        "Jan": 4.97,
+        "Feb": 5.2,
+        "Mar": 5.01,
+        "Apr": 4.75,
+        "May": 3.84,
+        "Jun": 3.18,
+        "Jul": 2.88,
+        "Aug": 2.94,
+        "Sep": 3.57,
+        "Oct": 4.15,
+        "Nov": 4.73,
+        "Dec": 4.8
+      },
+      "average": 4.17
+    },
+    {
+      "name": "Mae Sai",
+      "admin1_code": "03",
+      "location": [
+        20.43353,
+        99.87617
+      ],
+      "monthly": {
+        "Jan": 4.61,
+        "Feb": 5,
+        "Mar": 4.42,
+        "Apr": 4.47,
+        "May": 4.15,
+        "Jun": 3.42,
+        "Jul": 3.08,
+        "Aug": 3.22,
+        "Sep": 3.85,
+        "Oct": 4.17,
+        "Nov": 4.47,
+        "Dec": 4.39
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Mae Ramat",
+      "admin1_code": "08",
+      "location": [
+        16.98403,
+        98.51665
+      ],
+      "monthly": {
+        "Jan": 4.93,
+        "Feb": 5.2,
+        "Mar": 4.98,
+        "Apr": 4.7,
+        "May": 3.77,
+        "Jun": 3.01,
+        "Jul": 2.71,
+        "Aug": 2.71,
+        "Sep": 3.39,
+        "Oct": 4.06,
+        "Nov": 4.57,
+        "Dec": 4.72
+      },
+      "average": 4.06
+    },
+    {
+      "name": "Mae Chan",
+      "admin1_code": "03",
+      "location": [
+        20.14675,
+        99.85256
+      ],
+      "monthly": {
+        "Jan": 4.62,
+        "Feb": 4.98,
+        "Mar": 4.48,
+        "Apr": 4.47,
+        "May": 4.15,
+        "Jun": 3.53,
+        "Jul": 3.18,
+        "Aug": 3.2,
+        "Sep": 3.78,
+        "Oct": 4.09,
+        "Nov": 4.46,
+        "Dec": 4.42
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Lat Yao",
+      "admin1_code": "16",
+      "location": [
+        15.751,
+        99.78925
+      ],
+      "monthly": {
+        "Jan": 4.64,
+        "Feb": 4.8,
+        "Mar": 4.74,
+        "Apr": 4.74,
+        "May": 4.25,
+        "Jun": 3.91,
+        "Jul": 3.59,
+        "Aug": 3.69,
+        "Sep": 3.9,
+        "Oct": 4.05,
+        "Nov": 4.41,
+        "Dec": 4.58
+      },
+      "average": 4.27
+    },
+    {
+      "name": "Lang Suan",
+      "admin1_code": "58",
+      "location": [
+        9.94561,
+        99.07847
+      ],
+      "monthly": {
+        "Jan": 3.8,
+        "Feb": 4.54,
+        "Mar": 4.86,
+        "Apr": 4.61,
+        "May": 3.79,
+        "Jun": 3.52,
+        "Jul": 3.39,
+        "Aug": 3.63,
+        "Sep": 3.7,
+        "Oct": 3.57,
+        "Nov": 3.24,
+        "Dec": 3.24
+      },
+      "average": 3.82
+    },
+    {
+      "name": "Lamphun",
+      "admin1_code": "05",
+      "location": [
+        18.58054,
+        99.00745
+      ],
+      "monthly": {
+        "Jan": 4.68,
+        "Feb": 5.12,
+        "Mar": 4.82,
+        "Apr": 4.69,
+        "May": 4.27,
+        "Jun": 3.73,
+        "Jul": 3.42,
+        "Aug": 3.49,
+        "Sep": 3.81,
+        "Oct": 3.95,
+        "Nov": 4.43,
+        "Dec": 4.49
+      },
+      "average": 4.24
+    },
+    {
+      "name": "Lampang",
+      "admin1_code": "06",
+      "location": [
+        18.29232,
+        99.49277
+      ],
+      "monthly": {
+        "Jan": 4.52,
+        "Feb": 4.91,
+        "Mar": 4.72,
+        "Apr": 4.68,
+        "May": 4.25,
+        "Jun": 3.76,
+        "Jul": 3.42,
+        "Aug": 3.53,
+        "Sep": 3.73,
+        "Oct": 3.77,
+        "Nov": 4.34,
+        "Dec": 4.39
+      },
+      "average": 4.17
+    },
+    {
+      "name": "Kui Buri",
+      "admin1_code": "57",
+      "location": [
+        12.08283,
+        99.85431
+      ],
+      "monthly": {
+        "Jan": 4.64,
+        "Feb": 4.9,
+        "Mar": 4.97,
+        "Apr": 4.8,
+        "May": 4.12,
+        "Jun": 3.61,
+        "Jul": 3.37,
+        "Aug": 3.69,
+        "Sep": 3.73,
+        "Oct": 3.75,
+        "Nov": 4.07,
+        "Dec": 4.54
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Krabi",
+      "admin1_code": "63",
+      "location": [
+        8.07257,
+        98.91052
+      ],
+      "monthly": {
+        "Jan": 4.14,
+        "Feb": 4.76,
+        "Mar": 4.8,
+        "Apr": 4.5,
+        "May": 3.76,
+        "Jun": 3.57,
+        "Jul": 3.5,
+        "Aug": 3.74,
+        "Sep": 3.74,
+        "Oct": 3.7,
+        "Nov": 3.52,
+        "Dec": 3.69
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Khao Yoi",
+      "admin1_code": "56",
+      "location": [
+        13.24025,
+        99.82428
+      ],
+      "monthly": {
+        "Jan": 4.64,
+        "Feb": 4.94,
+        "Mar": 4.92,
+        "Apr": 4.82,
+        "May": 4.15,
+        "Jun": 3.63,
+        "Jul": 3.4,
+        "Aug": 3.65,
+        "Sep": 3.85,
+        "Oct": 3.78,
+        "Nov": 4.16,
+        "Dec": 4.51
+      },
+      "average": 4.2
+    },
+    {
+      "name": "Khanu Woralaksaburi",
+      "admin1_code": "11",
+      "location": [
+        16.0617,
+        99.86058
+      ],
+      "monthly": {
+        "Jan": 4.62,
+        "Feb": 4.83,
+        "Mar": 4.76,
+        "Apr": 4.79,
+        "May": 4.31,
+        "Jun": 3.89,
+        "Jul": 3.57,
+        "Aug": 3.66,
+        "Sep": 3.83,
+        "Oct": 3.96,
+        "Nov": 4.34,
+        "Dec": 4.51
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Kathu",
+      "admin1_code": "62",
+      "location": [
+        7.91779,
+        98.33322
+      ],
+      "monthly": {
+        "Jan": 4.58,
+        "Feb": 5.11,
+        "Mar": 4.92,
+        "Apr": 4.44,
+        "May": 3.63,
+        "Jun": 3.46,
+        "Jul": 3.44,
+        "Aug": 3.66,
+        "Sep": 3.69,
+        "Oct": 3.69,
+        "Nov": 3.83,
+        "Dec": 4.05
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Kanchanaburi",
+      "admin1_code": "50",
+      "location": [
+        14.00412,
+        99.54832
+      ],
+      "monthly": {
+        "Jan": 4.51,
+        "Feb": 4.76,
+        "Mar": 4.8,
+        "Apr": 4.76,
+        "May": 4.18,
+        "Jun": 3.72,
+        "Jul": 3.45,
+        "Aug": 3.67,
+        "Sep": 3.85,
+        "Oct": 3.77,
+        "Nov": 4.1,
+        "Dec": 4.41
+      },
+      "average": 4.17
+    },
+    {
+      "name": "Kamphaeng Phet",
+      "admin1_code": "11",
+      "location": [
+        16.48344,
+        99.52153
+      ],
+      "monthly": {
+        "Jan": 4.67,
+        "Feb": 4.91,
+        "Mar": 4.76,
+        "Apr": 4.78,
+        "May": 4.22,
+        "Jun": 3.77,
+        "Jul": 3.41,
+        "Aug": 3.53,
+        "Sep": 3.81,
+        "Oct": 3.91,
+        "Nov": 4.35,
+        "Dec": 4.53
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Huai Yot",
+      "admin1_code": "65",
+      "location": [
+        7.78937,
+        99.63469
+      ],
+      "monthly": {
+        "Jan": 3.92,
+        "Feb": 4.71,
+        "Mar": 4.74,
+        "Apr": 4.36,
+        "May": 3.65,
+        "Jun": 3.52,
+        "Jul": 3.44,
+        "Aug": 3.69,
+        "Sep": 3.65,
+        "Oct": 3.53,
+        "Nov": 3.19,
+        "Dec": 3.31
+      },
+      "average": 3.81
+    },
+    {
+      "name": "Hua Hin",
+      "admin1_code": "57",
+      "location": [
+        12.57065,
+        99.95876
+      ],
+      "monthly": {
+        "Jan": 4.68,
+        "Feb": 4.97,
+        "Mar": 4.99,
+        "Apr": 4.8,
+        "May": 4.1,
+        "Jun": 3.63,
+        "Jul": 3.41,
+        "Aug": 3.69,
+        "Sep": 3.79,
+        "Oct": 3.79,
+        "Nov": 4.12,
+        "Dec": 4.55
+      },
+      "average": 4.21
+    },
+    {
+      "name": "Hang Dong",
+      "admin1_code": "02",
+      "location": [
+        18.68703,
+        98.91939
+      ],
+      "monthly": {
+        "Jan": 4.78,
+        "Feb": 5.18,
+        "Mar": 4.86,
+        "Apr": 4.71,
+        "May": 4.27,
+        "Jun": 3.7,
+        "Jul": 3.34,
+        "Aug": 3.44,
+        "Sep": 3.86,
+        "Oct": 4.05,
+        "Nov": 4.56,
+        "Dec": 4.61
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Dok Kham Tai",
+      "admin1_code": "41",
+      "location": [
+        19.16242,
+        99.99342
+      ],
+      "monthly": {
+        "Jan": 4.51,
+        "Feb": 4.89,
+        "Mar": 4.64,
+        "Apr": 4.56,
+        "May": 4.15,
+        "Jun": 3.66,
+        "Jul": 3.32,
+        "Aug": 3.36,
+        "Sep": 3.65,
+        "Oct": 3.8,
+        "Nov": 4.26,
+        "Dec": 4.28
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Damnoen Saduak",
+      "admin1_code": "52",
+      "location": [
+        13.51825,
+        99.95469
+      ],
+      "monthly": {
+        "Jan": 4.5,
+        "Feb": 4.84,
+        "Mar": 4.85,
+        "Apr": 4.78,
+        "May": 4.15,
+        "Jun": 3.69,
+        "Jul": 3.47,
+        "Aug": 3.67,
+        "Sep": 3.76,
+        "Oct": 3.52,
+        "Nov": 3.94,
+        "Dec": 4.35
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Chumphon",
+      "admin1_code": "58",
+      "location": [
+        10.4957,
+        99.17971
+      ],
+      "monthly": {
+        "Jan": 4.22,
+        "Feb": 4.63,
+        "Mar": 4.87,
+        "Apr": 4.62,
+        "May": 3.77,
+        "Jun": 3.42,
+        "Jul": 3.28,
+        "Aug": 3.54,
+        "Sep": 3.69,
+        "Oct": 3.58,
+        "Nov": 3.56,
+        "Dec": 3.87
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Chom Bueng",
+      "admin1_code": "52",
+      "location": [
+        13.62,
+        99.59169
+      ],
+      "monthly": {
+        "Jan": 4.48,
+        "Feb": 4.76,
+        "Mar": 4.76,
+        "Apr": 4.71,
+        "May": 4.11,
+        "Jun": 3.65,
+        "Jul": 3.4,
+        "Aug": 3.64,
+        "Sep": 3.81,
+        "Oct": 3.55,
+        "Nov": 3.97,
+        "Dec": 4.31
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Chiang Rai",
+      "admin1_code": "03",
+      "location": [
+        19.90858,
+        99.8325
+      ],
+      "monthly": {
+        "Jan": 4.62,
+        "Feb": 5.01,
+        "Mar": 4.57,
+        "Apr": 4.54,
+        "May": 4.21,
+        "Jun": 3.65,
+        "Jul": 3.27,
+        "Aug": 3.33,
+        "Sep": 3.88,
+        "Oct": 4.12,
+        "Nov": 4.47,
+        "Dec": 4.43
+      },
+      "average": 4.17
+    },
+    {
+      "name": "Chiang Mai",
+      "admin1_code": "02",
+      "location": [
+        18.79038,
+        98.98468
+      ],
+      "monthly": {
+        "Jan": 4.77,
+        "Feb": 5.16,
+        "Mar": 4.82,
+        "Apr": 4.66,
+        "May": 4.24,
+        "Jun": 3.64,
+        "Jul": 3.28,
+        "Aug": 3.33,
+        "Sep": 3.75,
+        "Oct": 4.08,
+        "Nov": 4.58,
+        "Dec": 4.59
+      },
+      "average": 4.24
+    },
+    {
+      "name": "Cha-am",
+      "admin1_code": "56",
+      "location": [
+        12.8,
+        99.96667
+      ],
+      "monthly": {
+        "Jan": 4.71,
+        "Feb": 4.99,
+        "Mar": 4.98,
+        "Apr": 4.85,
+        "May": 4.17,
+        "Jun": 3.66,
+        "Jul": 3.45,
+        "Aug": 3.7,
+        "Sep": 3.83,
+        "Oct": 3.82,
+        "Nov": 4.18,
+        "Dec": 4.55
+      },
+      "average": 4.24
+    },
+    {
+      "name": "Bo Phloi",
+      "admin1_code": "50",
+      "location": [
+        14.32517,
+        99.51467
+      ],
+      "monthly": {
+        "Jan": 4.48,
+        "Feb": 4.68,
+        "Mar": 4.71,
+        "Apr": 4.72,
+        "May": 4.19,
+        "Jun": 3.77,
+        "Jul": 3.42,
+        "Aug": 3.64,
+        "Sep": 3.82,
+        "Oct": 3.85,
+        "Nov": 4.18,
+        "Dec": 4.45
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Ban Tak",
+      "admin1_code": "08",
+      "location": [
+        17.04325,
+        99.08128
+      ],
+      "monthly": {
+        "Jan": 4.55,
+        "Feb": 4.91,
+        "Mar": 4.76,
+        "Apr": 4.71,
+        "May": 4.13,
+        "Jun": 3.58,
+        "Jul": 3.26,
+        "Aug": 3.37,
+        "Sep": 3.73,
+        "Oct": 3.75,
+        "Nov": 4.2,
+        "Dec": 4.36
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Ko Samui",
+      "admin1_code": "60",
+      "location": [
+        9.53567,
+        99.93567
+      ],
+      "monthly": {
+        "Jan": 3.62,
+        "Feb": 4.38,
+        "Mar": 4.66,
+        "Apr": 4.45,
+        "May": 3.95,
+        "Jun": 3.78,
+        "Jul": 3.72,
+        "Aug": 3.99,
+        "Sep": 3.94,
+        "Oct": 3.57,
+        "Nov": 3.13,
+        "Dec": 3.13
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Ban Ko Sire",
+      "admin1_code": "62",
+      "location": [
+        7.88747,
+        98.42575
+      ],
+      "monthly": {
+        "Jan": 4.67,
+        "Feb": 5.2,
+        "Mar": 5.02,
+        "Apr": 4.48,
+        "May": 3.61,
+        "Jun": 3.48,
+        "Jul": 3.48,
+        "Aug": 3.7,
+        "Sep": 3.68,
+        "Oct": 3.78,
+        "Nov": 3.88,
+        "Dec": 4.11
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Ban Pong",
+      "admin1_code": "52",
+      "location": [
+        13.81629,
+        99.87739
+      ],
+      "monthly": {
+        "Jan": 4.51,
+        "Feb": 4.77,
+        "Mar": 4.8,
+        "Apr": 4.77,
+        "May": 4.18,
+        "Jun": 3.76,
+        "Jul": 3.52,
+        "Aug": 3.74,
+        "Sep": 3.84,
+        "Oct": 3.62,
+        "Nov": 4.04,
+        "Dec": 4.4
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Ban Na San",
+      "admin1_code": "60",
+      "location": [
+        8.80036,
+        99.36372
+      ],
+      "monthly": {
+        "Jan": 3.8,
+        "Feb": 4.58,
+        "Mar": 4.68,
+        "Apr": 4.34,
+        "May": 3.69,
+        "Jun": 3.52,
+        "Jul": 3.42,
+        "Aug": 3.63,
+        "Sep": 3.67,
+        "Oct": 3.52,
+        "Nov": 3.17,
+        "Dec": 3.27
+      },
+      "average": 3.77
+    },
+    {
+      "name": "Ban Na",
+      "admin1_code": "09",
+      "location": [
+        17.01717,
+        99.73283
+      ],
+      "monthly": {
+        "Jan": 4.69,
+        "Feb": 4.92,
+        "Mar": 4.79,
+        "Apr": 4.77,
+        "May": 4.23,
+        "Jun": 3.67,
+        "Jul": 3.36,
+        "Aug": 3.5,
+        "Sep": 3.85,
+        "Oct": 4.16,
+        "Nov": 4.61,
+        "Dec": 4.63
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Ban Kamala",
+      "admin1_code": "62",
+      "location": [
+        7.95508,
+        98.28322
+      ],
+      "monthly": {
+        "Jan": 4.52,
+        "Feb": 5.05,
+        "Mar": 4.9,
+        "Apr": 4.44,
+        "May": 3.6,
+        "Jun": 3.45,
+        "Jul": 3.45,
+        "Aug": 3.67,
+        "Sep": 3.69,
+        "Oct": 3.69,
+        "Nov": 3.81,
+        "Dec": 4
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Ban I Chang",
+      "admin1_code": "52",
+      "location": [
+        13.71061,
+        99.89617
+      ],
+      "monthly": {
+        "Jan": 4.52,
+        "Feb": 4.8,
+        "Mar": 4.83,
+        "Apr": 4.79,
+        "May": 4.17,
+        "Jun": 3.72,
+        "Jul": 3.48,
+        "Aug": 3.71,
+        "Sep": 3.8,
+        "Oct": 3.58,
+        "Nov": 4.02,
+        "Dec": 4.4
+      },
+      "average": 4.15
+    },
+    {
+      "name": "Bang Saphan",
+      "admin1_code": "57",
+      "location": [
+        11.21259,
+        99.51167
+      ],
+      "monthly": {
+        "Jan": 4.42,
+        "Feb": 4.71,
+        "Mar": 4.88,
+        "Apr": 4.68,
+        "May": 3.86,
+        "Jun": 3.47,
+        "Jul": 3.29,
+        "Aug": 3.53,
+        "Sep": 3.69,
+        "Oct": 3.61,
+        "Nov": 3.78,
+        "Dec": 4.19
+      },
+      "average": 4.01
+    },
+    {
+      "name": "Bang Phae",
+      "admin1_code": "52",
+      "location": [
+        13.69157,
+        99.92982
+      ],
+      "monthly": {
+        "Jan": 4.52,
+        "Feb": 4.8,
+        "Mar": 4.83,
+        "Apr": 4.79,
+        "May": 4.16,
+        "Jun": 3.71,
+        "Jul": 3.48,
+        "Aug": 3.71,
+        "Sep": 3.79,
+        "Oct": 3.6,
+        "Nov": 4.04,
+        "Dec": 4.4
+      },
+      "average": 4.15
+    },
+    {
+      "name": "Nong Kung Si",
+      "admin1_code": "23",
+      "location": [
+        16.65,
+        103.3
+      ],
+      "monthly": {
+        "Jan": 4.9,
+        "Feb": 4.83,
+        "Mar": 4.54,
+        "Apr": 4.59,
+        "May": 4.19,
+        "Jun": 3.86,
+        "Jul": 3.44,
+        "Aug": 3.52,
+        "Sep": 3.62,
+        "Oct": 4.32,
+        "Nov": 4.74,
+        "Dec": 4.85
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Ban Nong Wua So",
+      "admin1_code": "76",
+      "location": [
+        17.2675,
+        103.22472
+      ],
+      "monthly": {
+        "Jan": 4.8,
+        "Feb": 4.78,
+        "Mar": 4.47,
+        "Apr": 4.51,
+        "May": 4.03,
+        "Jun": 3.58,
+        "Jul": 3.35,
+        "Aug": 3.34,
+        "Sep": 3.6,
+        "Oct": 4.27,
+        "Nov": 4.71,
+        "Dec": 4.83
+      },
+      "average": 4.19
+    },
+    {
+      "name": "Ban Mai",
+      "admin1_code": "68",
+      "location": [
+        7.20411,
+        100.54508
+      ],
+      "monthly": {
+        "Jan": 4.07,
+        "Feb": 4.89,
+        "Mar": 5.05,
+        "Apr": 4.79,
+        "May": 3.98,
+        "Jun": 3.71,
+        "Jul": 3.69,
+        "Aug": 3.93,
+        "Sep": 3.99,
+        "Oct": 3.92,
+        "Nov": 3.35,
+        "Dec": 3.29
+      },
+      "average": 4.06
+    },
+    {
+      "name": "Ban Khlong Bang Bon",
+      "admin1_code": "40",
+      "location": [
+        13.63606,
+        100.3775
+      ],
+      "monthly": {
+        "Jan": 4.39,
+        "Feb": 4.68,
+        "Mar": 4.73,
+        "Apr": 4.65,
+        "May": 4.12,
+        "Jun": 3.86,
+        "Jul": 3.57,
+        "Aug": 3.83,
+        "Sep": 3.78,
+        "Oct": 3.51,
+        "Nov": 3.86,
+        "Dec": 4.25
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Ban Huai Thalaeng",
+      "admin1_code": "27",
+      "location": [
+        14.98333,
+        102.65
+      ],
+      "monthly": {
+        "Jan": 4.76,
+        "Feb": 4.73,
+        "Mar": 4.57,
+        "Apr": 4.6,
+        "May": 4.19,
+        "Jun": 3.93,
+        "Jul": 3.69,
+        "Aug": 3.8,
+        "Sep": 3.72,
+        "Oct": 4.03,
+        "Nov": 4.48,
+        "Dec": 4.72
+      },
+      "average": 4.27
+    },
+    {
+      "name": "Ban Khlong Bang Sao Thong",
+      "admin1_code": "42",
+      "location": [
+        13.64172,
+        100.83272
+      ],
+      "monthly": {
+        "Jan": 4.57,
+        "Feb": 4.63,
+        "Mar": 4.55,
+        "Apr": 4.42,
+        "May": 3.84,
+        "Jun": 3.66,
+        "Jul": 3.4,
+        "Aug": 3.69,
+        "Sep": 3.68,
+        "Oct": 3.97,
+        "Nov": 4.34,
+        "Dec": 4.62
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Na Klang",
+      "admin1_code": "79",
+      "location": [
+        17.3072,
+        102.18886
+      ],
+      "monthly": {
+        "Jan": 4.65,
+        "Feb": 4.71,
+        "Mar": 4.46,
+        "Apr": 4.46,
+        "May": 4.03,
+        "Jun": 3.64,
+        "Jul": 3.35,
+        "Aug": 3.36,
+        "Sep": 3.58,
+        "Oct": 4.01,
+        "Nov": 4.58,
+        "Dec": 4.68
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Yasothon",
+      "admin1_code": "72",
+      "location": [
+        15.79408,
+        104.1451
+      ],
+      "monthly": {
+        "Jan": 4.95,
+        "Feb": 4.92,
+        "Mar": 4.59,
+        "Apr": 4.56,
+        "May": 4.14,
+        "Jun": 3.84,
+        "Jul": 3.53,
+        "Aug": 3.58,
+        "Sep": 3.62,
+        "Oct": 4.26,
+        "Nov": 4.64,
+        "Dec": 4.85
+      },
+      "average": 4.29
+    },
+    {
+      "name": "Yaring",
+      "admin1_code": "69",
+      "location": [
+        6.86617,
+        101.36894
+      ],
+      "monthly": {
+        "Jan": 3.89,
+        "Feb": 4.7,
+        "Mar": 4.91,
+        "Apr": 4.74,
+        "May": 4.01,
+        "Jun": 3.75,
+        "Jul": 3.7,
+        "Aug": 4,
+        "Sep": 4.05,
+        "Oct": 3.93,
+        "Nov": 3.33,
+        "Dec": 3.22
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Yan Nawa",
+      "admin1_code": "40",
+      "location": [
+        13.69634,
+        100.54212
+      ],
+      "monthly": {
+        "Jan": 4.33,
+        "Feb": 4.51,
+        "Mar": 4.51,
+        "Apr": 4.42,
+        "May": 3.89,
+        "Jun": 3.7,
+        "Jul": 3.42,
+        "Aug": 3.67,
+        "Sep": 3.6,
+        "Oct": 3.63,
+        "Nov": 4.01,
+        "Dec": 4.34
+      },
+      "average": 4
+    },
+    {
+      "name": "Yala",
+      "admin1_code": "70",
+      "location": [
+        6.53995,
+        101.28128
+      ],
+      "monthly": {
+        "Jan": 3.68,
+        "Feb": 4.52,
+        "Mar": 4.72,
+        "Apr": 4.58,
+        "May": 4.02,
+        "Jun": 3.84,
+        "Jul": 3.75,
+        "Aug": 3.98,
+        "Sep": 3.97,
+        "Oct": 3.77,
+        "Nov": 3.19,
+        "Dec": 3
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Wiset Chaichan",
+      "admin1_code": "35",
+      "location": [
+        14.59524,
+        100.33808
+      ],
+      "monthly": {
+        "Jan": 4.58,
+        "Feb": 4.74,
+        "Mar": 4.72,
+        "Apr": 4.7,
+        "May": 4.27,
+        "Jun": 3.95,
+        "Jul": 3.69,
+        "Aug": 3.79,
+        "Sep": 3.86,
+        "Oct": 4,
+        "Nov": 4.41,
+        "Dec": 4.59
+      },
+      "average": 4.27
+    },
+    {
+      "name": "Wichian Buri",
+      "admin1_code": "14",
+      "location": [
+        15.65778,
+        101.10603
+      ],
+      "monthly": {
+        "Jan": 4.66,
+        "Feb": 4.75,
+        "Mar": 4.62,
+        "Apr": 4.61,
+        "May": 4.14,
+        "Jun": 3.78,
+        "Jul": 3.51,
+        "Aug": 3.62,
+        "Sep": 3.7,
+        "Oct": 4.09,
+        "Nov": 4.5,
+        "Dec": 4.72
+      },
+      "average": 4.23
+    },
+    {
+      "name": "Warin Chamrap",
+      "admin1_code": "75",
+      "location": [
+        15.19319,
+        104.8628
+      ],
+      "monthly": {
+        "Jan": 5.02,
+        "Feb": 4.99,
+        "Mar": 4.57,
+        "Apr": 4.51,
+        "May": 4.03,
+        "Jun": 3.72,
+        "Jul": 3.48,
+        "Aug": 3.51,
+        "Sep": 3.5,
+        "Oct": 4.12,
+        "Nov": 4.64,
+        "Dec": 4.89
+      },
+      "average": 4.25
+    },
+    {
+      "name": "Warichaphum",
+      "admin1_code": "20",
+      "location": [
+        17.29409,
+        103.63816
+      ],
+      "monthly": {
+        "Jan": 4.84,
+        "Feb": 4.79,
+        "Mar": 4.44,
+        "Apr": 4.48,
+        "May": 3.96,
+        "Jun": 3.53,
+        "Jul": 3.25,
+        "Aug": 3.31,
+        "Sep": 3.65,
+        "Oct": 4.35,
+        "Nov": 4.78,
+        "Dec": 4.88
+      },
+      "average": 4.19
+    },
+    {
+      "name": "Wang Saphung",
+      "admin1_code": "18",
+      "location": [
+        17.30097,
+        101.7685
+      ],
+      "monthly": {
+        "Jan": 4.59,
+        "Feb": 4.72,
+        "Mar": 4.47,
+        "Apr": 4.39,
+        "May": 3.91,
+        "Jun": 3.62,
+        "Jul": 3.26,
+        "Aug": 3.31,
+        "Sep": 3.55,
+        "Oct": 3.82,
+        "Nov": 4.47,
+        "Dec": 4.58
+      },
+      "average": 4.06
+    },
+    {
+      "name": "Wang Noi",
+      "admin1_code": "36",
+      "location": [
+        14.22689,
+        100.7155
+      ],
+      "monthly": {
+        "Jan": 4.52,
+        "Feb": 4.61,
+        "Mar": 4.55,
+        "Apr": 4.5,
+        "May": 4.07,
+        "Jun": 3.75,
+        "Jul": 3.52,
+        "Aug": 3.63,
+        "Sep": 3.68,
+        "Oct": 3.89,
+        "Nov": 4.33,
+        "Dec": 4.56
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Wang Nam Yen",
+      "admin1_code": "80",
+      "location": [
+        13.50476,
+        102.18093
+      ],
+      "monthly": {
+        "Jan": 4.59,
+        "Feb": 4.6,
+        "Mar": 4.44,
+        "Apr": 4.38,
+        "May": 3.89,
+        "Jun": 3.7,
+        "Jul": 3.53,
+        "Aug": 3.68,
+        "Sep": 3.59,
+        "Oct": 3.94,
+        "Nov": 4.29,
+        "Dec": 4.58
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Uttaradit",
+      "admin1_code": "10",
+      "location": [
+        17.62557,
+        100.09421
+      ],
+      "monthly": {
+        "Jan": 4.71,
+        "Feb": 4.88,
+        "Mar": 4.76,
+        "Apr": 4.79,
+        "May": 4.23,
+        "Jun": 3.63,
+        "Jul": 3.3,
+        "Aug": 3.39,
+        "Sep": 3.78,
+        "Oct": 4.18,
+        "Nov": 4.68,
+        "Dec": 4.65
+      },
+      "average": 4.25
+    },
+    {
+      "name": "Uthai Thani",
+      "admin1_code": "15",
+      "location": [
+        15.37939,
+        100.0245
+      ],
+      "monthly": {
+        "Jan": 4.6,
+        "Feb": 4.76,
+        "Mar": 4.74,
+        "Apr": 4.81,
+        "May": 4.31,
+        "Jun": 3.96,
+        "Jul": 3.67,
+        "Aug": 3.73,
+        "Sep": 3.81,
+        "Oct": 3.9,
+        "Nov": 4.32,
+        "Dec": 4.56
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Udon Thani",
+      "admin1_code": "76",
+      "location": [
+        17.41567,
+        102.78589
+      ],
+      "monthly": {
+        "Jan": 4.75,
+        "Feb": 4.76,
+        "Mar": 4.46,
+        "Apr": 4.48,
+        "May": 3.96,
+        "Jun": 3.55,
+        "Jul": 3.32,
+        "Aug": 3.32,
+        "Sep": 3.6,
+        "Oct": 4.23,
+        "Nov": 4.69,
+        "Dec": 4.77
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Ubon Ratchathani",
+      "admin1_code": "75",
+      "location": [
+        15.23844,
+        104.84866
+      ],
+      "monthly": {
+        "Jan": 5.02,
+        "Feb": 4.99,
+        "Mar": 4.59,
+        "Apr": 4.53,
+        "May": 4.05,
+        "Jun": 3.74,
+        "Jul": 3.49,
+        "Aug": 3.53,
+        "Sep": 3.5,
+        "Oct": 4.12,
+        "Nov": 4.64,
+        "Dec": 4.88
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Trat",
+      "admin1_code": "49",
+      "location": [
+        12.24364,
+        102.51514
+      ],
+      "monthly": {
+        "Jan": 4.55,
+        "Feb": 4.45,
+        "Mar": 4.32,
+        "Apr": 4.15,
+        "May": 3.49,
+        "Jun": 3.11,
+        "Jul": 3.01,
+        "Aug": 3.22,
+        "Sep": 3.14,
+        "Oct": 3.79,
+        "Nov": 4.34,
+        "Dec": 4.69
+      },
+      "average": 3.85
+    },
+    {
+      "name": "Thon Buri",
+      "admin1_code": "40",
+      "location": [
+        13.725,
+        100.48511
+      ],
+      "monthly": {
+        "Jan": 4.32,
+        "Feb": 4.53,
+        "Mar": 4.57,
+        "Apr": 4.45,
+        "May": 3.9,
+        "Jun": 3.68,
+        "Jul": 3.42,
+        "Aug": 3.65,
+        "Sep": 3.62,
+        "Oct": 3.54,
+        "Nov": 3.93,
+        "Dec": 4.28
+      },
+      "average": 3.99
+    },
+    {
+      "name": "Tha Yang",
+      "admin1_code": "56",
+      "location": [
+        12.95772,
+        99.90555
+      ],
+      "monthly": {
+        "Jan": 4.67,
+        "Feb": 4.97,
+        "Mar": 4.96,
+        "Apr": 4.85,
+        "May": 4.18,
+        "Jun": 3.66,
+        "Jul": 3.46,
+        "Aug": 3.71,
+        "Sep": 3.84,
+        "Oct": 3.76,
+        "Nov": 4.17,
+        "Dec": 4.53
+      },
+      "average": 4.23
+    },
+    {
+      "name": "Tha Ruea",
+      "admin1_code": "36",
+      "location": [
+        14.56739,
+        100.72598
+      ],
+      "monthly": {
+        "Jan": 4.55,
+        "Feb": 4.65,
+        "Mar": 4.64,
+        "Apr": 4.58,
+        "May": 4.09,
+        "Jun": 3.84,
+        "Jul": 3.58,
+        "Aug": 3.69,
+        "Sep": 3.74,
+        "Oct": 3.92,
+        "Nov": 4.37,
+        "Dec": 4.6
+      },
+      "average": 4.19
+    },
+    {
+      "name": "Thap Khlo",
+      "admin1_code": "13",
+      "location": [
+        16.16003,
+        100.59656
+      ],
+      "monthly": {
+        "Jan": 4.56,
+        "Feb": 4.69,
+        "Mar": 4.59,
+        "Apr": 4.62,
+        "May": 4.15,
+        "Jun": 3.84,
+        "Jul": 3.53,
+        "Aug": 3.6,
+        "Sep": 3.7,
+        "Oct": 4.03,
+        "Nov": 4.46,
+        "Dec": 4.55
+      },
+      "average": 4.19
+    },
+    {
+      "name": "Tha Mai",
+      "admin1_code": "48",
+      "location": [
+        12.62188,
+        102.0048
+      ],
+      "monthly": {
+        "Jan": 4.57,
+        "Feb": 4.54,
+        "Mar": 4.4,
+        "Apr": 4.29,
+        "May": 3.48,
+        "Jun": 3.19,
+        "Jul": 3.11,
+        "Aug": 3.32,
+        "Sep": 3.18,
+        "Oct": 3.73,
+        "Nov": 4.34,
+        "Dec": 4.67
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Tha Bo",
+      "admin1_code": "17",
+      "location": [
+        17.85003,
+        102.58139
+      ],
+      "monthly": {
+        "Jan": 4.72,
+        "Feb": 4.75,
+        "Mar": 4.48,
+        "Apr": 4.57,
+        "May": 4.11,
+        "Jun": 3.62,
+        "Jul": 3.39,
+        "Aug": 3.4,
+        "Sep": 3.79,
+        "Oct": 4.32,
+        "Nov": 4.76,
+        "Dec": 4.75
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Taphan Hin",
+      "admin1_code": "13",
+      "location": [
+        16.22095,
+        100.41978
+      ],
+      "monthly": {
+        "Jan": 4.62,
+        "Feb": 4.82,
+        "Mar": 4.7,
+        "Apr": 4.74,
+        "May": 4.25,
+        "Jun": 3.92,
+        "Jul": 3.57,
+        "Aug": 3.65,
+        "Sep": 3.8,
+        "Oct": 4.1,
+        "Nov": 4.39,
+        "Dec": 4.54
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Taling Chan",
+      "admin1_code": "40",
+      "location": [
+        13.77698,
+        100.4567
+      ],
+      "monthly": {
+        "Jan": 4.29,
+        "Feb": 4.5,
+        "Mar": 4.53,
+        "Apr": 4.43,
+        "May": 3.86,
+        "Jun": 3.64,
+        "Jul": 3.4,
+        "Aug": 3.64,
+        "Sep": 3.66,
+        "Oct": 3.55,
+        "Nov": 3.94,
+        "Dec": 4.28
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Tak Bai",
+      "admin1_code": "31",
+      "location": [
+        6.25947,
+        102.05461
+      ],
+      "monthly": {
+        "Jan": 3.74,
+        "Feb": 4.64,
+        "Mar": 4.9,
+        "Apr": 4.8,
+        "May": 4.16,
+        "Jun": 3.88,
+        "Jul": 3.82,
+        "Aug": 4.09,
+        "Sep": 4.19,
+        "Oct": 3.96,
+        "Nov": 3.33,
+        "Dec": 3.12
+      },
+      "average": 4.05
+    },
+    {
+      "name": "Surin",
+      "admin1_code": "29",
+      "location": [
+        14.88181,
+        103.49364
+      ],
+      "monthly": {
+        "Jan": 4.86,
+        "Feb": 4.84,
+        "Mar": 4.64,
+        "Apr": 4.57,
+        "May": 4.17,
+        "Jun": 3.94,
+        "Jul": 3.71,
+        "Aug": 3.81,
+        "Sep": 3.68,
+        "Oct": 4.06,
+        "Nov": 4.51,
+        "Dec": 4.73
+      },
+      "average": 4.29
+    },
+    {
+      "name": "Suphan Buri",
+      "admin1_code": "51",
+      "location": [
+        14.47418,
+        100.12218
+      ],
+      "monthly": {
+        "Jan": 4.58,
+        "Feb": 4.78,
+        "Mar": 4.77,
+        "Apr": 4.76,
+        "May": 4.32,
+        "Jun": 3.97,
+        "Jul": 3.71,
+        "Aug": 3.82,
+        "Sep": 3.91,
+        "Oct": 4.06,
+        "Nov": 4.4,
+        "Dec": 4.57
+      },
+      "average": 4.3
+    },
+    {
+      "name": "Su-ngai Kolok",
+      "admin1_code": "31",
+      "location": [
+        6.02977,
+        101.96586
+      ],
+      "monthly": {
+        "Jan": 3.24,
+        "Feb": 4.09,
+        "Mar": 4.57,
+        "Apr": 4.56,
+        "May": 4.08,
+        "Jun": 3.94,
+        "Jul": 3.85,
+        "Aug": 4.08,
+        "Sep": 4.07,
+        "Oct": 3.76,
+        "Nov": 3.12,
+        "Dec": 2.76
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Songkhla",
+      "admin1_code": "68",
+      "location": [
+        7.19882,
+        100.5951
+      ],
+      "monthly": {
+        "Jan": 4.12,
+        "Feb": 4.96,
+        "Mar": 5.1,
+        "Apr": 4.82,
+        "May": 4,
+        "Jun": 3.7,
+        "Jul": 3.68,
+        "Aug": 3.92,
+        "Sep": 4,
+        "Oct": 3.95,
+        "Nov": 3.38,
+        "Dec": 3.33
+      },
+      "average": 4.08
+    },
+    {
+      "name": "Si Sa Ket",
+      "admin1_code": "30",
+      "location": [
+        15.11481,
+        104.32938
+      ],
+      "monthly": {
+        "Jan": 4.96,
+        "Feb": 4.93,
+        "Mar": 4.55,
+        "Apr": 4.49,
+        "May": 4.07,
+        "Jun": 3.88,
+        "Jul": 3.66,
+        "Aug": 3.69,
+        "Sep": 3.6,
+        "Oct": 4.18,
+        "Nov": 4.59,
+        "Dec": 4.83
+      },
+      "average": 4.29
+    },
+    {
+      "name": "Si Racha",
+      "admin1_code": "46",
+      "location": [
+        13.17283,
+        100.93159
+      ],
+      "monthly": {
+        "Jan": 4.39,
+        "Feb": 4.37,
+        "Mar": 4.29,
+        "Apr": 4.08,
+        "May": 3.54,
+        "Jun": 3.52,
+        "Jul": 3.35,
+        "Aug": 3.64,
+        "Sep": 3.45,
+        "Oct": 3.68,
+        "Nov": 4.17,
+        "Dec": 4.48
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Sing Buri",
+      "admin1_code": "33",
+      "location": [
+        14.88786,
+        100.40464
+      ],
+      "monthly": {
+        "Jan": 4.6,
+        "Feb": 4.76,
+        "Mar": 4.73,
+        "Apr": 4.72,
+        "May": 4.27,
+        "Jun": 3.97,
+        "Jul": 3.69,
+        "Aug": 3.8,
+        "Sep": 3.86,
+        "Oct": 4.05,
+        "Nov": 4.45,
+        "Dec": 4.62
+      },
+      "average": 4.29
+    },
+    {
+      "name": "Si Maha Phot",
+      "admin1_code": "74",
+      "location": [
+        13.96563,
+        101.51352
+      ],
+      "monthly": {
+        "Jan": 4.7,
+        "Feb": 4.64,
+        "Mar": 4.47,
+        "Apr": 4.44,
+        "May": 3.91,
+        "Jun": 3.58,
+        "Jul": 3.31,
+        "Aug": 3.52,
+        "Sep": 3.55,
+        "Oct": 4.03,
+        "Nov": 4.47,
+        "Dec": 4.76
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Seka",
+      "admin1_code": "81",
+      "location": [
+        17.92851,
+        103.95519
+      ],
+      "monthly": {
+        "Jan": 4.71,
+        "Feb": 4.7,
+        "Mar": 4.35,
+        "Apr": 4.43,
+        "May": 3.93,
+        "Jun": 3.41,
+        "Jul": 3.12,
+        "Aug": 3.19,
+        "Sep": 3.67,
+        "Oct": 4.31,
+        "Nov": 4.71,
+        "Dec": 4.76
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Sawang Daen Din",
+      "admin1_code": "20",
+      "location": [
+        17.47531,
+        103.45753
+      ],
+      "monthly": {
+        "Jan": 4.77,
+        "Feb": 4.74,
+        "Mar": 4.44,
+        "Apr": 4.45,
+        "May": 3.94,
+        "Jun": 3.53,
+        "Jul": 3.27,
+        "Aug": 3.3,
+        "Sep": 3.67,
+        "Oct": 4.34,
+        "Nov": 4.7,
+        "Dec": 4.81
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Satun",
+      "admin1_code": "67",
+      "location": [
+        6.62314,
+        100.06676
+      ],
+      "monthly": {
+        "Jan": 4.11,
+        "Feb": 4.73,
+        "Mar": 4.63,
+        "Apr": 4.31,
+        "May": 3.79,
+        "Jun": 3.66,
+        "Jul": 3.58,
+        "Aug": 3.78,
+        "Sep": 3.71,
+        "Oct": 3.66,
+        "Nov": 3.41,
+        "Dec": 3.5
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Sattahip",
+      "admin1_code": "46",
+      "location": [
+        12.66629,
+        100.90179
+      ],
+      "monthly": {
+        "Jan": 4.42,
+        "Feb": 4.56,
+        "Mar": 4.61,
+        "Apr": 4.51,
+        "May": 3.83,
+        "Jun": 3.63,
+        "Jul": 3.48,
+        "Aug": 3.78,
+        "Sep": 3.57,
+        "Oct": 3.66,
+        "Nov": 4.13,
+        "Dec": 4.47
+      },
+      "average": 4.05
+    },
+    {
+      "name": "Saraburi",
+      "admin1_code": "37",
+      "location": [
+        14.53333,
+        100.91667
+      ],
+      "monthly": {
+        "Jan": 4.5,
+        "Feb": 4.51,
+        "Mar": 4.48,
+        "Apr": 4.43,
+        "May": 3.98,
+        "Jun": 3.73,
+        "Jul": 3.49,
+        "Aug": 3.59,
+        "Sep": 3.61,
+        "Oct": 3.86,
+        "Nov": 4.32,
+        "Dec": 4.57
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Samut Songkhram",
+      "admin1_code": "54",
+      "location": [
+        13.41456,
+        100.00264
+      ],
+      "monthly": {
+        "Jan": 4.61,
+        "Feb": 4.95,
+        "Mar": 4.93,
+        "Apr": 4.88,
+        "May": 4.26,
+        "Jun": 3.81,
+        "Jul": 3.57,
+        "Aug": 3.82,
+        "Sep": 3.91,
+        "Oct": 3.76,
+        "Nov": 4.11,
+        "Dec": 4.46
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Samut Sakhon",
+      "admin1_code": "55",
+      "location": [
+        13.54753,
+        100.27362
+      ],
+      "monthly": {
+        "Jan": 4.5,
+        "Feb": 4.8,
+        "Mar": 4.81,
+        "Apr": 4.76,
+        "May": 4.17,
+        "Jun": 3.88,
+        "Jul": 3.6,
+        "Aug": 3.86,
+        "Sep": 3.86,
+        "Oct": 3.66,
+        "Nov": 3.98,
+        "Dec": 4.36
+      },
+      "average": 4.19
+    },
+    {
+      "name": "Samut Prakan",
+      "admin1_code": "42",
+      "location": [
+        13.5976,
+        100.5972
+      ],
+      "monthly": {
+        "Jan": 4.47,
+        "Feb": 4.66,
+        "Mar": 4.64,
+        "Apr": 4.54,
+        "May": 4.02,
+        "Jun": 3.85,
+        "Jul": 3.58,
+        "Aug": 3.86,
+        "Sep": 3.76,
+        "Oct": 3.76,
+        "Nov": 4.14,
+        "Dec": 4.45
+      },
+      "average": 4.14
+    },
+    {
+      "name": "Sam Phran",
+      "admin1_code": "53",
+      "location": [
+        13.72698,
+        100.21526
+      ],
+      "monthly": {
+        "Jan": 4.37,
+        "Feb": 4.62,
+        "Mar": 4.66,
+        "Apr": 4.6,
+        "May": 4.03,
+        "Jun": 3.69,
+        "Jul": 3.46,
+        "Aug": 3.69,
+        "Sep": 3.72,
+        "Oct": 3.46,
+        "Nov": 3.91,
+        "Dec": 4.32
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Samphanthawong",
+      "admin1_code": "40",
+      "location": [
+        13.737,
+        100.512
+      ],
+      "monthly": {
+        "Jan": 4.32,
+        "Feb": 4.51,
+        "Mar": 4.53,
+        "Apr": 4.42,
+        "May": 3.87,
+        "Jun": 3.64,
+        "Jul": 3.4,
+        "Aug": 3.62,
+        "Sep": 3.59,
+        "Oct": 3.58,
+        "Nov": 3.97,
+        "Dec": 4.31
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Sakon Nakhon",
+      "admin1_code": "20",
+      "location": [
+        17.16116,
+        104.14725
+      ],
+      "monthly": {
+        "Jan": 4.84,
+        "Feb": 4.78,
+        "Mar": 4.39,
+        "Apr": 4.43,
+        "May": 3.91,
+        "Jun": 3.54,
+        "Jul": 3.24,
+        "Aug": 3.33,
+        "Sep": 3.73,
+        "Oct": 4.32,
+        "Nov": 4.67,
+        "Dec": 4.83
+      },
+      "average": 4.17
+    },
+    {
+      "name": "Sa Kaeo",
+      "admin1_code": "80",
+      "location": [
+        13.81411,
+        102.07222
+      ],
+      "monthly": {
+        "Jan": 4.7,
+        "Feb": 4.68,
+        "Mar": 4.54,
+        "Apr": 4.51,
+        "May": 3.98,
+        "Jun": 3.71,
+        "Jul": 3.46,
+        "Aug": 3.6,
+        "Sep": 3.58,
+        "Oct": 3.98,
+        "Nov": 4.42,
+        "Dec": 4.68
+      },
+      "average": 4.15
+    },
+    {
+      "name": "Sadao",
+      "admin1_code": "68",
+      "location": [
+        6.63883,
+        100.42342
+      ],
+      "monthly": {
+        "Jan": 3.9,
+        "Feb": 4.56,
+        "Mar": 4.58,
+        "Apr": 4.39,
+        "May": 3.84,
+        "Jun": 3.66,
+        "Jul": 3.59,
+        "Aug": 3.78,
+        "Sep": 3.72,
+        "Oct": 3.63,
+        "Nov": 3.32,
+        "Dec": 3.3
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Roi Et",
+      "admin1_code": "25",
+      "location": [
+        16.0567,
+        103.65309
+      ],
+      "monthly": {
+        "Jan": 4.92,
+        "Feb": 4.86,
+        "Mar": 4.53,
+        "Apr": 4.55,
+        "May": 4.14,
+        "Jun": 3.83,
+        "Jul": 3.57,
+        "Aug": 3.63,
+        "Sep": 3.63,
+        "Oct": 4.3,
+        "Nov": 4.66,
+        "Dec": 4.83
+      },
+      "average": 4.29
+    },
+    {
+      "name": "Rayong",
+      "admin1_code": "47",
+      "location": [
+        12.68095,
+        101.25798
+      ],
+      "monthly": {
+        "Jan": 4.55,
+        "Feb": 4.71,
+        "Mar": 4.7,
+        "Apr": 4.59,
+        "May": 3.79,
+        "Jun": 3.58,
+        "Jul": 3.45,
+        "Aug": 3.72,
+        "Sep": 3.46,
+        "Oct": 3.78,
+        "Nov": 4.25,
+        "Dec": 4.58
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Rat Burana",
+      "admin1_code": "40",
+      "location": [
+        13.68163,
+        100.5059
+      ],
+      "monthly": {
+        "Jan": 4.36,
+        "Feb": 4.58,
+        "Mar": 4.58,
+        "Apr": 4.49,
+        "May": 3.97,
+        "Jun": 3.76,
+        "Jul": 3.48,
+        "Aug": 3.74,
+        "Sep": 3.66,
+        "Oct": 3.61,
+        "Nov": 3.98,
+        "Dec": 4.32
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Ranot",
+      "admin1_code": "68",
+      "location": [
+        7.77768,
+        100.32134
+      ],
+      "monthly": {
+        "Jan": 3.95,
+        "Feb": 4.82,
+        "Mar": 5,
+        "Apr": 4.75,
+        "May": 4.08,
+        "Jun": 3.83,
+        "Jul": 3.82,
+        "Aug": 4.08,
+        "Sep": 4.09,
+        "Oct": 3.87,
+        "Nov": 3.3,
+        "Dec": 3.31
+      },
+      "average": 4.08
+    },
+    {
+      "name": "Ra-ngae",
+      "admin1_code": "31",
+      "location": [
+        6.29678,
+        101.72844
+      ],
+      "monthly": {
+        "Jan": 3.41,
+        "Feb": 4.26,
+        "Mar": 4.63,
+        "Apr": 4.59,
+        "May": 4.05,
+        "Jun": 3.87,
+        "Jul": 3.8,
+        "Aug": 4.04,
+        "Sep": 4.03,
+        "Oct": 3.77,
+        "Nov": 3.17,
+        "Dec": 2.85
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Prakhon Chai",
+      "admin1_code": "28",
+      "location": [
+        14.60592,
+        103.12081
+      ],
+      "monthly": {
+        "Jan": 4.81,
+        "Feb": 4.79,
+        "Mar": 4.64,
+        "Apr": 4.58,
+        "May": 4.14,
+        "Jun": 3.89,
+        "Jul": 3.7,
+        "Aug": 3.79,
+        "Sep": 3.65,
+        "Oct": 3.98,
+        "Nov": 4.47,
+        "Dec": 4.71
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Prachin Buri",
+      "admin1_code": "74",
+      "location": [
+        14.04992,
+        101.36864
+      ],
+      "monthly": {
+        "Jan": 4.72,
+        "Feb": 4.71,
+        "Mar": 4.55,
+        "Apr": 4.49,
+        "May": 3.99,
+        "Jun": 3.63,
+        "Jul": 3.34,
+        "Aug": 3.53,
+        "Sep": 3.62,
+        "Oct": 4.09,
+        "Nov": 4.49,
+        "Dec": 4.77
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Prachantakham",
+      "admin1_code": "74",
+      "location": [
+        14.06366,
+        101.51554
+      ],
+      "monthly": {
+        "Jan": 4.72,
+        "Feb": 4.65,
+        "Mar": 4.52,
+        "Apr": 4.45,
+        "May": 3.96,
+        "Jun": 3.59,
+        "Jul": 3.31,
+        "Aug": 3.5,
+        "Sep": 3.53,
+        "Oct": 4.02,
+        "Nov": 4.47,
+        "Dec": 4.76
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Pom Prap Sattru Phai",
+      "admin1_code": "40",
+      "location": [
+        13.75822,
+        100.51325
+      ],
+      "monthly": {
+        "Jan": 4.3,
+        "Feb": 4.49,
+        "Mar": 4.52,
+        "Apr": 4.4,
+        "May": 3.84,
+        "Jun": 3.61,
+        "Jul": 3.38,
+        "Aug": 3.6,
+        "Sep": 3.59,
+        "Oct": 3.57,
+        "Nov": 3.96,
+        "Dec": 4.31
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Phu Kradueng",
+      "admin1_code": "18",
+      "location": [
+        16.88425,
+        101.88467
+      ],
+      "monthly": {
+        "Jan": 4.62,
+        "Feb": 4.65,
+        "Mar": 4.33,
+        "Apr": 4.26,
+        "May": 3.85,
+        "Jun": 3.63,
+        "Jul": 3.25,
+        "Aug": 3.25,
+        "Sep": 3.53,
+        "Oct": 3.88,
+        "Nov": 4.44,
+        "Dec": 4.62
+      },
+      "average": 4.03
+    },
+    {
+      "name": "Phu Khiao",
+      "admin1_code": "26",
+      "location": [
+        16.3765,
+        102.12853
+      ],
+      "monthly": {
+        "Jan": 4.74,
+        "Feb": 4.72,
+        "Mar": 4.49,
+        "Apr": 4.44,
+        "May": 4.01,
+        "Jun": 3.78,
+        "Jul": 3.42,
+        "Aug": 3.49,
+        "Sep": 3.57,
+        "Oct": 3.98,
+        "Nov": 4.49,
+        "Dec": 4.73
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Phra Pradaeng",
+      "admin1_code": "42",
+      "location": [
+        13.65855,
+        100.53362
+      ],
+      "monthly": {
+        "Jan": 4.36,
+        "Feb": 4.56,
+        "Mar": 4.55,
+        "Apr": 4.47,
+        "May": 3.97,
+        "Jun": 3.77,
+        "Jul": 3.48,
+        "Aug": 3.74,
+        "Sep": 3.64,
+        "Oct": 3.6,
+        "Nov": 3.99,
+        "Dec": 4.34
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Phra Phutthabat",
+      "admin1_code": "37",
+      "location": [
+        14.72609,
+        100.79584
+      ],
+      "monthly": {
+        "Jan": 4.5,
+        "Feb": 4.59,
+        "Mar": 4.56,
+        "Apr": 4.52,
+        "May": 4.01,
+        "Jun": 3.82,
+        "Jul": 3.54,
+        "Aug": 3.64,
+        "Sep": 3.64,
+        "Oct": 3.89,
+        "Nov": 4.32,
+        "Dec": 4.58
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Phra Nakhon Si Ayutthaya",
+      "admin1_code": "36",
+      "location": [
+        14.35167,
+        100.57739
+      ],
+      "monthly": {
+        "Jan": 4.47,
+        "Feb": 4.52,
+        "Mar": 4.48,
+        "Apr": 4.47,
+        "May": 4.08,
+        "Jun": 3.88,
+        "Jul": 3.66,
+        "Aug": 3.7,
+        "Sep": 3.71,
+        "Oct": 3.87,
+        "Nov": 4.34,
+        "Dec": 4.52
+      },
+      "average": 4.14
+    },
+    {
+      "name": "Phra Khanong",
+      "admin1_code": "40",
+      "location": [
+        13.70185,
+        100.60157
+      ],
+      "monthly": {
+        "Jan": 4.41,
+        "Feb": 4.54,
+        "Mar": 4.53,
+        "Apr": 4.43,
+        "May": 3.89,
+        "Jun": 3.68,
+        "Jul": 3.42,
+        "Aug": 3.65,
+        "Sep": 3.61,
+        "Oct": 3.76,
+        "Nov": 4.16,
+        "Dec": 4.47
+      },
+      "average": 4.05
+    },
+    {
+      "name": "Phrae",
+      "admin1_code": "07",
+      "location": [
+        18.14589,
+        100.14103
+      ],
+      "monthly": {
+        "Jan": 4.66,
+        "Feb": 4.91,
+        "Mar": 4.75,
+        "Apr": 4.72,
+        "May": 4.18,
+        "Jun": 3.69,
+        "Jul": 3.35,
+        "Aug": 3.39,
+        "Sep": 3.72,
+        "Oct": 4.01,
+        "Nov": 4.56,
+        "Dec": 4.58
+      },
+      "average": 4.21
+    },
+    {
+      "name": "Phon Charoen",
+      "admin1_code": "17",
+      "location": [
+        18.03333,
+        103.16667
+      ],
+      "monthly": {
+        "Jan": 4.68,
+        "Feb": 4.7,
+        "Mar": 4.39,
+        "Apr": 4.48,
+        "May": 3.98,
+        "Jun": 3.44,
+        "Jul": 3.21,
+        "Aug": 3.21,
+        "Sep": 3.7,
+        "Oct": 4.39,
+        "Nov": 4.76,
+        "Dec": 4.74
+      },
+      "average": 4.14
+    },
+    {
+      "name": "Phitsanulok",
+      "admin1_code": "12",
+      "location": [
+        16.82481,
+        100.25858
+      ],
+      "monthly": {
+        "Jan": 4.69,
+        "Feb": 4.88,
+        "Mar": 4.77,
+        "Apr": 4.8,
+        "May": 4.24,
+        "Jun": 3.79,
+        "Jul": 3.41,
+        "Aug": 3.49,
+        "Sep": 3.69,
+        "Oct": 3.98,
+        "Nov": 4.53,
+        "Dec": 4.6
+      },
+      "average": 4.24
+    },
+    {
+      "name": "Phichit",
+      "admin1_code": "13",
+      "location": [
+        16.44184,
+        100.34879
+      ],
+      "monthly": {
+        "Jan": 4.68,
+        "Feb": 4.86,
+        "Mar": 4.76,
+        "Apr": 4.8,
+        "May": 4.25,
+        "Jun": 3.84,
+        "Jul": 3.46,
+        "Aug": 3.53,
+        "Sep": 3.77,
+        "Oct": 4.07,
+        "Nov": 4.54,
+        "Dec": 4.64
+      },
+      "average": 4.27
+    },
+    {
+      "name": "Phibun Mangsahan",
+      "admin1_code": "75",
+      "location": [
+        15.24467,
+        105.22908
+      ],
+      "monthly": {
+        "Jan": 5,
+        "Feb": 5.01,
+        "Mar": 4.61,
+        "Apr": 4.55,
+        "May": 4.05,
+        "Jun": 3.68,
+        "Jul": 3.36,
+        "Aug": 3.39,
+        "Sep": 3.48,
+        "Oct": 4.05,
+        "Nov": 4.56,
+        "Dec": 4.81
+      },
+      "average": 4.21
+    },
+    {
+      "name": "Phetchabun",
+      "admin1_code": "14",
+      "location": [
+        16.41904,
+        101.16056
+      ],
+      "monthly": {
+        "Jan": 4.74,
+        "Feb": 4.86,
+        "Mar": 4.72,
+        "Apr": 4.62,
+        "May": 4.03,
+        "Jun": 3.68,
+        "Jul": 3.28,
+        "Aug": 3.29,
+        "Sep": 3.51,
+        "Oct": 4.05,
+        "Nov": 4.62,
+        "Dec": 4.76
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Phatthalung",
+      "admin1_code": "66",
+      "location": [
+        7.61786,
+        100.07792
+      ],
+      "monthly": {
+        "Jan": 3.82,
+        "Feb": 4.66,
+        "Mar": 4.88,
+        "Apr": 4.68,
+        "May": 3.96,
+        "Jun": 3.71,
+        "Jul": 3.66,
+        "Aug": 3.92,
+        "Sep": 3.93,
+        "Oct": 3.79,
+        "Nov": 3.24,
+        "Dec": 3.23
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Phasi Charoen",
+      "admin1_code": "40",
+      "location": [
+        13.71466,
+        100.43691
+      ],
+      "monthly": {
+        "Jan": 4.31,
+        "Feb": 4.55,
+        "Mar": 4.59,
+        "Apr": 4.48,
+        "May": 3.93,
+        "Jun": 3.68,
+        "Jul": 3.42,
+        "Aug": 3.67,
+        "Sep": 3.62,
+        "Oct": 3.48,
+        "Nov": 3.84,
+        "Dec": 4.23
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Phan Thong",
+      "admin1_code": "46",
+      "location": [
+        13.46997,
+        101.0931
+      ],
+      "monthly": {
+        "Jan": 4.56,
+        "Feb": 4.51,
+        "Mar": 4.29,
+        "Apr": 4.2,
+        "May": 3.68,
+        "Jun": 3.61,
+        "Jul": 3.44,
+        "Aug": 3.73,
+        "Sep": 3.63,
+        "Oct": 3.94,
+        "Nov": 4.33,
+        "Dec": 4.63
+      },
+      "average": 4.05
+    },
+    {
+      "name": "Phanom Sarakham",
+      "admin1_code": "44",
+      "location": [
+        13.74872,
+        101.34888
+      ],
+      "monthly": {
+        "Jan": 4.64,
+        "Feb": 4.65,
+        "Mar": 4.53,
+        "Apr": 4.44,
+        "May": 3.89,
+        "Jun": 3.63,
+        "Jul": 3.39,
+        "Aug": 3.62,
+        "Sep": 3.64,
+        "Oct": 4.01,
+        "Nov": 4.36,
+        "Dec": 4.67
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Phanat Nikhom",
+      "admin1_code": "46",
+      "location": [
+        13.44655,
+        101.18454
+      ],
+      "monthly": {
+        "Jan": 4.55,
+        "Feb": 4.5,
+        "Mar": 4.32,
+        "Apr": 4.26,
+        "May": 3.71,
+        "Jun": 3.58,
+        "Jul": 3.41,
+        "Aug": 3.69,
+        "Sep": 3.57,
+        "Oct": 3.93,
+        "Nov": 4.31,
+        "Dec": 4.59
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Phak Hai",
+      "admin1_code": "36",
+      "location": [
+        14.45682,
+        100.36998
+      ],
+      "monthly": {
+        "Jan": 4.56,
+        "Feb": 4.71,
+        "Mar": 4.67,
+        "Apr": 4.64,
+        "May": 4.26,
+        "Jun": 3.96,
+        "Jul": 3.69,
+        "Aug": 3.77,
+        "Sep": 3.87,
+        "Oct": 3.99,
+        "Nov": 4.38,
+        "Dec": 4.57
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Pattani",
+      "admin1_code": "69",
+      "location": [
+        6.86814,
+        101.25009
+      ],
+      "monthly": {
+        "Jan": 3.94,
+        "Feb": 4.75,
+        "Mar": 4.91,
+        "Apr": 4.72,
+        "May": 4.02,
+        "Jun": 3.77,
+        "Jul": 3.72,
+        "Aug": 4.01,
+        "Sep": 4.07,
+        "Oct": 3.96,
+        "Nov": 3.37,
+        "Dec": 3.24
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Pathum Thani",
+      "admin1_code": "39",
+      "location": [
+        14.01346,
+        100.53049
+      ],
+      "monthly": {
+        "Jan": 4.37,
+        "Feb": 4.42,
+        "Mar": 4.39,
+        "Apr": 4.34,
+        "May": 3.88,
+        "Jun": 3.69,
+        "Jul": 3.46,
+        "Aug": 3.64,
+        "Sep": 3.71,
+        "Oct": 3.76,
+        "Nov": 4.17,
+        "Dec": 4.45
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Pak Phanang",
+      "admin1_code": "64",
+      "location": [
+        8.35109,
+        100.20195
+      ],
+      "monthly": {
+        "Jan": 3.89,
+        "Feb": 4.77,
+        "Mar": 4.97,
+        "Apr": 4.69,
+        "May": 3.97,
+        "Jun": 3.73,
+        "Jul": 3.67,
+        "Aug": 3.92,
+        "Sep": 3.97,
+        "Oct": 3.73,
+        "Nov": 3.29,
+        "Dec": 3.29
+      },
+      "average": 3.99
+    },
+    {
+      "name": "Pak Kret",
+      "admin1_code": "38",
+      "location": [
+        13.91179,
+        100.49774
+      ],
+      "monthly": {
+        "Jan": 4.3,
+        "Feb": 4.4,
+        "Mar": 4.42,
+        "Apr": 4.34,
+        "May": 3.84,
+        "Jun": 3.66,
+        "Jul": 3.43,
+        "Aug": 3.65,
+        "Sep": 3.69,
+        "Oct": 3.64,
+        "Nov": 4.04,
+        "Dec": 4.35
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Pak Chong",
+      "admin1_code": "27",
+      "location": [
+        14.70802,
+        101.41614
+      ],
+      "monthly": {
+        "Jan": 4.69,
+        "Feb": 4.68,
+        "Mar": 4.51,
+        "Apr": 4.35,
+        "May": 3.92,
+        "Jun": 3.82,
+        "Jul": 3.59,
+        "Aug": 3.67,
+        "Sep": 3.6,
+        "Oct": 3.8,
+        "Nov": 4.22,
+        "Dec": 4.65
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Mueang Nonthaburi",
+      "admin1_code": "38",
+      "location": [
+        13.86075,
+        100.51477
+      ],
+      "monthly": {
+        "Jan": 4.3,
+        "Feb": 4.42,
+        "Mar": 4.45,
+        "Apr": 4.34,
+        "May": 3.81,
+        "Jun": 3.62,
+        "Jul": 3.41,
+        "Aug": 3.62,
+        "Sep": 3.66,
+        "Oct": 3.65,
+        "Nov": 4.05,
+        "Dec": 4.35
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Non Sung",
+      "admin1_code": "27",
+      "location": [
+        15.18014,
+        102.25695
+      ],
+      "monthly": {
+        "Jan": 4.79,
+        "Feb": 4.78,
+        "Mar": 4.63,
+        "Apr": 4.6,
+        "May": 4.19,
+        "Jun": 3.94,
+        "Jul": 3.69,
+        "Aug": 3.79,
+        "Sep": 3.81,
+        "Oct": 4.1,
+        "Nov": 4.57,
+        "Dec": 4.8
+      },
+      "average": 4.31
+    },
+    {
+      "name": "Nong Phai",
+      "admin1_code": "14",
+      "location": [
+        15.99025,
+        101.06183
+      ],
+      "monthly": {
+        "Jan": 4.7,
+        "Feb": 4.79,
+        "Mar": 4.66,
+        "Apr": 4.64,
+        "May": 4.12,
+        "Jun": 3.79,
+        "Jul": 3.45,
+        "Aug": 3.5,
+        "Sep": 3.58,
+        "Oct": 4.13,
+        "Nov": 4.63,
+        "Dec": 4.78
+      },
+      "average": 4.23
+    },
+    {
+      "name": "Nong Khai",
+      "admin1_code": "17",
+      "location": [
+        17.87847,
+        102.742
+      ],
+      "monthly": {
+        "Jan": 4.72,
+        "Feb": 4.73,
+        "Mar": 4.44,
+        "Apr": 4.54,
+        "May": 4.06,
+        "Jun": 3.56,
+        "Jul": 3.33,
+        "Aug": 3.34,
+        "Sep": 3.74,
+        "Oct": 4.34,
+        "Nov": 4.75,
+        "Dec": 4.74
+      },
+      "average": 4.19
+    },
+    {
+      "name": "Nong Khaem",
+      "admin1_code": "40",
+      "location": [
+        13.70594,
+        100.34918
+      ],
+      "monthly": {
+        "Jan": 4.35,
+        "Feb": 4.61,
+        "Mar": 4.65,
+        "Apr": 4.55,
+        "May": 4,
+        "Jun": 3.71,
+        "Jul": 3.46,
+        "Aug": 3.7,
+        "Sep": 3.68,
+        "Oct": 3.46,
+        "Nov": 3.86,
+        "Dec": 4.25
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Nong Khae",
+      "admin1_code": "37",
+      "location": [
+        14.34046,
+        100.86693
+      ],
+      "monthly": {
+        "Jan": 4.59,
+        "Feb": 4.67,
+        "Mar": 4.61,
+        "Apr": 4.55,
+        "May": 4.09,
+        "Jun": 3.71,
+        "Jul": 3.48,
+        "Aug": 3.59,
+        "Sep": 3.61,
+        "Oct": 3.87,
+        "Nov": 4.35,
+        "Dec": 4.61
+      },
+      "average": 4.14
+    },
+    {
+      "name": "Nong Chok",
+      "admin1_code": "40",
+      "location": [
+        13.85585,
+        100.86216
+      ],
+      "monthly": {
+        "Jan": 4.61,
+        "Feb": 4.63,
+        "Mar": 4.52,
+        "Apr": 4.43,
+        "May": 3.87,
+        "Jun": 3.59,
+        "Jul": 3.28,
+        "Aug": 3.55,
+        "Sep": 3.64,
+        "Oct": 4.03,
+        "Nov": 4.43,
+        "Dec": 4.68
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Nong Bua Lamphu",
+      "admin1_code": "79",
+      "location": [
+        17.20406,
+        102.44068
+      ],
+      "monthly": {
+        "Jan": 4.65,
+        "Feb": 4.68,
+        "Mar": 4.39,
+        "Apr": 4.38,
+        "May": 3.94,
+        "Jun": 3.59,
+        "Jul": 3.31,
+        "Aug": 3.32,
+        "Sep": 3.45,
+        "Oct": 4.04,
+        "Nov": 4.59,
+        "Dec": 4.7
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Narathiwat",
+      "admin1_code": "31",
+      "location": [
+        6.42639,
+        101.82308
+      ],
+      "monthly": {
+        "Jan": 3.75,
+        "Feb": 4.65,
+        "Mar": 4.93,
+        "Apr": 4.86,
+        "May": 4.14,
+        "Jun": 3.86,
+        "Jul": 3.81,
+        "Aug": 4.07,
+        "Sep": 4.12,
+        "Oct": 3.91,
+        "Nov": 3.32,
+        "Dec": 3.1
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Nang Rong",
+      "admin1_code": "28",
+      "location": [
+        14.6377,
+        102.79138
+      ],
+      "monthly": {
+        "Jan": 4.76,
+        "Feb": 4.72,
+        "Mar": 4.51,
+        "Apr": 4.48,
+        "May": 4.08,
+        "Jun": 3.87,
+        "Jul": 3.66,
+        "Aug": 3.82,
+        "Sep": 3.7,
+        "Oct": 3.94,
+        "Nov": 4.39,
+        "Dec": 4.68
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Nan",
+      "admin1_code": "04",
+      "location": [
+        18.78378,
+        100.77899
+      ],
+      "monthly": {
+        "Jan": 4.66,
+        "Feb": 4.86,
+        "Mar": 4.61,
+        "Apr": 4.57,
+        "May": 4.12,
+        "Jun": 3.53,
+        "Jul": 3.18,
+        "Aug": 3.23,
+        "Sep": 3.72,
+        "Oct": 4.17,
+        "Nov": 4.69,
+        "Dec": 4.58
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Nam Som",
+      "admin1_code": "76",
+      "location": [
+        17.77036,
+        102.18947
+      ],
+      "monthly": {
+        "Jan": 4.64,
+        "Feb": 4.73,
+        "Mar": 4.43,
+        "Apr": 4.44,
+        "May": 3.98,
+        "Jun": 3.54,
+        "Jul": 3.29,
+        "Aug": 3.29,
+        "Sep": 3.62,
+        "Oct": 4.09,
+        "Nov": 4.64,
+        "Dec": 4.65
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Nakhon Sawan",
+      "admin1_code": "16",
+      "location": [
+        15.70472,
+        100.13717
+      ],
+      "monthly": {
+        "Jan": 4.63,
+        "Feb": 4.75,
+        "Mar": 4.66,
+        "Apr": 4.72,
+        "May": 4.22,
+        "Jun": 3.92,
+        "Jul": 3.59,
+        "Aug": 3.7,
+        "Sep": 3.84,
+        "Oct": 4.15,
+        "Nov": 4.5,
+        "Dec": 4.63
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Nakhon Ratchasima",
+      "admin1_code": "27",
+      "location": [
+        14.97066,
+        102.10196
+      ],
+      "monthly": {
+        "Jan": 4.77,
+        "Feb": 4.75,
+        "Mar": 4.6,
+        "Apr": 4.54,
+        "May": 4.09,
+        "Jun": 3.91,
+        "Jul": 3.64,
+        "Aug": 3.75,
+        "Sep": 3.71,
+        "Oct": 3.95,
+        "Nov": 4.47,
+        "Dec": 4.73
+      },
+      "average": 4.24
+    },
+    {
+      "name": "Nakhon Phanom",
+      "admin1_code": "73",
+      "location": [
+        17.41081,
+        104.77856
+      ],
+      "monthly": {
+        "Jan": 4.8,
+        "Feb": 4.76,
+        "Mar": 4.31,
+        "Apr": 4.34,
+        "May": 3.94,
+        "Jun": 3.44,
+        "Jul": 3.13,
+        "Aug": 3.18,
+        "Sep": 3.59,
+        "Oct": 4.16,
+        "Nov": 4.64,
+        "Dec": 4.78
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Nakhon Pathom",
+      "admin1_code": "53",
+      "location": [
+        13.8196,
+        100.04427
+      ],
+      "monthly": {
+        "Jan": 4.49,
+        "Feb": 4.75,
+        "Mar": 4.76,
+        "Apr": 4.73,
+        "May": 4.15,
+        "Jun": 3.79,
+        "Jul": 3.55,
+        "Aug": 3.77,
+        "Sep": 3.81,
+        "Oct": 3.61,
+        "Nov": 4.05,
+        "Dec": 4.41
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Nakhon Nayok",
+      "admin1_code": "43",
+      "location": [
+        14.20463,
+        101.21295
+      ],
+      "monthly": {
+        "Jan": 4.61,
+        "Feb": 4.58,
+        "Mar": 4.47,
+        "Apr": 4.42,
+        "May": 3.96,
+        "Jun": 3.63,
+        "Jul": 3.36,
+        "Aug": 3.5,
+        "Sep": 3.55,
+        "Oct": 3.92,
+        "Nov": 4.35,
+        "Dec": 4.64
+      },
+      "average": 4.08
+    },
+    {
+      "name": "Nakhon Luang",
+      "admin1_code": "36",
+      "location": [
+        14.46335,
+        100.60876
+      ],
+      "monthly": {
+        "Jan": 4.53,
+        "Feb": 4.6,
+        "Mar": 4.58,
+        "Apr": 4.55,
+        "May": 4.12,
+        "Jun": 3.87,
+        "Jul": 3.61,
+        "Aug": 3.68,
+        "Sep": 3.73,
+        "Oct": 3.94,
+        "Nov": 4.37,
+        "Dec": 4.58
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Mukdahan",
+      "admin1_code": "78",
+      "location": [
+        16.54531,
+        104.72351
+      ],
+      "monthly": {
+        "Jan": 4.87,
+        "Feb": 4.86,
+        "Mar": 4.42,
+        "Apr": 4.44,
+        "May": 4,
+        "Jun": 3.67,
+        "Jul": 3.35,
+        "Aug": 3.41,
+        "Sep": 3.68,
+        "Oct": 4.22,
+        "Nov": 4.5,
+        "Dec": 4.72
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Makkasan",
+      "admin1_code": "40",
+      "location": [
+        13.7523,
+        100.54335
+      ],
+      "monthly": {
+        "Jan": 4.32,
+        "Feb": 4.49,
+        "Mar": 4.52,
+        "Apr": 4.4,
+        "May": 3.84,
+        "Jun": 3.61,
+        "Jul": 3.36,
+        "Aug": 3.6,
+        "Sep": 3.58,
+        "Oct": 3.62,
+        "Nov": 4.03,
+        "Dec": 4.34
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Maha Sarakham",
+      "admin1_code": "24",
+      "location": [
+        16.18483,
+        103.30067
+      ],
+      "monthly": {
+        "Jan": 4.88,
+        "Feb": 4.83,
+        "Mar": 4.51,
+        "Apr": 4.57,
+        "May": 4.15,
+        "Jun": 3.83,
+        "Jul": 3.53,
+        "Aug": 3.63,
+        "Sep": 3.62,
+        "Oct": 4.31,
+        "Nov": 4.63,
+        "Dec": 4.78
+      },
+      "average": 4.27
+    },
+    {
+      "name": "Lop Buri",
+      "admin1_code": "34",
+      "location": [
+        14.79808,
+        100.65397
+      ],
+      "monthly": {
+        "Jan": 4.57,
+        "Feb": 4.7,
+        "Mar": 4.65,
+        "Apr": 4.61,
+        "May": 4.17,
+        "Jun": 3.92,
+        "Jul": 3.62,
+        "Aug": 3.76,
+        "Sep": 3.8,
+        "Oct": 3.95,
+        "Nov": 4.36,
+        "Dec": 4.61
+      },
+      "average": 4.23
+    },
+    {
+      "name": "Lom Sak",
+      "admin1_code": "14",
+      "location": [
+        16.77983,
+        101.24225
+      ],
+      "monthly": {
+        "Jan": 4.74,
+        "Feb": 4.8,
+        "Mar": 4.62,
+        "Apr": 4.48,
+        "May": 3.9,
+        "Jun": 3.53,
+        "Jul": 3.16,
+        "Aug": 3.22,
+        "Sep": 3.5,
+        "Oct": 4.05,
+        "Nov": 4.56,
+        "Dec": 4.71
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Loei",
+      "admin1_code": "18",
+      "location": [
+        17.49052,
+        101.72749
+      ],
+      "monthly": {
+        "Jan": 4.59,
+        "Feb": 4.73,
+        "Mar": 4.48,
+        "Apr": 4.42,
+        "May": 3.94,
+        "Jun": 3.58,
+        "Jul": 3.3,
+        "Aug": 3.32,
+        "Sep": 3.57,
+        "Oct": 3.84,
+        "Nov": 4.47,
+        "Dec": 4.57
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Laem Sing",
+      "admin1_code": "48",
+      "location": [
+        12.48164,
+        102.07375
+      ],
+      "monthly": {
+        "Jan": 4.59,
+        "Feb": 4.65,
+        "Mar": 4.57,
+        "Apr": 4.42,
+        "May": 3.55,
+        "Jun": 3.24,
+        "Jul": 3.16,
+        "Aug": 3.4,
+        "Sep": 3.26,
+        "Oct": 3.81,
+        "Nov": 4.33,
+        "Dec": 4.63
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Laem Ngop",
+      "admin1_code": "49",
+      "location": [
+        12.17129,
+        102.39472
+      ],
+      "monthly": {
+        "Jan": 4.6,
+        "Feb": 4.71,
+        "Mar": 4.65,
+        "Apr": 4.41,
+        "May": 3.56,
+        "Jun": 3.11,
+        "Jul": 3.04,
+        "Aug": 3.27,
+        "Sep": 3.22,
+        "Oct": 3.82,
+        "Nov": 4.41,
+        "Dec": 4.7
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Kut Chap",
+      "admin1_code": "76",
+      "location": [
+        17.4257,
+        102.56692
+      ],
+      "monthly": {
+        "Jan": 4.75,
+        "Feb": 4.77,
+        "Mar": 4.49,
+        "Apr": 4.53,
+        "May": 4.06,
+        "Jun": 3.62,
+        "Jul": 3.36,
+        "Aug": 3.34,
+        "Sep": 3.59,
+        "Oct": 4.21,
+        "Nov": 4.67,
+        "Dec": 4.77
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Kuchinarai",
+      "admin1_code": "23",
+      "location": [
+        16.541,
+        104.05004
+      ],
+      "monthly": {
+        "Jan": 4.89,
+        "Feb": 4.87,
+        "Mar": 4.54,
+        "Apr": 4.52,
+        "May": 4.09,
+        "Jun": 3.7,
+        "Jul": 3.35,
+        "Aug": 3.4,
+        "Sep": 3.55,
+        "Oct": 4.23,
+        "Nov": 4.66,
+        "Dec": 4.84
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Bangkok",
+      "admin1_code": "40",
+      "location": [
+        13.75398,
+        100.50144
+      ],
+      "monthly": {
+        "Jan": 4.3,
+        "Feb": 4.49,
+        "Mar": 4.52,
+        "Apr": 4.4,
+        "May": 3.85,
+        "Jun": 3.62,
+        "Jul": 3.39,
+        "Aug": 3.62,
+        "Sep": 3.6,
+        "Oct": 3.57,
+        "Nov": 3.95,
+        "Dec": 4.3
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Krathum Baen",
+      "admin1_code": "55",
+      "location": [
+        13.6533,
+        100.25972
+      ],
+      "monthly": {
+        "Jan": 4.37,
+        "Feb": 4.66,
+        "Mar": 4.7,
+        "Apr": 4.64,
+        "May": 4.08,
+        "Jun": 3.77,
+        "Jul": 3.52,
+        "Aug": 3.76,
+        "Sep": 3.75,
+        "Oct": 3.44,
+        "Nov": 3.84,
+        "Dec": 4.24
+      },
+      "average": 4.06
+    },
+    {
+      "name": "Klaeng",
+      "admin1_code": "47",
+      "location": [
+        12.78,
+        101.64912
+      ],
+      "monthly": {
+        "Jan": 4.58,
+        "Feb": 4.6,
+        "Mar": 4.49,
+        "Apr": 4.38,
+        "May": 3.58,
+        "Jun": 3.31,
+        "Jul": 3.15,
+        "Aug": 3.34,
+        "Sep": 3.23,
+        "Oct": 3.8,
+        "Nov": 4.33,
+        "Dec": 4.64
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Khon Kaen",
+      "admin1_code": "22",
+      "location": [
+        16.44671,
+        102.833
+      ],
+      "monthly": {
+        "Jan": 4.83,
+        "Feb": 4.8,
+        "Mar": 4.57,
+        "Apr": 4.59,
+        "May": 4.13,
+        "Jun": 3.89,
+        "Jul": 3.51,
+        "Aug": 3.57,
+        "Sep": 3.62,
+        "Oct": 4.23,
+        "Nov": 4.62,
+        "Dec": 4.76
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Khon Buri",
+      "admin1_code": "27",
+      "location": [
+        14.52541,
+        102.24591
+      ],
+      "monthly": {
+        "Jan": 4.66,
+        "Feb": 4.68,
+        "Mar": 4.52,
+        "Apr": 4.4,
+        "May": 3.95,
+        "Jun": 3.86,
+        "Jul": 3.63,
+        "Aug": 3.71,
+        "Sep": 3.61,
+        "Oct": 3.7,
+        "Nov": 4.11,
+        "Dec": 4.52
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Khlong Yai",
+      "admin1_code": "49",
+      "location": [
+        11.77653,
+        102.88728
+      ],
+      "monthly": {
+        "Jan": 4.53,
+        "Feb": 4.56,
+        "Mar": 4.47,
+        "Apr": 4.33,
+        "May": 3.62,
+        "Jun": 3.05,
+        "Jul": 2.79,
+        "Aug": 2.99,
+        "Sep": 3.03,
+        "Oct": 3.63,
+        "Nov": 4.1,
+        "Dec": 4.51
+      },
+      "average": 3.8
+    },
+    {
+      "name": "Khlong San",
+      "admin1_code": "40",
+      "location": [
+        13.73008,
+        100.50874
+      ],
+      "monthly": {
+        "Jan": 4.32,
+        "Feb": 4.51,
+        "Mar": 4.54,
+        "Apr": 4.42,
+        "May": 3.87,
+        "Jun": 3.65,
+        "Jul": 3.4,
+        "Aug": 3.62,
+        "Sep": 3.59,
+        "Oct": 3.58,
+        "Nov": 3.97,
+        "Dec": 4.31
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Khlong Luang",
+      "admin1_code": "39",
+      "location": [
+        14.06467,
+        100.64578
+      ],
+      "monthly": {
+        "Jan": 4.46,
+        "Feb": 4.49,
+        "Mar": 4.42,
+        "Apr": 4.36,
+        "May": 3.93,
+        "Jun": 3.68,
+        "Jul": 3.47,
+        "Aug": 3.64,
+        "Sep": 3.71,
+        "Oct": 3.87,
+        "Nov": 4.3,
+        "Dec": 4.54
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Khao Wong",
+      "admin1_code": "23",
+      "location": [
+        16.70008,
+        104.09019
+      ],
+      "monthly": {
+        "Jan": 4.86,
+        "Feb": 4.85,
+        "Mar": 4.49,
+        "Apr": 4.47,
+        "May": 4,
+        "Jun": 3.63,
+        "Jul": 3.27,
+        "Aug": 3.33,
+        "Sep": 3.53,
+        "Oct": 4.24,
+        "Nov": 4.65,
+        "Dec": 4.82
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Khao Saming",
+      "admin1_code": "49",
+      "location": [
+        12.35369,
+        102.43425
+      ],
+      "monthly": {
+        "Jan": 4.49,
+        "Feb": 4.38,
+        "Mar": 4.17,
+        "Apr": 4.02,
+        "May": 3.37,
+        "Jun": 3.04,
+        "Jul": 2.98,
+        "Aug": 3.18,
+        "Sep": 3.11,
+        "Oct": 3.77,
+        "Nov": 4.37,
+        "Dec": 4.71
+      },
+      "average": 3.8
+    },
+    {
+      "name": "Kaset Wisai",
+      "admin1_code": "25",
+      "location": [
+        15.65558,
+        103.58361
+      ],
+      "monthly": {
+        "Jan": 4.93,
+        "Feb": 4.86,
+        "Mar": 4.54,
+        "Apr": 4.51,
+        "May": 4.13,
+        "Jun": 3.95,
+        "Jul": 3.67,
+        "Aug": 3.71,
+        "Sep": 3.7,
+        "Oct": 4.28,
+        "Nov": 4.67,
+        "Dec": 4.86
+      },
+      "average": 4.32
+    },
+    {
+      "name": "Kaset Sombun",
+      "admin1_code": "26",
+      "location": [
+        16.28053,
+        101.95422
+      ],
+      "monthly": {
+        "Jan": 4.74,
+        "Feb": 4.73,
+        "Mar": 4.52,
+        "Apr": 4.43,
+        "May": 3.99,
+        "Jun": 3.74,
+        "Jul": 3.32,
+        "Aug": 3.4,
+        "Sep": 3.55,
+        "Oct": 3.93,
+        "Nov": 4.54,
+        "Dec": 4.8
+      },
+      "average": 4.14
+    },
+    {
+      "name": "Kantharalak",
+      "admin1_code": "30",
+      "location": [
+        14.64056,
+        104.64992
+      ],
+      "monthly": {
+        "Jan": 4.95,
+        "Feb": 4.92,
+        "Mar": 4.57,
+        "Apr": 4.47,
+        "May": 3.94,
+        "Jun": 3.65,
+        "Jul": 3.45,
+        "Aug": 3.53,
+        "Sep": 3.52,
+        "Oct": 4.07,
+        "Nov": 4.49,
+        "Dec": 4.76
+      },
+      "average": 4.19
+    },
+    {
+      "name": "Kamalasai",
+      "admin1_code": "23",
+      "location": [
+        16.33839,
+        103.57564
+      ],
+      "monthly": {
+        "Jan": 4.88,
+        "Feb": 4.88,
+        "Mar": 4.59,
+        "Apr": 4.63,
+        "May": 4.14,
+        "Jun": 3.85,
+        "Jul": 3.56,
+        "Aug": 3.6,
+        "Sep": 3.61,
+        "Oct": 4.29,
+        "Nov": 4.61,
+        "Dec": 4.8
+      },
+      "average": 4.29
+    },
+    {
+      "name": "Kalasin",
+      "admin1_code": "23",
+      "location": [
+        16.43281,
+        103.50658
+      ],
+      "monthly": {
+        "Jan": 4.9,
+        "Feb": 4.88,
+        "Mar": 4.59,
+        "Apr": 4.61,
+        "May": 4.14,
+        "Jun": 3.82,
+        "Jul": 3.49,
+        "Aug": 3.55,
+        "Sep": 3.58,
+        "Oct": 4.26,
+        "Nov": 4.65,
+        "Dec": 4.82
+      },
+      "average": 4.27
+    },
+    {
+      "name": "Kaeng Khoi",
+      "admin1_code": "37",
+      "location": [
+        14.58617,
+        100.99758
+      ],
+      "monthly": {
+        "Jan": 4.52,
+        "Feb": 4.53,
+        "Mar": 4.49,
+        "Apr": 4.42,
+        "May": 3.94,
+        "Jun": 3.72,
+        "Jul": 3.46,
+        "Aug": 3.63,
+        "Sep": 3.6,
+        "Oct": 3.86,
+        "Nov": 4.3,
+        "Dec": 4.57
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Kaeng Khro",
+      "admin1_code": "26",
+      "location": [
+        16.10864,
+        102.25808
+      ],
+      "monthly": {
+        "Jan": 4.74,
+        "Feb": 4.72,
+        "Mar": 4.54,
+        "Apr": 4.53,
+        "May": 4.11,
+        "Jun": 3.85,
+        "Jul": 3.48,
+        "Aug": 3.53,
+        "Sep": 3.62,
+        "Oct": 3.95,
+        "Nov": 4.47,
+        "Dec": 4.73
+      },
+      "average": 4.19
+    },
+    {
+      "name": "Kabin Buri",
+      "admin1_code": "74",
+      "location": [
+        13.95133,
+        101.71739
+      ],
+      "monthly": {
+        "Jan": 4.7,
+        "Feb": 4.64,
+        "Mar": 4.48,
+        "Apr": 4.48,
+        "May": 3.91,
+        "Jun": 3.56,
+        "Jul": 3.29,
+        "Aug": 3.48,
+        "Sep": 3.48,
+        "Oct": 3.99,
+        "Nov": 4.45,
+        "Dec": 4.71
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Hat Yai",
+      "admin1_code": "68",
+      "location": [
+        7.00836,
+        100.47668
+      ],
+      "monthly": {
+        "Jan": 3.95,
+        "Feb": 4.79,
+        "Mar": 4.87,
+        "Apr": 4.52,
+        "May": 3.81,
+        "Jun": 3.64,
+        "Jul": 3.62,
+        "Aug": 3.81,
+        "Sep": 3.79,
+        "Oct": 3.74,
+        "Nov": 3.31,
+        "Dec": 3.2
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Dusit",
+      "admin1_code": "40",
+      "location": [
+        13.77706,
+        100.51958
+      ],
+      "monthly": {
+        "Jan": 4.29,
+        "Feb": 4.47,
+        "Mar": 4.51,
+        "Apr": 4.4,
+        "May": 3.83,
+        "Jun": 3.6,
+        "Jul": 3.38,
+        "Aug": 3.62,
+        "Sep": 3.62,
+        "Oct": 3.58,
+        "Nov": 4,
+        "Dec": 4.32
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Det Udom",
+      "admin1_code": "75",
+      "location": [
+        14.90598,
+        105.07836
+      ],
+      "monthly": {
+        "Jan": 5.01,
+        "Feb": 4.98,
+        "Mar": 4.6,
+        "Apr": 4.5,
+        "May": 3.98,
+        "Jun": 3.65,
+        "Jul": 3.44,
+        "Aug": 3.52,
+        "Sep": 3.52,
+        "Oct": 4.06,
+        "Nov": 4.55,
+        "Dec": 4.83
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Den Chai",
+      "admin1_code": "07",
+      "location": [
+        17.98372,
+        100.05217
+      ],
+      "monthly": {
+        "Jan": 4.61,
+        "Feb": 4.84,
+        "Mar": 4.73,
+        "Apr": 4.67,
+        "May": 4.09,
+        "Jun": 3.56,
+        "Jul": 3.23,
+        "Aug": 3.32,
+        "Sep": 3.58,
+        "Oct": 3.84,
+        "Nov": 4.45,
+        "Dec": 4.53
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Dan Khun Thot",
+      "admin1_code": "27",
+      "location": [
+        15.2085,
+        101.77138
+      ],
+      "monthly": {
+        "Jan": 4.79,
+        "Feb": 4.76,
+        "Mar": 4.62,
+        "Apr": 4.55,
+        "May": 4.14,
+        "Jun": 3.94,
+        "Jul": 3.67,
+        "Aug": 3.81,
+        "Sep": 3.84,
+        "Oct": 4,
+        "Nov": 4.45,
+        "Dec": 4.77
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Chum Phae",
+      "admin1_code": "22",
+      "location": [
+        16.5443,
+        102.09924
+      ],
+      "monthly": {
+        "Jan": 4.7,
+        "Feb": 4.75,
+        "Mar": 4.55,
+        "Apr": 4.44,
+        "May": 4.05,
+        "Jun": 3.8,
+        "Jul": 3.44,
+        "Aug": 3.51,
+        "Sep": 3.62,
+        "Oct": 3.98,
+        "Nov": 4.46,
+        "Dec": 4.68
+      },
+      "average": 4.17
+    },
+    {
+      "name": "Chong Nonsi",
+      "admin1_code": "40",
+      "location": [
+        13.69311,
+        100.54869
+      ],
+      "monthly": {
+        "Jan": 4.33,
+        "Feb": 4.51,
+        "Mar": 4.51,
+        "Apr": 4.42,
+        "May": 3.89,
+        "Jun": 3.7,
+        "Jul": 3.42,
+        "Aug": 3.67,
+        "Sep": 3.6,
+        "Oct": 3.63,
+        "Nov": 4.01,
+        "Dec": 4.34
+      },
+      "average": 4
+    },
+    {
+      "name": "Chon Daen",
+      "admin1_code": "14",
+      "location": [
+        16.18953,
+        100.85958
+      ],
+      "monthly": {
+        "Jan": 4.58,
+        "Feb": 4.66,
+        "Mar": 4.52,
+        "Apr": 4.53,
+        "May": 4.02,
+        "Jun": 3.69,
+        "Jul": 3.35,
+        "Aug": 3.39,
+        "Sep": 3.47,
+        "Oct": 4,
+        "Nov": 4.57,
+        "Dec": 4.68
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Chon Buri",
+      "admin1_code": "46",
+      "location": [
+        13.3622,
+        100.98345
+      ],
+      "monthly": {
+        "Jan": 4.48,
+        "Feb": 4.45,
+        "Mar": 4.32,
+        "Apr": 4.16,
+        "May": 3.63,
+        "Jun": 3.65,
+        "Jul": 3.47,
+        "Aug": 3.78,
+        "Sep": 3.6,
+        "Oct": 3.82,
+        "Nov": 4.25,
+        "Dec": 4.55
+      },
+      "average": 4.01
+    },
+    {
+      "name": "Chok Chai",
+      "admin1_code": "27",
+      "location": [
+        14.72844,
+        102.16524
+      ],
+      "monthly": {
+        "Jan": 4.75,
+        "Feb": 4.75,
+        "Mar": 4.6,
+        "Apr": 4.5,
+        "May": 4.06,
+        "Jun": 3.88,
+        "Jul": 3.63,
+        "Aug": 3.77,
+        "Sep": 3.75,
+        "Oct": 3.85,
+        "Nov": 4.29,
+        "Dec": 4.62
+      },
+      "average": 4.2
+    },
+    {
+      "name": "Chanthaburi",
+      "admin1_code": "48",
+      "location": [
+        12.60961,
+        102.10447
+      ],
+      "monthly": {
+        "Jan": 4.54,
+        "Feb": 4.45,
+        "Mar": 4.27,
+        "Apr": 4.2,
+        "May": 3.45,
+        "Jun": 3.15,
+        "Jul": 3.03,
+        "Aug": 3.22,
+        "Sep": 3.11,
+        "Oct": 3.72,
+        "Nov": 4.28,
+        "Dec": 4.64
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Chaiyaphum",
+      "admin1_code": "26",
+      "location": [
+        15.81047,
+        102.02881
+      ],
+      "monthly": {
+        "Jan": 4.84,
+        "Feb": 4.84,
+        "Mar": 4.7,
+        "Apr": 4.64,
+        "May": 4.22,
+        "Jun": 3.94,
+        "Jul": 3.58,
+        "Aug": 3.67,
+        "Sep": 3.81,
+        "Oct": 4.21,
+        "Nov": 4.66,
+        "Dec": 4.85
+      },
+      "average": 4.33
+    },
+    {
+      "name": "Chai Nat",
+      "admin1_code": "32",
+      "location": [
+        15.18636,
+        100.12353
+      ],
+      "monthly": {
+        "Jan": 4.6,
+        "Feb": 4.76,
+        "Mar": 4.72,
+        "Apr": 4.79,
+        "May": 4.32,
+        "Jun": 3.99,
+        "Jul": 3.69,
+        "Aug": 3.77,
+        "Sep": 3.89,
+        "Oct": 3.99,
+        "Nov": 4.39,
+        "Dec": 4.58
+      },
+      "average": 4.29
+    },
+    {
+      "name": "Chai Badan",
+      "admin1_code": "34",
+      "location": [
+        15.2,
+        101.13333
+      ],
+      "monthly": {
+        "Jan": 4.71,
+        "Feb": 4.77,
+        "Mar": 4.65,
+        "Apr": 4.55,
+        "May": 4.09,
+        "Jun": 3.83,
+        "Jul": 3.53,
+        "Aug": 3.68,
+        "Sep": 3.77,
+        "Oct": 4.07,
+        "Nov": 4.45,
+        "Dec": 4.74
+      },
+      "average": 4.24
+    },
+    {
+      "name": "Chachoengsao",
+      "admin1_code": "44",
+      "location": [
+        13.6882,
+        101.07156
+      ],
+      "monthly": {
+        "Jan": 4.6,
+        "Feb": 4.64,
+        "Mar": 4.52,
+        "Apr": 4.43,
+        "May": 3.85,
+        "Jun": 3.64,
+        "Jul": 3.41,
+        "Aug": 3.67,
+        "Sep": 3.64,
+        "Oct": 3.99,
+        "Nov": 4.35,
+        "Dec": 4.65
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Buri Ram",
+      "admin1_code": "28",
+      "location": [
+        14.99433,
+        103.10392
+      ],
+      "monthly": {
+        "Jan": 4.79,
+        "Feb": 4.74,
+        "Mar": 4.52,
+        "Apr": 4.49,
+        "May": 4.12,
+        "Jun": 3.93,
+        "Jul": 3.69,
+        "Aug": 3.79,
+        "Sep": 3.67,
+        "Oct": 4.09,
+        "Nov": 4.52,
+        "Dec": 4.72
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Bua Yai",
+      "admin1_code": "27",
+      "location": [
+        15.58552,
+        102.42587
+      ],
+      "monthly": {
+        "Jan": 4.76,
+        "Feb": 4.75,
+        "Mar": 4.63,
+        "Apr": 4.63,
+        "May": 4.2,
+        "Jun": 3.96,
+        "Jul": 3.67,
+        "Aug": 3.77,
+        "Sep": 3.77,
+        "Oct": 4.13,
+        "Nov": 4.53,
+        "Dec": 4.74
+      },
+      "average": 4.3
+    },
+    {
+      "name": "Betong",
+      "admin1_code": "70",
+      "location": [
+        5.77434,
+        101.07231
+      ],
+      "monthly": {
+        "Jan": 3.7,
+        "Feb": 4.4,
+        "Mar": 4.5,
+        "Apr": 4.3,
+        "May": 3.85,
+        "Jun": 3.69,
+        "Jul": 3.66,
+        "Aug": 3.75,
+        "Sep": 3.76,
+        "Oct": 3.57,
+        "Nov": 3.34,
+        "Dec": 3.24
+      },
+      "average": 3.81
+    },
+    {
+      "name": "Ban Tha Kham",
+      "admin1_code": "40",
+      "location": [
+        13.6375,
+        100.44128
+      ],
+      "monthly": {
+        "Jan": 4.4,
+        "Feb": 4.67,
+        "Mar": 4.7,
+        "Apr": 4.61,
+        "May": 4.09,
+        "Jun": 3.85,
+        "Jul": 3.56,
+        "Aug": 3.83,
+        "Sep": 3.76,
+        "Oct": 3.55,
+        "Nov": 3.89,
+        "Dec": 4.28
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Ban Selaphum",
+      "admin1_code": "25",
+      "location": [
+        16.01667,
+        103.95
+      ],
+      "monthly": {
+        "Jan": 4.94,
+        "Feb": 4.93,
+        "Mar": 4.61,
+        "Apr": 4.61,
+        "May": 4.2,
+        "Jun": 3.87,
+        "Jul": 3.58,
+        "Aug": 3.59,
+        "Sep": 3.67,
+        "Oct": 4.28,
+        "Nov": 4.61,
+        "Dec": 4.84
+      },
+      "average": 4.31
+    },
+    {
+      "name": "Ban Sang",
+      "admin1_code": "74",
+      "location": [
+        13.99551,
+        101.22084
+      ],
+      "monthly": {
+        "Jan": 4.72,
+        "Feb": 4.76,
+        "Mar": 4.59,
+        "Apr": 4.51,
+        "May": 4.01,
+        "Jun": 3.65,
+        "Jul": 3.35,
+        "Aug": 3.54,
+        "Sep": 3.66,
+        "Oct": 4.13,
+        "Nov": 4.49,
+        "Dec": 4.74
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Ban Samae Dam",
+      "admin1_code": "40",
+      "location": [
+        13.58956,
+        100.38734
+      ],
+      "monthly": {
+        "Jan": 4.46,
+        "Feb": 4.74,
+        "Mar": 4.75,
+        "Apr": 4.68,
+        "May": 4.08,
+        "Jun": 3.81,
+        "Jul": 3.53,
+        "Aug": 3.83,
+        "Sep": 3.81,
+        "Oct": 3.66,
+        "Nov": 3.99,
+        "Dec": 4.35
+      },
+      "average": 4.14
+    },
+    {
+      "name": "Ban Phra",
+      "admin1_code": "74",
+      "location": [
+        14.09461,
+        101.389
+      ],
+      "monthly": {
+        "Jan": 4.7,
+        "Feb": 4.67,
+        "Mar": 4.53,
+        "Apr": 4.46,
+        "May": 3.96,
+        "Jun": 3.59,
+        "Jul": 3.32,
+        "Aug": 3.49,
+        "Sep": 3.57,
+        "Oct": 4.02,
+        "Nov": 4.47,
+        "Dec": 4.75
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Ban Phe",
+      "admin1_code": "47",
+      "location": [
+        12.62824,
+        101.43757
+      ],
+      "monthly": {
+        "Jan": 4.61,
+        "Feb": 4.71,
+        "Mar": 4.63,
+        "Apr": 4.55,
+        "May": 3.71,
+        "Jun": 3.45,
+        "Jul": 3.31,
+        "Aug": 3.61,
+        "Sep": 3.44,
+        "Oct": 3.92,
+        "Nov": 4.42,
+        "Dec": 4.66
+      },
+      "average": 4.08
+    },
+    {
+      "name": "Pattaya",
+      "admin1_code": "46",
+      "location": [
+        12.93333,
+        100.88333
+      ],
+      "monthly": {
+        "Jan": 4.39,
+        "Feb": 4.5,
+        "Mar": 4.52,
+        "Apr": 4.31,
+        "May": 3.67,
+        "Jun": 3.6,
+        "Jul": 3.46,
+        "Aug": 3.73,
+        "Sep": 3.51,
+        "Oct": 3.58,
+        "Nov": 4.04,
+        "Dec": 4.43
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Ban Phan Don",
+      "admin1_code": "76",
+      "location": [
+        17.14272,
+        102.97261
+      ],
+      "monthly": {
+        "Jan": 4.77,
+        "Feb": 4.75,
+        "Mar": 4.47,
+        "Apr": 4.49,
+        "May": 4.04,
+        "Jun": 3.63,
+        "Jul": 3.33,
+        "Aug": 3.37,
+        "Sep": 3.57,
+        "Oct": 4.22,
+        "Nov": 4.71,
+        "Dec": 4.79
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Ban Phai",
+      "admin1_code": "22",
+      "location": [
+        16.05997,
+        102.73097
+      ],
+      "monthly": {
+        "Jan": 4.82,
+        "Feb": 4.79,
+        "Mar": 4.59,
+        "Apr": 4.59,
+        "May": 4.2,
+        "Jun": 3.9,
+        "Jul": 3.6,
+        "Aug": 3.68,
+        "Sep": 3.66,
+        "Oct": 4.11,
+        "Nov": 4.57,
+        "Dec": 4.78
+      },
+      "average": 4.27
+    },
+    {
+      "name": "Ban Phaeo",
+      "admin1_code": "55",
+      "location": [
+        13.59072,
+        100.10748
+      ],
+      "monthly": {
+        "Jan": 4.47,
+        "Feb": 4.8,
+        "Mar": 4.81,
+        "Apr": 4.75,
+        "May": 4.15,
+        "Jun": 3.74,
+        "Jul": 3.51,
+        "Aug": 3.73,
+        "Sep": 3.77,
+        "Oct": 3.5,
+        "Nov": 3.91,
+        "Dec": 4.32
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Thambon Na Mueang",
+      "admin1_code": "74",
+      "location": [
+        14.05603,
+        101.37218
+      ],
+      "monthly": {
+        "Jan": 4.72,
+        "Feb": 4.7,
+        "Mar": 4.54,
+        "Apr": 4.48,
+        "May": 3.99,
+        "Jun": 3.63,
+        "Jul": 3.34,
+        "Aug": 3.53,
+        "Sep": 3.61,
+        "Oct": 4.08,
+        "Nov": 4.49,
+        "Dec": 4.77
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Na Di",
+      "admin1_code": "74",
+      "location": [
+        14.11565,
+        101.78211
+      ],
+      "monthly": {
+        "Jan": 4.73,
+        "Feb": 4.68,
+        "Mar": 4.53,
+        "Apr": 4.51,
+        "May": 3.99,
+        "Jun": 3.59,
+        "Jul": 3.3,
+        "Aug": 3.42,
+        "Sep": 3.4,
+        "Oct": 3.92,
+        "Nov": 4.43,
+        "Dec": 4.74
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Ban Mo",
+      "admin1_code": "37",
+      "location": [
+        14.61569,
+        100.72648
+      ],
+      "monthly": {
+        "Jan": 4.53,
+        "Feb": 4.63,
+        "Mar": 4.61,
+        "Apr": 4.58,
+        "May": 4.1,
+        "Jun": 3.85,
+        "Jul": 3.58,
+        "Aug": 3.69,
+        "Sep": 3.75,
+        "Oct": 3.9,
+        "Nov": 4.34,
+        "Dec": 4.58
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Ban Lam Luk Ka",
+      "admin1_code": "39",
+      "location": [
+        13.97738,
+        100.77776
+      ],
+      "monthly": {
+        "Jan": 4.59,
+        "Feb": 4.63,
+        "Mar": 4.52,
+        "Apr": 4.42,
+        "May": 3.91,
+        "Jun": 3.6,
+        "Jul": 3.35,
+        "Aug": 3.55,
+        "Sep": 3.66,
+        "Oct": 4.01,
+        "Nov": 4.41,
+        "Dec": 4.65
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Ban Khlong Prawet",
+      "admin1_code": "40",
+      "location": [
+        13.71904,
+        100.68146
+      ],
+      "monthly": {
+        "Jan": 4.47,
+        "Feb": 4.57,
+        "Mar": 4.53,
+        "Apr": 4.42,
+        "May": 3.89,
+        "Jun": 3.65,
+        "Jul": 3.39,
+        "Aug": 3.61,
+        "Sep": 3.62,
+        "Oct": 3.86,
+        "Nov": 4.25,
+        "Dec": 4.57
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Ban Khlong Bang Ramat",
+      "admin1_code": "40",
+      "location": [
+        13.76667,
+        100.43333
+      ],
+      "monthly": {
+        "Jan": 4.29,
+        "Feb": 4.51,
+        "Mar": 4.55,
+        "Apr": 4.46,
+        "May": 3.88,
+        "Jun": 3.65,
+        "Jul": 3.4,
+        "Aug": 3.64,
+        "Sep": 3.64,
+        "Oct": 3.51,
+        "Nov": 3.91,
+        "Dec": 4.27
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Bang Rakam",
+      "admin1_code": "12",
+      "location": [
+        16.75847,
+        100.11742
+      ],
+      "monthly": {
+        "Jan": 4.68,
+        "Feb": 4.88,
+        "Mar": 4.78,
+        "Apr": 4.82,
+        "May": 4.3,
+        "Jun": 3.82,
+        "Jul": 3.44,
+        "Aug": 3.52,
+        "Sep": 3.77,
+        "Oct": 4.1,
+        "Nov": 4.56,
+        "Dec": 4.6
+      },
+      "average": 4.27
+    },
+    {
+      "name": "Bang Rak",
+      "admin1_code": "40",
+      "location": [
+        13.73058,
+        100.52388
+      ],
+      "monthly": {
+        "Jan": 4.32,
+        "Feb": 4.51,
+        "Mar": 4.53,
+        "Apr": 4.42,
+        "May": 3.87,
+        "Jun": 3.65,
+        "Jul": 3.4,
+        "Aug": 3.62,
+        "Sep": 3.59,
+        "Oct": 3.6,
+        "Nov": 3.99,
+        "Dec": 4.32
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Bang Racham",
+      "admin1_code": "33",
+      "location": [
+        14.892,
+        100.31728
+      ],
+      "monthly": {
+        "Jan": 4.59,
+        "Feb": 4.77,
+        "Mar": 4.75,
+        "Apr": 4.74,
+        "May": 4.29,
+        "Jun": 3.98,
+        "Jul": 3.7,
+        "Aug": 3.79,
+        "Sep": 3.87,
+        "Oct": 4.02,
+        "Nov": 4.44,
+        "Dec": 4.61
+      },
+      "average": 4.3
+    },
+    {
+      "name": "Bang Pakong",
+      "admin1_code": "44",
+      "location": [
+        13.54297,
+        100.99333
+      ],
+      "monthly": {
+        "Jan": 4.61,
+        "Feb": 4.68,
+        "Mar": 4.53,
+        "Apr": 4.39,
+        "May": 3.76,
+        "Jun": 3.68,
+        "Jul": 3.47,
+        "Aug": 3.77,
+        "Sep": 3.72,
+        "Oct": 3.99,
+        "Nov": 4.38,
+        "Dec": 4.66
+      },
+      "average": 4.14
+    },
+    {
+      "name": "Bang Pa-in",
+      "admin1_code": "36",
+      "location": [
+        14.22783,
+        100.57589
+      ],
+      "monthly": {
+        "Jan": 4.47,
+        "Feb": 4.51,
+        "Mar": 4.45,
+        "Apr": 4.43,
+        "May": 4.04,
+        "Jun": 3.79,
+        "Jul": 3.58,
+        "Aug": 3.68,
+        "Sep": 3.76,
+        "Oct": 3.92,
+        "Nov": 4.34,
+        "Dec": 4.53
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Bang Mun Nak",
+      "admin1_code": "13",
+      "location": [
+        16.02781,
+        100.37917
+      ],
+      "monthly": {
+        "Jan": 4.61,
+        "Feb": 4.79,
+        "Mar": 4.67,
+        "Apr": 4.69,
+        "May": 4.2,
+        "Jun": 3.92,
+        "Jul": 3.59,
+        "Aug": 3.68,
+        "Sep": 3.86,
+        "Oct": 4.15,
+        "Nov": 4.42,
+        "Dec": 4.57
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Bang Len",
+      "admin1_code": "53",
+      "location": [
+        14.02188,
+        100.17183
+      ],
+      "monthly": {
+        "Jan": 4.51,
+        "Feb": 4.68,
+        "Mar": 4.66,
+        "Apr": 4.64,
+        "May": 4.06,
+        "Jun": 3.76,
+        "Jul": 3.51,
+        "Aug": 3.72,
+        "Sep": 3.83,
+        "Oct": 3.81,
+        "Nov": 4.2,
+        "Dec": 4.49
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Bang Lamung",
+      "admin1_code": "46",
+      "location": [
+        13.04704,
+        100.92891
+      ],
+      "monthly": {
+        "Jan": 4.4,
+        "Feb": 4.44,
+        "Mar": 4.37,
+        "Apr": 4.14,
+        "May": 3.6,
+        "Jun": 3.59,
+        "Jul": 3.43,
+        "Aug": 3.7,
+        "Sep": 3.52,
+        "Oct": 3.6,
+        "Nov": 4.09,
+        "Dec": 4.44
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Bang Kruai",
+      "admin1_code": "38",
+      "location": [
+        13.805,
+        100.47283
+      ],
+      "monthly": {
+        "Jan": 4.28,
+        "Feb": 4.47,
+        "Mar": 4.51,
+        "Apr": 4.4,
+        "May": 3.83,
+        "Jun": 3.62,
+        "Jul": 3.4,
+        "Aug": 3.63,
+        "Sep": 3.65,
+        "Oct": 3.56,
+        "Nov": 3.95,
+        "Dec": 4.29
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Bang Krathum",
+      "admin1_code": "12",
+      "location": [
+        16.57831,
+        100.30034
+      ],
+      "monthly": {
+        "Jan": 4.69,
+        "Feb": 4.87,
+        "Mar": 4.77,
+        "Apr": 4.8,
+        "May": 4.26,
+        "Jun": 3.84,
+        "Jul": 3.46,
+        "Aug": 3.51,
+        "Sep": 3.76,
+        "Oct": 4.06,
+        "Nov": 4.54,
+        "Dec": 4.64
+      },
+      "average": 4.27
+    },
+    {
+      "name": "Bangkok Yai",
+      "admin1_code": "40",
+      "location": [
+        13.72319,
+        100.476
+      ],
+      "monthly": {
+        "Jan": 4.32,
+        "Feb": 4.53,
+        "Mar": 4.57,
+        "Apr": 4.45,
+        "May": 3.91,
+        "Jun": 3.68,
+        "Jul": 3.42,
+        "Aug": 3.65,
+        "Sep": 3.62,
+        "Oct": 3.53,
+        "Nov": 3.91,
+        "Dec": 4.26
+      },
+      "average": 3.99
+    },
+    {
+      "name": "Bangkok Noi",
+      "admin1_code": "40",
+      "location": [
+        13.76266,
+        100.47798
+      ],
+      "monthly": {
+        "Jan": 4.29,
+        "Feb": 4.49,
+        "Mar": 4.52,
+        "Apr": 4.41,
+        "May": 3.85,
+        "Jun": 3.63,
+        "Jul": 3.4,
+        "Aug": 3.64,
+        "Sep": 3.63,
+        "Oct": 3.56,
+        "Nov": 3.94,
+        "Dec": 4.28
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Bang Khun Thian",
+      "admin1_code": "40",
+      "location": [
+        13.66302,
+        100.43416
+      ],
+      "monthly": {
+        "Jan": 4.38,
+        "Feb": 4.64,
+        "Mar": 4.67,
+        "Apr": 4.57,
+        "May": 4.06,
+        "Jun": 3.82,
+        "Jul": 3.54,
+        "Aug": 3.8,
+        "Sep": 3.71,
+        "Oct": 3.52,
+        "Nov": 3.88,
+        "Dec": 4.27
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Bang Khlo",
+      "admin1_code": "40",
+      "location": [
+        13.69889,
+        100.51244
+      ],
+      "monthly": {
+        "Jan": 4.35,
+        "Feb": 4.55,
+        "Mar": 4.57,
+        "Apr": 4.47,
+        "May": 3.93,
+        "Jun": 3.72,
+        "Jul": 3.44,
+        "Aug": 3.69,
+        "Sep": 3.63,
+        "Oct": 3.62,
+        "Nov": 3.99,
+        "Dec": 4.32
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Bang Kapi",
+      "admin1_code": "40",
+      "location": [
+        13.7653,
+        100.647
+      ],
+      "monthly": {
+        "Jan": 4.45,
+        "Feb": 4.55,
+        "Mar": 4.53,
+        "Apr": 4.4,
+        "May": 3.84,
+        "Jun": 3.59,
+        "Jul": 3.33,
+        "Aug": 3.56,
+        "Sep": 3.6,
+        "Oct": 3.83,
+        "Nov": 4.22,
+        "Dec": 4.53
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Bang Bua Thong",
+      "admin1_code": "38",
+      "location": [
+        13.91783,
+        100.42403
+      ],
+      "monthly": {
+        "Jan": 4.34,
+        "Feb": 4.48,
+        "Mar": 4.49,
+        "Apr": 4.43,
+        "May": 3.92,
+        "Jun": 3.7,
+        "Jul": 3.47,
+        "Aug": 3.68,
+        "Sep": 3.74,
+        "Oct": 3.68,
+        "Nov": 4.06,
+        "Dec": 4.39
+      },
+      "average": 4.03
+    },
+    {
+      "name": "Bang Ban",
+      "admin1_code": "36",
+      "location": [
+        14.37395,
+        100.48528
+      ],
+      "monthly": {
+        "Jan": 4.51,
+        "Feb": 4.62,
+        "Mar": 4.59,
+        "Apr": 4.55,
+        "May": 4.16,
+        "Jun": 3.9,
+        "Jul": 3.67,
+        "Aug": 3.73,
+        "Sep": 3.76,
+        "Oct": 3.89,
+        "Nov": 4.31,
+        "Dec": 4.53
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Ban Dung",
+      "admin1_code": "76",
+      "location": [
+        17.699,
+        103.25957
+      ],
+      "monthly": {
+        "Jan": 4.73,
+        "Feb": 4.71,
+        "Mar": 4.4,
+        "Apr": 4.48,
+        "May": 4,
+        "Jun": 3.53,
+        "Jul": 3.27,
+        "Aug": 3.29,
+        "Sep": 3.66,
+        "Oct": 4.34,
+        "Nov": 4.72,
+        "Dec": 4.77
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Ban Chang",
+      "admin1_code": "47",
+      "location": [
+        12.72497,
+        101.05549
+      ],
+      "monthly": {
+        "Jan": 4.46,
+        "Feb": 4.62,
+        "Mar": 4.63,
+        "Apr": 4.56,
+        "May": 3.81,
+        "Jun": 3.57,
+        "Jul": 3.43,
+        "Aug": 3.67,
+        "Sep": 3.41,
+        "Oct": 3.56,
+        "Nov": 4.1,
+        "Dec": 4.49
+      },
+      "average": 4.03
+    },
+    {
+      "name": "Ban Bueng",
+      "admin1_code": "46",
+      "location": [
+        13.31191,
+        101.11271
+      ],
+      "monthly": {
+        "Jan": 4.46,
+        "Feb": 4.32,
+        "Mar": 4.21,
+        "Apr": 4.15,
+        "May": 3.61,
+        "Jun": 3.54,
+        "Jul": 3.39,
+        "Aug": 3.66,
+        "Sep": 3.48,
+        "Oct": 3.81,
+        "Nov": 4.28,
+        "Dec": 4.58
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Ban Talat Bueng",
+      "admin1_code": "46",
+      "location": [
+        13.07147,
+        101.00314
+      ],
+      "monthly": {
+        "Jan": 4.32,
+        "Feb": 4.22,
+        "Mar": 4.17,
+        "Apr": 4.05,
+        "May": 3.55,
+        "Jun": 3.55,
+        "Jul": 3.42,
+        "Aug": 3.66,
+        "Sep": 3.43,
+        "Oct": 3.64,
+        "Nov": 4.16,
+        "Dec": 4.45
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Bang Phlat",
+      "admin1_code": "40",
+      "location": [
+        13.79425,
+        100.50447
+      ],
+      "monthly": {
+        "Jan": 4.28,
+        "Feb": 4.46,
+        "Mar": 4.5,
+        "Apr": 4.38,
+        "May": 3.82,
+        "Jun": 3.6,
+        "Jul": 3.38,
+        "Aug": 3.62,
+        "Sep": 3.63,
+        "Oct": 3.58,
+        "Nov": 3.99,
+        "Dec": 4.31
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Bang Na",
+      "admin1_code": "40",
+      "location": [
+        13.66744,
+        100.64206
+      ],
+      "monthly": {
+        "Jan": 4.47,
+        "Feb": 4.59,
+        "Mar": 4.54,
+        "Apr": 4.45,
+        "May": 3.92,
+        "Jun": 3.72,
+        "Jul": 3.46,
+        "Aug": 3.69,
+        "Sep": 3.64,
+        "Oct": 3.82,
+        "Nov": 4.22,
+        "Dec": 4.52
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Ban Bang Kadi",
+      "admin1_code": "39",
+      "location": [
+        13.99904,
+        100.54962
+      ],
+      "monthly": {
+        "Jan": 4.36,
+        "Feb": 4.41,
+        "Mar": 4.37,
+        "Apr": 4.32,
+        "May": 3.86,
+        "Jun": 3.67,
+        "Jul": 3.44,
+        "Aug": 3.62,
+        "Sep": 3.69,
+        "Oct": 3.72,
+        "Nov": 4.15,
+        "Dec": 4.44
+      },
+      "average": 4
+    },
+    {
+      "name": "Bang Bo District",
+      "admin1_code": "42",
+      "location": [
+        13.58333,
+        100.81667
+      ],
+      "monthly": {
+        "Jan": 4.6,
+        "Feb": 4.68,
+        "Mar": 4.62,
+        "Apr": 4.48,
+        "May": 3.91,
+        "Jun": 3.79,
+        "Jul": 3.57,
+        "Aug": 3.86,
+        "Sep": 3.79,
+        "Oct": 3.95,
+        "Nov": 4.34,
+        "Dec": 4.62
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Ban Bang Bamru",
+      "admin1_code": "40",
+      "location": [
+        13.78333,
+        100.48333
+      ],
+      "monthly": {
+        "Jan": 4.28,
+        "Feb": 4.47,
+        "Mar": 4.51,
+        "Apr": 4.4,
+        "May": 3.84,
+        "Jun": 3.62,
+        "Jul": 3.39,
+        "Aug": 3.63,
+        "Sep": 3.64,
+        "Oct": 3.56,
+        "Nov": 3.95,
+        "Dec": 4.28
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Ban Ang Sila",
+      "admin1_code": "46",
+      "location": [
+        13.33956,
+        100.92964
+      ],
+      "monthly": {
+        "Jan": 4.46,
+        "Feb": 4.51,
+        "Mar": 4.43,
+        "Apr": 4.25,
+        "May": 3.68,
+        "Jun": 3.67,
+        "Jul": 3.47,
+        "Aug": 3.79,
+        "Sep": 3.61,
+        "Oct": 3.77,
+        "Nov": 4.14,
+        "Dec": 4.48
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Aranyaprathet",
+      "admin1_code": "80",
+      "location": [
+        13.69276,
+        102.50128
+      ],
+      "monthly": {
+        "Jan": 4.6,
+        "Feb": 4.68,
+        "Mar": 4.58,
+        "Apr": 4.54,
+        "May": 4.05,
+        "Jun": 3.83,
+        "Jul": 3.61,
+        "Aug": 3.8,
+        "Sep": 3.69,
+        "Oct": 3.93,
+        "Nov": 4.32,
+        "Dec": 4.53
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Amnat Charoen",
+      "admin1_code": "77",
+      "location": [
+        15.85851,
+        104.62883
+      ],
+      "monthly": {
+        "Jan": 4.99,
+        "Feb": 4.94,
+        "Mar": 4.51,
+        "Apr": 4.47,
+        "May": 4.04,
+        "Jun": 3.8,
+        "Jul": 3.45,
+        "Aug": 3.5,
+        "Sep": 3.56,
+        "Oct": 4.22,
+        "Nov": 4.61,
+        "Dec": 4.86
+      },
+      "average": 4.25
+    },
+    {
+      "name": "Amphoe Sikhiu",
+      "admin1_code": "27",
+      "location": [
+        14.89944,
+        101.70833
+      ],
+      "monthly": {
+        "Jan": 4.76,
+        "Feb": 4.77,
+        "Mar": 4.59,
+        "Apr": 4.49,
+        "May": 4.03,
+        "Jun": 3.87,
+        "Jul": 3.61,
+        "Aug": 3.73,
+        "Sep": 3.77,
+        "Oct": 3.9,
+        "Nov": 4.36,
+        "Dec": 4.7
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Din Daeng",
+      "admin1_code": "40",
+      "location": [
+        13.7904,
+        100.57014
+      ],
+      "monthly": {
+        "Jan": 4.36,
+        "Feb": 4.5,
+        "Mar": 4.52,
+        "Apr": 4.38,
+        "May": 3.81,
+        "Jun": 3.59,
+        "Jul": 3.36,
+        "Aug": 3.59,
+        "Sep": 3.62,
+        "Oct": 3.7,
+        "Nov": 4.11,
+        "Dec": 4.43
+      },
+      "average": 4
+    },
+    {
+      "name": "Wichit",
+      "admin1_code": "62",
+      "location": [
+        7.8894,
+        98.38523
+      ],
+      "monthly": {
+        "Jan": 4.7,
+        "Feb": 5.19,
+        "Mar": 5.02,
+        "Apr": 4.49,
+        "May": 3.68,
+        "Jun": 3.54,
+        "Jul": 3.53,
+        "Aug": 3.73,
+        "Sep": 3.74,
+        "Oct": 3.79,
+        "Nov": 3.9,
+        "Dec": 4.14
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Bang Sue",
+      "admin1_code": "40",
+      "location": [
+        13.81086,
+        100.53064
+      ],
+      "monthly": {
+        "Jan": 4.29,
+        "Feb": 4.44,
+        "Mar": 4.48,
+        "Apr": 4.35,
+        "May": 3.81,
+        "Jun": 3.59,
+        "Jul": 3.38,
+        "Aug": 3.58,
+        "Sep": 3.61,
+        "Oct": 3.62,
+        "Nov": 4.04,
+        "Dec": 4.35
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Khlong Toei",
+      "admin1_code": "40",
+      "location": [
+        13.71014,
+        100.58192
+      ],
+      "monthly": {
+        "Jan": 4.37,
+        "Feb": 4.51,
+        "Mar": 4.51,
+        "Apr": 4.41,
+        "May": 3.88,
+        "Jun": 3.67,
+        "Jul": 3.41,
+        "Aug": 3.63,
+        "Sep": 3.59,
+        "Oct": 3.71,
+        "Nov": 4.11,
+        "Dec": 4.43
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Lat Krabang",
+      "admin1_code": "40",
+      "location": [
+        13.72197,
+        100.78473
+      ],
+      "monthly": {
+        "Jan": 4.57,
+        "Feb": 4.66,
+        "Mar": 4.6,
+        "Apr": 4.48,
+        "May": 3.91,
+        "Jun": 3.66,
+        "Jul": 3.39,
+        "Aug": 3.64,
+        "Sep": 3.65,
+        "Oct": 3.99,
+        "Nov": 4.37,
+        "Dec": 4.64
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Bang Khae",
+      "admin1_code": "40",
+      "location": [
+        13.69301,
+        100.40755
+      ],
+      "monthly": {
+        "Jan": 4.33,
+        "Feb": 4.6,
+        "Mar": 4.64,
+        "Apr": 4.54,
+        "May": 4,
+        "Jun": 3.75,
+        "Jul": 3.48,
+        "Aug": 3.74,
+        "Sep": 3.66,
+        "Oct": 3.48,
+        "Nov": 3.84,
+        "Dec": 4.24
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Bang Kho Laem",
+      "admin1_code": "40",
+      "location": [
+        13.69279,
+        100.50135
+      ],
+      "monthly": {
+        "Jan": 4.35,
+        "Feb": 4.56,
+        "Mar": 4.57,
+        "Apr": 4.47,
+        "May": 3.94,
+        "Jun": 3.72,
+        "Jul": 3.45,
+        "Aug": 3.69,
+        "Sep": 3.64,
+        "Oct": 3.6,
+        "Nov": 3.98,
+        "Dec": 4.31
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Bueng Kum",
+      "admin1_code": "40",
+      "location": [
+        13.78528,
+        100.66958
+      ],
+      "monthly": {
+        "Jan": 4.48,
+        "Feb": 4.56,
+        "Mar": 4.52,
+        "Apr": 4.38,
+        "May": 3.83,
+        "Jun": 3.58,
+        "Jul": 3.32,
+        "Aug": 3.54,
+        "Sep": 3.59,
+        "Oct": 3.85,
+        "Nov": 4.26,
+        "Dec": 4.55
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Chatuchak",
+      "admin1_code": "40",
+      "location": [
+        13.82895,
+        100.55931
+      ],
+      "monthly": {
+        "Jan": 4.33,
+        "Feb": 4.44,
+        "Mar": 4.46,
+        "Apr": 4.32,
+        "May": 3.76,
+        "Jun": 3.55,
+        "Jul": 3.35,
+        "Aug": 3.56,
+        "Sep": 3.61,
+        "Oct": 3.69,
+        "Nov": 4.11,
+        "Dec": 4.41
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Chom Thong",
+      "admin1_code": "40",
+      "location": [
+        13.67717,
+        100.48407
+      ],
+      "monthly": {
+        "Jan": 4.37,
+        "Feb": 4.59,
+        "Mar": 4.6,
+        "Apr": 4.5,
+        "May": 3.98,
+        "Jun": 3.77,
+        "Jul": 3.49,
+        "Aug": 3.74,
+        "Sep": 3.66,
+        "Oct": 3.59,
+        "Nov": 3.95,
+        "Dec": 4.3
+      },
+      "average": 4.05
+    },
+    {
+      "name": "Huai Khwang",
+      "admin1_code": "40",
+      "location": [
+        13.7768,
+        100.57895
+      ],
+      "monthly": {
+        "Jan": 4.38,
+        "Feb": 4.51,
+        "Mar": 4.52,
+        "Apr": 4.38,
+        "May": 3.82,
+        "Jun": 3.59,
+        "Jul": 3.36,
+        "Aug": 3.59,
+        "Sep": 3.62,
+        "Oct": 3.72,
+        "Nov": 4.13,
+        "Dec": 4.45
+      },
+      "average": 4.01
+    },
+    {
+      "name": "Khan Na Yao",
+      "admin1_code": "40",
+      "location": [
+        13.82557,
+        100.67735
+      ],
+      "monthly": {
+        "Jan": 4.46,
+        "Feb": 4.52,
+        "Mar": 4.49,
+        "Apr": 4.35,
+        "May": 3.8,
+        "Jun": 3.54,
+        "Jul": 3.31,
+        "Aug": 3.54,
+        "Sep": 3.62,
+        "Oct": 3.88,
+        "Nov": 4.28,
+        "Dec": 4.56
+      },
+      "average": 4.03
+    },
+    {
+      "name": "Lak Si",
+      "admin1_code": "40",
+      "location": [
+        13.88724,
+        100.5792
+      ],
+      "monthly": {
+        "Jan": 4.36,
+        "Feb": 4.44,
+        "Mar": 4.44,
+        "Apr": 4.3,
+        "May": 3.78,
+        "Jun": 3.57,
+        "Jul": 3.35,
+        "Aug": 3.56,
+        "Sep": 3.61,
+        "Oct": 3.74,
+        "Nov": 4.16,
+        "Dec": 4.45
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Lat Phrao",
+      "admin1_code": "40",
+      "location": [
+        13.80335,
+        100.60696
+      ],
+      "monthly": {
+        "Jan": 4.4,
+        "Feb": 4.5,
+        "Mar": 4.5,
+        "Apr": 4.36,
+        "May": 3.79,
+        "Jun": 3.56,
+        "Jul": 3.34,
+        "Aug": 3.55,
+        "Sep": 3.62,
+        "Oct": 3.78,
+        "Nov": 4.18,
+        "Dec": 4.49
+      },
+      "average": 4.01
+    },
+    {
+      "name": "Pathum Wan",
+      "admin1_code": "40",
+      "location": [
+        13.73698,
+        100.52329
+      ],
+      "monthly": {
+        "Jan": 4.32,
+        "Feb": 4.51,
+        "Mar": 4.53,
+        "Apr": 4.41,
+        "May": 3.86,
+        "Jun": 3.64,
+        "Jul": 3.39,
+        "Aug": 3.61,
+        "Sep": 3.58,
+        "Oct": 3.59,
+        "Nov": 3.98,
+        "Dec": 4.32
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Phaya Thai",
+      "admin1_code": "40",
+      "location": [
+        13.7803,
+        100.54261
+      ],
+      "monthly": {
+        "Jan": 4.31,
+        "Feb": 4.49,
+        "Mar": 4.53,
+        "Apr": 4.4,
+        "May": 3.82,
+        "Jun": 3.6,
+        "Jul": 3.37,
+        "Aug": 3.6,
+        "Sep": 3.61,
+        "Oct": 3.63,
+        "Nov": 4.04,
+        "Dec": 4.35
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Ratchathewi",
+      "admin1_code": "40",
+      "location": [
+        13.759,
+        100.53358
+      ],
+      "monthly": {
+        "Jan": 4.31,
+        "Feb": 4.49,
+        "Mar": 4.52,
+        "Apr": 4.39,
+        "May": 3.83,
+        "Jun": 3.61,
+        "Jul": 3.37,
+        "Aug": 3.6,
+        "Sep": 3.59,
+        "Oct": 3.61,
+        "Nov": 4.02,
+        "Dec": 4.34
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Sai Mai",
+      "admin1_code": "40",
+      "location": [
+        13.92068,
+        100.64552
+      ],
+      "monthly": {
+        "Jan": 4.46,
+        "Feb": 4.53,
+        "Mar": 4.49,
+        "Apr": 4.34,
+        "May": 3.85,
+        "Jun": 3.59,
+        "Jul": 3.37,
+        "Aug": 3.57,
+        "Sep": 3.66,
+        "Oct": 3.88,
+        "Nov": 4.29,
+        "Dec": 4.55
+      },
+      "average": 4.05
+    },
+    {
+      "name": "Saphan Sung",
+      "admin1_code": "40",
+      "location": [
+        13.77002,
+        100.6848
+      ],
+      "monthly": {
+        "Jan": 4.49,
+        "Feb": 4.56,
+        "Mar": 4.52,
+        "Apr": 4.39,
+        "May": 3.85,
+        "Jun": 3.6,
+        "Jul": 3.34,
+        "Aug": 3.56,
+        "Sep": 3.6,
+        "Oct": 3.86,
+        "Nov": 4.27,
+        "Dec": 4.57
+      },
+      "average": 4.05
+    },
+    {
+      "name": "Sathon",
+      "admin1_code": "40",
+      "location": [
+        13.7085,
+        100.52619
+      ],
+      "monthly": {
+        "Jan": 4.34,
+        "Feb": 4.52,
+        "Mar": 4.54,
+        "Apr": 4.43,
+        "May": 3.89,
+        "Jun": 3.69,
+        "Jul": 3.42,
+        "Aug": 3.65,
+        "Sep": 3.6,
+        "Oct": 3.62,
+        "Nov": 4.01,
+        "Dec": 4.34
+      },
+      "average": 4
+    },
+    {
+      "name": "Suan Luang",
+      "admin1_code": "40",
+      "location": [
+        13.73028,
+        100.65138
+      ],
+      "monthly": {
+        "Jan": 4.45,
+        "Feb": 4.56,
+        "Mar": 4.53,
+        "Apr": 4.42,
+        "May": 3.86,
+        "Jun": 3.62,
+        "Jul": 3.37,
+        "Aug": 3.6,
+        "Sep": 3.61,
+        "Oct": 3.83,
+        "Nov": 4.21,
+        "Dec": 4.53
+      },
+      "average": 4.05
+    },
+    {
+      "name": "Thawi Watthana",
+      "admin1_code": "40",
+      "location": [
+        13.78316,
+        100.37805
+      ],
+      "monthly": {
+        "Jan": 4.31,
+        "Feb": 4.54,
+        "Mar": 4.57,
+        "Apr": 4.49,
+        "May": 3.92,
+        "Jun": 3.67,
+        "Jul": 3.42,
+        "Aug": 3.67,
+        "Sep": 3.68,
+        "Oct": 3.51,
+        "Nov": 3.91,
+        "Dec": 4.28
+      },
+      "average": 4
+    },
+    {
+      "name": "Thung Khru",
+      "admin1_code": "40",
+      "location": [
+        13.62849,
+        100.50952
+      ],
+      "monthly": {
+        "Jan": 4.41,
+        "Feb": 4.63,
+        "Mar": 4.63,
+        "Apr": 4.54,
+        "May": 4.05,
+        "Jun": 3.85,
+        "Jul": 3.57,
+        "Aug": 3.84,
+        "Sep": 3.74,
+        "Oct": 3.6,
+        "Nov": 3.98,
+        "Dec": 4.34
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Wang Thonglang",
+      "admin1_code": "40",
+      "location": [
+        13.78546,
+        100.61165
+      ],
+      "monthly": {
+        "Jan": 4.41,
+        "Feb": 4.52,
+        "Mar": 4.51,
+        "Apr": 4.38,
+        "May": 3.81,
+        "Jun": 3.57,
+        "Jul": 3.34,
+        "Aug": 3.56,
+        "Sep": 3.62,
+        "Oct": 3.79,
+        "Nov": 4.18,
+        "Dec": 4.5
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Watthana",
+      "admin1_code": "40",
+      "location": [
+        13.72978,
+        100.58536
+      ],
+      "monthly": {
+        "Jan": 4.37,
+        "Feb": 4.51,
+        "Mar": 4.5,
+        "Apr": 4.39,
+        "May": 3.85,
+        "Jun": 3.63,
+        "Jul": 3.38,
+        "Aug": 3.6,
+        "Sep": 3.58,
+        "Oct": 3.72,
+        "Nov": 4.13,
+        "Dec": 4.44
+      },
+      "average": 4.01
+    },
+    {
+      "name": "Ban Chalong",
+      "admin1_code": "62",
+      "location": [
+        7.84468,
+        98.33897
+      ],
+      "monthly": {
+        "Jan": 4.66,
+        "Feb": 5.18,
+        "Mar": 5.01,
+        "Apr": 4.52,
+        "May": 3.72,
+        "Jun": 3.56,
+        "Jul": 3.56,
+        "Aug": 3.78,
+        "Sep": 3.8,
+        "Oct": 3.79,
+        "Nov": 3.88,
+        "Dec": 4.11
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Ban Ratsada",
+      "admin1_code": "62",
+      "location": [
+        7.90963,
+        98.40248
+      ],
+      "monthly": {
+        "Jan": 4.68,
+        "Feb": 5.19,
+        "Mar": 5.02,
+        "Apr": 4.48,
+        "May": 3.62,
+        "Jun": 3.48,
+        "Jul": 3.47,
+        "Aug": 3.68,
+        "Sep": 3.69,
+        "Oct": 3.78,
+        "Nov": 3.89,
+        "Dec": 4.12
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Ban Khlong Bang Phran",
+      "admin1_code": "40",
+      "location": [
+        13.66314,
+        100.38781
+      ],
+      "monthly": {
+        "Jan": 4.34,
+        "Feb": 4.64,
+        "Mar": 4.69,
+        "Apr": 4.61,
+        "May": 4.09,
+        "Jun": 3.84,
+        "Jul": 3.55,
+        "Aug": 3.81,
+        "Sep": 3.74,
+        "Oct": 3.49,
+        "Nov": 3.83,
+        "Dec": 4.22
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Ban Lak Song",
+      "admin1_code": "40",
+      "location": [
+        13.68928,
+        100.39814
+      ],
+      "monthly": {
+        "Jan": 4.33,
+        "Feb": 4.61,
+        "Mar": 4.65,
+        "Apr": 4.56,
+        "May": 4.03,
+        "Jun": 3.78,
+        "Jul": 3.52,
+        "Aug": 3.77,
+        "Sep": 3.69,
+        "Oct": 3.49,
+        "Nov": 3.84,
+        "Dec": 4.23
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Khwaeng Bang Khae",
+      "admin1_code": "40",
+      "location": [
+        13.69162,
+        100.40448
+      ],
+      "monthly": {
+        "Jan": 4.34,
+        "Feb": 4.61,
+        "Mar": 4.65,
+        "Apr": 4.55,
+        "May": 4.03,
+        "Jun": 3.77,
+        "Jul": 3.51,
+        "Aug": 3.76,
+        "Sep": 3.68,
+        "Oct": 3.49,
+        "Nov": 3.84,
+        "Dec": 4.24
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Si Mahosot",
+      "admin1_code": "74",
+      "location": [
+        13.8878,
+        101.40501
+      ],
+      "monthly": {
+        "Jan": 4.66,
+        "Feb": 4.62,
+        "Mar": 4.46,
+        "Apr": 4.42,
+        "May": 3.87,
+        "Jun": 3.58,
+        "Jul": 3.35,
+        "Aug": 3.56,
+        "Sep": 3.63,
+        "Oct": 4.05,
+        "Nov": 4.43,
+        "Dec": 4.71
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Erawan",
+      "admin1_code": "18",
+      "location": [
+        17.30181,
+        101.95382
+      ],
+      "monthly": {
+        "Jan": 4.66,
+        "Feb": 4.77,
+        "Mar": 4.51,
+        "Apr": 4.43,
+        "May": 3.93,
+        "Jun": 3.63,
+        "Jul": 3.32,
+        "Aug": 3.34,
+        "Sep": 3.53,
+        "Oct": 3.96,
+        "Nov": 4.54,
+        "Dec": 4.67
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Ban Aranyik",
+      "admin1_code": "12",
+      "location": [
+        16.82553,
+        100.28486
+      ],
+      "monthly": {
+        "Jan": 4.72,
+        "Feb": 4.89,
+        "Mar": 4.78,
+        "Apr": 4.8,
+        "May": 4.23,
+        "Jun": 3.79,
+        "Jul": 3.4,
+        "Aug": 3.48,
+        "Sep": 3.71,
+        "Oct": 4.05,
+        "Nov": 4.57,
+        "Dec": 4.63
+      },
+      "average": 4.25
+    },
+    {
+      "name": "Bang Bon",
+      "admin1_code": "40",
+      "location": [
+        13.66185,
+        100.39567
+      ],
+      "monthly": {
+        "Jan": 4.35,
+        "Feb": 4.64,
+        "Mar": 4.69,
+        "Apr": 4.61,
+        "May": 4.09,
+        "Jun": 3.84,
+        "Jul": 3.56,
+        "Aug": 3.82,
+        "Sep": 3.74,
+        "Oct": 3.49,
+        "Nov": 3.84,
+        "Dec": 4.23
+      },
+      "average": 4.08
+    },
+    {
+      "name": "Phra Nakhon",
+      "admin1_code": "40",
+      "location": [
+        13.76512,
+        100.49864
+      ],
+      "monthly": {
+        "Jan": 4.29,
+        "Feb": 4.48,
+        "Mar": 4.51,
+        "Apr": 4.4,
+        "May": 3.84,
+        "Jun": 3.62,
+        "Jul": 3.39,
+        "Aug": 3.62,
+        "Sep": 3.61,
+        "Oct": 3.56,
+        "Nov": 3.95,
+        "Dec": 4.29
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Sathorn",
+      "admin1_code": "40",
+      "location": [
+        13.74998,
+        100.51682
+      ],
+      "monthly": {
+        "Jan": 4.31,
+        "Feb": 4.5,
+        "Mar": 4.52,
+        "Apr": 4.4,
+        "May": 3.85,
+        "Jun": 3.62,
+        "Jul": 3.38,
+        "Aug": 3.6,
+        "Sep": 3.58,
+        "Oct": 3.58,
+        "Nov": 3.97,
+        "Dec": 4.32
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Bangkok Riverside",
+      "admin1_code": "40",
+      "location": [
+        13.7549,
+        100.51716
+      ],
+      "monthly": {
+        "Jan": 4.3,
+        "Feb": 4.49,
+        "Mar": 4.52,
+        "Apr": 4.39,
+        "May": 3.84,
+        "Jun": 3.61,
+        "Jul": 3.38,
+        "Aug": 3.6,
+        "Sep": 3.58,
+        "Oct": 3.58,
+        "Nov": 3.97,
+        "Dec": 4.32
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Huamak",
+      "admin1_code": "40",
+      "location": [
+        13.7578,
+        100.64737
+      ],
+      "monthly": {
+        "Jan": 4.44,
+        "Feb": 4.55,
+        "Mar": 4.53,
+        "Apr": 4.4,
+        "May": 3.84,
+        "Jun": 3.6,
+        "Jul": 3.34,
+        "Aug": 3.57,
+        "Sep": 3.6,
+        "Oct": 3.83,
+        "Nov": 4.22,
+        "Dec": 4.53
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Latkrabang",
+      "admin1_code": "40",
+      "location": [
+        13.72784,
+        100.74609
+      ],
+      "monthly": {
+        "Jan": 4.54,
+        "Feb": 4.59,
+        "Mar": 4.55,
+        "Apr": 4.45,
+        "May": 3.91,
+        "Jun": 3.65,
+        "Jul": 3.39,
+        "Aug": 3.62,
+        "Sep": 3.63,
+        "Oct": 3.94,
+        "Nov": 4.35,
+        "Dec": 4.62
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Prachin Buri Town",
+      "admin1_code": "74",
+      "location": [
+        14.05458,
+        101.37264
+      ],
+      "monthly": {
+        "Jan": 4.72,
+        "Feb": 4.7,
+        "Mar": 4.54,
+        "Apr": 4.48,
+        "May": 3.99,
+        "Jun": 3.63,
+        "Jul": 3.34,
+        "Aug": 3.53,
+        "Sep": 3.61,
+        "Oct": 4.08,
+        "Nov": 4.49,
+        "Dec": 4.77
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Sam Sen Nai",
+      "admin1_code": "40",
+      "location": [
+        13.77714,
+        100.55082
+      ],
+      "monthly": {
+        "Jan": 4.33,
+        "Feb": 4.49,
+        "Mar": 4.53,
+        "Apr": 4.4,
+        "May": 3.82,
+        "Jun": 3.6,
+        "Jul": 3.37,
+        "Aug": 3.6,
+        "Sep": 3.61,
+        "Oct": 3.65,
+        "Nov": 4.06,
+        "Dec": 4.37
+      },
+      "average": 3.99
+    },
+    {
+      "name": "Inner Huai Khwang",
+      "admin1_code": "40",
+      "location": [
+        13.78152,
+        100.58382
+      ],
+      "monthly": {
+        "Jan": 4.39,
+        "Feb": 4.52,
+        "Mar": 4.52,
+        "Apr": 4.38,
+        "May": 3.82,
+        "Jun": 3.59,
+        "Jul": 3.35,
+        "Aug": 3.59,
+        "Sep": 3.62,
+        "Oct": 3.74,
+        "Nov": 4.15,
+        "Dec": 4.47
+      },
+      "average": 4.01
+    },
+    {
+      "name": "Khetsamsenok",
+      "admin1_code": "40",
+      "location": [
+        13.79284,
+        100.58298
+      ],
+      "monthly": {
+        "Jan": 4.37,
+        "Feb": 4.49,
+        "Mar": 4.51,
+        "Apr": 4.37,
+        "May": 3.8,
+        "Jun": 3.58,
+        "Jul": 3.35,
+        "Aug": 3.58,
+        "Sep": 3.62,
+        "Oct": 3.72,
+        "Nov": 4.13,
+        "Dec": 4.45
+      },
+      "average": 4
+    },
+    {
+      "name": "Chorakhe Bua",
+      "admin1_code": "40",
+      "location": [
+        13.839,
+        100.61144
+      ],
+      "monthly": {
+        "Jan": 4.4,
+        "Feb": 4.47,
+        "Mar": 4.46,
+        "Apr": 4.32,
+        "May": 3.77,
+        "Jun": 3.53,
+        "Jul": 3.32,
+        "Aug": 3.54,
+        "Sep": 3.62,
+        "Oct": 3.79,
+        "Nov": 4.2,
+        "Dec": 4.49
+      },
+      "average": 3.99
+    },
+    {
+      "name": "Chan Kasem",
+      "admin1_code": "40",
+      "location": [
+        13.82064,
+        100.58311
+      ],
+      "monthly": {
+        "Jan": 4.36,
+        "Feb": 4.46,
+        "Mar": 4.47,
+        "Apr": 4.33,
+        "May": 3.77,
+        "Jun": 3.55,
+        "Jul": 3.33,
+        "Aug": 3.55,
+        "Sep": 3.61,
+        "Oct": 3.73,
+        "Nov": 4.14,
+        "Dec": 4.44
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Khwaeng Bang Plat",
+      "admin1_code": "40",
+      "location": [
+        13.78775,
+        100.49469
+      ],
+      "monthly": {
+        "Jan": 4.28,
+        "Feb": 4.47,
+        "Mar": 4.51,
+        "Apr": 4.4,
+        "May": 3.83,
+        "Jun": 3.61,
+        "Jul": 3.39,
+        "Aug": 3.63,
+        "Sep": 3.63,
+        "Oct": 3.57,
+        "Nov": 3.98,
+        "Dec": 4.29
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Khlong Sam Wa",
+      "admin1_code": "40",
+      "location": [
+        13.87139,
+        100.73719
+      ],
+      "monthly": {
+        "Jan": 4.54,
+        "Feb": 4.59,
+        "Mar": 4.52,
+        "Apr": 4.37,
+        "May": 3.83,
+        "Jun": 3.52,
+        "Jul": 3.26,
+        "Aug": 3.5,
+        "Sep": 3.62,
+        "Oct": 3.97,
+        "Nov": 4.37,
+        "Dec": 4.63
+      },
+      "average": 4.06
+    },
+    {
+      "name": "Bang Bon Nuea",
+      "admin1_code": "40",
+      "location": [
+        13.65293,
+        100.35866
+      ],
+      "monthly": {
+        "Jan": 4.35,
+        "Feb": 4.64,
+        "Mar": 4.7,
+        "Apr": 4.62,
+        "May": 4.09,
+        "Jun": 3.82,
+        "Jul": 3.55,
+        "Aug": 3.8,
+        "Sep": 3.74,
+        "Oct": 3.46,
+        "Nov": 3.81,
+        "Dec": 4.21
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Bangbontai",
+      "admin1_code": "40",
+      "location": [
+        13.6472,
+        100.37144
+      ],
+      "monthly": {
+        "Jan": 4.37,
+        "Feb": 4.66,
+        "Mar": 4.71,
+        "Apr": 4.64,
+        "May": 4.11,
+        "Jun": 3.84,
+        "Jul": 3.56,
+        "Aug": 3.82,
+        "Sep": 3.76,
+        "Oct": 3.48,
+        "Nov": 3.83,
+        "Dec": 4.22
+      },
+      "average": 4.08
+    },
+    {
+      "name": "Khlong Chan",
+      "admin1_code": "40",
+      "location": [
+        13.78126,
+        100.64506
+      ],
+      "monthly": {
+        "Jan": 4.45,
+        "Feb": 4.55,
+        "Mar": 4.53,
+        "Apr": 4.39,
+        "May": 3.83,
+        "Jun": 3.57,
+        "Jul": 3.32,
+        "Aug": 3.54,
+        "Sep": 3.6,
+        "Oct": 3.83,
+        "Nov": 4.22,
+        "Dec": 4.53
+      },
+      "average": 4.03
+    },
+    {
+      "name": "Bang Khae Nuea",
+      "admin1_code": "40",
+      "location": [
+        13.70552,
+        100.38933
+      ],
+      "monthly": {
+        "Jan": 4.32,
+        "Feb": 4.59,
+        "Mar": 4.63,
+        "Apr": 4.53,
+        "May": 3.98,
+        "Jun": 3.73,
+        "Jul": 3.47,
+        "Aug": 3.72,
+        "Sep": 3.66,
+        "Oct": 3.48,
+        "Nov": 3.85,
+        "Dec": 4.23
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Bang Phai",
+      "admin1_code": "40",
+      "location": [
+        13.70667,
+        100.38673
+      ],
+      "monthly": {
+        "Jan": 4.32,
+        "Feb": 4.59,
+        "Mar": 4.63,
+        "Apr": 4.53,
+        "May": 3.98,
+        "Jun": 3.73,
+        "Jul": 3.47,
+        "Aug": 3.72,
+        "Sep": 3.66,
+        "Oct": 3.48,
+        "Nov": 3.85,
+        "Dec": 4.23
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Tha Raeng",
+      "admin1_code": "40",
+      "location": [
+        13.86849,
+        100.64534
+      ],
+      "monthly": {
+        "Jan": 4.44,
+        "Feb": 4.5,
+        "Mar": 4.48,
+        "Apr": 4.33,
+        "May": 3.8,
+        "Jun": 3.54,
+        "Jul": 3.32,
+        "Aug": 3.55,
+        "Sep": 3.62,
+        "Oct": 3.88,
+        "Nov": 4.28,
+        "Dec": 4.55
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Anusawari",
+      "admin1_code": "40",
+      "location": [
+        13.89466,
+        100.61425
+      ],
+      "monthly": {
+        "Jan": 4.41,
+        "Feb": 4.49,
+        "Mar": 4.46,
+        "Apr": 4.32,
+        "May": 3.81,
+        "Jun": 3.57,
+        "Jul": 3.36,
+        "Aug": 3.56,
+        "Sep": 3.65,
+        "Oct": 3.84,
+        "Nov": 4.25,
+        "Dec": 4.51
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Bang Kho Laem subdistrict",
+      "admin1_code": "40",
+      "location": [
+        13.6934,
+        100.50221
+      ],
+      "monthly": {
+        "Jan": 4.35,
+        "Feb": 4.56,
+        "Mar": 4.57,
+        "Apr": 4.47,
+        "May": 3.94,
+        "Jun": 3.72,
+        "Jul": 3.45,
+        "Aug": 3.69,
+        "Sep": 3.64,
+        "Oct": 3.6,
+        "Nov": 3.98,
+        "Dec": 4.31
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Bang O",
+      "admin1_code": "38",
+      "location": [
+        13.83576,
+        100.46001
+      ],
+      "monthly": {
+        "Jan": 4.28,
+        "Feb": 4.46,
+        "Mar": 4.49,
+        "Apr": 4.4,
+        "May": 3.84,
+        "Jun": 3.64,
+        "Jul": 3.41,
+        "Aug": 3.62,
+        "Sep": 3.66,
+        "Oct": 3.57,
+        "Nov": 3.97,
+        "Dec": 4.31
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Bang Yi Khan",
+      "admin1_code": "40",
+      "location": [
+        13.76327,
+        100.48982
+      ],
+      "monthly": {
+        "Jan": 4.28,
+        "Feb": 4.48,
+        "Mar": 4.51,
+        "Apr": 4.4,
+        "May": 3.84,
+        "Jun": 3.62,
+        "Jul": 3.39,
+        "Aug": 3.63,
+        "Sep": 3.62,
+        "Oct": 3.56,
+        "Nov": 3.94,
+        "Dec": 4.28
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Bang Sue subdistrict",
+      "admin1_code": "40",
+      "location": [
+        13.80645,
+        100.53062
+      ],
+      "monthly": {
+        "Jan": 4.3,
+        "Feb": 4.45,
+        "Mar": 4.49,
+        "Apr": 4.36,
+        "May": 3.81,
+        "Jun": 3.59,
+        "Jul": 3.38,
+        "Aug": 3.59,
+        "Sep": 3.62,
+        "Oct": 3.62,
+        "Nov": 4.03,
+        "Dec": 4.34
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Wong Sawang",
+      "admin1_code": "40",
+      "location": [
+        13.81671,
+        100.51587
+      ],
+      "monthly": {
+        "Jan": 4.28,
+        "Feb": 4.43,
+        "Mar": 4.46,
+        "Apr": 4.34,
+        "May": 3.81,
+        "Jun": 3.59,
+        "Jul": 3.39,
+        "Aug": 3.59,
+        "Sep": 3.62,
+        "Oct": 3.6,
+        "Nov": 4.02,
+        "Dec": 4.33
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Ban Chang Lo",
+      "admin1_code": "40",
+      "location": [
+        13.75085,
+        100.47704
+      ],
+      "monthly": {
+        "Jan": 4.3,
+        "Feb": 4.49,
+        "Mar": 4.52,
+        "Apr": 4.41,
+        "May": 3.86,
+        "Jun": 3.64,
+        "Jul": 3.41,
+        "Aug": 3.64,
+        "Sep": 3.63,
+        "Oct": 3.56,
+        "Nov": 3.93,
+        "Dec": 4.28
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Bang Khun Si",
+      "admin1_code": "40",
+      "location": [
+        13.75064,
+        100.47022
+      ],
+      "monthly": {
+        "Jan": 4.3,
+        "Feb": 4.5,
+        "Mar": 4.53,
+        "Apr": 4.42,
+        "May": 3.87,
+        "Jun": 3.64,
+        "Jul": 3.41,
+        "Aug": 3.64,
+        "Sep": 3.62,
+        "Oct": 3.55,
+        "Nov": 3.92,
+        "Dec": 4.27
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Arun Amarin",
+      "admin1_code": "40",
+      "location": [
+        13.76693,
+        100.48258
+      ],
+      "monthly": {
+        "Jan": 4.29,
+        "Feb": 4.48,
+        "Mar": 4.52,
+        "Apr": 4.41,
+        "May": 3.85,
+        "Jun": 3.63,
+        "Jul": 3.4,
+        "Aug": 3.64,
+        "Sep": 3.64,
+        "Oct": 3.56,
+        "Nov": 3.95,
+        "Dec": 4.28
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Wat Tha Phra",
+      "admin1_code": "40",
+      "location": [
+        13.73462,
+        100.47608
+      ],
+      "monthly": {
+        "Jan": 4.31,
+        "Feb": 4.51,
+        "Mar": 4.55,
+        "Apr": 4.43,
+        "May": 3.88,
+        "Jun": 3.66,
+        "Jul": 3.41,
+        "Aug": 3.65,
+        "Sep": 3.62,
+        "Oct": 3.54,
+        "Nov": 3.92,
+        "Dec": 4.27
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Khlong Kum",
+      "admin1_code": "40",
+      "location": [
+        13.78843,
+        100.68033
+      ],
+      "monthly": {
+        "Jan": 4.48,
+        "Feb": 4.56,
+        "Mar": 4.52,
+        "Apr": 4.38,
+        "May": 3.83,
+        "Jun": 3.58,
+        "Jul": 3.33,
+        "Aug": 3.55,
+        "Sep": 3.59,
+        "Oct": 3.85,
+        "Nov": 4.26,
+        "Dec": 4.56
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Lat Yao",
+      "admin1_code": "40",
+      "location": [
+        13.84725,
+        100.56373
+      ],
+      "monthly": {
+        "Jan": 4.34,
+        "Feb": 4.43,
+        "Mar": 4.44,
+        "Apr": 4.3,
+        "May": 3.75,
+        "Jun": 3.53,
+        "Jul": 3.34,
+        "Aug": 3.56,
+        "Sep": 3.62,
+        "Oct": 3.71,
+        "Nov": 4.14,
+        "Dec": 4.43
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Sena Nikhom",
+      "admin1_code": "40",
+      "location": [
+        13.83655,
+        100.57727
+      ],
+      "monthly": {
+        "Jan": 4.36,
+        "Feb": 4.45,
+        "Mar": 4.45,
+        "Apr": 4.31,
+        "May": 3.75,
+        "Jun": 3.53,
+        "Jul": 3.33,
+        "Aug": 3.55,
+        "Sep": 3.62,
+        "Oct": 3.73,
+        "Nov": 4.15,
+        "Dec": 4.45
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Chomphon",
+      "admin1_code": "40",
+      "location": [
+        13.80354,
+        100.5603
+      ],
+      "monthly": {
+        "Jan": 4.34,
+        "Feb": 4.47,
+        "Mar": 4.5,
+        "Apr": 4.36,
+        "May": 3.8,
+        "Jun": 3.58,
+        "Jul": 3.36,
+        "Aug": 3.58,
+        "Sep": 3.62,
+        "Oct": 3.68,
+        "Nov": 4.09,
+        "Dec": 4.4
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Chatuchak subdistrict",
+      "admin1_code": "40",
+      "location": [
+        13.82735,
+        100.55531
+      ],
+      "monthly": {
+        "Jan": 4.32,
+        "Feb": 4.43,
+        "Mar": 4.46,
+        "Apr": 4.33,
+        "May": 3.77,
+        "Jun": 3.56,
+        "Jul": 3.36,
+        "Aug": 3.57,
+        "Sep": 3.62,
+        "Oct": 3.68,
+        "Nov": 4.1,
+        "Dec": 4.4
+      },
+      "average": 3.97
+    }
+  ]
+}

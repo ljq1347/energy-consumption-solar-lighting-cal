@@ -1,0 +1,328 @@
+{
+  "country": "Sierra Leone",
+  "countryCode": "SL",
+  "cities": [
+    {
+      "name": "Waterloo",
+      "admin1_code": "04",
+      "location": [
+        8.3389,
+        -13.07091
+      ],
+      "monthly": {
+        "Jan": 4.55,
+        "Feb": 4.8,
+        "Mar": 4.61,
+        "Apr": 4.28,
+        "May": 3.76,
+        "Jun": 3.4,
+        "Jul": 3.11,
+        "Aug": 3.04,
+        "Sep": 3.62,
+        "Oct": 4.08,
+        "Nov": 4.06,
+        "Dec": 4.38
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Segbwema",
+      "admin1_code": "01",
+      "location": [
+        7.99471,
+        -10.9502
+      ],
+      "monthly": {
+        "Jan": 4.6,
+        "Feb": 4.78,
+        "Mar": 4.38,
+        "Apr": 4.22,
+        "May": 3.96,
+        "Jun": 3.56,
+        "Jul": 3.35,
+        "Aug": 3.42,
+        "Sep": 4.02,
+        "Oct": 4.32,
+        "Nov": 4.35,
+        "Dec": 4.43
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Port Loko",
+      "admin1_code": "05",
+      "location": [
+        8.76609,
+        -12.78696
+      ],
+      "monthly": {
+        "Jan": 4.57,
+        "Feb": 4.8,
+        "Mar": 4.59,
+        "Apr": 4.23,
+        "May": 3.87,
+        "Jun": 3.55,
+        "Jul": 3.31,
+        "Aug": 3.23,
+        "Sep": 3.8,
+        "Oct": 4.17,
+        "Nov": 4.21,
+        "Dec": 4.47
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Njala",
+      "admin1_code": "03",
+      "location": [
+        8.23231,
+        -12.01558
+      ],
+      "monthly": {
+        "Jan": 4.54,
+        "Feb": 4.72,
+        "Mar": 4.34,
+        "Apr": 4.14,
+        "May": 3.93,
+        "Jun": 3.62,
+        "Jul": 3.37,
+        "Aug": 3.33,
+        "Sep": 3.9,
+        "Oct": 4.18,
+        "Nov": 4.17,
+        "Dec": 4.4
+      },
+      "average": 4.05
+    },
+    {
+      "name": "Makeni",
+      "admin1_code": "02",
+      "location": [
+        8.88605,
+        -12.04417
+      ],
+      "monthly": {
+        "Jan": 4.65,
+        "Feb": 4.84,
+        "Mar": 4.54,
+        "Apr": 4.27,
+        "May": 3.99,
+        "Jun": 3.57,
+        "Jul": 3.39,
+        "Aug": 3.37,
+        "Sep": 3.98,
+        "Oct": 4.26,
+        "Nov": 4.38,
+        "Dec": 4.57
+      },
+      "average": 4.15
+    },
+    {
+      "name": "Lunsar",
+      "admin1_code": "02",
+      "location": [
+        8.68439,
+        -12.53499
+      ],
+      "monthly": {
+        "Jan": 4.57,
+        "Feb": 4.79,
+        "Mar": 4.54,
+        "Apr": 4.2,
+        "May": 3.92,
+        "Jun": 3.55,
+        "Jul": 3.36,
+        "Aug": 3.31,
+        "Sep": 3.89,
+        "Oct": 4.23,
+        "Nov": 4.24,
+        "Dec": 4.48
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Koidu",
+      "admin1_code": "01",
+      "location": [
+        8.64387,
+        -10.9714
+      ],
+      "monthly": {
+        "Jan": 4.82,
+        "Feb": 4.95,
+        "Mar": 4.52,
+        "Apr": 4.34,
+        "May": 4,
+        "Jun": 3.58,
+        "Jul": 3.37,
+        "Aug": 3.46,
+        "Sep": 4,
+        "Oct": 4.31,
+        "Nov": 4.42,
+        "Dec": 4.69
+      },
+      "average": 4.21
+    },
+    {
+      "name": "Kenema",
+      "admin1_code": "01",
+      "location": [
+        7.87687,
+        -11.19025
+      ],
+      "monthly": {
+        "Jan": 4.57,
+        "Feb": 4.76,
+        "Mar": 4.35,
+        "Apr": 4.18,
+        "May": 3.89,
+        "Jun": 3.5,
+        "Jul": 3.24,
+        "Aug": 3.28,
+        "Sep": 3.89,
+        "Oct": 4.21,
+        "Nov": 4.22,
+        "Dec": 4.37
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Kabala",
+      "admin1_code": "02",
+      "location": [
+        9.58893,
+        -11.55256
+      ],
+      "monthly": {
+        "Jan": 4.95,
+        "Feb": 5.1,
+        "Mar": 4.81,
+        "Apr": 4.53,
+        "May": 4.06,
+        "Jun": 3.57,
+        "Jul": 3.42,
+        "Aug": 3.51,
+        "Sep": 4.11,
+        "Oct": 4.35,
+        "Nov": 4.66,
+        "Dec": 4.89
+      },
+      "average": 4.33
+    },
+    {
+      "name": "Freetown",
+      "admin1_code": "04",
+      "location": [
+        8.48714,
+        -13.2356
+      ],
+      "monthly": {
+        "Jan": 4.63,
+        "Feb": 4.92,
+        "Mar": 4.78,
+        "Apr": 4.57,
+        "May": 4.02,
+        "Jun": 3.51,
+        "Jul": 3.18,
+        "Aug": 3.23,
+        "Sep": 3.84,
+        "Oct": 4.28,
+        "Nov": 4.3,
+        "Dec": 4.46
+      },
+      "average": 4.14
+    },
+    {
+      "name": "Bumpe",
+      "admin1_code": "03",
+      "location": [
+        7.89209,
+        -11.90541
+      ],
+      "monthly": {
+        "Jan": 4.52,
+        "Feb": 4.67,
+        "Mar": 4.26,
+        "Apr": 4.1,
+        "May": 3.89,
+        "Jun": 3.56,
+        "Jul": 3.25,
+        "Aug": 3.24,
+        "Sep": 3.85,
+        "Oct": 4.24,
+        "Nov": 4.24,
+        "Dec": 4.37
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Bo",
+      "admin1_code": "03",
+      "location": [
+        7.96472,
+        -11.73833
+      ],
+      "monthly": {
+        "Jan": 4.56,
+        "Feb": 4.73,
+        "Mar": 4.34,
+        "Apr": 4.17,
+        "May": 3.89,
+        "Jun": 3.5,
+        "Jul": 3.25,
+        "Aug": 3.26,
+        "Sep": 3.88,
+        "Oct": 4.22,
+        "Nov": 4.23,
+        "Dec": 4.39
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Goderich",
+      "admin1_code": "04",
+      "location": [
+        8.42756,
+        -13.28598
+      ],
+      "monthly": {
+        "Jan": 4.63,
+        "Feb": 4.9,
+        "Mar": 4.78,
+        "Apr": 4.57,
+        "May": 3.96,
+        "Jun": 3.41,
+        "Jul": 3.1,
+        "Aug": 3.16,
+        "Sep": 3.76,
+        "Oct": 4.12,
+        "Nov": 4.09,
+        "Dec": 4.41
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Mile 91",
+      "admin1_code": "02",
+      "location": [
+        8.46596,
+        -12.21457
+      ],
+      "monthly": {
+        "Jan": 4.54,
+        "Feb": 4.74,
+        "Mar": 4.41,
+        "Apr": 4.18,
+        "May": 3.94,
+        "Jun": 3.61,
+        "Jul": 3.38,
+        "Aug": 3.36,
+        "Sep": 3.96,
+        "Oct": 4.24,
+        "Nov": 4.22,
+        "Dec": 4.41
+      },
+      "average": 4.08
+    }
+  ]
+}

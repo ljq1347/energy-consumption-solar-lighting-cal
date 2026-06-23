@@ -1,0 +1,236 @@
+{
+  "country": "Timor-Leste",
+  "countryCode": "TL",
+  "cities": [
+    {
+      "name": "Suai",
+      "admin1_code": "CO",
+      "location": [
+        -9.31286,
+        125.25648
+      ],
+      "monthly": {
+        "Jan": 4.1,
+        "Feb": 4.43,
+        "Mar": 4.67,
+        "Apr": 4.9,
+        "May": 4.16,
+        "Jun": 3.8,
+        "Jul": 4.26,
+        "Aug": 5.17,
+        "Sep": 5.52,
+        "Oct": 5.5,
+        "Nov": 5.13,
+        "Dec": 4.25
+      },
+      "average": 4.66
+    },
+    {
+      "name": "Maubara",
+      "admin1_code": "LI",
+      "location": [
+        -8.61194,
+        125.20611
+      ],
+      "monthly": {
+        "Jan": 3.96,
+        "Feb": 4.14,
+        "Mar": 4.5,
+        "Apr": 4.79,
+        "May": 4.45,
+        "Jun": 4.35,
+        "Jul": 4.66,
+        "Aug": 5.23,
+        "Sep": 5.39,
+        "Oct": 5.26,
+        "Nov": 4.84,
+        "Dec": 4.01
+      },
+      "average": 4.63
+    },
+    {
+      "name": "Maliana",
+      "admin1_code": "BO",
+      "location": [
+        -8.99167,
+        125.21972
+      ],
+      "monthly": {
+        "Jan": 3.17,
+        "Feb": 3.38,
+        "Mar": 3.83,
+        "Apr": 4.55,
+        "May": 4.43,
+        "Jun": 4.43,
+        "Jul": 4.79,
+        "Aug": 5.27,
+        "Sep": 5.32,
+        "Oct": 5.01,
+        "Nov": 4.36,
+        "Dec": 3.41
+      },
+      "average": 4.33
+    },
+    {
+      "name": "Likisá",
+      "admin1_code": "LI",
+      "location": [
+        -8.5875,
+        125.34194
+      ],
+      "monthly": {
+        "Jan": 3.97,
+        "Feb": 4.1,
+        "Mar": 4.38,
+        "Apr": 4.67,
+        "May": 4.28,
+        "Jun": 4.19,
+        "Jul": 4.51,
+        "Aug": 5.12,
+        "Sep": 5.29,
+        "Oct": 5.23,
+        "Nov": 4.83,
+        "Dec": 4.02
+      },
+      "average": 4.55
+    },
+    {
+      "name": "Dili",
+      "admin1_code": "DI",
+      "location": [
+        -8.55861,
+        125.57361
+      ],
+      "monthly": {
+        "Jan": 3.81,
+        "Feb": 3.88,
+        "Mar": 4.16,
+        "Apr": 4.56,
+        "May": 4.29,
+        "Jun": 4.25,
+        "Jul": 4.54,
+        "Aug": 5.15,
+        "Sep": 5.27,
+        "Oct": 5.23,
+        "Nov": 4.73,
+        "Dec": 3.9
+      },
+      "average": 4.48
+    },
+    {
+      "name": "Baukau",
+      "admin1_code": "BA",
+      "location": [
+        -8.47572,
+        126.45633
+      ],
+      "monthly": {
+        "Jan": 4,
+        "Feb": 4.18,
+        "Mar": 4.4,
+        "Apr": 4.59,
+        "May": 4.14,
+        "Jun": 4.12,
+        "Jul": 4.33,
+        "Aug": 4.95,
+        "Sep": 5.37,
+        "Oct": 5.53,
+        "Nov": 4.98,
+        "Dec": 4.12
+      },
+      "average": 4.56
+    },
+    {
+      "name": "Atsabe",
+      "admin1_code": "ER",
+      "location": [
+        -8.925,
+        125.39806
+      ],
+      "monthly": {
+        "Jan": 2.95,
+        "Feb": 3.12,
+        "Mar": 3.5,
+        "Apr": 4.08,
+        "May": 3.75,
+        "Jun": 3.93,
+        "Jul": 4.25,
+        "Aug": 4.8,
+        "Sep": 4.94,
+        "Oct": 4.75,
+        "Nov": 4.09,
+        "Dec": 3.2
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Aileu",
+      "admin1_code": "AL",
+      "location": [
+        -8.72806,
+        125.56639
+      ],
+      "monthly": {
+        "Jan": 3.59,
+        "Feb": 3.72,
+        "Mar": 4,
+        "Apr": 4.65,
+        "May": 4.54,
+        "Jun": 4.53,
+        "Jul": 4.8,
+        "Aug": 5.34,
+        "Sep": 5.42,
+        "Oct": 5.19,
+        "Nov": 4.47,
+        "Dec": 3.62
+      },
+      "average": 4.49
+    },
+    {
+      "name": "Lospalos",
+      "admin1_code": "LA",
+      "location": [
+        -8.52167,
+        126.99833
+      ],
+      "monthly": {
+        "Jan": 3.9,
+        "Feb": 4.1,
+        "Mar": 4.23,
+        "Apr": 4.37,
+        "May": 3.55,
+        "Jun": 3.35,
+        "Jul": 3.5,
+        "Aug": 4.39,
+        "Sep": 4.97,
+        "Oct": 5.3,
+        "Nov": 4.86,
+        "Dec": 3.95
+      },
+      "average": 4.21
+    },
+    {
+      "name": "Venilale",
+      "admin1_code": "BA",
+      "location": [
+        -8.64306,
+        126.37833
+      ],
+      "monthly": {
+        "Jan": 3.46,
+        "Feb": 3.6,
+        "Mar": 3.89,
+        "Apr": 4.42,
+        "May": 3.94,
+        "Jun": 3.9,
+        "Jul": 4.18,
+        "Aug": 5.13,
+        "Sep": 5.32,
+        "Oct": 5.22,
+        "Nov": 4.5,
+        "Dec": 3.57
+      },
+      "average": 4.26
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "country": "SX",
+  "countryCode": "SX",
+  "cities": [
+    {
+      "name": "Philipsburg",
+      "admin1_code": "",
+      "location": [
+        18.026,
+        -63.04582
+      ],
+      "monthly": {
+        "Jan": 4.79,
+        "Feb": 5.17,
+        "Mar": 5.42,
+        "Apr": 5.26,
+        "May": 4.86,
+        "Jun": 4.76,
+        "Jul": 4.82,
+        "Aug": 5.03,
+        "Sep": 5.01,
+        "Oct": 4.81,
+        "Nov": 4.55,
+        "Dec": 4.54
+      },
+      "average": 4.92
+    }
+  ]
+}

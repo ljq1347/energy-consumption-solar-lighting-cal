@@ -1,0 +1,328 @@
+{
+  "country": "RE",
+  "countryCode": "RE",
+  "cities": [
+    {
+      "name": "Saint-Pierre",
+      "admin1_code": "RE",
+      "location": [
+        -21.3393,
+        55.47811
+      ],
+      "monthly": {
+        "Jan": 4.55,
+        "Feb": 4.7,
+        "Mar": 4.75,
+        "Apr": 4.49,
+        "May": 4.32,
+        "Jun": 4.16,
+        "Jul": 4.34,
+        "Aug": 4.78,
+        "Sep": 5.11,
+        "Oct": 4.9,
+        "Nov": 4.8,
+        "Dec": 4.74
+      },
+      "average": 4.64
+    },
+    {
+      "name": "Saint-Paul",
+      "admin1_code": "RE",
+      "location": [
+        -21.00961,
+        55.27134
+      ],
+      "monthly": {
+        "Jan": 4.13,
+        "Feb": 4.26,
+        "Mar": 4.26,
+        "Apr": 4.11,
+        "May": 3.96,
+        "Jun": 3.79,
+        "Jul": 3.97,
+        "Aug": 4.17,
+        "Sep": 4.44,
+        "Oct": 4.28,
+        "Nov": 4.25,
+        "Dec": 4.28
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Saint-Louis",
+      "admin1_code": "RE",
+      "location": [
+        -21.28585,
+        55.41124
+      ],
+      "monthly": {
+        "Jan": 4.44,
+        "Feb": 4.59,
+        "Mar": 4.66,
+        "Apr": 4.44,
+        "May": 4.37,
+        "Jun": 4.25,
+        "Jul": 4.39,
+        "Aug": 4.72,
+        "Sep": 4.91,
+        "Oct": 4.57,
+        "Nov": 4.52,
+        "Dec": 4.56
+      },
+      "average": 4.54
+    },
+    {
+      "name": "Saint-Leu",
+      "admin1_code": "RE",
+      "location": [
+        -21.17059,
+        55.28824
+      ],
+      "monthly": {
+        "Jan": 4.02,
+        "Feb": 4.16,
+        "Mar": 4.19,
+        "Apr": 4.01,
+        "May": 4.01,
+        "Jun": 3.91,
+        "Jul": 4.09,
+        "Aug": 4.22,
+        "Sep": 4.41,
+        "Oct": 4.07,
+        "Nov": 3.94,
+        "Dec": 4.07
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Saint-Joseph",
+      "admin1_code": "RE",
+      "location": [
+        -21.3777,
+        55.61691
+      ],
+      "monthly": {
+        "Jan": 4.43,
+        "Feb": 4.57,
+        "Mar": 4.59,
+        "Apr": 4.22,
+        "May": 3.91,
+        "Jun": 3.68,
+        "Jul": 3.8,
+        "Aug": 4.38,
+        "Sep": 4.81,
+        "Oct": 4.61,
+        "Nov": 4.54,
+        "Dec": 4.63
+      },
+      "average": 4.35
+    },
+    {
+      "name": "Sainte-Suzanne",
+      "admin1_code": "RE",
+      "location": [
+        -20.90616,
+        55.60788
+      ],
+      "monthly": {
+        "Jan": 4.65,
+        "Feb": 4.73,
+        "Mar": 4.65,
+        "Apr": 4.52,
+        "May": 4.14,
+        "Jun": 3.91,
+        "Jul": 4.11,
+        "Aug": 4.46,
+        "Sep": 4.91,
+        "Oct": 5.01,
+        "Nov": 4.95,
+        "Dec": 4.88
+      },
+      "average": 4.58
+    },
+    {
+      "name": "Sainte-Marie",
+      "admin1_code": "RE",
+      "location": [
+        -20.89686,
+        55.55056
+      ],
+      "monthly": {
+        "Jan": 4.59,
+        "Feb": 4.71,
+        "Mar": 4.68,
+        "Apr": 4.54,
+        "May": 4.18,
+        "Jun": 3.98,
+        "Jul": 4.18,
+        "Aug": 4.51,
+        "Sep": 4.94,
+        "Oct": 4.96,
+        "Nov": 4.89,
+        "Dec": 4.84
+      },
+      "average": 4.58
+    },
+    {
+      "name": "Saint-Denis",
+      "admin1_code": "RE",
+      "location": [
+        -20.88231,
+        55.4504
+      ],
+      "monthly": {
+        "Jan": 4.47,
+        "Feb": 4.6,
+        "Mar": 4.64,
+        "Apr": 4.53,
+        "May": 4.19,
+        "Jun": 3.97,
+        "Jul": 4.13,
+        "Aug": 4.49,
+        "Sep": 4.84,
+        "Oct": 4.81,
+        "Nov": 4.76,
+        "Dec": 4.73
+      },
+      "average": 4.51
+    },
+    {
+      "name": "Saint-Benoît",
+      "admin1_code": "RE",
+      "location": [
+        -21.03795,
+        55.71546
+      ],
+      "monthly": {
+        "Jan": 4.51,
+        "Feb": 4.62,
+        "Mar": 4.52,
+        "Apr": 4.33,
+        "May": 3.93,
+        "Jun": 3.71,
+        "Jul": 3.87,
+        "Aug": 4.21,
+        "Sep": 4.74,
+        "Oct": 4.8,
+        "Nov": 4.77,
+        "Dec": 4.7
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Saint-André",
+      "admin1_code": "RE",
+      "location": [
+        -20.96333,
+        55.65031
+      ],
+      "monthly": {
+        "Jan": 4.57,
+        "Feb": 4.65,
+        "Mar": 4.58,
+        "Apr": 4.43,
+        "May": 4.06,
+        "Jun": 3.84,
+        "Jul": 4,
+        "Aug": 4.34,
+        "Sep": 4.82,
+        "Oct": 4.87,
+        "Nov": 4.81,
+        "Dec": 4.74
+      },
+      "average": 4.48
+    },
+    {
+      "name": "Le Tampon",
+      "admin1_code": "RE",
+      "location": [
+        -21.2766,
+        55.51766
+      ],
+      "monthly": {
+        "Jan": 3.77,
+        "Feb": 4,
+        "Mar": 4.16,
+        "Apr": 3.98,
+        "May": 4.03,
+        "Jun": 4.05,
+        "Jul": 4.21,
+        "Aug": 4.43,
+        "Sep": 4.57,
+        "Oct": 4.14,
+        "Nov": 3.9,
+        "Dec": 3.8
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Le Port",
+      "admin1_code": "RE",
+      "location": [
+        -20.93752,
+        55.29415
+      ],
+      "monthly": {
+        "Jan": 4.32,
+        "Feb": 4.47,
+        "Mar": 4.42,
+        "Apr": 4.28,
+        "May": 4.11,
+        "Jun": 3.93,
+        "Jul": 4.05,
+        "Aug": 4.28,
+        "Sep": 4.55,
+        "Oct": 4.51,
+        "Nov": 4.49,
+        "Dec": 4.51
+      },
+      "average": 4.33
+    },
+    {
+      "name": "La Possession",
+      "admin1_code": "RE",
+      "location": [
+        -20.92909,
+        55.3348
+      ],
+      "monthly": {
+        "Jan": 4.06,
+        "Feb": 4.16,
+        "Mar": 4.08,
+        "Apr": 3.93,
+        "May": 3.74,
+        "Jun": 3.53,
+        "Jul": 3.59,
+        "Aug": 3.8,
+        "Sep": 4.07,
+        "Oct": 4.14,
+        "Nov": 4.14,
+        "Dec": 4.2
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Piton Saint-Leu",
+      "admin1_code": "RE",
+      "location": [
+        -21.21962,
+        55.31513
+      ],
+      "monthly": {
+        "Jan": 3.97,
+        "Feb": 4.09,
+        "Mar": 4.18,
+        "Apr": 3.97,
+        "May": 3.94,
+        "Jun": 3.86,
+        "Jul": 4.02,
+        "Aug": 4.19,
+        "Sep": 4.36,
+        "Oct": 4.02,
+        "Nov": 3.87,
+        "Dec": 4
+      },
+      "average": 4.04
+    }
+  ]
+}

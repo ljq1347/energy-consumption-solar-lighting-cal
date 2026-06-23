@@ -1,0 +1,29 @@
+{
+  "country": "Sao Tome and Principe",
+  "countryCode": "ST",
+  "cities": [
+    {
+      "name": "São Tomé",
+      "admin1_code": "02",
+      "location": [
+        0.33756,
+        6.7299
+      ],
+      "monthly": {
+        "Jan": 4.08,
+        "Feb": 4.23,
+        "Mar": 4.13,
+        "Apr": 3.98,
+        "May": 3.85,
+        "Jun": 3.89,
+        "Jul": 3.85,
+        "Aug": 3.87,
+        "Sep": 3.91,
+        "Oct": 3.83,
+        "Nov": 3.82,
+        "Dec": 3.89
+      },
+      "average": 3.94
+    }
+  ]
+}

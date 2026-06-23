@@ -1,0 +1,6676 @@
+{
+  "country": "Vietnam",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "name": "Yên Vinh",
+      "admin1_code": "40",
+      "location": [
+        18.66667,
+        105.66667
+      ],
+      "monthly": {
+        "Jan": 1.9,
+        "Feb": 2.42,
+        "Mar": 2.8,
+        "Apr": 3.5,
+        "May": 4.24,
+        "Jun": 4.33,
+        "Jul": 4.18,
+        "Aug": 3.9,
+        "Sep": 3.42,
+        "Oct": 2.57,
+        "Nov": 2.32,
+        "Dec": 1.86
+      },
+      "average": 3.12
+    },
+    {
+      "name": "Yên Phụ",
+      "admin1_code": "01",
+      "location": [
+        21.03333,
+        105.83333
+      ],
+      "monthly": {
+        "Jan": 1.96,
+        "Feb": 2.32,
+        "Mar": 2.56,
+        "Apr": 3,
+        "May": 3.59,
+        "Jun": 3.64,
+        "Jul": 3.6,
+        "Aug": 3.42,
+        "Sep": 3.29,
+        "Oct": 3.07,
+        "Nov": 2.86,
+        "Dec": 2.38
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Yên Bái",
+      "admin1_code": "15",
+      "location": [
+        21.72288,
+        104.9113
+      ],
+      "monthly": {
+        "Jan": 1.8,
+        "Feb": 2.2,
+        "Mar": 2.45,
+        "Apr": 2.79,
+        "May": 3.33,
+        "Jun": 3.41,
+        "Jul": 3.5,
+        "Aug": 3.51,
+        "Sep": 3.39,
+        "Oct": 2.91,
+        "Nov": 2.61,
+        "Dec": 2.05
+      },
+      "average": 2.83
+    },
+    {
+      "name": "Xuân Mai",
+      "admin1_code": "01",
+      "location": [
+        20.9,
+        105.58333
+      ],
+      "monthly": {
+        "Jan": 2,
+        "Feb": 2.41,
+        "Mar": 2.64,
+        "Apr": 3.09,
+        "May": 3.74,
+        "Jun": 3.77,
+        "Jul": 3.69,
+        "Aug": 3.55,
+        "Sep": 3.33,
+        "Oct": 3.05,
+        "Nov": 2.88,
+        "Dec": 2.35
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Xuân Lộc",
+      "admin1_code": "75",
+      "location": [
+        10.93333,
+        107.23333
+      ],
+      "monthly": {
+        "Jan": 4.22,
+        "Feb": 4.83,
+        "Mar": 4.77,
+        "Apr": 4.36,
+        "May": 3.82,
+        "Jun": 3.51,
+        "Jul": 3.45,
+        "Aug": 3.7,
+        "Sep": 3.53,
+        "Oct": 3.79,
+        "Nov": 3.92,
+        "Dec": 3.91
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Xóm Mỹ Xuân",
+      "admin1_code": "79",
+      "location": [
+        10.61667,
+        107.06667
+      ],
+      "monthly": {
+        "Jan": 4.09,
+        "Feb": 4.81,
+        "Mar": 4.82,
+        "Apr": 4.41,
+        "May": 3.88,
+        "Jun": 3.55,
+        "Jul": 3.48,
+        "Aug": 3.76,
+        "Sep": 3.58,
+        "Oct": 3.71,
+        "Nov": 3.83,
+        "Dec": 3.72
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Xóm Cái Nước",
+      "admin1_code": "91",
+      "location": [
+        9.8,
+        105.1
+      ],
+      "monthly": {
+        "Jan": 4.11,
+        "Feb": 4.58,
+        "Mar": 4.4,
+        "Apr": 4.18,
+        "May": 3.58,
+        "Jun": 3.34,
+        "Jul": 3.18,
+        "Aug": 3.53,
+        "Sep": 3.3,
+        "Oct": 3.62,
+        "Nov": 3.74,
+        "Dec": 3.89
+      },
+      "average": 3.79
+    },
+    {
+      "name": "Cái Đôi Vàm",
+      "admin1_code": "96",
+      "location": [
+        8.85707,
+        104.81199
+      ],
+      "monthly": {
+        "Jan": 4.01,
+        "Feb": 4.66,
+        "Mar": 4.74,
+        "Apr": 4.38,
+        "May": 3.6,
+        "Jun": 3.24,
+        "Jul": 3.14,
+        "Aug": 3.54,
+        "Sep": 3.35,
+        "Oct": 3.53,
+        "Nov": 3.59,
+        "Dec": 3.71
+      },
+      "average": 3.79
+    },
+    {
+      "name": "Trảng Bom",
+      "admin1_code": "75",
+      "location": [
+        10.95358,
+        107.00589
+      ],
+      "monthly": {
+        "Jan": 4.2,
+        "Feb": 4.72,
+        "Mar": 4.61,
+        "Apr": 4.24,
+        "May": 3.81,
+        "Jun": 3.52,
+        "Jul": 3.41,
+        "Aug": 3.65,
+        "Sep": 3.49,
+        "Oct": 3.76,
+        "Nov": 3.91,
+        "Dec": 3.96
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Xã Long Hải",
+      "admin1_code": "79",
+      "location": [
+        10.38706,
+        107.23884
+      ],
+      "monthly": {
+        "Jan": 4.38,
+        "Feb": 5.17,
+        "Mar": 5.28,
+        "Apr": 4.98,
+        "May": 4.33,
+        "Jun": 3.86,
+        "Jul": 3.8,
+        "Aug": 4.19,
+        "Sep": 4.02,
+        "Oct": 4.08,
+        "Nov": 4.04,
+        "Dec": 3.91
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Long Diền",
+      "admin1_code": "79",
+      "location": [
+        10.48333,
+        107.21667
+      ],
+      "monthly": {
+        "Jan": 4.36,
+        "Feb": 5.13,
+        "Mar": 5.19,
+        "Apr": 4.85,
+        "May": 4.2,
+        "Jun": 3.77,
+        "Jul": 3.68,
+        "Aug": 4.06,
+        "Sep": 3.87,
+        "Oct": 3.98,
+        "Nov": 4.03,
+        "Dec": 3.91
+      },
+      "average": 4.25
+    },
+    {
+      "name": "Vũng Tàu",
+      "admin1_code": "79",
+      "location": [
+        10.34599,
+        107.08426
+      ],
+      "monthly": {
+        "Jan": 4.38,
+        "Feb": 5.19,
+        "Mar": 5.31,
+        "Apr": 4.99,
+        "May": 4.32,
+        "Jun": 3.85,
+        "Jul": 3.81,
+        "Aug": 4.21,
+        "Sep": 4.04,
+        "Oct": 4.11,
+        "Nov": 4.09,
+        "Dec": 3.92
+      },
+      "average": 4.35
+    },
+    {
+      "name": "Vị Thanh",
+      "admin1_code": "92",
+      "location": [
+        9.78449,
+        105.47012
+      ],
+      "monthly": {
+        "Jan": 3.98,
+        "Feb": 4.59,
+        "Mar": 4.63,
+        "Apr": 4.41,
+        "May": 3.65,
+        "Jun": 3.33,
+        "Jul": 3.2,
+        "Aug": 3.52,
+        "Sep": 3.32,
+        "Oct": 3.63,
+        "Nov": 3.75,
+        "Dec": 3.77
+      },
+      "average": 3.81
+    },
+    {
+      "name": "Vĩnh Yên",
+      "admin1_code": "25",
+      "location": [
+        21.30891,
+        105.60489
+      ],
+      "monthly": {
+        "Jan": 1.95,
+        "Feb": 2.37,
+        "Mar": 2.59,
+        "Apr": 3.07,
+        "May": 3.63,
+        "Jun": 3.66,
+        "Jul": 3.65,
+        "Aug": 3.54,
+        "Sep": 3.38,
+        "Oct": 3.09,
+        "Nov": 2.8,
+        "Dec": 2.28
+      },
+      "average": 3
+    },
+    {
+      "name": "Vĩnh Tuy",
+      "admin1_code": "01",
+      "location": [
+        21,
+        105.88333
+      ],
+      "monthly": {
+        "Jan": 1.96,
+        "Feb": 2.33,
+        "Mar": 2.55,
+        "Apr": 3,
+        "May": 3.63,
+        "Jun": 3.67,
+        "Jul": 3.63,
+        "Aug": 3.46,
+        "Sep": 3.33,
+        "Oct": 3.09,
+        "Nov": 2.88,
+        "Dec": 2.38
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Vĩnh Long",
+      "admin1_code": "86",
+      "location": [
+        10.25369,
+        105.9722
+      ],
+      "monthly": {
+        "Jan": 4.04,
+        "Feb": 4.62,
+        "Mar": 4.68,
+        "Apr": 4.47,
+        "May": 3.86,
+        "Jun": 3.49,
+        "Jul": 3.48,
+        "Aug": 3.78,
+        "Sep": 3.53,
+        "Oct": 3.62,
+        "Nov": 3.75,
+        "Dec": 3.8
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Vĩnh Châu",
+      "admin1_code": "92",
+      "location": [
+        9.32439,
+        105.98006
+      ],
+      "monthly": {
+        "Jan": 4.05,
+        "Feb": 4.86,
+        "Mar": 5.09,
+        "Apr": 4.89,
+        "May": 4.08,
+        "Jun": 3.57,
+        "Jul": 3.37,
+        "Aug": 3.78,
+        "Sep": 3.53,
+        "Oct": 3.72,
+        "Nov": 3.7,
+        "Dec": 3.68
+      },
+      "average": 4.03
+    },
+    {
+      "name": "Vinh",
+      "admin1_code": "40",
+      "location": [
+        18.67337,
+        105.69232
+      ],
+      "monthly": {
+        "Jan": 1.91,
+        "Feb": 2.43,
+        "Mar": 2.81,
+        "Apr": 3.51,
+        "May": 4.26,
+        "Jun": 4.34,
+        "Jul": 4.2,
+        "Aug": 3.92,
+        "Sep": 3.45,
+        "Oct": 2.6,
+        "Nov": 2.34,
+        "Dec": 1.86
+      },
+      "average": 3.14
+    },
+    {
+      "name": "Việt Yên",
+      "admin1_code": "24",
+      "location": [
+        21.26667,
+        106.13333
+      ],
+      "monthly": {
+        "Jan": 1.98,
+        "Feb": 2.26,
+        "Mar": 2.45,
+        "Apr": 2.97,
+        "May": 3.58,
+        "Jun": 3.63,
+        "Jul": 3.75,
+        "Aug": 3.55,
+        "Sep": 3.48,
+        "Oct": 3.25,
+        "Nov": 2.94,
+        "Dec": 2.41
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Việt Trì",
+      "admin1_code": "25",
+      "location": [
+        21.32274,
+        105.40198
+      ],
+      "monthly": {
+        "Jan": 1.94,
+        "Feb": 2.31,
+        "Mar": 2.59,
+        "Apr": 3.07,
+        "May": 3.67,
+        "Jun": 3.7,
+        "Jul": 3.65,
+        "Aug": 3.57,
+        "Sep": 3.36,
+        "Oct": 3.04,
+        "Nov": 2.78,
+        "Dec": 2.22
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Thành Phố Uông Bí",
+      "admin1_code": "22",
+      "location": [
+        21.03433,
+        106.77049
+      ],
+      "monthly": {
+        "Jan": 2.11,
+        "Feb": 2.25,
+        "Mar": 2.34,
+        "Apr": 2.88,
+        "May": 3.46,
+        "Jun": 3.55,
+        "Jul": 3.59,
+        "Aug": 3.4,
+        "Sep": 3.4,
+        "Oct": 3.3,
+        "Nov": 2.97,
+        "Dec": 2.5
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Tuy Hòa",
+      "admin1_code": "66",
+      "location": [
+        13.09546,
+        109.32094
+      ],
+      "monthly": {
+        "Jan": 3.24,
+        "Feb": 4.29,
+        "Mar": 4.86,
+        "Apr": 5.14,
+        "May": 4.95,
+        "Jun": 4.55,
+        "Jul": 4.32,
+        "Aug": 4.61,
+        "Sep": 4.4,
+        "Oct": 3.64,
+        "Nov": 3.06,
+        "Dec": 2.68
+      },
+      "average": 4.15
+    },
+    {
+      "name": "Tuyên Quang",
+      "admin1_code": "08",
+      "location": [
+        21.82356,
+        105.21424
+      ],
+      "monthly": {
+        "Jan": 1.86,
+        "Feb": 2.25,
+        "Mar": 2.43,
+        "Apr": 2.89,
+        "May": 3.55,
+        "Jun": 3.55,
+        "Jul": 3.63,
+        "Aug": 3.61,
+        "Sep": 3.41,
+        "Oct": 3.01,
+        "Nov": 2.72,
+        "Dec": 2.15
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Tu Bông",
+      "admin1_code": "56",
+      "location": [
+        12.76667,
+        109.3
+      ],
+      "monthly": {
+        "Jan": 3.39,
+        "Feb": 4.43,
+        "Mar": 4.86,
+        "Apr": 5.11,
+        "May": 4.86,
+        "Jun": 4.43,
+        "Jul": 4.2,
+        "Aug": 4.61,
+        "Sep": 4.34,
+        "Oct": 3.63,
+        "Nov": 3.18,
+        "Dec": 2.85
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Trung Phụng",
+      "admin1_code": "01",
+      "location": [
+        21,
+        105.83333
+      ],
+      "monthly": {
+        "Jan": 1.97,
+        "Feb": 2.35,
+        "Mar": 2.57,
+        "Apr": 3.02,
+        "May": 3.64,
+        "Jun": 3.68,
+        "Jul": 3.62,
+        "Aug": 3.43,
+        "Sep": 3.29,
+        "Oct": 3.07,
+        "Nov": 2.88,
+        "Dec": 2.39
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Hồng Lĩnh",
+      "admin1_code": "42",
+      "location": [
+        18.52861,
+        105.70636
+      ],
+      "monthly": {
+        "Jan": 1.89,
+        "Feb": 2.45,
+        "Mar": 2.81,
+        "Apr": 3.51,
+        "May": 4.19,
+        "Jun": 4.31,
+        "Jul": 4.15,
+        "Aug": 3.88,
+        "Sep": 3.38,
+        "Oct": 2.48,
+        "Nov": 2.24,
+        "Dec": 1.79
+      },
+      "average": 3.09
+    },
+    {
+      "name": "Thị Trấn Trùng Khánh",
+      "admin1_code": "04",
+      "location": [
+        22.83514,
+        106.52496
+      ],
+      "monthly": {
+        "Jan": 1.87,
+        "Feb": 2.28,
+        "Mar": 2.4,
+        "Apr": 2.89,
+        "May": 3.23,
+        "Jun": 3.16,
+        "Jul": 3.49,
+        "Aug": 3.65,
+        "Sep": 3.47,
+        "Oct": 3.02,
+        "Nov": 2.76,
+        "Dec": 2.34
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Trà Vinh",
+      "admin1_code": "86",
+      "location": [
+        9.94719,
+        106.34225
+      ],
+      "monthly": {
+        "Jan": 4.1,
+        "Feb": 4.86,
+        "Mar": 5,
+        "Apr": 4.68,
+        "May": 3.89,
+        "Jun": 3.46,
+        "Jul": 3.38,
+        "Aug": 3.66,
+        "Sep": 3.51,
+        "Oct": 3.73,
+        "Nov": 3.84,
+        "Dec": 3.76
+      },
+      "average": 3.99
+    },
+    {
+      "name": "Trảng Bàng",
+      "admin1_code": "80",
+      "location": [
+        11.02987,
+        106.35751
+      ],
+      "monthly": {
+        "Jan": 4.25,
+        "Feb": 4.73,
+        "Mar": 4.67,
+        "Apr": 4.35,
+        "May": 3.96,
+        "Jun": 3.78,
+        "Jul": 3.61,
+        "Aug": 3.89,
+        "Sep": 3.69,
+        "Oct": 3.83,
+        "Nov": 3.94,
+        "Dec": 4.05
+      },
+      "average": 4.06
+    },
+    {
+      "name": "Long Bien",
+      "admin1_code": "01",
+      "location": [
+        21.03333,
+        105.9
+      ],
+      "monthly": {
+        "Jan": 1.96,
+        "Feb": 2.31,
+        "Mar": 2.54,
+        "Apr": 3,
+        "May": 3.62,
+        "Jun": 3.65,
+        "Jul": 3.63,
+        "Aug": 3.46,
+        "Sep": 3.36,
+        "Oct": 3.1,
+        "Nov": 2.88,
+        "Dec": 2.38
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Tràm Chim",
+      "admin1_code": "82",
+      "location": [
+        10.67001,
+        105.56469
+      ],
+      "monthly": {
+        "Jan": 4.27,
+        "Feb": 4.79,
+        "Mar": 4.81,
+        "Apr": 4.55,
+        "May": 3.98,
+        "Jun": 3.71,
+        "Jul": 3.51,
+        "Aug": 3.9,
+        "Sep": 3.79,
+        "Oct": 3.93,
+        "Nov": 4.1,
+        "Dec": 4.16
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Tịnh Biên",
+      "admin1_code": "91",
+      "location": [
+        10.59591,
+        104.93669
+      ],
+      "monthly": {
+        "Jan": 4.23,
+        "Feb": 4.7,
+        "Mar": 4.61,
+        "Apr": 4.31,
+        "May": 3.85,
+        "Jun": 3.6,
+        "Jul": 3.38,
+        "Aug": 3.67,
+        "Sep": 3.49,
+        "Oct": 3.75,
+        "Nov": 3.93,
+        "Dec": 4.13
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Thị Trấn Tiên Yên",
+      "admin1_code": "22",
+      "location": [
+        21.33133,
+        107.40533
+      ],
+      "monthly": {
+        "Jan": 2.04,
+        "Feb": 2.2,
+        "Mar": 2.22,
+        "Apr": 2.76,
+        "May": 3.38,
+        "Jun": 3.42,
+        "Jul": 3.56,
+        "Aug": 3.52,
+        "Sep": 3.62,
+        "Oct": 3.43,
+        "Nov": 3.04,
+        "Dec": 2.48
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Thượng Cát",
+      "admin1_code": "01",
+      "location": [
+        21.09342,
+        105.73188
+      ],
+      "monthly": {
+        "Jan": 1.98,
+        "Feb": 2.36,
+        "Mar": 2.6,
+        "Apr": 3.04,
+        "May": 3.62,
+        "Jun": 3.68,
+        "Jul": 3.62,
+        "Aug": 3.47,
+        "Sep": 3.33,
+        "Oct": 3.08,
+        "Nov": 2.86,
+        "Dec": 2.38
+      },
+      "average": 3
+    },
+    {
+      "name": "Thủ Đức",
+      "admin1_code": "79",
+      "location": [
+        10.84863,
+        106.77209
+      ],
+      "monthly": {
+        "Jan": 4.16,
+        "Feb": 4.76,
+        "Mar": 4.81,
+        "Apr": 4.48,
+        "May": 3.86,
+        "Jun": 3.56,
+        "Jul": 3.47,
+        "Aug": 3.7,
+        "Sep": 3.51,
+        "Oct": 3.72,
+        "Nov": 3.92,
+        "Dec": 3.88
+      },
+      "average": 3.99
+    },
+    {
+      "name": "Thủ Dầu Một",
+      "admin1_code": "79",
+      "location": [
+        10.9804,
+        106.6519
+      ],
+      "monthly": {
+        "Jan": 4.11,
+        "Feb": 4.63,
+        "Mar": 4.59,
+        "Apr": 4.27,
+        "May": 3.85,
+        "Jun": 3.67,
+        "Jul": 3.54,
+        "Aug": 3.81,
+        "Sep": 3.57,
+        "Oct": 3.75,
+        "Nov": 3.88,
+        "Dec": 3.92
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Thuận Thanh",
+      "admin1_code": "24",
+      "location": [
+        21.046,
+        106.079
+      ],
+      "monthly": {
+        "Jan": 1.98,
+        "Feb": 2.31,
+        "Mar": 2.51,
+        "Apr": 2.99,
+        "May": 3.65,
+        "Jun": 3.68,
+        "Jul": 3.72,
+        "Aug": 3.55,
+        "Sep": 3.47,
+        "Oct": 3.18,
+        "Nov": 2.91,
+        "Dec": 2.4
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Thốt Nốt",
+      "admin1_code": "92",
+      "location": [
+        10.27213,
+        105.5338
+      ],
+      "monthly": {
+        "Jan": 4.08,
+        "Feb": 4.57,
+        "Mar": 4.67,
+        "Apr": 4.42,
+        "May": 3.79,
+        "Jun": 3.53,
+        "Jul": 3.44,
+        "Aug": 3.74,
+        "Sep": 3.56,
+        "Oct": 3.66,
+        "Nov": 3.77,
+        "Dec": 3.89
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Thới Lai",
+      "admin1_code": "92",
+      "location": [
+        10.06522,
+        105.55863
+      ],
+      "monthly": {
+        "Jan": 4.03,
+        "Feb": 4.5,
+        "Mar": 4.64,
+        "Apr": 4.4,
+        "May": 3.7,
+        "Jun": 3.44,
+        "Jul": 3.37,
+        "Aug": 3.67,
+        "Sep": 3.46,
+        "Oct": 3.68,
+        "Nov": 3.73,
+        "Dec": 3.82
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Thới Bình",
+      "admin1_code": "96",
+      "location": [
+        9.35584,
+        105.09929
+      ],
+      "monthly": {
+        "Jan": 3.91,
+        "Feb": 4.54,
+        "Mar": 4.66,
+        "Apr": 4.38,
+        "May": 3.58,
+        "Jun": 3.28,
+        "Jul": 3.11,
+        "Aug": 3.47,
+        "Sep": 3.29,
+        "Oct": 3.58,
+        "Nov": 3.62,
+        "Dec": 3.73
+      },
+      "average": 3.76
+    },
+    {
+      "name": "Thị Trấn Thất Khê",
+      "admin1_code": "20",
+      "location": [
+        22.25525,
+        106.47359
+      ],
+      "monthly": {
+        "Jan": 1.88,
+        "Feb": 2.23,
+        "Mar": 2.33,
+        "Apr": 2.82,
+        "May": 3.33,
+        "Jun": 3.37,
+        "Jul": 3.64,
+        "Aug": 3.63,
+        "Sep": 3.5,
+        "Oct": 3.09,
+        "Nov": 2.78,
+        "Dec": 2.33
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Phú Lộc",
+      "admin1_code": "92",
+      "location": [
+        9.42838,
+        105.74111
+      ],
+      "monthly": {
+        "Jan": 3.95,
+        "Feb": 4.59,
+        "Mar": 4.83,
+        "Apr": 4.59,
+        "May": 3.73,
+        "Jun": 3.4,
+        "Jul": 3.26,
+        "Aug": 3.58,
+        "Sep": 3.4,
+        "Oct": 3.66,
+        "Nov": 3.71,
+        "Dec": 3.7
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Ho Chi Minh City",
+      "admin1_code": "79",
+      "location": [
+        10.82302,
+        106.62965
+      ],
+      "monthly": {
+        "Jan": 4.02,
+        "Feb": 4.61,
+        "Mar": 4.63,
+        "Apr": 4.26,
+        "May": 3.73,
+        "Jun": 3.56,
+        "Jul": 3.5,
+        "Aug": 3.72,
+        "Sep": 3.55,
+        "Oct": 3.64,
+        "Nov": 3.78,
+        "Dec": 3.77
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Thanh Liệt",
+      "admin1_code": "01",
+      "location": [
+        20.96667,
+        105.81667
+      ],
+      "monthly": {
+        "Jan": 1.98,
+        "Feb": 2.37,
+        "Mar": 2.59,
+        "Apr": 3.04,
+        "May": 3.68,
+        "Jun": 3.73,
+        "Jul": 3.65,
+        "Aug": 3.45,
+        "Sep": 3.3,
+        "Oct": 3.06,
+        "Nov": 2.87,
+        "Dec": 2.38
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Thanh Hóa",
+      "admin1_code": "38",
+      "location": [
+        19.8,
+        105.76667
+      ],
+      "monthly": {
+        "Jan": 2.05,
+        "Feb": 2.51,
+        "Mar": 2.83,
+        "Apr": 3.36,
+        "May": 4.12,
+        "Jun": 4.16,
+        "Jul": 4.05,
+        "Aug": 3.67,
+        "Sep": 3.37,
+        "Oct": 2.96,
+        "Nov": 2.78,
+        "Dec": 2.34
+      },
+      "average": 3.18
+    },
+    {
+      "name": "Thái Nguyên",
+      "admin1_code": "19",
+      "location": [
+        21.59422,
+        105.84817
+      ],
+      "monthly": {
+        "Jan": 1.92,
+        "Feb": 2.2,
+        "Mar": 2.37,
+        "Apr": 2.87,
+        "May": 3.42,
+        "Jun": 3.48,
+        "Jul": 3.63,
+        "Aug": 3.55,
+        "Sep": 3.48,
+        "Oct": 3.21,
+        "Nov": 2.85,
+        "Dec": 2.33
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Thái Bình",
+      "admin1_code": "33",
+      "location": [
+        20.45,
+        106.34002
+      ],
+      "monthly": {
+        "Jan": 1.96,
+        "Feb": 2.31,
+        "Mar": 2.59,
+        "Apr": 3.14,
+        "May": 3.85,
+        "Jun": 3.93,
+        "Jul": 3.9,
+        "Aug": 3.52,
+        "Sep": 3.37,
+        "Oct": 3.09,
+        "Nov": 2.8,
+        "Dec": 2.35
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Tây Ninh",
+      "admin1_code": "80",
+      "location": [
+        11.31004,
+        106.09828
+      ],
+      "monthly": {
+        "Jan": 4.36,
+        "Feb": 4.8,
+        "Mar": 4.78,
+        "Apr": 4.45,
+        "May": 4.08,
+        "Jun": 3.89,
+        "Jul": 3.73,
+        "Aug": 3.95,
+        "Sep": 3.69,
+        "Oct": 3.9,
+        "Nov": 4.11,
+        "Dec": 4.28
+      },
+      "average": 4.17
+    },
+    {
+      "name": "Tây Hồ",
+      "admin1_code": "01",
+      "location": [
+        21.06895,
+        105.81053
+      ],
+      "monthly": {
+        "Jan": 1.96,
+        "Feb": 2.33,
+        "Mar": 2.55,
+        "Apr": 2.98,
+        "May": 3.58,
+        "Jun": 3.62,
+        "Jul": 3.61,
+        "Aug": 3.45,
+        "Sep": 3.33,
+        "Oct": 3.1,
+        "Nov": 2.86,
+        "Dec": 2.36
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Tân Châu",
+      "admin1_code": "91",
+      "location": [
+        10.79832,
+        105.23887
+      ],
+      "monthly": {
+        "Jan": 4.36,
+        "Feb": 4.78,
+        "Mar": 4.71,
+        "Apr": 4.49,
+        "May": 4.05,
+        "Jun": 3.75,
+        "Jul": 3.54,
+        "Aug": 3.85,
+        "Sep": 3.81,
+        "Oct": 3.94,
+        "Nov": 4.17,
+        "Dec": 4.32
+      },
+      "average": 4.15
+    },
+    {
+      "name": "Tân Bình",
+      "admin1_code": "79",
+      "location": [
+        10.8025,
+        106.66
+      ],
+      "monthly": {
+        "Jan": 4.06,
+        "Feb": 4.68,
+        "Mar": 4.72,
+        "Apr": 4.37,
+        "May": 3.77,
+        "Jun": 3.54,
+        "Jul": 3.48,
+        "Aug": 3.7,
+        "Sep": 3.55,
+        "Oct": 3.68,
+        "Nov": 3.83,
+        "Dec": 3.79
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Tân An",
+      "admin1_code": "80",
+      "location": [
+        10.53589,
+        106.41366
+      ],
+      "monthly": {
+        "Jan": 4.14,
+        "Feb": 4.81,
+        "Mar": 4.84,
+        "Apr": 4.41,
+        "May": 3.81,
+        "Jun": 3.55,
+        "Jul": 3.54,
+        "Aug": 3.77,
+        "Sep": 3.61,
+        "Oct": 3.71,
+        "Nov": 3.89,
+        "Dec": 3.85
+      },
+      "average": 3.99
+    },
+    {
+      "name": "Tam Kỳ",
+      "admin1_code": "48",
+      "location": [
+        15.57364,
+        108.47403
+      ],
+      "monthly": {
+        "Jan": 2.52,
+        "Feb": 3.58,
+        "Mar": 4.16,
+        "Apr": 4.67,
+        "May": 4.9,
+        "Jun": 4.72,
+        "Jul": 4.51,
+        "Aug": 4.53,
+        "Sep": 4.17,
+        "Oct": 3.19,
+        "Nov": 2.67,
+        "Dec": 2.11
+      },
+      "average": 3.81
+    },
+    {
+      "name": "Tam Giang",
+      "admin1_code": "96",
+      "location": [
+        8.8,
+        105.18333
+      ],
+      "monthly": {
+        "Jan": 3.93,
+        "Feb": 4.62,
+        "Mar": 4.88,
+        "Apr": 4.67,
+        "May": 3.83,
+        "Jun": 3.33,
+        "Jul": 3.15,
+        "Aug": 3.53,
+        "Sep": 3.39,
+        "Oct": 3.57,
+        "Nov": 3.55,
+        "Dec": 3.64
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Sơn Tây",
+      "admin1_code": "01",
+      "location": [
+        21.14053,
+        105.50686
+      ],
+      "monthly": {
+        "Jan": 1.97,
+        "Feb": 2.41,
+        "Mar": 2.64,
+        "Apr": 3.1,
+        "May": 3.67,
+        "Jun": 3.72,
+        "Jul": 3.67,
+        "Aug": 3.53,
+        "Sep": 3.35,
+        "Oct": 3.01,
+        "Nov": 2.82,
+        "Dec": 2.29
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Sơn La",
+      "admin1_code": "14",
+      "location": [
+        21.3256,
+        103.91882
+      ],
+      "monthly": {
+        "Jan": 2.96,
+        "Feb": 3.61,
+        "Mar": 3.54,
+        "Apr": 3.79,
+        "May": 3.91,
+        "Jun": 3.33,
+        "Jul": 3.4,
+        "Aug": 3.47,
+        "Sep": 3.69,
+        "Oct": 3.53,
+        "Nov": 3.56,
+        "Dec": 3.08
+      },
+      "average": 3.49
+    },
+    {
+      "name": "Sông Cầu",
+      "admin1_code": "66",
+      "location": [
+        13.4556,
+        109.22348
+      ],
+      "monthly": {
+        "Jan": 3.2,
+        "Feb": 4.2,
+        "Mar": 4.74,
+        "Apr": 5.03,
+        "May": 4.82,
+        "Jun": 4.36,
+        "Jul": 4.14,
+        "Aug": 4.35,
+        "Sep": 4.22,
+        "Oct": 3.53,
+        "Nov": 2.91,
+        "Dec": 2.6
+      },
+      "average": 4.01
+    },
+    {
+      "name": "Sóc Trăng",
+      "admin1_code": "92",
+      "location": [
+        9.59995,
+        105.97193
+      ],
+      "monthly": {
+        "Jan": 3.97,
+        "Feb": 4.65,
+        "Mar": 4.71,
+        "Apr": 4.38,
+        "May": 3.69,
+        "Jun": 3.4,
+        "Jul": 3.29,
+        "Aug": 3.66,
+        "Sep": 3.47,
+        "Oct": 3.63,
+        "Nov": 3.68,
+        "Dec": 3.66
+      },
+      "average": 3.85
+    },
+    {
+      "name": "Sầm Sơn",
+      "admin1_code": "38",
+      "location": [
+        19.73333,
+        105.9
+      ],
+      "monthly": {
+        "Jan": 2.12,
+        "Feb": 2.5,
+        "Mar": 2.86,
+        "Apr": 3.49,
+        "May": 4.29,
+        "Jun": 4.23,
+        "Jul": 4.16,
+        "Aug": 3.78,
+        "Sep": 3.5,
+        "Oct": 3.12,
+        "Nov": 2.92,
+        "Dec": 2.36
+      },
+      "average": 3.28
+    },
+    {
+      "name": "Sa Dec",
+      "admin1_code": "82",
+      "location": [
+        10.29085,
+        105.75635
+      ],
+      "monthly": {
+        "Jan": 4.03,
+        "Feb": 4.58,
+        "Mar": 4.65,
+        "Apr": 4.46,
+        "May": 3.83,
+        "Jun": 3.51,
+        "Jul": 3.49,
+        "Aug": 3.77,
+        "Sep": 3.55,
+        "Oct": 3.62,
+        "Nov": 3.71,
+        "Dec": 3.83
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Rạch Giá",
+      "admin1_code": "91",
+      "location": [
+        10.01245,
+        105.08091
+      ],
+      "monthly": {
+        "Jan": 4.16,
+        "Feb": 4.54,
+        "Mar": 4.5,
+        "Apr": 4.37,
+        "May": 3.76,
+        "Jun": 3.54,
+        "Jul": 3.38,
+        "Aug": 3.75,
+        "Sep": 3.49,
+        "Oct": 3.74,
+        "Nov": 3.88,
+        "Dec": 4.01
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Qui Nhon",
+      "admin1_code": "52",
+      "location": [
+        13.77648,
+        109.22367
+      ],
+      "monthly": {
+        "Jan": 3.02,
+        "Feb": 4.04,
+        "Mar": 4.66,
+        "Apr": 5.02,
+        "May": 4.98,
+        "Jun": 4.57,
+        "Jul": 4.41,
+        "Aug": 4.57,
+        "Sep": 4.34,
+        "Oct": 3.57,
+        "Nov": 2.88,
+        "Dec": 2.51
+      },
+      "average": 4.05
+    },
+    {
+      "name": "Ba Đồn",
+      "admin1_code": "44",
+      "location": [
+        17.75353,
+        106.42355
+      ],
+      "monthly": {
+        "Jan": 2.16,
+        "Feb": 2.73,
+        "Mar": 3.15,
+        "Apr": 3.84,
+        "May": 4.46,
+        "Jun": 4.47,
+        "Jul": 4.31,
+        "Aug": 4.11,
+        "Sep": 3.78,
+        "Oct": 2.76,
+        "Nov": 2.46,
+        "Dec": 1.86
+      },
+      "average": 3.34
+    },
+    {
+      "name": "Quán Hàu",
+      "admin1_code": "44",
+      "location": [
+        17.40438,
+        106.64072
+      ],
+      "monthly": {
+        "Jan": 2.18,
+        "Feb": 2.78,
+        "Mar": 3.17,
+        "Apr": 3.92,
+        "May": 4.49,
+        "Jun": 4.46,
+        "Jul": 4.23,
+        "Aug": 4.07,
+        "Sep": 3.81,
+        "Oct": 2.77,
+        "Nov": 2.45,
+        "Dec": 1.88
+      },
+      "average": 3.35
+    },
+    {
+      "name": "Quảng Ngãi",
+      "admin1_code": "51",
+      "location": [
+        15.12047,
+        108.79232
+      ],
+      "monthly": {
+        "Jan": 2.6,
+        "Feb": 3.68,
+        "Mar": 4.32,
+        "Apr": 4.73,
+        "May": 4.89,
+        "Jun": 4.72,
+        "Jul": 4.56,
+        "Aug": 4.58,
+        "Sep": 4.22,
+        "Oct": 3.33,
+        "Nov": 2.78,
+        "Dec": 2.27
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Pleiku",
+      "admin1_code": "52",
+      "location": [
+        13.98333,
+        108
+      ],
+      "monthly": {
+        "Jan": 4.74,
+        "Feb": 5.25,
+        "Mar": 5,
+        "Apr": 4.64,
+        "May": 4.09,
+        "Jun": 3.55,
+        "Jul": 3.22,
+        "Aug": 3.32,
+        "Sep": 3.46,
+        "Oct": 3.78,
+        "Nov": 3.94,
+        "Dec": 4.25
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Phú Thọ",
+      "admin1_code": "25",
+      "location": [
+        21.39963,
+        105.22221
+      ],
+      "monthly": {
+        "Jan": 1.91,
+        "Feb": 2.29,
+        "Mar": 2.55,
+        "Apr": 2.96,
+        "May": 3.6,
+        "Jun": 3.64,
+        "Jul": 3.64,
+        "Aug": 3.56,
+        "Sep": 3.35,
+        "Oct": 3.03,
+        "Nov": 2.76,
+        "Dec": 2.17
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Phước Hòa",
+      "admin1_code": "75",
+      "location": [
+        12.1,
+        107.11667
+      ],
+      "monthly": {
+        "Jan": 4.76,
+        "Feb": 5.09,
+        "Mar": 4.82,
+        "Apr": 4.4,
+        "May": 3.91,
+        "Jun": 3.49,
+        "Jul": 3.22,
+        "Aug": 3.39,
+        "Sep": 3.3,
+        "Oct": 3.88,
+        "Nov": 4.17,
+        "Dec": 4.49
+      },
+      "average": 4.08
+    },
+    {
+      "name": "Phước An",
+      "admin1_code": "66",
+      "location": [
+        12.71298,
+        108.30148
+      ],
+      "monthly": {
+        "Jan": 3.7,
+        "Feb": 4.62,
+        "Mar": 4.9,
+        "Apr": 4.89,
+        "May": 4.44,
+        "Jun": 4.05,
+        "Jul": 3.79,
+        "Aug": 4.05,
+        "Sep": 3.85,
+        "Oct": 3.67,
+        "Nov": 3.15,
+        "Dec": 2.95
+      },
+      "average": 4
+    },
+    {
+      "name": "Phú Mỹ",
+      "admin1_code": "79",
+      "location": [
+        10.63333,
+        107.06667
+      ],
+      "monthly": {
+        "Jan": 4.09,
+        "Feb": 4.81,
+        "Mar": 4.82,
+        "Apr": 4.42,
+        "May": 3.89,
+        "Jun": 3.56,
+        "Jul": 3.49,
+        "Aug": 3.77,
+        "Sep": 3.59,
+        "Oct": 3.71,
+        "Nov": 3.83,
+        "Dec": 3.72
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Phủ Lý",
+      "admin1_code": "37",
+      "location": [
+        20.54531,
+        105.91221
+      ],
+      "monthly": {
+        "Jan": 2,
+        "Feb": 2.39,
+        "Mar": 2.61,
+        "Apr": 3.07,
+        "May": 3.78,
+        "Jun": 3.83,
+        "Jul": 3.73,
+        "Aug": 3.5,
+        "Sep": 3.32,
+        "Oct": 3.02,
+        "Nov": 2.84,
+        "Dec": 2.37
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Phú Khương",
+      "admin1_code": "80",
+      "location": [
+        11.28333,
+        106.13333
+      ],
+      "monthly": {
+        "Jan": 4.33,
+        "Feb": 4.77,
+        "Mar": 4.76,
+        "Apr": 4.46,
+        "May": 4.07,
+        "Jun": 3.87,
+        "Jul": 3.7,
+        "Aug": 3.91,
+        "Sep": 3.66,
+        "Oct": 3.87,
+        "Nov": 4.07,
+        "Dec": 4.25
+      },
+      "average": 4.14
+    },
+    {
+      "name": "Phú Đô",
+      "admin1_code": "01",
+      "location": [
+        21.01667,
+        105.76667
+      ],
+      "monthly": {
+        "Jan": 1.99,
+        "Feb": 2.37,
+        "Mar": 2.62,
+        "Apr": 3.05,
+        "May": 3.63,
+        "Jun": 3.7,
+        "Jul": 3.61,
+        "Aug": 3.43,
+        "Sep": 3.24,
+        "Oct": 3.01,
+        "Nov": 2.84,
+        "Dec": 2.37
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Phúc Yên",
+      "admin1_code": "25",
+      "location": [
+        21.23695,
+        105.70483
+      ],
+      "monthly": {
+        "Jan": 1.98,
+        "Feb": 2.34,
+        "Mar": 2.58,
+        "Apr": 3.04,
+        "May": 3.6,
+        "Jun": 3.67,
+        "Jul": 3.65,
+        "Aug": 3.5,
+        "Sep": 3.35,
+        "Oct": 3.11,
+        "Nov": 2.85,
+        "Dec": 2.35
+      },
+      "average": 3
+    },
+    {
+      "name": "Phong Thạnh",
+      "admin1_code": "96",
+      "location": [
+        9.32361,
+        105.34639
+      ],
+      "monthly": {
+        "Jan": 3.87,
+        "Feb": 4.58,
+        "Mar": 4.77,
+        "Apr": 4.44,
+        "May": 3.61,
+        "Jun": 3.32,
+        "Jul": 3.15,
+        "Aug": 3.49,
+        "Sep": 3.34,
+        "Oct": 3.56,
+        "Nov": 3.6,
+        "Dec": 3.64
+      },
+      "average": 3.78
+    },
+    {
+      "name": "Phong Điền",
+      "admin1_code": "46",
+      "location": [
+        16.58321,
+        107.36438
+      ],
+      "monthly": {
+        "Jan": 2.15,
+        "Feb": 2.94,
+        "Mar": 3.28,
+        "Apr": 3.92,
+        "May": 4.36,
+        "Jun": 4.46,
+        "Jul": 4.18,
+        "Aug": 4.1,
+        "Sep": 3.79,
+        "Oct": 2.78,
+        "Nov": 2.41,
+        "Dec": 1.81
+      },
+      "average": 3.35
+    },
+    {
+      "name": "Phong Điền",
+      "admin1_code": "92",
+      "location": [
+        9.99753,
+        105.6673
+      ],
+      "monthly": {
+        "Jan": 3.89,
+        "Feb": 4.44,
+        "Mar": 4.52,
+        "Apr": 4.28,
+        "May": 3.64,
+        "Jun": 3.37,
+        "Jul": 3.27,
+        "Aug": 3.61,
+        "Sep": 3.41,
+        "Oct": 3.52,
+        "Nov": 3.59,
+        "Dec": 3.67
+      },
+      "average": 3.77
+    },
+    {
+      "name": "Thị Trấn Phố Lu",
+      "admin1_code": "15",
+      "location": [
+        22.31918,
+        104.18719
+      ],
+      "monthly": {
+        "Jan": 1.97,
+        "Feb": 2.47,
+        "Mar": 2.57,
+        "Apr": 3.11,
+        "May": 3.65,
+        "Jun": 3.44,
+        "Jul": 3.53,
+        "Aug": 3.61,
+        "Sep": 3.44,
+        "Oct": 2.86,
+        "Nov": 2.74,
+        "Dec": 2.1
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Thị Trấn Ba Chẽ",
+      "admin1_code": "22",
+      "location": [
+        21.27158,
+        107.28358
+      ],
+      "monthly": {
+        "Jan": 1.95,
+        "Feb": 2.17,
+        "Mar": 2.2,
+        "Apr": 2.73,
+        "May": 3.29,
+        "Jun": 3.34,
+        "Jul": 3.46,
+        "Aug": 3.38,
+        "Sep": 3.48,
+        "Oct": 3.34,
+        "Nov": 2.93,
+        "Dec": 2.44
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Phan Thiết",
+      "admin1_code": "68",
+      "location": [
+        10.92889,
+        108.10208
+      ],
+      "monthly": {
+        "Jan": 4.52,
+        "Feb": 5.28,
+        "Mar": 5.32,
+        "Apr": 5.1,
+        "May": 4.53,
+        "Jun": 4.03,
+        "Jul": 3.86,
+        "Aug": 4.28,
+        "Sep": 4.19,
+        "Oct": 4.23,
+        "Nov": 4.05,
+        "Dec": 3.98
+      },
+      "average": 4.45
+    },
+    {
+      "name": "Phan Rang-Tháp Chàm",
+      "admin1_code": "56",
+      "location": [
+        11.56432,
+        108.98858
+      ],
+      "monthly": {
+        "Jan": 4.34,
+        "Feb": 5.09,
+        "Mar": 5.2,
+        "Apr": 5.21,
+        "May": 4.82,
+        "Jun": 4.48,
+        "Jul": 4.35,
+        "Aug": 4.78,
+        "Sep": 4.48,
+        "Oct": 4.1,
+        "Nov": 3.64,
+        "Dec": 3.74
+      },
+      "average": 4.52
+    },
+    {
+      "name": "Ô Môn",
+      "admin1_code": "92",
+      "location": [
+        10.10974,
+        105.62318
+      ],
+      "monthly": {
+        "Jan": 4.03,
+        "Feb": 4.54,
+        "Mar": 4.63,
+        "Apr": 4.4,
+        "May": 3.72,
+        "Jun": 3.45,
+        "Jul": 3.38,
+        "Aug": 3.68,
+        "Sep": 3.5,
+        "Oct": 3.65,
+        "Nov": 3.71,
+        "Dec": 3.8
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Thị Trấn Nước Hai",
+      "admin1_code": "04",
+      "location": [
+        22.73738,
+        106.15216
+      ],
+      "monthly": {
+        "Jan": 1.93,
+        "Feb": 2.45,
+        "Mar": 2.51,
+        "Apr": 3.08,
+        "May": 3.48,
+        "Jun": 3.38,
+        "Jul": 3.61,
+        "Aug": 3.69,
+        "Sep": 3.48,
+        "Oct": 2.97,
+        "Nov": 2.77,
+        "Dec": 2.31
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Ninh Hòa",
+      "admin1_code": "56",
+      "location": [
+        12.49187,
+        109.12495
+      ],
+      "monthly": {
+        "Jan": 3.48,
+        "Feb": 4.39,
+        "Mar": 4.81,
+        "Apr": 5.03,
+        "May": 4.8,
+        "Jun": 4.48,
+        "Jul": 4.26,
+        "Aug": 4.6,
+        "Sep": 4.35,
+        "Oct": 3.77,
+        "Nov": 3.13,
+        "Dec": 2.84
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Ninh Bình",
+      "admin1_code": "37",
+      "location": [
+        20.25809,
+        105.97965
+      ],
+      "monthly": {
+        "Jan": 2,
+        "Feb": 2.43,
+        "Mar": 2.69,
+        "Apr": 3.14,
+        "May": 3.91,
+        "Jun": 3.97,
+        "Jul": 3.87,
+        "Aug": 3.54,
+        "Sep": 3.34,
+        "Oct": 2.95,
+        "Nov": 2.76,
+        "Dec": 2.34
+      },
+      "average": 3.08
+    },
+    {
+      "name": "Nha Trang",
+      "admin1_code": "56",
+      "location": [
+        12.24507,
+        109.19432
+      ],
+      "monthly": {
+        "Jan": 3.41,
+        "Feb": 4.38,
+        "Mar": 4.89,
+        "Apr": 5.12,
+        "May": 4.88,
+        "Jun": 4.59,
+        "Jul": 4.38,
+        "Aug": 4.78,
+        "Sep": 4.47,
+        "Oct": 3.84,
+        "Nov": 3.16,
+        "Dec": 2.77
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Nhà Bè",
+      "admin1_code": "79",
+      "location": [
+        10.69672,
+        106.74032
+      ],
+      "monthly": {
+        "Jan": 4.16,
+        "Feb": 4.8,
+        "Mar": 4.84,
+        "Apr": 4.53,
+        "May": 3.93,
+        "Jun": 3.69,
+        "Jul": 3.58,
+        "Aug": 3.82,
+        "Sep": 3.66,
+        "Oct": 3.78,
+        "Nov": 3.9,
+        "Dec": 3.86
+      },
+      "average": 4.05
+    },
+    {
+      "name": "Nghi Xuân",
+      "admin1_code": "42",
+      "location": [
+        18.658,
+        105.752
+      ],
+      "monthly": {
+        "Jan": 1.92,
+        "Feb": 2.41,
+        "Mar": 2.81,
+        "Apr": 3.56,
+        "May": 4.31,
+        "Jun": 4.36,
+        "Jul": 4.25,
+        "Aug": 3.98,
+        "Sep": 3.5,
+        "Oct": 2.62,
+        "Nov": 2.36,
+        "Dec": 1.84
+      },
+      "average": 3.16
+    },
+    {
+      "name": "Nghi Sơn",
+      "admin1_code": "38",
+      "location": [
+        19.32746,
+        105.82145
+      ],
+      "monthly": {
+        "Jan": 2.1,
+        "Feb": 2.5,
+        "Mar": 2.89,
+        "Apr": 3.57,
+        "May": 4.38,
+        "Jun": 4.32,
+        "Jul": 4.22,
+        "Aug": 3.83,
+        "Sep": 3.57,
+        "Oct": 3.02,
+        "Nov": 2.82,
+        "Dec": 2.21
+      },
+      "average": 3.29
+    },
+    {
+      "name": "Nghĩa Lộ",
+      "admin1_code": "15",
+      "location": [
+        21.6,
+        104.51667
+      ],
+      "monthly": {
+        "Jan": 2.29,
+        "Feb": 2.81,
+        "Mar": 2.83,
+        "Apr": 3.24,
+        "May": 3.67,
+        "Jun": 3.46,
+        "Jul": 3.54,
+        "Aug": 3.51,
+        "Sep": 3.38,
+        "Oct": 2.93,
+        "Nov": 2.94,
+        "Dec": 2.39
+      },
+      "average": 3.08
+    },
+    {
+      "name": "Nghĩa Đô",
+      "admin1_code": "01",
+      "location": [
+        21.05,
+        105.8
+      ],
+      "monthly": {
+        "Jan": 1.96,
+        "Feb": 2.34,
+        "Mar": 2.57,
+        "Apr": 3.01,
+        "May": 3.57,
+        "Jun": 3.63,
+        "Jul": 3.6,
+        "Aug": 3.42,
+        "Sep": 3.3,
+        "Oct": 3.06,
+        "Nov": 2.84,
+        "Dec": 2.36
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Thị Trấn Ngải Giao",
+      "admin1_code": "79",
+      "location": [
+        10.6471,
+        107.24577
+      ],
+      "monthly": {
+        "Jan": 4.16,
+        "Feb": 4.9,
+        "Mar": 4.93,
+        "Apr": 4.51,
+        "May": 3.89,
+        "Jun": 3.56,
+        "Jul": 3.5,
+        "Aug": 3.8,
+        "Sep": 3.64,
+        "Oct": 3.79,
+        "Nov": 3.88,
+        "Dec": 3.77
+      },
+      "average": 4.03
+    },
+    {
+      "name": "Nam Định",
+      "admin1_code": "37",
+      "location": [
+        20.43389,
+        106.17729
+      ],
+      "monthly": {
+        "Jan": 1.96,
+        "Feb": 2.34,
+        "Mar": 2.57,
+        "Apr": 3.1,
+        "May": 3.85,
+        "Jun": 3.9,
+        "Jul": 3.84,
+        "Aug": 3.49,
+        "Sep": 3.33,
+        "Oct": 3.01,
+        "Nov": 2.78,
+        "Dec": 2.34
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Năm Căn",
+      "admin1_code": "96",
+      "location": [
+        8.75899,
+        104.99285
+      ],
+      "monthly": {
+        "Jan": 3.93,
+        "Feb": 4.62,
+        "Mar": 4.82,
+        "Apr": 4.49,
+        "May": 3.69,
+        "Jun": 3.24,
+        "Jul": 3.11,
+        "Aug": 3.48,
+        "Sep": 3.34,
+        "Oct": 3.51,
+        "Nov": 3.52,
+        "Dec": 3.63
+      },
+      "average": 3.78
+    },
+    {
+      "name": "Thị Trấn Na Dương",
+      "admin1_code": "20",
+      "location": [
+        21.7025,
+        106.95552
+      ],
+      "monthly": {
+        "Jan": 2.05,
+        "Feb": 2.26,
+        "Mar": 2.38,
+        "Apr": 2.89,
+        "May": 3.38,
+        "Jun": 3.38,
+        "Jul": 3.61,
+        "Aug": 3.49,
+        "Sep": 3.49,
+        "Oct": 3.3,
+        "Nov": 3,
+        "Dec": 2.54
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Mỹ Tho",
+      "admin1_code": "82",
+      "location": [
+        10.36004,
+        106.35996
+      ],
+      "monthly": {
+        "Jan": 4.05,
+        "Feb": 4.77,
+        "Mar": 4.88,
+        "Apr": 4.55,
+        "May": 3.85,
+        "Jun": 3.54,
+        "Jul": 3.52,
+        "Aug": 3.79,
+        "Sep": 3.61,
+        "Oct": 3.67,
+        "Nov": 3.77,
+        "Dec": 3.73
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Mỹ Lại",
+      "admin1_code": "51",
+      "location": [
+        15.18764,
+        108.88904
+      ],
+      "monthly": {
+        "Jan": 2.8,
+        "Feb": 3.94,
+        "Mar": 4.54,
+        "Apr": 4.88,
+        "May": 4.96,
+        "Jun": 4.72,
+        "Jul": 4.59,
+        "Aug": 4.64,
+        "Sep": 4.28,
+        "Oct": 3.42,
+        "Nov": 2.96,
+        "Dec": 2.44
+      },
+      "average": 4.01
+    },
+    {
+      "name": "Mỹ Khê",
+      "admin1_code": "51",
+      "location": [
+        15.15,
+        108.9
+      ],
+      "monthly": {
+        "Jan": 2.85,
+        "Feb": 3.97,
+        "Mar": 4.58,
+        "Apr": 4.89,
+        "May": 4.93,
+        "Jun": 4.68,
+        "Jul": 4.57,
+        "Aug": 4.63,
+        "Sep": 4.24,
+        "Oct": 3.44,
+        "Nov": 2.98,
+        "Dec": 2.45
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Mỹ Hào",
+      "admin1_code": "33",
+      "location": [
+        20.91667,
+        106.08333
+      ],
+      "monthly": {
+        "Jan": 1.99,
+        "Feb": 2.36,
+        "Mar": 2.56,
+        "Apr": 3.04,
+        "May": 3.73,
+        "Jun": 3.76,
+        "Jul": 3.72,
+        "Aug": 3.52,
+        "Sep": 3.44,
+        "Oct": 3.12,
+        "Nov": 2.88,
+        "Dec": 2.38
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Mường Lay",
+      "admin1_code": "11",
+      "location": [
+        22,
+        103.13333
+      ],
+      "monthly": {
+        "Jan": 3.12,
+        "Feb": 3.83,
+        "Mar": 3.59,
+        "Apr": 3.81,
+        "May": 3.8,
+        "Jun": 2.9,
+        "Jul": 3.01,
+        "Aug": 3.27,
+        "Sep": 3.57,
+        "Oct": 3.56,
+        "Nov": 3.63,
+        "Dec": 3.17
+      },
+      "average": 3.44
+    },
+    {
+      "name": "Móng Cái",
+      "admin1_code": "22",
+      "location": [
+        21.52471,
+        107.96619
+      ],
+      "monthly": {
+        "Jan": 2.13,
+        "Feb": 2.28,
+        "Mar": 2.31,
+        "Apr": 2.94,
+        "May": 3.61,
+        "Jun": 3.5,
+        "Jul": 3.74,
+        "Aug": 3.64,
+        "Sep": 3.8,
+        "Oct": 3.59,
+        "Nov": 3.14,
+        "Dec": 2.56
+      },
+      "average": 3.1
+    },
+    {
+      "name": "Thị Trấn Mạo Khê",
+      "admin1_code": "22",
+      "location": [
+        21.05858,
+        106.59255
+      ],
+      "monthly": {
+        "Jan": 2.05,
+        "Feb": 2.24,
+        "Mar": 2.36,
+        "Apr": 2.86,
+        "May": 3.47,
+        "Jun": 3.54,
+        "Jul": 3.6,
+        "Aug": 3.4,
+        "Sep": 3.43,
+        "Oct": 3.25,
+        "Nov": 2.94,
+        "Dec": 2.46
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Mai Dịch",
+      "admin1_code": "01",
+      "location": [
+        21.03333,
+        105.78333
+      ],
+      "monthly": {
+        "Jan": 1.98,
+        "Feb": 2.37,
+        "Mar": 2.61,
+        "Apr": 3.04,
+        "May": 3.6,
+        "Jun": 3.68,
+        "Jul": 3.61,
+        "Aug": 3.42,
+        "Sep": 3.26,
+        "Oct": 3.02,
+        "Nov": 2.84,
+        "Dec": 2.37
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Long Xuyên",
+      "admin1_code": "91",
+      "location": [
+        10.38639,
+        105.43518
+      ],
+      "monthly": {
+        "Jan": 4.15,
+        "Feb": 4.55,
+        "Mar": 4.61,
+        "Apr": 4.45,
+        "May": 3.84,
+        "Jun": 3.55,
+        "Jul": 3.43,
+        "Aug": 3.75,
+        "Sep": 3.58,
+        "Oct": 3.69,
+        "Nov": 3.87,
+        "Dec": 4.03
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Long Thành",
+      "admin1_code": "75",
+      "location": [
+        10.78909,
+        106.95029
+      ],
+      "monthly": {
+        "Jan": 4.02,
+        "Feb": 4.59,
+        "Mar": 4.61,
+        "Apr": 4.31,
+        "May": 3.84,
+        "Jun": 3.6,
+        "Jul": 3.52,
+        "Aug": 3.75,
+        "Sep": 3.58,
+        "Oct": 3.71,
+        "Nov": 3.81,
+        "Dec": 3.76
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Long Mỹ",
+      "admin1_code": "92",
+      "location": [
+        9.68141,
+        105.57226
+      ],
+      "monthly": {
+        "Jan": 3.94,
+        "Feb": 4.63,
+        "Mar": 4.58,
+        "Apr": 4.32,
+        "May": 3.65,
+        "Jun": 3.35,
+        "Jul": 3.21,
+        "Aug": 3.57,
+        "Sep": 3.36,
+        "Oct": 3.63,
+        "Nov": 3.7,
+        "Dec": 3.7
+      },
+      "average": 3.8
+    },
+    {
+      "name": "Liễu Giai",
+      "admin1_code": "01",
+      "location": [
+        21.03333,
+        105.81667
+      ],
+      "monthly": {
+        "Jan": 1.96,
+        "Feb": 2.33,
+        "Mar": 2.56,
+        "Apr": 3,
+        "May": 3.58,
+        "Jun": 3.62,
+        "Jul": 3.58,
+        "Aug": 3.4,
+        "Sep": 3.27,
+        "Oct": 3.06,
+        "Nov": 2.85,
+        "Dec": 2.37
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Lào Cai",
+      "admin1_code": "15",
+      "location": [
+        22.48556,
+        103.97066
+      ],
+      "monthly": {
+        "Jan": 2.06,
+        "Feb": 2.57,
+        "Mar": 2.69,
+        "Apr": 3.3,
+        "May": 3.74,
+        "Jun": 3.43,
+        "Jul": 3.52,
+        "Aug": 3.6,
+        "Sep": 3.48,
+        "Oct": 2.89,
+        "Nov": 2.84,
+        "Dec": 2.18
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Lạng Sơn",
+      "admin1_code": "20",
+      "location": [
+        21.85264,
+        106.76101
+      ],
+      "monthly": {
+        "Jan": 2.02,
+        "Feb": 2.28,
+        "Mar": 2.4,
+        "Apr": 2.92,
+        "May": 3.41,
+        "Jun": 3.46,
+        "Jul": 3.63,
+        "Aug": 3.51,
+        "Sep": 3.47,
+        "Oct": 3.26,
+        "Nov": 2.93,
+        "Dec": 2.48
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Thị Trấn Phước Bửu",
+      "admin1_code": "79",
+      "location": [
+        10.53472,
+        107.40202
+      ],
+      "monthly": {
+        "Jan": 4.43,
+        "Feb": 5.19,
+        "Mar": 5.22,
+        "Apr": 4.89,
+        "May": 4.17,
+        "Jun": 3.69,
+        "Jul": 3.63,
+        "Aug": 3.97,
+        "Sep": 3.84,
+        "Oct": 4,
+        "Nov": 4.07,
+        "Dec": 3.96
+      },
+      "average": 4.25
+    },
+    {
+      "name": "Thị Trấn Lam Sơn",
+      "admin1_code": "38",
+      "location": [
+        19.9047,
+        105.40562
+      ],
+      "monthly": {
+        "Jan": 2.11,
+        "Feb": 2.51,
+        "Mar": 2.77,
+        "Apr": 3.2,
+        "May": 3.96,
+        "Jun": 4.01,
+        "Jul": 3.89,
+        "Aug": 3.65,
+        "Sep": 3.37,
+        "Oct": 2.95,
+        "Nov": 2.78,
+        "Dec": 2.36
+      },
+      "average": 3.13
+    },
+    {
+      "name": "La Gi",
+      "admin1_code": "68",
+      "location": [
+        10.65993,
+        107.77206
+      ],
+      "monthly": {
+        "Jan": 4.5,
+        "Feb": 5.3,
+        "Mar": 5.35,
+        "Apr": 5.08,
+        "May": 4.43,
+        "Jun": 3.91,
+        "Jul": 3.79,
+        "Aug": 4.18,
+        "Sep": 4.06,
+        "Oct": 4.17,
+        "Nov": 4.12,
+        "Dec": 3.99
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Kỳ Anh",
+      "admin1_code": "42",
+      "location": [
+        18.06243,
+        106.29832
+      ],
+      "monthly": {
+        "Jan": 1.75,
+        "Feb": 2.33,
+        "Mar": 2.79,
+        "Apr": 3.58,
+        "May": 4.26,
+        "Jun": 4.42,
+        "Jul": 4.22,
+        "Aug": 3.96,
+        "Sep": 3.48,
+        "Oct": 2.47,
+        "Nov": 2.02,
+        "Dec": 1.52
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Kon Tum",
+      "admin1_code": "51",
+      "location": [
+        14.35451,
+        108.00759
+      ],
+      "monthly": {
+        "Jan": 4.98,
+        "Feb": 5.38,
+        "Mar": 5.09,
+        "Apr": 4.82,
+        "May": 4.19,
+        "Jun": 3.55,
+        "Jul": 3.26,
+        "Aug": 3.43,
+        "Sep": 3.6,
+        "Oct": 3.94,
+        "Nov": 4.15,
+        "Dec": 4.54
+      },
+      "average": 4.24
+    },
+    {
+      "name": "Kiến An",
+      "admin1_code": "31",
+      "location": [
+        20.80528,
+        106.62556
+      ],
+      "monthly": {
+        "Jan": 2.09,
+        "Feb": 2.29,
+        "Mar": 2.51,
+        "Apr": 3.03,
+        "May": 3.67,
+        "Jun": 3.75,
+        "Jul": 3.78,
+        "Aug": 3.48,
+        "Sep": 3.42,
+        "Oct": 3.33,
+        "Nov": 2.99,
+        "Dec": 2.48
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Kiến An",
+      "admin1_code": "91",
+      "location": [
+        10.56667,
+        105.36667
+      ],
+      "monthly": {
+        "Jan": 4.23,
+        "Feb": 4.64,
+        "Mar": 4.69,
+        "Apr": 4.37,
+        "May": 3.93,
+        "Jun": 3.64,
+        "Jul": 3.47,
+        "Aug": 3.82,
+        "Sep": 3.67,
+        "Oct": 3.8,
+        "Nov": 4.01,
+        "Dec": 4.15
+      },
+      "average": 4.03
+    },
+    {
+      "name": "Hương Trà",
+      "admin1_code": "46",
+      "location": [
+        16.52539,
+        107.4755
+      ],
+      "monthly": {
+        "Jan": 2.25,
+        "Feb": 3.12,
+        "Mar": 3.45,
+        "Apr": 4.05,
+        "May": 4.49,
+        "Jun": 4.58,
+        "Jul": 4.31,
+        "Aug": 4.22,
+        "Sep": 3.93,
+        "Oct": 2.9,
+        "Nov": 2.53,
+        "Dec": 1.88
+      },
+      "average": 3.48
+    },
+    {
+      "name": "Hương Thủy",
+      "admin1_code": "46",
+      "location": [
+        16.42184,
+        107.63999
+      ],
+      "monthly": {
+        "Jan": 2.25,
+        "Feb": 3.15,
+        "Mar": 3.49,
+        "Apr": 4.06,
+        "May": 4.51,
+        "Jun": 4.54,
+        "Jul": 4.31,
+        "Aug": 4.24,
+        "Sep": 3.92,
+        "Oct": 2.89,
+        "Nov": 2.51,
+        "Dec": 1.91
+      },
+      "average": 3.48
+    },
+    {
+      "name": "Hưng Yên",
+      "admin1_code": "33",
+      "location": [
+        20.64637,
+        106.05112
+      ],
+      "monthly": {
+        "Jan": 1.96,
+        "Feb": 2.32,
+        "Mar": 2.56,
+        "Apr": 3.02,
+        "May": 3.75,
+        "Jun": 3.81,
+        "Jul": 3.73,
+        "Aug": 3.48,
+        "Sep": 3.34,
+        "Oct": 3.06,
+        "Nov": 2.83,
+        "Dec": 2.36
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Hưng Mỹ",
+      "admin1_code": "96",
+      "location": [
+        8.9,
+        104.98333
+      ],
+      "monthly": {
+        "Jan": 3.97,
+        "Feb": 4.66,
+        "Mar": 4.81,
+        "Apr": 4.48,
+        "May": 3.65,
+        "Jun": 3.22,
+        "Jul": 3.1,
+        "Aug": 3.49,
+        "Sep": 3.33,
+        "Oct": 3.55,
+        "Nov": 3.58,
+        "Dec": 3.68
+      },
+      "average": 3.79
+    },
+    {
+      "name": "Huế",
+      "admin1_code": "46",
+      "location": [
+        16.4619,
+        107.59546
+      ],
+      "monthly": {
+        "Jan": 2.29,
+        "Feb": 3.19,
+        "Mar": 3.52,
+        "Apr": 4.08,
+        "May": 4.53,
+        "Jun": 4.58,
+        "Jul": 4.33,
+        "Aug": 4.25,
+        "Sep": 3.95,
+        "Oct": 2.93,
+        "Nov": 2.56,
+        "Dec": 1.91
+      },
+      "average": 3.51
+    },
+    {
+      "name": "Hồng Ngự",
+      "admin1_code": "82",
+      "location": [
+        10.8,
+        105.35
+      ],
+      "monthly": {
+        "Jan": 4.35,
+        "Feb": 4.77,
+        "Mar": 4.61,
+        "Apr": 4.52,
+        "May": 4.08,
+        "Jun": 3.77,
+        "Jul": 3.54,
+        "Aug": 3.88,
+        "Sep": 3.83,
+        "Oct": 4,
+        "Nov": 4.17,
+        "Dec": 4.26
+      },
+      "average": 4.15
+    },
+    {
+      "name": "Hạ Long",
+      "admin1_code": "22",
+      "location": [
+        20.95045,
+        107.07336
+      ],
+      "monthly": {
+        "Jan": 2.16,
+        "Feb": 2.29,
+        "Mar": 2.37,
+        "Apr": 3,
+        "May": 3.7,
+        "Jun": 3.73,
+        "Jul": 3.79,
+        "Aug": 3.52,
+        "Sep": 3.53,
+        "Oct": 3.47,
+        "Nov": 3.09,
+        "Dec": 2.53
+      },
+      "average": 3.1
+    },
+    {
+      "name": "Hoi An",
+      "admin1_code": "48",
+      "location": [
+        15.87944,
+        108.335
+      ],
+      "monthly": {
+        "Jan": 2.71,
+        "Feb": 3.73,
+        "Mar": 4.24,
+        "Apr": 4.75,
+        "May": 4.92,
+        "Jun": 4.69,
+        "Jul": 4.48,
+        "Aug": 4.48,
+        "Sep": 4.2,
+        "Oct": 3.3,
+        "Nov": 2.85,
+        "Dec": 2.22
+      },
+      "average": 3.88
+    },
+    {
+      "name": "Hòa Bình",
+      "admin1_code": "25",
+      "location": [
+        20.81717,
+        105.33759
+      ],
+      "monthly": {
+        "Jan": 2.08,
+        "Feb": 2.5,
+        "Mar": 2.68,
+        "Apr": 3.11,
+        "May": 3.72,
+        "Jun": 3.73,
+        "Jul": 3.6,
+        "Aug": 3.48,
+        "Sep": 3.28,
+        "Oct": 2.93,
+        "Nov": 2.85,
+        "Dec": 2.37
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Hà Tĩnh",
+      "admin1_code": "42",
+      "location": [
+        18.34282,
+        105.90569
+      ],
+      "monthly": {
+        "Jan": 1.91,
+        "Feb": 2.43,
+        "Mar": 2.82,
+        "Apr": 3.57,
+        "May": 4.27,
+        "Jun": 4.39,
+        "Jul": 4.24,
+        "Aug": 3.98,
+        "Sep": 3.51,
+        "Oct": 2.58,
+        "Nov": 2.25,
+        "Dec": 1.73
+      },
+      "average": 3.14
+    },
+    {
+      "name": "Hà Tiên",
+      "admin1_code": "91",
+      "location": [
+        10.3831,
+        104.48753
+      ],
+      "monthly": {
+        "Jan": 4.31,
+        "Feb": 4.68,
+        "Mar": 4.68,
+        "Apr": 4.37,
+        "May": 3.85,
+        "Jun": 3.57,
+        "Jul": 3.33,
+        "Aug": 3.65,
+        "Sep": 3.47,
+        "Oct": 3.78,
+        "Nov": 4.05,
+        "Dec": 4.21
+      },
+      "average": 4
+    },
+    {
+      "name": "Hanoi",
+      "admin1_code": "01",
+      "location": [
+        21.0245,
+        105.84117
+      ],
+      "monthly": {
+        "Jan": 1.96,
+        "Feb": 2.31,
+        "Mar": 2.56,
+        "Apr": 3,
+        "May": 3.6,
+        "Jun": 3.64,
+        "Jul": 3.61,
+        "Aug": 3.44,
+        "Sep": 3.3,
+        "Oct": 3.07,
+        "Nov": 2.87,
+        "Dec": 2.38
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Hàm Ninh",
+      "admin1_code": "91",
+      "location": [
+        10.18058,
+        104.04769
+      ],
+      "monthly": {
+        "Jan": 4.41,
+        "Feb": 4.78,
+        "Mar": 4.83,
+        "Apr": 4.46,
+        "May": 3.72,
+        "Jun": 3.33,
+        "Jul": 3.08,
+        "Aug": 3.42,
+        "Sep": 3.19,
+        "Oct": 3.82,
+        "Nov": 4.16,
+        "Dec": 4.26
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Haiphong",
+      "admin1_code": "31",
+      "location": [
+        20.86481,
+        106.68345
+      ],
+      "monthly": {
+        "Jan": 2.14,
+        "Feb": 2.28,
+        "Mar": 2.48,
+        "Apr": 3.03,
+        "May": 3.61,
+        "Jun": 3.71,
+        "Jul": 3.74,
+        "Aug": 3.45,
+        "Sep": 3.43,
+        "Oct": 3.38,
+        "Nov": 3.05,
+        "Dec": 2.53
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Hải Dương",
+      "admin1_code": "31",
+      "location": [
+        20.94099,
+        106.33302
+      ],
+      "monthly": {
+        "Jan": 2.01,
+        "Feb": 2.28,
+        "Mar": 2.48,
+        "Apr": 2.96,
+        "May": 3.64,
+        "Jun": 3.67,
+        "Jul": 3.71,
+        "Aug": 3.5,
+        "Sep": 3.42,
+        "Oct": 3.2,
+        "Nov": 2.91,
+        "Dec": 2.42
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Hải Châu",
+      "admin1_code": "48",
+      "location": [
+        15.91667,
+        108.13333
+      ],
+      "monthly": {
+        "Jan": 2.5,
+        "Feb": 3.47,
+        "Mar": 3.94,
+        "Apr": 4.54,
+        "May": 4.76,
+        "Jun": 4.61,
+        "Jul": 4.37,
+        "Aug": 4.32,
+        "Sep": 4.07,
+        "Oct": 3.13,
+        "Nov": 2.62,
+        "Dec": 2.1
+      },
+      "average": 3.7
+    },
+    {
+      "name": "Hà Giang",
+      "admin1_code": "08",
+      "location": [
+        22.82333,
+        104.98357
+      ],
+      "monthly": {
+        "Jan": 1.75,
+        "Feb": 2.16,
+        "Mar": 2.31,
+        "Apr": 2.91,
+        "May": 3.45,
+        "Jun": 3.21,
+        "Jul": 3.5,
+        "Aug": 3.64,
+        "Sep": 3.4,
+        "Oct": 2.77,
+        "Nov": 2.59,
+        "Dec": 2.02
+      },
+      "average": 2.81
+    },
+    {
+      "name": "Hà Đông",
+      "admin1_code": "01",
+      "location": [
+        20.97136,
+        105.77876
+      ],
+      "monthly": {
+        "Jan": 2,
+        "Feb": 2.42,
+        "Mar": 2.65,
+        "Apr": 3.06,
+        "May": 3.71,
+        "Jun": 3.76,
+        "Jul": 3.68,
+        "Aug": 3.5,
+        "Sep": 3.29,
+        "Oct": 3.04,
+        "Nov": 2.89,
+        "Dec": 2.39
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Gò Vấp",
+      "admin1_code": "79",
+      "location": [
+        10.81667,
+        106.68333
+      ],
+      "monthly": {
+        "Jan": 4.12,
+        "Feb": 4.73,
+        "Mar": 4.78,
+        "Apr": 4.43,
+        "May": 3.78,
+        "Jun": 3.54,
+        "Jul": 3.47,
+        "Aug": 3.68,
+        "Sep": 3.53,
+        "Oct": 3.7,
+        "Nov": 3.89,
+        "Dec": 3.84
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Gò Công",
+      "admin1_code": "82",
+      "location": [
+        10.36667,
+        106.66667
+      ],
+      "monthly": {
+        "Jan": 4.24,
+        "Feb": 4.99,
+        "Mar": 5.08,
+        "Apr": 4.75,
+        "May": 3.98,
+        "Jun": 3.59,
+        "Jul": 3.58,
+        "Aug": 3.79,
+        "Sep": 3.67,
+        "Oct": 3.84,
+        "Nov": 3.96,
+        "Dec": 3.89
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Giá Rai",
+      "admin1_code": "96",
+      "location": [
+        9.23444,
+        105.45833
+      ],
+      "monthly": {
+        "Jan": 3.9,
+        "Feb": 4.61,
+        "Mar": 4.87,
+        "Apr": 4.62,
+        "May": 3.77,
+        "Jun": 3.35,
+        "Jul": 3.18,
+        "Aug": 3.55,
+        "Sep": 3.39,
+        "Oct": 3.61,
+        "Nov": 3.6,
+        "Dec": 3.6
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Gia Nghĩa",
+      "admin1_code": "68",
+      "location": [
+        12.00423,
+        107.69074
+      ],
+      "monthly": {
+        "Jan": 4.82,
+        "Feb": 5.26,
+        "Mar": 4.96,
+        "Apr": 4.63,
+        "May": 4.05,
+        "Jun": 3.49,
+        "Jul": 3.15,
+        "Aug": 3.4,
+        "Sep": 3.41,
+        "Oct": 3.96,
+        "Nov": 4.13,
+        "Dec": 4.41
+      },
+      "average": 4.14
+    },
+    {
+      "name": "Đưc Trọng",
+      "admin1_code": "68",
+      "location": [
+        11.73559,
+        108.3733
+      ],
+      "monthly": {
+        "Jan": 4.75,
+        "Feb": 5.44,
+        "Mar": 5.3,
+        "Apr": 4.83,
+        "May": 4.17,
+        "Jun": 3.78,
+        "Jul": 3.55,
+        "Aug": 3.84,
+        "Sep": 3.73,
+        "Oct": 3.97,
+        "Nov": 3.94,
+        "Dec": 4.24
+      },
+      "average": 4.29
+    },
+    {
+      "name": "Đức Phổ",
+      "admin1_code": "51",
+      "location": [
+        14.81355,
+        108.95931
+      ],
+      "monthly": {
+        "Jan": 2.79,
+        "Feb": 3.88,
+        "Mar": 4.53,
+        "Apr": 4.88,
+        "May": 4.95,
+        "Jun": 4.7,
+        "Jul": 4.55,
+        "Aug": 4.63,
+        "Sep": 4.29,
+        "Oct": 3.44,
+        "Nov": 2.85,
+        "Dec": 2.37
+      },
+      "average": 3.99
+    },
+    {
+      "name": "Đố Sơn",
+      "admin1_code": "31",
+      "location": [
+        20.71361,
+        106.78944
+      ],
+      "monthly": {
+        "Jan": 2.19,
+        "Feb": 2.37,
+        "Mar": 2.56,
+        "Apr": 3.18,
+        "May": 3.93,
+        "Jun": 3.89,
+        "Jul": 3.97,
+        "Aug": 3.6,
+        "Sep": 3.56,
+        "Oct": 3.49,
+        "Nov": 3.13,
+        "Dec": 2.53
+      },
+      "average": 3.2
+    },
+    {
+      "name": "Đồng Xoài",
+      "admin1_code": "75",
+      "location": [
+        11.53495,
+        106.88324
+      ],
+      "monthly": {
+        "Jan": 4.47,
+        "Feb": 4.87,
+        "Mar": 4.8,
+        "Apr": 4.49,
+        "May": 4.07,
+        "Jun": 3.67,
+        "Jul": 3.47,
+        "Aug": 3.69,
+        "Sep": 3.5,
+        "Oct": 3.94,
+        "Nov": 4.11,
+        "Dec": 4.27
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Thị Trấn Đông Triều",
+      "admin1_code": "22",
+      "location": [
+        21.08242,
+        106.5138
+      ],
+      "monthly": {
+        "Jan": 2.04,
+        "Feb": 2.22,
+        "Mar": 2.37,
+        "Apr": 2.87,
+        "May": 3.52,
+        "Jun": 3.56,
+        "Jul": 3.62,
+        "Aug": 3.42,
+        "Sep": 3.44,
+        "Oct": 3.22,
+        "Nov": 2.92,
+        "Dec": 2.42
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Đồng Hới",
+      "admin1_code": "44",
+      "location": [
+        17.46885,
+        106.62226
+      ],
+      "monthly": {
+        "Jan": 2.22,
+        "Feb": 2.81,
+        "Mar": 3.25,
+        "Apr": 3.97,
+        "May": 4.57,
+        "Jun": 4.5,
+        "Jul": 4.31,
+        "Aug": 4.15,
+        "Sep": 3.86,
+        "Oct": 2.82,
+        "Nov": 2.5,
+        "Dec": 1.92
+      },
+      "average": 3.41
+    },
+    {
+      "name": "Ðông Hà",
+      "admin1_code": "44",
+      "location": [
+        16.81625,
+        107.10031
+      ],
+      "monthly": {
+        "Jan": 2.08,
+        "Feb": 2.8,
+        "Mar": 3.16,
+        "Apr": 3.92,
+        "May": 4.44,
+        "Jun": 4.48,
+        "Jul": 4.22,
+        "Aug": 4.11,
+        "Sep": 3.81,
+        "Oct": 2.76,
+        "Nov": 2.37,
+        "Dec": 1.8
+      },
+      "average": 3.33
+    },
+    {
+      "name": "Diễn Thành",
+      "admin1_code": "40",
+      "location": [
+        18.97652,
+        105.60034
+      ],
+      "monthly": {
+        "Jan": 2.1,
+        "Feb": 2.54,
+        "Mar": 2.9,
+        "Apr": 3.59,
+        "May": 4.36,
+        "Jun": 4.36,
+        "Jul": 4.23,
+        "Aug": 3.9,
+        "Sep": 3.52,
+        "Oct": 2.82,
+        "Nov": 2.6,
+        "Dec": 2.09
+      },
+      "average": 3.25
+    },
+    {
+      "name": "Dien Bien Phu",
+      "admin1_code": "11",
+      "location": [
+        21.38602,
+        103.02301
+      ],
+      "monthly": {
+        "Jan": 3.37,
+        "Feb": 4.05,
+        "Mar": 3.72,
+        "Apr": 3.83,
+        "May": 3.97,
+        "Jun": 3.14,
+        "Jul": 3.07,
+        "Aug": 3.15,
+        "Sep": 3.53,
+        "Oct": 3.51,
+        "Nov": 3.66,
+        "Dec": 3.32
+      },
+      "average": 3.53
+    },
+    {
+      "name": "Điện Bàn",
+      "admin1_code": "48",
+      "location": [
+        15.88853,
+        108.25447
+      ],
+      "monthly": {
+        "Jan": 2.6,
+        "Feb": 3.6,
+        "Mar": 4.09,
+        "Apr": 4.66,
+        "May": 4.85,
+        "Jun": 4.64,
+        "Jul": 4.42,
+        "Aug": 4.41,
+        "Sep": 4.16,
+        "Oct": 3.22,
+        "Nov": 2.73,
+        "Dec": 2.15
+      },
+      "average": 3.79
+    },
+    {
+      "name": "Dịch Vọng",
+      "admin1_code": "01",
+      "location": [
+        21.03333,
+        105.8
+      ],
+      "monthly": {
+        "Jan": 1.97,
+        "Feb": 2.35,
+        "Mar": 2.58,
+        "Apr": 3.02,
+        "May": 3.59,
+        "Jun": 3.64,
+        "Jul": 3.59,
+        "Aug": 3.41,
+        "Sep": 3.26,
+        "Oct": 3.05,
+        "Nov": 2.85,
+        "Dec": 2.37
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Dĩ An",
+      "admin1_code": "79",
+      "location": [
+        10.90682,
+        106.7694
+      ],
+      "monthly": {
+        "Jan": 4.18,
+        "Feb": 4.74,
+        "Mar": 4.73,
+        "Apr": 4.36,
+        "May": 3.77,
+        "Jun": 3.54,
+        "Jul": 3.46,
+        "Aug": 3.7,
+        "Sep": 3.51,
+        "Oct": 3.74,
+        "Nov": 3.96,
+        "Dec": 3.95
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Thị Trấn Đất Đỏ",
+      "admin1_code": "79",
+      "location": [
+        10.49093,
+        107.27014
+      ],
+      "monthly": {
+        "Jan": 4.39,
+        "Feb": 5.14,
+        "Mar": 5.23,
+        "Apr": 4.92,
+        "May": 4.23,
+        "Jun": 3.73,
+        "Jul": 3.67,
+        "Aug": 4.03,
+        "Sep": 3.87,
+        "Oct": 4.01,
+        "Nov": 4.06,
+        "Dec": 3.94
+      },
+      "average": 4.27
+    },
+    {
+      "name": "Đan Phượng",
+      "admin1_code": "01",
+      "location": [
+        21.08917,
+        105.6625
+      ],
+      "monthly": {
+        "Jan": 2,
+        "Feb": 2.41,
+        "Mar": 2.64,
+        "Apr": 3.08,
+        "May": 3.67,
+        "Jun": 3.71,
+        "Jul": 3.63,
+        "Aug": 3.49,
+        "Sep": 3.32,
+        "Oct": 3.04,
+        "Nov": 2.85,
+        "Dec": 2.36
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Da Nang",
+      "admin1_code": "48",
+      "location": [
+        16.06778,
+        108.22083
+      ],
+      "monthly": {
+        "Jan": 2.7,
+        "Feb": 3.73,
+        "Mar": 4.18,
+        "Apr": 4.7,
+        "May": 4.92,
+        "Jun": 4.7,
+        "Jul": 4.5,
+        "Aug": 4.49,
+        "Sep": 4.17,
+        "Oct": 3.25,
+        "Nov": 2.81,
+        "Dec": 2.16
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Thị Trấn Đầm Hà",
+      "admin1_code": "22",
+      "location": [
+        21.35314,
+        107.59722
+      ],
+      "monthly": {
+        "Jan": 2.06,
+        "Feb": 2.24,
+        "Mar": 2.26,
+        "Apr": 2.85,
+        "May": 3.55,
+        "Jun": 3.54,
+        "Jul": 3.71,
+        "Aug": 3.63,
+        "Sep": 3.74,
+        "Oct": 3.54,
+        "Nov": 3.12,
+        "Dec": 2.52
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Ðà Lạt",
+      "admin1_code": "68",
+      "location": [
+        11.94646,
+        108.44193
+      ],
+      "monthly": {
+        "Jan": 4.66,
+        "Feb": 5.36,
+        "Mar": 5.18,
+        "Apr": 4.64,
+        "May": 4.1,
+        "Jun": 3.7,
+        "Jul": 3.45,
+        "Aug": 3.73,
+        "Sep": 3.66,
+        "Oct": 3.84,
+        "Nov": 3.79,
+        "Dec": 4.13
+      },
+      "average": 4.19
+    },
+    {
+      "name": "Thị Trấn Đại Từ",
+      "admin1_code": "19",
+      "location": [
+        21.63384,
+        105.63766
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.14,
+        "Mar": 2.37,
+        "Apr": 2.78,
+        "May": 3.32,
+        "Jun": 3.38,
+        "Jul": 3.54,
+        "Aug": 3.45,
+        "Sep": 3.34,
+        "Oct": 3.05,
+        "Nov": 2.75,
+        "Dec": 2.23
+      },
+      "average": 2.85
+    },
+    {
+      "name": "Dại Mỗ",
+      "admin1_code": "01",
+      "location": [
+        20.98333,
+        105.76667
+      ],
+      "monthly": {
+        "Jan": 2,
+        "Feb": 2.43,
+        "Mar": 2.65,
+        "Apr": 3.06,
+        "May": 3.7,
+        "Jun": 3.75,
+        "Jul": 3.66,
+        "Aug": 3.49,
+        "Sep": 3.28,
+        "Oct": 3.03,
+        "Nov": 2.89,
+        "Dec": 2.39
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Đại Lộc",
+      "admin1_code": "48",
+      "location": [
+        15.88214,
+        108.12092
+      ],
+      "monthly": {
+        "Jan": 2.51,
+        "Feb": 3.47,
+        "Mar": 3.95,
+        "Apr": 4.55,
+        "May": 4.75,
+        "Jun": 4.61,
+        "Jul": 4.36,
+        "Aug": 4.31,
+        "Sep": 4.06,
+        "Oct": 3.13,
+        "Nov": 2.6,
+        "Dec": 2.07
+      },
+      "average": 3.7
+    },
+    {
+      "name": "Củ Chi",
+      "admin1_code": "79",
+      "location": [
+        10.97333,
+        106.49325
+      ],
+      "monthly": {
+        "Jan": 4.24,
+        "Feb": 4.74,
+        "Mar": 4.69,
+        "Apr": 4.34,
+        "May": 3.85,
+        "Jun": 3.68,
+        "Jul": 3.55,
+        "Aug": 3.84,
+        "Sep": 3.62,
+        "Oct": 3.8,
+        "Nov": 3.98,
+        "Dec": 4.05
+      },
+      "average": 4.03
+    },
+    {
+      "name": "Cô Tô",
+      "admin1_code": "91",
+      "location": [
+        10.35,
+        105.01667
+      ],
+      "monthly": {
+        "Jan": 4.18,
+        "Feb": 4.64,
+        "Mar": 4.59,
+        "Apr": 4.36,
+        "May": 3.78,
+        "Jun": 3.45,
+        "Jul": 3.26,
+        "Aug": 3.55,
+        "Sep": 3.42,
+        "Oct": 3.72,
+        "Nov": 3.87,
+        "Dec": 4.06
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Cờ Đỏ",
+      "admin1_code": "92",
+      "location": [
+        10.09377,
+        105.42916
+      ],
+      "monthly": {
+        "Jan": 4.05,
+        "Feb": 4.5,
+        "Mar": 4.68,
+        "Apr": 4.49,
+        "May": 3.71,
+        "Jun": 3.46,
+        "Jul": 3.39,
+        "Aug": 3.69,
+        "Sep": 3.43,
+        "Oct": 3.72,
+        "Nov": 3.77,
+        "Dec": 3.86
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Cổ Lóa",
+      "admin1_code": "01",
+      "location": [
+        21.11667,
+        105.86667
+      ],
+      "monthly": {
+        "Jan": 1.96,
+        "Feb": 2.32,
+        "Mar": 2.54,
+        "Apr": 2.97,
+        "May": 3.6,
+        "Jun": 3.64,
+        "Jul": 3.66,
+        "Aug": 3.5,
+        "Sep": 3.39,
+        "Oct": 3.13,
+        "Nov": 2.88,
+        "Dec": 2.39
+      },
+      "average": 3
+    },
+    {
+      "name": "Cổ Đô",
+      "admin1_code": "01",
+      "location": [
+        21.27964,
+        105.36404
+      ],
+      "monthly": {
+        "Jan": 1.97,
+        "Feb": 2.38,
+        "Mar": 2.61,
+        "Apr": 3.08,
+        "May": 3.7,
+        "Jun": 3.72,
+        "Jul": 3.69,
+        "Aug": 3.61,
+        "Sep": 3.4,
+        "Oct": 3.07,
+        "Nov": 2.82,
+        "Dec": 2.26
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Chũ",
+      "admin1_code": "24",
+      "location": [
+        21.37379,
+        106.56649
+      ],
+      "monthly": {
+        "Jan": 2.02,
+        "Feb": 2.24,
+        "Mar": 2.33,
+        "Apr": 2.89,
+        "May": 3.53,
+        "Jun": 3.54,
+        "Jul": 3.66,
+        "Aug": 3.46,
+        "Sep": 3.51,
+        "Oct": 3.28,
+        "Nov": 2.96,
+        "Dec": 2.44
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Chơn Thành",
+      "admin1_code": "75",
+      "location": [
+        11.42821,
+        106.63536
+      ],
+      "monthly": {
+        "Jan": 4.41,
+        "Feb": 4.84,
+        "Mar": 4.82,
+        "Apr": 4.5,
+        "May": 4.06,
+        "Jun": 3.75,
+        "Jul": 3.59,
+        "Aug": 3.8,
+        "Sep": 3.58,
+        "Oct": 3.98,
+        "Nov": 4.18,
+        "Dec": 4.29
+      },
+      "average": 4.15
+    },
+    {
+      "name": "Chợ Lớn",
+      "admin1_code": "79",
+      "location": [
+        10.75,
+        106.65
+      ],
+      "monthly": {
+        "Jan": 4.06,
+        "Feb": 4.72,
+        "Mar": 4.85,
+        "Apr": 4.55,
+        "May": 3.91,
+        "Jun": 3.66,
+        "Jul": 3.56,
+        "Aug": 3.79,
+        "Sep": 3.6,
+        "Oct": 3.69,
+        "Nov": 3.83,
+        "Dec": 3.74
+      },
+      "average": 4
+    },
+    {
+      "name": "Chí Linh",
+      "admin1_code": "31",
+      "location": [
+        21.06667,
+        106.31667
+      ],
+      "monthly": {
+        "Jan": 2.02,
+        "Feb": 2.29,
+        "Mar": 2.46,
+        "Apr": 2.95,
+        "May": 3.6,
+        "Jun": 3.61,
+        "Jul": 3.7,
+        "Aug": 3.51,
+        "Sep": 3.44,
+        "Oct": 3.23,
+        "Nov": 2.96,
+        "Dec": 2.42
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Châu Phong",
+      "admin1_code": "91",
+      "location": [
+        10.71667,
+        105.13333
+      ],
+      "monthly": {
+        "Jan": 4.33,
+        "Feb": 4.74,
+        "Mar": 4.74,
+        "Apr": 4.43,
+        "May": 4.02,
+        "Jun": 3.7,
+        "Jul": 3.49,
+        "Aug": 3.81,
+        "Sep": 3.74,
+        "Oct": 3.9,
+        "Nov": 4.07,
+        "Dec": 4.23
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Châu Đốc",
+      "admin1_code": "91",
+      "location": [
+        10.7,
+        105.11667
+      ],
+      "monthly": {
+        "Jan": 4.28,
+        "Feb": 4.72,
+        "Mar": 4.75,
+        "Apr": 4.41,
+        "May": 4.01,
+        "Jun": 3.71,
+        "Jul": 3.49,
+        "Aug": 3.8,
+        "Sep": 3.7,
+        "Oct": 3.84,
+        "Nov": 4.04,
+        "Dec": 4.2
+      },
+      "average": 4.08
+    },
+    {
+      "name": "Cát Bà",
+      "admin1_code": "31",
+      "location": [
+        20.72779,
+        107.04819
+      ],
+      "monthly": {
+        "Jan": 2.17,
+        "Feb": 2.3,
+        "Mar": 2.5,
+        "Apr": 3.15,
+        "May": 3.85,
+        "Jun": 3.83,
+        "Jul": 3.93,
+        "Aug": 3.58,
+        "Sep": 3.58,
+        "Oct": 3.54,
+        "Nov": 3.15,
+        "Dec": 2.53
+      },
+      "average": 3.18
+    },
+    {
+      "name": "Cao Lãnh",
+      "admin1_code": "82",
+      "location": [
+        10.46017,
+        105.63294
+      ],
+      "monthly": {
+        "Jan": 4.12,
+        "Feb": 4.62,
+        "Mar": 4.71,
+        "Apr": 4.41,
+        "May": 3.83,
+        "Jun": 3.56,
+        "Jul": 3.45,
+        "Aug": 3.76,
+        "Sep": 3.59,
+        "Oct": 3.73,
+        "Nov": 3.93,
+        "Dec": 4.02
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Cao Bằng",
+      "admin1_code": "04",
+      "location": [
+        22.66568,
+        106.25786
+      ],
+      "monthly": {
+        "Jan": 1.87,
+        "Feb": 2.37,
+        "Mar": 2.41,
+        "Apr": 2.97,
+        "May": 3.37,
+        "Jun": 3.29,
+        "Jul": 3.55,
+        "Aug": 3.62,
+        "Sep": 3.43,
+        "Oct": 2.94,
+        "Nov": 2.75,
+        "Dec": 2.27
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Cần Thơ",
+      "admin1_code": "92",
+      "location": [
+        10.03711,
+        105.78825
+      ],
+      "monthly": {
+        "Jan": 4.05,
+        "Feb": 4.56,
+        "Mar": 4.66,
+        "Apr": 4.44,
+        "May": 3.7,
+        "Jun": 3.4,
+        "Jul": 3.32,
+        "Aug": 3.65,
+        "Sep": 3.48,
+        "Oct": 3.64,
+        "Nov": 3.71,
+        "Dec": 3.82
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Cần Giờ",
+      "admin1_code": "79",
+      "location": [
+        10.41115,
+        106.95474
+      ],
+      "monthly": {
+        "Jan": 4.34,
+        "Feb": 5.14,
+        "Mar": 5.25,
+        "Apr": 4.93,
+        "May": 4.25,
+        "Jun": 3.77,
+        "Jul": 3.7,
+        "Aug": 4.03,
+        "Sep": 3.87,
+        "Oct": 4.02,
+        "Nov": 4.07,
+        "Dec": 3.93
+      },
+      "average": 4.27
+    },
+    {
+      "name": "Cần Đước",
+      "admin1_code": "80",
+      "location": [
+        10.50966,
+        106.60308
+      ],
+      "monthly": {
+        "Jan": 4.18,
+        "Feb": 4.84,
+        "Mar": 4.98,
+        "Apr": 4.67,
+        "May": 3.97,
+        "Jun": 3.63,
+        "Jul": 3.58,
+        "Aug": 3.8,
+        "Sep": 3.67,
+        "Oct": 3.83,
+        "Nov": 3.92,
+        "Dec": 3.86
+      },
+      "average": 4.08
+    },
+    {
+      "name": "Cần Giuộc",
+      "admin1_code": "80",
+      "location": [
+        10.60857,
+        106.67135
+      ],
+      "monthly": {
+        "Jan": 4.19,
+        "Feb": 4.9,
+        "Mar": 4.99,
+        "Apr": 4.69,
+        "May": 3.96,
+        "Jun": 3.65,
+        "Jul": 3.61,
+        "Aug": 3.83,
+        "Sep": 3.68,
+        "Oct": 3.78,
+        "Nov": 3.9,
+        "Dec": 3.84
+      },
+      "average": 4.08
+    },
+    {
+      "name": "Cam Ranh",
+      "admin1_code": "56",
+      "location": [
+        11.92144,
+        109.15913
+      ],
+      "monthly": {
+        "Jan": 3.86,
+        "Feb": 4.71,
+        "Mar": 5.01,
+        "Apr": 5.13,
+        "May": 4.81,
+        "Jun": 4.47,
+        "Jul": 4.27,
+        "Aug": 4.7,
+        "Sep": 4.42,
+        "Oct": 3.94,
+        "Nov": 3.33,
+        "Dec": 3.18
+      },
+      "average": 4.32
+    },
+    {
+      "name": "Cẩm Phả Mines",
+      "admin1_code": "22",
+      "location": [
+        21.01667,
+        107.3
+      ],
+      "monthly": {
+        "Jan": 2.14,
+        "Feb": 2.29,
+        "Mar": 2.4,
+        "Apr": 3.01,
+        "May": 3.6,
+        "Jun": 3.62,
+        "Jul": 3.73,
+        "Aug": 3.52,
+        "Sep": 3.62,
+        "Oct": 3.58,
+        "Nov": 3.15,
+        "Dec": 2.58
+      },
+      "average": 3.1
+    },
+    {
+      "name": "Cẩm Phả",
+      "admin1_code": "22",
+      "location": [
+        21.01004,
+        107.27345
+      ],
+      "monthly": {
+        "Jan": 2.15,
+        "Feb": 2.28,
+        "Mar": 2.41,
+        "Apr": 3,
+        "May": 3.6,
+        "Jun": 3.62,
+        "Jul": 3.72,
+        "Aug": 3.51,
+        "Sep": 3.59,
+        "Oct": 3.55,
+        "Nov": 3.14,
+        "Dec": 2.57
+      },
+      "average": 3.1
+    },
+    {
+      "name": "Cam Lộ",
+      "admin1_code": "44",
+      "location": [
+        16.80797,
+        106.99405
+      ],
+      "monthly": {
+        "Jan": 1.98,
+        "Feb": 2.66,
+        "Mar": 3.06,
+        "Apr": 3.82,
+        "May": 4.37,
+        "Jun": 4.4,
+        "Jul": 4.14,
+        "Aug": 4.02,
+        "Sep": 3.71,
+        "Oct": 2.65,
+        "Nov": 2.26,
+        "Dec": 1.72
+      },
+      "average": 3.23
+    },
+    {
+      "name": "Cà Mau",
+      "admin1_code": "96",
+      "location": [
+        9.17682,
+        105.15242
+      ],
+      "monthly": {
+        "Jan": 3.9,
+        "Feb": 4.53,
+        "Mar": 4.78,
+        "Apr": 4.52,
+        "May": 3.65,
+        "Jun": 3.31,
+        "Jul": 3.14,
+        "Aug": 3.5,
+        "Sep": 3.35,
+        "Oct": 3.52,
+        "Nov": 3.58,
+        "Dec": 3.63
+      },
+      "average": 3.78
+    },
+    {
+      "name": "Cái Răng",
+      "admin1_code": "92",
+      "location": [
+        10.0009,
+        105.75095
+      ],
+      "monthly": {
+        "Jan": 4.01,
+        "Feb": 4.55,
+        "Mar": 4.65,
+        "Apr": 4.37,
+        "May": 3.69,
+        "Jun": 3.4,
+        "Jul": 3.3,
+        "Aug": 3.63,
+        "Sep": 3.45,
+        "Oct": 3.59,
+        "Nov": 3.69,
+        "Dec": 3.77
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Cai Lậy",
+      "admin1_code": "82",
+      "location": [
+        10.4,
+        106.11667
+      ],
+      "monthly": {
+        "Jan": 4.05,
+        "Feb": 4.65,
+        "Mar": 4.69,
+        "Apr": 4.39,
+        "May": 3.76,
+        "Jun": 3.48,
+        "Jul": 3.46,
+        "Aug": 3.7,
+        "Sep": 3.54,
+        "Oct": 3.6,
+        "Nov": 3.75,
+        "Dec": 3.77
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Buôn Trấp",
+      "admin1_code": "66",
+      "location": [
+        12.48478,
+        108.02982
+      ],
+      "monthly": {
+        "Jan": 4.5,
+        "Feb": 5.17,
+        "Mar": 5.05,
+        "Apr": 4.79,
+        "May": 4.2,
+        "Jun": 3.74,
+        "Jul": 3.47,
+        "Aug": 3.77,
+        "Sep": 3.69,
+        "Oct": 3.81,
+        "Nov": 3.6,
+        "Dec": 3.82
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Buôn Ma Thuột",
+      "admin1_code": "66",
+      "location": [
+        12.66747,
+        108.03775
+      ],
+      "monthly": {
+        "Jan": 4.31,
+        "Feb": 5.07,
+        "Mar": 5.02,
+        "Apr": 4.8,
+        "May": 4.25,
+        "Jun": 3.82,
+        "Jul": 3.49,
+        "Aug": 3.78,
+        "Sep": 3.71,
+        "Oct": 3.78,
+        "Nov": 3.57,
+        "Dec": 3.59
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Buôn Hồ",
+      "admin1_code": "66",
+      "location": [
+        12.95226,
+        108.2962
+      ],
+      "monthly": {
+        "Jan": 3.68,
+        "Feb": 4.54,
+        "Mar": 4.77,
+        "Apr": 4.69,
+        "May": 4.32,
+        "Jun": 3.95,
+        "Jul": 3.65,
+        "Aug": 3.87,
+        "Sep": 3.71,
+        "Oct": 3.52,
+        "Nov": 3.19,
+        "Dec": 3.03
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Hoàn Lão",
+      "admin1_code": "44",
+      "location": [
+        17.58436,
+        106.53425
+      ],
+      "monthly": {
+        "Jan": 2.27,
+        "Feb": 2.83,
+        "Mar": 3.25,
+        "Apr": 3.95,
+        "May": 4.55,
+        "Jun": 4.51,
+        "Jul": 4.32,
+        "Aug": 4.16,
+        "Sep": 3.89,
+        "Oct": 2.86,
+        "Nov": 2.57,
+        "Dec": 2
+      },
+      "average": 3.43
+    },
+    {
+      "name": "Bình Thủy",
+      "admin1_code": "92",
+      "location": [
+        10.07431,
+        105.73974
+      ],
+      "monthly": {
+        "Jan": 4.05,
+        "Feb": 4.56,
+        "Mar": 4.62,
+        "Apr": 4.35,
+        "May": 3.68,
+        "Jun": 3.4,
+        "Jul": 3.34,
+        "Aug": 3.68,
+        "Sep": 3.49,
+        "Oct": 3.65,
+        "Nov": 3.72,
+        "Dec": 3.82
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Bỉm Sơn",
+      "admin1_code": "38",
+      "location": [
+        20.07806,
+        105.86028
+      ],
+      "monthly": {
+        "Jan": 2.04,
+        "Feb": 2.44,
+        "Mar": 2.72,
+        "Apr": 3.22,
+        "May": 3.99,
+        "Jun": 4.04,
+        "Jul": 3.93,
+        "Aug": 3.55,
+        "Sep": 3.32,
+        "Oct": 2.97,
+        "Nov": 2.78,
+        "Dec": 2.37
+      },
+      "average": 3.11
+    },
+    {
+      "name": "Biên Hòa",
+      "admin1_code": "75",
+      "location": [
+        10.94469,
+        106.82432
+      ],
+      "monthly": {
+        "Jan": 4.15,
+        "Feb": 4.68,
+        "Mar": 4.63,
+        "Apr": 4.31,
+        "May": 3.76,
+        "Jun": 3.57,
+        "Jul": 3.45,
+        "Aug": 3.72,
+        "Sep": 3.49,
+        "Oct": 3.74,
+        "Nov": 3.89,
+        "Dec": 3.91
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Bến Tre",
+      "admin1_code": "86",
+      "location": [
+        10.24147,
+        106.37585
+      ],
+      "monthly": {
+        "Jan": 4.02,
+        "Feb": 4.74,
+        "Mar": 4.81,
+        "Apr": 4.52,
+        "May": 3.79,
+        "Jun": 3.51,
+        "Jul": 3.49,
+        "Aug": 3.77,
+        "Sep": 3.6,
+        "Oct": 3.67,
+        "Nov": 3.8,
+        "Dec": 3.72
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Bến Thủy",
+      "admin1_code": "40",
+      "location": [
+        18.65,
+        105.7
+      ],
+      "monthly": {
+        "Jan": 1.87,
+        "Feb": 2.37,
+        "Mar": 2.77,
+        "Apr": 3.48,
+        "May": 4.22,
+        "Jun": 4.32,
+        "Jul": 4.18,
+        "Aug": 3.91,
+        "Sep": 3.43,
+        "Oct": 2.56,
+        "Nov": 2.29,
+        "Dec": 1.83
+      },
+      "average": 3.1
+    },
+    {
+      "name": "Bến Cát",
+      "admin1_code": "79",
+      "location": [
+        11.15,
+        106.6
+      ],
+      "monthly": {
+        "Jan": 4.21,
+        "Feb": 4.65,
+        "Mar": 4.61,
+        "Apr": 4.3,
+        "May": 3.95,
+        "Jun": 3.72,
+        "Jul": 3.57,
+        "Aug": 3.83,
+        "Sep": 3.61,
+        "Oct": 3.9,
+        "Nov": 4.05,
+        "Dec": 4.12
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Ba Vì",
+      "admin1_code": "01",
+      "location": [
+        21.08333,
+        105.38333
+      ],
+      "monthly": {
+        "Jan": 1.87,
+        "Feb": 2.27,
+        "Mar": 2.56,
+        "Apr": 2.99,
+        "May": 3.44,
+        "Jun": 3.56,
+        "Jul": 3.49,
+        "Aug": 3.38,
+        "Sep": 3.22,
+        "Oct": 2.95,
+        "Nov": 2.71,
+        "Dec": 2.22
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Bảo Lộc",
+      "admin1_code": "68",
+      "location": [
+        11.54798,
+        107.80772
+      ],
+      "monthly": {
+        "Jan": 4.38,
+        "Feb": 4.94,
+        "Mar": 4.76,
+        "Apr": 4.46,
+        "May": 3.94,
+        "Jun": 3.54,
+        "Jul": 3.29,
+        "Aug": 3.55,
+        "Sep": 3.43,
+        "Oct": 3.73,
+        "Nov": 3.85,
+        "Dec": 4.09
+      },
+      "average": 4
+    },
+    {
+      "name": "Ít Ong",
+      "admin1_code": "14",
+      "location": [
+        21.5175,
+        104.02701
+      ],
+      "monthly": {
+        "Jan": 2.92,
+        "Feb": 3.55,
+        "Mar": 3.36,
+        "Apr": 3.65,
+        "May": 3.87,
+        "Jun": 3.1,
+        "Jul": 3.21,
+        "Aug": 3.26,
+        "Sep": 3.39,
+        "Oct": 3.27,
+        "Nov": 3.38,
+        "Dec": 2.99
+      },
+      "average": 3.33
+    },
+    {
+      "name": "Thị Trấn Thuận Châu",
+      "admin1_code": "14",
+      "location": [
+        21.43849,
+        103.69
+      ],
+      "monthly": {
+        "Jan": 2.8,
+        "Feb": 3.51,
+        "Mar": 3.46,
+        "Apr": 3.69,
+        "May": 3.74,
+        "Jun": 3.03,
+        "Jul": 3.08,
+        "Aug": 3.26,
+        "Sep": 3.57,
+        "Oct": 3.44,
+        "Nov": 3.43,
+        "Dec": 2.96
+      },
+      "average": 3.33
+    },
+    {
+      "name": "Bà Nà",
+      "admin1_code": "48",
+      "location": [
+        15.98333,
+        107.98333
+      ],
+      "monthly": {
+        "Jan": 2.23,
+        "Feb": 3.2,
+        "Mar": 3.77,
+        "Apr": 4.36,
+        "May": 4.54,
+        "Jun": 4.51,
+        "Jul": 4.18,
+        "Aug": 4.12,
+        "Sep": 3.77,
+        "Oct": 2.81,
+        "Nov": 2.27,
+        "Dec": 1.88
+      },
+      "average": 3.47
+    },
+    {
+      "name": "Bắc Quang",
+      "admin1_code": "08",
+      "location": [
+        22.48333,
+        104.86667
+      ],
+      "monthly": {
+        "Jan": 1.74,
+        "Feb": 2.19,
+        "Mar": 2.41,
+        "Apr": 2.9,
+        "May": 3.48,
+        "Jun": 3.37,
+        "Jul": 3.52,
+        "Aug": 3.6,
+        "Sep": 3.41,
+        "Oct": 2.81,
+        "Nov": 2.57,
+        "Dec": 2
+      },
+      "average": 2.83
+    },
+    {
+      "name": "Bắc Ninh",
+      "admin1_code": "24",
+      "location": [
+        21.18608,
+        106.07631
+      ],
+      "monthly": {
+        "Jan": 1.98,
+        "Feb": 2.3,
+        "Mar": 2.46,
+        "Apr": 2.96,
+        "May": 3.58,
+        "Jun": 3.61,
+        "Jul": 3.72,
+        "Aug": 3.53,
+        "Sep": 3.46,
+        "Oct": 3.2,
+        "Nov": 2.92,
+        "Dec": 2.41
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Bạc Liêu",
+      "admin1_code": "96",
+      "location": [
+        9.29414,
+        105.72776
+      ],
+      "monthly": {
+        "Jan": 3.97,
+        "Feb": 4.7,
+        "Mar": 4.94,
+        "Apr": 4.73,
+        "May": 3.9,
+        "Jun": 3.45,
+        "Jul": 3.26,
+        "Aug": 3.66,
+        "Sep": 3.46,
+        "Oct": 3.67,
+        "Nov": 3.63,
+        "Dec": 3.65
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Bạch Mai",
+      "admin1_code": "01",
+      "location": [
+        20.98333,
+        105.83333
+      ],
+      "monthly": {
+        "Jan": 1.98,
+        "Feb": 2.36,
+        "Mar": 2.58,
+        "Apr": 3.03,
+        "May": 3.67,
+        "Jun": 3.71,
+        "Jul": 3.64,
+        "Aug": 3.45,
+        "Sep": 3.3,
+        "Oct": 3.08,
+        "Nov": 2.88,
+        "Dec": 2.39
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Bắc Giang",
+      "admin1_code": "24",
+      "location": [
+        21.27307,
+        106.1946
+      ],
+      "monthly": {
+        "Jan": 1.98,
+        "Feb": 2.27,
+        "Mar": 2.41,
+        "Apr": 2.95,
+        "May": 3.59,
+        "Jun": 3.62,
+        "Jul": 3.75,
+        "Aug": 3.57,
+        "Sep": 3.52,
+        "Oct": 3.28,
+        "Nov": 2.95,
+        "Dec": 2.42
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Bắc Kạn",
+      "admin1_code": "19",
+      "location": [
+        22.14701,
+        105.83481
+      ],
+      "monthly": {
+        "Jan": 1.91,
+        "Feb": 2.28,
+        "Mar": 2.34,
+        "Apr": 2.83,
+        "May": 3.42,
+        "Jun": 3.4,
+        "Jul": 3.58,
+        "Aug": 3.57,
+        "Sep": 3.47,
+        "Oct": 3.1,
+        "Nov": 2.81,
+        "Dec": 2.32
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Ấp Phước Tĩnh",
+      "admin1_code": "79",
+      "location": [
+        10.4,
+        107.18333
+      ],
+      "monthly": {
+        "Jan": 4.35,
+        "Feb": 5.14,
+        "Mar": 5.26,
+        "Apr": 4.96,
+        "May": 4.29,
+        "Jun": 3.81,
+        "Jul": 3.77,
+        "Aug": 4.14,
+        "Sep": 3.98,
+        "Oct": 4.03,
+        "Nov": 4.02,
+        "Dec": 3.89
+      },
+      "average": 4.3
+    },
+    {
+      "name": "Lai Vung",
+      "admin1_code": "82",
+      "location": [
+        10.25664,
+        105.59329
+      ],
+      "monthly": {
+        "Jan": 4.07,
+        "Feb": 4.57,
+        "Mar": 4.67,
+        "Apr": 4.47,
+        "May": 3.81,
+        "Jun": 3.5,
+        "Jul": 3.44,
+        "Aug": 3.75,
+        "Sep": 3.55,
+        "Oct": 3.67,
+        "Nov": 3.76,
+        "Dec": 3.85
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Ấp Long Thạnh",
+      "admin1_code": "91",
+      "location": [
+        10.76067,
+        105.27428
+      ],
+      "monthly": {
+        "Jan": 4.34,
+        "Feb": 4.77,
+        "Mar": 4.7,
+        "Apr": 4.51,
+        "May": 4.07,
+        "Jun": 3.74,
+        "Jul": 3.52,
+        "Aug": 3.83,
+        "Sep": 3.77,
+        "Oct": 3.92,
+        "Nov": 4.14,
+        "Dec": 4.29
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Ấp Hô Phòng",
+      "admin1_code": "96",
+      "location": [
+        9.22583,
+        105.41861
+      ],
+      "monthly": {
+        "Jan": 3.88,
+        "Feb": 4.59,
+        "Mar": 4.86,
+        "Apr": 4.59,
+        "May": 3.72,
+        "Jun": 3.34,
+        "Jul": 3.17,
+        "Aug": 3.55,
+        "Sep": 3.37,
+        "Oct": 3.58,
+        "Nov": 3.59,
+        "Dec": 3.59
+      },
+      "average": 3.82
+    },
+    {
+      "name": "Ấp Bình Châu",
+      "admin1_code": "79",
+      "location": [
+        10.55,
+        107.55
+      ],
+      "monthly": {
+        "Jan": 4.46,
+        "Feb": 5.25,
+        "Mar": 5.32,
+        "Apr": 5.01,
+        "May": 4.3,
+        "Jun": 3.83,
+        "Jul": 3.74,
+        "Aug": 4.12,
+        "Sep": 4,
+        "Oct": 4.11,
+        "Nov": 4.09,
+        "Dec": 3.96
+      },
+      "average": 4.35
+    },
+    {
+      "name": "An Trạch",
+      "admin1_code": "96",
+      "location": [
+        9.06861,
+        105.39583
+      ],
+      "monthly": {
+        "Jan": 4.08,
+        "Feb": 4.82,
+        "Mar": 5.07,
+        "Apr": 4.76,
+        "May": 3.85,
+        "Jun": 3.37,
+        "Jul": 3.19,
+        "Aug": 3.58,
+        "Sep": 3.43,
+        "Oct": 3.7,
+        "Nov": 3.69,
+        "Dec": 3.71
+      },
+      "average": 3.94
+    },
+    {
+      "name": "An Nhơn",
+      "admin1_code": "52",
+      "location": [
+        13.88579,
+        109.10823
+      ],
+      "monthly": {
+        "Jan": 2.83,
+        "Feb": 3.89,
+        "Mar": 4.53,
+        "Apr": 4.88,
+        "May": 4.92,
+        "Jun": 4.58,
+        "Jul": 4.4,
+        "Aug": 4.49,
+        "Sep": 4.28,
+        "Oct": 3.48,
+        "Nov": 2.82,
+        "Dec": 2.37
+      },
+      "average": 3.96
+    },
+    {
+      "name": "An Khê",
+      "admin1_code": "52",
+      "location": [
+        13.95,
+        108.65
+      ],
+      "monthly": {
+        "Jan": 3,
+        "Feb": 3.98,
+        "Mar": 4.53,
+        "Apr": 4.81,
+        "May": 4.64,
+        "Jun": 4.35,
+        "Jul": 4.07,
+        "Aug": 4.17,
+        "Sep": 4.02,
+        "Oct": 3.45,
+        "Nov": 2.77,
+        "Dec": 2.57
+      },
+      "average": 3.86
+    },
+    {
+      "name": "An Hải",
+      "admin1_code": "48",
+      "location": [
+        16.06667,
+        108.23333
+      ],
+      "monthly": {
+        "Jan": 2.69,
+        "Feb": 3.74,
+        "Mar": 4.19,
+        "Apr": 4.7,
+        "May": 4.92,
+        "Jun": 4.69,
+        "Jul": 4.5,
+        "Aug": 4.49,
+        "Sep": 4.17,
+        "Oct": 3.25,
+        "Nov": 2.81,
+        "Dec": 2.16
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Bình Thạnh",
+      "admin1_code": "79",
+      "location": [
+        10.811,
+        106.706
+      ],
+      "monthly": {
+        "Jan": 4.12,
+        "Feb": 4.75,
+        "Mar": 4.79,
+        "Apr": 4.46,
+        "May": 3.8,
+        "Jun": 3.52,
+        "Jul": 3.44,
+        "Aug": 3.66,
+        "Sep": 3.51,
+        "Oct": 3.69,
+        "Nov": 3.89,
+        "Dec": 3.84
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Ba Dinh",
+      "admin1_code": "01",
+      "location": [
+        21.03652,
+        105.82684
+      ],
+      "monthly": {
+        "Jan": 1.96,
+        "Feb": 2.32,
+        "Mar": 2.56,
+        "Apr": 3,
+        "May": 3.59,
+        "Jun": 3.63,
+        "Jul": 3.6,
+        "Aug": 3.43,
+        "Sep": 3.3,
+        "Oct": 3.07,
+        "Nov": 2.86,
+        "Dec": 2.37
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Mui Ne",
+      "admin1_code": "68",
+      "location": [
+        10.93314,
+        108.28327
+      ],
+      "monthly": {
+        "Jan": 4.55,
+        "Feb": 5.32,
+        "Mar": 5.37,
+        "Apr": 5.16,
+        "May": 4.68,
+        "Jun": 4.21,
+        "Jul": 4.07,
+        "Aug": 4.5,
+        "Sep": 4.38,
+        "Oct": 4.26,
+        "Nov": 4.03,
+        "Dec": 3.99
+      },
+      "average": 4.54
+    },
+    {
+      "name": "Tân Uyên",
+      "admin1_code": "79",
+      "location": [
+        11.08416,
+        106.78834
+      ],
+      "monthly": {
+        "Jan": 4.27,
+        "Feb": 4.8,
+        "Mar": 4.78,
+        "Apr": 4.41,
+        "May": 3.95,
+        "Jun": 3.65,
+        "Jul": 3.52,
+        "Aug": 3.75,
+        "Sep": 3.57,
+        "Oct": 3.92,
+        "Nov": 4.11,
+        "Dec": 4.12
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Núi Sập",
+      "admin1_code": "91",
+      "location": [
+        10.26478,
+        105.26676
+      ],
+      "monthly": {
+        "Jan": 4.14,
+        "Feb": 4.59,
+        "Mar": 4.6,
+        "Apr": 4.53,
+        "May": 3.82,
+        "Jun": 3.47,
+        "Jul": 3.34,
+        "Aug": 3.67,
+        "Sep": 3.48,
+        "Oct": 3.66,
+        "Nov": 3.85,
+        "Dec": 4.05
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Cung Kiệm",
+      "admin1_code": "24",
+      "location": [
+        21.18697,
+        106.16076
+      ],
+      "monthly": {
+        "Jan": 2,
+        "Feb": 2.32,
+        "Mar": 2.44,
+        "Apr": 2.97,
+        "May": 3.62,
+        "Jun": 3.63,
+        "Jul": 3.75,
+        "Aug": 3.58,
+        "Sep": 3.5,
+        "Oct": 3.24,
+        "Nov": 2.94,
+        "Dec": 2.42
+      },
+      "average": 3.03
+    },
+    {
+      "name": "Lai Châu",
+      "admin1_code": "12",
+      "location": [
+        22.39644,
+        103.45824
+      ],
+      "monthly": {
+        "Jan": 2.99,
+        "Feb": 3.79,
+        "Mar": 3.69,
+        "Apr": 3.94,
+        "May": 3.79,
+        "Jun": 2.76,
+        "Jul": 2.93,
+        "Aug": 3.15,
+        "Sep": 3.38,
+        "Oct": 3.38,
+        "Nov": 3.59,
+        "Dec": 3.06
+      },
+      "average": 3.37
+    },
+    {
+      "name": "Thị Trấn Việt Quang",
+      "admin1_code": "08",
+      "location": [
+        22.41509,
+        104.80682
+      ],
+      "monthly": {
+        "Jan": 1.73,
+        "Feb": 2.2,
+        "Mar": 2.41,
+        "Apr": 2.89,
+        "May": 3.52,
+        "Jun": 3.45,
+        "Jul": 3.59,
+        "Aug": 3.63,
+        "Sep": 3.42,
+        "Oct": 2.81,
+        "Nov": 2.59,
+        "Dec": 1.99
+      },
+      "average": 2.85
+    },
+    {
+      "name": "Phu Quoc",
+      "admin1_code": "91",
+      "location": [
+        10.22409,
+        103.97156
+      ],
+      "monthly": {
+        "Jan": 4.32,
+        "Feb": 4.64,
+        "Mar": 4.59,
+        "Apr": 4.27,
+        "May": 3.62,
+        "Jun": 3.27,
+        "Jul": 3.01,
+        "Aug": 3.35,
+        "Sep": 3.12,
+        "Oct": 3.67,
+        "Nov": 4.02,
+        "Dec": 4.21
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Bình Minh",
+      "admin1_code": "86",
+      "location": [
+        10.06821,
+        105.82221
+      ],
+      "monthly": {
+        "Jan": 4.07,
+        "Feb": 4.58,
+        "Mar": 4.66,
+        "Apr": 4.52,
+        "May": 3.74,
+        "Jun": 3.42,
+        "Jul": 3.35,
+        "Aug": 3.67,
+        "Sep": 3.49,
+        "Oct": 3.65,
+        "Nov": 3.72,
+        "Dec": 3.81
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Bo",
+      "admin1_code": "25",
+      "location": [
+        20.67264,
+        105.53625
+      ],
+      "monthly": {
+        "Jan": 2.02,
+        "Feb": 2.44,
+        "Mar": 2.69,
+        "Apr": 3.07,
+        "May": 3.69,
+        "Jun": 3.73,
+        "Jul": 3.63,
+        "Aug": 3.45,
+        "Sep": 3.27,
+        "Oct": 2.98,
+        "Nov": 2.86,
+        "Dec": 2.38
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Thành Phố Bà Rịa",
+      "admin1_code": "79",
+      "location": [
+        10.49626,
+        107.1685
+      ],
+      "monthly": {
+        "Jan": 4.28,
+        "Feb": 5.05,
+        "Mar": 5.11,
+        "Apr": 4.75,
+        "May": 4.13,
+        "Jun": 3.72,
+        "Jul": 3.61,
+        "Aug": 3.95,
+        "Sep": 3.8,
+        "Oct": 3.9,
+        "Nov": 3.94,
+        "Dec": 3.81
+      },
+      "average": 4.17
+    },
+    {
+      "name": "Lương Bằng",
+      "admin1_code": "33",
+      "location": [
+        20.74003,
+        106.05998
+      ],
+      "monthly": {
+        "Jan": 1.96,
+        "Feb": 2.33,
+        "Mar": 2.56,
+        "Apr": 3.03,
+        "May": 3.73,
+        "Jun": 3.78,
+        "Jul": 3.72,
+        "Aug": 3.5,
+        "Sep": 3.38,
+        "Oct": 3.07,
+        "Nov": 2.83,
+        "Dec": 2.36
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Sóc Sơn",
+      "admin1_code": "01",
+      "location": [
+        21.25782,
+        105.84894
+      ],
+      "monthly": {
+        "Jan": 1.96,
+        "Feb": 2.29,
+        "Mar": 2.52,
+        "Apr": 2.96,
+        "May": 3.57,
+        "Jun": 3.63,
+        "Jul": 3.72,
+        "Aug": 3.57,
+        "Sep": 3.46,
+        "Oct": 3.2,
+        "Nov": 2.88,
+        "Dec": 2.37
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Cầu Diễn",
+      "admin1_code": "01",
+      "location": [
+        21.03929,
+        105.76659
+      ],
+      "monthly": {
+        "Jan": 1.98,
+        "Feb": 2.38,
+        "Mar": 2.62,
+        "Apr": 3.04,
+        "May": 3.61,
+        "Jun": 3.68,
+        "Jul": 3.6,
+        "Aug": 3.42,
+        "Sep": 3.27,
+        "Oct": 3.03,
+        "Nov": 2.85,
+        "Dec": 2.37
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Trâu Quỳ",
+      "admin1_code": "01",
+      "location": [
+        21.01951,
+        105.93694
+      ],
+      "monthly": {
+        "Jan": 1.97,
+        "Feb": 2.32,
+        "Mar": 2.54,
+        "Apr": 3,
+        "May": 3.62,
+        "Jun": 3.67,
+        "Jul": 3.65,
+        "Aug": 3.47,
+        "Sep": 3.37,
+        "Oct": 3.1,
+        "Nov": 2.85,
+        "Dec": 2.37
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Cầu Giấy",
+      "admin1_code": "01",
+      "location": [
+        21.03228,
+        105.80073
+      ],
+      "monthly": {
+        "Jan": 1.97,
+        "Feb": 2.35,
+        "Mar": 2.58,
+        "Apr": 3.02,
+        "May": 3.59,
+        "Jun": 3.64,
+        "Jul": 3.59,
+        "Aug": 3.41,
+        "Sep": 3.26,
+        "Oct": 3.05,
+        "Nov": 2.85,
+        "Dec": 2.37
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Thanh Xuân",
+      "admin1_code": "01",
+      "location": [
+        20.99472,
+        105.79977
+      ],
+      "monthly": {
+        "Jan": 1.99,
+        "Feb": 2.38,
+        "Mar": 2.61,
+        "Apr": 3.03,
+        "May": 3.65,
+        "Jun": 3.71,
+        "Jul": 3.62,
+        "Aug": 3.44,
+        "Sep": 3.26,
+        "Oct": 3.03,
+        "Nov": 2.87,
+        "Dec": 2.38
+      },
+      "average": 3
+    },
+    {
+      "name": "Đống Đa",
+      "admin1_code": "01",
+      "location": [
+        21.013,
+        105.825
+      ],
+      "monthly": {
+        "Jan": 1.96,
+        "Feb": 2.33,
+        "Mar": 2.56,
+        "Apr": 3.01,
+        "May": 3.61,
+        "Jun": 3.65,
+        "Jul": 3.6,
+        "Aug": 3.42,
+        "Sep": 3.28,
+        "Oct": 3.06,
+        "Nov": 2.87,
+        "Dec": 2.39
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Hoàn Kiếm",
+      "admin1_code": "01",
+      "location": [
+        21.02857,
+        105.85064
+      ],
+      "monthly": {
+        "Jan": 1.96,
+        "Feb": 2.29,
+        "Mar": 2.55,
+        "Apr": 2.99,
+        "May": 3.61,
+        "Jun": 3.65,
+        "Jul": 3.62,
+        "Aug": 3.45,
+        "Sep": 3.33,
+        "Oct": 3.08,
+        "Nov": 2.87,
+        "Dec": 2.38
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Hai Bà Trưng",
+      "admin1_code": "01",
+      "location": [
+        21.01341,
+        105.84772
+      ],
+      "monthly": {
+        "Jan": 1.96,
+        "Feb": 2.3,
+        "Mar": 2.56,
+        "Apr": 3,
+        "May": 3.62,
+        "Jun": 3.66,
+        "Jul": 3.62,
+        "Aug": 3.45,
+        "Sep": 3.32,
+        "Oct": 3.08,
+        "Nov": 2.88,
+        "Dec": 2.39
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Tây Mỗ",
+      "admin1_code": "01",
+      "location": [
+        21.00247,
+        105.7457
+      ],
+      "monthly": {
+        "Jan": 1.99,
+        "Feb": 2.41,
+        "Mar": 2.64,
+        "Apr": 3.07,
+        "May": 3.69,
+        "Jun": 3.74,
+        "Jul": 3.64,
+        "Aug": 3.47,
+        "Sep": 3.27,
+        "Oct": 3.01,
+        "Nov": 2.87,
+        "Dec": 2.37
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Bản Na Hỷ",
+      "admin1_code": "40",
+      "location": [
+        19.56361,
+        104.53459
+      ],
+      "monthly": {
+        "Jan": 2.41,
+        "Feb": 3.02,
+        "Mar": 3.29,
+        "Apr": 3.64,
+        "May": 3.95,
+        "Jun": 3.78,
+        "Jul": 3.67,
+        "Aug": 3.47,
+        "Sep": 3.33,
+        "Oct": 2.81,
+        "Nov": 2.84,
+        "Dec": 2.44
+      },
+      "average": 3.22
+    },
+    {
+      "name": "Thái Hòa",
+      "admin1_code": "40",
+      "location": [
+        18.92031,
+        104.97441
+      ],
+      "monthly": {
+        "Jan": 2.21,
+        "Feb": 2.55,
+        "Mar": 2.9,
+        "Apr": 3.36,
+        "May": 3.87,
+        "Jun": 3.89,
+        "Jul": 3.74,
+        "Aug": 3.57,
+        "Sep": 3.38,
+        "Oct": 2.66,
+        "Nov": 2.51,
+        "Dec": 2.18
+      },
+      "average": 3.07
+    },
+    {
+      "name": "Nghèn",
+      "admin1_code": "42",
+      "location": [
+        18.45119,
+        105.77969
+      ],
+      "monthly": {
+        "Jan": 1.93,
+        "Feb": 2.45,
+        "Mar": 2.82,
+        "Apr": 3.56,
+        "May": 4.25,
+        "Jun": 4.36,
+        "Jul": 4.22,
+        "Aug": 3.95,
+        "Sep": 3.47,
+        "Oct": 2.55,
+        "Nov": 2.29,
+        "Dec": 1.77
+      },
+      "average": 3.13
+    },
+    {
+      "name": "Thanh Khê",
+      "admin1_code": "48",
+      "location": [
+        16.0706,
+        108.19102
+      ],
+      "monthly": {
+        "Jan": 2.6,
+        "Feb": 3.59,
+        "Mar": 4.04,
+        "Apr": 4.62,
+        "May": 4.87,
+        "Jun": 4.66,
+        "Jul": 4.46,
+        "Aug": 4.45,
+        "Sep": 4.13,
+        "Oct": 3.18,
+        "Nov": 2.7,
+        "Dec": 2.09
+      },
+      "average": 3.78
+    },
+    {
+      "name": "Cẩm Lệ",
+      "admin1_code": "48",
+      "location": [
+        16.01771,
+        108.20381
+      ],
+      "monthly": {
+        "Jan": 2.68,
+        "Feb": 3.67,
+        "Mar": 4.11,
+        "Apr": 4.67,
+        "May": 4.89,
+        "Jun": 4.69,
+        "Jul": 4.48,
+        "Aug": 4.47,
+        "Sep": 4.18,
+        "Oct": 3.25,
+        "Nov": 2.8,
+        "Dec": 2.18
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Sơn Trà",
+      "admin1_code": "48",
+      "location": [
+        16.06068,
+        108.23256
+      ],
+      "monthly": {
+        "Jan": 2.7,
+        "Feb": 3.74,
+        "Mar": 4.19,
+        "Apr": 4.71,
+        "May": 4.92,
+        "Jun": 4.7,
+        "Jul": 4.51,
+        "Aug": 4.49,
+        "Sep": 4.18,
+        "Oct": 3.27,
+        "Nov": 2.82,
+        "Dec": 2.17
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Hòa Cường",
+      "admin1_code": "48",
+      "location": [
+        16.04314,
+        108.18209
+      ],
+      "monthly": {
+        "Jan": 2.59,
+        "Feb": 3.58,
+        "Mar": 4.02,
+        "Apr": 4.61,
+        "May": 4.85,
+        "Jun": 4.65,
+        "Jul": 4.44,
+        "Aug": 4.42,
+        "Sep": 4.12,
+        "Oct": 3.16,
+        "Nov": 2.71,
+        "Dec": 2.11
+      },
+      "average": 3.77
+    },
+    {
+      "name": "Núi Thành",
+      "admin1_code": "48",
+      "location": [
+        15.43194,
+        108.65946
+      ],
+      "monthly": {
+        "Jan": 2.61,
+        "Feb": 3.67,
+        "Mar": 4.28,
+        "Apr": 4.71,
+        "May": 4.9,
+        "Jun": 4.7,
+        "Jul": 4.54,
+        "Aug": 4.57,
+        "Sep": 4.2,
+        "Oct": 3.29,
+        "Nov": 2.76,
+        "Dec": 2.23
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Lý Sơn",
+      "admin1_code": "51",
+      "location": [
+        15.37198,
+        109.11891
+      ],
+      "monthly": {
+        "Jan": 2.95,
+        "Feb": 3.93,
+        "Mar": 4.56,
+        "Apr": 4.94,
+        "May": 5.01,
+        "Jun": 4.75,
+        "Jul": 4.65,
+        "Aug": 4.74,
+        "Sep": 4.24,
+        "Oct": 3.47,
+        "Nov": 3.04,
+        "Dec": 2.57
+      },
+      "average": 4.07
+    },
+    {
+      "name": "A Yun Pa",
+      "admin1_code": "52",
+      "location": [
+        13.40025,
+        108.43503
+      ],
+      "monthly": {
+        "Jan": 3.55,
+        "Feb": 4.43,
+        "Mar": 4.76,
+        "Apr": 4.8,
+        "May": 4.49,
+        "Jun": 4,
+        "Jul": 3.75,
+        "Aug": 3.95,
+        "Sep": 3.84,
+        "Oct": 3.59,
+        "Nov": 3.22,
+        "Dec": 3.02
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Ea Drăng",
+      "admin1_code": "66",
+      "location": [
+        13.2045,
+        108.21029
+      ],
+      "monthly": {
+        "Jan": 4.03,
+        "Feb": 4.78,
+        "Mar": 4.77,
+        "Apr": 4.56,
+        "May": 4.08,
+        "Jun": 3.62,
+        "Jul": 3.26,
+        "Aug": 3.48,
+        "Sep": 3.41,
+        "Oct": 3.59,
+        "Nov": 3.43,
+        "Dec": 3.42
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Quảng Phú",
+      "admin1_code": "66",
+      "location": [
+        12.81965,
+        108.07738
+      ],
+      "monthly": {
+        "Jan": 4.2,
+        "Feb": 4.99,
+        "Mar": 4.96,
+        "Apr": 4.79,
+        "May": 4.27,
+        "Jun": 3.87,
+        "Jul": 3.51,
+        "Aug": 3.79,
+        "Sep": 3.64,
+        "Oct": 3.7,
+        "Nov": 3.54,
+        "Dec": 3.52
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Đinh Văn",
+      "admin1_code": "68",
+      "location": [
+        11.78624,
+        108.24282
+      ],
+      "monthly": {
+        "Jan": 4.65,
+        "Feb": 5.35,
+        "Mar": 5.18,
+        "Apr": 4.8,
+        "May": 4.18,
+        "Jun": 3.78,
+        "Jul": 3.56,
+        "Aug": 3.81,
+        "Sep": 3.71,
+        "Oct": 3.92,
+        "Nov": 3.93,
+        "Dec": 4.15
+      },
+      "average": 4.25
+    },
+    {
+      "name": "Khánh Hải",
+      "admin1_code": "56",
+      "location": [
+        11.59105,
+        109.04052
+      ],
+      "monthly": {
+        "Jan": 4.21,
+        "Feb": 4.99,
+        "Mar": 5.13,
+        "Apr": 5.16,
+        "May": 4.8,
+        "Jun": 4.46,
+        "Jul": 4.33,
+        "Aug": 4.76,
+        "Sep": 4.44,
+        "Oct": 4.01,
+        "Nov": 3.56,
+        "Dec": 3.61
+      },
+      "average": 4.45
+    },
+    {
+      "name": "Phú Quý",
+      "admin1_code": "68",
+      "location": [
+        10.5166,
+        108.93292
+      ],
+      "monthly": {
+        "Jan": 4.18,
+        "Feb": 5.04,
+        "Mar": 5.24,
+        "Apr": 5.03,
+        "May": 4.45,
+        "Jun": 4.03,
+        "Jul": 4.01,
+        "Aug": 4.45,
+        "Sep": 4.2,
+        "Oct": 3.86,
+        "Nov": 3.61,
+        "Dec": 3.49
+      },
+      "average": 4.3
+    },
+    {
+      "name": "Long Khánh",
+      "admin1_code": "75",
+      "location": [
+        10.92655,
+        107.24783
+      ],
+      "monthly": {
+        "Jan": 4.24,
+        "Feb": 4.84,
+        "Mar": 4.78,
+        "Apr": 4.37,
+        "May": 3.83,
+        "Jun": 3.52,
+        "Jul": 3.45,
+        "Aug": 3.7,
+        "Sep": 3.54,
+        "Oct": 3.82,
+        "Nov": 3.94,
+        "Dec": 3.93
+      },
+      "average": 4
+    },
+    {
+      "name": "Hòa Thành",
+      "admin1_code": "80",
+      "location": [
+        11.28696,
+        106.12936
+      ],
+      "monthly": {
+        "Jan": 4.34,
+        "Feb": 4.77,
+        "Mar": 4.76,
+        "Apr": 4.46,
+        "May": 4.07,
+        "Jun": 3.86,
+        "Jul": 3.7,
+        "Aug": 3.91,
+        "Sep": 3.65,
+        "Oct": 3.87,
+        "Nov": 4.09,
+        "Dec": 4.26
+      },
+      "average": 4.14
+    },
+    {
+      "name": "Dương Minh Châu",
+      "admin1_code": "80",
+      "location": [
+        11.38414,
+        106.23078
+      ],
+      "monthly": {
+        "Jan": 4.52,
+        "Feb": 4.97,
+        "Mar": 4.96,
+        "Apr": 4.62,
+        "May": 4.12,
+        "Jun": 3.82,
+        "Jul": 3.63,
+        "Aug": 3.87,
+        "Sep": 3.64,
+        "Oct": 4.06,
+        "Nov": 4.31,
+        "Dec": 4.38
+      },
+      "average": 4.24
+    },
+    {
+      "name": "Duyên Hải",
+      "admin1_code": "86",
+      "location": [
+        9.63497,
+        106.49237
+      ],
+      "monthly": {
+        "Jan": 4.17,
+        "Feb": 4.93,
+        "Mar": 5.04,
+        "Apr": 4.79,
+        "May": 4.01,
+        "Jun": 3.53,
+        "Jul": 3.45,
+        "Aug": 3.79,
+        "Sep": 3.65,
+        "Oct": 3.78,
+        "Nov": 3.81,
+        "Dec": 3.77
+      },
+      "average": 4.06
+    },
+    {
+      "name": "Vĩnh Thạnh",
+      "admin1_code": "92",
+      "location": [
+        10.22263,
+        105.39841
+      ],
+      "monthly": {
+        "Jan": 4.12,
+        "Feb": 4.54,
+        "Mar": 4.79,
+        "Apr": 4.56,
+        "May": 3.76,
+        "Jun": 3.49,
+        "Jul": 3.42,
+        "Aug": 3.72,
+        "Sep": 3.47,
+        "Oct": 3.76,
+        "Nov": 3.84,
+        "Dec": 3.97
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Ngã Bảy",
+      "admin1_code": "92",
+      "location": [
+        9.81371,
+        105.82096
+      ],
+      "monthly": {
+        "Jan": 3.92,
+        "Feb": 4.62,
+        "Mar": 4.73,
+        "Apr": 4.38,
+        "May": 3.67,
+        "Jun": 3.41,
+        "Jul": 3.25,
+        "Aug": 3.61,
+        "Sep": 3.41,
+        "Oct": 3.58,
+        "Nov": 3.66,
+        "Dec": 3.66
+      },
+      "average": 3.82
+    },
+    {
+      "name": "Ấp Một",
+      "admin1_code": "92",
+      "location": [
+        9.84217,
+        105.53602
+      ],
+      "monthly": {
+        "Jan": 3.94,
+        "Feb": 4.59,
+        "Mar": 4.67,
+        "Apr": 4.43,
+        "May": 3.66,
+        "Jun": 3.38,
+        "Jul": 3.23,
+        "Aug": 3.56,
+        "Sep": 3.4,
+        "Oct": 3.64,
+        "Nov": 3.72,
+        "Dec": 3.75
+      },
+      "average": 3.83
+    },
+    {
+      "name": "Trần Văn Thời",
+      "admin1_code": "96",
+      "location": [
+        9.07713,
+        104.97914
+      ],
+      "monthly": {
+        "Jan": 3.91,
+        "Feb": 4.56,
+        "Mar": 4.76,
+        "Apr": 4.48,
+        "May": 3.6,
+        "Jun": 3.25,
+        "Jul": 3.1,
+        "Aug": 3.47,
+        "Sep": 3.33,
+        "Oct": 3.5,
+        "Nov": 3.57,
+        "Dec": 3.66
+      },
+      "average": 3.77
+    },
+    {
+      "name": "Quận Bốn",
+      "admin1_code": "79",
+      "location": [
+        10.76684,
+        106.70574
+      ],
+      "monthly": {
+        "Jan": 4.13,
+        "Feb": 4.76,
+        "Mar": 4.83,
+        "Apr": 4.49,
+        "May": 3.84,
+        "Jun": 3.56,
+        "Jul": 3.48,
+        "Aug": 3.72,
+        "Sep": 3.53,
+        "Oct": 3.7,
+        "Nov": 3.89,
+        "Dec": 3.83
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Quận Sáu",
+      "admin1_code": "79",
+      "location": [
+        10.7468,
+        106.64903
+      ],
+      "monthly": {
+        "Jan": 4.04,
+        "Feb": 4.71,
+        "Mar": 4.85,
+        "Apr": 4.55,
+        "May": 3.91,
+        "Jun": 3.66,
+        "Jul": 3.56,
+        "Aug": 3.8,
+        "Sep": 3.61,
+        "Oct": 3.68,
+        "Nov": 3.81,
+        "Dec": 3.73
+      },
+      "average": 3.99
+    },
+    {
+      "name": "Quận Năm",
+      "admin1_code": "79",
+      "location": [
+        10.75567,
+        106.66745
+      ],
+      "monthly": {
+        "Jan": 4.08,
+        "Feb": 4.73,
+        "Mar": 4.83,
+        "Apr": 4.52,
+        "May": 3.9,
+        "Jun": 3.63,
+        "Jul": 3.54,
+        "Aug": 3.78,
+        "Sep": 3.58,
+        "Oct": 3.69,
+        "Nov": 3.84,
+        "Dec": 3.76
+      },
+      "average": 3.99
+    },
+    {
+      "name": "Quận Mười Một",
+      "admin1_code": "79",
+      "location": [
+        10.76383,
+        106.64355
+      ],
+      "monthly": {
+        "Jan": 4.02,
+        "Feb": 4.68,
+        "Mar": 4.79,
+        "Apr": 4.48,
+        "May": 3.86,
+        "Jun": 3.63,
+        "Jul": 3.55,
+        "Aug": 3.78,
+        "Sep": 3.6,
+        "Oct": 3.68,
+        "Nov": 3.79,
+        "Dec": 3.72
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Quận Mười",
+      "admin1_code": "79",
+      "location": [
+        10.76823,
+        106.66632
+      ],
+      "monthly": {
+        "Jan": 4.05,
+        "Feb": 4.69,
+        "Mar": 4.77,
+        "Apr": 4.44,
+        "May": 3.82,
+        "Jun": 3.58,
+        "Jul": 3.51,
+        "Aug": 3.74,
+        "Sep": 3.57,
+        "Oct": 3.68,
+        "Nov": 3.82,
+        "Dec": 3.75
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Quận Ba",
+      "admin1_code": "79",
+      "location": [
+        10.77494,
+        106.68628
+      ],
+      "monthly": {
+        "Jan": 4.1,
+        "Feb": 4.74,
+        "Mar": 4.81,
+        "Apr": 4.47,
+        "May": 3.84,
+        "Jun": 3.56,
+        "Jul": 3.49,
+        "Aug": 3.73,
+        "Sep": 3.54,
+        "Oct": 3.69,
+        "Nov": 3.87,
+        "Dec": 3.8
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Gia Lâm",
+      "admin1_code": "01",
+      "location": [
+        21.02,
+        105.939
+      ],
+      "monthly": {
+        "Jan": 1.97,
+        "Feb": 2.32,
+        "Mar": 2.54,
+        "Apr": 3,
+        "May": 3.62,
+        "Jun": 3.67,
+        "Jul": 3.65,
+        "Aug": 3.47,
+        "Sep": 3.37,
+        "Oct": 3.1,
+        "Nov": 2.85,
+        "Dec": 2.37
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Gành Hào",
+      "admin1_code": "96",
+      "location": [
+        9.02827,
+        105.42116
+      ],
+      "monthly": {
+        "Jan": 4.21,
+        "Feb": 4.95,
+        "Mar": 5.17,
+        "Apr": 4.87,
+        "May": 3.97,
+        "Jun": 3.41,
+        "Jul": 3.21,
+        "Aug": 3.63,
+        "Sep": 3.48,
+        "Oct": 3.77,
+        "Nov": 3.79,
+        "Dec": 3.82
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Cửa Nam",
+      "admin1_code": "01",
+      "location": [
+        21.02115,
+        105.85231
+      ],
+      "monthly": {
+        "Jan": 1.96,
+        "Feb": 2.29,
+        "Mar": 2.55,
+        "Apr": 2.99,
+        "May": 3.62,
+        "Jun": 3.65,
+        "Jul": 3.62,
+        "Aug": 3.46,
+        "Sep": 3.33,
+        "Oct": 3.09,
+        "Nov": 2.88,
+        "Dec": 2.38
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Kiên Hải",
+      "admin1_code": "91",
+      "location": [
+        9.97274,
+        104.8475
+      ],
+      "monthly": {
+        "Jan": 4.3,
+        "Feb": 4.83,
+        "Mar": 4.9,
+        "Apr": 4.54,
+        "May": 3.75,
+        "Jun": 3.4,
+        "Jul": 3.23,
+        "Aug": 3.57,
+        "Sep": 3.38,
+        "Oct": 3.82,
+        "Nov": 3.99,
+        "Dec": 4.07
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Quận Đức Thịnh",
+      "admin1_code": "00",
+      "location": [
+        10.30989,
+        105.73855
+      ],
+      "monthly": {
+        "Jan": 4.02,
+        "Feb": 4.61,
+        "Mar": 4.71,
+        "Apr": 4.44,
+        "May": 3.83,
+        "Jun": 3.51,
+        "Jul": 3.48,
+        "Aug": 3.76,
+        "Sep": 3.56,
+        "Oct": 3.62,
+        "Nov": 3.71,
+        "Dec": 3.82
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Huyện Lâm Hà",
+      "admin1_code": "68",
+      "location": [
+        11.81554,
+        108.21444
+      ],
+      "monthly": {
+        "Jan": 4.66,
+        "Feb": 5.31,
+        "Mar": 5.15,
+        "Apr": 4.78,
+        "May": 4.17,
+        "Jun": 3.77,
+        "Jul": 3.56,
+        "Aug": 3.82,
+        "Sep": 3.73,
+        "Oct": 3.92,
+        "Nov": 3.91,
+        "Dec": 4.15
+      },
+      "average": 4.24
+    },
+    {
+      "name": "Phú Quốc",
+      "admin1_code": "91",
+      "location": [
+        10.28715,
+        104.01047
+      ],
+      "monthly": {
+        "Jan": 4.36,
+        "Feb": 4.61,
+        "Mar": 4.46,
+        "Apr": 4.16,
+        "May": 3.53,
+        "Jun": 3.16,
+        "Jul": 2.88,
+        "Aug": 3.19,
+        "Sep": 3,
+        "Oct": 3.67,
+        "Nov": 4.07,
+        "Dec": 4.3
+      },
+      "average": 3.78
+    },
+    {
+      "name": "thị xã Quảng Trị",
+      "admin1_code": "44",
+      "location": [
+        16.75083,
+        107.18278
+      ],
+      "monthly": {
+        "Jan": 2.08,
+        "Feb": 2.79,
+        "Mar": 3.16,
+        "Apr": 3.91,
+        "May": 4.42,
+        "Jun": 4.51,
+        "Jul": 4.22,
+        "Aug": 4.12,
+        "Sep": 3.8,
+        "Oct": 2.76,
+        "Nov": 2.41,
+        "Dec": 1.75
+      },
+      "average": 3.33
+    },
+    {
+      "name": "Quang Minh",
+      "admin1_code": "01",
+      "location": [
+        21.18884,
+        105.77269
+      ],
+      "monthly": {
+        "Jan": 1.98,
+        "Feb": 2.34,
+        "Mar": 2.59,
+        "Apr": 3.03,
+        "May": 3.62,
+        "Jun": 3.67,
+        "Jul": 3.67,
+        "Aug": 3.49,
+        "Sep": 3.36,
+        "Oct": 3.13,
+        "Nov": 2.88,
+        "Dec": 2.38
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Thuận An",
+      "admin1_code": "79",
+      "location": [
+        10.9239,
+        106.71428
+      ],
+      "monthly": {
+        "Jan": 4.09,
+        "Feb": 4.65,
+        "Mar": 4.6,
+        "Apr": 4.22,
+        "May": 3.75,
+        "Jun": 3.6,
+        "Jul": 3.52,
+        "Aug": 3.77,
+        "Sep": 3.53,
+        "Oct": 3.68,
+        "Nov": 3.87,
+        "Dec": 3.88
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Ô Chợ Dừa",
+      "admin1_code": "01",
+      "location": [
+        21.02146,
+        105.82464
+      ],
+      "monthly": {
+        "Jan": 1.96,
+        "Feb": 2.34,
+        "Mar": 2.56,
+        "Apr": 3.01,
+        "May": 3.59,
+        "Jun": 3.63,
+        "Jul": 3.58,
+        "Aug": 3.4,
+        "Sep": 3.26,
+        "Oct": 3.06,
+        "Nov": 2.86,
+        "Dec": 2.38
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Láng Thượng",
+      "admin1_code": "01",
+      "location": [
+        21.02374,
+        105.8036
+      ],
+      "monthly": {
+        "Jan": 1.98,
+        "Feb": 2.36,
+        "Mar": 2.58,
+        "Apr": 3.02,
+        "May": 3.6,
+        "Jun": 3.65,
+        "Jul": 3.59,
+        "Aug": 3.4,
+        "Sep": 3.25,
+        "Oct": 3.04,
+        "Nov": 2.85,
+        "Dec": 2.38
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Óc Eo",
+      "admin1_code": "91",
+      "location": [
+        10.24212,
+        105.155
+      ],
+      "monthly": {
+        "Jan": 4.17,
+        "Feb": 4.62,
+        "Mar": 4.57,
+        "Apr": 4.48,
+        "May": 3.81,
+        "Jun": 3.49,
+        "Jul": 3.32,
+        "Aug": 3.62,
+        "Sep": 3.46,
+        "Oct": 3.66,
+        "Nov": 3.77,
+        "Dec": 4.04
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Bắc Từ Liêm",
+      "admin1_code": "01",
+      "location": [
+        21.06532,
+        105.74661
+      ],
+      "monthly": {
+        "Jan": 1.98,
+        "Feb": 2.37,
+        "Mar": 2.61,
+        "Apr": 3.04,
+        "May": 3.6,
+        "Jun": 3.66,
+        "Jul": 3.59,
+        "Aug": 3.43,
+        "Sep": 3.28,
+        "Oct": 3.04,
+        "Nov": 2.85,
+        "Dec": 2.37
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Vinhomes Ocean Park",
+      "admin1_code": "01",
+      "location": [
+        20.9948,
+        105.9465
+      ],
+      "monthly": {
+        "Jan": 1.98,
+        "Feb": 2.33,
+        "Mar": 2.54,
+        "Apr": 3.01,
+        "May": 3.65,
+        "Jun": 3.7,
+        "Jul": 3.65,
+        "Aug": 3.47,
+        "Sep": 3.36,
+        "Oct": 3.08,
+        "Nov": 2.85,
+        "Dec": 2.37
+      },
+      "average": 3
+    },
+    {
+      "name": "Ecopark",
+      "admin1_code": "33",
+      "location": [
+        20.9621,
+        105.9318
+      ],
+      "monthly": {
+        "Jan": 1.96,
+        "Feb": 2.33,
+        "Mar": 2.54,
+        "Apr": 3.01,
+        "May": 3.65,
+        "Jun": 3.71,
+        "Jul": 3.65,
+        "Aug": 3.46,
+        "Sep": 3.33,
+        "Oct": 3.07,
+        "Nov": 2.85,
+        "Dec": 2.37
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Vinhomes Smart City",
+      "admin1_code": "01",
+      "location": [
+        21.0045,
+        105.7404
+      ],
+      "monthly": {
+        "Jan": 1.99,
+        "Feb": 2.42,
+        "Mar": 2.64,
+        "Apr": 3.07,
+        "May": 3.7,
+        "Jun": 3.75,
+        "Jul": 3.65,
+        "Aug": 3.48,
+        "Sep": 3.27,
+        "Oct": 3.01,
+        "Nov": 2.86,
+        "Dec": 2.37
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Vinhomes Times City",
+      "admin1_code": "01",
+      "location": [
+        20.9945,
+        105.8677
+      ],
+      "monthly": {
+        "Jan": 1.96,
+        "Feb": 2.33,
+        "Mar": 2.55,
+        "Apr": 3,
+        "May": 3.63,
+        "Jun": 3.67,
+        "Jul": 3.63,
+        "Aug": 3.46,
+        "Sep": 3.33,
+        "Oct": 3.09,
+        "Nov": 2.88,
+        "Dec": 2.38
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Vinhomes Royal City",
+      "admin1_code": "01",
+      "location": [
+        21.0028,
+        105.8151
+      ],
+      "monthly": {
+        "Jan": 1.98,
+        "Feb": 2.36,
+        "Mar": 2.58,
+        "Apr": 3.03,
+        "May": 3.62,
+        "Jun": 3.67,
+        "Jul": 3.6,
+        "Aug": 3.41,
+        "Sep": 3.25,
+        "Oct": 3.05,
+        "Nov": 2.86,
+        "Dec": 2.39
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Thành phố Sông Công",
+      "admin1_code": "19",
+      "location": [
+        21.4772,
+        105.84137
+      ],
+      "monthly": {
+        "Jan": 1.91,
+        "Feb": 2.16,
+        "Mar": 2.38,
+        "Apr": 2.9,
+        "May": 3.4,
+        "Jun": 3.49,
+        "Jul": 3.6,
+        "Aug": 3.51,
+        "Sep": 3.41,
+        "Oct": 3.18,
+        "Nov": 2.83,
+        "Dec": 2.33
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Ngã Năm",
+      "admin1_code": "92",
+      "location": [
+        9.56513,
+        105.59897
+      ],
+      "monthly": {
+        "Jan": 3.94,
+        "Feb": 4.59,
+        "Mar": 4.53,
+        "Apr": 4.36,
+        "May": 3.63,
+        "Jun": 3.38,
+        "Jul": 3.23,
+        "Aug": 3.59,
+        "Sep": 3.39,
+        "Oct": 3.61,
+        "Nov": 3.69,
+        "Dec": 3.71
+      },
+      "average": 3.8
+    },
+    {
+      "name": "Yên Hòa",
+      "admin1_code": "01",
+      "location": [
+        21.02185,
+        105.79147
+      ],
+      "monthly": {
+        "Jan": 1.99,
+        "Feb": 2.37,
+        "Mar": 2.6,
+        "Apr": 3.04,
+        "May": 3.61,
+        "Jun": 3.68,
+        "Jul": 3.6,
+        "Aug": 3.42,
+        "Sep": 3.24,
+        "Oct": 3.02,
+        "Nov": 2.84,
+        "Dec": 2.37
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Linh Đàm",
+      "admin1_code": "01",
+      "location": [
+        20.96441,
+        105.83054
+      ],
+      "monthly": {
+        "Jan": 1.98,
+        "Feb": 2.37,
+        "Mar": 2.59,
+        "Apr": 3.04,
+        "May": 3.69,
+        "Jun": 3.74,
+        "Jul": 3.66,
+        "Aug": 3.47,
+        "Sep": 3.32,
+        "Oct": 3.08,
+        "Nov": 2.88,
+        "Dec": 2.38
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Bồ Đề",
+      "admin1_code": "01",
+      "location": [
+        21.05618,
+        105.86675
+      ],
+      "monthly": {
+        "Jan": 1.96,
+        "Feb": 2.3,
+        "Mar": 2.56,
+        "Apr": 2.99,
+        "May": 3.61,
+        "Jun": 3.64,
+        "Jul": 3.62,
+        "Aug": 3.45,
+        "Sep": 3.35,
+        "Oct": 3.1,
+        "Nov": 2.88,
+        "Dec": 2.39
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Hoàng Mai",
+      "admin1_code": "40",
+      "location": [
+        19.26758,
+        105.71594
+      ],
+      "monthly": {
+        "Jan": 2.08,
+        "Feb": 2.55,
+        "Mar": 2.92,
+        "Apr": 3.56,
+        "May": 4.34,
+        "Jun": 4.32,
+        "Jul": 4.18,
+        "Aug": 3.82,
+        "Sep": 3.5,
+        "Oct": 2.95,
+        "Nov": 2.73,
+        "Dec": 2.21
+      },
+      "average": 3.26
+    },
+    {
+      "name": "Phổ Yên",
+      "admin1_code": "19",
+      "location": [
+        21.41978,
+        105.8899
+      ],
+      "monthly": {
+        "Jan": 1.95,
+        "Feb": 2.23,
+        "Mar": 2.39,
+        "Apr": 2.94,
+        "May": 3.49,
+        "Jun": 3.57,
+        "Jul": 3.69,
+        "Aug": 3.59,
+        "Sep": 3.49,
+        "Oct": 3.24,
+        "Nov": 2.86,
+        "Dec": 2.34
+      },
+      "average": 2.98
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "country": "Palau",
+  "countryCode": "PW",
+  "cities": [
+    {
+      "name": "Ngerulmud",
+      "admin1_code": "07",
+      "location": [
+        7.50077,
+        134.6238
+      ],
+      "monthly": {
+        "Jan": 4.14,
+        "Feb": 4.37,
+        "Mar": 4.74,
+        "Apr": 4.49,
+        "May": 4.08,
+        "Jun": 3.73,
+        "Jul": 3.56,
+        "Aug": 3.81,
+        "Sep": 3.95,
+        "Oct": 4.18,
+        "Nov": 4.16,
+        "Dec": 4.08
+      },
+      "average": 4.11
+    }
+  ]
+}

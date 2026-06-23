@@ -1,0 +1,1501 @@
+{
+  "country": "Singapore",
+  "countryCode": "SG",
+  "cities": [
+    {
+      "name": "Yio Chu Kang",
+      "admin1_code": "00",
+      "location": [
+        1.39111,
+        103.85139
+      ],
+      "monthly": {
+        "Jan": 3.4,
+        "Feb": 3.96,
+        "Mar": 3.98,
+        "Apr": 3.69,
+        "May": 3.5,
+        "Jun": 3.32,
+        "Jul": 3.43,
+        "Aug": 3.5,
+        "Sep": 3.71,
+        "Oct": 3.56,
+        "Nov": 3.27,
+        "Dec": 3.18
+      },
+      "average": 3.54
+    },
+    {
+      "name": "Yew Tee",
+      "admin1_code": "03",
+      "location": [
+        1.39665,
+        103.74738
+      ],
+      "monthly": {
+        "Jan": 3.4,
+        "Feb": 3.93,
+        "Mar": 3.99,
+        "Apr": 3.71,
+        "May": 3.5,
+        "Jun": 3.33,
+        "Jul": 3.45,
+        "Aug": 3.53,
+        "Sep": 3.71,
+        "Oct": 3.57,
+        "Nov": 3.3,
+        "Dec": 3.21
+      },
+      "average": 3.55
+    },
+    {
+      "name": "Ulu Bedok",
+      "admin1_code": "00",
+      "location": [
+        1.33333,
+        103.93333
+      ],
+      "monthly": {
+        "Jan": 3.46,
+        "Feb": 4.07,
+        "Mar": 4.08,
+        "Apr": 3.8,
+        "May": 3.67,
+        "Jun": 3.48,
+        "Jul": 3.6,
+        "Aug": 3.67,
+        "Sep": 3.86,
+        "Oct": 3.63,
+        "Nov": 3.25,
+        "Dec": 3.17
+      },
+      "average": 3.65
+    },
+    {
+      "name": "Toa Payoh New Town",
+      "admin1_code": "00",
+      "location": [
+        1.33611,
+        103.85
+      ],
+      "monthly": {
+        "Jan": 3.39,
+        "Feb": 3.93,
+        "Mar": 3.96,
+        "Apr": 3.69,
+        "May": 3.55,
+        "Jun": 3.38,
+        "Jul": 3.5,
+        "Aug": 3.58,
+        "Sep": 3.77,
+        "Oct": 3.57,
+        "Nov": 3.24,
+        "Dec": 3.16
+      },
+      "average": 3.56
+    },
+    {
+      "name": "Tiong Bahru Estate",
+      "admin1_code": "01",
+      "location": [
+        1.28333,
+        103.83278
+      ],
+      "monthly": {
+        "Jan": 3.35,
+        "Feb": 3.9,
+        "Mar": 4.03,
+        "Apr": 3.82,
+        "May": 3.67,
+        "Jun": 3.49,
+        "Jul": 3.6,
+        "Aug": 3.68,
+        "Sep": 3.86,
+        "Oct": 3.68,
+        "Nov": 3.28,
+        "Dec": 3.13
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Thomson",
+      "admin1_code": "00",
+      "location": [
+        1.34917,
+        103.84361
+      ],
+      "monthly": {
+        "Jan": 3.39,
+        "Feb": 3.92,
+        "Mar": 3.95,
+        "Apr": 3.67,
+        "May": 3.52,
+        "Jun": 3.35,
+        "Jul": 3.46,
+        "Aug": 3.55,
+        "Sep": 3.74,
+        "Oct": 3.55,
+        "Nov": 3.24,
+        "Dec": 3.17
+      },
+      "average": 3.54
+    },
+    {
+      "name": "Tanglin",
+      "admin1_code": "00",
+      "location": [
+        1.31667,
+        103.81667
+      ],
+      "monthly": {
+        "Jan": 3.37,
+        "Feb": 3.89,
+        "Mar": 3.93,
+        "Apr": 3.68,
+        "May": 3.55,
+        "Jun": 3.38,
+        "Jul": 3.5,
+        "Aug": 3.58,
+        "Sep": 3.77,
+        "Oct": 3.57,
+        "Nov": 3.24,
+        "Dec": 3.15
+      },
+      "average": 3.55
+    },
+    {
+      "name": "Tampines Estate",
+      "admin1_code": "00",
+      "location": [
+        1.35806,
+        103.94028
+      ],
+      "monthly": {
+        "Jan": 3.51,
+        "Feb": 4.13,
+        "Mar": 4.12,
+        "Apr": 3.79,
+        "May": 3.62,
+        "Jun": 3.44,
+        "Jul": 3.56,
+        "Aug": 3.64,
+        "Sep": 3.85,
+        "Oct": 3.61,
+        "Nov": 3.28,
+        "Dec": 3.21
+      },
+      "average": 3.65
+    },
+    {
+      "name": "Sungai Simpang",
+      "admin1_code": "03",
+      "location": [
+        1.43806,
+        103.82667
+      ],
+      "monthly": {
+        "Jan": 3.36,
+        "Feb": 3.93,
+        "Mar": 3.97,
+        "Apr": 3.66,
+        "May": 3.46,
+        "Jun": 3.28,
+        "Jul": 3.39,
+        "Aug": 3.45,
+        "Sep": 3.66,
+        "Oct": 3.54,
+        "Nov": 3.25,
+        "Dec": 3.15
+      },
+      "average": 3.51
+    },
+    {
+      "name": "Singapore",
+      "admin1_code": "",
+      "location": [
+        1.28967,
+        103.85007
+      ],
+      "monthly": {
+        "Jan": 3.35,
+        "Feb": 3.91,
+        "Mar": 4.02,
+        "Apr": 3.81,
+        "May": 3.66,
+        "Jun": 3.47,
+        "Jul": 3.59,
+        "Aug": 3.66,
+        "Sep": 3.84,
+        "Oct": 3.67,
+        "Nov": 3.26,
+        "Dec": 3.12
+      },
+      "average": 3.61
+    },
+    {
+      "name": "Serangoon Garden",
+      "admin1_code": "00",
+      "location": [
+        1.36389,
+        103.8575
+      ],
+      "monthly": {
+        "Jan": 3.4,
+        "Feb": 3.95,
+        "Mar": 3.97,
+        "Apr": 3.68,
+        "May": 3.51,
+        "Jun": 3.34,
+        "Jul": 3.45,
+        "Aug": 3.53,
+        "Sep": 3.73,
+        "Oct": 3.55,
+        "Nov": 3.26,
+        "Dec": 3.18
+      },
+      "average": 3.55
+    },
+    {
+      "name": "Serangoon",
+      "admin1_code": "00",
+      "location": [
+        1.36278,
+        103.8975
+      ],
+      "monthly": {
+        "Jan": 3.43,
+        "Feb": 4.02,
+        "Mar": 4.03,
+        "Apr": 3.72,
+        "May": 3.55,
+        "Jun": 3.37,
+        "Jul": 3.48,
+        "Aug": 3.56,
+        "Sep": 3.77,
+        "Oct": 3.57,
+        "Nov": 3.25,
+        "Dec": 3.17
+      },
+      "average": 3.58
+    },
+    {
+      "name": "Sembawang Estate",
+      "admin1_code": "00",
+      "location": [
+        1.45083,
+        103.82861
+      ],
+      "monthly": {
+        "Jan": 3.36,
+        "Feb": 3.93,
+        "Mar": 3.97,
+        "Apr": 3.66,
+        "May": 3.46,
+        "Jun": 3.27,
+        "Jul": 3.38,
+        "Aug": 3.44,
+        "Sep": 3.65,
+        "Oct": 3.53,
+        "Nov": 3.25,
+        "Dec": 3.15
+      },
+      "average": 3.5
+    },
+    {
+      "name": "Punggol",
+      "admin1_code": "02",
+      "location": [
+        1.41444,
+        103.90694
+      ],
+      "monthly": {
+        "Jan": 3.38,
+        "Feb": 3.97,
+        "Mar": 4,
+        "Apr": 3.72,
+        "May": 3.51,
+        "Jun": 3.29,
+        "Jul": 3.4,
+        "Aug": 3.46,
+        "Sep": 3.69,
+        "Oct": 3.55,
+        "Nov": 3.26,
+        "Dec": 3.14
+      },
+      "average": 3.53
+    },
+    {
+      "name": "Paya Lebar",
+      "admin1_code": "00",
+      "location": [
+        1.35389,
+        103.89056
+      ],
+      "monthly": {
+        "Jan": 3.43,
+        "Feb": 4.01,
+        "Mar": 4.02,
+        "Apr": 3.71,
+        "May": 3.55,
+        "Jun": 3.37,
+        "Jul": 3.48,
+        "Aug": 3.57,
+        "Sep": 3.78,
+        "Oct": 3.56,
+        "Nov": 3.24,
+        "Dec": 3.17
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Matilda Estate",
+      "admin1_code": "00",
+      "location": [
+        1.39944,
+        103.90278
+      ],
+      "monthly": {
+        "Jan": 3.4,
+        "Feb": 4,
+        "Mar": 4.03,
+        "Apr": 3.73,
+        "May": 3.52,
+        "Jun": 3.31,
+        "Jul": 3.42,
+        "Aug": 3.49,
+        "Sep": 3.72,
+        "Oct": 3.56,
+        "Nov": 3.26,
+        "Dec": 3.16
+      },
+      "average": 3.55
+    },
+    {
+      "name": "Marsiling",
+      "admin1_code": "03",
+      "location": [
+        1.43254,
+        103.77407
+      ],
+      "monthly": {
+        "Jan": 3.36,
+        "Feb": 3.9,
+        "Mar": 3.96,
+        "Apr": 3.69,
+        "May": 3.48,
+        "Jun": 3.3,
+        "Jul": 3.43,
+        "Aug": 3.49,
+        "Sep": 3.69,
+        "Oct": 3.56,
+        "Nov": 3.27,
+        "Dec": 3.16
+      },
+      "average": 3.52
+    },
+    {
+      "name": "Loyang",
+      "admin1_code": "00",
+      "location": [
+        1.37861,
+        103.97167
+      ],
+      "monthly": {
+        "Jan": 3.49,
+        "Feb": 4.13,
+        "Mar": 4.14,
+        "Apr": 3.81,
+        "May": 3.59,
+        "Jun": 3.38,
+        "Jul": 3.5,
+        "Aug": 3.57,
+        "Sep": 3.8,
+        "Oct": 3.6,
+        "Nov": 3.29,
+        "Dec": 3.22
+      },
+      "average": 3.63
+    },
+    {
+      "name": "Keat Hong Village",
+      "admin1_code": "00",
+      "location": [
+        1.37778,
+        103.74417
+      ],
+      "monthly": {
+        "Jan": 3.4,
+        "Feb": 3.93,
+        "Mar": 3.99,
+        "Apr": 3.7,
+        "May": 3.5,
+        "Jun": 3.33,
+        "Jul": 3.44,
+        "Aug": 3.53,
+        "Sep": 3.72,
+        "Oct": 3.57,
+        "Nov": 3.3,
+        "Dec": 3.21
+      },
+      "average": 3.55
+    },
+    {
+      "name": "Kampong Pasir Ris",
+      "admin1_code": "00",
+      "location": [
+        1.37833,
+        103.93194
+      ],
+      "monthly": {
+        "Jan": 3.46,
+        "Feb": 4.07,
+        "Mar": 4.08,
+        "Apr": 3.76,
+        "May": 3.54,
+        "Jun": 3.35,
+        "Jul": 3.47,
+        "Aug": 3.54,
+        "Sep": 3.77,
+        "Oct": 3.58,
+        "Nov": 3.27,
+        "Dec": 3.18
+      },
+      "average": 3.59
+    },
+    {
+      "name": "Kampong Loyang",
+      "admin1_code": "00",
+      "location": [
+        1.37778,
+        103.95944
+      ],
+      "monthly": {
+        "Jan": 3.49,
+        "Feb": 4.12,
+        "Mar": 4.13,
+        "Apr": 3.8,
+        "May": 3.58,
+        "Jun": 3.37,
+        "Jul": 3.49,
+        "Aug": 3.56,
+        "Sep": 3.79,
+        "Oct": 3.59,
+        "Nov": 3.29,
+        "Dec": 3.21
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Kembangan",
+      "admin1_code": "00",
+      "location": [
+        1.32228,
+        103.91135
+      ],
+      "monthly": {
+        "Jan": 3.43,
+        "Feb": 4.02,
+        "Mar": 4.05,
+        "Apr": 3.79,
+        "May": 3.67,
+        "Jun": 3.49,
+        "Jul": 3.6,
+        "Aug": 3.67,
+        "Sep": 3.86,
+        "Oct": 3.63,
+        "Nov": 3.24,
+        "Dec": 3.15
+      },
+      "average": 3.63
+    },
+    {
+      "name": "Kallang",
+      "admin1_code": "00",
+      "location": [
+        1.33333,
+        103.86667
+      ],
+      "monthly": {
+        "Jan": 3.4,
+        "Feb": 3.96,
+        "Mar": 3.99,
+        "Apr": 3.72,
+        "May": 3.59,
+        "Jun": 3.42,
+        "Jul": 3.54,
+        "Aug": 3.62,
+        "Sep": 3.81,
+        "Oct": 3.6,
+        "Nov": 3.24,
+        "Dec": 3.15
+      },
+      "average": 3.59
+    },
+    {
+      "name": "Hong Kah",
+      "admin1_code": "00",
+      "location": [
+        1.35944,
+        103.72278
+      ],
+      "monthly": {
+        "Jan": 3.41,
+        "Feb": 3.95,
+        "Mar": 4.01,
+        "Apr": 3.71,
+        "May": 3.51,
+        "Jun": 3.34,
+        "Jul": 3.46,
+        "Aug": 3.55,
+        "Sep": 3.72,
+        "Oct": 3.58,
+        "Nov": 3.32,
+        "Dec": 3.23
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Geylang",
+      "admin1_code": "00",
+      "location": [
+        1.31953,
+        103.88689
+      ],
+      "monthly": {
+        "Jan": 3.41,
+        "Feb": 3.99,
+        "Mar": 4.03,
+        "Apr": 3.76,
+        "May": 3.64,
+        "Jun": 3.47,
+        "Jul": 3.58,
+        "Aug": 3.65,
+        "Sep": 3.85,
+        "Oct": 3.63,
+        "Nov": 3.25,
+        "Dec": 3.15
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Bukit Timah",
+      "admin1_code": "00",
+      "location": [
+        1.328,
+        103.791
+      ],
+      "monthly": {
+        "Jan": 3.38,
+        "Feb": 3.88,
+        "Mar": 3.94,
+        "Apr": 3.66,
+        "May": 3.52,
+        "Jun": 3.36,
+        "Jul": 3.48,
+        "Aug": 3.55,
+        "Sep": 3.74,
+        "Oct": 3.55,
+        "Nov": 3.24,
+        "Dec": 3.16
+      },
+      "average": 3.54
+    },
+    {
+      "name": "Bukit Merah Estate",
+      "admin1_code": "00",
+      "location": [
+        1.28417,
+        103.82306
+      ],
+      "monthly": {
+        "Jan": 3.36,
+        "Feb": 3.9,
+        "Mar": 4,
+        "Apr": 3.79,
+        "May": 3.66,
+        "Jun": 3.48,
+        "Jul": 3.6,
+        "Aug": 3.67,
+        "Sep": 3.86,
+        "Oct": 3.67,
+        "Nov": 3.28,
+        "Dec": 3.14
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Brickworks Estate",
+      "admin1_code": "00",
+      "location": [
+        1.28722,
+        103.80833
+      ],
+      "monthly": {
+        "Jan": 3.35,
+        "Feb": 3.89,
+        "Mar": 3.99,
+        "Apr": 3.77,
+        "May": 3.64,
+        "Jun": 3.48,
+        "Jul": 3.59,
+        "Aug": 3.66,
+        "Sep": 3.85,
+        "Oct": 3.65,
+        "Nov": 3.27,
+        "Dec": 3.13
+      },
+      "average": 3.61
+    },
+    {
+      "name": "Boon Lay",
+      "admin1_code": "00",
+      "location": [
+        1.311,
+        103.694
+      ],
+      "monthly": {
+        "Jan": 3.41,
+        "Feb": 3.95,
+        "Mar": 4.02,
+        "Apr": 3.74,
+        "May": 3.58,
+        "Jun": 3.42,
+        "Jul": 3.54,
+        "Aug": 3.62,
+        "Sep": 3.8,
+        "Oct": 3.62,
+        "Nov": 3.33,
+        "Dec": 3.23
+      },
+      "average": 3.6
+    },
+    {
+      "name": "Bishan New Town",
+      "admin1_code": "00",
+      "location": [
+        1.3504,
+        103.84875
+      ],
+      "monthly": {
+        "Jan": 3.39,
+        "Feb": 3.93,
+        "Mar": 3.95,
+        "Apr": 3.66,
+        "May": 3.51,
+        "Jun": 3.34,
+        "Jul": 3.45,
+        "Aug": 3.54,
+        "Sep": 3.73,
+        "Oct": 3.55,
+        "Nov": 3.25,
+        "Dec": 3.18
+      },
+      "average": 3.54
+    },
+    {
+      "name": "Bukit Batok New Town",
+      "admin1_code": "00",
+      "location": [
+        1.35903,
+        103.76368
+      ],
+      "monthly": {
+        "Jan": 3.39,
+        "Feb": 3.91,
+        "Mar": 3.96,
+        "Apr": 3.67,
+        "May": 3.48,
+        "Jun": 3.33,
+        "Jul": 3.44,
+        "Aug": 3.52,
+        "Sep": 3.71,
+        "Oct": 3.55,
+        "Nov": 3.28,
+        "Dec": 3.19
+      },
+      "average": 3.54
+    },
+    {
+      "name": "Hougang New Town",
+      "admin1_code": "00",
+      "location": [
+        1.35667,
+        103.89083
+      ],
+      "monthly": {
+        "Jan": 3.43,
+        "Feb": 4.01,
+        "Mar": 4.02,
+        "Apr": 3.71,
+        "May": 3.55,
+        "Jun": 3.37,
+        "Jul": 3.48,
+        "Aug": 3.57,
+        "Sep": 3.78,
+        "Oct": 3.56,
+        "Nov": 3.24,
+        "Dec": 3.17
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Jurong East",
+      "admin1_code": "04",
+      "location": [
+        1.32888,
+        103.73995
+      ],
+      "monthly": {
+        "Jan": 3.4,
+        "Feb": 3.92,
+        "Mar": 3.98,
+        "Apr": 3.69,
+        "May": 3.53,
+        "Jun": 3.37,
+        "Jul": 3.49,
+        "Aug": 3.57,
+        "Sep": 3.76,
+        "Oct": 3.59,
+        "Nov": 3.31,
+        "Dec": 3.22
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Jurong Town",
+      "admin1_code": "05",
+      "location": [
+        1.33417,
+        103.72278
+      ],
+      "monthly": {
+        "Jan": 3.41,
+        "Feb": 3.94,
+        "Mar": 4,
+        "Apr": 3.71,
+        "May": 3.53,
+        "Jun": 3.36,
+        "Jul": 3.49,
+        "Aug": 3.58,
+        "Sep": 3.75,
+        "Oct": 3.6,
+        "Nov": 3.33,
+        "Dec": 3.23
+      },
+      "average": 3.58
+    },
+    {
+      "name": "Jurong West",
+      "admin1_code": "00",
+      "location": [
+        1.35028,
+        103.72278
+      ],
+      "monthly": {
+        "Jan": 3.41,
+        "Feb": 3.95,
+        "Mar": 4.01,
+        "Apr": 3.71,
+        "May": 3.51,
+        "Jun": 3.34,
+        "Jul": 3.46,
+        "Aug": 3.55,
+        "Sep": 3.73,
+        "Oct": 3.59,
+        "Nov": 3.33,
+        "Dec": 3.23
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Kaki Bukit Estate",
+      "admin1_code": "00",
+      "location": [
+        1.3375,
+        103.90917
+      ],
+      "monthly": {
+        "Jan": 3.46,
+        "Feb": 4.05,
+        "Mar": 4.06,
+        "Apr": 3.77,
+        "May": 3.63,
+        "Jun": 3.45,
+        "Jul": 3.56,
+        "Aug": 3.64,
+        "Sep": 3.84,
+        "Oct": 3.61,
+        "Nov": 3.25,
+        "Dec": 3.17
+      },
+      "average": 3.62
+    },
+    {
+      "name": "MacPherson",
+      "admin1_code": "01",
+      "location": [
+        1.32713,
+        103.88413
+      ],
+      "monthly": {
+        "Jan": 3.42,
+        "Feb": 3.99,
+        "Mar": 4.02,
+        "Apr": 3.75,
+        "May": 3.62,
+        "Jun": 3.44,
+        "Jul": 3.56,
+        "Aug": 3.63,
+        "Sep": 3.83,
+        "Oct": 3.61,
+        "Nov": 3.25,
+        "Dec": 3.16
+      },
+      "average": 3.61
+    },
+    {
+      "name": "Outram Park",
+      "admin1_code": "00",
+      "location": [
+        1.2825,
+        103.83806
+      ],
+      "monthly": {
+        "Jan": 3.35,
+        "Feb": 3.91,
+        "Mar": 4.03,
+        "Apr": 3.82,
+        "May": 3.67,
+        "Jun": 3.49,
+        "Jul": 3.6,
+        "Aug": 3.67,
+        "Sep": 3.85,
+        "Oct": 3.68,
+        "Nov": 3.28,
+        "Dec": 3.12
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Serangoon New Town",
+      "admin1_code": "00",
+      "location": [
+        1.35083,
+        103.87083
+      ],
+      "monthly": {
+        "Jan": 3.41,
+        "Feb": 3.98,
+        "Mar": 3.99,
+        "Apr": 3.69,
+        "May": 3.53,
+        "Jun": 3.36,
+        "Jul": 3.47,
+        "Aug": 3.55,
+        "Sep": 3.76,
+        "Oct": 3.56,
+        "Nov": 3.25,
+        "Dec": 3.17
+      },
+      "average": 3.56
+    },
+    {
+      "name": "Simei New Town",
+      "admin1_code": "00",
+      "location": [
+        1.34111,
+        103.95611
+      ],
+      "monthly": {
+        "Jan": 3.52,
+        "Feb": 4.15,
+        "Mar": 4.14,
+        "Apr": 3.84,
+        "May": 3.68,
+        "Jun": 3.49,
+        "Jul": 3.61,
+        "Aug": 3.68,
+        "Sep": 3.88,
+        "Oct": 3.65,
+        "Nov": 3.28,
+        "Dec": 3.21
+      },
+      "average": 3.68
+    },
+    {
+      "name": "Tampines New Town",
+      "admin1_code": "00",
+      "location": [
+        1.34917,
+        103.94972
+      ],
+      "monthly": {
+        "Jan": 3.53,
+        "Feb": 4.15,
+        "Mar": 4.13,
+        "Apr": 3.82,
+        "May": 3.66,
+        "Jun": 3.47,
+        "Jul": 3.6,
+        "Aug": 3.67,
+        "Sep": 3.87,
+        "Oct": 3.63,
+        "Nov": 3.28,
+        "Dec": 3.22
+      },
+      "average": 3.67
+    },
+    {
+      "name": "Yishun New Town",
+      "admin1_code": "03",
+      "location": [
+        1.43333,
+        103.83111
+      ],
+      "monthly": {
+        "Jan": 3.37,
+        "Feb": 3.92,
+        "Mar": 3.97,
+        "Apr": 3.67,
+        "May": 3.46,
+        "Jun": 3.28,
+        "Jul": 3.4,
+        "Aug": 3.46,
+        "Sep": 3.67,
+        "Oct": 3.55,
+        "Nov": 3.26,
+        "Dec": 3.15
+      },
+      "average": 3.51
+    },
+    {
+      "name": "Woodlands",
+      "admin1_code": "03",
+      "location": [
+        1.43801,
+        103.78877
+      ],
+      "monthly": {
+        "Jan": 3.36,
+        "Feb": 3.91,
+        "Mar": 3.97,
+        "Apr": 3.68,
+        "May": 3.47,
+        "Jun": 3.3,
+        "Jul": 3.42,
+        "Aug": 3.48,
+        "Sep": 3.68,
+        "Oct": 3.56,
+        "Nov": 3.27,
+        "Dec": 3.16
+      },
+      "average": 3.52
+    },
+    {
+      "name": "Kangkar",
+      "admin1_code": "00",
+      "location": [
+        1.37611,
+        103.90167
+      ],
+      "monthly": {
+        "Jan": 3.43,
+        "Feb": 4.03,
+        "Mar": 4.04,
+        "Apr": 3.73,
+        "May": 3.53,
+        "Jun": 3.33,
+        "Jul": 3.45,
+        "Aug": 3.53,
+        "Sep": 3.75,
+        "Oct": 3.57,
+        "Nov": 3.26,
+        "Dec": 3.17
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Marine Parade",
+      "admin1_code": "03",
+      "location": [
+        1.30306,
+        103.90778
+      ],
+      "monthly": {
+        "Jan": 3.4,
+        "Feb": 3.99,
+        "Mar": 4.05,
+        "Apr": 3.79,
+        "May": 3.67,
+        "Jun": 3.48,
+        "Jul": 3.59,
+        "Aug": 3.65,
+        "Sep": 3.84,
+        "Oct": 3.64,
+        "Nov": 3.25,
+        "Dec": 3.13
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Ang Mo Kio New Town",
+      "admin1_code": "02",
+      "location": [
+        1.38028,
+        103.83972
+      ],
+      "monthly": {
+        "Jan": 3.39,
+        "Feb": 3.93,
+        "Mar": 3.96,
+        "Apr": 3.67,
+        "May": 3.49,
+        "Jun": 3.32,
+        "Jul": 3.44,
+        "Aug": 3.51,
+        "Sep": 3.71,
+        "Oct": 3.55,
+        "Nov": 3.26,
+        "Dec": 3.18
+      },
+      "average": 3.53
+    },
+    {
+      "name": "Bukit Panjang New Town",
+      "admin1_code": "05",
+      "location": [
+        1.37972,
+        103.76472
+      ],
+      "monthly": {
+        "Jan": 3.38,
+        "Feb": 3.91,
+        "Mar": 3.96,
+        "Apr": 3.67,
+        "May": 3.48,
+        "Jun": 3.32,
+        "Jul": 3.43,
+        "Aug": 3.51,
+        "Sep": 3.7,
+        "Oct": 3.55,
+        "Nov": 3.28,
+        "Dec": 3.19
+      },
+      "average": 3.53
+    },
+    {
+      "name": "Bedok New Town",
+      "admin1_code": "04",
+      "location": [
+        1.32639,
+        103.94167
+      ],
+      "monthly": {
+        "Jan": 3.48,
+        "Feb": 4.1,
+        "Mar": 4.11,
+        "Apr": 3.83,
+        "May": 3.69,
+        "Jun": 3.5,
+        "Jul": 3.61,
+        "Aug": 3.67,
+        "Sep": 3.87,
+        "Oct": 3.64,
+        "Nov": 3.26,
+        "Dec": 3.18
+      },
+      "average": 3.66
+    },
+    {
+      "name": "Clementi Housing Estate",
+      "admin1_code": "00",
+      "location": [
+        1.31583,
+        103.76472
+      ],
+      "monthly": {
+        "Jan": 3.38,
+        "Feb": 3.89,
+        "Mar": 3.95,
+        "Apr": 3.69,
+        "May": 3.55,
+        "Jun": 3.4,
+        "Jul": 3.51,
+        "Aug": 3.59,
+        "Sep": 3.78,
+        "Oct": 3.59,
+        "Nov": 3.28,
+        "Dec": 3.18
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Pasir Ris New Town",
+      "admin1_code": "04",
+      "location": [
+        1.37222,
+        103.94778
+      ],
+      "monthly": {
+        "Jan": 3.5,
+        "Feb": 4.12,
+        "Mar": 4.12,
+        "Apr": 3.79,
+        "May": 3.58,
+        "Jun": 3.39,
+        "Jul": 3.51,
+        "Aug": 3.58,
+        "Sep": 3.8,
+        "Oct": 3.59,
+        "Nov": 3.28,
+        "Dec": 3.2
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Queenstown Estate",
+      "admin1_code": "00",
+      "location": [
+        1.29417,
+        103.8025
+      ],
+      "monthly": {
+        "Jan": 3.36,
+        "Feb": 3.89,
+        "Mar": 3.98,
+        "Apr": 3.74,
+        "May": 3.62,
+        "Jun": 3.45,
+        "Jul": 3.56,
+        "Aug": 3.64,
+        "Sep": 3.83,
+        "Oct": 3.63,
+        "Nov": 3.27,
+        "Dec": 3.14
+      },
+      "average": 3.59
+    },
+    {
+      "name": "Telok Blangah",
+      "admin1_code": "00",
+      "location": [
+        1.27472,
+        103.81167
+      ],
+      "monthly": {
+        "Jan": 3.34,
+        "Feb": 3.9,
+        "Mar": 4.03,
+        "Apr": 3.81,
+        "May": 3.66,
+        "Jun": 3.49,
+        "Jul": 3.6,
+        "Aug": 3.66,
+        "Sep": 3.85,
+        "Oct": 3.67,
+        "Nov": 3.29,
+        "Dec": 3.12
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Choa Chu Kang New Town",
+      "admin1_code": "03",
+      "location": [
+        1.3825,
+        103.74972
+      ],
+      "monthly": {
+        "Jan": 3.4,
+        "Feb": 3.93,
+        "Mar": 3.99,
+        "Apr": 3.7,
+        "May": 3.5,
+        "Jun": 3.33,
+        "Jul": 3.44,
+        "Aug": 3.53,
+        "Sep": 3.72,
+        "Oct": 3.57,
+        "Nov": 3.3,
+        "Dec": 3.21
+      },
+      "average": 3.55
+    },
+    {
+      "name": "Novena",
+      "admin1_code": "02",
+      "location": [
+        1.31697,
+        103.8438
+      ],
+      "monthly": {
+        "Jan": 3.37,
+        "Feb": 3.91,
+        "Mar": 3.96,
+        "Apr": 3.7,
+        "May": 3.58,
+        "Jun": 3.41,
+        "Jul": 3.53,
+        "Aug": 3.62,
+        "Sep": 3.79,
+        "Oct": 3.59,
+        "Nov": 3.24,
+        "Dec": 3.14
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Eunos",
+      "admin1_code": "",
+      "location": [
+        1.32252,
+        103.89822
+      ],
+      "monthly": {
+        "Jan": 3.42,
+        "Feb": 4,
+        "Mar": 4.03,
+        "Apr": 3.77,
+        "May": 3.65,
+        "Jun": 3.47,
+        "Jul": 3.59,
+        "Aug": 3.66,
+        "Sep": 3.85,
+        "Oct": 3.63,
+        "Nov": 3.24,
+        "Dec": 3.15
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Sengkang New Town",
+      "admin1_code": "02",
+      "location": [
+        1.39167,
+        103.89444
+      ],
+      "monthly": {
+        "Jan": 3.4,
+        "Feb": 4,
+        "Mar": 4.02,
+        "Apr": 3.72,
+        "May": 3.51,
+        "Jun": 3.31,
+        "Jul": 3.42,
+        "Aug": 3.49,
+        "Sep": 3.72,
+        "Oct": 3.56,
+        "Nov": 3.27,
+        "Dec": 3.16
+      },
+      "average": 3.55
+    },
+    {
+      "name": "Fajar",
+      "admin1_code": "",
+      "location": [
+        1.38436,
+        103.77059
+      ],
+      "monthly": {
+        "Jan": 3.37,
+        "Feb": 3.9,
+        "Mar": 3.96,
+        "Apr": 3.67,
+        "May": 3.47,
+        "Jun": 3.31,
+        "Jul": 3.42,
+        "Aug": 3.5,
+        "Sep": 3.7,
+        "Oct": 3.56,
+        "Nov": 3.28,
+        "Dec": 3.17
+      },
+      "average": 3.53
+    },
+    {
+      "name": "Saujana",
+      "admin1_code": "",
+      "location": [
+        1.38254,
+        103.7679
+      ],
+      "monthly": {
+        "Jan": 3.37,
+        "Feb": 3.9,
+        "Mar": 3.95,
+        "Apr": 3.66,
+        "May": 3.48,
+        "Jun": 3.31,
+        "Jul": 3.43,
+        "Aug": 3.5,
+        "Sep": 3.7,
+        "Oct": 3.55,
+        "Nov": 3.27,
+        "Dec": 3.18
+      },
+      "average": 3.52
+    },
+    {
+      "name": "Bangkit",
+      "admin1_code": "",
+      "location": [
+        1.37982,
+        103.77251
+      ],
+      "monthly": {
+        "Jan": 3.37,
+        "Feb": 3.9,
+        "Mar": 3.95,
+        "Apr": 3.66,
+        "May": 3.48,
+        "Jun": 3.31,
+        "Jul": 3.43,
+        "Aug": 3.5,
+        "Sep": 3.7,
+        "Oct": 3.55,
+        "Nov": 3.27,
+        "Dec": 3.18
+      },
+      "average": 3.52
+    },
+    {
+      "name": "Margaret Drive",
+      "admin1_code": "",
+      "location": [
+        1.29682,
+        103.80839
+      ],
+      "monthly": {
+        "Jan": 3.36,
+        "Feb": 3.89,
+        "Mar": 3.98,
+        "Apr": 3.75,
+        "May": 3.62,
+        "Jun": 3.46,
+        "Jul": 3.57,
+        "Aug": 3.64,
+        "Sep": 3.83,
+        "Oct": 3.64,
+        "Nov": 3.27,
+        "Dec": 3.14
+      },
+      "average": 3.6
+    },
+    {
+      "name": "Jelebu",
+      "admin1_code": "",
+      "location": [
+        1.37953,
+        103.76286
+      ],
+      "monthly": {
+        "Jan": 3.38,
+        "Feb": 3.91,
+        "Mar": 3.96,
+        "Apr": 3.67,
+        "May": 3.48,
+        "Jun": 3.32,
+        "Jul": 3.43,
+        "Aug": 3.51,
+        "Sep": 3.7,
+        "Oct": 3.55,
+        "Nov": 3.28,
+        "Dec": 3.19
+      },
+      "average": 3.53
+    },
+    {
+      "name": "Senja",
+      "admin1_code": "",
+      "location": [
+        1.38516,
+        103.76073
+      ],
+      "monthly": {
+        "Jan": 3.38,
+        "Feb": 3.91,
+        "Mar": 3.97,
+        "Apr": 3.68,
+        "May": 3.48,
+        "Jun": 3.32,
+        "Jul": 3.43,
+        "Aug": 3.51,
+        "Sep": 3.71,
+        "Oct": 3.56,
+        "Nov": 3.29,
+        "Dec": 3.19
+      },
+      "average": 3.54
+    },
+    {
+      "name": "Anak Bukit",
+      "admin1_code": "",
+      "location": [
+        1.34067,
+        103.77301
+      ],
+      "monthly": {
+        "Jan": 3.39,
+        "Feb": 3.9,
+        "Mar": 3.95,
+        "Apr": 3.66,
+        "May": 3.51,
+        "Jun": 3.35,
+        "Jul": 3.47,
+        "Aug": 3.54,
+        "Sep": 3.73,
+        "Oct": 3.56,
+        "Nov": 3.26,
+        "Dec": 3.19
+      },
+      "average": 3.54
+    },
+    {
+      "name": "Peng Siang",
+      "admin1_code": "",
+      "location": [
+        1.37995,
+        103.74066
+      ],
+      "monthly": {
+        "Jan": 3.4,
+        "Feb": 3.93,
+        "Mar": 3.99,
+        "Apr": 3.71,
+        "May": 3.5,
+        "Jun": 3.33,
+        "Jul": 3.45,
+        "Aug": 3.53,
+        "Sep": 3.71,
+        "Oct": 3.57,
+        "Nov": 3.31,
+        "Dec": 3.21
+      },
+      "average": 3.55
+    },
+    {
+      "name": "Teck Whye",
+      "admin1_code": "",
+      "location": [
+        1.3803,
+        103.75197
+      ],
+      "monthly": {
+        "Jan": 3.39,
+        "Feb": 3.92,
+        "Mar": 3.98,
+        "Apr": 3.69,
+        "May": 3.49,
+        "Jun": 3.33,
+        "Jul": 3.44,
+        "Aug": 3.52,
+        "Sep": 3.71,
+        "Oct": 3.56,
+        "Nov": 3.29,
+        "Dec": 3.2
+      },
+      "average": 3.54
+    }
+  ]
+}

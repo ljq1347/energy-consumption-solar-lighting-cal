@@ -1,0 +1,29 @@
+{
+  "country": "Tuvalu",
+  "countryCode": "TV",
+  "cities": [
+    {
+      "name": "Funafuti",
+      "admin1_code": "FUN",
+      "location": [
+        -8.52425,
+        179.19417
+      ],
+      "monthly": {
+        "Jan": 3.87,
+        "Feb": 3.84,
+        "Mar": 4.5,
+        "Apr": 4.37,
+        "May": 4.1,
+        "Jun": 3.97,
+        "Jul": 3.98,
+        "Aug": 4.2,
+        "Sep": 4.59,
+        "Oct": 4.46,
+        "Nov": 4.2,
+        "Dec": 3.93
+      },
+      "average": 4.17
+    }
+  ]
+}

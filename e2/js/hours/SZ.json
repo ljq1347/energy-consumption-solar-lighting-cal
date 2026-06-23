@@ -1,0 +1,75 @@
+{
+  "country": "Eswatini",
+  "countryCode": "SZ",
+  "cities": [
+    {
+      "name": "Mbabane",
+      "admin1_code": "01",
+      "location": [
+        -26.31667,
+        31.13333
+      ],
+      "monthly": {
+        "Jan": 4.12,
+        "Feb": 4.25,
+        "Mar": 4.29,
+        "Apr": 4.26,
+        "May": 4.63,
+        "Jun": 4.64,
+        "Jul": 4.71,
+        "Aug": 4.88,
+        "Sep": 4.69,
+        "Oct": 4.14,
+        "Nov": 4.03,
+        "Dec": 3.96
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Manzini",
+      "admin1_code": "03",
+      "location": [
+        -26.49884,
+        31.38004
+      ],
+      "monthly": {
+        "Jan": 4.19,
+        "Feb": 4.32,
+        "Mar": 4.38,
+        "Apr": 4.25,
+        "May": 4.55,
+        "Jun": 4.49,
+        "Jul": 4.55,
+        "Aug": 4.65,
+        "Sep": 4.47,
+        "Oct": 4.01,
+        "Nov": 3.95,
+        "Dec": 3.95
+      },
+      "average": 4.31
+    },
+    {
+      "name": "Lobamba",
+      "admin1_code": "01",
+      "location": [
+        -26.46667,
+        31.2
+      ],
+      "monthly": {
+        "Jan": 4.14,
+        "Feb": 4.28,
+        "Mar": 4.33,
+        "Apr": 4.21,
+        "May": 4.55,
+        "Jun": 4.53,
+        "Jul": 4.58,
+        "Aug": 4.7,
+        "Sep": 4.49,
+        "Oct": 3.97,
+        "Nov": 3.9,
+        "Dec": 3.88
+      },
+      "average": 4.3
+    }
+  ]
+}

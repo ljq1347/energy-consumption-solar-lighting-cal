@@ -1,0 +1,328 @@
+{
+  "country": "Trinidad and Tobago",
+  "countryCode": "TT",
+  "cities": [
+    {
+      "name": "Tunapuna",
+      "admin1_code": "TUP",
+      "location": [
+        10.65245,
+        -61.38878
+      ],
+      "monthly": {
+        "Jan": 4.38,
+        "Feb": 4.62,
+        "Mar": 4.74,
+        "Apr": 4.66,
+        "May": 4.42,
+        "Jun": 4,
+        "Jul": 4.18,
+        "Aug": 4.25,
+        "Sep": 4.41,
+        "Oct": 4.22,
+        "Nov": 4.07,
+        "Dec": 4.1
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Scarborough",
+      "admin1_code": "11",
+      "location": [
+        11.18229,
+        -60.73525
+      ],
+      "monthly": {
+        "Jan": 4.84,
+        "Feb": 5.17,
+        "Mar": 5.28,
+        "Apr": 5.11,
+        "May": 4.78,
+        "Jun": 4.29,
+        "Jul": 4.54,
+        "Aug": 4.74,
+        "Sep": 4.97,
+        "Oct": 4.65,
+        "Nov": 4.39,
+        "Dec": 4.48
+      },
+      "average": 4.77
+    },
+    {
+      "name": "Sangre Grande",
+      "admin1_code": "SGE",
+      "location": [
+        10.58705,
+        -61.13008
+      ],
+      "monthly": {
+        "Jan": 4.23,
+        "Feb": 4.44,
+        "Mar": 4.53,
+        "Apr": 4.34,
+        "May": 4.05,
+        "Jun": 3.75,
+        "Jul": 4.16,
+        "Aug": 4.39,
+        "Sep": 4.57,
+        "Oct": 4.27,
+        "Nov": 3.98,
+        "Dec": 3.92
+      },
+      "average": 4.22
+    },
+    {
+      "name": "San Fernando",
+      "admin1_code": "10",
+      "location": [
+        10.27969,
+        -61.46835
+      ],
+      "monthly": {
+        "Jan": 4.28,
+        "Feb": 4.48,
+        "Mar": 4.45,
+        "Apr": 4.28,
+        "May": 4.16,
+        "Jun": 3.85,
+        "Jul": 4.05,
+        "Aug": 4.22,
+        "Sep": 4.43,
+        "Oct": 4.18,
+        "Nov": 3.94,
+        "Dec": 3.97
+      },
+      "average": 4.19
+    },
+    {
+      "name": "Rio Claro",
+      "admin1_code": "03",
+      "location": [
+        10.30594,
+        -61.17556
+      ],
+      "monthly": {
+        "Jan": 4.29,
+        "Feb": 4.5,
+        "Mar": 4.54,
+        "Apr": 4.36,
+        "May": 4.1,
+        "Jun": 3.79,
+        "Jul": 4.12,
+        "Aug": 4.36,
+        "Sep": 4.57,
+        "Oct": 4.26,
+        "Nov": 3.97,
+        "Dec": 3.93
+      },
+      "average": 4.23
+    },
+    {
+      "name": "Port of Spain",
+      "admin1_code": "05",
+      "location": [
+        10.66668,
+        -61.51889
+      ],
+      "monthly": {
+        "Jan": 4.14,
+        "Feb": 4.4,
+        "Mar": 4.53,
+        "Apr": 4.44,
+        "May": 4.32,
+        "Jun": 3.91,
+        "Jul": 3.98,
+        "Aug": 4.16,
+        "Sep": 4.33,
+        "Oct": 4.16,
+        "Nov": 3.95,
+        "Dec": 3.96
+      },
+      "average": 4.19
+    },
+    {
+      "name": "Point Fortin",
+      "admin1_code": "PTF",
+      "location": [
+        10.17411,
+        -61.68407
+      ],
+      "monthly": {
+        "Jan": 4.09,
+        "Feb": 4.24,
+        "Mar": 4.38,
+        "Apr": 4.32,
+        "May": 4.14,
+        "Jun": 3.76,
+        "Jul": 3.92,
+        "Aug": 4.2,
+        "Sep": 4.51,
+        "Oct": 4.26,
+        "Nov": 3.93,
+        "Dec": 3.86
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Paradise",
+      "admin1_code": "TUP",
+      "location": [
+        10.65298,
+        -61.36298
+      ],
+      "monthly": {
+        "Jan": 4.41,
+        "Feb": 4.66,
+        "Mar": 4.77,
+        "Apr": 4.67,
+        "May": 4.42,
+        "Jun": 4.01,
+        "Jul": 4.21,
+        "Aug": 4.26,
+        "Sep": 4.42,
+        "Oct": 4.23,
+        "Nov": 4.09,
+        "Dec": 4.11
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Mon Repos",
+      "admin1_code": "10",
+      "location": [
+        10.27979,
+        -61.4459
+      ],
+      "monthly": {
+        "Jan": 4.36,
+        "Feb": 4.56,
+        "Mar": 4.5,
+        "Apr": 4.34,
+        "May": 4.19,
+        "Jun": 3.86,
+        "Jul": 4.07,
+        "Aug": 4.24,
+        "Sep": 4.46,
+        "Oct": 4.23,
+        "Nov": 4,
+        "Dec": 4.04
+      },
+      "average": 4.24
+    },
+    {
+      "name": "Marabella",
+      "admin1_code": "10",
+      "location": [
+        10.30618,
+        -61.44671
+      ],
+      "monthly": {
+        "Jan": 4.39,
+        "Feb": 4.59,
+        "Mar": 4.55,
+        "Apr": 4.39,
+        "May": 4.21,
+        "Jun": 3.87,
+        "Jul": 4.08,
+        "Aug": 4.24,
+        "Sep": 4.45,
+        "Oct": 4.22,
+        "Nov": 4.01,
+        "Dec": 4.07
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Laventille",
+      "admin1_code": "SJL",
+      "location": [
+        10.64917,
+        -61.49889
+      ],
+      "monthly": {
+        "Jan": 4.24,
+        "Feb": 4.53,
+        "Mar": 4.68,
+        "Apr": 4.59,
+        "May": 4.41,
+        "Jun": 3.98,
+        "Jul": 4.07,
+        "Aug": 4.2,
+        "Sep": 4.38,
+        "Oct": 4.21,
+        "Nov": 4.01,
+        "Dec": 4.03
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Diego Martin",
+      "admin1_code": "DMN",
+      "location": [
+        10.72081,
+        -61.56616
+      ],
+      "monthly": {
+        "Jan": 4.11,
+        "Feb": 4.35,
+        "Mar": 4.32,
+        "Apr": 4.14,
+        "May": 4,
+        "Jun": 3.68,
+        "Jul": 3.83,
+        "Aug": 4.04,
+        "Sep": 4.21,
+        "Oct": 4.05,
+        "Nov": 3.84,
+        "Dec": 3.91
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Chaguanas",
+      "admin1_code": "CHA",
+      "location": [
+        10.51667,
+        -61.41667
+      ],
+      "monthly": {
+        "Jan": 4.54,
+        "Feb": 4.78,
+        "Mar": 4.78,
+        "Apr": 4.57,
+        "May": 4.3,
+        "Jun": 3.96,
+        "Jul": 4.17,
+        "Aug": 4.27,
+        "Sep": 4.42,
+        "Oct": 4.25,
+        "Nov": 4.11,
+        "Dec": 4.21
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Arima",
+      "admin1_code": "01",
+      "location": [
+        10.63737,
+        -61.28228
+      ],
+      "monthly": {
+        "Jan": 4.51,
+        "Feb": 4.78,
+        "Mar": 4.81,
+        "Apr": 4.64,
+        "May": 4.32,
+        "Jun": 3.94,
+        "Jul": 4.23,
+        "Aug": 4.35,
+        "Sep": 4.52,
+        "Oct": 4.3,
+        "Nov": 4.12,
+        "Dec": 4.18
+      },
+      "average": 4.39
+    }
+  ]
+}

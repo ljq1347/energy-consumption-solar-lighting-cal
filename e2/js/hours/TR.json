@@ -1,0 +1,9758 @@
+{
+  "country": "Turkey",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "name": "Yüksekova",
+      "admin1_code": "70",
+      "location": [
+        37.57362,
+        44.28716
+      ],
+      "monthly": {
+        "Jan": 2.55,
+        "Feb": 3.4,
+        "Mar": 4.41,
+        "Apr": 5,
+        "May": 5.41,
+        "Jun": 6.11,
+        "Jul": 5.96,
+        "Aug": 5.93,
+        "Sep": 5.91,
+        "Oct": 4.77,
+        "Nov": 3.98,
+        "Dec": 2.47
+      },
+      "average": 4.66
+    },
+    {
+      "name": "Yozgat",
+      "admin1_code": "66",
+      "location": [
+        39.82,
+        34.80444
+      ],
+      "monthly": {
+        "Jan": 2.64,
+        "Feb": 3.53,
+        "Mar": 4.11,
+        "Apr": 4.61,
+        "May": 4.93,
+        "Jun": 5.28,
+        "Jul": 5.67,
+        "Aug": 5.68,
+        "Sep": 5.26,
+        "Oct": 4.21,
+        "Nov": 3.42,
+        "Dec": 2.47
+      },
+      "average": 4.32
+    },
+    {
+      "name": "Yeşilova",
+      "admin1_code": "81",
+      "location": [
+        38.15566,
+        36.25758
+      ],
+      "monthly": {
+        "Jan": 2.97,
+        "Feb": 3.84,
+        "Mar": 4.41,
+        "Apr": 4.65,
+        "May": 4.98,
+        "Jun": 5.45,
+        "Jul": 5.81,
+        "Aug": 5.71,
+        "Sep": 5.49,
+        "Oct": 4.58,
+        "Nov": 3.77,
+        "Dec": 2.98
+      },
+      "average": 4.55
+    },
+    {
+      "name": "Yeşilli",
+      "admin1_code": "72",
+      "location": [
+        37.33813,
+        40.81739
+      ],
+      "monthly": {
+        "Jan": 3.18,
+        "Feb": 3.84,
+        "Mar": 4.51,
+        "Apr": 4.94,
+        "May": 5.36,
+        "Jun": 5.73,
+        "Jul": 5.71,
+        "Aug": 5.7,
+        "Sep": 5.67,
+        "Oct": 4.6,
+        "Nov": 3.88,
+        "Dec": 3.13
+      },
+      "average": 4.69
+    },
+    {
+      "name": "Erzin",
+      "admin1_code": "31",
+      "location": [
+        36.95348,
+        36.19839
+      ],
+      "monthly": {
+        "Jan": 3.07,
+        "Feb": 3.78,
+        "Mar": 4.31,
+        "Apr": 4.6,
+        "May": 5.07,
+        "Jun": 5.2,
+        "Jul": 5.06,
+        "Aug": 4.91,
+        "Sep": 5.06,
+        "Oct": 4.39,
+        "Nov": 3.66,
+        "Dec": 3.07
+      },
+      "average": 4.35
+    },
+    {
+      "name": "Yerköy",
+      "admin1_code": "66",
+      "location": [
+        39.63806,
+        34.46722
+      ],
+      "monthly": {
+        "Jan": 2.55,
+        "Feb": 3.53,
+        "Mar": 4.14,
+        "Apr": 4.57,
+        "May": 4.87,
+        "Jun": 5.23,
+        "Jul": 5.62,
+        "Aug": 5.61,
+        "Sep": 5.2,
+        "Oct": 4.18,
+        "Nov": 3.39,
+        "Dec": 2.42
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Didim",
+      "admin1_code": "09",
+      "location": [
+        37.38496,
+        27.25643
+      ],
+      "monthly": {
+        "Jan": 3.22,
+        "Feb": 3.92,
+        "Mar": 4.73,
+        "Apr": 5.19,
+        "May": 5.57,
+        "Jun": 5.86,
+        "Jul": 5.95,
+        "Aug": 5.84,
+        "Sep": 5.49,
+        "Oct": 4.62,
+        "Nov": 3.64,
+        "Dec": 2.93
+      },
+      "average": 4.75
+    },
+    {
+      "name": "Yatağan",
+      "admin1_code": "48",
+      "location": [
+        37.34025,
+        28.14279
+      ],
+      "monthly": {
+        "Jan": 3.15,
+        "Feb": 3.76,
+        "Mar": 4.45,
+        "Apr": 4.78,
+        "May": 5.12,
+        "Jun": 5.45,
+        "Jul": 5.6,
+        "Aug": 5.44,
+        "Sep": 5.22,
+        "Oct": 4.48,
+        "Nov": 3.63,
+        "Dec": 2.88
+      },
+      "average": 4.5
+    },
+    {
+      "name": "Yalvaç",
+      "admin1_code": "33",
+      "location": [
+        38.29556,
+        31.17778
+      ],
+      "monthly": {
+        "Jan": 3.04,
+        "Feb": 3.82,
+        "Mar": 4.37,
+        "Apr": 4.75,
+        "May": 5.07,
+        "Jun": 5.39,
+        "Jul": 5.69,
+        "Aug": 5.64,
+        "Sep": 5.36,
+        "Oct": 4.49,
+        "Nov": 3.74,
+        "Dec": 2.88
+      },
+      "average": 4.52
+    },
+    {
+      "name": "Yahyalı",
+      "admin1_code": "38",
+      "location": [
+        38.10228,
+        35.35704
+      ],
+      "monthly": {
+        "Jan": 2.93,
+        "Feb": 3.81,
+        "Mar": 4.19,
+        "Apr": 4.5,
+        "May": 4.7,
+        "Jun": 5.13,
+        "Jul": 5.67,
+        "Aug": 5.64,
+        "Sep": 5.22,
+        "Oct": 4.39,
+        "Nov": 3.61,
+        "Dec": 2.84
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Viranşehir",
+      "admin1_code": "63",
+      "location": [
+        37.22349,
+        39.75519
+      ],
+      "monthly": {
+        "Jan": 3.18,
+        "Feb": 3.83,
+        "Mar": 4.48,
+        "Apr": 4.96,
+        "May": 5.4,
+        "Jun": 5.76,
+        "Jul": 5.78,
+        "Aug": 5.78,
+        "Sep": 5.65,
+        "Oct": 4.57,
+        "Nov": 3.81,
+        "Dec": 3.14
+      },
+      "average": 4.7
+    },
+    {
+      "name": "Varto",
+      "admin1_code": "49",
+      "location": [
+        39.17375,
+        41.45402
+      ],
+      "monthly": {
+        "Jan": 2.07,
+        "Feb": 2.92,
+        "Mar": 4.07,
+        "Apr": 4.65,
+        "May": 5.16,
+        "Jun": 5.89,
+        "Jul": 5.91,
+        "Aug": 5.92,
+        "Sep": 5.71,
+        "Oct": 4.64,
+        "Nov": 3.79,
+        "Dec": 2.34
+      },
+      "average": 4.42
+    },
+    {
+      "name": "Van",
+      "admin1_code": "65",
+      "location": [
+        38.49457,
+        43.38323
+      ],
+      "monthly": {
+        "Jan": 3.13,
+        "Feb": 3.78,
+        "Mar": 4.44,
+        "Apr": 4.96,
+        "May": 5.44,
+        "Jun": 5.95,
+        "Jul": 5.91,
+        "Aug": 5.9,
+        "Sep": 5.87,
+        "Oct": 4.71,
+        "Nov": 3.91,
+        "Dec": 2.91
+      },
+      "average": 4.74
+    },
+    {
+      "name": "Cimin",
+      "admin1_code": "24",
+      "location": [
+        39.70947,
+        39.70015
+      ],
+      "monthly": {
+        "Jan": 2.79,
+        "Feb": 3.52,
+        "Mar": 4.06,
+        "Apr": 4.59,
+        "May": 5.06,
+        "Jun": 5.69,
+        "Jul": 5.89,
+        "Aug": 5.85,
+        "Sep": 5.59,
+        "Oct": 4.39,
+        "Nov": 3.64,
+        "Dec": 2.79
+      },
+      "average": 4.49
+    },
+    {
+      "name": "Uşak",
+      "admin1_code": "64",
+      "location": [
+        38.67351,
+        29.4058
+      ],
+      "monthly": {
+        "Jan": 3.09,
+        "Feb": 3.67,
+        "Mar": 4.21,
+        "Apr": 4.6,
+        "May": 5.01,
+        "Jun": 5.34,
+        "Jul": 5.66,
+        "Aug": 5.59,
+        "Sep": 5.24,
+        "Oct": 4.39,
+        "Nov": 3.65,
+        "Dec": 2.86
+      },
+      "average": 4.44
+    },
+    {
+      "name": "Urla",
+      "admin1_code": "35",
+      "location": [
+        38.32292,
+        26.76403
+      ],
+      "monthly": {
+        "Jan": 3.01,
+        "Feb": 3.63,
+        "Mar": 4.45,
+        "Apr": 4.96,
+        "May": 5.4,
+        "Jun": 5.73,
+        "Jul": 5.92,
+        "Aug": 5.77,
+        "Sep": 5.29,
+        "Oct": 4.43,
+        "Nov": 3.42,
+        "Dec": 2.73
+      },
+      "average": 4.56
+    },
+    {
+      "name": "Ürgüp",
+      "admin1_code": "50",
+      "location": [
+        38.6296,
+        34.91199
+      ],
+      "monthly": {
+        "Jan": 2.94,
+        "Feb": 3.79,
+        "Mar": 4.21,
+        "Apr": 4.6,
+        "May": 4.94,
+        "Jun": 5.36,
+        "Jul": 5.72,
+        "Aug": 5.74,
+        "Sep": 5.39,
+        "Oct": 4.41,
+        "Nov": 3.61,
+        "Dec": 2.78
+      },
+      "average": 4.46
+    },
+    {
+      "name": "Şanlıurfa",
+      "admin1_code": "63",
+      "location": [
+        37.16708,
+        38.79392
+      ],
+      "monthly": {
+        "Jan": 3.14,
+        "Feb": 3.82,
+        "Mar": 4.56,
+        "Apr": 5,
+        "May": 5.41,
+        "Jun": 5.79,
+        "Jul": 5.8,
+        "Aug": 5.76,
+        "Sep": 5.62,
+        "Oct": 4.6,
+        "Nov": 3.83,
+        "Dec": 3.14
+      },
+      "average": 4.71
+    },
+    {
+      "name": "Arsuz",
+      "admin1_code": "31",
+      "location": [
+        36.41305,
+        35.89033
+      ],
+      "monthly": {
+        "Jan": 2.85,
+        "Feb": 3.57,
+        "Mar": 4.34,
+        "Apr": 4.78,
+        "May": 5.34,
+        "Jun": 5.69,
+        "Jul": 5.61,
+        "Aug": 5.39,
+        "Sep": 5.1,
+        "Oct": 4.24,
+        "Nov": 3.51,
+        "Dec": 2.8
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Turgutlu",
+      "admin1_code": "45",
+      "location": [
+        38.49533,
+        27.6997
+      ],
+      "monthly": {
+        "Jan": 2.83,
+        "Feb": 3.38,
+        "Mar": 4.2,
+        "Apr": 4.63,
+        "May": 5.13,
+        "Jun": 5.47,
+        "Jul": 5.75,
+        "Aug": 5.61,
+        "Sep": 5.14,
+        "Oct": 4.26,
+        "Nov": 3.35,
+        "Dec": 2.56
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Tunceli",
+      "admin1_code": "62",
+      "location": [
+        39.09921,
+        39.54351
+      ],
+      "monthly": {
+        "Jan": 2.4,
+        "Feb": 3.31,
+        "Mar": 4.09,
+        "Apr": 4.47,
+        "May": 5.08,
+        "Jun": 5.78,
+        "Jul": 5.82,
+        "Aug": 5.72,
+        "Sep": 5.51,
+        "Oct": 4.32,
+        "Nov": 3.48,
+        "Dec": 2.51
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Torbalı",
+      "admin1_code": "35",
+      "location": [
+        38.182,
+        27.335
+      ],
+      "monthly": {
+        "Jan": 3.07,
+        "Feb": 3.59,
+        "Mar": 4.42,
+        "Apr": 4.82,
+        "May": 5.24,
+        "Jun": 5.56,
+        "Jul": 5.78,
+        "Aug": 5.65,
+        "Sep": 5.22,
+        "Oct": 4.4,
+        "Nov": 3.47,
+        "Dec": 2.78
+      },
+      "average": 4.5
+    },
+    {
+      "name": "Tire",
+      "admin1_code": "35",
+      "location": [
+        38.08877,
+        27.73508
+      ],
+      "monthly": {
+        "Jan": 2.9,
+        "Feb": 3.51,
+        "Mar": 4.26,
+        "Apr": 4.65,
+        "May": 5.11,
+        "Jun": 5.47,
+        "Jul": 5.7,
+        "Aug": 5.57,
+        "Sep": 5.18,
+        "Oct": 4.32,
+        "Nov": 3.4,
+        "Dec": 2.7
+      },
+      "average": 4.4
+    },
+    {
+      "name": "Tavşanlı",
+      "admin1_code": "43",
+      "location": [
+        39.54237,
+        29.49866
+      ],
+      "monthly": {
+        "Jan": 2.7,
+        "Feb": 3.34,
+        "Mar": 3.97,
+        "Apr": 4.37,
+        "May": 4.77,
+        "Jun": 5.18,
+        "Jul": 5.6,
+        "Aug": 5.39,
+        "Sep": 4.91,
+        "Oct": 4.01,
+        "Nov": 3.31,
+        "Dec": 2.5
+      },
+      "average": 4.17
+    },
+    {
+      "name": "Tatvan",
+      "admin1_code": "13",
+      "location": [
+        38.49221,
+        42.28269
+      ],
+      "monthly": {
+        "Jan": 2.28,
+        "Feb": 2.96,
+        "Mar": 3.93,
+        "Apr": 4.68,
+        "May": 5.16,
+        "Jun": 5.96,
+        "Jul": 5.95,
+        "Aug": 5.84,
+        "Sep": 5.66,
+        "Oct": 4.37,
+        "Nov": 3.53,
+        "Dec": 2.33
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Taşucu",
+      "admin1_code": "32",
+      "location": [
+        36.3214,
+        33.88165
+      ],
+      "monthly": {
+        "Jan": 3.17,
+        "Feb": 3.97,
+        "Mar": 4.75,
+        "Apr": 5.04,
+        "May": 5.37,
+        "Jun": 5.67,
+        "Jul": 5.66,
+        "Aug": 5.62,
+        "Sep": 5.41,
+        "Oct": 4.63,
+        "Nov": 3.75,
+        "Dec": 3
+      },
+      "average": 4.67
+    },
+    {
+      "name": "Tarsus",
+      "admin1_code": "32",
+      "location": [
+        36.91766,
+        34.89277
+      ],
+      "monthly": {
+        "Jan": 3.23,
+        "Feb": 3.98,
+        "Mar": 4.59,
+        "Apr": 4.81,
+        "May": 5.16,
+        "Jun": 5.43,
+        "Jul": 5.47,
+        "Aug": 5.43,
+        "Sep": 5.23,
+        "Oct": 4.53,
+        "Nov": 3.77,
+        "Dec": 3.08
+      },
+      "average": 4.56
+    },
+    {
+      "name": "Talas",
+      "admin1_code": "38",
+      "location": [
+        38.6908,
+        35.5538
+      ],
+      "monthly": {
+        "Jan": 2.97,
+        "Feb": 3.72,
+        "Mar": 4.12,
+        "Apr": 4.53,
+        "May": 4.82,
+        "Jun": 5.24,
+        "Jul": 5.66,
+        "Aug": 5.68,
+        "Sep": 5.34,
+        "Oct": 4.39,
+        "Nov": 3.59,
+        "Dec": 2.76
+      },
+      "average": 4.4
+    },
+    {
+      "name": "Susurluk",
+      "admin1_code": "10",
+      "location": [
+        39.91361,
+        28.15778
+      ],
+      "monthly": {
+        "Jan": 2.25,
+        "Feb": 2.78,
+        "Mar": 3.52,
+        "Apr": 4.18,
+        "May": 4.76,
+        "Jun": 5.2,
+        "Jul": 5.5,
+        "Aug": 5.23,
+        "Sep": 4.55,
+        "Oct": 3.47,
+        "Nov": 2.73,
+        "Dec": 2.04
+      },
+      "average": 3.85
+    },
+    {
+      "name": "Suruç",
+      "admin1_code": "63",
+      "location": [
+        36.97612,
+        38.42533
+      ],
+      "monthly": {
+        "Jan": 3.14,
+        "Feb": 3.84,
+        "Mar": 4.62,
+        "Apr": 5.03,
+        "May": 5.41,
+        "Jun": 5.79,
+        "Jul": 5.84,
+        "Aug": 5.79,
+        "Sep": 5.66,
+        "Oct": 4.64,
+        "Nov": 3.82,
+        "Dec": 3.13
+      },
+      "average": 4.73
+    },
+    {
+      "name": "Sorgun",
+      "admin1_code": "66",
+      "location": [
+        39.81012,
+        35.18596
+      ],
+      "monthly": {
+        "Jan": 2.67,
+        "Feb": 3.56,
+        "Mar": 4.12,
+        "Apr": 4.55,
+        "May": 4.89,
+        "Jun": 5.22,
+        "Jul": 5.51,
+        "Aug": 5.6,
+        "Sep": 5.19,
+        "Oct": 4.18,
+        "Nov": 3.45,
+        "Dec": 2.49
+      },
+      "average": 4.29
+    },
+    {
+      "name": "Soma",
+      "admin1_code": "45",
+      "location": [
+        39.18554,
+        27.60945
+      ],
+      "monthly": {
+        "Jan": 2.54,
+        "Feb": 3.01,
+        "Mar": 3.87,
+        "Apr": 4.44,
+        "May": 5.01,
+        "Jun": 5.39,
+        "Jul": 5.72,
+        "Aug": 5.53,
+        "Sep": 4.97,
+        "Oct": 3.96,
+        "Nov": 3.1,
+        "Dec": 2.32
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Solhan",
+      "admin1_code": "12",
+      "location": [
+        38.96525,
+        41.05443
+      ],
+      "monthly": {
+        "Jan": 2.35,
+        "Feb": 3.1,
+        "Mar": 3.99,
+        "Apr": 4.57,
+        "May": 5.11,
+        "Jun": 5.78,
+        "Jul": 5.81,
+        "Aug": 5.79,
+        "Sep": 5.62,
+        "Oct": 4.58,
+        "Nov": 3.75,
+        "Dec": 2.61
+      },
+      "average": 4.42
+    },
+    {
+      "name": "Söke",
+      "admin1_code": "09",
+      "location": [
+        37.7482,
+        27.40614
+      ],
+      "monthly": {
+        "Jan": 3.02,
+        "Feb": 3.62,
+        "Mar": 4.42,
+        "Apr": 4.86,
+        "May": 5.32,
+        "Jun": 5.67,
+        "Jul": 5.8,
+        "Aug": 5.68,
+        "Sep": 5.28,
+        "Oct": 4.39,
+        "Nov": 3.42,
+        "Dec": 2.76
+      },
+      "average": 4.52
+    },
+    {
+      "name": "Siverek",
+      "admin1_code": "63",
+      "location": [
+        37.75503,
+        39.31667
+      ],
+      "monthly": {
+        "Jan": 3.1,
+        "Feb": 3.65,
+        "Mar": 4.36,
+        "Apr": 4.82,
+        "May": 5.33,
+        "Jun": 5.76,
+        "Jul": 5.78,
+        "Aug": 5.75,
+        "Sep": 5.68,
+        "Oct": 4.57,
+        "Nov": 3.79,
+        "Dec": 3.12
+      },
+      "average": 4.64
+    },
+    {
+      "name": "Sivas",
+      "admin1_code": "58",
+      "location": [
+        39.74833,
+        37.01611
+      ],
+      "monthly": {
+        "Jan": 2.68,
+        "Feb": 3.49,
+        "Mar": 4.09,
+        "Apr": 4.51,
+        "May": 4.87,
+        "Jun": 5.44,
+        "Jul": 5.75,
+        "Aug": 5.78,
+        "Sep": 5.31,
+        "Oct": 4.26,
+        "Nov": 3.47,
+        "Dec": 2.46
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Şırnak",
+      "admin1_code": "80",
+      "location": [
+        37.51393,
+        42.45432
+      ],
+      "monthly": {
+        "Jan": 3.15,
+        "Feb": 3.77,
+        "Mar": 4.29,
+        "Apr": 4.76,
+        "May": 5.3,
+        "Jun": 5.81,
+        "Jul": 5.82,
+        "Aug": 5.87,
+        "Sep": 5.8,
+        "Oct": 4.62,
+        "Nov": 3.99,
+        "Dec": 3.21
+      },
+      "average": 4.7
+    },
+    {
+      "name": "Simav",
+      "admin1_code": "43",
+      "location": [
+        39.0882,
+        28.97767
+      ],
+      "monthly": {
+        "Jan": 2.54,
+        "Feb": 3.11,
+        "Mar": 3.87,
+        "Apr": 4.28,
+        "May": 4.72,
+        "Jun": 5.17,
+        "Jul": 5.63,
+        "Aug": 5.42,
+        "Sep": 4.91,
+        "Oct": 3.98,
+        "Nov": 3.12,
+        "Dec": 2.33
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Silvan",
+      "admin1_code": "21",
+      "location": [
+        38.13708,
+        41.00817
+      ],
+      "monthly": {
+        "Jan": 2.91,
+        "Feb": 3.66,
+        "Mar": 4.2,
+        "Apr": 4.77,
+        "May": 5.28,
+        "Jun": 5.69,
+        "Jul": 5.76,
+        "Aug": 5.76,
+        "Sep": 5.65,
+        "Oct": 4.61,
+        "Nov": 3.79,
+        "Dec": 2.86
+      },
+      "average": 4.58
+    },
+    {
+      "name": "Silopi",
+      "admin1_code": "80",
+      "location": [
+        37.24379,
+        42.46345
+      ],
+      "monthly": {
+        "Jan": 3.2,
+        "Feb": 3.8,
+        "Mar": 4.36,
+        "Apr": 4.71,
+        "May": 5.2,
+        "Jun": 5.67,
+        "Jul": 5.67,
+        "Aug": 5.66,
+        "Sep": 5.61,
+        "Oct": 4.45,
+        "Nov": 3.84,
+        "Dec": 3.16
+      },
+      "average": 4.61
+    },
+    {
+      "name": "Silifke",
+      "admin1_code": "32",
+      "location": [
+        36.37778,
+        33.93444
+      ],
+      "monthly": {
+        "Jan": 3.27,
+        "Feb": 4.05,
+        "Mar": 4.8,
+        "Apr": 5.02,
+        "May": 5.3,
+        "Jun": 5.58,
+        "Jul": 5.6,
+        "Aug": 5.58,
+        "Sep": 5.4,
+        "Oct": 4.65,
+        "Nov": 3.83,
+        "Dec": 3.09
+      },
+      "average": 4.68
+    },
+    {
+      "name": "Siirt",
+      "admin1_code": "74",
+      "location": [
+        37.9293,
+        41.94134
+      ],
+      "monthly": {
+        "Jan": 3.12,
+        "Feb": 3.76,
+        "Mar": 4.26,
+        "Apr": 4.76,
+        "May": 5.32,
+        "Jun": 5.8,
+        "Jul": 5.8,
+        "Aug": 5.78,
+        "Sep": 5.68,
+        "Oct": 4.58,
+        "Nov": 3.88,
+        "Dec": 3.06
+      },
+      "average": 4.65
+    },
+    {
+      "name": "Seydişehir",
+      "admin1_code": "71",
+      "location": [
+        37.41926,
+        31.84527
+      ],
+      "monthly": {
+        "Jan": 2.7,
+        "Feb": 3.64,
+        "Mar": 4.31,
+        "Apr": 4.74,
+        "May": 5.02,
+        "Jun": 5.31,
+        "Jul": 5.61,
+        "Aug": 5.55,
+        "Sep": 5.25,
+        "Oct": 4.43,
+        "Nov": 3.56,
+        "Dec": 2.63
+      },
+      "average": 4.4
+    },
+    {
+      "name": "Serinyol",
+      "admin1_code": "31",
+      "location": [
+        36.36139,
+        36.21361
+      ],
+      "monthly": {
+        "Jan": 2.74,
+        "Feb": 3.53,
+        "Mar": 4.42,
+        "Apr": 4.9,
+        "May": 5.43,
+        "Jun": 5.77,
+        "Jul": 5.82,
+        "Aug": 5.66,
+        "Sep": 5.29,
+        "Oct": 4.41,
+        "Nov": 3.62,
+        "Dec": 2.77
+      },
+      "average": 4.53
+    },
+    {
+      "name": "Serik",
+      "admin1_code": "07",
+      "location": [
+        36.91748,
+        31.10463
+      ],
+      "monthly": {
+        "Jan": 3.21,
+        "Feb": 4.01,
+        "Mar": 4.66,
+        "Apr": 5.02,
+        "May": 5.31,
+        "Jun": 5.6,
+        "Jul": 5.65,
+        "Aug": 5.55,
+        "Sep": 5.32,
+        "Oct": 4.52,
+        "Nov": 3.72,
+        "Dec": 3.01
+      },
+      "average": 4.63
+    },
+    {
+      "name": "Şereflikoçhisar",
+      "admin1_code": "68",
+      "location": [
+        38.93925,
+        33.5386
+      ],
+      "monthly": {
+        "Jan": 2.69,
+        "Feb": 3.78,
+        "Mar": 4.44,
+        "Apr": 4.89,
+        "May": 5.25,
+        "Jun": 5.49,
+        "Jul": 5.86,
+        "Aug": 5.83,
+        "Sep": 5.47,
+        "Oct": 4.41,
+        "Nov": 3.54,
+        "Dec": 2.61
+      },
+      "average": 4.52
+    },
+    {
+      "name": "Senirkent",
+      "admin1_code": "33",
+      "location": [
+        38.10444,
+        30.54861
+      ],
+      "monthly": {
+        "Jan": 2.53,
+        "Feb": 3.44,
+        "Mar": 4.14,
+        "Apr": 4.62,
+        "May": 4.95,
+        "Jun": 5.38,
+        "Jul": 5.7,
+        "Aug": 5.59,
+        "Sep": 5.24,
+        "Oct": 4.31,
+        "Nov": 3.23,
+        "Dec": 2.26
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Şemdinli",
+      "admin1_code": "70",
+      "location": [
+        37.30514,
+        44.5742
+      ],
+      "monthly": {
+        "Jan": 2.53,
+        "Feb": 3.2,
+        "Mar": 3.94,
+        "Apr": 4.56,
+        "May": 5.16,
+        "Jun": 5.94,
+        "Jul": 5.79,
+        "Aug": 5.7,
+        "Sep": 5.57,
+        "Oct": 4.4,
+        "Nov": 3.52,
+        "Dec": 2.6
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Selçuk",
+      "admin1_code": "35",
+      "location": [
+        37.95137,
+        27.36849
+      ],
+      "monthly": {
+        "Jan": 3.03,
+        "Feb": 3.62,
+        "Mar": 4.41,
+        "Apr": 4.82,
+        "May": 5.27,
+        "Jun": 5.59,
+        "Jul": 5.73,
+        "Aug": 5.62,
+        "Sep": 5.24,
+        "Oct": 4.39,
+        "Nov": 3.46,
+        "Dec": 2.78
+      },
+      "average": 4.5
+    },
+    {
+      "name": "Seferihisar",
+      "admin1_code": "35",
+      "location": [
+        38.1975,
+        26.83881
+      ],
+      "monthly": {
+        "Jan": 3.07,
+        "Feb": 3.69,
+        "Mar": 4.53,
+        "Apr": 5.01,
+        "May": 5.43,
+        "Jun": 5.75,
+        "Jul": 5.9,
+        "Aug": 5.77,
+        "Sep": 5.36,
+        "Oct": 4.47,
+        "Nov": 3.46,
+        "Dec": 2.79
+      },
+      "average": 4.6
+    },
+    {
+      "name": "Şarkışla",
+      "admin1_code": "58",
+      "location": [
+        39.35186,
+        36.40976
+      ],
+      "monthly": {
+        "Jan": 2.88,
+        "Feb": 3.73,
+        "Mar": 4.24,
+        "Apr": 4.64,
+        "May": 4.89,
+        "Jun": 5.35,
+        "Jul": 5.67,
+        "Aug": 5.77,
+        "Sep": 5.41,
+        "Oct": 4.42,
+        "Nov": 3.67,
+        "Dec": 2.76
+      },
+      "average": 4.45
+    },
+    {
+      "name": "Şarkîkaraağaç",
+      "admin1_code": "33",
+      "location": [
+        38.07944,
+        31.36639
+      ],
+      "monthly": {
+        "Jan": 2.94,
+        "Feb": 3.82,
+        "Mar": 4.41,
+        "Apr": 4.76,
+        "May": 5.01,
+        "Jun": 5.3,
+        "Jul": 5.64,
+        "Aug": 5.58,
+        "Sep": 5.29,
+        "Oct": 4.46,
+        "Nov": 3.72,
+        "Dec": 2.77
+      },
+      "average": 4.48
+    },
+    {
+      "name": "Sarayköy",
+      "admin1_code": "20",
+      "location": [
+        37.92448,
+        28.92516
+      ],
+      "monthly": {
+        "Jan": 3.09,
+        "Feb": 3.71,
+        "Mar": 4.27,
+        "Apr": 4.68,
+        "May": 5.05,
+        "Jun": 5.39,
+        "Jul": 5.62,
+        "Aug": 5.5,
+        "Sep": 5.18,
+        "Oct": 4.31,
+        "Nov": 3.53,
+        "Dec": 2.82
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Sandıklı",
+      "admin1_code": "03",
+      "location": [
+        38.46472,
+        30.26946
+      ],
+      "monthly": {
+        "Jan": 3.07,
+        "Feb": 3.8,
+        "Mar": 4.33,
+        "Apr": 4.65,
+        "May": 4.95,
+        "Jun": 5.3,
+        "Jul": 5.66,
+        "Aug": 5.62,
+        "Sep": 5.31,
+        "Oct": 4.47,
+        "Nov": 3.72,
+        "Dec": 2.92
+      },
+      "average": 4.48
+    },
+    {
+      "name": "Samandağ",
+      "admin1_code": "31",
+      "location": [
+        36.08012,
+        35.97603
+      ],
+      "monthly": {
+        "Jan": 2.97,
+        "Feb": 3.66,
+        "Mar": 4.4,
+        "Apr": 4.74,
+        "May": 5.23,
+        "Jun": 5.27,
+        "Jul": 5.17,
+        "Aug": 4.98,
+        "Sep": 4.98,
+        "Oct": 4.33,
+        "Nov": 3.65,
+        "Dec": 2.96
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Salihli",
+      "admin1_code": "45",
+      "location": [
+        38.48258,
+        28.14774
+      ],
+      "monthly": {
+        "Jan": 2.87,
+        "Feb": 3.41,
+        "Mar": 4.16,
+        "Apr": 4.56,
+        "May": 5.02,
+        "Jun": 5.4,
+        "Jul": 5.67,
+        "Aug": 5.52,
+        "Sep": 5.08,
+        "Oct": 4.2,
+        "Nov": 3.38,
+        "Dec": 2.63
+      },
+      "average": 4.33
+    },
+    {
+      "name": "Reyhanlı",
+      "admin1_code": "31",
+      "location": [
+        36.26791,
+        36.56747
+      ],
+      "monthly": {
+        "Jan": 2.83,
+        "Feb": 3.65,
+        "Mar": 4.51,
+        "Apr": 4.96,
+        "May": 5.5,
+        "Jun": 5.83,
+        "Jul": 5.85,
+        "Aug": 5.74,
+        "Sep": 5.44,
+        "Oct": 4.49,
+        "Nov": 3.68,
+        "Dec": 2.82
+      },
+      "average": 4.61
+    },
+    {
+      "name": "Polatlı",
+      "admin1_code": "68",
+      "location": [
+        39.57715,
+        32.14132
+      ],
+      "monthly": {
+        "Jan": 2.61,
+        "Feb": 3.57,
+        "Mar": 4.24,
+        "Apr": 4.67,
+        "May": 5.05,
+        "Jun": 5.34,
+        "Jul": 5.72,
+        "Aug": 5.67,
+        "Sep": 5.28,
+        "Oct": 4.24,
+        "Nov": 3.43,
+        "Dec": 2.39
+      },
+      "average": 4.35
+    },
+    {
+      "name": "Pazarcık",
+      "admin1_code": "46",
+      "location": [
+        37.48685,
+        37.29961
+      ],
+      "monthly": {
+        "Jan": 2.91,
+        "Feb": 3.6,
+        "Mar": 4.39,
+        "Apr": 4.83,
+        "May": 5.34,
+        "Jun": 5.8,
+        "Jul": 5.89,
+        "Aug": 5.82,
+        "Sep": 5.64,
+        "Oct": 4.64,
+        "Nov": 3.74,
+        "Dec": 3.01
+      },
+      "average": 4.63
+    },
+    {
+      "name": "Patnos",
+      "admin1_code": "04",
+      "location": [
+        39.22493,
+        42.85693
+      ],
+      "monthly": {
+        "Jan": 2.26,
+        "Feb": 3.08,
+        "Mar": 4.02,
+        "Apr": 4.51,
+        "May": 5.09,
+        "Jun": 5.78,
+        "Jul": 5.72,
+        "Aug": 5.75,
+        "Sep": 5.66,
+        "Oct": 4.58,
+        "Nov": 3.78,
+        "Dec": 2.29
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Pasinler",
+      "admin1_code": "25",
+      "location": [
+        39.97975,
+        41.66997
+      ],
+      "monthly": {
+        "Jan": 2.51,
+        "Feb": 3.45,
+        "Mar": 4.17,
+        "Apr": 4.58,
+        "May": 4.88,
+        "Jun": 5.59,
+        "Jul": 5.76,
+        "Aug": 5.77,
+        "Sep": 5.59,
+        "Oct": 4.5,
+        "Nov": 3.83,
+        "Dec": 2.42
+      },
+      "average": 4.42
+    },
+    {
+      "name": "Osmaniye",
+      "admin1_code": "91",
+      "location": [
+        37.07417,
+        36.24778
+      ],
+      "monthly": {
+        "Jan": 3.02,
+        "Feb": 3.67,
+        "Mar": 4.2,
+        "Apr": 4.53,
+        "May": 5.02,
+        "Jun": 5.29,
+        "Jul": 5.27,
+        "Aug": 5.12,
+        "Sep": 5.07,
+        "Oct": 4.31,
+        "Nov": 3.6,
+        "Dec": 3.02
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Ortaköy",
+      "admin1_code": "75",
+      "location": [
+        38.73728,
+        34.03866
+      ],
+      "monthly": {
+        "Jan": 2.83,
+        "Feb": 3.7,
+        "Mar": 4.26,
+        "Apr": 4.74,
+        "May": 5.11,
+        "Jun": 5.42,
+        "Jul": 5.74,
+        "Aug": 5.75,
+        "Sep": 5.44,
+        "Oct": 4.46,
+        "Nov": 3.62,
+        "Dec": 2.72
+      },
+      "average": 4.48
+    },
+    {
+      "name": "Ortaca",
+      "admin1_code": "48",
+      "location": [
+        36.83915,
+        28.76457
+      ],
+      "monthly": {
+        "Jan": 3.18,
+        "Feb": 3.8,
+        "Mar": 4.52,
+        "Apr": 4.91,
+        "May": 5.32,
+        "Jun": 5.68,
+        "Jul": 5.76,
+        "Aug": 5.64,
+        "Sep": 5.34,
+        "Oct": 4.45,
+        "Nov": 3.59,
+        "Dec": 2.9
+      },
+      "average": 4.59
+    },
+    {
+      "name": "Ödemiş",
+      "admin1_code": "35",
+      "location": [
+        38.2278,
+        27.96955
+      ],
+      "monthly": {
+        "Jan": 2.99,
+        "Feb": 3.53,
+        "Mar": 4.25,
+        "Apr": 4.65,
+        "May": 5.12,
+        "Jun": 5.48,
+        "Jul": 5.72,
+        "Aug": 5.58,
+        "Sep": 5.18,
+        "Oct": 4.34,
+        "Nov": 3.44,
+        "Dec": 2.72
+      },
+      "average": 4.42
+    },
+    {
+      "name": "Nusaybin",
+      "admin1_code": "72",
+      "location": [
+        37.07028,
+        41.21465
+      ],
+      "monthly": {
+        "Jan": 3.24,
+        "Feb": 3.88,
+        "Mar": 4.57,
+        "Apr": 4.95,
+        "May": 5.31,
+        "Jun": 5.71,
+        "Jul": 5.7,
+        "Aug": 5.67,
+        "Sep": 5.61,
+        "Oct": 4.53,
+        "Nov": 3.89,
+        "Dec": 3.15
+      },
+      "average": 4.68
+    },
+    {
+      "name": "Nizip",
+      "admin1_code": "83",
+      "location": [
+        37.00972,
+        37.79417
+      ],
+      "monthly": {
+        "Jan": 3.1,
+        "Feb": 3.84,
+        "Mar": 4.58,
+        "Apr": 4.99,
+        "May": 5.43,
+        "Jun": 5.78,
+        "Jul": 5.8,
+        "Aug": 5.73,
+        "Sep": 5.59,
+        "Oct": 4.66,
+        "Nov": 3.84,
+        "Dec": 3.14
+      },
+      "average": 4.71
+    },
+    {
+      "name": "Niğde",
+      "admin1_code": "73",
+      "location": [
+        37.96583,
+        34.67935
+      ],
+      "monthly": {
+        "Jan": 3.18,
+        "Feb": 4.03,
+        "Mar": 4.47,
+        "Apr": 4.78,
+        "May": 5.09,
+        "Jun": 5.46,
+        "Jul": 5.73,
+        "Aug": 5.78,
+        "Sep": 5.56,
+        "Oct": 4.69,
+        "Nov": 3.88,
+        "Dec": 3.08
+      },
+      "average": 4.64
+    },
+    {
+      "name": "Nevşehir",
+      "admin1_code": "50",
+      "location": [
+        38.625,
+        34.71222
+      ],
+      "monthly": {
+        "Jan": 2.82,
+        "Feb": 3.66,
+        "Mar": 4.14,
+        "Apr": 4.61,
+        "May": 4.91,
+        "Jun": 5.34,
+        "Jul": 5.71,
+        "Aug": 5.75,
+        "Sep": 5.41,
+        "Oct": 4.41,
+        "Nov": 3.53,
+        "Dec": 2.66
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Nazilli",
+      "admin1_code": "09",
+      "location": [
+        37.91631,
+        28.32225
+      ],
+      "monthly": {
+        "Jan": 3.07,
+        "Feb": 3.67,
+        "Mar": 4.32,
+        "Apr": 4.68,
+        "May": 5.12,
+        "Jun": 5.46,
+        "Jul": 5.66,
+        "Aug": 5.54,
+        "Sep": 5.2,
+        "Oct": 4.39,
+        "Nov": 3.52,
+        "Dec": 2.83
+      },
+      "average": 4.46
+    },
+    {
+      "name": "Mut",
+      "admin1_code": "32",
+      "location": [
+        36.64389,
+        33.43885
+      ],
+      "monthly": {
+        "Jan": 3.5,
+        "Feb": 4.29,
+        "Mar": 5,
+        "Apr": 5.14,
+        "May": 5.34,
+        "Jun": 5.61,
+        "Jul": 5.7,
+        "Aug": 5.7,
+        "Sep": 5.52,
+        "Oct": 4.81,
+        "Nov": 4,
+        "Dec": 3.3
+      },
+      "average": 4.83
+    },
+    {
+      "name": "Muş",
+      "admin1_code": "49",
+      "location": [
+        38.73163,
+        41.48482
+      ],
+      "monthly": {
+        "Jan": 2.11,
+        "Feb": 3,
+        "Mar": 3.99,
+        "Apr": 4.61,
+        "May": 5.14,
+        "Jun": 5.84,
+        "Jul": 5.84,
+        "Aug": 5.8,
+        "Sep": 5.62,
+        "Oct": 4.38,
+        "Nov": 3.35,
+        "Dec": 2.05
+      },
+      "average": 4.31
+    },
+    {
+      "name": "Muğla",
+      "admin1_code": "48",
+      "location": [
+        37.21807,
+        28.3665
+      ],
+      "monthly": {
+        "Jan": 3.13,
+        "Feb": 3.7,
+        "Mar": 4.48,
+        "Apr": 4.82,
+        "May": 5.18,
+        "Jun": 5.5,
+        "Jul": 5.66,
+        "Aug": 5.54,
+        "Sep": 5.32,
+        "Oct": 4.53,
+        "Nov": 3.65,
+        "Dec": 2.9
+      },
+      "average": 4.53
+    },
+    {
+      "name": "Mucur",
+      "admin1_code": "40",
+      "location": [
+        39.06147,
+        34.38286
+      ],
+      "monthly": {
+        "Jan": 2.81,
+        "Feb": 3.74,
+        "Mar": 4.32,
+        "Apr": 4.76,
+        "May": 5.05,
+        "Jun": 5.34,
+        "Jul": 5.71,
+        "Aug": 5.76,
+        "Sep": 5.42,
+        "Oct": 4.43,
+        "Nov": 3.62,
+        "Dec": 2.72
+      },
+      "average": 4.47
+    },
+    {
+      "name": "Milas",
+      "admin1_code": "48",
+      "location": [
+        37.31639,
+        27.78389
+      ],
+      "monthly": {
+        "Jan": 3.13,
+        "Feb": 3.74,
+        "Mar": 4.47,
+        "Apr": 4.83,
+        "May": 5.21,
+        "Jun": 5.57,
+        "Jul": 5.69,
+        "Aug": 5.6,
+        "Sep": 5.26,
+        "Oct": 4.45,
+        "Nov": 3.56,
+        "Dec": 2.91
+      },
+      "average": 4.54
+    },
+    {
+      "name": "Midyat",
+      "admin1_code": "72",
+      "location": [
+        37.41908,
+        41.33909
+      ],
+      "monthly": {
+        "Jan": 3.12,
+        "Feb": 3.77,
+        "Mar": 4.42,
+        "Apr": 4.86,
+        "May": 5.35,
+        "Jun": 5.8,
+        "Jul": 5.76,
+        "Aug": 5.74,
+        "Sep": 5.68,
+        "Oct": 4.61,
+        "Nov": 3.92,
+        "Dec": 3.07
+      },
+      "average": 4.68
+    },
+    {
+      "name": "Mersin",
+      "admin1_code": "32",
+      "location": [
+        36.81196,
+        34.63886
+      ],
+      "monthly": {
+        "Jan": 3.25,
+        "Feb": 4.03,
+        "Mar": 4.7,
+        "Apr": 4.93,
+        "May": 5.25,
+        "Jun": 5.51,
+        "Jul": 5.54,
+        "Aug": 5.5,
+        "Sep": 5.33,
+        "Oct": 4.59,
+        "Nov": 3.8,
+        "Dec": 3.1
+      },
+      "average": 4.63
+    },
+    {
+      "name": "Menemen",
+      "admin1_code": "35",
+      "location": [
+        38.60754,
+        27.06938
+      ],
+      "monthly": {
+        "Jan": 2.99,
+        "Feb": 3.5,
+        "Mar": 4.33,
+        "Apr": 4.8,
+        "May": 5.24,
+        "Jun": 5.57,
+        "Jul": 5.79,
+        "Aug": 5.63,
+        "Sep": 5.18,
+        "Oct": 4.24,
+        "Nov": 3.35,
+        "Dec": 2.71
+      },
+      "average": 4.44
+    },
+    {
+      "name": "Marmaris",
+      "admin1_code": "48",
+      "location": [
+        36.855,
+        28.27417
+      ],
+      "monthly": {
+        "Jan": 3.02,
+        "Feb": 3.64,
+        "Mar": 4.45,
+        "Apr": 4.88,
+        "May": 5.36,
+        "Jun": 5.74,
+        "Jul": 5.85,
+        "Aug": 5.7,
+        "Sep": 5.31,
+        "Oct": 4.38,
+        "Nov": 3.44,
+        "Dec": 2.77
+      },
+      "average": 4.55
+    },
+    {
+      "name": "Mardin",
+      "admin1_code": "72",
+      "location": [
+        37.31309,
+        40.74357
+      ],
+      "monthly": {
+        "Jan": 3.28,
+        "Feb": 3.94,
+        "Mar": 4.63,
+        "Apr": 5.06,
+        "May": 5.46,
+        "Jun": 5.82,
+        "Jul": 5.82,
+        "Aug": 5.82,
+        "Sep": 5.78,
+        "Oct": 4.72,
+        "Nov": 3.98,
+        "Dec": 3.24
+      },
+      "average": 4.8
+    },
+    {
+      "name": "Manisa",
+      "admin1_code": "45",
+      "location": [
+        38.61202,
+        27.42647
+      ],
+      "monthly": {
+        "Jan": 2.6,
+        "Feb": 3.23,
+        "Mar": 4.07,
+        "Apr": 4.57,
+        "May": 5.03,
+        "Jun": 5.35,
+        "Jul": 5.65,
+        "Aug": 5.52,
+        "Sep": 5.02,
+        "Oct": 4.14,
+        "Nov": 3.14,
+        "Dec": 2.29
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Manavgat",
+      "admin1_code": "07",
+      "location": [
+        36.78672,
+        31.44086
+      ],
+      "monthly": {
+        "Jan": 3.18,
+        "Feb": 4.01,
+        "Mar": 4.71,
+        "Apr": 5.08,
+        "May": 5.44,
+        "Jun": 5.7,
+        "Jul": 5.71,
+        "Aug": 5.61,
+        "Sep": 5.38,
+        "Oct": 4.55,
+        "Nov": 3.73,
+        "Dec": 2.99
+      },
+      "average": 4.67
+    },
+    {
+      "name": "Malazgirt",
+      "admin1_code": "49",
+      "location": [
+        39.1465,
+        42.53536
+      ],
+      "monthly": {
+        "Jan": 2.24,
+        "Feb": 3.04,
+        "Mar": 4.07,
+        "Apr": 4.56,
+        "May": 5.12,
+        "Jun": 5.77,
+        "Jul": 5.7,
+        "Aug": 5.72,
+        "Sep": 5.66,
+        "Oct": 4.61,
+        "Nov": 3.8,
+        "Dec": 2.27
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Malatya",
+      "admin1_code": "44",
+      "location": [
+        38.35018,
+        38.31667
+      ],
+      "monthly": {
+        "Jan": 2.52,
+        "Feb": 3.5,
+        "Mar": 4.27,
+        "Apr": 4.76,
+        "May": 5.17,
+        "Jun": 5.72,
+        "Jul": 5.92,
+        "Aug": 5.83,
+        "Sep": 5.65,
+        "Oct": 4.58,
+        "Nov": 3.63,
+        "Dec": 2.57
+      },
+      "average": 4.51
+    },
+    {
+      "name": "Mahmutlar",
+      "admin1_code": "07",
+      "location": [
+        36.49463,
+        32.09085
+      ],
+      "monthly": {
+        "Jan": 3.08,
+        "Feb": 3.9,
+        "Mar": 4.62,
+        "Apr": 4.96,
+        "May": 5.42,
+        "Jun": 5.76,
+        "Jul": 5.72,
+        "Aug": 5.56,
+        "Sep": 5.36,
+        "Oct": 4.49,
+        "Nov": 3.65,
+        "Dec": 2.86
+      },
+      "average": 4.62
+    },
+    {
+      "name": "Lice",
+      "admin1_code": "21",
+      "location": [
+        38.45821,
+        40.63888
+      ],
+      "monthly": {
+        "Jan": 2.76,
+        "Feb": 3.47,
+        "Mar": 4.11,
+        "Apr": 4.58,
+        "May": 5.26,
+        "Jun": 5.77,
+        "Jul": 5.78,
+        "Aug": 5.78,
+        "Sep": 5.61,
+        "Oct": 4.55,
+        "Nov": 3.77,
+        "Dec": 2.88
+      },
+      "average": 4.53
+    },
+    {
+      "name": "Kütahya",
+      "admin1_code": "43",
+      "location": [
+        39.42417,
+        29.98333
+      ],
+      "monthly": {
+        "Jan": 2.52,
+        "Feb": 3.23,
+        "Mar": 3.89,
+        "Apr": 4.3,
+        "May": 4.64,
+        "Jun": 5.03,
+        "Jul": 5.49,
+        "Aug": 5.33,
+        "Sep": 4.82,
+        "Oct": 3.88,
+        "Nov": 3.18,
+        "Dec": 2.24
+      },
+      "average": 4.05
+    },
+    {
+      "name": "Kuşadası",
+      "admin1_code": "09",
+      "location": [
+        37.86014,
+        27.25713
+      ],
+      "monthly": {
+        "Jan": 2.99,
+        "Feb": 3.6,
+        "Mar": 4.41,
+        "Apr": 4.87,
+        "May": 5.34,
+        "Jun": 5.68,
+        "Jul": 5.79,
+        "Aug": 5.65,
+        "Sep": 5.24,
+        "Oct": 4.33,
+        "Nov": 3.37,
+        "Dec": 2.7
+      },
+      "average": 4.5
+    },
+    {
+      "name": "Kurtalan",
+      "admin1_code": "74",
+      "location": [
+        37.92533,
+        41.68493
+      ],
+      "monthly": {
+        "Jan": 2.92,
+        "Feb": 3.61,
+        "Mar": 4.13,
+        "Apr": 4.63,
+        "May": 5.18,
+        "Jun": 5.68,
+        "Jul": 5.73,
+        "Aug": 5.71,
+        "Sep": 5.56,
+        "Oct": 4.47,
+        "Nov": 3.76,
+        "Dec": 2.82
+      },
+      "average": 4.52
+    },
+    {
+      "name": "Beykonak",
+      "admin1_code": "07",
+      "location": [
+        36.32573,
+        30.30302
+      ],
+      "monthly": {
+        "Jan": 3.26,
+        "Feb": 3.95,
+        "Mar": 4.69,
+        "Apr": 5.16,
+        "May": 5.45,
+        "Jun": 5.71,
+        "Jul": 5.72,
+        "Aug": 5.65,
+        "Sep": 5.4,
+        "Oct": 4.58,
+        "Nov": 3.73,
+        "Dec": 3.03
+      },
+      "average": 4.69
+    },
+    {
+      "name": "Kulu",
+      "admin1_code": "71",
+      "location": [
+        39.09513,
+        33.07989
+      ],
+      "monthly": {
+        "Jan": 2.68,
+        "Feb": 3.66,
+        "Mar": 4.35,
+        "Apr": 4.72,
+        "May": 5.04,
+        "Jun": 5.24,
+        "Jul": 5.67,
+        "Aug": 5.67,
+        "Sep": 5.31,
+        "Oct": 4.36,
+        "Nov": 3.54,
+        "Dec": 2.47
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Kulp",
+      "admin1_code": "21",
+      "location": [
+        38.49754,
+        41.00668
+      ],
+      "monthly": {
+        "Jan": 2.86,
+        "Feb": 3.47,
+        "Mar": 4.05,
+        "Apr": 4.54,
+        "May": 5.23,
+        "Jun": 5.8,
+        "Jul": 5.81,
+        "Aug": 5.77,
+        "Sep": 5.57,
+        "Oct": 4.48,
+        "Nov": 3.72,
+        "Dec": 2.93
+      },
+      "average": 4.52
+    },
+    {
+      "name": "Kula",
+      "admin1_code": "45",
+      "location": [
+        38.54726,
+        28.64976
+      ],
+      "monthly": {
+        "Jan": 3.06,
+        "Feb": 3.65,
+        "Mar": 4.23,
+        "Apr": 4.62,
+        "May": 5.02,
+        "Jun": 5.36,
+        "Jul": 5.73,
+        "Aug": 5.63,
+        "Sep": 5.22,
+        "Oct": 4.38,
+        "Nov": 3.6,
+        "Dec": 2.85
+      },
+      "average": 4.45
+    },
+    {
+      "name": "Küçükçiğli",
+      "admin1_code": "35",
+      "location": [
+        38.50801,
+        27.0554
+      ],
+      "monthly": {
+        "Jan": 3.05,
+        "Feb": 3.59,
+        "Mar": 4.42,
+        "Apr": 4.85,
+        "May": 5.28,
+        "Jun": 5.6,
+        "Jul": 5.8,
+        "Aug": 5.67,
+        "Sep": 5.24,
+        "Oct": 4.34,
+        "Nov": 3.44,
+        "Dec": 2.77
+      },
+      "average": 4.5
+    },
+    {
+      "name": "Kozluk",
+      "admin1_code": "76",
+      "location": [
+        38.19118,
+        41.47775
+      ],
+      "monthly": {
+        "Jan": 2.98,
+        "Feb": 3.65,
+        "Mar": 4.12,
+        "Apr": 4.67,
+        "May": 5.24,
+        "Jun": 5.7,
+        "Jul": 5.75,
+        "Aug": 5.73,
+        "Sep": 5.62,
+        "Oct": 4.51,
+        "Nov": 3.77,
+        "Dec": 2.9
+      },
+      "average": 4.55
+    },
+    {
+      "name": "Kozan",
+      "admin1_code": "81",
+      "location": [
+        37.45517,
+        35.81573
+      ],
+      "monthly": {
+        "Jan": 3.16,
+        "Feb": 3.9,
+        "Mar": 4.26,
+        "Apr": 4.47,
+        "May": 4.79,
+        "Jun": 5.06,
+        "Jul": 5.21,
+        "Aug": 5.2,
+        "Sep": 5.08,
+        "Oct": 4.44,
+        "Nov": 3.71,
+        "Dec": 3.05
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Kovancılar",
+      "admin1_code": "23",
+      "location": [
+        38.71882,
+        39.86268
+      ],
+      "monthly": {
+        "Jan": 2.62,
+        "Feb": 3.4,
+        "Mar": 4.16,
+        "Apr": 4.67,
+        "May": 5.26,
+        "Jun": 5.82,
+        "Jul": 5.85,
+        "Aug": 5.8,
+        "Sep": 5.61,
+        "Oct": 4.52,
+        "Nov": 3.62,
+        "Dec": 2.57
+      },
+      "average": 4.49
+    },
+    {
+      "name": "Korkuteli",
+      "admin1_code": "07",
+      "location": [
+        37.06498,
+        30.19565
+      ],
+      "monthly": {
+        "Jan": 3.52,
+        "Feb": 4.18,
+        "Mar": 4.64,
+        "Apr": 4.86,
+        "May": 4.96,
+        "Jun": 5.29,
+        "Jul": 5.53,
+        "Aug": 5.49,
+        "Sep": 5.34,
+        "Oct": 4.69,
+        "Nov": 4.05,
+        "Dec": 3.35
+      },
+      "average": 4.66
+    },
+    {
+      "name": "Konya",
+      "admin1_code": "71",
+      "location": [
+        37.87135,
+        32.48464
+      ],
+      "monthly": {
+        "Jan": 2.96,
+        "Feb": 3.89,
+        "Mar": 4.43,
+        "Apr": 4.72,
+        "May": 4.9,
+        "Jun": 5.26,
+        "Jul": 5.66,
+        "Aug": 5.66,
+        "Sep": 5.3,
+        "Oct": 4.44,
+        "Nov": 3.67,
+        "Dec": 2.8
+      },
+      "average": 4.47
+    },
+    {
+      "name": "Konaklı",
+      "admin1_code": "07",
+      "location": [
+        36.59251,
+        31.89539
+      ],
+      "monthly": {
+        "Jan": 3.08,
+        "Feb": 3.9,
+        "Mar": 4.64,
+        "Apr": 4.95,
+        "May": 5.39,
+        "Jun": 5.71,
+        "Jul": 5.69,
+        "Aug": 5.56,
+        "Sep": 5.33,
+        "Oct": 4.46,
+        "Nov": 3.63,
+        "Dec": 2.87
+      },
+      "average": 4.6
+    },
+    {
+      "name": "Konak",
+      "admin1_code": "35",
+      "location": [
+        38.4,
+        27.1
+      ],
+      "monthly": {
+        "Jan": 2.92,
+        "Feb": 3.43,
+        "Mar": 4.27,
+        "Apr": 4.74,
+        "May": 5.19,
+        "Jun": 5.54,
+        "Jul": 5.77,
+        "Aug": 5.6,
+        "Sep": 5.13,
+        "Oct": 4.24,
+        "Nov": 3.28,
+        "Dec": 2.61
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Kızıltepe",
+      "admin1_code": "72",
+      "location": [
+        37.18836,
+        40.57723
+      ],
+      "monthly": {
+        "Jan": 3.2,
+        "Feb": 3.86,
+        "Mar": 4.53,
+        "Apr": 4.97,
+        "May": 5.41,
+        "Jun": 5.71,
+        "Jul": 5.76,
+        "Aug": 5.74,
+        "Sep": 5.64,
+        "Oct": 4.55,
+        "Nov": 3.86,
+        "Dec": 3.14
+      },
+      "average": 4.7
+    },
+    {
+      "name": "Serinhisar",
+      "admin1_code": "20",
+      "location": [
+        37.58105,
+        29.26639
+      ],
+      "monthly": {
+        "Jan": 2.95,
+        "Feb": 3.61,
+        "Mar": 4.32,
+        "Apr": 4.75,
+        "May": 5,
+        "Jun": 5.4,
+        "Jul": 5.63,
+        "Aug": 5.46,
+        "Sep": 5.25,
+        "Oct": 4.49,
+        "Nov": 3.64,
+        "Dec": 2.79
+      },
+      "average": 4.44
+    },
+    {
+      "name": "Kırşehir",
+      "admin1_code": "40",
+      "location": [
+        39.14583,
+        34.16389
+      ],
+      "monthly": {
+        "Jan": 2.76,
+        "Feb": 3.7,
+        "Mar": 4.3,
+        "Apr": 4.75,
+        "May": 5.04,
+        "Jun": 5.31,
+        "Jul": 5.68,
+        "Aug": 5.68,
+        "Sep": 5.35,
+        "Oct": 4.37,
+        "Nov": 3.56,
+        "Dec": 2.69
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Kırkağaç",
+      "admin1_code": "45",
+      "location": [
+        39.10638,
+        27.66925
+      ],
+      "monthly": {
+        "Jan": 2.41,
+        "Feb": 2.89,
+        "Mar": 3.74,
+        "Apr": 4.36,
+        "May": 4.91,
+        "Jun": 5.31,
+        "Jul": 5.67,
+        "Aug": 5.47,
+        "Sep": 4.79,
+        "Oct": 3.81,
+        "Nov": 2.95,
+        "Dec": 2.18
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Kırıkkale",
+      "admin1_code": "79",
+      "location": [
+        39.84528,
+        33.50639
+      ],
+      "monthly": {
+        "Jan": 2.42,
+        "Feb": 3.52,
+        "Mar": 4.17,
+        "Apr": 4.56,
+        "May": 4.87,
+        "Jun": 5.22,
+        "Jul": 5.6,
+        "Aug": 5.55,
+        "Sep": 5.14,
+        "Oct": 4.1,
+        "Nov": 3.32,
+        "Dec": 2.2
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Kırıkhan",
+      "admin1_code": "31",
+      "location": [
+        36.49939,
+        36.35755
+      ],
+      "monthly": {
+        "Jan": 2.84,
+        "Feb": 3.63,
+        "Mar": 4.5,
+        "Apr": 4.95,
+        "May": 5.49,
+        "Jun": 5.84,
+        "Jul": 5.85,
+        "Aug": 5.74,
+        "Sep": 5.4,
+        "Oct": 4.47,
+        "Nov": 3.66,
+        "Dec": 2.85
+      },
+      "average": 4.6
+    },
+    {
+      "name": "Kireçocağı",
+      "admin1_code": "81",
+      "location": [
+        37.05,
+        35.23333
+      ],
+      "monthly": {
+        "Jan": 3.2,
+        "Feb": 3.96,
+        "Mar": 4.43,
+        "Apr": 4.63,
+        "May": 4.99,
+        "Jun": 5.34,
+        "Jul": 5.38,
+        "Aug": 5.32,
+        "Sep": 5.12,
+        "Oct": 4.48,
+        "Nov": 3.73,
+        "Dec": 3.06
+      },
+      "average": 4.47
+    },
+    {
+      "name": "Kilis",
+      "admin1_code": "90",
+      "location": [
+        36.71611,
+        37.115
+      ],
+      "monthly": {
+        "Jan": 3.04,
+        "Feb": 3.76,
+        "Mar": 4.51,
+        "Apr": 5.01,
+        "May": 5.49,
+        "Jun": 5.88,
+        "Jul": 5.92,
+        "Aug": 5.85,
+        "Sep": 5.64,
+        "Oct": 4.69,
+        "Nov": 3.81,
+        "Dec": 3.06
+      },
+      "average": 4.72
+    },
+    {
+      "name": "Keskin",
+      "admin1_code": "79",
+      "location": [
+        39.67306,
+        33.61361
+      ],
+      "monthly": {
+        "Jan": 2.61,
+        "Feb": 3.64,
+        "Mar": 4.33,
+        "Apr": 4.75,
+        "May": 5.03,
+        "Jun": 5.33,
+        "Jul": 5.73,
+        "Aug": 5.74,
+        "Sep": 5.35,
+        "Oct": 4.28,
+        "Nov": 3.5,
+        "Dec": 2.41
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Kemer",
+      "admin1_code": "07",
+      "location": [
+        36.59778,
+        30.56056
+      ],
+      "monthly": {
+        "Jan": 2.9,
+        "Feb": 3.5,
+        "Mar": 4.09,
+        "Apr": 4.47,
+        "May": 4.79,
+        "Jun": 5.27,
+        "Jul": 5.41,
+        "Aug": 5.23,
+        "Sep": 4.84,
+        "Oct": 4.09,
+        "Nov": 3.37,
+        "Dec": 2.73
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Kemalpaşa",
+      "admin1_code": "35",
+      "location": [
+        38.42621,
+        27.41731
+      ],
+      "monthly": {
+        "Jan": 2.69,
+        "Feb": 3.26,
+        "Mar": 4.08,
+        "Apr": 4.53,
+        "May": 5.02,
+        "Jun": 5.37,
+        "Jul": 5.68,
+        "Aug": 5.54,
+        "Sep": 5.06,
+        "Oct": 4.18,
+        "Nov": 3.22,
+        "Dec": 2.45
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Kayseri",
+      "admin1_code": "38",
+      "location": [
+        38.73222,
+        35.48528
+      ],
+      "monthly": {
+        "Jan": 2.99,
+        "Feb": 3.81,
+        "Mar": 4.19,
+        "Apr": 4.61,
+        "May": 4.93,
+        "Jun": 5.33,
+        "Jul": 5.7,
+        "Aug": 5.73,
+        "Sep": 5.37,
+        "Oct": 4.4,
+        "Nov": 3.62,
+        "Dec": 2.79
+      },
+      "average": 4.46
+    },
+    {
+      "name": "Karşıyaka",
+      "admin1_code": "35",
+      "location": [
+        38.45772,
+        27.1142
+      ],
+      "monthly": {
+        "Jan": 2.9,
+        "Feb": 3.42,
+        "Mar": 4.26,
+        "Apr": 4.74,
+        "May": 5.22,
+        "Jun": 5.58,
+        "Jul": 5.79,
+        "Aug": 5.61,
+        "Sep": 5.14,
+        "Oct": 4.2,
+        "Nov": 3.26,
+        "Dec": 2.61
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Karapınar",
+      "admin1_code": "71",
+      "location": [
+        37.71596,
+        33.55064
+      ],
+      "monthly": {
+        "Jan": 2.97,
+        "Feb": 4.04,
+        "Mar": 4.56,
+        "Apr": 4.99,
+        "May": 5.38,
+        "Jun": 5.69,
+        "Jul": 5.89,
+        "Aug": 5.88,
+        "Sep": 5.58,
+        "Oct": 4.65,
+        "Nov": 3.76,
+        "Dec": 2.82
+      },
+      "average": 4.68
+    },
+    {
+      "name": "Karaman",
+      "admin1_code": "78",
+      "location": [
+        37.18111,
+        33.215
+      ],
+      "monthly": {
+        "Jan": 2.97,
+        "Feb": 3.88,
+        "Mar": 4.5,
+        "Apr": 4.98,
+        "May": 5.32,
+        "Jun": 5.65,
+        "Jul": 5.86,
+        "Aug": 5.87,
+        "Sep": 5.55,
+        "Oct": 4.61,
+        "Nov": 3.77,
+        "Dec": 2.81
+      },
+      "average": 4.65
+    },
+    {
+      "name": "Ağrı",
+      "admin1_code": "04",
+      "location": [
+        39.71467,
+        43.04015
+      ],
+      "monthly": {
+        "Jan": 2.21,
+        "Feb": 2.94,
+        "Mar": 3.95,
+        "Apr": 4.5,
+        "May": 5.05,
+        "Jun": 5.76,
+        "Jul": 5.67,
+        "Aug": 5.69,
+        "Sep": 5.62,
+        "Oct": 4.56,
+        "Nov": 3.72,
+        "Dec": 2.22
+      },
+      "average": 4.32
+    },
+    {
+      "name": "Karakoçan",
+      "admin1_code": "23",
+      "location": [
+        38.95178,
+        40.02706
+      ],
+      "monthly": {
+        "Jan": 2.39,
+        "Feb": 3.31,
+        "Mar": 4.11,
+        "Apr": 4.57,
+        "May": 5.2,
+        "Jun": 5.75,
+        "Jul": 5.76,
+        "Aug": 5.73,
+        "Sep": 5.58,
+        "Oct": 4.46,
+        "Nov": 3.55,
+        "Dec": 2.47
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Karaçoban",
+      "admin1_code": "25",
+      "location": [
+        39.34364,
+        42.09918
+      ],
+      "monthly": {
+        "Jan": 2.18,
+        "Feb": 3.09,
+        "Mar": 4.19,
+        "Apr": 4.66,
+        "May": 5.22,
+        "Jun": 5.93,
+        "Jul": 5.88,
+        "Aug": 5.89,
+        "Sep": 5.73,
+        "Oct": 4.68,
+        "Nov": 3.87,
+        "Dec": 2.37
+      },
+      "average": 4.47
+    },
+    {
+      "name": "Kaman",
+      "admin1_code": "40",
+      "location": [
+        39.3575,
+        33.72389
+      ],
+      "monthly": {
+        "Jan": 2.62,
+        "Feb": 3.59,
+        "Mar": 4.24,
+        "Apr": 4.75,
+        "May": 5.08,
+        "Jun": 5.31,
+        "Jul": 5.73,
+        "Aug": 5.74,
+        "Sep": 5.37,
+        "Oct": 4.34,
+        "Nov": 3.46,
+        "Dec": 2.45
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Kâhta",
+      "admin1_code": "02",
+      "location": [
+        37.78552,
+        38.6237
+      ],
+      "monthly": {
+        "Jan": 3.06,
+        "Feb": 3.79,
+        "Mar": 4.54,
+        "Apr": 5.03,
+        "May": 5.44,
+        "Jun": 5.88,
+        "Jul": 5.93,
+        "Aug": 5.85,
+        "Sep": 5.73,
+        "Oct": 4.67,
+        "Nov": 3.79,
+        "Dec": 3.14
+      },
+      "average": 4.74
+    },
+    {
+      "name": "Kahramanmaraş",
+      "admin1_code": "46",
+      "location": [
+        37.5847,
+        36.92641
+      ],
+      "monthly": {
+        "Jan": 3.01,
+        "Feb": 3.76,
+        "Mar": 4.41,
+        "Apr": 4.86,
+        "May": 5.33,
+        "Jun": 5.82,
+        "Jul": 5.88,
+        "Aug": 5.82,
+        "Sep": 5.59,
+        "Oct": 4.6,
+        "Nov": 3.74,
+        "Dec": 3.03
+      },
+      "average": 4.65
+    },
+    {
+      "name": "Kadirli",
+      "admin1_code": "91",
+      "location": [
+        37.37389,
+        36.09611
+      ],
+      "monthly": {
+        "Jan": 3.17,
+        "Feb": 3.91,
+        "Mar": 4.3,
+        "Apr": 4.57,
+        "May": 4.97,
+        "Jun": 5.2,
+        "Jul": 5.2,
+        "Aug": 5.17,
+        "Sep": 5.12,
+        "Oct": 4.46,
+        "Nov": 3.73,
+        "Dec": 3.06
+      },
+      "average": 4.4
+    },
+    {
+      "name": "Kadınhanı",
+      "admin1_code": "71",
+      "location": [
+        38.23972,
+        32.21139
+      ],
+      "monthly": {
+        "Jan": 2.75,
+        "Feb": 3.6,
+        "Mar": 4.12,
+        "Apr": 4.64,
+        "May": 4.92,
+        "Jun": 5.23,
+        "Jul": 5.61,
+        "Aug": 5.63,
+        "Sep": 5.27,
+        "Oct": 4.31,
+        "Nov": 3.53,
+        "Dec": 2.61
+      },
+      "average": 4.35
+    },
+    {
+      "name": "İzmir",
+      "admin1_code": "35",
+      "location": [
+        38.41273,
+        27.13838
+      ],
+      "monthly": {
+        "Jan": 2.91,
+        "Feb": 3.43,
+        "Mar": 4.26,
+        "Apr": 4.73,
+        "May": 5.16,
+        "Jun": 5.51,
+        "Jul": 5.73,
+        "Aug": 5.57,
+        "Sep": 5.12,
+        "Oct": 4.24,
+        "Nov": 3.28,
+        "Dec": 2.61
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Isparta",
+      "admin1_code": "33",
+      "location": [
+        37.76444,
+        30.55222
+      ],
+      "monthly": {
+        "Jan": 3.06,
+        "Feb": 3.84,
+        "Mar": 4.34,
+        "Apr": 4.69,
+        "May": 4.97,
+        "Jun": 5.36,
+        "Jul": 5.65,
+        "Aug": 5.52,
+        "Sep": 5.26,
+        "Oct": 4.54,
+        "Nov": 3.79,
+        "Dec": 2.91
+      },
+      "average": 4.49
+    },
+    {
+      "name": "İskenderun",
+      "admin1_code": "31",
+      "location": [
+        36.58718,
+        36.17347
+      ],
+      "monthly": {
+        "Jan": 2.82,
+        "Feb": 3.5,
+        "Mar": 4.17,
+        "Apr": 4.53,
+        "May": 5.01,
+        "Jun": 5.11,
+        "Jul": 4.84,
+        "Aug": 4.4,
+        "Sep": 4.66,
+        "Oct": 4.08,
+        "Nov": 3.49,
+        "Dec": 2.84
+      },
+      "average": 4.12
+    },
+    {
+      "name": "İncirliova",
+      "admin1_code": "09",
+      "location": [
+        37.85222,
+        27.72361
+      ],
+      "monthly": {
+        "Jan": 3.09,
+        "Feb": 3.69,
+        "Mar": 4.43,
+        "Apr": 4.8,
+        "May": 5.25,
+        "Jun": 5.59,
+        "Jul": 5.76,
+        "Aug": 5.65,
+        "Sep": 5.28,
+        "Oct": 4.44,
+        "Nov": 3.51,
+        "Dec": 2.83
+      },
+      "average": 4.53
+    },
+    {
+      "name": "İmamoğlu",
+      "admin1_code": "81",
+      "location": [
+        37.26506,
+        35.65717
+      ],
+      "monthly": {
+        "Jan": 3.17,
+        "Feb": 3.93,
+        "Mar": 4.34,
+        "Apr": 4.58,
+        "May": 4.84,
+        "Jun": 5.16,
+        "Jul": 5.26,
+        "Aug": 5.17,
+        "Sep": 5,
+        "Oct": 4.44,
+        "Nov": 3.71,
+        "Dec": 3.03
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Ilgın",
+      "admin1_code": "71",
+      "location": [
+        38.27917,
+        31.91389
+      ],
+      "monthly": {
+        "Jan": 2.79,
+        "Feb": 3.68,
+        "Mar": 4.22,
+        "Apr": 4.72,
+        "May": 5.01,
+        "Jun": 5.3,
+        "Jul": 5.65,
+        "Aug": 5.65,
+        "Sep": 5.27,
+        "Oct": 4.32,
+        "Nov": 3.58,
+        "Dec": 2.62
+      },
+      "average": 4.4
+    },
+    {
+      "name": "Iğdır",
+      "admin1_code": "88",
+      "location": [
+        39.92371,
+        44.045
+      ],
+      "monthly": {
+        "Jan": 2.79,
+        "Feb": 3.74,
+        "Mar": 4.06,
+        "Apr": 4.16,
+        "May": 4.61,
+        "Jun": 5.28,
+        "Jul": 5.34,
+        "Aug": 5.28,
+        "Sep": 5.12,
+        "Oct": 3.98,
+        "Nov": 3.47,
+        "Dec": 2.55
+      },
+      "average": 4.2
+    },
+    {
+      "name": "İdil",
+      "admin1_code": "80",
+      "location": [
+        37.33481,
+        41.88944
+      ],
+      "monthly": {
+        "Jan": 3.14,
+        "Feb": 3.76,
+        "Mar": 4.39,
+        "Apr": 4.82,
+        "May": 5.29,
+        "Jun": 5.72,
+        "Jul": 5.72,
+        "Aug": 5.71,
+        "Sep": 5.64,
+        "Oct": 4.53,
+        "Nov": 3.9,
+        "Dec": 3.09
+      },
+      "average": 4.64
+    },
+    {
+      "name": "Hizan",
+      "admin1_code": "13",
+      "location": [
+        38.22498,
+        42.4183
+      ],
+      "monthly": {
+        "Jan": 2.81,
+        "Feb": 3.41,
+        "Mar": 4.05,
+        "Apr": 4.58,
+        "May": 5.15,
+        "Jun": 5.88,
+        "Jul": 5.86,
+        "Aug": 5.84,
+        "Sep": 5.74,
+        "Oct": 4.49,
+        "Nov": 3.8,
+        "Dec": 2.85
+      },
+      "average": 4.54
+    },
+    {
+      "name": "Hınıs",
+      "admin1_code": "25",
+      "location": [
+        39.35766,
+        41.69253
+      ],
+      "monthly": {
+        "Jan": 2.49,
+        "Feb": 3.33,
+        "Mar": 4.24,
+        "Apr": 4.73,
+        "May": 5.12,
+        "Jun": 5.87,
+        "Jul": 5.86,
+        "Aug": 5.86,
+        "Sep": 5.71,
+        "Oct": 4.59,
+        "Nov": 3.77,
+        "Dec": 2.44
+      },
+      "average": 4.5
+    },
+    {
+      "name": "Hilvan",
+      "admin1_code": "63",
+      "location": [
+        37.58687,
+        38.95505
+      ],
+      "monthly": {
+        "Jan": 3.05,
+        "Feb": 3.71,
+        "Mar": 4.46,
+        "Apr": 4.9,
+        "May": 5.36,
+        "Jun": 5.76,
+        "Jul": 5.83,
+        "Aug": 5.76,
+        "Sep": 5.64,
+        "Oct": 4.58,
+        "Nov": 3.8,
+        "Dec": 3.09
+      },
+      "average": 4.66
+    },
+    {
+      "name": "Hıdırbey",
+      "admin1_code": "31",
+      "location": [
+        36.20802,
+        36.12787
+      ],
+      "monthly": {
+        "Jan": 2.79,
+        "Feb": 3.62,
+        "Mar": 4.44,
+        "Apr": 4.92,
+        "May": 5.5,
+        "Jun": 5.79,
+        "Jul": 5.79,
+        "Aug": 5.68,
+        "Sep": 5.37,
+        "Oct": 4.47,
+        "Nov": 3.67,
+        "Dec": 2.84
+      },
+      "average": 4.57
+    },
+    {
+      "name": "Hadim",
+      "admin1_code": "71",
+      "location": [
+        36.98776,
+        32.45674
+      ],
+      "monthly": {
+        "Jan": 3.04,
+        "Feb": 3.84,
+        "Mar": 4.55,
+        "Apr": 4.89,
+        "May": 5.12,
+        "Jun": 5.36,
+        "Jul": 5.66,
+        "Aug": 5.63,
+        "Sep": 5.41,
+        "Oct": 4.56,
+        "Nov": 3.8,
+        "Dec": 2.94
+      },
+      "average": 4.57
+    },
+    {
+      "name": "Hacılar",
+      "admin1_code": "38",
+      "location": [
+        38.64631,
+        35.44937
+      ],
+      "monthly": {
+        "Jan": 2.92,
+        "Feb": 3.66,
+        "Mar": 4.07,
+        "Apr": 4.5,
+        "May": 4.8,
+        "Jun": 5.25,
+        "Jul": 5.69,
+        "Aug": 5.73,
+        "Sep": 5.37,
+        "Oct": 4.39,
+        "Nov": 3.58,
+        "Dec": 2.7
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Güroymak",
+      "admin1_code": "13",
+      "location": [
+        38.5758,
+        42.01558
+      ],
+      "monthly": {
+        "Jan": 2.28,
+        "Feb": 3.11,
+        "Mar": 4.04,
+        "Apr": 4.64,
+        "May": 5.12,
+        "Jun": 5.82,
+        "Jul": 5.8,
+        "Aug": 5.76,
+        "Sep": 5.65,
+        "Oct": 4.47,
+        "Nov": 3.63,
+        "Dec": 2.23
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Gölbaşı",
+      "admin1_code": "68",
+      "location": [
+        39.79043,
+        32.80903
+      ],
+      "monthly": {
+        "Jan": 2.52,
+        "Feb": 3.44,
+        "Mar": 4.17,
+        "Apr": 4.56,
+        "May": 4.94,
+        "Jun": 5.23,
+        "Jul": 5.63,
+        "Aug": 5.57,
+        "Sep": 5.16,
+        "Oct": 4.11,
+        "Nov": 3.36,
+        "Dec": 2.3
+      },
+      "average": 4.25
+    },
+    {
+      "name": "Gölbaşı",
+      "admin1_code": "02",
+      "location": [
+        37.78361,
+        37.63667
+      ],
+      "monthly": {
+        "Jan": 2.85,
+        "Feb": 3.62,
+        "Mar": 4.39,
+        "Apr": 4.79,
+        "May": 5.28,
+        "Jun": 5.78,
+        "Jul": 5.87,
+        "Aug": 5.78,
+        "Sep": 5.64,
+        "Oct": 4.61,
+        "Nov": 3.73,
+        "Dec": 3.03
+      },
+      "average": 4.61
+    },
+    {
+      "name": "Göksun",
+      "admin1_code": "46",
+      "location": [
+        38.02096,
+        36.4973
+      ],
+      "monthly": {
+        "Jan": 3.01,
+        "Feb": 3.78,
+        "Mar": 4.42,
+        "Apr": 4.64,
+        "May": 4.95,
+        "Jun": 5.47,
+        "Jul": 5.73,
+        "Aug": 5.63,
+        "Sep": 5.42,
+        "Oct": 4.6,
+        "Nov": 3.74,
+        "Dec": 2.86
+      },
+      "average": 4.52
+    },
+    {
+      "name": "Genç",
+      "admin1_code": "12",
+      "location": [
+        38.74773,
+        40.55343
+      ],
+      "monthly": {
+        "Jan": 2.57,
+        "Feb": 3.36,
+        "Mar": 4.1,
+        "Apr": 4.51,
+        "May": 5.11,
+        "Jun": 5.79,
+        "Jul": 5.78,
+        "Aug": 5.73,
+        "Sep": 5.56,
+        "Oct": 4.44,
+        "Nov": 3.65,
+        "Dec": 2.61
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Gemerek",
+      "admin1_code": "58",
+      "location": [
+        39.18342,
+        36.07189
+      ],
+      "monthly": {
+        "Jan": 2.95,
+        "Feb": 3.78,
+        "Mar": 4.27,
+        "Apr": 4.67,
+        "May": 4.96,
+        "Jun": 5.36,
+        "Jul": 5.66,
+        "Aug": 5.75,
+        "Sep": 5.44,
+        "Oct": 4.5,
+        "Nov": 3.72,
+        "Dec": 2.72
+      },
+      "average": 4.48
+    },
+    {
+      "name": "Gediz",
+      "admin1_code": "43",
+      "location": [
+        38.99389,
+        29.39131
+      ],
+      "monthly": {
+        "Jan": 2.95,
+        "Feb": 3.54,
+        "Mar": 4.1,
+        "Apr": 4.51,
+        "May": 4.9,
+        "Jun": 5.28,
+        "Jul": 5.66,
+        "Aug": 5.53,
+        "Sep": 5.1,
+        "Oct": 4.26,
+        "Nov": 3.47,
+        "Dec": 2.72
+      },
+      "average": 4.33
+    },
+    {
+      "name": "Gazipaşa",
+      "admin1_code": "07",
+      "location": [
+        36.26942,
+        32.31792
+      ],
+      "monthly": {
+        "Jan": 3.14,
+        "Feb": 3.96,
+        "Mar": 4.72,
+        "Apr": 5.08,
+        "May": 5.5,
+        "Jun": 5.81,
+        "Jul": 5.78,
+        "Aug": 5.64,
+        "Sep": 5.39,
+        "Oct": 4.58,
+        "Nov": 3.72,
+        "Dec": 2.95
+      },
+      "average": 4.69
+    },
+    {
+      "name": "Gaziantep",
+      "admin1_code": "83",
+      "location": [
+        37.05944,
+        37.3825
+      ],
+      "monthly": {
+        "Jan": 3.03,
+        "Feb": 3.7,
+        "Mar": 4.54,
+        "Apr": 4.96,
+        "May": 5.44,
+        "Jun": 5.84,
+        "Jul": 5.89,
+        "Aug": 5.8,
+        "Sep": 5.64,
+        "Oct": 4.72,
+        "Nov": 3.86,
+        "Dec": 3.11
+      },
+      "average": 4.71
+    },
+    {
+      "name": "Foça",
+      "admin1_code": "35",
+      "location": [
+        38.6703,
+        26.75656
+      ],
+      "monthly": {
+        "Jan": 2.88,
+        "Feb": 3.46,
+        "Mar": 4.36,
+        "Apr": 4.89,
+        "May": 5.42,
+        "Jun": 5.79,
+        "Jul": 5.95,
+        "Aug": 5.79,
+        "Sep": 5.27,
+        "Oct": 4.27,
+        "Nov": 3.25,
+        "Dec": 2.58
+      },
+      "average": 4.49
+    },
+    {
+      "name": "Fethiye",
+      "admin1_code": "48",
+      "location": [
+        36.64038,
+        29.12758
+      ],
+      "monthly": {
+        "Jan": 3.21,
+        "Feb": 3.87,
+        "Mar": 4.61,
+        "Apr": 5,
+        "May": 5.36,
+        "Jun": 5.68,
+        "Jul": 5.72,
+        "Aug": 5.61,
+        "Sep": 5.34,
+        "Oct": 4.45,
+        "Nov": 3.64,
+        "Dec": 2.91
+      },
+      "average": 4.62
+    },
+    {
+      "name": "Ezine",
+      "admin1_code": "17",
+      "location": [
+        39.78561,
+        26.34083
+      ],
+      "monthly": {
+        "Jan": 2.64,
+        "Feb": 3.29,
+        "Mar": 4.1,
+        "Apr": 4.71,
+        "May": 5.18,
+        "Jun": 5.49,
+        "Jul": 5.66,
+        "Aug": 5.49,
+        "Sep": 4.9,
+        "Oct": 3.84,
+        "Nov": 2.96,
+        "Dec": 2.29
+      },
+      "average": 4.21
+    },
+    {
+      "name": "Etlik",
+      "admin1_code": "68",
+      "location": [
+        39.98205,
+        32.82459
+      ],
+      "monthly": {
+        "Jan": 2.57,
+        "Feb": 3.46,
+        "Mar": 4.17,
+        "Apr": 4.6,
+        "May": 4.98,
+        "Jun": 5.27,
+        "Jul": 5.65,
+        "Aug": 5.59,
+        "Sep": 5.19,
+        "Oct": 4.13,
+        "Nov": 3.38,
+        "Dec": 2.37
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Eskişehir",
+      "admin1_code": "26",
+      "location": [
+        39.77667,
+        30.52056
+      ],
+      "monthly": {
+        "Jan": 2.39,
+        "Feb": 3.29,
+        "Mar": 3.98,
+        "Apr": 4.48,
+        "May": 4.89,
+        "Jun": 5.3,
+        "Jul": 5.72,
+        "Aug": 5.55,
+        "Sep": 5.02,
+        "Oct": 3.93,
+        "Nov": 3.15,
+        "Dec": 2.16
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Erzurum",
+      "admin1_code": "25",
+      "location": [
+        39.90861,
+        41.27694
+      ],
+      "monthly": {
+        "Jan": 2.85,
+        "Feb": 3.55,
+        "Mar": 3.91,
+        "Apr": 4.41,
+        "May": 4.8,
+        "Jun": 5.41,
+        "Jul": 5.54,
+        "Aug": 5.55,
+        "Sep": 5.43,
+        "Oct": 4.41,
+        "Nov": 3.52,
+        "Dec": 2.46
+      },
+      "average": 4.32
+    },
+    {
+      "name": "Erzincan",
+      "admin1_code": "24",
+      "location": [
+        39.73919,
+        39.49015
+      ],
+      "monthly": {
+        "Jan": 2.92,
+        "Feb": 3.72,
+        "Mar": 4.2,
+        "Apr": 4.67,
+        "May": 5.02,
+        "Jun": 5.61,
+        "Jul": 5.81,
+        "Aug": 5.74,
+        "Sep": 5.52,
+        "Oct": 4.39,
+        "Nov": 3.75,
+        "Dec": 2.97
+      },
+      "average": 4.53
+    },
+    {
+      "name": "Ermenek",
+      "admin1_code": "78",
+      "location": [
+        36.64043,
+        32.89179
+      ],
+      "monthly": {
+        "Jan": 3.47,
+        "Feb": 4.31,
+        "Mar": 4.98,
+        "Apr": 5.18,
+        "May": 5.34,
+        "Jun": 5.61,
+        "Jul": 5.76,
+        "Aug": 5.71,
+        "Sep": 5.61,
+        "Oct": 4.89,
+        "Nov": 4.16,
+        "Dec": 3.35
+      },
+      "average": 4.86
+    },
+    {
+      "name": "Ergani",
+      "admin1_code": "21",
+      "location": [
+        38.26899,
+        39.75446
+      ],
+      "monthly": {
+        "Jan": 2.92,
+        "Feb": 3.56,
+        "Mar": 4.3,
+        "Apr": 4.78,
+        "May": 5.3,
+        "Jun": 5.75,
+        "Jul": 5.83,
+        "Aug": 5.77,
+        "Sep": 5.62,
+        "Oct": 4.59,
+        "Nov": 3.73,
+        "Dec": 2.98
+      },
+      "average": 4.59
+    },
+    {
+      "name": "Ereğli",
+      "admin1_code": "71",
+      "location": [
+        37.51333,
+        34.04672
+      ],
+      "monthly": {
+        "Jan": 2.98,
+        "Feb": 3.95,
+        "Mar": 4.47,
+        "Apr": 4.86,
+        "May": 5.25,
+        "Jun": 5.7,
+        "Jul": 5.89,
+        "Aug": 5.89,
+        "Sep": 5.58,
+        "Oct": 4.63,
+        "Nov": 3.76,
+        "Dec": 2.84
+      },
+      "average": 4.65
+    },
+    {
+      "name": "Erdemli",
+      "admin1_code": "32",
+      "location": [
+        36.60498,
+        34.30836
+      ],
+      "monthly": {
+        "Jan": 3.15,
+        "Feb": 3.96,
+        "Mar": 4.67,
+        "Apr": 4.96,
+        "May": 5.27,
+        "Jun": 5.56,
+        "Jul": 5.59,
+        "Aug": 5.56,
+        "Sep": 5.38,
+        "Oct": 4.59,
+        "Nov": 3.74,
+        "Dec": 2.99
+      },
+      "average": 4.62
+    },
+    {
+      "name": "Erciş",
+      "admin1_code": "65",
+      "location": [
+        39.02587,
+        43.35964
+      ],
+      "monthly": {
+        "Jan": 2.93,
+        "Feb": 3.73,
+        "Mar": 4.35,
+        "Apr": 4.82,
+        "May": 5.43,
+        "Jun": 6.03,
+        "Jul": 5.98,
+        "Aug": 5.93,
+        "Sep": 5.83,
+        "Oct": 4.56,
+        "Nov": 3.82,
+        "Dec": 2.93
+      },
+      "average": 4.69
+    },
+    {
+      "name": "Emirdağ",
+      "admin1_code": "03",
+      "location": [
+        39.01972,
+        31.15
+      ],
+      "monthly": {
+        "Jan": 2.66,
+        "Feb": 3.54,
+        "Mar": 4.19,
+        "Apr": 4.55,
+        "May": 4.85,
+        "Jun": 5.18,
+        "Jul": 5.61,
+        "Aug": 5.57,
+        "Sep": 5.14,
+        "Oct": 4.16,
+        "Nov": 3.44,
+        "Dec": 2.42
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Emet",
+      "admin1_code": "43",
+      "location": [
+        39.343,
+        29.25847
+      ],
+      "monthly": {
+        "Jan": 2.74,
+        "Feb": 3.39,
+        "Mar": 4,
+        "Apr": 4.42,
+        "May": 4.8,
+        "Jun": 5.22,
+        "Jul": 5.65,
+        "Aug": 5.47,
+        "Sep": 4.97,
+        "Oct": 4.09,
+        "Nov": 3.35,
+        "Dec": 2.51
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Elmalı",
+      "admin1_code": "07",
+      "location": [
+        36.73583,
+        29.91775
+      ],
+      "monthly": {
+        "Jan": 3.51,
+        "Feb": 4.34,
+        "Mar": 4.89,
+        "Apr": 5.2,
+        "May": 5.24,
+        "Jun": 5.43,
+        "Jul": 5.59,
+        "Aug": 5.57,
+        "Sep": 5.47,
+        "Oct": 4.8,
+        "Nov": 4.13,
+        "Dec": 3.35
+      },
+      "average": 4.79
+    },
+    {
+      "name": "Elmadağ",
+      "admin1_code": "68",
+      "location": [
+        39.92083,
+        33.23083
+      ],
+      "monthly": {
+        "Jan": 2.51,
+        "Feb": 3.41,
+        "Mar": 4.17,
+        "Apr": 4.52,
+        "May": 4.8,
+        "Jun": 5.16,
+        "Jul": 5.48,
+        "Aug": 5.46,
+        "Sep": 5.11,
+        "Oct": 4.11,
+        "Nov": 3.37,
+        "Dec": 2.36
+      },
+      "average": 4.2
+    },
+    {
+      "name": "Elbistan",
+      "admin1_code": "46",
+      "location": [
+        38.20591,
+        37.1983
+      ],
+      "monthly": {
+        "Jan": 2.89,
+        "Feb": 3.79,
+        "Mar": 4.39,
+        "Apr": 4.81,
+        "May": 5.2,
+        "Jun": 5.66,
+        "Jul": 5.9,
+        "Aug": 5.88,
+        "Sep": 5.62,
+        "Oct": 4.63,
+        "Nov": 3.67,
+        "Dec": 2.73
+      },
+      "average": 4.6
+    },
+    {
+      "name": "Elazığ",
+      "admin1_code": "23",
+      "location": [
+        38.67431,
+        39.22321
+      ],
+      "monthly": {
+        "Jan": 2.57,
+        "Feb": 3.51,
+        "Mar": 4.26,
+        "Apr": 4.77,
+        "May": 5.28,
+        "Jun": 5.85,
+        "Jul": 5.95,
+        "Aug": 5.87,
+        "Sep": 5.65,
+        "Oct": 4.56,
+        "Nov": 3.68,
+        "Dec": 2.52
+      },
+      "average": 4.54
+    },
+    {
+      "name": "Eğirdir",
+      "admin1_code": "33",
+      "location": [
+        37.87462,
+        30.85042
+      ],
+      "monthly": {
+        "Jan": 2.79,
+        "Feb": 3.49,
+        "Mar": 4.17,
+        "Apr": 4.62,
+        "May": 4.91,
+        "Jun": 5.42,
+        "Jul": 5.68,
+        "Aug": 5.52,
+        "Sep": 5.15,
+        "Oct": 4.22,
+        "Nov": 3.35,
+        "Dec": 2.58
+      },
+      "average": 4.32
+    },
+    {
+      "name": "Edremit",
+      "admin1_code": "10",
+      "location": [
+        39.59611,
+        27.02444
+      ],
+      "monthly": {
+        "Jan": 2.63,
+        "Feb": 3.19,
+        "Mar": 4.06,
+        "Apr": 4.63,
+        "May": 5.16,
+        "Jun": 5.51,
+        "Jul": 5.81,
+        "Aug": 5.64,
+        "Sep": 5.01,
+        "Oct": 4.03,
+        "Nov": 2.98,
+        "Dec": 2.3
+      },
+      "average": 4.25
+    },
+    {
+      "name": "Dursunbey",
+      "admin1_code": "10",
+      "location": [
+        39.58596,
+        28.62568
+      ],
+      "monthly": {
+        "Jan": 2.55,
+        "Feb": 3.09,
+        "Mar": 3.83,
+        "Apr": 4.35,
+        "May": 4.85,
+        "Jun": 5.27,
+        "Jul": 5.7,
+        "Aug": 5.46,
+        "Sep": 4.86,
+        "Oct": 3.87,
+        "Nov": 3.1,
+        "Dec": 2.31
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Dörtyol",
+      "admin1_code": "31",
+      "location": [
+        36.83917,
+        36.23025
+      ],
+      "monthly": {
+        "Jan": 2.94,
+        "Feb": 3.67,
+        "Mar": 4.21,
+        "Apr": 4.5,
+        "May": 4.95,
+        "Jun": 4.98,
+        "Jul": 4.74,
+        "Aug": 4.54,
+        "Sep": 4.86,
+        "Oct": 4.25,
+        "Nov": 3.59,
+        "Dec": 2.99
+      },
+      "average": 4.19
+    },
+    {
+      "name": "Doğubayazıt",
+      "admin1_code": "04",
+      "location": [
+        39.54694,
+        44.08417
+      ],
+      "monthly": {
+        "Jan": 2.68,
+        "Feb": 3.53,
+        "Mar": 3.99,
+        "Apr": 4.26,
+        "May": 4.57,
+        "Jun": 5.27,
+        "Jul": 5.36,
+        "Aug": 5.38,
+        "Sep": 5.22,
+        "Oct": 4.16,
+        "Nov": 3.5,
+        "Dec": 2.46
+      },
+      "average": 4.2
+    },
+    {
+      "name": "Diyarbakır",
+      "admin1_code": "21",
+      "location": [
+        37.91363,
+        40.21721
+      ],
+      "monthly": {
+        "Jan": 2.96,
+        "Feb": 3.73,
+        "Mar": 4.33,
+        "Apr": 4.81,
+        "May": 5.31,
+        "Jun": 5.74,
+        "Jul": 5.77,
+        "Aug": 5.74,
+        "Sep": 5.59,
+        "Oct": 4.53,
+        "Nov": 3.77,
+        "Dec": 2.9
+      },
+      "average": 4.6
+    },
+    {
+      "name": "Diyadin",
+      "admin1_code": "04",
+      "location": [
+        39.54056,
+        43.67135
+      ],
+      "monthly": {
+        "Jan": 3.3,
+        "Feb": 4.06,
+        "Mar": 4.17,
+        "Apr": 4.53,
+        "May": 4.86,
+        "Jun": 5.45,
+        "Jul": 5.45,
+        "Aug": 5.45,
+        "Sep": 5.45,
+        "Oct": 4.42,
+        "Nov": 3.65,
+        "Dec": 2.36
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Dinar",
+      "admin1_code": "03",
+      "location": [
+        38.065,
+        30.16557
+      ],
+      "monthly": {
+        "Jan": 3.17,
+        "Feb": 3.85,
+        "Mar": 4.35,
+        "Apr": 4.64,
+        "May": 4.97,
+        "Jun": 5.32,
+        "Jul": 5.68,
+        "Aug": 5.61,
+        "Sep": 5.32,
+        "Oct": 4.51,
+        "Nov": 3.78,
+        "Dec": 2.99
+      },
+      "average": 4.52
+    },
+    {
+      "name": "Develi",
+      "admin1_code": "38",
+      "location": [
+        38.39056,
+        35.49222
+      ],
+      "monthly": {
+        "Jan": 3.14,
+        "Feb": 3.97,
+        "Mar": 4.47,
+        "Apr": 4.81,
+        "May": 5.11,
+        "Jun": 5.51,
+        "Jul": 5.86,
+        "Aug": 5.86,
+        "Sep": 5.58,
+        "Oct": 4.65,
+        "Nov": 3.86,
+        "Dec": 2.94
+      },
+      "average": 4.65
+    },
+    {
+      "name": "Denizli",
+      "admin1_code": "20",
+      "location": [
+        37.77417,
+        29.0875
+      ],
+      "monthly": {
+        "Jan": 2.94,
+        "Feb": 3.61,
+        "Mar": 4.19,
+        "Apr": 4.59,
+        "May": 4.93,
+        "Jun": 5.3,
+        "Jul": 5.55,
+        "Aug": 5.41,
+        "Sep": 5.11,
+        "Oct": 4.29,
+        "Nov": 3.5,
+        "Dec": 2.73
+      },
+      "average": 4.35
+    },
+    {
+      "name": "Demirci",
+      "admin1_code": "45",
+      "location": [
+        39.04607,
+        28.65889
+      ],
+      "monthly": {
+        "Jan": 2.89,
+        "Feb": 3.44,
+        "Mar": 4.16,
+        "Apr": 4.56,
+        "May": 5.02,
+        "Jun": 5.37,
+        "Jul": 5.76,
+        "Aug": 5.59,
+        "Sep": 5.15,
+        "Oct": 4.3,
+        "Nov": 3.45,
+        "Dec": 2.71
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Dargeçit",
+      "admin1_code": "72",
+      "location": [
+        37.54616,
+        41.71652
+      ],
+      "monthly": {
+        "Jan": 3.11,
+        "Feb": 3.73,
+        "Mar": 4.32,
+        "Apr": 4.79,
+        "May": 5.3,
+        "Jun": 5.8,
+        "Jul": 5.79,
+        "Aug": 5.77,
+        "Sep": 5.67,
+        "Oct": 4.56,
+        "Nov": 3.94,
+        "Dec": 3.11
+      },
+      "average": 4.66
+    },
+    {
+      "name": "Darende",
+      "admin1_code": "44",
+      "location": [
+        38.54583,
+        37.50583
+      ],
+      "monthly": {
+        "Jan": 2.9,
+        "Feb": 3.9,
+        "Mar": 4.48,
+        "Apr": 4.7,
+        "May": 5.03,
+        "Jun": 5.53,
+        "Jul": 5.81,
+        "Aug": 5.75,
+        "Sep": 5.52,
+        "Oct": 4.58,
+        "Nov": 3.77,
+        "Dec": 2.85
+      },
+      "average": 4.57
+    },
+    {
+      "name": "Çumra",
+      "admin1_code": "71",
+      "location": [
+        37.5732,
+        32.77446
+      ],
+      "monthly": {
+        "Jan": 3.05,
+        "Feb": 4,
+        "Mar": 4.49,
+        "Apr": 4.92,
+        "May": 5.21,
+        "Jun": 5.56,
+        "Jul": 5.84,
+        "Aug": 5.84,
+        "Sep": 5.51,
+        "Oct": 4.55,
+        "Nov": 3.74,
+        "Dec": 2.79
+      },
+      "average": 4.62
+    },
+    {
+      "name": "Menderes",
+      "admin1_code": "35",
+      "location": [
+        38.24963,
+        27.13429
+      ],
+      "monthly": {
+        "Jan": 3.06,
+        "Feb": 3.61,
+        "Mar": 4.41,
+        "Apr": 4.82,
+        "May": 5.24,
+        "Jun": 5.56,
+        "Jul": 5.78,
+        "Aug": 5.65,
+        "Sep": 5.22,
+        "Oct": 4.42,
+        "Nov": 3.45,
+        "Dec": 2.78
+      },
+      "average": 4.5
+    },
+    {
+      "name": "Hakkâri",
+      "admin1_code": "70",
+      "location": [
+        37.57444,
+        43.74083
+      ],
+      "monthly": {
+        "Jan": 2.68,
+        "Feb": 3.47,
+        "Mar": 4.24,
+        "Apr": 4.66,
+        "May": 5.2,
+        "Jun": 5.92,
+        "Jul": 5.83,
+        "Aug": 5.83,
+        "Sep": 5.8,
+        "Oct": 4.57,
+        "Nov": 3.75,
+        "Dec": 2.64
+      },
+      "average": 4.55
+    },
+    {
+      "name": "Cizre",
+      "admin1_code": "80",
+      "location": [
+        37.33024,
+        42.18484
+      ],
+      "monthly": {
+        "Jan": 3.15,
+        "Feb": 3.77,
+        "Mar": 4.28,
+        "Apr": 4.68,
+        "May": 5.15,
+        "Jun": 5.58,
+        "Jul": 5.59,
+        "Aug": 5.57,
+        "Sep": 5.49,
+        "Oct": 4.37,
+        "Nov": 3.76,
+        "Dec": 3.07
+      },
+      "average": 4.54
+    },
+    {
+      "name": "Çine",
+      "admin1_code": "09",
+      "location": [
+        37.61266,
+        28.05912
+      ],
+      "monthly": {
+        "Jan": 3.12,
+        "Feb": 3.71,
+        "Mar": 4.41,
+        "Apr": 4.73,
+        "May": 5.13,
+        "Jun": 5.5,
+        "Jul": 5.66,
+        "Aug": 5.51,
+        "Sep": 5.18,
+        "Oct": 4.43,
+        "Nov": 3.58,
+        "Dec": 2.82
+      },
+      "average": 4.48
+    },
+    {
+      "name": "Ceylanpınar",
+      "admin1_code": "63",
+      "location": [
+        36.84722,
+        40.05
+      ],
+      "monthly": {
+        "Jan": 3.23,
+        "Feb": 3.95,
+        "Mar": 4.65,
+        "Apr": 5.03,
+        "May": 5.37,
+        "Jun": 5.74,
+        "Jul": 5.74,
+        "Aug": 5.7,
+        "Sep": 5.6,
+        "Oct": 4.59,
+        "Nov": 3.88,
+        "Dec": 3.16
+      },
+      "average": 4.72
+    },
+    {
+      "name": "Ceyhan",
+      "admin1_code": "81",
+      "location": [
+        37.02472,
+        35.8175
+      ],
+      "monthly": {
+        "Jan": 3.12,
+        "Feb": 3.88,
+        "Mar": 4.36,
+        "Apr": 4.62,
+        "May": 5.02,
+        "Jun": 5.32,
+        "Jul": 5.36,
+        "Aug": 5.25,
+        "Sep": 5.07,
+        "Oct": 4.43,
+        "Nov": 3.69,
+        "Dec": 3
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Çeşme",
+      "admin1_code": "35",
+      "location": [
+        38.32614,
+        26.30574
+      ],
+      "monthly": {
+        "Jan": 2.75,
+        "Feb": 3.41,
+        "Mar": 4.37,
+        "Apr": 5.02,
+        "May": 5.5,
+        "Jun": 5.85,
+        "Jul": 6,
+        "Aug": 5.84,
+        "Sep": 5.33,
+        "Oct": 4.31,
+        "Nov": 3.22,
+        "Dec": 2.5
+      },
+      "average": 4.51
+    },
+    {
+      "name": "Çermik",
+      "admin1_code": "21",
+      "location": [
+        38.13538,
+        39.445
+      ],
+      "monthly": {
+        "Jan": 2.87,
+        "Feb": 3.5,
+        "Mar": 4.25,
+        "Apr": 4.72,
+        "May": 5.24,
+        "Jun": 5.69,
+        "Jul": 5.72,
+        "Aug": 5.64,
+        "Sep": 5.52,
+        "Oct": 4.47,
+        "Nov": 3.6,
+        "Dec": 2.91
+      },
+      "average": 4.51
+    },
+    {
+      "name": "Çay",
+      "admin1_code": "03",
+      "location": [
+        38.59167,
+        31.02861
+      ],
+      "monthly": {
+        "Jan": 2.75,
+        "Feb": 3.61,
+        "Mar": 4.15,
+        "Apr": 4.63,
+        "May": 4.92,
+        "Jun": 5.28,
+        "Jul": 5.7,
+        "Aug": 5.65,
+        "Sep": 5.24,
+        "Oct": 4.3,
+        "Nov": 3.46,
+        "Dec": 2.54
+      },
+      "average": 4.35
+    },
+    {
+      "name": "Çat",
+      "admin1_code": "25",
+      "location": [
+        39.60641,
+        40.96844
+      ],
+      "monthly": {
+        "Jan": 2.91,
+        "Feb": 3.76,
+        "Mar": 3.98,
+        "Apr": 4.51,
+        "May": 4.94,
+        "Jun": 5.62,
+        "Jul": 5.72,
+        "Aug": 5.73,
+        "Sep": 5.56,
+        "Oct": 4.44,
+        "Nov": 3.41,
+        "Dec": 2.13
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Kestel",
+      "admin1_code": "07",
+      "location": [
+        36.50861,
+        32.08278
+      ],
+      "monthly": {
+        "Jan": 3.07,
+        "Feb": 3.89,
+        "Mar": 4.6,
+        "Apr": 4.94,
+        "May": 5.38,
+        "Jun": 5.72,
+        "Jul": 5.68,
+        "Aug": 5.52,
+        "Sep": 5.33,
+        "Oct": 4.48,
+        "Nov": 3.65,
+        "Dec": 2.87
+      },
+      "average": 4.59
+    },
+    {
+      "name": "Çağlayancerit",
+      "admin1_code": "46",
+      "location": [
+        37.74523,
+        37.28618
+      ],
+      "monthly": {
+        "Jan": 2.71,
+        "Feb": 3.55,
+        "Mar": 4.35,
+        "Apr": 4.74,
+        "May": 5.15,
+        "Jun": 5.72,
+        "Jul": 5.84,
+        "Aug": 5.74,
+        "Sep": 5.57,
+        "Oct": 4.53,
+        "Nov": 3.55,
+        "Dec": 2.59
+      },
+      "average": 4.5
+    },
+    {
+      "name": "Çiğli",
+      "admin1_code": "35",
+      "location": [
+        38.49645,
+        27.07029
+      ],
+      "monthly": {
+        "Jan": 3.03,
+        "Feb": 3.56,
+        "Mar": 4.4,
+        "Apr": 4.83,
+        "May": 5.26,
+        "Jun": 5.59,
+        "Jul": 5.8,
+        "Aug": 5.66,
+        "Sep": 5.23,
+        "Oct": 4.33,
+        "Nov": 3.43,
+        "Dec": 2.75
+      },
+      "average": 4.49
+    },
+    {
+      "name": "Burhaniye",
+      "admin1_code": "10",
+      "location": [
+        39.50041,
+        26.97269
+      ],
+      "monthly": {
+        "Jan": 2.77,
+        "Feb": 3.36,
+        "Mar": 4.22,
+        "Apr": 4.78,
+        "May": 5.27,
+        "Jun": 5.63,
+        "Jul": 5.86,
+        "Aug": 5.71,
+        "Sep": 5.14,
+        "Oct": 4.15,
+        "Nov": 3.12,
+        "Dec": 2.43
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Burdur",
+      "admin1_code": "15",
+      "location": [
+        37.72028,
+        30.29083
+      ],
+      "monthly": {
+        "Jan": 3.08,
+        "Feb": 3.95,
+        "Mar": 4.5,
+        "Apr": 4.85,
+        "May": 5.16,
+        "Jun": 5.54,
+        "Jul": 5.76,
+        "Aug": 5.69,
+        "Sep": 5.42,
+        "Oct": 4.6,
+        "Nov": 3.81,
+        "Dec": 2.86
+      },
+      "average": 4.6
+    },
+    {
+      "name": "Bulanık",
+      "admin1_code": "49",
+      "location": [
+        39.08656,
+        42.27158
+      ],
+      "monthly": {
+        "Jan": 2.19,
+        "Feb": 3.06,
+        "Mar": 4.11,
+        "Apr": 4.63,
+        "May": 5.12,
+        "Jun": 5.83,
+        "Jul": 5.82,
+        "Aug": 5.83,
+        "Sep": 5.69,
+        "Oct": 4.6,
+        "Nov": 3.76,
+        "Dec": 2.32
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Bucak",
+      "admin1_code": "15",
+      "location": [
+        37.45917,
+        30.595
+      ],
+      "monthly": {
+        "Jan": 3.17,
+        "Feb": 3.88,
+        "Mar": 4.45,
+        "Apr": 4.73,
+        "May": 5.02,
+        "Jun": 5.35,
+        "Jul": 5.57,
+        "Aug": 5.46,
+        "Sep": 5.29,
+        "Oct": 4.55,
+        "Nov": 3.78,
+        "Dec": 2.99
+      },
+      "average": 4.52
+    },
+    {
+      "name": "Bozyazı",
+      "admin1_code": "32",
+      "location": [
+        36.1082,
+        32.96113
+      ],
+      "monthly": {
+        "Jan": 2.99,
+        "Feb": 3.84,
+        "Mar": 4.69,
+        "Apr": 5.06,
+        "May": 5.51,
+        "Jun": 5.78,
+        "Jul": 5.75,
+        "Aug": 5.66,
+        "Sep": 5.43,
+        "Oct": 4.6,
+        "Nov": 3.68,
+        "Dec": 2.88
+      },
+      "average": 4.66
+    },
+    {
+      "name": "Bozüyük",
+      "admin1_code": "11",
+      "location": [
+        39.90778,
+        30.03667
+      ],
+      "monthly": {
+        "Jan": 2.33,
+        "Feb": 3.05,
+        "Mar": 3.69,
+        "Apr": 4.18,
+        "May": 4.57,
+        "Jun": 5.04,
+        "Jul": 5.47,
+        "Aug": 5.26,
+        "Sep": 4.62,
+        "Oct": 3.64,
+        "Nov": 2.96,
+        "Dec": 2.05
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Bozova",
+      "admin1_code": "63",
+      "location": [
+        37.3625,
+        38.52667
+      ],
+      "monthly": {
+        "Jan": 3.16,
+        "Feb": 3.83,
+        "Mar": 4.61,
+        "Apr": 4.98,
+        "May": 5.38,
+        "Jun": 5.76,
+        "Jul": 5.8,
+        "Aug": 5.74,
+        "Sep": 5.63,
+        "Oct": 4.67,
+        "Nov": 3.87,
+        "Dec": 3.18
+      },
+      "average": 4.72
+    },
+    {
+      "name": "Bor",
+      "admin1_code": "73",
+      "location": [
+        37.89056,
+        34.55889
+      ],
+      "monthly": {
+        "Jan": 3.15,
+        "Feb": 4.07,
+        "Mar": 4.53,
+        "Apr": 4.86,
+        "May": 5.21,
+        "Jun": 5.6,
+        "Jul": 5.83,
+        "Aug": 5.86,
+        "Sep": 5.64,
+        "Oct": 4.72,
+        "Nov": 3.88,
+        "Dec": 3.01
+      },
+      "average": 4.7
+    },
+    {
+      "name": "Bolvadin",
+      "admin1_code": "03",
+      "location": [
+        38.71111,
+        31.04861
+      ],
+      "monthly": {
+        "Jan": 2.84,
+        "Feb": 3.73,
+        "Mar": 4.31,
+        "Apr": 4.69,
+        "May": 4.99,
+        "Jun": 5.26,
+        "Jul": 5.64,
+        "Aug": 5.66,
+        "Sep": 5.29,
+        "Oct": 4.34,
+        "Nov": 3.61,
+        "Dec": 2.67
+      },
+      "average": 4.42
+    },
+    {
+      "name": "Bodrum",
+      "admin1_code": "48",
+      "location": [
+        37.03833,
+        27.42917
+      ],
+      "monthly": {
+        "Jan": 3.03,
+        "Feb": 3.74,
+        "Mar": 4.58,
+        "Apr": 5.11,
+        "May": 5.55,
+        "Jun": 5.91,
+        "Jul": 6,
+        "Aug": 5.87,
+        "Sep": 5.45,
+        "Oct": 4.51,
+        "Nov": 3.51,
+        "Dec": 2.79
+      },
+      "average": 4.67
+    },
+    {
+      "name": "Bitlis",
+      "admin1_code": "13",
+      "location": [
+        38.40115,
+        42.10784
+      ],
+      "monthly": {
+        "Jan": 2.35,
+        "Feb": 3.04,
+        "Mar": 3.93,
+        "Apr": 4.6,
+        "May": 5.17,
+        "Jun": 5.93,
+        "Jul": 5.91,
+        "Aug": 5.87,
+        "Sep": 5.68,
+        "Oct": 4.4,
+        "Nov": 3.65,
+        "Dec": 2.47
+      },
+      "average": 4.42
+    },
+    {
+      "name": "Bismil",
+      "admin1_code": "21",
+      "location": [
+        37.84514,
+        40.65931
+      ],
+      "monthly": {
+        "Jan": 2.86,
+        "Feb": 3.69,
+        "Mar": 4.29,
+        "Apr": 4.79,
+        "May": 5.28,
+        "Jun": 5.73,
+        "Jul": 5.75,
+        "Aug": 5.71,
+        "Sep": 5.56,
+        "Oct": 4.49,
+        "Nov": 3.71,
+        "Dec": 2.71
+      },
+      "average": 4.55
+    },
+    {
+      "name": "Birecik",
+      "admin1_code": "63",
+      "location": [
+        37.02577,
+        37.97841
+      ],
+      "monthly": {
+        "Jan": 3.01,
+        "Feb": 3.75,
+        "Mar": 4.49,
+        "Apr": 4.93,
+        "May": 5.36,
+        "Jun": 5.69,
+        "Jul": 5.7,
+        "Aug": 5.62,
+        "Sep": 5.47,
+        "Oct": 4.57,
+        "Nov": 3.72,
+        "Dec": 3.03
+      },
+      "average": 4.61
+    },
+    {
+      "name": "Bingöl",
+      "admin1_code": "12",
+      "location": [
+        38.88472,
+        40.49389
+      ],
+      "monthly": {
+        "Jan": 2.56,
+        "Feb": 3.36,
+        "Mar": 4.12,
+        "Apr": 4.51,
+        "May": 5.13,
+        "Jun": 5.81,
+        "Jul": 5.84,
+        "Aug": 5.82,
+        "Sep": 5.64,
+        "Oct": 4.49,
+        "Nov": 3.7,
+        "Dec": 2.67
+      },
+      "average": 4.47
+    },
+    {
+      "name": "Bigadiç",
+      "admin1_code": "10",
+      "location": [
+        39.3925,
+        28.13111
+      ],
+      "monthly": {
+        "Jan": 2.39,
+        "Feb": 2.98,
+        "Mar": 3.75,
+        "Apr": 4.34,
+        "May": 4.89,
+        "Jun": 5.37,
+        "Jul": 5.74,
+        "Aug": 5.51,
+        "Sep": 4.89,
+        "Oct": 3.81,
+        "Nov": 2.9,
+        "Dec": 2.11
+      },
+      "average": 4.06
+    },
+    {
+      "name": "Beyşehir",
+      "admin1_code": "71",
+      "location": [
+        37.67735,
+        31.72458
+      ],
+      "monthly": {
+        "Jan": 2.87,
+        "Feb": 3.9,
+        "Mar": 4.51,
+        "Apr": 4.94,
+        "May": 5.25,
+        "Jun": 5.63,
+        "Jul": 5.85,
+        "Aug": 5.76,
+        "Sep": 5.45,
+        "Oct": 4.5,
+        "Nov": 3.66,
+        "Dec": 2.72
+      },
+      "average": 4.59
+    },
+    {
+      "name": "Besni",
+      "admin1_code": "02",
+      "location": [
+        37.69278,
+        37.86111
+      ],
+      "monthly": {
+        "Jan": 3.03,
+        "Feb": 3.77,
+        "Mar": 4.58,
+        "Apr": 5.01,
+        "May": 5.43,
+        "Jun": 5.84,
+        "Jul": 5.91,
+        "Aug": 5.84,
+        "Sep": 5.73,
+        "Oct": 4.76,
+        "Nov": 3.87,
+        "Dec": 3.19
+      },
+      "average": 4.75
+    },
+    {
+      "name": "Bergama",
+      "admin1_code": "35",
+      "location": [
+        39.12074,
+        27.18052
+      ],
+      "monthly": {
+        "Jan": 2.77,
+        "Feb": 3.35,
+        "Mar": 4.14,
+        "Apr": 4.63,
+        "May": 5.12,
+        "Jun": 5.41,
+        "Jul": 5.71,
+        "Aug": 5.58,
+        "Sep": 5.04,
+        "Oct": 4.17,
+        "Nov": 3.19,
+        "Dec": 2.51
+      },
+      "average": 4.3
+    },
+    {
+      "name": "Belen",
+      "admin1_code": "31",
+      "location": [
+        36.48866,
+        36.19489
+      ],
+      "monthly": {
+        "Jan": 2.7,
+        "Feb": 3.46,
+        "Mar": 4.34,
+        "Apr": 4.69,
+        "May": 5.22,
+        "Jun": 5.49,
+        "Jul": 5.34,
+        "Aug": 5.2,
+        "Sep": 5.13,
+        "Oct": 4.29,
+        "Nov": 3.52,
+        "Dec": 2.72
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Belek",
+      "admin1_code": "07",
+      "location": [
+        36.8631,
+        31.06541
+      ],
+      "monthly": {
+        "Jan": 3.19,
+        "Feb": 3.98,
+        "Mar": 4.64,
+        "Apr": 5.06,
+        "May": 5.36,
+        "Jun": 5.64,
+        "Jul": 5.66,
+        "Aug": 5.57,
+        "Sep": 5.3,
+        "Oct": 4.48,
+        "Nov": 3.68,
+        "Dec": 2.97
+      },
+      "average": 4.63
+    },
+    {
+      "name": "Bayındır",
+      "admin1_code": "35",
+      "location": [
+        38.21741,
+        27.64744
+      ],
+      "monthly": {
+        "Jan": 2.95,
+        "Feb": 3.48,
+        "Mar": 4.26,
+        "Apr": 4.63,
+        "May": 5.1,
+        "Jun": 5.47,
+        "Jul": 5.73,
+        "Aug": 5.6,
+        "Sep": 5.17,
+        "Oct": 4.31,
+        "Nov": 3.38,
+        "Dec": 2.69
+      },
+      "average": 4.4
+    },
+    {
+      "name": "Batman",
+      "admin1_code": "76",
+      "location": [
+        37.88738,
+        41.13221
+      ],
+      "monthly": {
+        "Jan": 2.86,
+        "Feb": 3.69,
+        "Mar": 4.22,
+        "Apr": 4.73,
+        "May": 5.25,
+        "Jun": 5.72,
+        "Jul": 5.71,
+        "Aug": 5.66,
+        "Sep": 5.51,
+        "Oct": 4.47,
+        "Nov": 3.69,
+        "Dec": 2.72
+      },
+      "average": 4.52
+    },
+    {
+      "name": "Baskil",
+      "admin1_code": "23",
+      "location": [
+        38.56866,
+        38.81634
+      ],
+      "monthly": {
+        "Jan": 2.5,
+        "Feb": 3.48,
+        "Mar": 4.25,
+        "Apr": 4.74,
+        "May": 5.26,
+        "Jun": 5.85,
+        "Jul": 5.98,
+        "Aug": 5.89,
+        "Sep": 5.73,
+        "Oct": 4.61,
+        "Nov": 3.7,
+        "Dec": 2.64
+      },
+      "average": 4.55
+    },
+    {
+      "name": "Banaz",
+      "admin1_code": "64",
+      "location": [
+        38.73707,
+        29.75194
+      ],
+      "monthly": {
+        "Jan": 3.02,
+        "Feb": 3.65,
+        "Mar": 4.18,
+        "Apr": 4.55,
+        "May": 4.93,
+        "Jun": 5.32,
+        "Jul": 5.66,
+        "Aug": 5.57,
+        "Sep": 5.21,
+        "Oct": 4.36,
+        "Nov": 3.6,
+        "Dec": 2.79
+      },
+      "average": 4.4
+    },
+    {
+      "name": "Balıkesir",
+      "admin1_code": "10",
+      "location": [
+        39.64917,
+        27.88611
+      ],
+      "monthly": {
+        "Jan": 2.31,
+        "Feb": 2.94,
+        "Mar": 3.7,
+        "Apr": 4.34,
+        "May": 4.93,
+        "Jun": 5.33,
+        "Jul": 5.67,
+        "Aug": 5.41,
+        "Sep": 4.76,
+        "Oct": 3.68,
+        "Nov": 2.81,
+        "Dec": 2.05
+      },
+      "average": 3.99
+    },
+    {
+      "name": "Balatçık",
+      "admin1_code": "35",
+      "location": [
+        38.51626,
+        27.04752
+      ],
+      "monthly": {
+        "Jan": 3.06,
+        "Feb": 3.6,
+        "Mar": 4.43,
+        "Apr": 4.86,
+        "May": 5.29,
+        "Jun": 5.59,
+        "Jul": 5.8,
+        "Aug": 5.67,
+        "Sep": 5.24,
+        "Oct": 4.34,
+        "Nov": 3.45,
+        "Dec": 2.79
+      },
+      "average": 4.51
+    },
+    {
+      "name": "Ayvalık",
+      "admin1_code": "10",
+      "location": [
+        39.31927,
+        26.69341
+      ],
+      "monthly": {
+        "Jan": 2.8,
+        "Feb": 3.45,
+        "Mar": 4.32,
+        "Apr": 4.86,
+        "May": 5.35,
+        "Jun": 5.73,
+        "Jul": 5.93,
+        "Aug": 5.76,
+        "Sep": 5.18,
+        "Oct": 4.19,
+        "Nov": 3.17,
+        "Dec": 2.5
+      },
+      "average": 4.44
+    },
+    {
+      "name": "Aydın",
+      "admin1_code": "09",
+      "location": [
+        37.84501,
+        27.83963
+      ],
+      "monthly": {
+        "Jan": 3.07,
+        "Feb": 3.67,
+        "Mar": 4.39,
+        "Apr": 4.75,
+        "May": 5.2,
+        "Jun": 5.56,
+        "Jul": 5.75,
+        "Aug": 5.63,
+        "Sep": 5.26,
+        "Oct": 4.42,
+        "Nov": 3.52,
+        "Dec": 2.83
+      },
+      "average": 4.5
+    },
+    {
+      "name": "Aşkale",
+      "admin1_code": "25",
+      "location": [
+        39.92083,
+        40.695
+      ],
+      "monthly": {
+        "Jan": 2.41,
+        "Feb": 3.21,
+        "Mar": 4.08,
+        "Apr": 4.57,
+        "May": 4.97,
+        "Jun": 5.62,
+        "Jul": 5.75,
+        "Aug": 5.72,
+        "Sep": 5.62,
+        "Oct": 4.54,
+        "Nov": 3.69,
+        "Dec": 2.33
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Antalya",
+      "admin1_code": "07",
+      "location": [
+        36.90812,
+        30.69556
+      ],
+      "monthly": {
+        "Jan": 3.27,
+        "Feb": 3.97,
+        "Mar": 4.56,
+        "Apr": 4.9,
+        "May": 5.18,
+        "Jun": 5.5,
+        "Jul": 5.59,
+        "Aug": 5.51,
+        "Sep": 5.24,
+        "Oct": 4.43,
+        "Nov": 3.69,
+        "Dec": 3.06
+      },
+      "average": 4.58
+    },
+    {
+      "name": "Antakya",
+      "admin1_code": "31",
+      "location": [
+        36.20655,
+        36.15722
+      ],
+      "monthly": {
+        "Jan": 2.77,
+        "Feb": 3.6,
+        "Mar": 4.43,
+        "Apr": 4.91,
+        "May": 5.48,
+        "Jun": 5.77,
+        "Jul": 5.78,
+        "Aug": 5.67,
+        "Sep": 5.37,
+        "Oct": 4.46,
+        "Nov": 3.65,
+        "Dec": 2.81
+      },
+      "average": 4.56
+    },
+    {
+      "name": "Ankara",
+      "admin1_code": "68",
+      "location": [
+        39.91987,
+        32.85427
+      ],
+      "monthly": {
+        "Jan": 2.55,
+        "Feb": 3.41,
+        "Mar": 4.08,
+        "Apr": 4.51,
+        "May": 4.88,
+        "Jun": 5.2,
+        "Jul": 5.61,
+        "Aug": 5.55,
+        "Sep": 5.11,
+        "Oct": 4.07,
+        "Nov": 3.32,
+        "Dec": 2.35
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Anamur",
+      "admin1_code": "32",
+      "location": [
+        36.07508,
+        32.83691
+      ],
+      "monthly": {
+        "Jan": 2.97,
+        "Feb": 3.81,
+        "Mar": 4.68,
+        "Apr": 5.08,
+        "May": 5.53,
+        "Jun": 5.81,
+        "Jul": 5.79,
+        "Aug": 5.7,
+        "Sep": 5.44,
+        "Oct": 4.61,
+        "Nov": 3.7,
+        "Dec": 2.87
+      },
+      "average": 4.67
+    },
+    {
+      "name": "Aliağa",
+      "admin1_code": "35",
+      "location": [
+        38.79975,
+        26.97203
+      ],
+      "monthly": {
+        "Jan": 2.94,
+        "Feb": 3.51,
+        "Mar": 4.37,
+        "Apr": 4.86,
+        "May": 5.32,
+        "Jun": 5.68,
+        "Jul": 5.86,
+        "Aug": 5.71,
+        "Sep": 5.23,
+        "Oct": 4.25,
+        "Nov": 3.29,
+        "Dec": 2.65
+      },
+      "average": 4.47
+    },
+    {
+      "name": "Alaşehir",
+      "admin1_code": "45",
+      "location": [
+        38.35083,
+        28.51718
+      ],
+      "monthly": {
+        "Jan": 2.87,
+        "Feb": 3.47,
+        "Mar": 4.15,
+        "Apr": 4.58,
+        "May": 5.01,
+        "Jun": 5.38,
+        "Jul": 5.68,
+        "Aug": 5.52,
+        "Sep": 5.1,
+        "Oct": 4.22,
+        "Nov": 3.39,
+        "Dec": 2.64
+      },
+      "average": 4.33
+    },
+    {
+      "name": "Alanya",
+      "admin1_code": "07",
+      "location": [
+        36.54375,
+        31.99982
+      ],
+      "monthly": {
+        "Jan": 3.04,
+        "Feb": 3.85,
+        "Mar": 4.55,
+        "Apr": 4.86,
+        "May": 5.28,
+        "Jun": 5.62,
+        "Jul": 5.58,
+        "Aug": 5.41,
+        "Sep": 5.25,
+        "Oct": 4.42,
+        "Nov": 3.61,
+        "Dec": 2.85
+      },
+      "average": 4.53
+    },
+    {
+      "name": "Akşehir",
+      "admin1_code": "71",
+      "location": [
+        38.3575,
+        31.41639
+      ],
+      "monthly": {
+        "Jan": 2.52,
+        "Feb": 3.32,
+        "Mar": 3.97,
+        "Apr": 4.46,
+        "May": 4.72,
+        "Jun": 5.11,
+        "Jul": 5.57,
+        "Aug": 5.42,
+        "Sep": 4.98,
+        "Oct": 3.99,
+        "Nov": 3.17,
+        "Dec": 2.21
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Aksaray",
+      "admin1_code": "75",
+      "location": [
+        38.37255,
+        34.02537
+      ],
+      "monthly": {
+        "Jan": 2.83,
+        "Feb": 3.83,
+        "Mar": 4.36,
+        "Apr": 4.81,
+        "May": 5.27,
+        "Jun": 5.61,
+        "Jul": 5.85,
+        "Aug": 5.82,
+        "Sep": 5.51,
+        "Oct": 4.5,
+        "Nov": 3.63,
+        "Dec": 2.76
+      },
+      "average": 4.56
+    },
+    {
+      "name": "Akhisar",
+      "admin1_code": "45",
+      "location": [
+        38.91852,
+        27.84006
+      ],
+      "monthly": {
+        "Jan": 2.95,
+        "Feb": 3.51,
+        "Mar": 4.28,
+        "Apr": 4.73,
+        "May": 5.15,
+        "Jun": 5.47,
+        "Jul": 5.76,
+        "Aug": 5.61,
+        "Sep": 5.18,
+        "Oct": 4.3,
+        "Nov": 3.4,
+        "Dec": 2.69
+      },
+      "average": 4.42
+    },
+    {
+      "name": "Akdağmadeni",
+      "admin1_code": "66",
+      "location": [
+        39.66028,
+        35.88361
+      ],
+      "monthly": {
+        "Jan": 2.8,
+        "Feb": 3.57,
+        "Mar": 3.96,
+        "Apr": 4.37,
+        "May": 4.67,
+        "Jun": 5.16,
+        "Jul": 5.43,
+        "Aug": 5.54,
+        "Sep": 5.1,
+        "Oct": 4.07,
+        "Nov": 3.4,
+        "Dec": 2.59
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Akçapınar",
+      "admin1_code": "62",
+      "location": [
+        38.94728,
+        38.9423
+      ],
+      "monthly": {
+        "Jan": 2.48,
+        "Feb": 3.51,
+        "Mar": 4.31,
+        "Apr": 4.83,
+        "May": 5.28,
+        "Jun": 5.84,
+        "Jul": 5.92,
+        "Aug": 5.79,
+        "Sep": 5.59,
+        "Oct": 4.38,
+        "Nov": 3.48,
+        "Dec": 2.45
+      },
+      "average": 4.49
+    },
+    {
+      "name": "Akçakale",
+      "admin1_code": "63",
+      "location": [
+        36.71111,
+        38.9475
+      ],
+      "monthly": {
+        "Jan": 3.23,
+        "Feb": 3.95,
+        "Mar": 4.67,
+        "Apr": 5.06,
+        "May": 5.41,
+        "Jun": 5.76,
+        "Jul": 5.76,
+        "Aug": 5.74,
+        "Sep": 5.64,
+        "Oct": 4.62,
+        "Nov": 3.83,
+        "Dec": 3.17
+      },
+      "average": 4.74
+    },
+    {
+      "name": "Ahlat",
+      "admin1_code": "13",
+      "location": [
+        38.7489,
+        42.48007
+      ],
+      "monthly": {
+        "Jan": 2.65,
+        "Feb": 3.43,
+        "Mar": 4.19,
+        "Apr": 4.68,
+        "May": 5.26,
+        "Jun": 5.96,
+        "Jul": 6.03,
+        "Aug": 5.97,
+        "Sep": 5.75,
+        "Oct": 4.42,
+        "Nov": 3.64,
+        "Dec": 2.75
+      },
+      "average": 4.56
+    },
+    {
+      "name": "Afyonkarahisar",
+      "admin1_code": "03",
+      "location": [
+        38.75667,
+        30.54333
+      ],
+      "monthly": {
+        "Jan": 2.6,
+        "Feb": 3.47,
+        "Mar": 4.12,
+        "Apr": 4.54,
+        "May": 4.83,
+        "Jun": 5.22,
+        "Jul": 5.6,
+        "Aug": 5.5,
+        "Sep": 5.07,
+        "Oct": 4.13,
+        "Nov": 3.38,
+        "Dec": 2.41
+      },
+      "average": 4.24
+    },
+    {
+      "name": "Afşin",
+      "admin1_code": "46",
+      "location": [
+        38.24769,
+        36.91399
+      ],
+      "monthly": {
+        "Jan": 2.99,
+        "Feb": 3.91,
+        "Mar": 4.5,
+        "Apr": 4.74,
+        "May": 5.08,
+        "Jun": 5.54,
+        "Jul": 5.84,
+        "Aug": 5.82,
+        "Sep": 5.58,
+        "Oct": 4.68,
+        "Nov": 3.84,
+        "Dec": 2.93
+      },
+      "average": 4.62
+    },
+    {
+      "name": "Adıyaman",
+      "admin1_code": "02",
+      "location": [
+        37.76441,
+        38.27629
+      ],
+      "monthly": {
+        "Jan": 3.08,
+        "Feb": 3.81,
+        "Mar": 4.55,
+        "Apr": 5.02,
+        "May": 5.38,
+        "Jun": 5.78,
+        "Jul": 5.85,
+        "Aug": 5.81,
+        "Sep": 5.72,
+        "Oct": 4.7,
+        "Nov": 3.83,
+        "Dec": 3.19
+      },
+      "average": 4.73
+    },
+    {
+      "name": "Adilcevaz",
+      "admin1_code": "13",
+      "location": [
+        38.79911,
+        42.73159
+      ],
+      "monthly": {
+        "Jan": 2.82,
+        "Feb": 3.57,
+        "Mar": 4.24,
+        "Apr": 4.84,
+        "May": 5.45,
+        "Jun": 6.08,
+        "Jul": 6.08,
+        "Aug": 6.01,
+        "Sep": 5.82,
+        "Oct": 4.49,
+        "Nov": 3.68,
+        "Dec": 2.76
+      },
+      "average": 4.65
+    },
+    {
+      "name": "Adana",
+      "admin1_code": "81",
+      "location": [
+        36.98615,
+        35.32531
+      ],
+      "monthly": {
+        "Jan": 3.17,
+        "Feb": 3.92,
+        "Mar": 4.42,
+        "Apr": 4.66,
+        "May": 5.07,
+        "Jun": 5.4,
+        "Jul": 5.41,
+        "Aug": 5.31,
+        "Sep": 5.09,
+        "Oct": 4.45,
+        "Nov": 3.68,
+        "Dec": 3.02
+      },
+      "average": 4.47
+    },
+    {
+      "name": "Narlıca",
+      "admin1_code": "31",
+      "location": [
+        36.23533,
+        36.21458
+      ],
+      "monthly": {
+        "Jan": 2.75,
+        "Feb": 3.61,
+        "Mar": 4.5,
+        "Apr": 5,
+        "May": 5.54,
+        "Jun": 5.85,
+        "Jul": 5.86,
+        "Aug": 5.73,
+        "Sep": 5.42,
+        "Oct": 4.5,
+        "Nov": 3.66,
+        "Dec": 2.78
+      },
+      "average": 4.6
+    },
+    {
+      "name": "Denizciler",
+      "admin1_code": "31",
+      "location": [
+        36.6411,
+        36.21418
+      ],
+      "monthly": {
+        "Jan": 2.78,
+        "Feb": 3.49,
+        "Mar": 4.08,
+        "Apr": 4.41,
+        "May": 4.87,
+        "Jun": 4.86,
+        "Jul": 4.56,
+        "Aug": 4.2,
+        "Sep": 4.58,
+        "Oct": 4.06,
+        "Nov": 3.45,
+        "Dec": 2.82
+      },
+      "average": 4.01
+    },
+    {
+      "name": "Batikent",
+      "admin1_code": "68",
+      "location": [
+        39.96833,
+        32.73083
+      ],
+      "monthly": {
+        "Jan": 2.54,
+        "Feb": 3.45,
+        "Mar": 4.19,
+        "Apr": 4.61,
+        "May": 4.99,
+        "Jun": 5.27,
+        "Jul": 5.64,
+        "Aug": 5.58,
+        "Sep": 5.18,
+        "Oct": 4.14,
+        "Nov": 3.37,
+        "Dec": 2.36
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Dalaman",
+      "admin1_code": "48",
+      "location": [
+        36.76591,
+        28.8028
+      ],
+      "monthly": {
+        "Jan": 3.18,
+        "Feb": 3.86,
+        "Mar": 4.63,
+        "Apr": 5.03,
+        "May": 5.43,
+        "Jun": 5.75,
+        "Jul": 5.81,
+        "Aug": 5.7,
+        "Sep": 5.39,
+        "Oct": 4.5,
+        "Nov": 3.62,
+        "Dec": 2.91
+      },
+      "average": 4.65
+    },
+    {
+      "name": "Zonguldak",
+      "admin1_code": "85",
+      "location": [
+        41.45139,
+        31.79305
+      ],
+      "monthly": {
+        "Jan": 1.91,
+        "Feb": 2.56,
+        "Mar": 3.31,
+        "Apr": 4.07,
+        "May": 4.66,
+        "Jun": 5.17,
+        "Jul": 5.41,
+        "Aug": 5.13,
+        "Sep": 4.32,
+        "Oct": 3.23,
+        "Nov": 2.51,
+        "Dec": 1.81
+      },
+      "average": 3.67
+    },
+    {
+      "name": "Zile",
+      "admin1_code": "60",
+      "location": [
+        40.30306,
+        35.88639
+      ],
+      "monthly": {
+        "Jan": 2.51,
+        "Feb": 3.34,
+        "Mar": 3.82,
+        "Apr": 4.38,
+        "May": 4.72,
+        "Jun": 5.03,
+        "Jul": 5.17,
+        "Aug": 5.22,
+        "Sep": 4.82,
+        "Oct": 3.8,
+        "Nov": 3.14,
+        "Dec": 2.3
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Zeytinburnu",
+      "admin1_code": "34",
+      "location": [
+        40.99441,
+        28.90417
+      ],
+      "monthly": {
+        "Jan": 2.13,
+        "Feb": 2.72,
+        "Mar": 3.56,
+        "Apr": 4.44,
+        "May": 5.03,
+        "Jun": 5.37,
+        "Jul": 5.56,
+        "Aug": 5.16,
+        "Sep": 4.36,
+        "Oct": 3.18,
+        "Nov": 2.43,
+        "Dec": 1.84
+      },
+      "average": 3.81
+    },
+    {
+      "name": "Zekeriya",
+      "admin1_code": "34",
+      "location": [
+        41.19806,
+        29.03028
+      ],
+      "monthly": {
+        "Jan": 1.94,
+        "Feb": 2.5,
+        "Mar": 3.36,
+        "Apr": 4.16,
+        "May": 4.76,
+        "Jun": 5.2,
+        "Jul": 5.33,
+        "Aug": 4.86,
+        "Sep": 4.05,
+        "Oct": 2.89,
+        "Nov": 2.21,
+        "Dec": 1.7
+      },
+      "average": 3.58
+    },
+    {
+      "name": "Yomra",
+      "admin1_code": "61",
+      "location": [
+        40.95326,
+        39.85546
+      ],
+      "monthly": {
+        "Jan": 2.11,
+        "Feb": 2.64,
+        "Mar": 3.02,
+        "Apr": 3.49,
+        "May": 3.84,
+        "Jun": 3.89,
+        "Jul": 3.68,
+        "Aug": 3.31,
+        "Sep": 3.36,
+        "Oct": 2.86,
+        "Nov": 2.54,
+        "Dec": 2.03
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Yenişehir",
+      "admin1_code": "16",
+      "location": [
+        40.26444,
+        29.65306
+      ],
+      "monthly": {
+        "Jan": 2.33,
+        "Feb": 2.92,
+        "Mar": 3.63,
+        "Apr": 4.25,
+        "May": 4.75,
+        "Jun": 5.18,
+        "Jul": 5.49,
+        "Aug": 5.29,
+        "Sep": 4.56,
+        "Oct": 3.51,
+        "Nov": 2.85,
+        "Dec": 2.14
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Körfez",
+      "admin1_code": "41",
+      "location": [
+        40.76704,
+        29.78275
+      ],
+      "monthly": {
+        "Jan": 2.09,
+        "Feb": 2.64,
+        "Mar": 3.32,
+        "Apr": 4.11,
+        "May": 4.67,
+        "Jun": 5.03,
+        "Jul": 5.18,
+        "Aug": 4.87,
+        "Sep": 4.14,
+        "Oct": 3.09,
+        "Nov": 2.48,
+        "Dec": 1.89
+      },
+      "average": 3.63
+    },
+    {
+      "name": "Yalova",
+      "admin1_code": "92",
+      "location": [
+        40.65501,
+        29.27693
+      ],
+      "monthly": {
+        "Jan": 2.06,
+        "Feb": 2.59,
+        "Mar": 3.38,
+        "Apr": 4.14,
+        "May": 4.79,
+        "Jun": 5.24,
+        "Jul": 5.46,
+        "Aug": 5.12,
+        "Sep": 4.34,
+        "Oct": 3.2,
+        "Nov": 2.47,
+        "Dec": 1.87
+      },
+      "average": 3.72
+    },
+    {
+      "name": "Yakuplu",
+      "admin1_code": "34",
+      "location": [
+        40.98894,
+        28.67582
+      ],
+      "monthly": {
+        "Jan": 2.17,
+        "Feb": 2.79,
+        "Mar": 3.67,
+        "Apr": 4.51,
+        "May": 5.06,
+        "Jun": 5.38,
+        "Jul": 5.57,
+        "Aug": 5.19,
+        "Sep": 4.43,
+        "Oct": 3.26,
+        "Nov": 2.5,
+        "Dec": 1.89
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Vezirköprü",
+      "admin1_code": "55",
+      "location": [
+        41.14361,
+        35.45472
+      ],
+      "monthly": {
+        "Jan": 2.23,
+        "Feb": 3.06,
+        "Mar": 3.62,
+        "Apr": 4.26,
+        "May": 4.59,
+        "Jun": 4.95,
+        "Jul": 5.21,
+        "Aug": 5.07,
+        "Sep": 4.51,
+        "Oct": 3.43,
+        "Nov": 2.78,
+        "Dec": 1.94
+      },
+      "average": 3.8
+    },
+    {
+      "name": "Vakfıkebir",
+      "admin1_code": "61",
+      "location": [
+        41.04583,
+        39.27639
+      ],
+      "monthly": {
+        "Jan": 2.04,
+        "Feb": 2.58,
+        "Mar": 3.03,
+        "Apr": 3.59,
+        "May": 3.92,
+        "Jun": 3.85,
+        "Jul": 3.57,
+        "Aug": 3.12,
+        "Sep": 3.21,
+        "Oct": 2.8,
+        "Nov": 2.49,
+        "Dec": 1.99
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Uzunköprü",
+      "admin1_code": "22",
+      "location": [
+        41.26914,
+        26.68598
+      ],
+      "monthly": {
+        "Jan": 2.28,
+        "Feb": 3.1,
+        "Mar": 3.81,
+        "Apr": 4.46,
+        "May": 4.93,
+        "Jun": 5.17,
+        "Jul": 5.43,
+        "Aug": 5.26,
+        "Sep": 4.54,
+        "Oct": 3.44,
+        "Nov": 2.49,
+        "Dec": 1.95
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Üsküdar",
+      "admin1_code": "34",
+      "location": [
+        41.02274,
+        29.01366
+      ],
+      "monthly": {
+        "Jan": 2.05,
+        "Feb": 2.66,
+        "Mar": 3.48,
+        "Apr": 4.35,
+        "May": 4.95,
+        "Jun": 5.31,
+        "Jul": 5.52,
+        "Aug": 5.12,
+        "Sep": 4.32,
+        "Oct": 3.14,
+        "Nov": 2.38,
+        "Dec": 1.79
+      },
+      "average": 3.76
+    },
+    {
+      "name": "Ünye",
+      "admin1_code": "52",
+      "location": [
+        41.14049,
+        37.28851
+      ],
+      "monthly": {
+        "Jan": 2.07,
+        "Feb": 2.65,
+        "Mar": 3.16,
+        "Apr": 3.92,
+        "May": 4.42,
+        "Jun": 4.81,
+        "Jul": 4.72,
+        "Aug": 4.38,
+        "Sep": 3.97,
+        "Oct": 3,
+        "Nov": 2.59,
+        "Dec": 2.02
+      },
+      "average": 3.48
+    },
+    {
+      "name": "Umraniye",
+      "admin1_code": "34",
+      "location": [
+        41.01643,
+        29.12476
+      ],
+      "monthly": {
+        "Jan": 2.08,
+        "Feb": 2.7,
+        "Mar": 3.55,
+        "Apr": 4.4,
+        "May": 4.99,
+        "Jun": 5.34,
+        "Jul": 5.53,
+        "Aug": 5.13,
+        "Sep": 4.36,
+        "Oct": 3.18,
+        "Nov": 2.45,
+        "Dec": 1.86
+      },
+      "average": 3.8
+    },
+    {
+      "name": "Turhal",
+      "admin1_code": "60",
+      "location": [
+        40.3875,
+        36.08111
+      ],
+      "monthly": {
+        "Jan": 2.45,
+        "Feb": 3.26,
+        "Mar": 3.72,
+        "Apr": 4.31,
+        "May": 4.69,
+        "Jun": 5.04,
+        "Jul": 5.18,
+        "Aug": 5.22,
+        "Sep": 4.79,
+        "Oct": 3.76,
+        "Nov": 3.07,
+        "Dec": 2.22
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Trabzon",
+      "admin1_code": "61",
+      "location": [
+        41.005,
+        39.72694
+      ],
+      "monthly": {
+        "Jan": 2.18,
+        "Feb": 2.7,
+        "Mar": 3.11,
+        "Apr": 3.61,
+        "May": 4.04,
+        "Jun": 4.23,
+        "Jul": 4.06,
+        "Aug": 3.68,
+        "Sep": 3.61,
+        "Oct": 2.96,
+        "Nov": 2.62,
+        "Dec": 2.11
+      },
+      "average": 3.24
+    },
+    {
+      "name": "Tosya",
+      "admin1_code": "37",
+      "location": [
+        41.01545,
+        34.04013
+      ],
+      "monthly": {
+        "Jan": 2.4,
+        "Feb": 3.23,
+        "Mar": 3.84,
+        "Apr": 4.26,
+        "May": 4.5,
+        "Jun": 4.87,
+        "Jul": 5.29,
+        "Aug": 5.2,
+        "Sep": 4.7,
+        "Oct": 3.75,
+        "Nov": 3.15,
+        "Dec": 2.24
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Tokat",
+      "admin1_code": "60",
+      "location": [
+        40.31389,
+        36.55444
+      ],
+      "monthly": {
+        "Jan": 2.29,
+        "Feb": 3.12,
+        "Mar": 3.66,
+        "Apr": 4.24,
+        "May": 4.61,
+        "Jun": 4.98,
+        "Jul": 5,
+        "Aug": 5.08,
+        "Sep": 4.75,
+        "Oct": 3.68,
+        "Nov": 2.94,
+        "Dec": 2.1
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Tirebolu",
+      "admin1_code": "28",
+      "location": [
+        41.00694,
+        38.81389
+      ],
+      "monthly": {
+        "Jan": 2.01,
+        "Feb": 2.54,
+        "Mar": 3.04,
+        "Apr": 3.67,
+        "May": 4.09,
+        "Jun": 4.22,
+        "Jul": 4.04,
+        "Aug": 3.61,
+        "Sep": 3.5,
+        "Oct": 2.81,
+        "Nov": 2.45,
+        "Dec": 1.92
+      },
+      "average": 3.16
+    },
+    {
+      "name": "Terme",
+      "admin1_code": "55",
+      "location": [
+        41.20917,
+        36.97389
+      ],
+      "monthly": {
+        "Jan": 2.15,
+        "Feb": 2.7,
+        "Mar": 3.24,
+        "Apr": 4.01,
+        "May": 4.46,
+        "Jun": 4.8,
+        "Jul": 4.72,
+        "Aug": 4.39,
+        "Sep": 3.97,
+        "Oct": 3.02,
+        "Nov": 2.64,
+        "Dec": 2.07
+      },
+      "average": 3.51
+    },
+    {
+      "name": "Tepecik",
+      "admin1_code": "34",
+      "location": [
+        41.02931,
+        28.54978
+      ],
+      "monthly": {
+        "Jan": 2.17,
+        "Feb": 2.78,
+        "Mar": 3.62,
+        "Apr": 4.49,
+        "May": 5.05,
+        "Jun": 5.38,
+        "Jul": 5.62,
+        "Aug": 5.26,
+        "Sep": 4.46,
+        "Oct": 3.26,
+        "Nov": 2.47,
+        "Dec": 1.86
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Tekkeköy",
+      "admin1_code": "55",
+      "location": [
+        41.21167,
+        36.46
+      ],
+      "monthly": {
+        "Jan": 2.1,
+        "Feb": 2.6,
+        "Mar": 3.13,
+        "Apr": 3.88,
+        "May": 4.35,
+        "Jun": 4.77,
+        "Jul": 4.84,
+        "Aug": 4.51,
+        "Sep": 3.89,
+        "Oct": 2.94,
+        "Nov": 2.58,
+        "Dec": 1.99
+      },
+      "average": 3.46
+    },
+    {
+      "name": "Tekirdağ",
+      "admin1_code": "59",
+      "location": [
+        40.9781,
+        27.51101
+      ],
+      "monthly": {
+        "Jan": 2.29,
+        "Feb": 2.9,
+        "Mar": 3.67,
+        "Apr": 4.46,
+        "May": 5.02,
+        "Jun": 5.27,
+        "Jul": 5.5,
+        "Aug": 5.2,
+        "Sep": 4.41,
+        "Oct": 3.32,
+        "Nov": 2.47,
+        "Dec": 1.95
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Taşova",
+      "admin1_code": "05",
+      "location": [
+        40.75972,
+        36.3225
+      ],
+      "monthly": {
+        "Jan": 2.36,
+        "Feb": 3.08,
+        "Mar": 3.56,
+        "Apr": 4.19,
+        "May": 4.54,
+        "Jun": 4.81,
+        "Jul": 4.85,
+        "Aug": 4.79,
+        "Sep": 4.42,
+        "Oct": 3.44,
+        "Nov": 2.94,
+        "Dec": 2.26
+      },
+      "average": 3.77
+    },
+    {
+      "name": "Taşköprü",
+      "admin1_code": "37",
+      "location": [
+        41.5098,
+        34.21414
+      ],
+      "monthly": {
+        "Jan": 2.28,
+        "Feb": 3.19,
+        "Mar": 3.82,
+        "Apr": 4.39,
+        "May": 4.69,
+        "Jun": 5,
+        "Jul": 5.38,
+        "Aug": 5.29,
+        "Sep": 4.64,
+        "Oct": 3.61,
+        "Nov": 2.91,
+        "Dec": 1.98
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Tarabya",
+      "admin1_code": "34",
+      "location": [
+        41.13361,
+        29.04639
+      ],
+      "monthly": {
+        "Jan": 1.97,
+        "Feb": 2.52,
+        "Mar": 3.36,
+        "Apr": 4.2,
+        "May": 4.8,
+        "Jun": 5.2,
+        "Jul": 5.37,
+        "Aug": 4.9,
+        "Sep": 4.09,
+        "Oct": 2.94,
+        "Nov": 2.23,
+        "Dec": 1.7
+      },
+      "average": 3.61
+    },
+    {
+      "name": "Suşehri",
+      "admin1_code": "58",
+      "location": [
+        40.16005,
+        38.08413
+      ],
+      "monthly": {
+        "Jan": 2.53,
+        "Feb": 3.35,
+        "Mar": 3.93,
+        "Apr": 4.35,
+        "May": 4.63,
+        "Jun": 5.14,
+        "Jul": 5.57,
+        "Aug": 5.51,
+        "Sep": 4.97,
+        "Oct": 3.92,
+        "Nov": 3.18,
+        "Dec": 2.36
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Sürmene",
+      "admin1_code": "61",
+      "location": [
+        40.90588,
+        40.12792
+      ],
+      "monthly": {
+        "Jan": 1.96,
+        "Feb": 2.55,
+        "Mar": 2.94,
+        "Apr": 3.41,
+        "May": 3.74,
+        "Jun": 3.71,
+        "Jul": 3.45,
+        "Aug": 3.14,
+        "Sep": 3.3,
+        "Oct": 2.76,
+        "Nov": 2.41,
+        "Dec": 1.91
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Sungurlu",
+      "admin1_code": "19",
+      "location": [
+        40.1675,
+        34.37389
+      ],
+      "monthly": {
+        "Jan": 2.4,
+        "Feb": 3.47,
+        "Mar": 4.11,
+        "Apr": 4.64,
+        "May": 4.94,
+        "Jun": 5.23,
+        "Jul": 5.55,
+        "Aug": 5.54,
+        "Sep": 5.2,
+        "Oct": 4.13,
+        "Nov": 3.3,
+        "Dec": 2.21
+      },
+      "average": 4.23
+    },
+    {
+      "name": "Suluova",
+      "admin1_code": "05",
+      "location": [
+        40.83129,
+        35.64788
+      ],
+      "monthly": {
+        "Jan": 2.4,
+        "Feb": 3.32,
+        "Mar": 3.87,
+        "Apr": 4.47,
+        "May": 4.87,
+        "Jun": 5.23,
+        "Jul": 5.51,
+        "Aug": 5.44,
+        "Sep": 4.88,
+        "Oct": 3.78,
+        "Nov": 3.08,
+        "Dec": 2.22
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Şişli",
+      "admin1_code": "34",
+      "location": [
+        41.06046,
+        28.98717
+      ],
+      "monthly": {
+        "Jan": 2.07,
+        "Feb": 2.66,
+        "Mar": 3.5,
+        "Apr": 4.36,
+        "May": 4.94,
+        "Jun": 5.31,
+        "Jul": 5.52,
+        "Aug": 5.09,
+        "Sep": 4.28,
+        "Oct": 3.12,
+        "Nov": 2.38,
+        "Dec": 1.8
+      },
+      "average": 3.75
+    },
+    {
+      "name": "Sinop",
+      "admin1_code": "57",
+      "location": [
+        42.02683,
+        35.16253
+      ],
+      "monthly": {
+        "Jan": 1.88,
+        "Feb": 2.46,
+        "Mar": 3.3,
+        "Apr": 4.08,
+        "May": 4.64,
+        "Jun": 5.24,
+        "Jul": 5.42,
+        "Aug": 5.05,
+        "Sep": 4.21,
+        "Oct": 2.98,
+        "Nov": 2.29,
+        "Dec": 1.76
+      },
+      "average": 3.61
+    },
+    {
+      "name": "Silivri",
+      "admin1_code": "34",
+      "location": [
+        41.07393,
+        28.24644
+      ],
+      "monthly": {
+        "Jan": 2.2,
+        "Feb": 2.88,
+        "Mar": 3.67,
+        "Apr": 4.5,
+        "May": 5.07,
+        "Jun": 5.36,
+        "Jul": 5.6,
+        "Aug": 5.28,
+        "Sep": 4.45,
+        "Oct": 3.33,
+        "Nov": 2.48,
+        "Dec": 1.89
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Şebin Karahisar",
+      "admin1_code": "28",
+      "location": [
+        40.28833,
+        38.42361
+      ],
+      "monthly": {
+        "Jan": 2.42,
+        "Feb": 3.29,
+        "Mar": 4.02,
+        "Apr": 4.55,
+        "May": 4.88,
+        "Jun": 5.45,
+        "Jul": 5.75,
+        "Aug": 5.76,
+        "Sep": 5.23,
+        "Oct": 4.07,
+        "Nov": 3.29,
+        "Dec": 2.44
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Sarıkamış",
+      "admin1_code": "84",
+      "location": [
+        40.32769,
+        42.58705
+      ],
+      "monthly": {
+        "Jan": 2.82,
+        "Feb": 3.56,
+        "Mar": 4.02,
+        "Apr": 4.39,
+        "May": 4.56,
+        "Jun": 5.14,
+        "Jul": 5.36,
+        "Aug": 5.39,
+        "Sep": 5.12,
+        "Oct": 4.17,
+        "Nov": 3.45,
+        "Dec": 2.52
+      },
+      "average": 4.21
+    },
+    {
+      "name": "Sapanca",
+      "admin1_code": "54",
+      "location": [
+        40.69141,
+        30.26738
+      ],
+      "monthly": {
+        "Jan": 2.07,
+        "Feb": 2.55,
+        "Mar": 3.16,
+        "Apr": 3.82,
+        "May": 4.28,
+        "Jun": 4.77,
+        "Jul": 4.94,
+        "Aug": 4.68,
+        "Sep": 4.01,
+        "Oct": 3.05,
+        "Nov": 2.51,
+        "Dec": 1.89
+      },
+      "average": 3.48
+    },
+    {
+      "name": "Samsun",
+      "admin1_code": "55",
+      "location": [
+        41.27976,
+        36.3361
+      ],
+      "monthly": {
+        "Jan": 2.16,
+        "Feb": 2.65,
+        "Mar": 3.19,
+        "Apr": 3.95,
+        "May": 4.43,
+        "Jun": 4.88,
+        "Jul": 5.02,
+        "Aug": 4.7,
+        "Sep": 4.04,
+        "Oct": 3.03,
+        "Nov": 2.64,
+        "Dec": 2.06
+      },
+      "average": 3.56
+    },
+    {
+      "name": "Safranbolu",
+      "admin1_code": "89",
+      "location": [
+        41.25083,
+        32.69417
+      ],
+      "monthly": {
+        "Jan": 2.21,
+        "Feb": 2.93,
+        "Mar": 3.58,
+        "Apr": 4.19,
+        "May": 4.55,
+        "Jun": 4.84,
+        "Jul": 5.26,
+        "Aug": 5.11,
+        "Sep": 4.43,
+        "Oct": 3.43,
+        "Nov": 2.84,
+        "Dec": 2.06
+      },
+      "average": 3.79
+    },
+    {
+      "name": "Rize",
+      "admin1_code": "53",
+      "location": [
+        41.02083,
+        40.52194
+      ],
+      "monthly": {
+        "Jan": 2.11,
+        "Feb": 2.63,
+        "Mar": 3.04,
+        "Apr": 3.53,
+        "May": 3.84,
+        "Jun": 3.82,
+        "Jul": 3.51,
+        "Aug": 3.25,
+        "Sep": 3.46,
+        "Oct": 2.93,
+        "Nov": 2.58,
+        "Dec": 2.08
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Osmaneli",
+      "admin1_code": "11",
+      "location": [
+        40.35722,
+        30.01417
+      ],
+      "monthly": {
+        "Jan": 2.21,
+        "Feb": 2.83,
+        "Mar": 3.49,
+        "Apr": 4.12,
+        "May": 4.64,
+        "Jun": 5,
+        "Jul": 5.31,
+        "Aug": 5.12,
+        "Sep": 4.48,
+        "Oct": 3.45,
+        "Nov": 2.74,
+        "Dec": 1.94
+      },
+      "average": 3.78
+    },
+    {
+      "name": "Osmancık",
+      "admin1_code": "19",
+      "location": [
+        40.97818,
+        34.8047
+      ],
+      "monthly": {
+        "Jan": 2.23,
+        "Feb": 3.21,
+        "Mar": 3.84,
+        "Apr": 4.37,
+        "May": 4.63,
+        "Jun": 4.99,
+        "Jul": 5.31,
+        "Aug": 5.23,
+        "Sep": 4.73,
+        "Oct": 3.72,
+        "Nov": 3.03,
+        "Dec": 2.05
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Orhangazi",
+      "admin1_code": "16",
+      "location": [
+        40.48917,
+        29.30889
+      ],
+      "monthly": {
+        "Jan": 2.17,
+        "Feb": 2.73,
+        "Mar": 3.48,
+        "Apr": 4.21,
+        "May": 4.79,
+        "Jun": 5.18,
+        "Jul": 5.41,
+        "Aug": 5.09,
+        "Sep": 4.35,
+        "Oct": 3.32,
+        "Nov": 2.7,
+        "Dec": 1.99
+      },
+      "average": 3.79
+    },
+    {
+      "name": "Ordu",
+      "admin1_code": "52",
+      "location": [
+        40.97782,
+        37.89047
+      ],
+      "monthly": {
+        "Jan": 2.08,
+        "Feb": 2.66,
+        "Mar": 3.06,
+        "Apr": 3.72,
+        "May": 4.24,
+        "Jun": 4.55,
+        "Jul": 4.36,
+        "Aug": 4.04,
+        "Sep": 3.73,
+        "Oct": 2.88,
+        "Nov": 2.55,
+        "Dec": 2.01
+      },
+      "average": 3.32
+    },
+    {
+      "name": "Oltu",
+      "admin1_code": "25",
+      "location": [
+        40.53945,
+        41.98722
+      ],
+      "monthly": {
+        "Jan": 2.8,
+        "Feb": 3.71,
+        "Mar": 4.02,
+        "Apr": 4.29,
+        "May": 4.64,
+        "Jun": 5.29,
+        "Jul": 5.51,
+        "Aug": 5.49,
+        "Sep": 5.21,
+        "Oct": 4.1,
+        "Nov": 3.46,
+        "Dec": 2.56
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Of",
+      "admin1_code": "61",
+      "location": [
+        40.94055,
+        40.25918
+      ],
+      "monthly": {
+        "Jan": 2.07,
+        "Feb": 2.62,
+        "Mar": 3.01,
+        "Apr": 3.46,
+        "May": 3.83,
+        "Jun": 3.89,
+        "Jul": 3.65,
+        "Aug": 3.38,
+        "Sep": 3.49,
+        "Oct": 2.88,
+        "Nov": 2.49,
+        "Dec": 2
+      },
+      "average": 3.06
+    },
+    {
+      "name": "Niksar",
+      "admin1_code": "60",
+      "location": [
+        40.59167,
+        36.95167
+      ],
+      "monthly": {
+        "Jan": 2.35,
+        "Feb": 3.07,
+        "Mar": 3.48,
+        "Apr": 4.09,
+        "May": 4.5,
+        "Jun": 4.81,
+        "Jul": 4.78,
+        "Aug": 4.75,
+        "Sep": 4.49,
+        "Oct": 3.49,
+        "Nov": 2.91,
+        "Dec": 2.21
+      },
+      "average": 3.74
+    },
+    {
+      "name": "Nallıhan",
+      "admin1_code": "68",
+      "location": [
+        40.18593,
+        31.35179
+      ],
+      "monthly": {
+        "Jan": 2.3,
+        "Feb": 3.23,
+        "Mar": 3.88,
+        "Apr": 4.37,
+        "May": 4.72,
+        "Jun": 5.05,
+        "Jul": 5.42,
+        "Aug": 5.28,
+        "Sep": 4.8,
+        "Oct": 3.84,
+        "Nov": 3.08,
+        "Dec": 2.09
+      },
+      "average": 4
+    },
+    {
+      "name": "Mustafakemalpaşa",
+      "admin1_code": "16",
+      "location": [
+        40.03815,
+        28.40866
+      ],
+      "monthly": {
+        "Jan": 2.25,
+        "Feb": 2.8,
+        "Mar": 3.56,
+        "Apr": 4.19,
+        "May": 4.79,
+        "Jun": 5.28,
+        "Jul": 5.59,
+        "Aug": 5.3,
+        "Sep": 4.57,
+        "Oct": 3.47,
+        "Nov": 2.73,
+        "Dec": 2.04
+      },
+      "average": 3.88
+    },
+    {
+      "name": "Mudanya",
+      "admin1_code": "16",
+      "location": [
+        40.37524,
+        28.8838
+      ],
+      "monthly": {
+        "Jan": 2.2,
+        "Feb": 2.74,
+        "Mar": 3.56,
+        "Apr": 4.3,
+        "May": 4.94,
+        "Jun": 5.44,
+        "Jul": 5.7,
+        "Aug": 5.38,
+        "Sep": 4.6,
+        "Oct": 3.46,
+        "Nov": 2.66,
+        "Dec": 1.96
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Mimarsinan",
+      "admin1_code": "34",
+      "location": [
+        41.01488,
+        28.56085
+      ],
+      "monthly": {
+        "Jan": 2.17,
+        "Feb": 2.78,
+        "Mar": 3.61,
+        "Apr": 4.48,
+        "May": 5.05,
+        "Jun": 5.39,
+        "Jul": 5.62,
+        "Aug": 5.26,
+        "Sep": 4.46,
+        "Oct": 3.26,
+        "Nov": 2.46,
+        "Dec": 1.86
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Merzifon",
+      "admin1_code": "05",
+      "location": [
+        40.87333,
+        35.46306
+      ],
+      "monthly": {
+        "Jan": 2.37,
+        "Feb": 3.22,
+        "Mar": 3.82,
+        "Apr": 4.43,
+        "May": 4.75,
+        "Jun": 5.1,
+        "Jul": 5.43,
+        "Aug": 5.38,
+        "Sep": 4.77,
+        "Oct": 3.71,
+        "Nov": 3.07,
+        "Dec": 2.19
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Maltepe",
+      "admin1_code": "34",
+      "location": [
+        40.93567,
+        29.15507
+      ],
+      "monthly": {
+        "Jan": 2.07,
+        "Feb": 2.69,
+        "Mar": 3.55,
+        "Apr": 4.39,
+        "May": 4.99,
+        "Jun": 5.35,
+        "Jul": 5.53,
+        "Aug": 5.15,
+        "Sep": 4.36,
+        "Oct": 3.19,
+        "Nov": 2.46,
+        "Dec": 1.85
+      },
+      "average": 3.8
+    },
+    {
+      "name": "Malkara",
+      "admin1_code": "59",
+      "location": [
+        40.89105,
+        26.90201
+      ],
+      "monthly": {
+        "Jan": 2.36,
+        "Feb": 3.09,
+        "Mar": 3.85,
+        "Apr": 4.53,
+        "May": 5.03,
+        "Jun": 5.26,
+        "Jul": 5.53,
+        "Aug": 5.32,
+        "Sep": 4.57,
+        "Oct": 3.51,
+        "Nov": 2.61,
+        "Dec": 2.04
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Lüleburgaz",
+      "admin1_code": "39",
+      "location": [
+        41.40173,
+        27.35746
+      ],
+      "monthly": {
+        "Jan": 2.22,
+        "Feb": 2.95,
+        "Mar": 3.74,
+        "Apr": 4.43,
+        "May": 4.95,
+        "Jun": 5.14,
+        "Jul": 5.38,
+        "Aug": 5.22,
+        "Sep": 4.44,
+        "Oct": 3.42,
+        "Nov": 2.45,
+        "Dec": 1.91
+      },
+      "average": 3.85
+    },
+    {
+      "name": "Kumru",
+      "admin1_code": "52",
+      "location": [
+        40.87444,
+        37.26389
+      ],
+      "monthly": {
+        "Jan": 2.21,
+        "Feb": 2.83,
+        "Mar": 3.18,
+        "Apr": 3.76,
+        "May": 4.08,
+        "Jun": 4,
+        "Jul": 3.82,
+        "Aug": 3.52,
+        "Sep": 3.46,
+        "Oct": 2.89,
+        "Nov": 2.66,
+        "Dec": 2.09
+      },
+      "average": 3.21
+    },
+    {
+      "name": "Korgan",
+      "admin1_code": "52",
+      "location": [
+        40.82472,
+        37.34667
+      ],
+      "monthly": {
+        "Jan": 2.27,
+        "Feb": 2.85,
+        "Mar": 3.21,
+        "Apr": 3.78,
+        "May": 4.1,
+        "Jun": 4.04,
+        "Jul": 3.86,
+        "Aug": 3.57,
+        "Sep": 3.54,
+        "Oct": 2.94,
+        "Nov": 2.7,
+        "Dec": 2.14
+      },
+      "average": 3.25
+    },
+    {
+      "name": "Kocaali",
+      "admin1_code": "54",
+      "location": [
+        41.05336,
+        30.85278
+      ],
+      "monthly": {
+        "Jan": 1.99,
+        "Feb": 2.57,
+        "Mar": 3.25,
+        "Apr": 3.99,
+        "May": 4.57,
+        "Jun": 5.11,
+        "Jul": 5.3,
+        "Aug": 5.03,
+        "Sep": 4.23,
+        "Oct": 3.16,
+        "Nov": 2.5,
+        "Dec": 1.9
+      },
+      "average": 3.63
+    },
+    {
+      "name": "Kızılcahamam",
+      "admin1_code": "68",
+      "location": [
+        40.46972,
+        32.65056
+      ],
+      "monthly": {
+        "Jan": 2.41,
+        "Feb": 3.24,
+        "Mar": 3.87,
+        "Apr": 4.19,
+        "May": 4.49,
+        "Jun": 4.86,
+        "Jul": 5.28,
+        "Aug": 5.18,
+        "Sep": 4.74,
+        "Oct": 3.82,
+        "Nov": 3.17,
+        "Dec": 2.21
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Kırklareli",
+      "admin1_code": "39",
+      "location": [
+        41.73508,
+        27.22521
+      ],
+      "monthly": {
+        "Jan": 2.31,
+        "Feb": 3.05,
+        "Mar": 3.79,
+        "Apr": 4.41,
+        "May": 4.93,
+        "Jun": 5.15,
+        "Jul": 5.38,
+        "Aug": 5.28,
+        "Sep": 4.54,
+        "Oct": 3.51,
+        "Nov": 2.53,
+        "Dec": 1.97
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Kestel",
+      "admin1_code": "16",
+      "location": [
+        40.19828,
+        29.21237
+      ],
+      "monthly": {
+        "Jan": 2.32,
+        "Feb": 2.83,
+        "Mar": 3.51,
+        "Apr": 4.05,
+        "May": 4.52,
+        "Jun": 4.93,
+        "Jul": 5.26,
+        "Aug": 5.02,
+        "Sep": 4.37,
+        "Oct": 3.49,
+        "Nov": 2.85,
+        "Dec": 2.09
+      },
+      "average": 3.77
+    },
+    {
+      "name": "Keşan",
+      "admin1_code": "22",
+      "location": [
+        40.85525,
+        26.63266
+      ],
+      "monthly": {
+        "Jan": 2.35,
+        "Feb": 3.11,
+        "Mar": 3.86,
+        "Apr": 4.54,
+        "May": 5.03,
+        "Jun": 5.28,
+        "Jul": 5.52,
+        "Aug": 5.32,
+        "Sep": 4.62,
+        "Oct": 3.54,
+        "Nov": 2.6,
+        "Dec": 2.06
+      },
+      "average": 3.99
+    },
+    {
+      "name": "Kelkit",
+      "admin1_code": "69",
+      "location": [
+        40.12682,
+        39.43424
+      ],
+      "monthly": {
+        "Jan": 2.43,
+        "Feb": 3.46,
+        "Mar": 4.08,
+        "Apr": 4.55,
+        "May": 4.84,
+        "Jun": 5.4,
+        "Jul": 5.65,
+        "Aug": 5.63,
+        "Sep": 5.38,
+        "Oct": 4.3,
+        "Nov": 3.55,
+        "Dec": 2.51
+      },
+      "average": 4.31
+    },
+    {
+      "name": "Kazan",
+      "admin1_code": "68",
+      "location": [
+        40.23167,
+        32.68389
+      ],
+      "monthly": {
+        "Jan": 2.5,
+        "Feb": 3.5,
+        "Mar": 4.18,
+        "Apr": 4.53,
+        "May": 4.89,
+        "Jun": 5.17,
+        "Jul": 5.55,
+        "Aug": 5.51,
+        "Sep": 5.12,
+        "Oct": 4.12,
+        "Nov": 3.4,
+        "Dec": 2.35
+      },
+      "average": 4.24
+    },
+    {
+      "name": "Kaynaşlı",
+      "admin1_code": "93",
+      "location": [
+        40.76917,
+        31.32211
+      ],
+      "monthly": {
+        "Jan": 1.99,
+        "Feb": 2.67,
+        "Mar": 3.19,
+        "Apr": 3.83,
+        "May": 4.32,
+        "Jun": 4.66,
+        "Jul": 4.87,
+        "Aug": 4.77,
+        "Sep": 4.15,
+        "Oct": 3.19,
+        "Nov": 2.53,
+        "Dec": 1.79
+      },
+      "average": 3.5
+    },
+    {
+      "name": "Kavaklı",
+      "admin1_code": "34",
+      "location": [
+        41.09258,
+        28.33172
+      ],
+      "monthly": {
+        "Jan": 2.19,
+        "Feb": 2.87,
+        "Mar": 3.71,
+        "Apr": 4.54,
+        "May": 5.1,
+        "Jun": 5.37,
+        "Jul": 5.64,
+        "Aug": 5.32,
+        "Sep": 4.49,
+        "Oct": 3.35,
+        "Nov": 2.52,
+        "Dec": 1.9
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Kastamonu",
+      "admin1_code": "37",
+      "location": [
+        41.37805,
+        33.77528
+      ],
+      "monthly": {
+        "Jan": 2.28,
+        "Feb": 3.12,
+        "Mar": 3.7,
+        "Apr": 4.23,
+        "May": 4.45,
+        "Jun": 4.78,
+        "Jul": 5.2,
+        "Aug": 5.11,
+        "Sep": 4.47,
+        "Oct": 3.54,
+        "Nov": 2.92,
+        "Dec": 2.02
+      },
+      "average": 3.82
+    },
+    {
+      "name": "Kars",
+      "admin1_code": "84",
+      "location": [
+        40.59825,
+        43.08548
+      ],
+      "monthly": {
+        "Jan": 2.83,
+        "Feb": 3.72,
+        "Mar": 4.09,
+        "Apr": 4.32,
+        "May": 4.66,
+        "Jun": 5.4,
+        "Jul": 5.53,
+        "Aug": 5.54,
+        "Sep": 5.28,
+        "Oct": 4.28,
+        "Nov": 3.61,
+        "Dec": 2.32
+      },
+      "average": 4.3
+    },
+    {
+      "name": "Karasu",
+      "admin1_code": "54",
+      "location": [
+        41.10442,
+        30.69664
+      ],
+      "monthly": {
+        "Jan": 1.97,
+        "Feb": 2.56,
+        "Mar": 3.28,
+        "Apr": 4.03,
+        "May": 4.65,
+        "Jun": 5.23,
+        "Jul": 5.43,
+        "Aug": 5.15,
+        "Sep": 4.3,
+        "Oct": 3.12,
+        "Nov": 2.42,
+        "Dec": 1.86
+      },
+      "average": 3.67
+    },
+    {
+      "name": "Karasu Mahallesi",
+      "admin1_code": "54",
+      "location": [
+        41.07096,
+        30.78543
+      ],
+      "monthly": {
+        "Jan": 1.98,
+        "Feb": 2.55,
+        "Mar": 3.26,
+        "Apr": 4.01,
+        "May": 4.61,
+        "Jun": 5.16,
+        "Jul": 5.34,
+        "Aug": 5.07,
+        "Sep": 4.25,
+        "Oct": 3.14,
+        "Nov": 2.48,
+        "Dec": 1.89
+      },
+      "average": 3.65
+    },
+    {
+      "name": "Karamürsel",
+      "admin1_code": "41",
+      "location": [
+        40.69129,
+        29.61649
+      ],
+      "monthly": {
+        "Jan": 2.02,
+        "Feb": 2.57,
+        "Mar": 3.3,
+        "Apr": 4.06,
+        "May": 4.68,
+        "Jun": 5.11,
+        "Jul": 5.33,
+        "Aug": 5.05,
+        "Sep": 4.28,
+        "Oct": 3.2,
+        "Nov": 2.48,
+        "Dec": 1.86
+      },
+      "average": 3.66
+    },
+    {
+      "name": "Karacabey",
+      "admin1_code": "16",
+      "location": [
+        40.21323,
+        28.3612
+      ],
+      "monthly": {
+        "Jan": 2.24,
+        "Feb": 2.87,
+        "Mar": 3.71,
+        "Apr": 4.37,
+        "May": 5,
+        "Jun": 5.46,
+        "Jul": 5.76,
+        "Aug": 5.47,
+        "Sep": 4.68,
+        "Oct": 3.54,
+        "Nov": 2.69,
+        "Dec": 2
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Karabük",
+      "admin1_code": "89",
+      "location": [
+        41.20488,
+        32.62768
+      ],
+      "monthly": {
+        "Jan": 2.13,
+        "Feb": 2.84,
+        "Mar": 3.51,
+        "Apr": 4.11,
+        "May": 4.51,
+        "Jun": 4.83,
+        "Jul": 5.25,
+        "Aug": 5.11,
+        "Sep": 4.4,
+        "Oct": 3.35,
+        "Nov": 2.76,
+        "Dec": 1.99
+      },
+      "average": 3.73
+    },
+    {
+      "name": "Kağızman",
+      "admin1_code": "84",
+      "location": [
+        40.15669,
+        43.13424
+      ],
+      "monthly": {
+        "Jan": 2.69,
+        "Feb": 3.46,
+        "Mar": 4.09,
+        "Apr": 4.3,
+        "May": 4.62,
+        "Jun": 5.34,
+        "Jul": 5.44,
+        "Aug": 5.41,
+        "Sep": 5.21,
+        "Oct": 4.16,
+        "Nov": 3.49,
+        "Dec": 2.5
+      },
+      "average": 4.23
+    },
+    {
+      "name": "İznik",
+      "admin1_code": "16",
+      "location": [
+        40.42861,
+        29.72111
+      ],
+      "monthly": {
+        "Jan": 2.27,
+        "Feb": 2.82,
+        "Mar": 3.5,
+        "Apr": 4.18,
+        "May": 4.74,
+        "Jun": 5.18,
+        "Jul": 5.46,
+        "Aug": 5.22,
+        "Sep": 4.49,
+        "Oct": 3.42,
+        "Nov": 2.76,
+        "Dec": 2.06
+      },
+      "average": 3.84
+    },
+    {
+      "name": "İzmit",
+      "admin1_code": "41",
+      "location": [
+        40.76499,
+        29.92928
+      ],
+      "monthly": {
+        "Jan": 2.06,
+        "Feb": 2.61,
+        "Mar": 3.27,
+        "Apr": 4.04,
+        "May": 4.59,
+        "Jun": 4.97,
+        "Jul": 5.12,
+        "Aug": 4.82,
+        "Sep": 4.1,
+        "Oct": 3.05,
+        "Nov": 2.46,
+        "Dec": 1.88
+      },
+      "average": 3.58
+    },
+    {
+      "name": "İstinye",
+      "admin1_code": "34",
+      "location": [
+        41.11008,
+        29.05094
+      ],
+      "monthly": {
+        "Jan": 1.98,
+        "Feb": 2.54,
+        "Mar": 3.38,
+        "Apr": 4.22,
+        "May": 4.8,
+        "Jun": 5.2,
+        "Jul": 5.39,
+        "Aug": 4.95,
+        "Sep": 4.13,
+        "Oct": 2.98,
+        "Nov": 2.26,
+        "Dec": 1.72
+      },
+      "average": 3.63
+    },
+    {
+      "name": "Istanbul",
+      "admin1_code": "34",
+      "location": [
+        41.01384,
+        28.94966
+      ],
+      "monthly": {
+        "Jan": 2.11,
+        "Feb": 2.71,
+        "Mar": 3.55,
+        "Apr": 4.42,
+        "May": 5,
+        "Jun": 5.33,
+        "Jul": 5.53,
+        "Aug": 5.13,
+        "Sep": 4.34,
+        "Oct": 3.17,
+        "Nov": 2.42,
+        "Dec": 1.83
+      },
+      "average": 3.8
+    },
+    {
+      "name": "İskilip",
+      "admin1_code": "19",
+      "location": [
+        40.73528,
+        34.47389
+      ],
+      "monthly": {
+        "Jan": 2.11,
+        "Feb": 3.15,
+        "Mar": 3.85,
+        "Apr": 4.42,
+        "May": 4.74,
+        "Jun": 5.05,
+        "Jul": 5.41,
+        "Aug": 5.38,
+        "Sep": 4.82,
+        "Oct": 3.8,
+        "Nov": 3,
+        "Dec": 1.9
+      },
+      "average": 3.97
+    },
+    {
+      "name": "İnegol",
+      "admin1_code": "16",
+      "location": [
+        40.07806,
+        29.51333
+      ],
+      "monthly": {
+        "Jan": 2.32,
+        "Feb": 2.9,
+        "Mar": 3.56,
+        "Apr": 4.12,
+        "May": 4.56,
+        "Jun": 4.97,
+        "Jul": 5.31,
+        "Aug": 5.1,
+        "Sep": 4.45,
+        "Oct": 3.49,
+        "Nov": 2.86,
+        "Dec": 2.07
+      },
+      "average": 3.81
+    },
+    {
+      "name": "Horasan",
+      "admin1_code": "25",
+      "location": [
+        40.03885,
+        42.16366
+      ],
+      "monthly": {
+        "Jan": 2.41,
+        "Feb": 3.36,
+        "Mar": 4.15,
+        "Apr": 4.53,
+        "May": 4.93,
+        "Jun": 5.59,
+        "Jul": 5.67,
+        "Aug": 5.68,
+        "Sep": 5.58,
+        "Oct": 4.52,
+        "Nov": 3.82,
+        "Dec": 2.34
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Hopa",
+      "admin1_code": "08",
+      "location": [
+        41.39046,
+        41.41966
+      ],
+      "monthly": {
+        "Jan": 2.06,
+        "Feb": 2.56,
+        "Mar": 2.93,
+        "Apr": 3.44,
+        "May": 3.79,
+        "Jun": 3.64,
+        "Jul": 3.28,
+        "Aug": 3.09,
+        "Sep": 3.32,
+        "Oct": 2.88,
+        "Nov": 2.45,
+        "Dec": 1.96
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Hendek",
+      "admin1_code": "54",
+      "location": [
+        40.79944,
+        30.74806
+      ],
+      "monthly": {
+        "Jan": 2.1,
+        "Feb": 2.67,
+        "Mar": 3.25,
+        "Apr": 3.89,
+        "May": 4.43,
+        "Jun": 4.84,
+        "Jul": 5.02,
+        "Aug": 4.82,
+        "Sep": 4.16,
+        "Oct": 3.15,
+        "Nov": 2.6,
+        "Dec": 1.98
+      },
+      "average": 3.58
+    },
+    {
+      "name": "Hayrabolu",
+      "admin1_code": "59",
+      "location": [
+        41.21311,
+        27.10688
+      ],
+      "monthly": {
+        "Jan": 2.25,
+        "Feb": 3.01,
+        "Mar": 3.79,
+        "Apr": 4.45,
+        "May": 4.96,
+        "Jun": 5.16,
+        "Jul": 5.42,
+        "Aug": 5.21,
+        "Sep": 4.47,
+        "Oct": 3.4,
+        "Nov": 2.49,
+        "Dec": 1.96
+      },
+      "average": 3.88
+    },
+    {
+      "name": "Havza",
+      "admin1_code": "55",
+      "location": [
+        40.97056,
+        35.66222
+      ],
+      "monthly": {
+        "Jan": 2.31,
+        "Feb": 3.13,
+        "Mar": 3.6,
+        "Apr": 4.3,
+        "May": 4.61,
+        "Jun": 4.95,
+        "Jul": 5.16,
+        "Aug": 5.03,
+        "Sep": 4.48,
+        "Oct": 3.48,
+        "Nov": 2.92,
+        "Dec": 2.14
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Gürsu",
+      "admin1_code": "16",
+      "location": [
+        40.21876,
+        29.19487
+      ],
+      "monthly": {
+        "Jan": 2.34,
+        "Feb": 2.85,
+        "Mar": 3.53,
+        "Apr": 4.1,
+        "May": 4.6,
+        "Jun": 5.05,
+        "Jul": 5.35,
+        "Aug": 5.1,
+        "Sep": 4.42,
+        "Oct": 3.49,
+        "Nov": 2.84,
+        "Dec": 2.12
+      },
+      "average": 3.82
+    },
+    {
+      "name": "Gürpınar",
+      "admin1_code": "34",
+      "location": [
+        40.99256,
+        28.61428
+      ],
+      "monthly": {
+        "Jan": 2.18,
+        "Feb": 2.79,
+        "Mar": 3.66,
+        "Apr": 4.53,
+        "May": 5.09,
+        "Jun": 5.44,
+        "Jul": 5.66,
+        "Aug": 5.28,
+        "Sep": 4.49,
+        "Oct": 3.29,
+        "Nov": 2.49,
+        "Dec": 1.88
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Gürgentepe",
+      "admin1_code": "52",
+      "location": [
+        40.78995,
+        37.60073
+      ],
+      "monthly": {
+        "Jan": 2.38,
+        "Feb": 2.99,
+        "Mar": 3.35,
+        "Apr": 3.91,
+        "May": 4.26,
+        "Jun": 4.14,
+        "Jul": 3.84,
+        "Aug": 3.56,
+        "Sep": 3.62,
+        "Oct": 3.02,
+        "Nov": 2.8,
+        "Dec": 2.26
+      },
+      "average": 3.34
+    },
+    {
+      "name": "Gümüşhane",
+      "admin1_code": "69",
+      "location": [
+        40.46001,
+        39.47176
+      ],
+      "monthly": {
+        "Jan": 2.18,
+        "Feb": 3.2,
+        "Mar": 3.81,
+        "Apr": 4.26,
+        "May": 4.55,
+        "Jun": 5.19,
+        "Jul": 5.62,
+        "Aug": 5.52,
+        "Sep": 4.99,
+        "Oct": 3.88,
+        "Nov": 2.96,
+        "Dec": 2.11
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Görükle",
+      "admin1_code": "16",
+      "location": [
+        40.23114,
+        28.84017
+      ],
+      "monthly": {
+        "Jan": 2.31,
+        "Feb": 2.85,
+        "Mar": 3.64,
+        "Apr": 4.31,
+        "May": 4.88,
+        "Jun": 5.36,
+        "Jul": 5.64,
+        "Aug": 5.39,
+        "Sep": 4.67,
+        "Oct": 3.6,
+        "Nov": 2.82,
+        "Dec": 2.09
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Görele",
+      "admin1_code": "28",
+      "location": [
+        41.03083,
+        39.00306
+      ],
+      "monthly": {
+        "Jan": 2.04,
+        "Feb": 2.58,
+        "Mar": 3.05,
+        "Apr": 3.67,
+        "May": 4.03,
+        "Jun": 4.01,
+        "Jul": 3.75,
+        "Aug": 3.26,
+        "Sep": 3.32,
+        "Oct": 2.78,
+        "Nov": 2.49,
+        "Dec": 1.97
+      },
+      "average": 3.08
+    },
+    {
+      "name": "Gönen",
+      "admin1_code": "10",
+      "location": [
+        40.1049,
+        27.65399
+      ],
+      "monthly": {
+        "Jan": 2.16,
+        "Feb": 2.73,
+        "Mar": 3.51,
+        "Apr": 4.23,
+        "May": 4.86,
+        "Jun": 5.26,
+        "Jul": 5.49,
+        "Aug": 5.07,
+        "Sep": 4.32,
+        "Oct": 3.2,
+        "Nov": 2.46,
+        "Dec": 1.89
+      },
+      "average": 3.77
+    },
+    {
+      "name": "Gölcük",
+      "admin1_code": "41",
+      "location": [
+        40.71501,
+        29.81824
+      ],
+      "monthly": {
+        "Jan": 2.05,
+        "Feb": 2.58,
+        "Mar": 3.27,
+        "Apr": 4.03,
+        "May": 4.57,
+        "Jun": 4.96,
+        "Jul": 5.09,
+        "Aug": 4.8,
+        "Sep": 4.11,
+        "Oct": 3.08,
+        "Nov": 2.48,
+        "Dec": 1.88
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Giresun",
+      "admin1_code": "28",
+      "location": [
+        40.91698,
+        38.38741
+      ],
+      "monthly": {
+        "Jan": 2.05,
+        "Feb": 2.59,
+        "Mar": 3.02,
+        "Apr": 3.59,
+        "May": 4.02,
+        "Jun": 4.25,
+        "Jul": 4.1,
+        "Aug": 3.78,
+        "Sep": 3.58,
+        "Oct": 2.82,
+        "Nov": 2.49,
+        "Dec": 1.98
+      },
+      "average": 3.19
+    },
+    {
+      "name": "Geyve",
+      "admin1_code": "54",
+      "location": [
+        40.5075,
+        30.2925
+      ],
+      "monthly": {
+        "Jan": 2.2,
+        "Feb": 2.82,
+        "Mar": 3.49,
+        "Apr": 4.16,
+        "May": 4.69,
+        "Jun": 5.12,
+        "Jul": 5.43,
+        "Aug": 5.25,
+        "Sep": 4.53,
+        "Oct": 3.44,
+        "Nov": 2.74,
+        "Dec": 2.01
+      },
+      "average": 3.82
+    },
+    {
+      "name": "Gerede",
+      "admin1_code": "14",
+      "location": [
+        40.80083,
+        32.19694
+      ],
+      "monthly": {
+        "Jan": 2.35,
+        "Feb": 3,
+        "Mar": 3.7,
+        "Apr": 4.27,
+        "May": 4.6,
+        "Jun": 4.94,
+        "Jul": 5.51,
+        "Aug": 5.45,
+        "Sep": 4.71,
+        "Oct": 3.73,
+        "Nov": 3.1,
+        "Dec": 2.26
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Gemlik",
+      "admin1_code": "16",
+      "location": [
+        40.43094,
+        29.15969
+      ],
+      "monthly": {
+        "Jan": 2.22,
+        "Feb": 2.76,
+        "Mar": 3.55,
+        "Apr": 4.24,
+        "May": 4.85,
+        "Jun": 5.3,
+        "Jul": 5.55,
+        "Aug": 5.26,
+        "Sep": 4.5,
+        "Oct": 3.44,
+        "Nov": 2.72,
+        "Dec": 2
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Gelibolu",
+      "admin1_code": "17",
+      "location": [
+        40.40836,
+        26.67174
+      ],
+      "monthly": {
+        "Jan": 2.33,
+        "Feb": 2.98,
+        "Mar": 3.82,
+        "Apr": 4.59,
+        "May": 5.17,
+        "Jun": 5.55,
+        "Jul": 5.74,
+        "Aug": 5.51,
+        "Sep": 4.7,
+        "Oct": 3.47,
+        "Nov": 2.56,
+        "Dec": 1.98
+      },
+      "average": 4.03
+    },
+    {
+      "name": "Gebze",
+      "admin1_code": "41",
+      "location": [
+        40.80276,
+        29.43068
+      ],
+      "monthly": {
+        "Jan": 2.15,
+        "Feb": 2.74,
+        "Mar": 3.54,
+        "Apr": 4.31,
+        "May": 4.88,
+        "Jun": 5.23,
+        "Jul": 5.41,
+        "Aug": 5.05,
+        "Sep": 4.33,
+        "Oct": 3.24,
+        "Nov": 2.59,
+        "Dec": 1.97
+      },
+      "average": 3.79
+    },
+    {
+      "name": "Ferizli",
+      "admin1_code": "54",
+      "location": [
+        40.94082,
+        30.48583
+      ],
+      "monthly": {
+        "Jan": 2.03,
+        "Feb": 2.61,
+        "Mar": 3.27,
+        "Apr": 3.99,
+        "May": 4.55,
+        "Jun": 5.01,
+        "Jul": 5.26,
+        "Aug": 4.99,
+        "Sep": 4.21,
+        "Oct": 3.16,
+        "Nov": 2.53,
+        "Dec": 1.94
+      },
+      "average": 3.63
+    },
+    {
+      "name": "Fatsa",
+      "admin1_code": "52",
+      "location": [
+        41.02886,
+        37.49977
+      ],
+      "monthly": {
+        "Jan": 2.08,
+        "Feb": 2.65,
+        "Mar": 3.08,
+        "Apr": 3.78,
+        "May": 4.28,
+        "Jun": 4.57,
+        "Jul": 4.41,
+        "Aug": 4.09,
+        "Sep": 3.79,
+        "Oct": 2.9,
+        "Nov": 2.55,
+        "Dec": 2.02
+      },
+      "average": 3.35
+    },
+    {
+      "name": "Esenyurt",
+      "admin1_code": "34",
+      "location": [
+        41.02697,
+        28.67732
+      ],
+      "monthly": {
+        "Jan": 2.18,
+        "Feb": 2.77,
+        "Mar": 3.65,
+        "Apr": 4.51,
+        "May": 5.06,
+        "Jun": 5.38,
+        "Jul": 5.59,
+        "Aug": 5.19,
+        "Sep": 4.43,
+        "Oct": 3.25,
+        "Nov": 2.52,
+        "Dec": 1.91
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Esenler",
+      "admin1_code": "34",
+      "location": [
+        41.0435,
+        28.87619
+      ],
+      "monthly": {
+        "Jan": 2.14,
+        "Feb": 2.73,
+        "Mar": 3.58,
+        "Apr": 4.41,
+        "May": 4.97,
+        "Jun": 5.3,
+        "Jul": 5.51,
+        "Aug": 5.11,
+        "Sep": 4.34,
+        "Oct": 3.19,
+        "Nov": 2.46,
+        "Dec": 1.87
+      },
+      "average": 3.8
+    },
+    {
+      "name": "Ereğli",
+      "admin1_code": "85",
+      "location": [
+        41.28261,
+        31.41806
+      ],
+      "monthly": {
+        "Jan": 1.94,
+        "Feb": 2.6,
+        "Mar": 3.35,
+        "Apr": 4.07,
+        "May": 4.72,
+        "Jun": 5.22,
+        "Jul": 5.47,
+        "Aug": 5.23,
+        "Sep": 4.41,
+        "Oct": 3.29,
+        "Nov": 2.52,
+        "Dec": 1.84
+      },
+      "average": 3.72
+    },
+    {
+      "name": "Erdek",
+      "admin1_code": "10",
+      "location": [
+        40.3996,
+        27.79348
+      ],
+      "monthly": {
+        "Jan": 2.09,
+        "Feb": 2.69,
+        "Mar": 3.56,
+        "Apr": 4.39,
+        "May": 5.04,
+        "Jun": 5.48,
+        "Jul": 5.72,
+        "Aug": 5.36,
+        "Sep": 4.54,
+        "Oct": 3.2,
+        "Nov": 2.39,
+        "Dec": 1.77
+      },
+      "average": 3.85
+    },
+    {
+      "name": "Erbaa",
+      "admin1_code": "60",
+      "location": [
+        40.66889,
+        36.5675
+      ],
+      "monthly": {
+        "Jan": 2.34,
+        "Feb": 3.04,
+        "Mar": 3.54,
+        "Apr": 4.14,
+        "May": 4.51,
+        "Jun": 4.81,
+        "Jul": 4.8,
+        "Aug": 4.74,
+        "Sep": 4.44,
+        "Oct": 3.47,
+        "Nov": 2.94,
+        "Dec": 2.23
+      },
+      "average": 3.75
+    },
+    {
+      "name": "Eminönü",
+      "admin1_code": "34",
+      "location": [
+        41.01754,
+        28.97101
+      ],
+      "monthly": {
+        "Jan": 2.08,
+        "Feb": 2.68,
+        "Mar": 3.51,
+        "Apr": 4.38,
+        "May": 4.98,
+        "Jun": 5.32,
+        "Jul": 5.53,
+        "Aug": 5.11,
+        "Sep": 4.31,
+        "Oct": 3.14,
+        "Nov": 2.38,
+        "Dec": 1.81
+      },
+      "average": 3.77
+    },
+    {
+      "name": "Edirne",
+      "admin1_code": "22",
+      "location": [
+        41.67719,
+        26.55597
+      ],
+      "monthly": {
+        "Jan": 2.27,
+        "Feb": 3.1,
+        "Mar": 3.79,
+        "Apr": 4.4,
+        "May": 4.9,
+        "Jun": 5.1,
+        "Jul": 5.31,
+        "Aug": 5.17,
+        "Sep": 4.48,
+        "Oct": 3.43,
+        "Nov": 2.48,
+        "Dec": 1.96
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Düzce",
+      "admin1_code": "93",
+      "location": [
+        40.83889,
+        31.16389
+      ],
+      "monthly": {
+        "Jan": 2.09,
+        "Feb": 2.76,
+        "Mar": 3.32,
+        "Apr": 3.99,
+        "May": 4.49,
+        "Jun": 4.88,
+        "Jul": 5.13,
+        "Aug": 4.97,
+        "Sep": 4.25,
+        "Oct": 3.22,
+        "Nov": 2.62,
+        "Dec": 1.91
+      },
+      "average": 3.64
+    },
+    {
+      "name": "Devrek",
+      "admin1_code": "85",
+      "location": [
+        41.21917,
+        31.95583
+      ],
+      "monthly": {
+        "Jan": 2.04,
+        "Feb": 2.68,
+        "Mar": 3.28,
+        "Apr": 4.01,
+        "May": 4.45,
+        "Jun": 4.76,
+        "Jul": 5.07,
+        "Aug": 4.9,
+        "Sep": 4.19,
+        "Oct": 3.26,
+        "Nov": 2.67,
+        "Dec": 1.92
+      },
+      "average": 3.6
+    },
+    {
+      "name": "Derince",
+      "admin1_code": "41",
+      "location": [
+        40.75694,
+        29.81472
+      ],
+      "monthly": {
+        "Jan": 2.07,
+        "Feb": 2.62,
+        "Mar": 3.3,
+        "Apr": 4.09,
+        "May": 4.65,
+        "Jun": 5.02,
+        "Jul": 5.15,
+        "Aug": 4.84,
+        "Sep": 4.12,
+        "Oct": 3.07,
+        "Nov": 2.46,
+        "Dec": 1.88
+      },
+      "average": 3.61
+    },
+    {
+      "name": "Çubuk",
+      "admin1_code": "68",
+      "location": [
+        40.23861,
+        33.03222
+      ],
+      "monthly": {
+        "Jan": 2.52,
+        "Feb": 3.49,
+        "Mar": 4.18,
+        "Apr": 4.52,
+        "May": 4.82,
+        "Jun": 5.12,
+        "Jul": 5.48,
+        "Aug": 5.46,
+        "Sep": 5.09,
+        "Oct": 4.12,
+        "Nov": 3.43,
+        "Dec": 2.36
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Çorum",
+      "admin1_code": "19",
+      "location": [
+        40.54889,
+        34.95333
+      ],
+      "monthly": {
+        "Jan": 2.44,
+        "Feb": 3.37,
+        "Mar": 3.95,
+        "Apr": 4.5,
+        "May": 4.82,
+        "Jun": 5.14,
+        "Jul": 5.44,
+        "Aug": 5.4,
+        "Sep": 4.95,
+        "Oct": 3.9,
+        "Nov": 3.19,
+        "Dec": 2.22
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Çorlu",
+      "admin1_code": "59",
+      "location": [
+        41.16069,
+        27.80093
+      ],
+      "monthly": {
+        "Jan": 2.29,
+        "Feb": 3,
+        "Mar": 3.76,
+        "Apr": 4.53,
+        "May": 5.03,
+        "Jun": 5.21,
+        "Jul": 5.49,
+        "Aug": 5.26,
+        "Sep": 4.45,
+        "Oct": 3.4,
+        "Nov": 2.54,
+        "Dec": 1.99
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Çerkezköy",
+      "admin1_code": "59",
+      "location": [
+        41.28629,
+        27.99939
+      ],
+      "monthly": {
+        "Jan": 2.21,
+        "Feb": 2.89,
+        "Mar": 3.68,
+        "Apr": 4.52,
+        "May": 5.03,
+        "Jun": 5.27,
+        "Jul": 5.55,
+        "Aug": 5.29,
+        "Sep": 4.43,
+        "Oct": 3.31,
+        "Nov": 2.45,
+        "Dec": 1.91
+      },
+      "average": 3.88
+    },
+    {
+      "name": "Çerkeş",
+      "admin1_code": "82",
+      "location": [
+        40.81164,
+        32.89358
+      ],
+      "monthly": {
+        "Jan": 2.5,
+        "Feb": 3.28,
+        "Mar": 3.94,
+        "Apr": 4.38,
+        "May": 4.6,
+        "Jun": 4.97,
+        "Jul": 5.43,
+        "Aug": 5.34,
+        "Sep": 4.77,
+        "Oct": 3.83,
+        "Nov": 3.24,
+        "Dec": 2.34
+      },
+      "average": 4.05
+    },
+    {
+      "name": "Çayeli",
+      "admin1_code": "53",
+      "location": [
+        41.08609,
+        40.72213
+      ],
+      "monthly": {
+        "Jan": 2.13,
+        "Feb": 2.63,
+        "Mar": 2.99,
+        "Apr": 3.47,
+        "May": 3.79,
+        "Jun": 3.73,
+        "Jul": 3.4,
+        "Aug": 3.16,
+        "Sep": 3.39,
+        "Oct": 2.91,
+        "Nov": 2.55,
+        "Dec": 2.09
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Çaycuma",
+      "admin1_code": "85",
+      "location": [
+        41.42639,
+        32.07556
+      ],
+      "monthly": {
+        "Jan": 2.03,
+        "Feb": 2.67,
+        "Mar": 3.33,
+        "Apr": 4.12,
+        "May": 4.65,
+        "Jun": 5,
+        "Jul": 5.31,
+        "Aug": 5.07,
+        "Sep": 4.28,
+        "Oct": 3.29,
+        "Nov": 2.69,
+        "Dec": 1.95
+      },
+      "average": 3.7
+    },
+    {
+      "name": "Çatalca",
+      "admin1_code": "34",
+      "location": [
+        41.14073,
+        28.45967
+      ],
+      "monthly": {
+        "Jan": 2.02,
+        "Feb": 2.65,
+        "Mar": 3.52,
+        "Apr": 4.39,
+        "May": 4.93,
+        "Jun": 5.24,
+        "Jul": 5.49,
+        "Aug": 5.06,
+        "Sep": 4.26,
+        "Oct": 3.11,
+        "Nov": 2.33,
+        "Dec": 1.77
+      },
+      "average": 3.73
+    },
+    {
+      "name": "Çarşamba",
+      "admin1_code": "55",
+      "location": [
+        41.19889,
+        36.72194
+      ],
+      "monthly": {
+        "Jan": 2.16,
+        "Feb": 2.69,
+        "Mar": 3.22,
+        "Apr": 3.96,
+        "May": 4.42,
+        "Jun": 4.78,
+        "Jul": 4.76,
+        "Aug": 4.41,
+        "Sep": 3.92,
+        "Oct": 2.99,
+        "Nov": 2.63,
+        "Dec": 2.09
+      },
+      "average": 3.5
+    },
+    {
+      "name": "Çankırı",
+      "admin1_code": "82",
+      "location": [
+        40.59995,
+        33.6153
+      ],
+      "monthly": {
+        "Jan": 2.37,
+        "Feb": 3.44,
+        "Mar": 4.15,
+        "Apr": 4.46,
+        "May": 4.74,
+        "Jun": 5.06,
+        "Jul": 5.4,
+        "Aug": 5.35,
+        "Sep": 4.96,
+        "Oct": 3.99,
+        "Nov": 3.29,
+        "Dec": 2.17
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Çanakkale",
+      "admin1_code": "17",
+      "location": [
+        40.15552,
+        26.41271
+      ],
+      "monthly": {
+        "Jan": 2.49,
+        "Feb": 3.2,
+        "Mar": 4,
+        "Apr": 4.71,
+        "May": 5.25,
+        "Jun": 5.59,
+        "Jul": 5.78,
+        "Aug": 5.62,
+        "Sep": 4.9,
+        "Oct": 3.73,
+        "Nov": 2.76,
+        "Dec": 2.1
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Çan",
+      "admin1_code": "17",
+      "location": [
+        40.03328,
+        27.05236
+      ],
+      "monthly": {
+        "Jan": 2.24,
+        "Feb": 2.82,
+        "Mar": 3.66,
+        "Apr": 4.36,
+        "May": 4.94,
+        "Jun": 5.34,
+        "Jul": 5.62,
+        "Aug": 5.3,
+        "Sep": 4.53,
+        "Oct": 3.31,
+        "Nov": 2.5,
+        "Dec": 1.94
+      },
+      "average": 3.88
+    },
+    {
+      "name": "Bursa",
+      "admin1_code": "16",
+      "location": [
+        40.19559,
+        29.06013
+      ],
+      "monthly": {
+        "Jan": 2.28,
+        "Feb": 2.83,
+        "Mar": 3.52,
+        "Apr": 4.12,
+        "May": 4.64,
+        "Jun": 5.11,
+        "Jul": 5.41,
+        "Aug": 5.18,
+        "Sep": 4.49,
+        "Oct": 3.54,
+        "Nov": 2.84,
+        "Dec": 2.08
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Bulancak",
+      "admin1_code": "28",
+      "location": [
+        40.93805,
+        38.23148
+      ],
+      "monthly": {
+        "Jan": 2.07,
+        "Feb": 2.63,
+        "Mar": 3.05,
+        "Apr": 3.64,
+        "May": 4.11,
+        "Jun": 4.4,
+        "Jul": 4.26,
+        "Aug": 3.93,
+        "Sep": 3.67,
+        "Oct": 2.86,
+        "Nov": 2.53,
+        "Dec": 1.99
+      },
+      "average": 3.26
+    },
+    {
+      "name": "Boyabat",
+      "admin1_code": "57",
+      "location": [
+        41.46889,
+        34.76667
+      ],
+      "monthly": {
+        "Jan": 2.21,
+        "Feb": 3.07,
+        "Mar": 3.59,
+        "Apr": 4.17,
+        "May": 4.48,
+        "Jun": 4.81,
+        "Jul": 5.17,
+        "Aug": 5.01,
+        "Sep": 4.39,
+        "Oct": 3.4,
+        "Nov": 2.81,
+        "Dec": 1.97
+      },
+      "average": 3.76
+    },
+    {
+      "name": "Bolu",
+      "admin1_code": "14",
+      "location": [
+        40.73583,
+        31.60611
+      ],
+      "monthly": {
+        "Jan": 2.29,
+        "Feb": 2.96,
+        "Mar": 3.58,
+        "Apr": 4.14,
+        "May": 4.52,
+        "Jun": 4.81,
+        "Jul": 5.2,
+        "Aug": 5.13,
+        "Sep": 4.44,
+        "Oct": 3.47,
+        "Nov": 2.92,
+        "Dec": 2.14
+      },
+      "average": 3.8
+    },
+    {
+      "name": "Bilecik",
+      "admin1_code": "11",
+      "location": [
+        40.14192,
+        29.97932
+      ],
+      "monthly": {
+        "Jan": 2.41,
+        "Feb": 2.97,
+        "Mar": 3.58,
+        "Apr": 4.13,
+        "May": 4.6,
+        "Jun": 5.02,
+        "Jul": 5.34,
+        "Aug": 5.14,
+        "Sep": 4.54,
+        "Oct": 3.58,
+        "Nov": 2.94,
+        "Dec": 2.18
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Biga",
+      "admin1_code": "17",
+      "location": [
+        40.22806,
+        27.24222
+      ],
+      "monthly": {
+        "Jan": 2.24,
+        "Feb": 2.81,
+        "Mar": 3.65,
+        "Apr": 4.39,
+        "May": 4.97,
+        "Jun": 5.37,
+        "Jul": 5.62,
+        "Aug": 5.32,
+        "Sep": 4.49,
+        "Oct": 3.27,
+        "Nov": 2.48,
+        "Dec": 1.93
+      },
+      "average": 3.88
+    },
+    {
+      "name": "Beypazarı",
+      "admin1_code": "68",
+      "location": [
+        40.1675,
+        31.92111
+      ],
+      "monthly": {
+        "Jan": 2.5,
+        "Feb": 3.51,
+        "Mar": 4.18,
+        "Apr": 4.62,
+        "May": 4.96,
+        "Jun": 5.22,
+        "Jul": 5.55,
+        "Aug": 5.5,
+        "Sep": 5.06,
+        "Oct": 4.07,
+        "Nov": 3.32,
+        "Dec": 2.31
+      },
+      "average": 4.23
+    },
+    {
+      "name": "Beşikdüzü",
+      "admin1_code": "61",
+      "location": [
+        41.05202,
+        39.23294
+      ],
+      "monthly": {
+        "Jan": 2.11,
+        "Feb": 2.65,
+        "Mar": 3.1,
+        "Apr": 3.65,
+        "May": 4.01,
+        "Jun": 4.01,
+        "Jul": 3.77,
+        "Aug": 3.32,
+        "Sep": 3.35,
+        "Oct": 2.87,
+        "Nov": 2.56,
+        "Dec": 2.08
+      },
+      "average": 3.12
+    },
+    {
+      "name": "Bayburt",
+      "admin1_code": "77",
+      "location": [
+        40.25631,
+        40.22289
+      ],
+      "monthly": {
+        "Jan": 2.47,
+        "Feb": 3.35,
+        "Mar": 4.1,
+        "Apr": 4.52,
+        "May": 4.85,
+        "Jun": 5.5,
+        "Jul": 5.76,
+        "Aug": 5.71,
+        "Sep": 5.45,
+        "Oct": 4.37,
+        "Nov": 3.55,
+        "Dec": 2.4
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Bartın",
+      "admin1_code": "87",
+      "location": [
+        41.63583,
+        32.3375
+      ],
+      "monthly": {
+        "Jan": 1.99,
+        "Feb": 2.7,
+        "Mar": 3.41,
+        "Apr": 4.2,
+        "May": 4.79,
+        "Jun": 5.15,
+        "Jul": 5.42,
+        "Aug": 5.16,
+        "Sep": 4.37,
+        "Oct": 3.31,
+        "Nov": 2.62,
+        "Dec": 1.93
+      },
+      "average": 3.75
+    },
+    {
+      "name": "Bandırma",
+      "admin1_code": "10",
+      "location": [
+        40.35222,
+        27.97667
+      ],
+      "monthly": {
+        "Jan": 2.08,
+        "Feb": 2.68,
+        "Mar": 3.53,
+        "Apr": 4.3,
+        "May": 4.97,
+        "Jun": 5.44,
+        "Jul": 5.7,
+        "Aug": 5.37,
+        "Sep": 4.56,
+        "Oct": 3.24,
+        "Nov": 2.41,
+        "Dec": 1.78
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Bağcılar",
+      "admin1_code": "34",
+      "location": [
+        41.03903,
+        28.85671
+      ],
+      "monthly": {
+        "Jan": 2.15,
+        "Feb": 2.75,
+        "Mar": 3.6,
+        "Apr": 4.43,
+        "May": 4.99,
+        "Jun": 5.31,
+        "Jul": 5.53,
+        "Aug": 5.12,
+        "Sep": 4.36,
+        "Oct": 3.2,
+        "Nov": 2.47,
+        "Dec": 1.88
+      },
+      "average": 3.82
+    },
+    {
+      "name": "Bafra",
+      "admin1_code": "55",
+      "location": [
+        41.56787,
+        35.90311
+      ],
+      "monthly": {
+        "Jan": 2.13,
+        "Feb": 2.67,
+        "Mar": 3.37,
+        "Apr": 4.14,
+        "May": 4.61,
+        "Jun": 5.08,
+        "Jul": 5.26,
+        "Aug": 4.9,
+        "Sep": 4.16,
+        "Oct": 3.11,
+        "Nov": 2.65,
+        "Dec": 2.06
+      },
+      "average": 3.68
+    },
+    {
+      "name": "Babaeski",
+      "admin1_code": "39",
+      "location": [
+        41.42809,
+        27.0966
+      ],
+      "monthly": {
+        "Jan": 2.25,
+        "Feb": 3.04,
+        "Mar": 3.8,
+        "Apr": 4.44,
+        "May": 4.95,
+        "Jun": 5.11,
+        "Jul": 5.36,
+        "Aug": 5.2,
+        "Sep": 4.49,
+        "Oct": 3.47,
+        "Nov": 2.48,
+        "Dec": 1.94
+      },
+      "average": 3.88
+    },
+    {
+      "name": "Artvin",
+      "admin1_code": "08",
+      "location": [
+        41.18161,
+        41.82172
+      ],
+      "monthly": {
+        "Jan": 2.21,
+        "Feb": 3.05,
+        "Mar": 3.39,
+        "Apr": 3.9,
+        "May": 4.3,
+        "Jun": 4.6,
+        "Jul": 4.59,
+        "Aug": 4.63,
+        "Sep": 4.32,
+        "Oct": 3.41,
+        "Nov": 2.57,
+        "Dec": 1.9
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Arsin",
+      "admin1_code": "61",
+      "location": [
+        40.95271,
+        39.92674
+      ],
+      "monthly": {
+        "Jan": 2.15,
+        "Feb": 2.66,
+        "Mar": 3.02,
+        "Apr": 3.48,
+        "May": 3.84,
+        "Jun": 3.94,
+        "Jul": 3.74,
+        "Aug": 3.39,
+        "Sep": 3.43,
+        "Oct": 2.87,
+        "Nov": 2.57,
+        "Dec": 2.09
+      },
+      "average": 3.1
+    },
+    {
+      "name": "Arnavutköy",
+      "admin1_code": "34",
+      "location": [
+        41.18355,
+        28.7402
+      ],
+      "monthly": {
+        "Jan": 2.05,
+        "Feb": 2.62,
+        "Mar": 3.5,
+        "Apr": 4.34,
+        "May": 4.91,
+        "Jun": 5.26,
+        "Jul": 5.45,
+        "Aug": 5,
+        "Sep": 4.23,
+        "Oct": 3.08,
+        "Nov": 2.35,
+        "Dec": 1.79
+      },
+      "average": 3.71
+    },
+    {
+      "name": "Arhavi",
+      "admin1_code": "08",
+      "location": [
+        41.35121,
+        41.30456
+      ],
+      "monthly": {
+        "Jan": 2.13,
+        "Feb": 2.59,
+        "Mar": 2.96,
+        "Apr": 3.46,
+        "May": 3.84,
+        "Jun": 3.75,
+        "Jul": 3.38,
+        "Aug": 3.17,
+        "Sep": 3.36,
+        "Oct": 2.89,
+        "Nov": 2.5,
+        "Dec": 2.07
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Ardeşen",
+      "admin1_code": "53",
+      "location": [
+        41.19064,
+        40.97935
+      ],
+      "monthly": {
+        "Jan": 2.2,
+        "Feb": 2.66,
+        "Mar": 3.02,
+        "Apr": 3.52,
+        "May": 3.89,
+        "Jun": 3.89,
+        "Jul": 3.54,
+        "Aug": 3.34,
+        "Sep": 3.52,
+        "Oct": 2.97,
+        "Nov": 2.61,
+        "Dec": 2.16
+      },
+      "average": 3.11
+    },
+    {
+      "name": "Ardahan",
+      "admin1_code": "86",
+      "location": [
+        41.10871,
+        42.70222
+      ],
+      "monthly": {
+        "Jan": 2.8,
+        "Feb": 3.65,
+        "Mar": 3.94,
+        "Apr": 4.45,
+        "May": 4.65,
+        "Jun": 5.12,
+        "Jul": 5.35,
+        "Aug": 5.37,
+        "Sep": 5.11,
+        "Oct": 4.25,
+        "Nov": 3.33,
+        "Dec": 2.18
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Araklı",
+      "admin1_code": "61",
+      "location": [
+        40.93854,
+        40.05842
+      ],
+      "monthly": {
+        "Jan": 2.22,
+        "Feb": 2.75,
+        "Mar": 3.09,
+        "Apr": 3.54,
+        "May": 3.92,
+        "Jun": 4.06,
+        "Jul": 3.88,
+        "Aug": 3.58,
+        "Sep": 3.6,
+        "Oct": 2.95,
+        "Nov": 2.64,
+        "Dec": 2.18
+      },
+      "average": 3.2
+    },
+    {
+      "name": "Amasya",
+      "admin1_code": "05",
+      "location": [
+        40.65333,
+        35.83306
+      ],
+      "monthly": {
+        "Jan": 2.23,
+        "Feb": 3.1,
+        "Mar": 3.68,
+        "Apr": 4.34,
+        "May": 4.73,
+        "Jun": 5.05,
+        "Jul": 5.26,
+        "Aug": 5.19,
+        "Sep": 4.74,
+        "Oct": 3.64,
+        "Nov": 2.84,
+        "Dec": 2.02
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Alaplı",
+      "admin1_code": "85",
+      "location": [
+        41.1814,
+        31.38514
+      ],
+      "monthly": {
+        "Jan": 1.96,
+        "Feb": 2.59,
+        "Mar": 3.28,
+        "Apr": 3.98,
+        "May": 4.62,
+        "Jun": 5.18,
+        "Jul": 5.43,
+        "Aug": 5.21,
+        "Sep": 4.4,
+        "Oct": 3.28,
+        "Nov": 2.56,
+        "Dec": 1.87
+      },
+      "average": 3.7
+    },
+    {
+      "name": "Alaca",
+      "admin1_code": "19",
+      "location": [
+        40.16833,
+        34.8425
+      ],
+      "monthly": {
+        "Jan": 2.49,
+        "Feb": 3.4,
+        "Mar": 3.98,
+        "Apr": 4.55,
+        "May": 4.83,
+        "Jun": 5.2,
+        "Jul": 5.49,
+        "Aug": 5.52,
+        "Sep": 5.04,
+        "Oct": 3.96,
+        "Nov": 3.22,
+        "Dec": 2.27
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Akyurt",
+      "admin1_code": "68",
+      "location": [
+        40.13512,
+        33.08614
+      ],
+      "monthly": {
+        "Jan": 2.57,
+        "Feb": 3.5,
+        "Mar": 4.2,
+        "Apr": 4.58,
+        "May": 4.9,
+        "Jun": 5.18,
+        "Jul": 5.58,
+        "Aug": 5.59,
+        "Sep": 5.19,
+        "Oct": 4.19,
+        "Nov": 3.44,
+        "Dec": 2.37
+      },
+      "average": 4.27
+    },
+    {
+      "name": "Akyazı",
+      "admin1_code": "54",
+      "location": [
+        40.685,
+        30.62222
+      ],
+      "monthly": {
+        "Jan": 2.14,
+        "Feb": 2.65,
+        "Mar": 3.23,
+        "Apr": 3.84,
+        "May": 4.35,
+        "Jun": 4.85,
+        "Jul": 5.07,
+        "Aug": 4.89,
+        "Sep": 4.2,
+        "Oct": 3.19,
+        "Nov": 2.64,
+        "Dec": 1.98
+      },
+      "average": 3.59
+    },
+    {
+      "name": "Akhisar",
+      "admin1_code": "16",
+      "location": [
+        40.11825,
+        29.46623
+      ],
+      "monthly": {
+        "Jan": 2.31,
+        "Feb": 2.87,
+        "Mar": 3.55,
+        "Apr": 4.07,
+        "May": 4.54,
+        "Jun": 4.92,
+        "Jul": 5.27,
+        "Aug": 5.03,
+        "Sep": 4.38,
+        "Oct": 3.45,
+        "Nov": 2.83,
+        "Dec": 2.06
+      },
+      "average": 3.77
+    },
+    {
+      "name": "Akçakoca",
+      "admin1_code": "93",
+      "location": [
+        41.08935,
+        31.12362
+      ],
+      "monthly": {
+        "Jan": 1.95,
+        "Feb": 2.55,
+        "Mar": 3.24,
+        "Apr": 3.91,
+        "May": 4.53,
+        "Jun": 5.12,
+        "Jul": 5.37,
+        "Aug": 5.14,
+        "Sep": 4.32,
+        "Oct": 3.21,
+        "Nov": 2.49,
+        "Dec": 1.85
+      },
+      "average": 3.64
+    },
+    {
+      "name": "Akçaabat",
+      "admin1_code": "61",
+      "location": [
+        41.02121,
+        39.57146
+      ],
+      "monthly": {
+        "Jan": 2.13,
+        "Feb": 2.68,
+        "Mar": 3.07,
+        "Apr": 3.6,
+        "May": 4,
+        "Jun": 4.2,
+        "Jul": 4.07,
+        "Aug": 3.72,
+        "Sep": 3.6,
+        "Oct": 2.94,
+        "Nov": 2.59,
+        "Dec": 2.07
+      },
+      "average": 3.22
+    },
+    {
+      "name": "Adapazarı",
+      "admin1_code": "54",
+      "location": [
+        40.78056,
+        30.40333
+      ],
+      "monthly": {
+        "Jan": 2.09,
+        "Feb": 2.63,
+        "Mar": 3.28,
+        "Apr": 3.95,
+        "May": 4.47,
+        "Jun": 4.94,
+        "Jul": 5.19,
+        "Aug": 4.95,
+        "Sep": 4.2,
+        "Oct": 3.18,
+        "Nov": 2.59,
+        "Dec": 1.97
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Espiye",
+      "admin1_code": "28",
+      "location": [
+        40.94705,
+        38.70299
+      ],
+      "monthly": {
+        "Jan": 2.11,
+        "Feb": 2.63,
+        "Mar": 3.06,
+        "Apr": 3.66,
+        "May": 4.06,
+        "Jun": 4.16,
+        "Jul": 3.95,
+        "Aug": 3.59,
+        "Sep": 3.52,
+        "Oct": 2.87,
+        "Nov": 2.56,
+        "Dec": 2.04
+      },
+      "average": 3.18
+    },
+    {
+      "name": "Merter Keresteciler",
+      "admin1_code": "34",
+      "location": [
+        41.01295,
+        28.88593
+      ],
+      "monthly": {
+        "Jan": 2.16,
+        "Feb": 2.76,
+        "Mar": 3.61,
+        "Apr": 4.46,
+        "May": 5.02,
+        "Jun": 5.34,
+        "Jul": 5.54,
+        "Aug": 5.14,
+        "Sep": 4.36,
+        "Oct": 3.21,
+        "Nov": 2.47,
+        "Dec": 1.88
+      },
+      "average": 3.83
+    },
+    {
+      "name": "Güngören Merter",
+      "admin1_code": "34",
+      "location": [
+        41.00711,
+        28.88795
+      ],
+      "monthly": {
+        "Jan": 2.14,
+        "Feb": 2.74,
+        "Mar": 3.59,
+        "Apr": 4.45,
+        "May": 5.02,
+        "Jun": 5.34,
+        "Jul": 5.53,
+        "Aug": 5.13,
+        "Sep": 4.35,
+        "Oct": 3.19,
+        "Nov": 2.45,
+        "Dec": 1.86
+      },
+      "average": 3.82
+    },
+    {
+      "name": "Turgutreis",
+      "admin1_code": "48",
+      "location": [
+        37.01667,
+        27.26667
+      ],
+      "monthly": {
+        "Jan": 3.05,
+        "Feb": 3.79,
+        "Mar": 4.63,
+        "Apr": 5.18,
+        "May": 5.58,
+        "Jun": 5.93,
+        "Jul": 6,
+        "Aug": 5.89,
+        "Sep": 5.47,
+        "Oct": 4.57,
+        "Nov": 3.54,
+        "Dec": 2.82
+      },
+      "average": 4.7
+    },
+    {
+      "name": "Sarigerme",
+      "admin1_code": "48",
+      "location": [
+        36.71549,
+        28.70436
+      ],
+      "monthly": {
+        "Jan": 3.05,
+        "Feb": 3.75,
+        "Mar": 4.56,
+        "Apr": 4.99,
+        "May": 5.42,
+        "Jun": 5.74,
+        "Jul": 5.79,
+        "Aug": 5.66,
+        "Sep": 5.34,
+        "Oct": 4.4,
+        "Nov": 3.49,
+        "Dec": 2.78
+      },
+      "average": 4.58
+    },
+    {
+      "name": "Ataşehir",
+      "admin1_code": "34",
+      "location": [
+        40.9833,
+        29.1167
+      ],
+      "monthly": {
+        "Jan": 2.12,
+        "Feb": 2.74,
+        "Mar": 3.6,
+        "Apr": 4.43,
+        "May": 5.03,
+        "Jun": 5.37,
+        "Jul": 5.56,
+        "Aug": 5.17,
+        "Sep": 4.39,
+        "Oct": 3.23,
+        "Nov": 2.49,
+        "Dec": 1.89
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Başakşehir",
+      "admin1_code": "34",
+      "location": [
+        41.106,
+        28.791
+      ],
+      "monthly": {
+        "Jan": 2.08,
+        "Feb": 2.65,
+        "Mar": 3.53,
+        "Apr": 4.38,
+        "May": 4.94,
+        "Jun": 5.3,
+        "Jul": 5.51,
+        "Aug": 5.09,
+        "Sep": 4.31,
+        "Oct": 3.15,
+        "Nov": 2.4,
+        "Dec": 1.81
+      },
+      "average": 3.76
+    },
+    {
+      "name": "Beylikdüzü",
+      "admin1_code": "34",
+      "location": [
+        40.982,
+        28.6399
+      ],
+      "monthly": {
+        "Jan": 2.19,
+        "Feb": 2.81,
+        "Mar": 3.69,
+        "Apr": 4.56,
+        "May": 5.12,
+        "Jun": 5.46,
+        "Jul": 5.66,
+        "Aug": 5.28,
+        "Sep": 4.49,
+        "Oct": 3.3,
+        "Nov": 2.51,
+        "Dec": 1.9
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Büyükçekmece",
+      "admin1_code": "34",
+      "location": [
+        41.02072,
+        28.58502
+      ],
+      "monthly": {
+        "Jan": 2.16,
+        "Feb": 2.76,
+        "Mar": 3.62,
+        "Apr": 4.49,
+        "May": 5.06,
+        "Jun": 5.41,
+        "Jul": 5.64,
+        "Aug": 5.25,
+        "Sep": 4.45,
+        "Oct": 3.25,
+        "Nov": 2.46,
+        "Dec": 1.85
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Çankaya",
+      "admin1_code": "68",
+      "location": [
+        39.9179,
+        32.86268
+      ],
+      "monthly": {
+        "Jan": 2.54,
+        "Feb": 3.4,
+        "Mar": 4.07,
+        "Apr": 4.49,
+        "May": 4.86,
+        "Jun": 5.18,
+        "Jul": 5.6,
+        "Aug": 5.54,
+        "Sep": 5.1,
+        "Oct": 4.06,
+        "Nov": 3.31,
+        "Dec": 2.34
+      },
+      "average": 4.21
+    },
+    {
+      "name": "Yakınca",
+      "admin1_code": "44",
+      "location": [
+        38.30533,
+        38.23828
+      ],
+      "monthly": {
+        "Jan": 2.52,
+        "Feb": 3.53,
+        "Mar": 4.26,
+        "Apr": 4.72,
+        "May": 5.15,
+        "Jun": 5.7,
+        "Jul": 5.9,
+        "Aug": 5.82,
+        "Sep": 5.64,
+        "Oct": 4.57,
+        "Nov": 3.6,
+        "Dec": 2.59
+      },
+      "average": 4.5
+    },
+    {
+      "name": "Bahçelievler",
+      "admin1_code": "34",
+      "location": [
+        41.00231,
+        28.8598
+      ],
+      "monthly": {
+        "Jan": 2.16,
+        "Feb": 2.77,
+        "Mar": 3.62,
+        "Apr": 4.47,
+        "May": 5.04,
+        "Jun": 5.36,
+        "Jul": 5.55,
+        "Aug": 5.16,
+        "Sep": 4.38,
+        "Oct": 3.22,
+        "Nov": 2.47,
+        "Dec": 1.88
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Sultangazi",
+      "admin1_code": "34",
+      "location": [
+        41.10652,
+        28.86847
+      ],
+      "monthly": {
+        "Jan": 2.07,
+        "Feb": 2.63,
+        "Mar": 3.5,
+        "Apr": 4.35,
+        "May": 4.92,
+        "Jun": 5.29,
+        "Jul": 5.5,
+        "Aug": 5.05,
+        "Sep": 4.25,
+        "Oct": 3.09,
+        "Nov": 2.37,
+        "Dec": 1.8
+      },
+      "average": 3.73
+    },
+    {
+      "name": "Sultanbeyli",
+      "admin1_code": "34",
+      "location": [
+        40.96072,
+        29.27067
+      ],
+      "monthly": {
+        "Jan": 2.07,
+        "Feb": 2.68,
+        "Mar": 3.51,
+        "Apr": 4.31,
+        "May": 4.9,
+        "Jun": 5.24,
+        "Jul": 5.44,
+        "Aug": 5.07,
+        "Sep": 4.29,
+        "Oct": 3.15,
+        "Nov": 2.47,
+        "Dec": 1.84
+      },
+      "average": 3.75
+    },
+    {
+      "name": "Sancaktepe",
+      "admin1_code": "34",
+      "location": [
+        41.00244,
+        29.23187
+      ],
+      "monthly": {
+        "Jan": 2.05,
+        "Feb": 2.66,
+        "Mar": 3.48,
+        "Apr": 4.32,
+        "May": 4.91,
+        "Jun": 5.27,
+        "Jul": 5.47,
+        "Aug": 5.07,
+        "Sep": 4.28,
+        "Oct": 3.12,
+        "Nov": 2.44,
+        "Dec": 1.85
+      },
+      "average": 3.74
+    },
+    {
+      "name": "Karabağlar",
+      "admin1_code": "35",
+      "location": [
+        38.382,
+        27.132
+      ],
+      "monthly": {
+        "Jan": 3.01,
+        "Feb": 3.54,
+        "Mar": 4.36,
+        "Apr": 4.82,
+        "May": 5.24,
+        "Jun": 5.56,
+        "Jul": 5.78,
+        "Aug": 5.64,
+        "Sep": 5.18,
+        "Oct": 4.34,
+        "Nov": 3.4,
+        "Dec": 2.71
+      },
+      "average": 4.46
+    },
+    {
+      "name": "İncirli",
+      "admin1_code": "68",
+      "location": [
+        39.98431,
+        32.84317
+      ],
+      "monthly": {
+        "Jan": 2.58,
+        "Feb": 3.48,
+        "Mar": 4.16,
+        "Apr": 4.59,
+        "May": 4.97,
+        "Jun": 5.25,
+        "Jul": 5.64,
+        "Aug": 5.58,
+        "Sep": 5.18,
+        "Oct": 4.13,
+        "Nov": 3.37,
+        "Dec": 2.38
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Oba",
+      "admin1_code": "07",
+      "location": [
+        36.55013,
+        32.0596
+      ],
+      "monthly": {
+        "Jan": 3.01,
+        "Feb": 3.79,
+        "Mar": 4.49,
+        "Apr": 4.81,
+        "May": 5.27,
+        "Jun": 5.6,
+        "Jul": 5.59,
+        "Aug": 5.41,
+        "Sep": 5.23,
+        "Oct": 4.41,
+        "Nov": 3.59,
+        "Dec": 2.83
+      },
+      "average": 4.5
+    },
+    {
+      "name": "Cikcilli",
+      "admin1_code": "07",
+      "location": [
+        36.55403,
+        32.02962
+      ],
+      "monthly": {
+        "Jan": 3.04,
+        "Feb": 3.82,
+        "Mar": 4.53,
+        "Apr": 4.85,
+        "May": 5.29,
+        "Jun": 5.63,
+        "Jul": 5.61,
+        "Aug": 5.41,
+        "Sep": 5.24,
+        "Oct": 4.43,
+        "Nov": 3.61,
+        "Dec": 2.86
+      },
+      "average": 4.53
+    },
+    {
+      "name": "Muratpaşa",
+      "admin1_code": "07",
+      "location": [
+        36.89157,
+        30.76498
+      ],
+      "monthly": {
+        "Jan": 3.32,
+        "Feb": 4.05,
+        "Mar": 4.67,
+        "Apr": 5,
+        "May": 5.27,
+        "Jun": 5.55,
+        "Jul": 5.62,
+        "Aug": 5.55,
+        "Sep": 5.3,
+        "Oct": 4.53,
+        "Nov": 3.77,
+        "Dec": 3.11
+      },
+      "average": 4.64
+    },
+    {
+      "name": "Çubuklu",
+      "admin1_code": "34",
+      "location": [
+        41.10419,
+        29.08331
+      ],
+      "monthly": {
+        "Jan": 1.97,
+        "Feb": 2.54,
+        "Mar": 3.38,
+        "Apr": 4.23,
+        "May": 4.82,
+        "Jun": 5.22,
+        "Jul": 5.41,
+        "Aug": 4.96,
+        "Sep": 4.14,
+        "Oct": 2.98,
+        "Nov": 2.25,
+        "Dec": 1.7
+      },
+      "average": 3.63
+    },
+    {
+      "name": "Ataşehir",
+      "admin1_code": "35",
+      "location": [
+        38.48855,
+        27.06132
+      ],
+      "monthly": {
+        "Jan": 3.02,
+        "Feb": 3.57,
+        "Mar": 4.41,
+        "Apr": 4.84,
+        "May": 5.28,
+        "Jun": 5.61,
+        "Jul": 5.81,
+        "Aug": 5.68,
+        "Sep": 5.24,
+        "Oct": 4.33,
+        "Nov": 3.42,
+        "Dec": 2.75
+      },
+      "average": 4.5
+    },
+    {
+      "name": "Bostanlı",
+      "admin1_code": "35",
+      "location": [
+        38.45921,
+        27.09732
+      ],
+      "monthly": {
+        "Jan": 2.94,
+        "Feb": 3.46,
+        "Mar": 4.31,
+        "Apr": 4.78,
+        "May": 5.24,
+        "Jun": 5.59,
+        "Jul": 5.8,
+        "Aug": 5.63,
+        "Sep": 5.17,
+        "Oct": 4.25,
+        "Nov": 3.31,
+        "Dec": 2.65
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Şemikler",
+      "admin1_code": "35",
+      "location": [
+        38.47497,
+        27.09591
+      ],
+      "monthly": {
+        "Jan": 2.97,
+        "Feb": 3.49,
+        "Mar": 4.34,
+        "Apr": 4.79,
+        "May": 5.24,
+        "Jun": 5.59,
+        "Jul": 5.8,
+        "Aug": 5.64,
+        "Sep": 5.19,
+        "Oct": 4.28,
+        "Nov": 3.35,
+        "Dec": 2.68
+      },
+      "average": 4.45
+    },
+    {
+      "name": "Nilüfer",
+      "admin1_code": "16",
+      "location": [
+        40.21401,
+        28.91567
+      ],
+      "monthly": {
+        "Jan": 2.31,
+        "Feb": 2.84,
+        "Mar": 3.58,
+        "Apr": 4.24,
+        "May": 4.79,
+        "Jun": 5.26,
+        "Jul": 5.56,
+        "Aug": 5.31,
+        "Sep": 4.61,
+        "Oct": 3.58,
+        "Nov": 2.85,
+        "Dec": 2.12
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Merkezefendi",
+      "admin1_code": "20",
+      "location": [
+        37.80544,
+        29.04236
+      ],
+      "monthly": {
+        "Jan": 3.01,
+        "Feb": 3.66,
+        "Mar": 4.23,
+        "Apr": 4.6,
+        "May": 4.94,
+        "Jun": 5.32,
+        "Jul": 5.57,
+        "Aug": 5.43,
+        "Sep": 5.15,
+        "Oct": 4.33,
+        "Nov": 3.57,
+        "Dec": 2.79
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Altınşehir",
+      "admin1_code": "02",
+      "location": [
+        37.74121,
+        38.22897
+      ],
+      "monthly": {
+        "Jan": 3.05,
+        "Feb": 3.79,
+        "Mar": 4.54,
+        "Apr": 5.03,
+        "May": 5.4,
+        "Jun": 5.81,
+        "Jul": 5.9,
+        "Aug": 5.84,
+        "Sep": 5.73,
+        "Oct": 4.69,
+        "Nov": 3.8,
+        "Dec": 3.16
+      },
+      "average": 4.73
+    }
+  ]
+}

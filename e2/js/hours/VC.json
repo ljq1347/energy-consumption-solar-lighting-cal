@@ -1,0 +1,52 @@
+{
+  "country": "VC",
+  "countryCode": "VC",
+  "cities": [
+    {
+      "name": "Kingstown",
+      "admin1_code": "04",
+      "location": [
+        13.15527,
+        -61.22742
+      ],
+      "monthly": {
+        "Jan": 4.78,
+        "Feb": 5.13,
+        "Mar": 5.23,
+        "Apr": 5.03,
+        "May": 4.79,
+        "Jun": 4.4,
+        "Jul": 4.52,
+        "Aug": 4.73,
+        "Sep": 4.9,
+        "Oct": 4.59,
+        "Nov": 4.44,
+        "Dec": 4.58
+      },
+      "average": 4.76
+    },
+    {
+      "name": "Calliaqua",
+      "admin1_code": "04",
+      "location": [
+        13.12867,
+        -61.19178
+      ],
+      "monthly": {
+        "Jan": 4.82,
+        "Feb": 5.19,
+        "Mar": 5.3,
+        "Apr": 5.09,
+        "May": 4.81,
+        "Jun": 4.42,
+        "Jul": 4.55,
+        "Aug": 4.77,
+        "Sep": 4.95,
+        "Oct": 4.63,
+        "Nov": 4.46,
+        "Dec": 4.62
+      },
+      "average": 4.8
+    }
+  ]
+}

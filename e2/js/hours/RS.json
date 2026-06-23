@@ -1,0 +1,1156 @@
+{
+  "country": "Serbia",
+  "countryCode": "RS",
+  "cities": [
+    {
+      "name": "Zrenjanin",
+      "admin1_code": "VO",
+      "location": [
+        45.38361,
+        20.38194
+      ],
+      "monthly": {
+        "Jan": 1.81,
+        "Feb": 2.79,
+        "Mar": 3.8,
+        "Apr": 4.27,
+        "May": 4.61,
+        "Jun": 4.88,
+        "Jul": 4.98,
+        "Aug": 4.82,
+        "Sep": 3.95,
+        "Oct": 3.32,
+        "Nov": 2.21,
+        "Dec": 1.54
+      },
+      "average": 3.58
+    },
+    {
+      "name": "Zemun",
+      "admin1_code": "SE",
+      "location": [
+        44.8458,
+        20.40116
+      ],
+      "monthly": {
+        "Jan": 1.85,
+        "Feb": 2.83,
+        "Mar": 3.77,
+        "Apr": 4.18,
+        "May": 4.54,
+        "Jun": 4.82,
+        "Jul": 4.96,
+        "Aug": 4.8,
+        "Sep": 3.94,
+        "Oct": 3.26,
+        "Nov": 2.2,
+        "Dec": 1.6
+      },
+      "average": 3.56
+    },
+    {
+      "name": "Zaječar",
+      "admin1_code": "SE",
+      "location": [
+        43.90358,
+        22.26405
+      ],
+      "monthly": {
+        "Jan": 2.1,
+        "Feb": 2.89,
+        "Mar": 3.66,
+        "Apr": 4.13,
+        "May": 4.5,
+        "Jun": 4.88,
+        "Jul": 5.04,
+        "Aug": 4.88,
+        "Sep": 3.97,
+        "Oct": 3.15,
+        "Nov": 2.01,
+        "Dec": 1.8
+      },
+      "average": 3.58
+    },
+    {
+      "name": "Vršac",
+      "admin1_code": "VO",
+      "location": [
+        45.11667,
+        21.30361
+      ],
+      "monthly": {
+        "Jan": 1.82,
+        "Feb": 2.8,
+        "Mar": 3.77,
+        "Apr": 4.2,
+        "May": 4.53,
+        "Jun": 4.83,
+        "Jul": 4.93,
+        "Aug": 4.8,
+        "Sep": 3.9,
+        "Oct": 3.27,
+        "Nov": 2.21,
+        "Dec": 1.58
+      },
+      "average": 3.55
+    },
+    {
+      "name": "Vranje",
+      "admin1_code": "SE",
+      "location": [
+        42.55139,
+        21.90028
+      ],
+      "monthly": {
+        "Jan": 2.21,
+        "Feb": 3.08,
+        "Mar": 3.78,
+        "Apr": 4.07,
+        "May": 4.43,
+        "Jun": 4.94,
+        "Jul": 5.16,
+        "Aug": 4.99,
+        "Sep": 4.14,
+        "Oct": 3.46,
+        "Nov": 2.42,
+        "Dec": 1.87
+      },
+      "average": 3.71
+    },
+    {
+      "name": "Trstenik",
+      "admin1_code": "SE",
+      "location": [
+        43.61694,
+        21.0025
+      ],
+      "monthly": {
+        "Jan": 2.05,
+        "Feb": 2.81,
+        "Mar": 3.58,
+        "Apr": 3.92,
+        "May": 4.26,
+        "Jun": 4.69,
+        "Jul": 4.88,
+        "Aug": 4.78,
+        "Sep": 3.89,
+        "Oct": 3.19,
+        "Nov": 2.25,
+        "Dec": 1.72
+      },
+      "average": 3.5
+    },
+    {
+      "name": "Stara Pazova",
+      "admin1_code": "VO",
+      "location": [
+        44.985,
+        20.16083
+      ],
+      "monthly": {
+        "Jan": 1.81,
+        "Feb": 2.79,
+        "Mar": 3.81,
+        "Apr": 4.23,
+        "May": 4.57,
+        "Jun": 4.86,
+        "Jul": 4.97,
+        "Aug": 4.79,
+        "Sep": 3.96,
+        "Oct": 3.3,
+        "Nov": 2.21,
+        "Dec": 1.58
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Sremčica",
+      "admin1_code": "SE",
+      "location": [
+        44.67653,
+        20.39232
+      ],
+      "monthly": {
+        "Jan": 1.92,
+        "Feb": 2.82,
+        "Mar": 3.76,
+        "Apr": 4.15,
+        "May": 4.51,
+        "Jun": 4.77,
+        "Jul": 4.9,
+        "Aug": 4.75,
+        "Sep": 3.92,
+        "Oct": 3.28,
+        "Nov": 2.23,
+        "Dec": 1.64
+      },
+      "average": 3.55
+    },
+    {
+      "name": "Smederevska Palanka",
+      "admin1_code": "SE",
+      "location": [
+        44.36548,
+        20.95885
+      ],
+      "monthly": {
+        "Jan": 1.93,
+        "Feb": 2.87,
+        "Mar": 3.74,
+        "Apr": 4.17,
+        "May": 4.46,
+        "Jun": 4.77,
+        "Jul": 4.92,
+        "Aug": 4.8,
+        "Sep": 3.93,
+        "Oct": 3.26,
+        "Nov": 2.28,
+        "Dec": 1.68
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Smederevo",
+      "admin1_code": "SE",
+      "location": [
+        44.66436,
+        20.92763
+      ],
+      "monthly": {
+        "Jan": 1.85,
+        "Feb": 2.79,
+        "Mar": 3.75,
+        "Apr": 4.17,
+        "May": 4.5,
+        "Jun": 4.81,
+        "Jul": 4.96,
+        "Aug": 4.8,
+        "Sep": 3.89,
+        "Oct": 3.24,
+        "Nov": 2.2,
+        "Dec": 1.59
+      },
+      "average": 3.55
+    },
+    {
+      "name": "Senta",
+      "admin1_code": "VO",
+      "location": [
+        45.9275,
+        20.07722
+      ],
+      "monthly": {
+        "Jan": 1.8,
+        "Feb": 2.74,
+        "Mar": 3.81,
+        "Apr": 4.34,
+        "May": 4.62,
+        "Jun": 4.87,
+        "Jul": 4.96,
+        "Aug": 4.84,
+        "Sep": 3.97,
+        "Oct": 3.29,
+        "Nov": 2.12,
+        "Dec": 1.5
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Prokuplje",
+      "admin1_code": "SE",
+      "location": [
+        43.23417,
+        21.58806
+      ],
+      "monthly": {
+        "Jan": 2.13,
+        "Feb": 2.93,
+        "Mar": 3.67,
+        "Apr": 4.04,
+        "May": 4.36,
+        "Jun": 4.78,
+        "Jul": 4.95,
+        "Aug": 4.86,
+        "Sep": 3.99,
+        "Oct": 3.32,
+        "Nov": 2.37,
+        "Dec": 1.75
+      },
+      "average": 3.6
+    },
+    {
+      "name": "Požarevac",
+      "admin1_code": "SE",
+      "location": [
+        44.62133,
+        21.18782
+      ],
+      "monthly": {
+        "Jan": 1.89,
+        "Feb": 2.82,
+        "Mar": 3.8,
+        "Apr": 4.22,
+        "May": 4.54,
+        "Jun": 4.84,
+        "Jul": 4.99,
+        "Aug": 4.85,
+        "Sep": 3.93,
+        "Oct": 3.26,
+        "Nov": 2.25,
+        "Dec": 1.63
+      },
+      "average": 3.59
+    },
+    {
+      "name": "Pirot",
+      "admin1_code": "SE",
+      "location": [
+        43.15306,
+        22.58611
+      ],
+      "monthly": {
+        "Jan": 2.12,
+        "Feb": 2.96,
+        "Mar": 3.71,
+        "Apr": 4,
+        "May": 4.34,
+        "Jun": 4.78,
+        "Jul": 4.98,
+        "Aug": 4.85,
+        "Sep": 4.04,
+        "Oct": 3.41,
+        "Nov": 2.41,
+        "Dec": 1.82
+      },
+      "average": 3.62
+    },
+    {
+      "name": "Pančevo",
+      "admin1_code": "VO",
+      "location": [
+        44.87177,
+        20.64167
+      ],
+      "monthly": {
+        "Jan": 1.83,
+        "Feb": 2.83,
+        "Mar": 3.8,
+        "Apr": 4.22,
+        "May": 4.6,
+        "Jun": 4.89,
+        "Jul": 5.03,
+        "Aug": 4.86,
+        "Sep": 3.97,
+        "Oct": 3.28,
+        "Nov": 2.19,
+        "Dec": 1.58
+      },
+      "average": 3.59
+    },
+    {
+      "name": "Obrenovac",
+      "admin1_code": "SE",
+      "location": [
+        44.65486,
+        20.20017
+      ],
+      "monthly": {
+        "Jan": 1.86,
+        "Feb": 2.8,
+        "Mar": 3.73,
+        "Apr": 4.16,
+        "May": 4.52,
+        "Jun": 4.8,
+        "Jul": 4.94,
+        "Aug": 4.78,
+        "Sep": 3.95,
+        "Oct": 3.25,
+        "Nov": 2.19,
+        "Dec": 1.64
+      },
+      "average": 3.55
+    },
+    {
+      "name": "Novi Pazar",
+      "admin1_code": "SE",
+      "location": [
+        43.13667,
+        20.51222
+      ],
+      "monthly": {
+        "Jan": 2.37,
+        "Feb": 3.1,
+        "Mar": 3.73,
+        "Apr": 3.94,
+        "May": 4.27,
+        "Jun": 4.71,
+        "Jul": 4.89,
+        "Aug": 4.82,
+        "Sep": 3.96,
+        "Oct": 3.4,
+        "Nov": 2.49,
+        "Dec": 2.03
+      },
+      "average": 3.64
+    },
+    {
+      "name": "Nova Pazova",
+      "admin1_code": "VO",
+      "location": [
+        44.94366,
+        20.21931
+      ],
+      "monthly": {
+        "Jan": 1.8,
+        "Feb": 2.8,
+        "Mar": 3.82,
+        "Apr": 4.22,
+        "May": 4.57,
+        "Jun": 4.86,
+        "Jul": 4.99,
+        "Aug": 4.79,
+        "Sep": 3.96,
+        "Oct": 3.3,
+        "Nov": 2.21,
+        "Dec": 1.57
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Niš",
+      "admin1_code": "SE",
+      "location": [
+        43.32472,
+        21.90333
+      ],
+      "monthly": {
+        "Jan": 2.06,
+        "Feb": 2.92,
+        "Mar": 3.78,
+        "Apr": 4.17,
+        "May": 4.5,
+        "Jun": 4.94,
+        "Jul": 5.08,
+        "Aug": 4.94,
+        "Sep": 4.07,
+        "Oct": 3.38,
+        "Nov": 2.36,
+        "Dec": 1.74
+      },
+      "average": 3.66
+    },
+    {
+      "name": "Negotin",
+      "admin1_code": "SE",
+      "location": [
+        44.22639,
+        22.53083
+      ],
+      "monthly": {
+        "Jan": 2.12,
+        "Feb": 2.92,
+        "Mar": 3.82,
+        "Apr": 4.28,
+        "May": 4.66,
+        "Jun": 4.99,
+        "Jul": 5.14,
+        "Aug": 4.94,
+        "Sep": 4.05,
+        "Oct": 3.23,
+        "Nov": 2.02,
+        "Dec": 1.8
+      },
+      "average": 3.66
+    },
+    {
+      "name": "Leskovac",
+      "admin1_code": "SE",
+      "location": [
+        42.99806,
+        21.94611
+      ],
+      "monthly": {
+        "Jan": 2.06,
+        "Feb": 2.9,
+        "Mar": 3.74,
+        "Apr": 4.14,
+        "May": 4.47,
+        "Jun": 4.91,
+        "Jul": 5.08,
+        "Aug": 4.95,
+        "Sep": 4.06,
+        "Oct": 3.39,
+        "Nov": 2.35,
+        "Dec": 1.72
+      },
+      "average": 3.65
+    },
+    {
+      "name": "Lazarevac",
+      "admin1_code": "SE",
+      "location": [
+        44.38534,
+        20.2557
+      ],
+      "monthly": {
+        "Jan": 1.93,
+        "Feb": 2.81,
+        "Mar": 3.67,
+        "Apr": 4.13,
+        "May": 4.48,
+        "Jun": 4.76,
+        "Jul": 4.91,
+        "Aug": 4.75,
+        "Sep": 3.91,
+        "Oct": 3.26,
+        "Nov": 2.25,
+        "Dec": 1.71
+      },
+      "average": 3.55
+    },
+    {
+      "name": "Kruševac",
+      "admin1_code": "SE",
+      "location": [
+        43.58,
+        21.33389
+      ],
+      "monthly": {
+        "Jan": 2.02,
+        "Feb": 2.8,
+        "Mar": 3.64,
+        "Apr": 4.04,
+        "May": 4.35,
+        "Jun": 4.78,
+        "Jul": 4.92,
+        "Aug": 4.82,
+        "Sep": 3.94,
+        "Oct": 3.23,
+        "Nov": 2.28,
+        "Dec": 1.68
+      },
+      "average": 3.54
+    },
+    {
+      "name": "Kraljevo",
+      "admin1_code": "SE",
+      "location": [
+        43.72583,
+        20.68944
+      ],
+      "monthly": {
+        "Jan": 2.06,
+        "Feb": 2.86,
+        "Mar": 3.62,
+        "Apr": 3.98,
+        "May": 4.32,
+        "Jun": 4.7,
+        "Jul": 4.86,
+        "Aug": 4.77,
+        "Sep": 3.89,
+        "Oct": 3.23,
+        "Nov": 2.29,
+        "Dec": 1.75
+      },
+      "average": 3.53
+    },
+    {
+      "name": "Kragujevac",
+      "admin1_code": "SE",
+      "location": [
+        44.01667,
+        20.91667
+      ],
+      "monthly": {
+        "Jan": 2.05,
+        "Feb": 2.88,
+        "Mar": 3.68,
+        "Apr": 4.06,
+        "May": 4.39,
+        "Jun": 4.72,
+        "Jul": 4.85,
+        "Aug": 4.76,
+        "Sep": 3.92,
+        "Oct": 3.29,
+        "Nov": 2.34,
+        "Dec": 1.77
+      },
+      "average": 3.56
+    },
+    {
+      "name": "Kikinda",
+      "admin1_code": "VO",
+      "location": [
+        45.82972,
+        20.46528
+      ],
+      "monthly": {
+        "Jan": 1.83,
+        "Feb": 2.72,
+        "Mar": 3.78,
+        "Apr": 4.28,
+        "May": 4.59,
+        "Jun": 4.85,
+        "Jul": 4.95,
+        "Aug": 4.82,
+        "Sep": 3.95,
+        "Oct": 3.28,
+        "Nov": 2.18,
+        "Dec": 1.5
+      },
+      "average": 3.56
+    },
+    {
+      "name": "Jagodina",
+      "admin1_code": "SE",
+      "location": [
+        43.97713,
+        21.26121
+      ],
+      "monthly": {
+        "Jan": 1.98,
+        "Feb": 2.82,
+        "Mar": 3.71,
+        "Apr": 4.13,
+        "May": 4.46,
+        "Jun": 4.84,
+        "Jul": 4.97,
+        "Aug": 4.85,
+        "Sep": 3.96,
+        "Oct": 3.24,
+        "Nov": 2.27,
+        "Dec": 1.67
+      },
+      "average": 3.58
+    },
+    {
+      "name": "Inđija",
+      "admin1_code": "VO",
+      "location": [
+        45.04816,
+        20.08165
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.83,
+        "Mar": 3.85,
+        "Apr": 4.26,
+        "May": 4.59,
+        "Jun": 4.86,
+        "Jul": 4.96,
+        "Aug": 4.81,
+        "Sep": 3.96,
+        "Oct": 3.33,
+        "Nov": 2.23,
+        "Dec": 1.56
+      },
+      "average": 3.59
+    },
+    {
+      "name": "Gornji Milanovac",
+      "admin1_code": "SE",
+      "location": [
+        44.02603,
+        20.46152
+      ],
+      "monthly": {
+        "Jan": 2.07,
+        "Feb": 2.82,
+        "Mar": 3.66,
+        "Apr": 3.99,
+        "May": 4.35,
+        "Jun": 4.72,
+        "Jul": 4.88,
+        "Aug": 4.72,
+        "Sep": 3.88,
+        "Oct": 3.26,
+        "Nov": 2.31,
+        "Dec": 1.78
+      },
+      "average": 3.54
+    },
+    {
+      "name": "Ćuprija",
+      "admin1_code": "SE",
+      "location": [
+        43.9275,
+        21.37
+      ],
+      "monthly": {
+        "Jan": 1.99,
+        "Feb": 2.81,
+        "Mar": 3.73,
+        "Apr": 4.16,
+        "May": 4.47,
+        "Jun": 4.86,
+        "Jul": 5,
+        "Aug": 4.88,
+        "Sep": 3.98,
+        "Oct": 3.25,
+        "Nov": 2.28,
+        "Dec": 1.68
+      },
+      "average": 3.59
+    },
+    {
+      "name": "Čačak",
+      "admin1_code": "SE",
+      "location": [
+        43.89139,
+        20.34972
+      ],
+      "monthly": {
+        "Jan": 2.07,
+        "Feb": 2.83,
+        "Mar": 3.61,
+        "Apr": 3.97,
+        "May": 4.32,
+        "Jun": 4.68,
+        "Jul": 4.84,
+        "Aug": 4.72,
+        "Sep": 3.85,
+        "Oct": 3.23,
+        "Nov": 2.29,
+        "Dec": 1.74
+      },
+      "average": 3.51
+    },
+    {
+      "name": "Bor",
+      "admin1_code": "SE",
+      "location": [
+        44.07488,
+        22.09591
+      ],
+      "monthly": {
+        "Jan": 2.14,
+        "Feb": 2.89,
+        "Mar": 3.69,
+        "Apr": 4.11,
+        "May": 4.43,
+        "Jun": 4.85,
+        "Jul": 5.01,
+        "Aug": 4.86,
+        "Sep": 3.96,
+        "Oct": 3.19,
+        "Nov": 2.05,
+        "Dec": 1.78
+      },
+      "average": 3.58
+    },
+    {
+      "name": "Belgrade",
+      "admin1_code": "SE",
+      "location": [
+        44.80401,
+        20.46513
+      ],
+      "monthly": {
+        "Jan": 1.89,
+        "Feb": 2.84,
+        "Mar": 3.75,
+        "Apr": 4.16,
+        "May": 4.52,
+        "Jun": 4.79,
+        "Jul": 4.93,
+        "Aug": 4.79,
+        "Sep": 3.92,
+        "Oct": 3.27,
+        "Nov": 2.21,
+        "Dec": 1.63
+      },
+      "average": 3.56
+    },
+    {
+      "name": "Bečej",
+      "admin1_code": "VO",
+      "location": [
+        45.61632,
+        20.03331
+      ],
+      "monthly": {
+        "Jan": 1.79,
+        "Feb": 2.75,
+        "Mar": 3.83,
+        "Apr": 4.3,
+        "May": 4.61,
+        "Jun": 4.89,
+        "Jul": 5.01,
+        "Aug": 4.86,
+        "Sep": 3.94,
+        "Oct": 3.3,
+        "Nov": 2.18,
+        "Dec": 1.55
+      },
+      "average": 3.58
+    },
+    {
+      "name": "Aranđelovac",
+      "admin1_code": "SE",
+      "location": [
+        44.30694,
+        20.56
+      ],
+      "monthly": {
+        "Jan": 1.99,
+        "Feb": 2.81,
+        "Mar": 3.66,
+        "Apr": 4.04,
+        "May": 4.4,
+        "Jun": 4.73,
+        "Jul": 4.89,
+        "Aug": 4.74,
+        "Sep": 3.9,
+        "Oct": 3.26,
+        "Nov": 2.29,
+        "Dec": 1.75
+      },
+      "average": 3.54
+    },
+    {
+      "name": "Vrbas",
+      "admin1_code": "VO",
+      "location": [
+        45.57139,
+        19.64083
+      ],
+      "monthly": {
+        "Jan": 1.82,
+        "Feb": 2.74,
+        "Mar": 3.82,
+        "Apr": 4.31,
+        "May": 4.6,
+        "Jun": 4.88,
+        "Jul": 4.98,
+        "Aug": 4.83,
+        "Sep": 3.93,
+        "Oct": 3.28,
+        "Nov": 2.15,
+        "Dec": 1.54
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Valjevo",
+      "admin1_code": "SE",
+      "location": [
+        44.27513,
+        19.89821
+      ],
+      "monthly": {
+        "Jan": 2.01,
+        "Feb": 2.8,
+        "Mar": 3.61,
+        "Apr": 3.97,
+        "May": 4.33,
+        "Jun": 4.63,
+        "Jul": 4.83,
+        "Aug": 4.69,
+        "Sep": 3.83,
+        "Oct": 3.23,
+        "Nov": 2.27,
+        "Dec": 1.76
+      },
+      "average": 3.5
+    },
+    {
+      "name": "Užice",
+      "admin1_code": "SE",
+      "location": [
+        43.85861,
+        19.84878
+      ],
+      "monthly": {
+        "Jan": 2.22,
+        "Feb": 2.89,
+        "Mar": 3.61,
+        "Apr": 3.87,
+        "May": 4.21,
+        "Jun": 4.57,
+        "Jul": 4.76,
+        "Aug": 4.64,
+        "Sep": 3.79,
+        "Oct": 3.25,
+        "Nov": 2.36,
+        "Dec": 1.92
+      },
+      "average": 3.51
+    },
+    {
+      "name": "Subotica",
+      "admin1_code": "VO",
+      "location": [
+        46.1,
+        19.66667
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.83,
+        "Mar": 3.81,
+        "Apr": 4.33,
+        "May": 4.58,
+        "Jun": 4.8,
+        "Jul": 4.88,
+        "Aug": 4.78,
+        "Sep": 3.94,
+        "Oct": 3.27,
+        "Nov": 2.11,
+        "Dec": 1.54
+      },
+      "average": 3.56
+    },
+    {
+      "name": "Sremska Mitrovica",
+      "admin1_code": "VO",
+      "location": [
+        44.97639,
+        19.61222
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.79,
+        "Mar": 3.79,
+        "Apr": 4.23,
+        "May": 4.56,
+        "Jun": 4.85,
+        "Jul": 4.98,
+        "Aug": 4.81,
+        "Sep": 3.91,
+        "Oct": 3.28,
+        "Nov": 2.16,
+        "Dec": 1.61
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Sombor",
+      "admin1_code": "VO",
+      "location": [
+        45.77417,
+        19.11222
+      ],
+      "monthly": {
+        "Jan": 1.86,
+        "Feb": 2.8,
+        "Mar": 3.8,
+        "Apr": 4.34,
+        "May": 4.6,
+        "Jun": 4.89,
+        "Jul": 4.96,
+        "Aug": 4.81,
+        "Sep": 3.9,
+        "Oct": 3.28,
+        "Nov": 2.09,
+        "Dec": 1.56
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Šabac",
+      "admin1_code": "SE",
+      "location": [
+        44.74667,
+        19.69
+      ],
+      "monthly": {
+        "Jan": 1.86,
+        "Feb": 2.77,
+        "Mar": 3.78,
+        "Apr": 4.24,
+        "May": 4.58,
+        "Jun": 4.84,
+        "Jul": 4.99,
+        "Aug": 4.85,
+        "Sep": 3.95,
+        "Oct": 3.26,
+        "Nov": 2.15,
+        "Dec": 1.6
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Ruma",
+      "admin1_code": "VO",
+      "location": [
+        45.00806,
+        19.82222
+      ],
+      "monthly": {
+        "Jan": 1.86,
+        "Feb": 2.83,
+        "Mar": 3.83,
+        "Apr": 4.24,
+        "May": 4.58,
+        "Jun": 4.84,
+        "Jul": 4.94,
+        "Aug": 4.78,
+        "Sep": 3.94,
+        "Oct": 3.32,
+        "Nov": 2.22,
+        "Dec": 1.62
+      },
+      "average": 3.58
+    },
+    {
+      "name": "Novi Sad",
+      "admin1_code": "VO",
+      "location": [
+        45.25167,
+        19.83694
+      ],
+      "monthly": {
+        "Jan": 1.86,
+        "Feb": 2.8,
+        "Mar": 3.77,
+        "Apr": 4.19,
+        "May": 4.53,
+        "Jun": 4.8,
+        "Jul": 4.95,
+        "Aug": 4.82,
+        "Sep": 3.94,
+        "Oct": 3.28,
+        "Nov": 2.18,
+        "Dec": 1.58
+      },
+      "average": 3.56
+    },
+    {
+      "name": "Loznica",
+      "admin1_code": "SE",
+      "location": [
+        44.53118,
+        19.24267
+      ],
+      "monthly": {
+        "Jan": 1.96,
+        "Feb": 2.76,
+        "Mar": 3.61,
+        "Apr": 4.02,
+        "May": 4.41,
+        "Jun": 4.67,
+        "Jul": 4.87,
+        "Aug": 4.74,
+        "Sep": 3.83,
+        "Oct": 3.2,
+        "Nov": 2.16,
+        "Dec": 1.7
+      },
+      "average": 3.49
+    },
+    {
+      "name": "Futog",
+      "admin1_code": "VO",
+      "location": [
+        45.23874,
+        19.71416
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.76,
+        "Mar": 3.75,
+        "Apr": 4.19,
+        "May": 4.52,
+        "Jun": 4.81,
+        "Jul": 4.97,
+        "Aug": 4.82,
+        "Sep": 3.9,
+        "Oct": 3.26,
+        "Nov": 2.16,
+        "Dec": 1.57
+      },
+      "average": 3.55
+    },
+    {
+      "name": "Bačka Topola",
+      "admin1_code": "VO",
+      "location": [
+        45.81516,
+        19.6318
+      ],
+      "monthly": {
+        "Jan": 1.83,
+        "Feb": 2.77,
+        "Mar": 3.82,
+        "Apr": 4.34,
+        "May": 4.59,
+        "Jun": 4.83,
+        "Jul": 4.92,
+        "Aug": 4.77,
+        "Sep": 3.93,
+        "Oct": 3.3,
+        "Nov": 2.15,
+        "Dec": 1.54
+      },
+      "average": 3.57
+    },
+    {
+      "name": "Bačka Palanka",
+      "admin1_code": "VO",
+      "location": [
+        45.24966,
+        19.39664
+      ],
+      "monthly": {
+        "Jan": 1.83,
+        "Feb": 2.75,
+        "Mar": 3.75,
+        "Apr": 4.26,
+        "May": 4.58,
+        "Jun": 4.86,
+        "Jul": 5,
+        "Aug": 4.85,
+        "Sep": 3.89,
+        "Oct": 3.26,
+        "Nov": 2.15,
+        "Dec": 1.59
+      },
+      "average": 3.56
+    },
+    {
+      "name": "Apatin",
+      "admin1_code": "VO",
+      "location": [
+        45.6726,
+        18.978
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.76,
+        "Mar": 3.76,
+        "Apr": 4.34,
+        "May": 4.64,
+        "Jun": 4.95,
+        "Jul": 5.01,
+        "Aug": 4.87,
+        "Sep": 3.92,
+        "Oct": 3.23,
+        "Nov": 2.05,
+        "Dec": 1.55
+      },
+      "average": 3.58
+    },
+    {
+      "name": "Knjazevac",
+      "admin1_code": "SE",
+      "location": [
+        43.56634,
+        22.25701
+      ],
+      "monthly": {
+        "Jan": 2.08,
+        "Feb": 2.89,
+        "Mar": 3.64,
+        "Apr": 4.01,
+        "May": 4.34,
+        "Jun": 4.72,
+        "Jul": 4.89,
+        "Aug": 4.78,
+        "Sep": 3.95,
+        "Oct": 3.23,
+        "Nov": 2.17,
+        "Dec": 1.74
+      },
+      "average": 3.54
+    }
+  ]
+}

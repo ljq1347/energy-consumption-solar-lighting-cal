@@ -1,0 +1,4123 @@
+{
+  "country": "Portugal",
+  "countryCode": "PT",
+  "cities": [
+    {
+      "name": "Vila Franca de Xira",
+      "admin1_code": "14",
+      "location": [
+        38.95525,
+        -8.98966
+      ],
+      "monthly": {
+        "Jan": 2.99,
+        "Feb": 3.77,
+        "Mar": 4.39,
+        "Apr": 4.81,
+        "May": 5.11,
+        "Jun": 5.28,
+        "Jul": 5.55,
+        "Aug": 5.55,
+        "Sep": 4.93,
+        "Oct": 3.87,
+        "Nov": 3.12,
+        "Dec": 2.74
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Vialonga",
+      "admin1_code": "14",
+      "location": [
+        38.87206,
+        -9.07805
+      ],
+      "monthly": {
+        "Jan": 3.03,
+        "Feb": 3.77,
+        "Mar": 4.36,
+        "Apr": 4.82,
+        "May": 5.09,
+        "Jun": 5.27,
+        "Jul": 5.53,
+        "Aug": 5.55,
+        "Sep": 4.93,
+        "Oct": 3.85,
+        "Nov": 3.12,
+        "Dec": 2.76
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Torres Vedras",
+      "admin1_code": "14",
+      "location": [
+        39.09109,
+        -9.2586
+      ],
+      "monthly": {
+        "Jan": 2.9,
+        "Feb": 3.65,
+        "Mar": 4.29,
+        "Apr": 4.76,
+        "May": 4.97,
+        "Jun": 5.14,
+        "Jul": 5.23,
+        "Aug": 5.29,
+        "Sep": 4.84,
+        "Oct": 3.82,
+        "Nov": 3.05,
+        "Dec": 2.73
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Torres Novas",
+      "admin1_code": "18",
+      "location": [
+        39.47581,
+        -8.54348
+      ],
+      "monthly": {
+        "Jan": 2.99,
+        "Feb": 3.75,
+        "Mar": 4.33,
+        "Apr": 4.66,
+        "May": 4.99,
+        "Jun": 5.24,
+        "Jul": 5.58,
+        "Aug": 5.55,
+        "Sep": 4.84,
+        "Oct": 3.83,
+        "Nov": 3.05,
+        "Dec": 2.7
+      },
+      "average": 4.29
+    },
+    {
+      "name": "Tomar",
+      "admin1_code": "18",
+      "location": [
+        39.60199,
+        -8.40924
+      ],
+      "monthly": {
+        "Jan": 2.96,
+        "Feb": 3.72,
+        "Mar": 4.26,
+        "Apr": 4.59,
+        "May": 4.91,
+        "Jun": 5.18,
+        "Jul": 5.48,
+        "Aug": 5.45,
+        "Sep": 4.78,
+        "Oct": 3.76,
+        "Nov": 3.01,
+        "Dec": 2.67
+      },
+      "average": 4.23
+    },
+    {
+      "name": "Tavira",
+      "admin1_code": "09",
+      "location": [
+        37.12734,
+        -7.64861
+      ],
+      "monthly": {
+        "Jan": 3.42,
+        "Feb": 4.15,
+        "Mar": 4.75,
+        "Apr": 5.08,
+        "May": 5.41,
+        "Jun": 5.67,
+        "Jul": 5.81,
+        "Aug": 5.71,
+        "Sep": 5.16,
+        "Oct": 4.21,
+        "Nov": 3.53,
+        "Dec": 3.12
+      },
+      "average": 4.67
+    },
+    {
+      "name": "Sintra",
+      "admin1_code": "14",
+      "location": [
+        38.80097,
+        -9.37826
+      ],
+      "monthly": {
+        "Jan": 2.93,
+        "Feb": 3.68,
+        "Mar": 4.31,
+        "Apr": 4.82,
+        "May": 5.04,
+        "Jun": 5.2,
+        "Jul": 5.3,
+        "Aug": 5.35,
+        "Sep": 4.92,
+        "Oct": 3.83,
+        "Nov": 3.12,
+        "Dec": 2.75
+      },
+      "average": 4.27
+    },
+    {
+      "name": "Sesimbra",
+      "admin1_code": "19",
+      "location": [
+        38.44451,
+        -9.10149
+      ],
+      "monthly": {
+        "Jan": 3.12,
+        "Feb": 3.88,
+        "Mar": 4.56,
+        "Apr": 5.17,
+        "May": 5.45,
+        "Jun": 5.59,
+        "Jul": 5.78,
+        "Aug": 5.74,
+        "Sep": 5.18,
+        "Oct": 4.01,
+        "Nov": 3.26,
+        "Dec": 2.86
+      },
+      "average": 4.55
+    },
+    {
+      "name": "Setúbal",
+      "admin1_code": "19",
+      "location": [
+        38.5244,
+        -8.8882
+      ],
+      "monthly": {
+        "Jan": 3.04,
+        "Feb": 3.77,
+        "Mar": 4.45,
+        "Apr": 4.9,
+        "May": 5.22,
+        "Jun": 5.44,
+        "Jul": 5.67,
+        "Aug": 5.64,
+        "Sep": 5.02,
+        "Oct": 3.91,
+        "Nov": 3.17,
+        "Dec": 2.8
+      },
+      "average": 4.42
+    },
+    {
+      "name": "Sete Rios",
+      "admin1_code": "14",
+      "location": [
+        38.74134,
+        -9.16133
+      ],
+      "monthly": {
+        "Jan": 3.07,
+        "Feb": 3.81,
+        "Mar": 4.45,
+        "Apr": 4.91,
+        "May": 5.2,
+        "Jun": 5.39,
+        "Jul": 5.62,
+        "Aug": 5.62,
+        "Sep": 5,
+        "Oct": 3.91,
+        "Nov": 3.18,
+        "Dec": 2.81
+      },
+      "average": 4.41
+    },
+    {
+      "name": "São Martinho",
+      "admin1_code": "10",
+      "location": [
+        32.6448,
+        -16.93843
+      ],
+      "monthly": {
+        "Jan": 3.04,
+        "Feb": 3.6,
+        "Mar": 4.3,
+        "Apr": 4.51,
+        "May": 4.6,
+        "Jun": 4.5,
+        "Jul": 4.84,
+        "Aug": 4.84,
+        "Sep": 4.21,
+        "Oct": 3.7,
+        "Nov": 3.1,
+        "Dec": 2.76
+      },
+      "average": 4
+    },
+    {
+      "name": "São João da Talha",
+      "admin1_code": "14",
+      "location": [
+        38.82378,
+        -9.09719
+      ],
+      "monthly": {
+        "Jan": 2.99,
+        "Feb": 3.72,
+        "Mar": 4.36,
+        "Apr": 4.85,
+        "May": 5.15,
+        "Jun": 5.36,
+        "Jul": 5.6,
+        "Aug": 5.6,
+        "Sep": 4.96,
+        "Oct": 3.86,
+        "Nov": 3.08,
+        "Dec": 2.71
+      },
+      "average": 4.35
+    },
+    {
+      "name": "São Domingos de Rana",
+      "admin1_code": "14",
+      "location": [
+        38.70194,
+        -9.34083
+      ],
+      "monthly": {
+        "Jan": 3.07,
+        "Feb": 3.84,
+        "Mar": 4.51,
+        "Apr": 5.08,
+        "May": 5.38,
+        "Jun": 5.52,
+        "Jul": 5.72,
+        "Aug": 5.7,
+        "Sep": 5.13,
+        "Oct": 3.96,
+        "Nov": 3.19,
+        "Dec": 2.81
+      },
+      "average": 4.49
+    },
+    {
+      "name": "Santo António",
+      "admin1_code": "10",
+      "location": [
+        32.66138,
+        -16.93482
+      ],
+      "monthly": {
+        "Jan": 2.95,
+        "Feb": 3.49,
+        "Mar": 4.16,
+        "Apr": 4.32,
+        "May": 4.42,
+        "Jun": 4.37,
+        "Jul": 4.8,
+        "Aug": 4.73,
+        "Sep": 4,
+        "Oct": 3.53,
+        "Nov": 2.95,
+        "Dec": 2.65
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Santarém",
+      "admin1_code": "18",
+      "location": [
+        39.23379,
+        -8.68617
+      ],
+      "monthly": {
+        "Jan": 3.01,
+        "Feb": 3.78,
+        "Mar": 4.39,
+        "Apr": 4.77,
+        "May": 5.05,
+        "Jun": 5.3,
+        "Jul": 5.57,
+        "Aug": 5.55,
+        "Sep": 4.92,
+        "Oct": 3.88,
+        "Nov": 3.13,
+        "Dec": 2.75
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Santa Iria da Azóia",
+      "admin1_code": "14",
+      "location": [
+        38.8411,
+        -9.09908
+      ],
+      "monthly": {
+        "Jan": 3.03,
+        "Feb": 3.76,
+        "Mar": 4.39,
+        "Apr": 4.86,
+        "May": 5.14,
+        "Jun": 5.34,
+        "Jul": 5.59,
+        "Aug": 5.6,
+        "Sep": 4.97,
+        "Oct": 3.88,
+        "Nov": 3.12,
+        "Dec": 2.75
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Sacavém",
+      "admin1_code": "14",
+      "location": [
+        38.79202,
+        -9.10801
+      ],
+      "monthly": {
+        "Jan": 2.98,
+        "Feb": 3.71,
+        "Mar": 4.36,
+        "Apr": 4.84,
+        "May": 5.14,
+        "Jun": 5.35,
+        "Jul": 5.59,
+        "Aug": 5.59,
+        "Sep": 4.96,
+        "Oct": 3.86,
+        "Nov": 3.08,
+        "Dec": 2.71
+      },
+      "average": 4.35
+    },
+    {
+      "name": "Rio de Mouro",
+      "admin1_code": "14",
+      "location": [
+        38.76613,
+        -9.32804
+      ],
+      "monthly": {
+        "Jan": 3.02,
+        "Feb": 3.76,
+        "Mar": 4.39,
+        "Apr": 4.91,
+        "May": 5.18,
+        "Jun": 5.33,
+        "Jul": 5.53,
+        "Aug": 5.56,
+        "Sep": 5,
+        "Oct": 3.88,
+        "Nov": 3.17,
+        "Dec": 2.79
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Ramada",
+      "admin1_code": "14",
+      "location": [
+        38.80368,
+        -9.1877
+      ],
+      "monthly": {
+        "Jan": 3.01,
+        "Feb": 3.75,
+        "Mar": 4.36,
+        "Apr": 4.87,
+        "May": 5.16,
+        "Jun": 5.36,
+        "Jul": 5.61,
+        "Aug": 5.62,
+        "Sep": 4.97,
+        "Oct": 3.87,
+        "Nov": 3.14,
+        "Dec": 2.75
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Queluz",
+      "admin1_code": "14",
+      "location": [
+        38.75657,
+        -9.25451
+      ],
+      "monthly": {
+        "Jan": 3.03,
+        "Feb": 3.78,
+        "Mar": 4.4,
+        "Apr": 4.91,
+        "May": 5.2,
+        "Jun": 5.39,
+        "Jul": 5.61,
+        "Aug": 5.62,
+        "Sep": 5,
+        "Oct": 3.87,
+        "Nov": 3.16,
+        "Dec": 2.79
+      },
+      "average": 4.4
+    },
+    {
+      "name": "Quelfes",
+      "admin1_code": "09",
+      "location": [
+        37.06003,
+        -7.82158
+      ],
+      "monthly": {
+        "Jan": 3.49,
+        "Feb": 4.2,
+        "Mar": 4.83,
+        "Apr": 5.18,
+        "May": 5.46,
+        "Jun": 5.71,
+        "Jul": 5.85,
+        "Aug": 5.75,
+        "Sep": 5.22,
+        "Oct": 4.28,
+        "Nov": 3.63,
+        "Dec": 3.2
+      },
+      "average": 4.73
+    },
+    {
+      "name": "Quarteira",
+      "admin1_code": "09",
+      "location": [
+        37.06946,
+        -8.10064
+      ],
+      "monthly": {
+        "Jan": 3.47,
+        "Feb": 4.2,
+        "Mar": 4.84,
+        "Apr": 5.28,
+        "May": 5.54,
+        "Jun": 5.74,
+        "Jul": 5.88,
+        "Aug": 5.76,
+        "Sep": 5.26,
+        "Oct": 4.3,
+        "Nov": 3.61,
+        "Dec": 3.18
+      },
+      "average": 4.75
+    },
+    {
+      "name": "Póvoa de Santa Iria",
+      "admin1_code": "14",
+      "location": [
+        38.86101,
+        -9.06453
+      ],
+      "monthly": {
+        "Jan": 3.02,
+        "Feb": 3.75,
+        "Mar": 4.37,
+        "Apr": 4.83,
+        "May": 5.12,
+        "Jun": 5.31,
+        "Jul": 5.57,
+        "Aug": 5.57,
+        "Sep": 4.95,
+        "Oct": 3.86,
+        "Nov": 3.1,
+        "Dec": 2.73
+      },
+      "average": 4.35
+    },
+    {
+      "name": "Porto de Mós",
+      "admin1_code": "09",
+      "location": [
+        37.08534,
+        -8.68366
+      ],
+      "monthly": {
+        "Jan": 3.33,
+        "Feb": 4.05,
+        "Mar": 4.73,
+        "Apr": 5.22,
+        "May": 5.54,
+        "Jun": 5.66,
+        "Jul": 5.84,
+        "Aug": 5.76,
+        "Sep": 5.23,
+        "Oct": 4.22,
+        "Nov": 3.5,
+        "Dec": 3.07
+      },
+      "average": 4.68
+    },
+    {
+      "name": "Portimão",
+      "admin1_code": "09",
+      "location": [
+        37.13856,
+        -8.53775
+      ],
+      "monthly": {
+        "Jan": 3.39,
+        "Feb": 4.13,
+        "Mar": 4.74,
+        "Apr": 5.22,
+        "May": 5.51,
+        "Jun": 5.64,
+        "Jul": 5.83,
+        "Aug": 5.76,
+        "Sep": 5.24,
+        "Oct": 4.24,
+        "Nov": 3.54,
+        "Dec": 3.12
+      },
+      "average": 4.7
+    },
+    {
+      "name": "Portalegre",
+      "admin1_code": "16",
+      "location": [
+        39.29379,
+        -7.43122
+      ],
+      "monthly": {
+        "Jan": 3.15,
+        "Feb": 3.93,
+        "Mar": 4.43,
+        "Apr": 4.71,
+        "May": 4.99,
+        "Jun": 5.35,
+        "Jul": 5.7,
+        "Aug": 5.62,
+        "Sep": 4.9,
+        "Oct": 3.91,
+        "Nov": 3.19,
+        "Dec": 2.88
+      },
+      "average": 4.4
+    },
+    {
+      "name": "Pontinha",
+      "admin1_code": "14",
+      "location": [
+        38.76771,
+        -9.19935
+      ],
+      "monthly": {
+        "Jan": 3.01,
+        "Feb": 3.75,
+        "Mar": 4.37,
+        "Apr": 4.85,
+        "May": 5.14,
+        "Jun": 5.33,
+        "Jul": 5.57,
+        "Aug": 5.59,
+        "Sep": 4.95,
+        "Oct": 3.86,
+        "Nov": 3.13,
+        "Dec": 2.76
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Pombal",
+      "admin1_code": "13",
+      "location": [
+        39.91674,
+        -8.62847
+      ],
+      "monthly": {
+        "Jan": 2.94,
+        "Feb": 3.63,
+        "Mar": 4.14,
+        "Apr": 4.5,
+        "May": 4.75,
+        "Jun": 4.92,
+        "Jul": 5.18,
+        "Aug": 5.18,
+        "Sep": 4.6,
+        "Oct": 3.65,
+        "Nov": 2.98,
+        "Dec": 2.69
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Pinhal Novo",
+      "admin1_code": "19",
+      "location": [
+        38.63106,
+        -8.91376
+      ],
+      "monthly": {
+        "Jan": 3.14,
+        "Feb": 3.92,
+        "Mar": 4.55,
+        "Apr": 4.95,
+        "May": 5.2,
+        "Jun": 5.41,
+        "Jul": 5.64,
+        "Aug": 5.64,
+        "Sep": 5.07,
+        "Oct": 4.04,
+        "Nov": 3.31,
+        "Dec": 2.9
+      },
+      "average": 4.48
+    },
+    {
+      "name": "Piedade",
+      "admin1_code": "19",
+      "location": [
+        38.67005,
+        -9.15852
+      ],
+      "monthly": {
+        "Jan": 3.03,
+        "Feb": 3.77,
+        "Mar": 4.45,
+        "Apr": 4.98,
+        "May": 5.3,
+        "Jun": 5.48,
+        "Jul": 5.68,
+        "Aug": 5.66,
+        "Sep": 5.07,
+        "Oct": 3.93,
+        "Nov": 3.14,
+        "Dec": 2.76
+      },
+      "average": 4.44
+    },
+    {
+      "name": "Peniche",
+      "admin1_code": "13",
+      "location": [
+        39.3558,
+        -9.38112
+      ],
+      "monthly": {
+        "Jan": 2.9,
+        "Feb": 3.66,
+        "Mar": 4.32,
+        "Apr": 4.86,
+        "May": 5.07,
+        "Jun": 5.09,
+        "Jul": 5.08,
+        "Aug": 5.09,
+        "Sep": 4.73,
+        "Oct": 3.77,
+        "Nov": 3.02,
+        "Dec": 2.67
+      },
+      "average": 4.19
+    },
+    {
+      "name": "Parede",
+      "admin1_code": "14",
+      "location": [
+        38.69282,
+        -9.35412
+      ],
+      "monthly": {
+        "Jan": 3.05,
+        "Feb": 3.82,
+        "Mar": 4.51,
+        "Apr": 5.1,
+        "May": 5.43,
+        "Jun": 5.57,
+        "Jul": 5.76,
+        "Aug": 5.73,
+        "Sep": 5.14,
+        "Oct": 3.95,
+        "Nov": 3.16,
+        "Dec": 2.79
+      },
+      "average": 4.5
+    },
+    {
+      "name": "Palmela",
+      "admin1_code": "19",
+      "location": [
+        38.56902,
+        -8.90126
+      ],
+      "monthly": {
+        "Jan": 3.08,
+        "Feb": 3.86,
+        "Mar": 4.5,
+        "Apr": 4.89,
+        "May": 5.15,
+        "Jun": 5.36,
+        "Jul": 5.61,
+        "Aug": 5.61,
+        "Sep": 5.02,
+        "Oct": 3.95,
+        "Nov": 3.23,
+        "Dec": 2.84
+      },
+      "average": 4.42
+    },
+    {
+      "name": "Paço de Arcos",
+      "admin1_code": "14",
+      "location": [
+        38.69569,
+        -9.29143
+      ],
+      "monthly": {
+        "Jan": 3.04,
+        "Feb": 3.78,
+        "Mar": 4.44,
+        "Apr": 5.02,
+        "May": 5.33,
+        "Jun": 5.5,
+        "Jul": 5.68,
+        "Aug": 5.66,
+        "Sep": 5.08,
+        "Oct": 3.92,
+        "Nov": 3.15,
+        "Dec": 2.78
+      },
+      "average": 4.45
+    },
+    {
+      "name": "Olival",
+      "admin1_code": "14",
+      "location": [
+        38.77079,
+        -9.25015
+      ],
+      "monthly": {
+        "Jan": 2.99,
+        "Feb": 3.73,
+        "Mar": 4.36,
+        "Apr": 4.86,
+        "May": 5.14,
+        "Jun": 5.33,
+        "Jul": 5.57,
+        "Aug": 5.58,
+        "Sep": 4.96,
+        "Oct": 3.84,
+        "Nov": 3.14,
+        "Dec": 2.77
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Olivais",
+      "admin1_code": "14",
+      "location": [
+        38.76994,
+        -9.10674
+      ],
+      "monthly": {
+        "Jan": 3,
+        "Feb": 3.74,
+        "Mar": 4.39,
+        "Apr": 4.88,
+        "May": 5.18,
+        "Jun": 5.39,
+        "Jul": 5.62,
+        "Aug": 5.61,
+        "Sep": 4.99,
+        "Oct": 3.88,
+        "Nov": 3.11,
+        "Dec": 2.74
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Olhão",
+      "admin1_code": "09",
+      "location": [
+        37.0286,
+        -7.8411
+      ],
+      "monthly": {
+        "Jan": 3.46,
+        "Feb": 4.2,
+        "Mar": 4.85,
+        "Apr": 5.27,
+        "May": 5.57,
+        "Jun": 5.79,
+        "Jul": 5.9,
+        "Aug": 5.78,
+        "Sep": 5.26,
+        "Oct": 4.29,
+        "Nov": 3.61,
+        "Dec": 3.17
+      },
+      "average": 4.76
+    },
+    {
+      "name": "Oeiras",
+      "admin1_code": "14",
+      "location": [
+        38.69105,
+        -9.31085
+      ],
+      "monthly": {
+        "Jan": 3.05,
+        "Feb": 3.81,
+        "Mar": 4.46,
+        "Apr": 5.05,
+        "May": 5.37,
+        "Jun": 5.52,
+        "Jul": 5.71,
+        "Aug": 5.68,
+        "Sep": 5.11,
+        "Oct": 3.93,
+        "Nov": 3.15,
+        "Dec": 2.79
+      },
+      "average": 4.47
+    },
+    {
+      "name": "Odivelas",
+      "admin1_code": "14",
+      "location": [
+        38.79269,
+        -9.1838
+      ],
+      "monthly": {
+        "Jan": 3.01,
+        "Feb": 3.75,
+        "Mar": 4.36,
+        "Apr": 4.86,
+        "May": 5.15,
+        "Jun": 5.35,
+        "Jul": 5.6,
+        "Aug": 5.6,
+        "Sep": 4.96,
+        "Oct": 3.86,
+        "Nov": 3.14,
+        "Dec": 2.76
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Moscavide e Portela",
+      "admin1_code": "14",
+      "location": [
+        38.77929,
+        -9.10222
+      ],
+      "monthly": {
+        "Jan": 3,
+        "Feb": 3.73,
+        "Mar": 4.38,
+        "Apr": 4.88,
+        "May": 5.18,
+        "Jun": 5.38,
+        "Jul": 5.62,
+        "Aug": 5.62,
+        "Sep": 4.99,
+        "Oct": 3.88,
+        "Nov": 3.1,
+        "Dec": 2.73
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Montijo",
+      "admin1_code": "19",
+      "location": [
+        38.70675,
+        -8.97388
+      ],
+      "monthly": {
+        "Jan": 3.06,
+        "Feb": 3.84,
+        "Mar": 4.49,
+        "Apr": 4.96,
+        "May": 5.24,
+        "Jun": 5.44,
+        "Jul": 5.67,
+        "Aug": 5.66,
+        "Sep": 5.1,
+        "Oct": 3.98,
+        "Nov": 3.2,
+        "Dec": 2.8
+      },
+      "average": 4.45
+    },
+    {
+      "name": "Monte Estoril",
+      "admin1_code": "14",
+      "location": [
+        38.70636,
+        -9.40595
+      ],
+      "monthly": {
+        "Jan": 3.01,
+        "Feb": 3.8,
+        "Mar": 4.49,
+        "Apr": 5.1,
+        "May": 5.41,
+        "Jun": 5.54,
+        "Jul": 5.7,
+        "Aug": 5.68,
+        "Sep": 5.13,
+        "Oct": 3.94,
+        "Nov": 3.16,
+        "Dec": 2.77
+      },
+      "average": 4.48
+    },
+    {
+      "name": "Monsanto",
+      "admin1_code": "18",
+      "location": [
+        39.46203,
+        -8.7118
+      ],
+      "monthly": {
+        "Jan": 2.96,
+        "Feb": 3.73,
+        "Mar": 4.29,
+        "Apr": 4.66,
+        "May": 4.99,
+        "Jun": 5.24,
+        "Jul": 5.57,
+        "Aug": 5.56,
+        "Sep": 4.84,
+        "Oct": 3.76,
+        "Nov": 3.03,
+        "Dec": 2.68
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Moita",
+      "admin1_code": "19",
+      "location": [
+        38.65078,
+        -8.99038
+      ],
+      "monthly": {
+        "Jan": 3.09,
+        "Feb": 3.87,
+        "Mar": 4.51,
+        "Apr": 4.97,
+        "May": 5.24,
+        "Jun": 5.44,
+        "Jul": 5.66,
+        "Aug": 5.66,
+        "Sep": 5.1,
+        "Oct": 4.01,
+        "Nov": 3.24,
+        "Dec": 2.84
+      },
+      "average": 4.47
+    },
+    {
+      "name": "Massamá",
+      "admin1_code": "14",
+      "location": [
+        38.75279,
+        -9.2811
+      ],
+      "monthly": {
+        "Jan": 3.06,
+        "Feb": 3.81,
+        "Mar": 4.44,
+        "Apr": 4.94,
+        "May": 5.22,
+        "Jun": 5.39,
+        "Jul": 5.6,
+        "Aug": 5.62,
+        "Sep": 5.03,
+        "Oct": 3.9,
+        "Nov": 3.2,
+        "Dec": 2.82
+      },
+      "average": 4.42
+    },
+    {
+      "name": "Marvila",
+      "admin1_code": "14",
+      "location": [
+        38.73981,
+        -9.10165
+      ],
+      "monthly": {
+        "Jan": 3.01,
+        "Feb": 3.75,
+        "Mar": 4.41,
+        "Apr": 4.9,
+        "May": 5.21,
+        "Jun": 5.41,
+        "Jul": 5.63,
+        "Aug": 5.63,
+        "Sep": 5,
+        "Oct": 3.88,
+        "Nov": 3.11,
+        "Dec": 2.74
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Marinha Grande",
+      "admin1_code": "13",
+      "location": [
+        39.74769,
+        -8.93228
+      ],
+      "monthly": {
+        "Jan": 2.95,
+        "Feb": 3.7,
+        "Mar": 4.28,
+        "Apr": 4.72,
+        "May": 4.93,
+        "Jun": 5.08,
+        "Jul": 5.19,
+        "Aug": 5.22,
+        "Sep": 4.78,
+        "Oct": 3.75,
+        "Nov": 3.05,
+        "Dec": 2.72
+      },
+      "average": 4.2
+    },
+    {
+      "name": "Lumiar",
+      "admin1_code": "14",
+      "location": [
+        38.77478,
+        -9.15601
+      ],
+      "monthly": {
+        "Jan": 3.08,
+        "Feb": 3.82,
+        "Mar": 4.45,
+        "Apr": 4.9,
+        "May": 5.17,
+        "Jun": 5.36,
+        "Jul": 5.61,
+        "Aug": 5.62,
+        "Sep": 5,
+        "Oct": 3.93,
+        "Nov": 3.2,
+        "Dec": 2.82
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Loures",
+      "admin1_code": "14",
+      "location": [
+        38.83091,
+        -9.16845
+      ],
+      "monthly": {
+        "Jan": 2.95,
+        "Feb": 3.7,
+        "Mar": 4.3,
+        "Apr": 4.79,
+        "May": 5.07,
+        "Jun": 5.26,
+        "Jul": 5.53,
+        "Aug": 5.53,
+        "Sep": 4.89,
+        "Oct": 3.82,
+        "Nov": 3.07,
+        "Dec": 2.7
+      },
+      "average": 4.3
+    },
+    {
+      "name": "Loulé",
+      "admin1_code": "09",
+      "location": [
+        37.13772,
+        -8.01968
+      ],
+      "monthly": {
+        "Jan": 3.46,
+        "Feb": 4.15,
+        "Mar": 4.73,
+        "Apr": 5.09,
+        "May": 5.37,
+        "Jun": 5.65,
+        "Jul": 5.85,
+        "Aug": 5.76,
+        "Sep": 5.16,
+        "Oct": 4.24,
+        "Nov": 3.62,
+        "Dec": 3.2
+      },
+      "average": 4.69
+    },
+    {
+      "name": "Lisbon",
+      "admin1_code": "14",
+      "location": [
+        38.72509,
+        -9.1498
+      ],
+      "monthly": {
+        "Jan": 3.08,
+        "Feb": 3.83,
+        "Mar": 4.47,
+        "Apr": 4.94,
+        "May": 5.24,
+        "Jun": 5.43,
+        "Jul": 5.65,
+        "Aug": 5.66,
+        "Sep": 5.03,
+        "Oct": 3.92,
+        "Nov": 3.18,
+        "Dec": 2.82
+      },
+      "average": 4.44
+    },
+    {
+      "name": "Linda-a-Velha",
+      "admin1_code": "14",
+      "location": [
+        38.71446,
+        -9.2422
+      ],
+      "monthly": {
+        "Jan": 3.05,
+        "Feb": 3.81,
+        "Mar": 4.45,
+        "Apr": 4.96,
+        "May": 5.24,
+        "Jun": 5.41,
+        "Jul": 5.62,
+        "Aug": 5.62,
+        "Sep": 5.04,
+        "Oct": 3.92,
+        "Nov": 3.17,
+        "Dec": 2.81
+      },
+      "average": 4.42
+    },
+    {
+      "name": "Leiria",
+      "admin1_code": "13",
+      "location": [
+        39.74362,
+        -8.80705
+      ],
+      "monthly": {
+        "Jan": 2.93,
+        "Feb": 3.64,
+        "Mar": 4.16,
+        "Apr": 4.55,
+        "May": 4.77,
+        "Jun": 4.95,
+        "Jul": 5.17,
+        "Aug": 5.19,
+        "Sep": 4.65,
+        "Oct": 3.67,
+        "Nov": 3,
+        "Dec": 2.69
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Lavradio",
+      "admin1_code": "19",
+      "location": [
+        38.66808,
+        -9.05204
+      ],
+      "monthly": {
+        "Jan": 2.97,
+        "Feb": 3.71,
+        "Mar": 4.39,
+        "Apr": 4.9,
+        "May": 5.23,
+        "Jun": 5.44,
+        "Jul": 5.67,
+        "Aug": 5.65,
+        "Sep": 5.03,
+        "Oct": 3.89,
+        "Nov": 3.08,
+        "Dec": 2.69
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Laranjeiro",
+      "admin1_code": "09",
+      "location": [
+        37.06799,
+        -7.8078
+      ],
+      "monthly": {
+        "Jan": 3.48,
+        "Feb": 4.19,
+        "Mar": 4.81,
+        "Apr": 5.15,
+        "May": 5.44,
+        "Jun": 5.7,
+        "Jul": 5.84,
+        "Aug": 5.74,
+        "Sep": 5.2,
+        "Oct": 4.26,
+        "Nov": 3.61,
+        "Dec": 3.18
+      },
+      "average": 4.72
+    },
+    {
+      "name": "Laranjeiro",
+      "admin1_code": "19",
+      "location": [
+        38.65599,
+        -9.15376
+      ],
+      "monthly": {
+        "Jan": 3.04,
+        "Feb": 3.78,
+        "Mar": 4.47,
+        "Apr": 5.01,
+        "May": 5.32,
+        "Jun": 5.5,
+        "Jul": 5.69,
+        "Aug": 5.67,
+        "Sep": 5.09,
+        "Oct": 3.96,
+        "Nov": 3.15,
+        "Dec": 2.78
+      },
+      "average": 4.45
+    },
+    {
+      "name": "Lagos",
+      "admin1_code": "09",
+      "location": [
+        37.10202,
+        -8.67422
+      ],
+      "monthly": {
+        "Jan": 3.35,
+        "Feb": 4.08,
+        "Mar": 4.72,
+        "Apr": 5.2,
+        "May": 5.51,
+        "Jun": 5.63,
+        "Jul": 5.83,
+        "Aug": 5.76,
+        "Sep": 5.22,
+        "Oct": 4.21,
+        "Nov": 3.51,
+        "Dec": 3.09
+      },
+      "average": 4.68
+    },
+    {
+      "name": "Funchal",
+      "admin1_code": "10",
+      "location": [
+        32.66568,
+        -16.92547
+      ],
+      "monthly": {
+        "Jan": 2.96,
+        "Feb": 3.49,
+        "Mar": 4.16,
+        "Apr": 4.3,
+        "May": 4.39,
+        "Jun": 4.33,
+        "Jul": 4.78,
+        "Aug": 4.7,
+        "Sep": 3.98,
+        "Oct": 3.53,
+        "Nov": 2.97,
+        "Dec": 2.67
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Faro",
+      "admin1_code": "09",
+      "location": [
+        37.01869,
+        -7.92716
+      ],
+      "monthly": {
+        "Jan": 3.54,
+        "Feb": 4.28,
+        "Mar": 4.94,
+        "Apr": 5.36,
+        "May": 5.61,
+        "Jun": 5.79,
+        "Jul": 5.9,
+        "Aug": 5.8,
+        "Sep": 5.32,
+        "Oct": 4.36,
+        "Nov": 3.69,
+        "Dec": 3.24
+      },
+      "average": 4.82
+    },
+    {
+      "name": "Falagueira",
+      "admin1_code": "14",
+      "location": [
+        38.76392,
+        -9.22804
+      ],
+      "monthly": {
+        "Jan": 3.04,
+        "Feb": 3.79,
+        "Mar": 4.41,
+        "Apr": 4.9,
+        "May": 5.18,
+        "Jun": 5.38,
+        "Jul": 5.61,
+        "Aug": 5.63,
+        "Sep": 5.01,
+        "Oct": 3.89,
+        "Nov": 3.18,
+        "Dec": 2.8
+      },
+      "average": 4.4
+    },
+    {
+      "name": "Évora",
+      "admin1_code": "08",
+      "location": [
+        38.56587,
+        -7.90405
+      ],
+      "monthly": {
+        "Jan": 3.31,
+        "Feb": 4.04,
+        "Mar": 4.6,
+        "Apr": 4.85,
+        "May": 5.07,
+        "Jun": 5.41,
+        "Jul": 5.7,
+        "Aug": 5.64,
+        "Sep": 5.02,
+        "Oct": 4.11,
+        "Nov": 3.42,
+        "Dec": 3.04
+      },
+      "average": 4.52
+    },
+    {
+      "name": "Estoril",
+      "admin1_code": "14",
+      "location": [
+        38.70571,
+        -9.39773
+      ],
+      "monthly": {
+        "Jan": 3.01,
+        "Feb": 3.79,
+        "Mar": 4.47,
+        "Apr": 5.09,
+        "May": 5.4,
+        "Jun": 5.54,
+        "Jul": 5.7,
+        "Aug": 5.68,
+        "Sep": 5.12,
+        "Oct": 3.93,
+        "Nov": 3.15,
+        "Dec": 2.76
+      },
+      "average": 4.47
+    },
+    {
+      "name": "Entroncamento",
+      "admin1_code": "18",
+      "location": [
+        39.46667,
+        -8.46667
+      ],
+      "monthly": {
+        "Jan": 3.02,
+        "Feb": 3.78,
+        "Mar": 4.36,
+        "Apr": 4.7,
+        "May": 5,
+        "Jun": 5.26,
+        "Jul": 5.57,
+        "Aug": 5.54,
+        "Sep": 4.87,
+        "Oct": 3.85,
+        "Nov": 3.1,
+        "Dec": 2.73
+      },
+      "average": 4.31
+    },
+    {
+      "name": "Damaia",
+      "admin1_code": "14",
+      "location": [
+        38.75141,
+        -9.21227
+      ],
+      "monthly": {
+        "Jan": 3.05,
+        "Feb": 3.79,
+        "Mar": 4.41,
+        "Apr": 4.88,
+        "May": 5.17,
+        "Jun": 5.36,
+        "Jul": 5.6,
+        "Aug": 5.61,
+        "Sep": 4.99,
+        "Oct": 3.89,
+        "Nov": 3.18,
+        "Dec": 2.8
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Corroios",
+      "admin1_code": "19",
+      "location": [
+        38.64004,
+        -9.1508
+      ],
+      "monthly": {
+        "Jan": 3.06,
+        "Feb": 3.81,
+        "Mar": 4.5,
+        "Apr": 5.04,
+        "May": 5.35,
+        "Jun": 5.51,
+        "Jul": 5.7,
+        "Aug": 5.67,
+        "Sep": 5.11,
+        "Oct": 3.99,
+        "Nov": 3.18,
+        "Dec": 2.8
+      },
+      "average": 4.48
+    },
+    {
+      "name": "Charneca de Caparica",
+      "admin1_code": "19",
+      "location": [
+        38.62032,
+        -9.19426
+      ],
+      "monthly": {
+        "Jan": 3.11,
+        "Feb": 3.87,
+        "Mar": 4.57,
+        "Apr": 5.14,
+        "May": 5.42,
+        "Jun": 5.55,
+        "Jul": 5.74,
+        "Aug": 5.69,
+        "Sep": 5.17,
+        "Oct": 4.03,
+        "Nov": 3.23,
+        "Dec": 2.84
+      },
+      "average": 4.53
+    },
+    {
+      "name": "Castelo Branco",
+      "admin1_code": "06",
+      "location": [
+        39.82364,
+        -7.49101
+      ],
+      "monthly": {
+        "Jan": 3.25,
+        "Feb": 4.08,
+        "Mar": 4.59,
+        "Apr": 4.92,
+        "May": 5.18,
+        "Jun": 5.51,
+        "Jul": 5.82,
+        "Aug": 5.7,
+        "Sep": 5.07,
+        "Oct": 4.05,
+        "Nov": 3.29,
+        "Dec": 2.91
+      },
+      "average": 4.53
+    },
+    {
+      "name": "Cascais",
+      "admin1_code": "14",
+      "location": [
+        38.69681,
+        -9.42147
+      ],
+      "monthly": {
+        "Jan": 3.01,
+        "Feb": 3.81,
+        "Mar": 4.51,
+        "Apr": 5.14,
+        "May": 5.44,
+        "Jun": 5.57,
+        "Jul": 5.71,
+        "Aug": 5.68,
+        "Sep": 5.15,
+        "Oct": 3.95,
+        "Nov": 3.17,
+        "Dec": 2.78
+      },
+      "average": 4.49
+    },
+    {
+      "name": "Carnide",
+      "admin1_code": "14",
+      "location": [
+        38.76667,
+        -9.18333
+      ],
+      "monthly": {
+        "Jan": 3.05,
+        "Feb": 3.79,
+        "Mar": 4.43,
+        "Apr": 4.91,
+        "May": 5.2,
+        "Jun": 5.4,
+        "Jul": 5.64,
+        "Aug": 5.65,
+        "Sep": 5,
+        "Oct": 3.9,
+        "Nov": 3.17,
+        "Dec": 2.79
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Carnaxide",
+      "admin1_code": "14",
+      "location": [
+        38.72706,
+        -9.24671
+      ],
+      "monthly": {
+        "Jan": 3.07,
+        "Feb": 3.82,
+        "Mar": 4.46,
+        "Apr": 4.96,
+        "May": 5.24,
+        "Jun": 5.41,
+        "Jul": 5.63,
+        "Aug": 5.64,
+        "Sep": 5.04,
+        "Oct": 3.92,
+        "Nov": 3.19,
+        "Dec": 2.82
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Carcavelos",
+      "admin1_code": "14",
+      "location": [
+        38.69105,
+        -9.32215
+      ],
+      "monthly": {
+        "Jan": 3.06,
+        "Feb": 3.82,
+        "Mar": 4.48,
+        "Apr": 5.07,
+        "May": 5.39,
+        "Jun": 5.54,
+        "Jul": 5.73,
+        "Aug": 5.7,
+        "Sep": 5.13,
+        "Oct": 3.94,
+        "Nov": 3.16,
+        "Dec": 2.79
+      },
+      "average": 4.48
+    },
+    {
+      "name": "Caparica",
+      "admin1_code": "19",
+      "location": [
+        38.66179,
+        -9.20032
+      ],
+      "monthly": {
+        "Jan": 3.07,
+        "Feb": 3.81,
+        "Mar": 4.5,
+        "Apr": 5.05,
+        "May": 5.34,
+        "Jun": 5.51,
+        "Jul": 5.7,
+        "Aug": 5.66,
+        "Sep": 5.11,
+        "Oct": 3.98,
+        "Nov": 3.18,
+        "Dec": 2.81
+      },
+      "average": 4.48
+    },
+    {
+      "name": "Caniço",
+      "admin1_code": "10",
+      "location": [
+        32.65078,
+        -16.83749
+      ],
+      "monthly": {
+        "Jan": 2.83,
+        "Feb": 3.35,
+        "Mar": 4.13,
+        "Apr": 4.33,
+        "May": 4.43,
+        "Jun": 4.36,
+        "Jul": 4.88,
+        "Aug": 4.8,
+        "Sep": 4.04,
+        "Oct": 3.54,
+        "Nov": 2.87,
+        "Dec": 2.59
+      },
+      "average": 3.85
+    },
+    {
+      "name": "Campo Grande",
+      "admin1_code": "14",
+      "location": [
+        38.75471,
+        -9.16651
+      ],
+      "monthly": {
+        "Jan": 3.09,
+        "Feb": 3.83,
+        "Mar": 4.46,
+        "Apr": 4.91,
+        "May": 5.19,
+        "Jun": 5.39,
+        "Jul": 5.62,
+        "Aug": 5.64,
+        "Sep": 5.01,
+        "Oct": 3.93,
+        "Nov": 3.2,
+        "Dec": 2.83
+      },
+      "average": 4.42
+    },
+    {
+      "name": "Camarate",
+      "admin1_code": "14",
+      "location": [
+        38.80358,
+        -9.12809
+      ],
+      "monthly": {
+        "Jan": 3.03,
+        "Feb": 3.77,
+        "Mar": 4.4,
+        "Apr": 4.88,
+        "May": 5.16,
+        "Jun": 5.36,
+        "Jul": 5.61,
+        "Aug": 5.61,
+        "Sep": 4.99,
+        "Oct": 3.9,
+        "Nov": 3.14,
+        "Dec": 2.77
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Câmara de Lobos",
+      "admin1_code": "10",
+      "location": [
+        32.65043,
+        -16.97718
+      ],
+      "monthly": {
+        "Jan": 3.02,
+        "Feb": 3.57,
+        "Mar": 4.25,
+        "Apr": 4.5,
+        "May": 4.63,
+        "Jun": 4.6,
+        "Jul": 4.92,
+        "Aug": 4.89,
+        "Sep": 4.2,
+        "Oct": 3.67,
+        "Nov": 3.09,
+        "Dec": 2.74
+      },
+      "average": 4.01
+    },
+    {
+      "name": "Caldas da Rainha",
+      "admin1_code": "13",
+      "location": [
+        39.40326,
+        -9.13839
+      ],
+      "monthly": {
+        "Jan": 2.98,
+        "Feb": 3.73,
+        "Mar": 4.3,
+        "Apr": 4.72,
+        "May": 4.89,
+        "Jun": 4.99,
+        "Jul": 5.02,
+        "Aug": 5.11,
+        "Sep": 4.74,
+        "Oct": 3.78,
+        "Nov": 3.08,
+        "Dec": 2.77
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Cacém",
+      "admin1_code": "14",
+      "location": [
+        38.76698,
+        -9.29793
+      ],
+      "monthly": {
+        "Jan": 3,
+        "Feb": 3.76,
+        "Mar": 4.38,
+        "Apr": 4.88,
+        "May": 5.15,
+        "Jun": 5.32,
+        "Jul": 5.54,
+        "Aug": 5.56,
+        "Sep": 4.99,
+        "Oct": 3.86,
+        "Nov": 3.15,
+        "Dec": 2.77
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Buraca",
+      "admin1_code": "14",
+      "location": [
+        38.73333,
+        -9.2
+      ],
+      "monthly": {
+        "Jan": 3.08,
+        "Feb": 3.82,
+        "Mar": 4.46,
+        "Apr": 4.95,
+        "May": 5.24,
+        "Jun": 5.42,
+        "Jul": 5.64,
+        "Aug": 5.64,
+        "Sep": 5.03,
+        "Oct": 3.92,
+        "Nov": 3.19,
+        "Dec": 2.82
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Benfica",
+      "admin1_code": "14",
+      "location": [
+        38.75087,
+        -9.20282
+      ],
+      "monthly": {
+        "Jan": 3.06,
+        "Feb": 3.8,
+        "Mar": 4.42,
+        "Apr": 4.89,
+        "May": 5.18,
+        "Jun": 5.37,
+        "Jul": 5.61,
+        "Aug": 5.62,
+        "Sep": 5,
+        "Oct": 3.9,
+        "Nov": 3.18,
+        "Dec": 2.8
+      },
+      "average": 4.4
+    },
+    {
+      "name": "Belém",
+      "admin1_code": "14",
+      "location": [
+        38.69875,
+        -9.19289
+      ],
+      "monthly": {
+        "Jan": 3.04,
+        "Feb": 3.78,
+        "Mar": 4.45,
+        "Apr": 4.97,
+        "May": 5.28,
+        "Jun": 5.47,
+        "Jul": 5.67,
+        "Aug": 5.64,
+        "Sep": 5.04,
+        "Oct": 3.91,
+        "Nov": 3.15,
+        "Dec": 2.78
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Belas",
+      "admin1_code": "14",
+      "location": [
+        38.7767,
+        -9.26353
+      ],
+      "monthly": {
+        "Jan": 2.97,
+        "Feb": 3.73,
+        "Mar": 4.34,
+        "Apr": 4.84,
+        "May": 5.12,
+        "Jun": 5.32,
+        "Jul": 5.55,
+        "Aug": 5.57,
+        "Sep": 4.95,
+        "Oct": 3.83,
+        "Nov": 3.12,
+        "Dec": 2.77
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Beja",
+      "admin1_code": "03",
+      "location": [
+        38.01469,
+        -7.86284
+      ],
+      "monthly": {
+        "Jan": 3.37,
+        "Feb": 4.08,
+        "Mar": 4.67,
+        "Apr": 4.96,
+        "May": 5.14,
+        "Jun": 5.47,
+        "Jul": 5.73,
+        "Aug": 5.67,
+        "Sep": 5.1,
+        "Oct": 4.23,
+        "Nov": 3.55,
+        "Dec": 3.13
+      },
+      "average": 4.59
+    },
+    {
+      "name": "Barreiro",
+      "admin1_code": "19",
+      "location": [
+        38.66314,
+        -9.0724
+      ],
+      "monthly": {
+        "Jan": 2.97,
+        "Feb": 3.71,
+        "Mar": 4.4,
+        "Apr": 4.92,
+        "May": 5.24,
+        "Jun": 5.45,
+        "Jul": 5.68,
+        "Aug": 5.65,
+        "Sep": 5.04,
+        "Oct": 3.89,
+        "Nov": 3.08,
+        "Dec": 2.69
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Azambuja",
+      "admin1_code": "14",
+      "location": [
+        39.07029,
+        -8.86822
+      ],
+      "monthly": {
+        "Jan": 3.01,
+        "Feb": 3.76,
+        "Mar": 4.39,
+        "Apr": 4.78,
+        "May": 5.07,
+        "Jun": 5.27,
+        "Jul": 5.54,
+        "Aug": 5.55,
+        "Sep": 4.91,
+        "Oct": 3.88,
+        "Nov": 3.12,
+        "Dec": 2.74
+      },
+      "average": 4.33
+    },
+    {
+      "name": "Arrentela",
+      "admin1_code": "19",
+      "location": [
+        38.625,
+        -9.10151
+      ],
+      "monthly": {
+        "Jan": 3.06,
+        "Feb": 3.83,
+        "Mar": 4.5,
+        "Apr": 5.01,
+        "May": 5.33,
+        "Jun": 5.49,
+        "Jul": 5.7,
+        "Aug": 5.68,
+        "Sep": 5.1,
+        "Oct": 3.99,
+        "Nov": 3.19,
+        "Dec": 2.8
+      },
+      "average": 4.47
+    },
+    {
+      "name": "Areeiro",
+      "admin1_code": "14",
+      "location": [
+        38.741,
+        -9.138
+      ],
+      "monthly": {
+        "Jan": 3.08,
+        "Feb": 3.83,
+        "Mar": 4.47,
+        "Apr": 4.94,
+        "May": 5.23,
+        "Jun": 5.42,
+        "Jul": 5.65,
+        "Aug": 5.66,
+        "Sep": 5.03,
+        "Oct": 3.93,
+        "Nov": 3.18,
+        "Dec": 2.82
+      },
+      "average": 4.44
+    },
+    {
+      "name": "Amora",
+      "admin1_code": "19",
+      "location": [
+        38.62961,
+        -9.11557
+      ],
+      "monthly": {
+        "Jan": 3.04,
+        "Feb": 3.8,
+        "Mar": 4.49,
+        "Apr": 5,
+        "May": 5.32,
+        "Jun": 5.5,
+        "Jul": 5.71,
+        "Aug": 5.68,
+        "Sep": 5.09,
+        "Oct": 3.97,
+        "Nov": 3.17,
+        "Dec": 2.77
+      },
+      "average": 4.46
+    },
+    {
+      "name": "Amadora",
+      "admin1_code": "14",
+      "location": [
+        38.75382,
+        -9.23083
+      ],
+      "monthly": {
+        "Jan": 3.04,
+        "Feb": 3.79,
+        "Mar": 4.41,
+        "Apr": 4.89,
+        "May": 5.18,
+        "Jun": 5.37,
+        "Jul": 5.6,
+        "Aug": 5.62,
+        "Sep": 5,
+        "Oct": 3.88,
+        "Nov": 3.17,
+        "Dec": 2.79
+      },
+      "average": 4.4
+    },
+    {
+      "name": "Almada",
+      "admin1_code": "19",
+      "location": [
+        38.67902,
+        -9.1569
+      ],
+      "monthly": {
+        "Jan": 3.01,
+        "Feb": 3.75,
+        "Mar": 4.43,
+        "Apr": 4.96,
+        "May": 5.29,
+        "Jun": 5.48,
+        "Jul": 5.69,
+        "Aug": 5.66,
+        "Sep": 5.05,
+        "Oct": 3.91,
+        "Nov": 3.11,
+        "Dec": 2.74
+      },
+      "average": 4.42
+    },
+    {
+      "name": "Algueirão",
+      "admin1_code": "14",
+      "location": [
+        38.79764,
+        -9.3437
+      ],
+      "monthly": {
+        "Jan": 2.99,
+        "Feb": 3.74,
+        "Mar": 4.37,
+        "Apr": 4.88,
+        "May": 5.12,
+        "Jun": 5.29,
+        "Jul": 5.45,
+        "Aug": 5.5,
+        "Sep": 5,
+        "Oct": 3.88,
+        "Nov": 3.16,
+        "Dec": 2.79
+      },
+      "average": 4.35
+    },
+    {
+      "name": "Algés",
+      "admin1_code": "14",
+      "location": [
+        38.70245,
+        -9.22936
+      ],
+      "monthly": {
+        "Jan": 3.04,
+        "Feb": 3.79,
+        "Mar": 4.45,
+        "Apr": 4.97,
+        "May": 5.27,
+        "Jun": 5.45,
+        "Jul": 5.66,
+        "Aug": 5.64,
+        "Sep": 5.04,
+        "Oct": 3.91,
+        "Nov": 3.15,
+        "Dec": 2.79
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Alfornelos",
+      "admin1_code": "14",
+      "location": [
+        38.76098,
+        -9.20508
+      ],
+      "monthly": {
+        "Jan": 3.04,
+        "Feb": 3.77,
+        "Mar": 4.39,
+        "Apr": 4.87,
+        "May": 5.15,
+        "Jun": 5.34,
+        "Jul": 5.59,
+        "Aug": 5.6,
+        "Sep": 4.97,
+        "Oct": 3.87,
+        "Nov": 3.16,
+        "Dec": 2.79
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Alcobaça",
+      "admin1_code": "13",
+      "location": [
+        39.55223,
+        -8.97749
+      ],
+      "monthly": {
+        "Jan": 2.93,
+        "Feb": 3.65,
+        "Mar": 4.22,
+        "Apr": 4.67,
+        "May": 4.86,
+        "Jun": 5.02,
+        "Jul": 5.15,
+        "Aug": 5.21,
+        "Sep": 4.75,
+        "Oct": 3.73,
+        "Nov": 3.02,
+        "Dec": 2.73
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Alcântara",
+      "admin1_code": "14",
+      "location": [
+        38.70102,
+        -9.17145
+      ],
+      "monthly": {
+        "Jan": 3.05,
+        "Feb": 3.8,
+        "Mar": 4.45,
+        "Apr": 4.95,
+        "May": 5.26,
+        "Jun": 5.45,
+        "Jul": 5.67,
+        "Aug": 5.65,
+        "Sep": 5.03,
+        "Oct": 3.91,
+        "Nov": 3.15,
+        "Dec": 2.79
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Alcabideche",
+      "admin1_code": "14",
+      "location": [
+        38.73366,
+        -9.40928
+      ],
+      "monthly": {
+        "Jan": 2.96,
+        "Feb": 3.72,
+        "Mar": 4.38,
+        "Apr": 4.95,
+        "May": 5.22,
+        "Jun": 5.37,
+        "Jul": 5.49,
+        "Aug": 5.51,
+        "Sep": 5.01,
+        "Oct": 3.86,
+        "Nov": 3.12,
+        "Dec": 2.73
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Albufeira",
+      "admin1_code": "09",
+      "location": [
+        37.08819,
+        -8.2503
+      ],
+      "monthly": {
+        "Jan": 3.47,
+        "Feb": 4.21,
+        "Mar": 4.83,
+        "Apr": 5.26,
+        "May": 5.5,
+        "Jun": 5.7,
+        "Jul": 5.84,
+        "Aug": 5.75,
+        "Sep": 5.26,
+        "Oct": 4.27,
+        "Nov": 3.58,
+        "Dec": 3.17
+      },
+      "average": 4.74
+    },
+    {
+      "name": "Viseu",
+      "admin1_code": "22",
+      "location": [
+        40.66165,
+        -7.90905
+      ],
+      "monthly": {
+        "Jan": 2.95,
+        "Feb": 3.72,
+        "Mar": 4.25,
+        "Apr": 4.5,
+        "May": 4.86,
+        "Jun": 5.13,
+        "Jul": 5.53,
+        "Aug": 5.47,
+        "Sep": 4.74,
+        "Oct": 3.71,
+        "Nov": 2.98,
+        "Dec": 2.74
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Vila Real",
+      "admin1_code": "21",
+      "location": [
+        41.3001,
+        -7.7432
+      ],
+      "monthly": {
+        "Jan": 2.56,
+        "Feb": 3.55,
+        "Mar": 4.13,
+        "Apr": 4.47,
+        "May": 4.87,
+        "Jun": 5.24,
+        "Jul": 5.62,
+        "Aug": 5.5,
+        "Sep": 4.72,
+        "Oct": 3.53,
+        "Nov": 2.65,
+        "Dec": 2.28
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Vilar de Andorinho",
+      "admin1_code": "17",
+      "location": [
+        41.10574,
+        -8.58622
+      ],
+      "monthly": {
+        "Jan": 2.85,
+        "Feb": 3.66,
+        "Mar": 4.28,
+        "Apr": 4.81,
+        "May": 5.06,
+        "Jun": 5.18,
+        "Jul": 5.31,
+        "Aug": 5.19,
+        "Sep": 4.73,
+        "Oct": 3.64,
+        "Nov": 2.93,
+        "Dec": 2.6
+      },
+      "average": 4.19
+    },
+    {
+      "name": "Vilar",
+      "admin1_code": "02",
+      "location": [
+        40.62731,
+        -8.63225
+      ],
+      "monthly": {
+        "Jan": 2.91,
+        "Feb": 3.71,
+        "Mar": 4.28,
+        "Apr": 4.78,
+        "May": 4.98,
+        "Jun": 5.08,
+        "Jul": 5.22,
+        "Aug": 5.14,
+        "Sep": 4.69,
+        "Oct": 3.67,
+        "Nov": 2.96,
+        "Dec": 2.67
+      },
+      "average": 4.17
+    },
+    {
+      "name": "Vila Nova de Gaia",
+      "admin1_code": "17",
+      "location": [
+        41.12401,
+        -8.61241
+      ],
+      "monthly": {
+        "Jan": 2.84,
+        "Feb": 3.67,
+        "Mar": 4.3,
+        "Apr": 4.84,
+        "May": 5.07,
+        "Jun": 5.17,
+        "Jul": 5.28,
+        "Aug": 5.16,
+        "Sep": 4.72,
+        "Oct": 3.65,
+        "Nov": 2.94,
+        "Dec": 2.6
+      },
+      "average": 4.19
+    },
+    {
+      "name": "Vila do Conde",
+      "admin1_code": "17",
+      "location": [
+        41.35326,
+        -8.74516
+      ],
+      "monthly": {
+        "Jan": 2.73,
+        "Feb": 3.57,
+        "Mar": 4.24,
+        "Apr": 4.87,
+        "May": 5.08,
+        "Jun": 5.2,
+        "Jul": 5.24,
+        "Aug": 5.08,
+        "Sep": 4.63,
+        "Oct": 3.55,
+        "Nov": 2.82,
+        "Dec": 2.47
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Viana do Castelo",
+      "admin1_code": "20",
+      "location": [
+        41.69323,
+        -8.83287
+      ],
+      "monthly": {
+        "Jan": 2.61,
+        "Feb": 3.45,
+        "Mar": 4.15,
+        "Apr": 4.76,
+        "May": 5.02,
+        "Jun": 5.2,
+        "Jul": 5.3,
+        "Aug": 5.16,
+        "Sep": 4.64,
+        "Oct": 3.47,
+        "Nov": 2.75,
+        "Dec": 2.38
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Vermoim",
+      "admin1_code": "17",
+      "location": [
+        41.24315,
+        -8.60651
+      ],
+      "monthly": {
+        "Jan": 2.77,
+        "Feb": 3.57,
+        "Mar": 4.17,
+        "Apr": 4.68,
+        "May": 4.95,
+        "Jun": 5.14,
+        "Jul": 5.26,
+        "Aug": 5.15,
+        "Sep": 4.65,
+        "Oct": 3.55,
+        "Nov": 2.87,
+        "Dec": 2.53
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Valongo",
+      "admin1_code": "17",
+      "location": [
+        41.18883,
+        -8.49857
+      ],
+      "monthly": {
+        "Jan": 2.72,
+        "Feb": 3.48,
+        "Mar": 4.06,
+        "Apr": 4.5,
+        "May": 4.77,
+        "Jun": 4.97,
+        "Jul": 5.19,
+        "Aug": 5.12,
+        "Sep": 4.55,
+        "Oct": 3.47,
+        "Nov": 2.79,
+        "Dec": 2.45
+      },
+      "average": 4.01
+    },
+    {
+      "name": "Valadares",
+      "admin1_code": "17",
+      "location": [
+        41.09294,
+        -8.63219
+      ],
+      "monthly": {
+        "Jan": 2.84,
+        "Feb": 3.65,
+        "Mar": 4.28,
+        "Apr": 4.84,
+        "May": 5.06,
+        "Jun": 5.15,
+        "Jul": 5.24,
+        "Aug": 5.1,
+        "Sep": 4.68,
+        "Oct": 3.63,
+        "Nov": 2.91,
+        "Dec": 2.57
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Trofa",
+      "admin1_code": "17",
+      "location": [
+        41.33729,
+        -8.5596
+      ],
+      "monthly": {
+        "Jan": 2.72,
+        "Feb": 3.49,
+        "Mar": 4.09,
+        "Apr": 4.58,
+        "May": 4.85,
+        "Jun": 5.07,
+        "Jul": 5.24,
+        "Aug": 5.13,
+        "Sep": 4.57,
+        "Oct": 3.5,
+        "Nov": 2.83,
+        "Dec": 2.49
+      },
+      "average": 4.05
+    },
+    {
+      "name": "Sequeira",
+      "admin1_code": "11",
+      "location": [
+        40.55364,
+        -7.22594
+      ],
+      "monthly": {
+        "Jan": 2.96,
+        "Feb": 3.87,
+        "Mar": 4.39,
+        "Apr": 4.71,
+        "May": 5.05,
+        "Jun": 5.42,
+        "Jul": 5.83,
+        "Aug": 5.72,
+        "Sep": 4.98,
+        "Oct": 3.87,
+        "Nov": 3.01,
+        "Dec": 2.69
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Senhora da Hora",
+      "admin1_code": "17",
+      "location": [
+        41.18641,
+        -8.65172
+      ],
+      "monthly": {
+        "Jan": 2.83,
+        "Feb": 3.69,
+        "Mar": 4.31,
+        "Apr": 4.87,
+        "May": 5.08,
+        "Jun": 5.2,
+        "Jul": 5.28,
+        "Aug": 5.15,
+        "Sep": 4.73,
+        "Oct": 3.65,
+        "Nov": 2.93,
+        "Dec": 2.59
+      },
+      "average": 4.19
+    },
+    {
+      "name": "São Tiago de Custoias",
+      "admin1_code": "17",
+      "location": [
+        41.2,
+        -8.63333
+      ],
+      "monthly": {
+        "Jan": 2.81,
+        "Feb": 3.64,
+        "Mar": 4.26,
+        "Apr": 4.8,
+        "May": 5.03,
+        "Jun": 5.18,
+        "Jul": 5.27,
+        "Aug": 5.16,
+        "Sep": 4.71,
+        "Oct": 3.62,
+        "Nov": 2.91,
+        "Dec": 2.57
+      },
+      "average": 4.16
+    },
+    {
+      "name": "São Pedro da Cova",
+      "admin1_code": "17",
+      "location": [
+        41.14331,
+        -8.50033
+      ],
+      "monthly": {
+        "Jan": 2.75,
+        "Feb": 3.5,
+        "Mar": 4.08,
+        "Apr": 4.55,
+        "May": 4.82,
+        "Jun": 5,
+        "Jul": 5.21,
+        "Aug": 5.12,
+        "Sep": 4.57,
+        "Oct": 3.49,
+        "Nov": 2.81,
+        "Dec": 2.5
+      },
+      "average": 4.03
+    },
+    {
+      "name": "São Paulo de Frades",
+      "admin1_code": "07",
+      "location": [
+        40.24678,
+        -8.39402
+      ],
+      "monthly": {
+        "Jan": 2.84,
+        "Feb": 3.55,
+        "Mar": 4.06,
+        "Apr": 4.38,
+        "May": 4.64,
+        "Jun": 4.78,
+        "Jul": 5.1,
+        "Aug": 5.08,
+        "Sep": 4.51,
+        "Oct": 3.53,
+        "Nov": 2.88,
+        "Dec": 2.63
+      },
+      "average": 4
+    },
+    {
+      "name": "São Martinho do Bispo",
+      "admin1_code": "07",
+      "location": [
+        40.21021,
+        -8.45692
+      ],
+      "monthly": {
+        "Jan": 2.94,
+        "Feb": 3.65,
+        "Mar": 4.14,
+        "Apr": 4.51,
+        "May": 4.74,
+        "Jun": 4.88,
+        "Jul": 5.17,
+        "Aug": 5.13,
+        "Sep": 4.56,
+        "Oct": 3.6,
+        "Nov": 2.97,
+        "Dec": 2.7
+      },
+      "average": 4.08
+    },
+    {
+      "name": "São Mamede de Infesta",
+      "admin1_code": "17",
+      "location": [
+        41.19183,
+        -8.61105
+      ],
+      "monthly": {
+        "Jan": 2.82,
+        "Feb": 3.64,
+        "Mar": 4.26,
+        "Apr": 4.78,
+        "May": 5.03,
+        "Jun": 5.18,
+        "Jul": 5.29,
+        "Aug": 5.18,
+        "Sep": 4.71,
+        "Oct": 3.62,
+        "Nov": 2.91,
+        "Dec": 2.58
+      },
+      "average": 4.17
+    },
+    {
+      "name": "São João da Madeira",
+      "admin1_code": "02",
+      "location": [
+        40.9007,
+        -8.4902
+      ],
+      "monthly": {
+        "Jan": 2.83,
+        "Feb": 3.55,
+        "Mar": 4.1,
+        "Apr": 4.52,
+        "May": 4.81,
+        "Jun": 4.97,
+        "Jul": 5.22,
+        "Aug": 5.17,
+        "Sep": 4.62,
+        "Oct": 3.56,
+        "Nov": 2.89,
+        "Dec": 2.58
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Santo Ovídio",
+      "admin1_code": "17",
+      "location": [
+        41.11379,
+        -8.60235
+      ],
+      "monthly": {
+        "Jan": 2.84,
+        "Feb": 3.67,
+        "Mar": 4.29,
+        "Apr": 4.82,
+        "May": 5.06,
+        "Jun": 5.17,
+        "Jul": 5.27,
+        "Aug": 5.16,
+        "Sep": 4.72,
+        "Oct": 3.64,
+        "Nov": 2.93,
+        "Dec": 2.59
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Santo António dos Olivais",
+      "admin1_code": "07",
+      "location": [
+        40.21805,
+        -8.40523
+      ],
+      "monthly": {
+        "Jan": 2.9,
+        "Feb": 3.62,
+        "Mar": 4.1,
+        "Apr": 4.42,
+        "May": 4.67,
+        "Jun": 4.8,
+        "Jul": 5.13,
+        "Aug": 5.09,
+        "Sep": 4.54,
+        "Oct": 3.58,
+        "Nov": 2.93,
+        "Dec": 2.66
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Rio Tinto",
+      "admin1_code": "17",
+      "location": [
+        41.17872,
+        -8.55953
+      ],
+      "monthly": {
+        "Jan": 2.81,
+        "Feb": 3.6,
+        "Mar": 4.19,
+        "Apr": 4.67,
+        "May": 4.93,
+        "Jun": 5.09,
+        "Jul": 5.26,
+        "Aug": 5.18,
+        "Sep": 4.67,
+        "Oct": 3.58,
+        "Nov": 2.9,
+        "Dec": 2.57
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Ribeira de Frades",
+      "admin1_code": "07",
+      "location": [
+        40.20503,
+        -8.47929
+      ],
+      "monthly": {
+        "Jan": 2.94,
+        "Feb": 3.65,
+        "Mar": 4.15,
+        "Apr": 4.52,
+        "May": 4.76,
+        "Jun": 4.91,
+        "Jul": 5.19,
+        "Aug": 5.14,
+        "Sep": 4.57,
+        "Oct": 3.61,
+        "Nov": 2.98,
+        "Dec": 2.71
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Póvoa de Varzim",
+      "admin1_code": "17",
+      "location": [
+        41.38344,
+        -8.76364
+      ],
+      "monthly": {
+        "Jan": 2.74,
+        "Feb": 3.6,
+        "Mar": 4.27,
+        "Apr": 4.89,
+        "May": 5.1,
+        "Jun": 5.21,
+        "Jul": 5.26,
+        "Aug": 5.12,
+        "Sep": 4.66,
+        "Oct": 3.58,
+        "Nov": 2.83,
+        "Dec": 2.49
+      },
+      "average": 4.15
+    },
+    {
+      "name": "Porto",
+      "admin1_code": "17",
+      "location": [
+        41.1485,
+        -8.61097
+      ],
+      "monthly": {
+        "Jan": 2.83,
+        "Feb": 3.65,
+        "Mar": 4.28,
+        "Apr": 4.82,
+        "May": 5.06,
+        "Jun": 5.19,
+        "Jul": 5.29,
+        "Aug": 5.18,
+        "Sep": 4.72,
+        "Oct": 3.63,
+        "Nov": 2.91,
+        "Dec": 2.59
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Ponte de Lima",
+      "admin1_code": "20",
+      "location": [
+        41.76719,
+        -8.58393
+      ],
+      "monthly": {
+        "Jan": 2.55,
+        "Feb": 3.34,
+        "Mar": 3.96,
+        "Apr": 4.41,
+        "May": 4.68,
+        "Jun": 4.96,
+        "Jul": 5.21,
+        "Aug": 5.13,
+        "Sep": 4.48,
+        "Oct": 3.33,
+        "Nov": 2.64,
+        "Dec": 2.34
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Pedroso",
+      "admin1_code": "17",
+      "location": [
+        41.41103,
+        -8.74897
+      ],
+      "monthly": {
+        "Jan": 2.78,
+        "Feb": 3.63,
+        "Mar": 4.3,
+        "Apr": 4.89,
+        "May": 5.09,
+        "Jun": 5.21,
+        "Jul": 5.27,
+        "Aug": 5.14,
+        "Sep": 4.7,
+        "Oct": 3.62,
+        "Nov": 2.87,
+        "Dec": 2.52
+      },
+      "average": 4.17
+    },
+    {
+      "name": "Paredes",
+      "admin1_code": "17",
+      "location": [
+        41.20485,
+        -8.33147
+      ],
+      "monthly": {
+        "Jan": 2.77,
+        "Feb": 3.53,
+        "Mar": 4.1,
+        "Apr": 4.48,
+        "May": 4.76,
+        "Jun": 4.97,
+        "Jul": 5.27,
+        "Aug": 5.21,
+        "Sep": 4.57,
+        "Oct": 3.51,
+        "Nov": 2.82,
+        "Dec": 2.53
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Paranhos",
+      "admin1_code": "17",
+      "location": [
+        41.17289,
+        -8.59931
+      ],
+      "monthly": {
+        "Jan": 2.82,
+        "Feb": 3.64,
+        "Mar": 4.25,
+        "Apr": 4.77,
+        "May": 5.02,
+        "Jun": 5.16,
+        "Jul": 5.29,
+        "Aug": 5.19,
+        "Sep": 4.71,
+        "Oct": 3.61,
+        "Nov": 2.91,
+        "Dec": 2.58
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Ovar",
+      "admin1_code": "02",
+      "location": [
+        40.85862,
+        -8.62513
+      ],
+      "monthly": {
+        "Jan": 2.83,
+        "Feb": 3.63,
+        "Mar": 4.25,
+        "Apr": 4.82,
+        "May": 5.05,
+        "Jun": 5.15,
+        "Jul": 5.25,
+        "Aug": 5.12,
+        "Sep": 4.66,
+        "Oct": 3.62,
+        "Nov": 2.9,
+        "Dec": 2.58
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Oliveira do Douro",
+      "admin1_code": "17",
+      "location": [
+        41.12466,
+        -8.58463
+      ],
+      "monthly": {
+        "Jan": 2.82,
+        "Feb": 3.63,
+        "Mar": 4.24,
+        "Apr": 4.77,
+        "May": 5.03,
+        "Jun": 5.15,
+        "Jul": 5.28,
+        "Aug": 5.18,
+        "Sep": 4.71,
+        "Oct": 3.61,
+        "Nov": 2.9,
+        "Dec": 2.57
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Monção",
+      "admin1_code": "20",
+      "location": [
+        42.07892,
+        -8.48076
+      ],
+      "monthly": {
+        "Jan": 2.42,
+        "Feb": 3.26,
+        "Mar": 3.92,
+        "Apr": 4.34,
+        "May": 4.61,
+        "Jun": 4.85,
+        "Jul": 5.14,
+        "Aug": 5.07,
+        "Sep": 4.39,
+        "Oct": 3.28,
+        "Nov": 2.5,
+        "Dec": 2.22
+      },
+      "average": 3.83
+    },
+    {
+      "name": "Matosinhos",
+      "admin1_code": "17",
+      "location": [
+        41.18207,
+        -8.68908
+      ],
+      "monthly": {
+        "Jan": 2.79,
+        "Feb": 3.62,
+        "Mar": 4.27,
+        "Apr": 4.88,
+        "May": 5.09,
+        "Jun": 5.19,
+        "Jul": 5.25,
+        "Aug": 5.09,
+        "Sep": 4.66,
+        "Oct": 3.59,
+        "Nov": 2.86,
+        "Dec": 2.51
+      },
+      "average": 4.15
+    },
+    {
+      "name": "Maia",
+      "admin1_code": "17",
+      "location": [
+        41.23574,
+        -8.6199
+      ],
+      "monthly": {
+        "Jan": 2.78,
+        "Feb": 3.6,
+        "Mar": 4.21,
+        "Apr": 4.74,
+        "May": 5,
+        "Jun": 5.17,
+        "Jul": 5.27,
+        "Aug": 5.16,
+        "Sep": 4.68,
+        "Oct": 3.58,
+        "Nov": 2.88,
+        "Dec": 2.54
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Lordelo do Ouro",
+      "admin1_code": "17",
+      "location": [
+        41.15059,
+        -8.64845
+      ],
+      "monthly": {
+        "Jan": 2.82,
+        "Feb": 3.65,
+        "Mar": 4.29,
+        "Apr": 4.86,
+        "May": 5.08,
+        "Jun": 5.19,
+        "Jul": 5.27,
+        "Aug": 5.14,
+        "Sep": 4.7,
+        "Oct": 3.62,
+        "Nov": 2.9,
+        "Dec": 2.56
+      },
+      "average": 4.17
+    },
+    {
+      "name": "Leça do Bailio",
+      "admin1_code": "17",
+      "location": [
+        41.21201,
+        -8.63422
+      ],
+      "monthly": {
+        "Jan": 2.82,
+        "Feb": 3.65,
+        "Mar": 4.26,
+        "Apr": 4.81,
+        "May": 5.04,
+        "Jun": 5.18,
+        "Jul": 5.27,
+        "Aug": 5.15,
+        "Sep": 4.7,
+        "Oct": 3.62,
+        "Nov": 2.91,
+        "Dec": 2.57
+      },
+      "average": 4.17
+    },
+    {
+      "name": "Leça da Palmeira",
+      "admin1_code": "17",
+      "location": [
+        41.191,
+        -8.70027
+      ],
+      "monthly": {
+        "Jan": 2.75,
+        "Feb": 3.57,
+        "Mar": 4.23,
+        "Apr": 4.85,
+        "May": 5.07,
+        "Jun": 5.17,
+        "Jul": 5.23,
+        "Aug": 5.05,
+        "Sep": 4.61,
+        "Oct": 3.55,
+        "Nov": 2.82,
+        "Dec": 2.47
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Ílhavo",
+      "admin1_code": "02",
+      "location": [
+        40.60188,
+        -8.67021
+      ],
+      "monthly": {
+        "Jan": 2.9,
+        "Feb": 3.71,
+        "Mar": 4.31,
+        "Apr": 4.82,
+        "May": 5.02,
+        "Jun": 5.12,
+        "Jul": 5.24,
+        "Aug": 5.15,
+        "Sep": 4.7,
+        "Oct": 3.69,
+        "Nov": 2.96,
+        "Dec": 2.67
+      },
+      "average": 4.19
+    },
+    {
+      "name": "Guimarães",
+      "admin1_code": "04",
+      "location": [
+        41.44443,
+        -8.29619
+      ],
+      "monthly": {
+        "Jan": 2.7,
+        "Feb": 3.48,
+        "Mar": 4.07,
+        "Apr": 4.43,
+        "May": 4.68,
+        "Jun": 4.91,
+        "Jul": 5.19,
+        "Aug": 5.16,
+        "Sep": 4.52,
+        "Oct": 3.45,
+        "Nov": 2.76,
+        "Dec": 2.47
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Guarda",
+      "admin1_code": "11",
+      "location": [
+        40.53754,
+        -7.26631
+      ],
+      "monthly": {
+        "Jan": 2.99,
+        "Feb": 3.86,
+        "Mar": 4.39,
+        "Apr": 4.73,
+        "May": 5.06,
+        "Jun": 5.44,
+        "Jul": 5.86,
+        "Aug": 5.74,
+        "Sep": 4.98,
+        "Oct": 3.86,
+        "Nov": 3.02,
+        "Dec": 2.7
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Gondomar",
+      "admin1_code": "17",
+      "location": [
+        41.14454,
+        -8.53223
+      ],
+      "monthly": {
+        "Jan": 2.76,
+        "Feb": 3.54,
+        "Mar": 4.14,
+        "Apr": 4.61,
+        "May": 4.88,
+        "Jun": 5.05,
+        "Jul": 5.24,
+        "Aug": 5.15,
+        "Sep": 4.62,
+        "Oct": 3.52,
+        "Nov": 2.85,
+        "Dec": 2.53
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Figueira da Foz",
+      "admin1_code": "07",
+      "location": [
+        40.15085,
+        -8.86179
+      ],
+      "monthly": {
+        "Jan": 2.9,
+        "Feb": 3.68,
+        "Mar": 4.32,
+        "Apr": 4.89,
+        "May": 5.1,
+        "Jun": 5.19,
+        "Jul": 5.29,
+        "Aug": 5.22,
+        "Sep": 4.79,
+        "Oct": 3.7,
+        "Nov": 2.97,
+        "Dec": 2.65
+      },
+      "average": 4.23
+    },
+    {
+      "name": "Felgueiras",
+      "admin1_code": "17",
+      "location": [
+        41.36806,
+        -8.19396
+      ],
+      "monthly": {
+        "Jan": 2.77,
+        "Feb": 3.55,
+        "Mar": 4.11,
+        "Apr": 4.45,
+        "May": 4.73,
+        "Jun": 4.95,
+        "Jul": 5.28,
+        "Aug": 5.24,
+        "Sep": 4.59,
+        "Oct": 3.5,
+        "Nov": 2.81,
+        "Dec": 2.54
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Feira",
+      "admin1_code": "02",
+      "location": [
+        40.92535,
+        -8.54277
+      ],
+      "monthly": {
+        "Jan": 2.84,
+        "Feb": 3.61,
+        "Mar": 4.19,
+        "Apr": 4.66,
+        "May": 4.92,
+        "Jun": 5.06,
+        "Jul": 5.24,
+        "Aug": 5.17,
+        "Sep": 4.67,
+        "Oct": 3.61,
+        "Nov": 2.91,
+        "Dec": 2.6
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Fânzeres",
+      "admin1_code": "17",
+      "location": [
+        41.16754,
+        -8.52981
+      ],
+      "monthly": {
+        "Jan": 2.79,
+        "Feb": 3.56,
+        "Mar": 4.15,
+        "Apr": 4.61,
+        "May": 4.88,
+        "Jun": 5.06,
+        "Jul": 5.26,
+        "Aug": 5.18,
+        "Sep": 4.64,
+        "Oct": 3.54,
+        "Nov": 2.87,
+        "Dec": 2.54
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Fafe",
+      "admin1_code": "04",
+      "location": [
+        41.45083,
+        -8.17258
+      ],
+      "monthly": {
+        "Jan": 2.74,
+        "Feb": 3.53,
+        "Mar": 4.08,
+        "Apr": 4.36,
+        "May": 4.64,
+        "Jun": 4.88,
+        "Jul": 5.21,
+        "Aug": 5.19,
+        "Sep": 4.53,
+        "Oct": 3.47,
+        "Nov": 2.78,
+        "Dec": 2.51
+      },
+      "average": 3.99
+    },
+    {
+      "name": "Esposende",
+      "admin1_code": "04",
+      "location": [
+        41.5361,
+        -8.78201
+      ],
+      "monthly": {
+        "Jan": 2.65,
+        "Feb": 3.48,
+        "Mar": 4.18,
+        "Apr": 4.81,
+        "May": 5.06,
+        "Jun": 5.21,
+        "Jul": 5.27,
+        "Aug": 5.11,
+        "Sep": 4.63,
+        "Oct": 3.5,
+        "Nov": 2.76,
+        "Dec": 2.41
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Espinho",
+      "admin1_code": "02",
+      "location": [
+        41.00763,
+        -8.64125
+      ],
+      "monthly": {
+        "Jan": 2.79,
+        "Feb": 3.6,
+        "Mar": 4.24,
+        "Apr": 4.83,
+        "May": 5.07,
+        "Jun": 5.14,
+        "Jul": 5.23,
+        "Aug": 5.05,
+        "Sep": 4.61,
+        "Oct": 3.59,
+        "Nov": 2.85,
+        "Dec": 2.52
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Ermesinde",
+      "admin1_code": "17",
+      "location": [
+        41.21653,
+        -8.55318
+      ],
+      "monthly": {
+        "Jan": 2.78,
+        "Feb": 3.56,
+        "Mar": 4.14,
+        "Apr": 4.62,
+        "May": 4.89,
+        "Jun": 5.08,
+        "Jul": 5.26,
+        "Aug": 5.16,
+        "Sep": 4.63,
+        "Oct": 3.54,
+        "Nov": 2.87,
+        "Dec": 2.53
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Eiras",
+      "admin1_code": "07",
+      "location": [
+        40.24827,
+        -8.41549
+      ],
+      "monthly": {
+        "Jan": 2.9,
+        "Feb": 3.6,
+        "Mar": 4.1,
+        "Apr": 4.42,
+        "May": 4.67,
+        "Jun": 4.8,
+        "Jul": 5.12,
+        "Aug": 5.09,
+        "Sep": 4.53,
+        "Oct": 3.57,
+        "Nov": 2.92,
+        "Dec": 2.65
+      },
+      "average": 4.03
+    },
+    {
+      "name": "Custoias",
+      "admin1_code": "11",
+      "location": [
+        41.1053,
+        -7.32097
+      ],
+      "monthly": {
+        "Jan": 2.42,
+        "Feb": 3.63,
+        "Mar": 4.34,
+        "Apr": 4.73,
+        "May": 5.02,
+        "Jun": 5.33,
+        "Jul": 5.71,
+        "Aug": 5.57,
+        "Sep": 4.84,
+        "Oct": 3.69,
+        "Nov": 2.64,
+        "Dec": 2.07
+      },
+      "average": 4.17
+    },
+    {
+      "name": "Covilhã",
+      "admin1_code": "06",
+      "location": [
+        40.28106,
+        -7.50504
+      ],
+      "monthly": {
+        "Jan": 3.13,
+        "Feb": 3.94,
+        "Mar": 4.4,
+        "Apr": 4.66,
+        "May": 4.96,
+        "Jun": 5.41,
+        "Jul": 5.8,
+        "Aug": 5.68,
+        "Sep": 4.91,
+        "Oct": 3.8,
+        "Nov": 3.03,
+        "Dec": 2.8
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Condeixa-a-Nova",
+      "admin1_code": "07",
+      "location": [
+        40.11283,
+        -8.49804
+      ],
+      "monthly": {
+        "Jan": 2.97,
+        "Feb": 3.65,
+        "Mar": 4.15,
+        "Apr": 4.47,
+        "May": 4.72,
+        "Jun": 4.89,
+        "Jul": 5.18,
+        "Aug": 5.14,
+        "Sep": 4.57,
+        "Oct": 3.64,
+        "Nov": 2.99,
+        "Dec": 2.72
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Coimbra",
+      "admin1_code": "07",
+      "location": [
+        40.20686,
+        -8.41996
+      ],
+      "monthly": {
+        "Jan": 2.95,
+        "Feb": 3.66,
+        "Mar": 4.16,
+        "Apr": 4.49,
+        "May": 4.74,
+        "Jun": 4.87,
+        "Jul": 5.19,
+        "Aug": 5.14,
+        "Sep": 4.59,
+        "Oct": 3.62,
+        "Nov": 2.98,
+        "Dec": 2.71
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Chaves",
+      "admin1_code": "21",
+      "location": [
+        41.74019,
+        -7.46879
+      ],
+      "monthly": {
+        "Jan": 2.51,
+        "Feb": 3.54,
+        "Mar": 4.21,
+        "Apr": 4.54,
+        "May": 4.9,
+        "Jun": 5.23,
+        "Jul": 5.54,
+        "Aug": 5.43,
+        "Sep": 4.7,
+        "Oct": 3.56,
+        "Nov": 2.61,
+        "Dec": 2.22
+      },
+      "average": 4.08
+    },
+    {
+      "name": "Canidelo",
+      "admin1_code": "17",
+      "location": [
+        41.12314,
+        -8.64654
+      ],
+      "monthly": {
+        "Jan": 2.8,
+        "Feb": 3.63,
+        "Mar": 4.28,
+        "Apr": 4.85,
+        "May": 5.07,
+        "Jun": 5.16,
+        "Jul": 5.25,
+        "Aug": 5.09,
+        "Sep": 4.66,
+        "Oct": 3.6,
+        "Nov": 2.87,
+        "Dec": 2.54
+      },
+      "average": 4.15
+    },
+    {
+      "name": "Campanhã",
+      "admin1_code": "17",
+      "location": [
+        41.15706,
+        -8.57466
+      ],
+      "monthly": {
+        "Jan": 2.79,
+        "Feb": 3.59,
+        "Mar": 4.2,
+        "Apr": 4.7,
+        "May": 4.97,
+        "Jun": 5.12,
+        "Jul": 5.27,
+        "Aug": 5.17,
+        "Sep": 4.67,
+        "Oct": 3.58,
+        "Nov": 2.89,
+        "Dec": 2.56
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Cabeceiras de Basto",
+      "admin1_code": "04",
+      "location": [
+        41.51431,
+        -7.98942
+      ],
+      "monthly": {
+        "Jan": 2.67,
+        "Feb": 3.5,
+        "Mar": 4.03,
+        "Apr": 4.33,
+        "May": 4.66,
+        "Jun": 4.96,
+        "Jul": 5.31,
+        "Aug": 5.25,
+        "Sep": 4.54,
+        "Oct": 3.44,
+        "Nov": 2.69,
+        "Dec": 2.43
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Bragança",
+      "admin1_code": "05",
+      "location": [
+        41.80716,
+        -6.75898
+      ],
+      "monthly": {
+        "Jan": 2.77,
+        "Feb": 3.8,
+        "Mar": 4.39,
+        "Apr": 4.7,
+        "May": 5.02,
+        "Jun": 5.38,
+        "Jul": 5.71,
+        "Aug": 5.59,
+        "Sep": 4.89,
+        "Oct": 3.78,
+        "Nov": 2.92,
+        "Dec": 2.47
+      },
+      "average": 4.29
+    },
+    {
+      "name": "Braga",
+      "admin1_code": "04",
+      "location": [
+        41.5514,
+        -8.42311
+      ],
+      "monthly": {
+        "Jan": 2.7,
+        "Feb": 3.51,
+        "Mar": 4.1,
+        "Apr": 4.5,
+        "May": 4.74,
+        "Jun": 5,
+        "Jul": 5.25,
+        "Aug": 5.18,
+        "Sep": 4.57,
+        "Oct": 3.47,
+        "Nov": 2.79,
+        "Dec": 2.48
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Bougado",
+      "admin1_code": "17",
+      "location": [
+        41.33979,
+        -8.5518
+      ],
+      "monthly": {
+        "Jan": 2.71,
+        "Feb": 3.48,
+        "Mar": 4.08,
+        "Apr": 4.56,
+        "May": 4.83,
+        "Jun": 5.05,
+        "Jul": 5.22,
+        "Aug": 5.12,
+        "Sep": 4.56,
+        "Oct": 3.49,
+        "Nov": 2.82,
+        "Dec": 2.48
+      },
+      "average": 4.03
+    },
+    {
+      "name": "Bomfim",
+      "admin1_code": "17",
+      "location": [
+        41.15417,
+        -8.58688
+      ],
+      "monthly": {
+        "Jan": 2.81,
+        "Feb": 3.62,
+        "Mar": 4.24,
+        "Apr": 4.76,
+        "May": 5.03,
+        "Jun": 5.17,
+        "Jul": 5.3,
+        "Aug": 5.2,
+        "Sep": 4.71,
+        "Oct": 3.61,
+        "Nov": 2.9,
+        "Dec": 2.57
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Barcelos",
+      "admin1_code": "04",
+      "location": [
+        41.53174,
+        -8.61843
+      ],
+      "monthly": {
+        "Jan": 2.65,
+        "Feb": 3.44,
+        "Mar": 4.05,
+        "Apr": 4.54,
+        "May": 4.83,
+        "Jun": 5.06,
+        "Jul": 5.24,
+        "Aug": 5.13,
+        "Sep": 4.55,
+        "Oct": 3.43,
+        "Nov": 2.75,
+        "Dec": 2.42
+      },
+      "average": 4.01
+    },
+    {
+      "name": "Bairro Novo",
+      "admin1_code": "04",
+      "location": [
+        41.54317,
+        -8.40725
+      ],
+      "monthly": {
+        "Jan": 2.68,
+        "Feb": 3.49,
+        "Mar": 4.07,
+        "Apr": 4.45,
+        "May": 4.7,
+        "Jun": 4.95,
+        "Jul": 5.21,
+        "Aug": 5.15,
+        "Sep": 4.54,
+        "Oct": 3.44,
+        "Nov": 2.77,
+        "Dec": 2.46
+      },
+      "average": 3.99
+    },
+    {
+      "name": "Baião",
+      "admin1_code": "17",
+      "location": [
+        41.16273,
+        -8.0347
+      ],
+      "monthly": {
+        "Jan": 2.8,
+        "Feb": 3.57,
+        "Mar": 4.12,
+        "Apr": 4.39,
+        "May": 4.72,
+        "Jun": 4.99,
+        "Jul": 5.36,
+        "Aug": 5.34,
+        "Sep": 4.64,
+        "Oct": 3.57,
+        "Nov": 2.8,
+        "Dec": 2.56
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Baguim do Monte",
+      "admin1_code": "17",
+      "location": [
+        41.19203,
+        -8.54118
+      ],
+      "monthly": {
+        "Jan": 2.81,
+        "Feb": 3.57,
+        "Mar": 4.15,
+        "Apr": 4.62,
+        "May": 4.88,
+        "Jun": 5.07,
+        "Jul": 5.26,
+        "Aug": 5.18,
+        "Sep": 4.64,
+        "Oct": 3.55,
+        "Nov": 2.88,
+        "Dec": 2.55
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Aveiro",
+      "admin1_code": "02",
+      "location": [
+        40.64575,
+        -8.64643
+      ],
+      "monthly": {
+        "Jan": 2.87,
+        "Feb": 3.67,
+        "Mar": 4.26,
+        "Apr": 4.78,
+        "May": 4.99,
+        "Jun": 5.09,
+        "Jul": 5.22,
+        "Aug": 5.12,
+        "Sep": 4.66,
+        "Oct": 3.63,
+        "Nov": 2.91,
+        "Dec": 2.62
+      },
+      "average": 4.15
+    },
+    {
+      "name": "Arouca",
+      "admin1_code": "02",
+      "location": [
+        40.93057,
+        -8.24488
+      ],
+      "monthly": {
+        "Jan": 2.71,
+        "Feb": 3.45,
+        "Mar": 3.97,
+        "Apr": 4.22,
+        "May": 4.57,
+        "Jun": 4.86,
+        "Jul": 5.24,
+        "Aug": 5.24,
+        "Sep": 4.5,
+        "Oct": 3.51,
+        "Nov": 2.77,
+        "Dec": 2.46
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Arcos de Valdevez",
+      "admin1_code": "20",
+      "location": [
+        41.84668,
+        -8.41905
+      ],
+      "monthly": {
+        "Jan": 2.51,
+        "Feb": 3.32,
+        "Mar": 3.92,
+        "Apr": 4.3,
+        "May": 4.58,
+        "Jun": 4.88,
+        "Jul": 5.19,
+        "Aug": 5.11,
+        "Sep": 4.41,
+        "Oct": 3.3,
+        "Nov": 2.58,
+        "Dec": 2.27
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Alfena",
+      "admin1_code": "17",
+      "location": [
+        41.23671,
+        -8.52454
+      ],
+      "monthly": {
+        "Jan": 2.74,
+        "Feb": 3.5,
+        "Mar": 4.06,
+        "Apr": 4.52,
+        "May": 4.79,
+        "Jun": 4.99,
+        "Jul": 5.2,
+        "Aug": 5.11,
+        "Sep": 4.56,
+        "Oct": 3.49,
+        "Nov": 2.82,
+        "Dec": 2.49
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Aldoar",
+      "admin1_code": "17",
+      "location": [
+        41.1671,
+        -8.6691
+      ],
+      "monthly": {
+        "Jan": 2.8,
+        "Feb": 3.63,
+        "Mar": 4.28,
+        "Apr": 4.87,
+        "May": 5.09,
+        "Jun": 5.19,
+        "Jul": 5.26,
+        "Aug": 5.1,
+        "Sep": 4.68,
+        "Oct": 3.6,
+        "Nov": 2.88,
+        "Dec": 2.53
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Águas Santas",
+      "admin1_code": "17",
+      "location": [
+        41.21017,
+        -8.57599
+      ],
+      "monthly": {
+        "Jan": 2.76,
+        "Feb": 3.56,
+        "Mar": 4.15,
+        "Apr": 4.65,
+        "May": 4.92,
+        "Jun": 5.1,
+        "Jul": 5.25,
+        "Aug": 5.15,
+        "Sep": 4.63,
+        "Oct": 3.55,
+        "Nov": 2.86,
+        "Dec": 2.52
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Afurada de Baixo",
+      "admin1_code": "17",
+      "location": [
+        41.14389,
+        -8.64639
+      ],
+      "monthly": {
+        "Jan": 2.77,
+        "Feb": 3.6,
+        "Mar": 4.24,
+        "Apr": 4.8,
+        "May": 5.02,
+        "Jun": 5.12,
+        "Jul": 5.21,
+        "Aug": 5.07,
+        "Sep": 4.63,
+        "Oct": 3.57,
+        "Nov": 2.85,
+        "Dec": 2.5
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Quinta Do Conde",
+      "admin1_code": "19",
+      "location": [
+        38.56528,
+        -9.04316
+      ],
+      "monthly": {
+        "Jan": 3.1,
+        "Feb": 3.87,
+        "Mar": 4.52,
+        "Apr": 5,
+        "May": 5.28,
+        "Jun": 5.45,
+        "Jul": 5.68,
+        "Aug": 5.68,
+        "Sep": 5.1,
+        "Oct": 4.01,
+        "Nov": 3.26,
+        "Dec": 2.86
+      },
+      "average": 4.48
+    },
+    {
+      "name": "Alfragide",
+      "admin1_code": "14",
+      "location": [
+        38.73203,
+        -9.2192
+      ],
+      "monthly": {
+        "Jan": 3.07,
+        "Feb": 3.82,
+        "Mar": 4.45,
+        "Apr": 4.95,
+        "May": 5.23,
+        "Jun": 5.41,
+        "Jul": 5.64,
+        "Aug": 5.64,
+        "Sep": 5.03,
+        "Oct": 3.92,
+        "Nov": 3.18,
+        "Dec": 2.82
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Alvalade",
+      "admin1_code": "14",
+      "location": [
+        38.75328,
+        -9.14397
+      ],
+      "monthly": {
+        "Jan": 3.1,
+        "Feb": 3.84,
+        "Mar": 4.47,
+        "Apr": 4.92,
+        "May": 5.19,
+        "Jun": 5.39,
+        "Jul": 5.62,
+        "Aug": 5.64,
+        "Sep": 5.03,
+        "Oct": 3.95,
+        "Nov": 3.21,
+        "Dec": 2.84
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Ponta Delgada",
+      "admin1_code": "23",
+      "location": [
+        37.73952,
+        -25.66874
+      ],
+      "monthly": {
+        "Jan": 2.09,
+        "Feb": 2.74,
+        "Mar": 3.45,
+        "Apr": 3.89,
+        "May": 4.22,
+        "Jun": 4.27,
+        "Jul": 4.36,
+        "Aug": 4.42,
+        "Sep": 3.93,
+        "Oct": 3,
+        "Nov": 2.35,
+        "Dec": 1.87
+      },
+      "average": 3.38
+    },
+    {
+      "name": "São Jorge de Arroios",
+      "admin1_code": "14",
+      "location": [
+        38.7289,
+        -9.13806
+      ],
+      "monthly": {
+        "Jan": 3.06,
+        "Feb": 3.82,
+        "Mar": 4.46,
+        "Apr": 4.93,
+        "May": 5.23,
+        "Jun": 5.43,
+        "Jul": 5.65,
+        "Aug": 5.65,
+        "Sep": 5.03,
+        "Oct": 3.91,
+        "Nov": 3.16,
+        "Dec": 2.8
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Azeitão",
+      "admin1_code": "19",
+      "location": [
+        38.51919,
+        -9.0139
+      ],
+      "monthly": {
+        "Jan": 3.08,
+        "Feb": 3.86,
+        "Mar": 4.51,
+        "Apr": 4.97,
+        "May": 5.24,
+        "Jun": 5.45,
+        "Jul": 5.69,
+        "Aug": 5.67,
+        "Sep": 5.06,
+        "Oct": 3.98,
+        "Nov": 3.24,
+        "Dec": 2.86
+      },
+      "average": 4.47
+    },
+    {
+      "name": "Parque das Nações",
+      "admin1_code": "14",
+      "location": [
+        38.76908,
+        -9.09632
+      ],
+      "monthly": {
+        "Jan": 2.98,
+        "Feb": 3.71,
+        "Mar": 4.37,
+        "Apr": 4.86,
+        "May": 5.17,
+        "Jun": 5.38,
+        "Jul": 5.61,
+        "Aug": 5.6,
+        "Sep": 4.97,
+        "Oct": 3.86,
+        "Nov": 3.09,
+        "Dec": 2.71
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Cidade Universitária",
+      "admin1_code": "14",
+      "location": [
+        38.75199,
+        -9.15917
+      ],
+      "monthly": {
+        "Jan": 3.09,
+        "Feb": 3.83,
+        "Mar": 4.46,
+        "Apr": 4.91,
+        "May": 5.19,
+        "Jun": 5.39,
+        "Jul": 5.62,
+        "Aug": 5.64,
+        "Sep": 5.01,
+        "Oct": 3.93,
+        "Nov": 3.2,
+        "Dec": 2.83
+      },
+      "average": 4.42
+    },
+    {
+      "name": "Campo De Ourique",
+      "admin1_code": "14",
+      "location": [
+        38.72134,
+        -9.16738
+      ],
+      "monthly": {
+        "Jan": 3.02,
+        "Feb": 3.77,
+        "Mar": 4.42,
+        "Apr": 4.89,
+        "May": 5.18,
+        "Jun": 5.37,
+        "Jul": 5.6,
+        "Aug": 5.6,
+        "Sep": 4.98,
+        "Oct": 3.87,
+        "Nov": 3.12,
+        "Dec": 2.78
+      },
+      "average": 4.38
+    }
+  ]
+}

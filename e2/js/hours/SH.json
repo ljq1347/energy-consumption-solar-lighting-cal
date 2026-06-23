@@ -1,0 +1,29 @@
+{
+  "country": "SH",
+  "countryCode": "SH",
+  "cities": [
+    {
+      "name": "Jamestown",
+      "admin1_code": "02",
+      "location": [
+        -15.92488,
+        -5.71816
+      ],
+      "monthly": {
+        "Jan": 4.76,
+        "Feb": 4.92,
+        "Mar": 4.85,
+        "Apr": 4.51,
+        "May": 4.08,
+        "Jun": 3.65,
+        "Jul": 3.59,
+        "Aug": 3.84,
+        "Sep": 4.35,
+        "Oct": 4.59,
+        "Nov": 4.54,
+        "Dec": 4.61
+      },
+      "average": 4.36
+    }
+  ]
+}

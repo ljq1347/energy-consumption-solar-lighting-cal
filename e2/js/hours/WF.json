@@ -1,0 +1,29 @@
+{
+  "country": "WF",
+  "countryCode": "WF",
+  "cities": [
+    {
+      "name": "Mata-Utu",
+      "admin1_code": "98613",
+      "location": [
+        -13.28163,
+        -176.17453
+      ],
+      "monthly": {
+        "Jan": 4.14,
+        "Feb": 4.24,
+        "Mar": 4.55,
+        "Apr": 4.32,
+        "May": 3.92,
+        "Jun": 3.68,
+        "Jul": 3.85,
+        "Aug": 4.27,
+        "Sep": 4.55,
+        "Oct": 4.49,
+        "Nov": 4.3,
+        "Dec": 4.27
+      },
+      "average": 4.21
+    }
+  ]
+}
