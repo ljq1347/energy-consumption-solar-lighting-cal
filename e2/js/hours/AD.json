@@ -1,0 +1,52 @@
+{
+  "country": "Andorra",
+  "countryCode": "AD",
+  "cities": [
+    {
+      "name": "les Escaldes",
+      "admin1_code": "08",
+      "location": [
+        42.50729,
+        1.53414
+      ],
+      "monthly": {
+        "Jan": 0.37,
+        "Feb": 2.67,
+        "Mar": 4.07,
+        "Apr": 4.24,
+        "May": 4.35,
+        "Jun": 4.68,
+        "Jul": 5.04,
+        "Aug": 4.79,
+        "Sep": 4.13,
+        "Oct": 3.06,
+        "Nov": 0.75,
+        "Dec": 0.31
+      },
+      "average": 3.21
+    },
+    {
+      "name": "Andorra la Vella",
+      "admin1_code": "07",
+      "location": [
+        42.50779,
+        1.52109
+      ],
+      "monthly": {
+        "Jan": 2.49,
+        "Feb": 3.7,
+        "Mar": 4.37,
+        "Apr": 4.39,
+        "May": 4.38,
+        "Jun": 4.68,
+        "Jul": 4.99,
+        "Aug": 4.78,
+        "Sep": 4.37,
+        "Oct": 3.58,
+        "Nov": 2.73,
+        "Dec": 1.95
+      },
+      "average": 3.87
+    }
+  ]
+}

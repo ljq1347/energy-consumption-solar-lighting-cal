@@ -1,0 +1,29 @@
+{
+  "country": "GG",
+  "countryCode": "GG",
+  "cities": [
+    {
+      "name": "Saint Peter Port",
+      "admin1_code": "6417228",
+      "location": [
+        49.45981,
+        -2.53527
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.1,
+        "Mar": 3.14,
+        "Apr": 4.41,
+        "May": 4.84,
+        "Jun": 4.92,
+        "Jul": 4.84,
+        "Aug": 4.34,
+        "Sep": 3.65,
+        "Oct": 2.38,
+        "Nov": 1.47,
+        "Dec": 1.09
+      },
+      "average": 3.21
+    }
+  ]
+}

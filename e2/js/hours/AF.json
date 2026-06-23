@@ -1,0 +1,1248 @@
+{
+  "country": "Afghanistan",
+  "countryCode": "AF",
+  "cities": [
+    {
+      "name": "Zaranj",
+      "admin1_code": "19",
+      "location": [
+        30.95962,
+        61.86037
+      ],
+      "monthly": {
+        "Jan": 4.36,
+        "Feb": 4.66,
+        "Mar": 4.98,
+        "Apr": 5.11,
+        "May": 5.16,
+        "Jun": 5.24,
+        "Jul": 5.19,
+        "Aug": 5.39,
+        "Sep": 5.52,
+        "Oct": 5.19,
+        "Nov": 4.66,
+        "Dec": 4.41
+      },
+      "average": 4.99
+    },
+    {
+      "name": "Bāzār-e Yakāwlang",
+      "admin1_code": "05",
+      "location": [
+        34.73525,
+        66.97379
+      ],
+      "monthly": {
+        "Jan": 4.23,
+        "Feb": 4.62,
+        "Mar": 5.44,
+        "Apr": 5.57,
+        "May": 5.68,
+        "Jun": 5.86,
+        "Jul": 5.91,
+        "Aug": 6.03,
+        "Sep": 6.28,
+        "Oct": 5.93,
+        "Nov": 4.89,
+        "Dec": 4.21
+      },
+      "average": 5.39
+    },
+    {
+      "name": "Taloqan",
+      "admin1_code": "26",
+      "location": [
+        36.73605,
+        69.53451
+      ],
+      "monthly": {
+        "Jan": 2.93,
+        "Feb": 3.41,
+        "Mar": 4.07,
+        "Apr": 4.65,
+        "May": 5.07,
+        "Jun": 5.34,
+        "Jul": 5.39,
+        "Aug": 5.46,
+        "Sep": 5.42,
+        "Oct": 4.64,
+        "Nov": 3.23,
+        "Dec": 2.7
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Shīnḏanḏ",
+      "admin1_code": "11",
+      "location": [
+        33.30294,
+        62.1474
+      ],
+      "monthly": {
+        "Jan": 4.22,
+        "Feb": 4.58,
+        "Mar": 4.92,
+        "Apr": 5.26,
+        "May": 5.49,
+        "Jun": 5.67,
+        "Jul": 5.64,
+        "Aug": 5.76,
+        "Sep": 5.85,
+        "Oct": 5.43,
+        "Nov": 4.59,
+        "Dec": 4.3
+      },
+      "average": 5.14
+    },
+    {
+      "name": "Shibirghān",
+      "admin1_code": "31",
+      "location": [
+        36.66757,
+        65.7529
+      ],
+      "monthly": {
+        "Jan": 2.9,
+        "Feb": 3.49,
+        "Mar": 4.21,
+        "Apr": 4.82,
+        "May": 5.33,
+        "Jun": 5.61,
+        "Jul": 5.58,
+        "Aug": 5.58,
+        "Sep": 5.5,
+        "Oct": 4.69,
+        "Nov": 3.3,
+        "Dec": 2.67
+      },
+      "average": 4.47
+    },
+    {
+      "name": "Shahrak",
+      "admin1_code": "09",
+      "location": [
+        34.10737,
+        64.3052
+      ],
+      "monthly": {
+        "Jan": 3.59,
+        "Feb": 4.09,
+        "Mar": 5.3,
+        "Apr": 5.44,
+        "May": 5.71,
+        "Jun": 6.03,
+        "Jul": 6.08,
+        "Aug": 6.2,
+        "Sep": 6.38,
+        "Oct": 5.87,
+        "Nov": 4.7,
+        "Dec": 3.97
+      },
+      "average": 5.28
+    },
+    {
+      "name": "Sar-e Pul",
+      "admin1_code": "33",
+      "location": [
+        36.21544,
+        65.93249
+      ],
+      "monthly": {
+        "Jan": 3.09,
+        "Feb": 3.51,
+        "Mar": 4.09,
+        "Apr": 4.68,
+        "May": 5.31,
+        "Jun": 5.67,
+        "Jul": 5.7,
+        "Aug": 5.7,
+        "Sep": 5.63,
+        "Oct": 4.82,
+        "Nov": 3.35,
+        "Dec": 2.85
+      },
+      "average": 4.53
+    },
+    {
+      "name": "Sang-e Chārak",
+      "admin1_code": "33",
+      "location": [
+        35.84972,
+        66.43694
+      ],
+      "monthly": {
+        "Jan": 3.07,
+        "Feb": 3.47,
+        "Mar": 3.99,
+        "Apr": 4.39,
+        "May": 5.09,
+        "Jun": 5.7,
+        "Jul": 5.83,
+        "Aug": 5.93,
+        "Sep": 5.82,
+        "Oct": 4.91,
+        "Nov": 3.41,
+        "Dec": 2.97
+      },
+      "average": 4.55
+    },
+    {
+      "name": "Aībak",
+      "admin1_code": "32",
+      "location": [
+        36.26468,
+        68.01551
+      ],
+      "monthly": {
+        "Jan": 3.29,
+        "Feb": 3.68,
+        "Mar": 4.25,
+        "Apr": 4.7,
+        "May": 5.1,
+        "Jun": 5.41,
+        "Jul": 5.51,
+        "Aug": 5.62,
+        "Sep": 5.58,
+        "Oct": 4.84,
+        "Nov": 3.45,
+        "Dec": 3.04
+      },
+      "average": 4.54
+    },
+    {
+      "name": "Rustāq",
+      "admin1_code": "26",
+      "location": [
+        37.12604,
+        69.83045
+      ],
+      "monthly": {
+        "Jan": 2.86,
+        "Feb": 3.33,
+        "Mar": 4.06,
+        "Apr": 4.65,
+        "May": 5.14,
+        "Jun": 5.37,
+        "Jul": 5.54,
+        "Aug": 5.68,
+        "Sep": 5.69,
+        "Oct": 4.86,
+        "Nov": 3.39,
+        "Dec": 2.77
+      },
+      "average": 4.44
+    },
+    {
+      "name": "Qarqīn",
+      "admin1_code": "31",
+      "location": [
+        37.41853,
+        66.04358
+      ],
+      "monthly": {
+        "Jan": 2.88,
+        "Feb": 3.59,
+        "Mar": 4.19,
+        "Apr": 4.83,
+        "May": 5.31,
+        "Jun": 5.63,
+        "Jul": 5.6,
+        "Aug": 5.6,
+        "Sep": 5.48,
+        "Oct": 4.6,
+        "Nov": 3.26,
+        "Dec": 2.69
+      },
+      "average": 4.47
+    },
+    {
+      "name": "Qarāwul",
+      "admin1_code": "24",
+      "location": [
+        37.21959,
+        68.7802
+      ],
+      "monthly": {
+        "Jan": 2.62,
+        "Feb": 3.27,
+        "Mar": 3.95,
+        "Apr": 4.61,
+        "May": 5.04,
+        "Jun": 5.31,
+        "Jul": 5.31,
+        "Aug": 5.33,
+        "Sep": 5.21,
+        "Oct": 4.36,
+        "Nov": 2.96,
+        "Dec": 2.22
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Pul-e Khumrī",
+      "admin1_code": "03",
+      "location": [
+        35.94458,
+        68.71512
+      ],
+      "monthly": {
+        "Jan": 3.08,
+        "Feb": 3.5,
+        "Mar": 4.11,
+        "Apr": 4.54,
+        "May": 4.98,
+        "Jun": 5.33,
+        "Jul": 5.39,
+        "Aug": 5.45,
+        "Sep": 5.39,
+        "Oct": 4.67,
+        "Nov": 3.3,
+        "Dec": 2.79
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Paghmān",
+      "admin1_code": "13",
+      "location": [
+        34.58787,
+        68.95091
+      ],
+      "monthly": {
+        "Jan": 3.73,
+        "Feb": 3.95,
+        "Mar": 4.81,
+        "Apr": 4.98,
+        "May": 5.32,
+        "Jun": 5.6,
+        "Jul": 5.56,
+        "Aug": 5.49,
+        "Sep": 5.67,
+        "Oct": 5.41,
+        "Nov": 4.47,
+        "Dec": 4.09
+      },
+      "average": 4.92
+    },
+    {
+      "name": "Nīlī",
+      "admin1_code": "41",
+      "location": [
+        33.72178,
+        66.13023
+      ],
+      "monthly": {
+        "Jan": 3.88,
+        "Feb": 4.19,
+        "Mar": 5,
+        "Apr": 5.36,
+        "May": 5.55,
+        "Jun": 5.81,
+        "Jul": 5.74,
+        "Aug": 5.84,
+        "Sep": 6.07,
+        "Oct": 5.7,
+        "Nov": 4.64,
+        "Dec": 4.27
+      },
+      "average": 5.17
+    },
+    {
+      "name": "Nahrīn",
+      "admin1_code": "03",
+      "location": [
+        36.0649,
+        69.13343
+      ],
+      "monthly": {
+        "Jan": 3.25,
+        "Feb": 3.64,
+        "Mar": 4.25,
+        "Apr": 4.65,
+        "May": 5.13,
+        "Jun": 5.42,
+        "Jul": 5.52,
+        "Aug": 5.61,
+        "Sep": 5.63,
+        "Oct": 4.92,
+        "Nov": 3.58,
+        "Dec": 3.1
+      },
+      "average": 4.56
+    },
+    {
+      "name": "Maymana",
+      "admin1_code": "07",
+      "location": [
+        35.92139,
+        64.78361
+      ],
+      "monthly": {
+        "Jan": 3.17,
+        "Feb": 3.58,
+        "Mar": 4.15,
+        "Apr": 4.72,
+        "May": 5.46,
+        "Jun": 5.8,
+        "Jul": 5.82,
+        "Aug": 5.88,
+        "Sep": 5.82,
+        "Oct": 5,
+        "Nov": 3.42,
+        "Dec": 2.99
+      },
+      "average": 4.65
+    },
+    {
+      "name": "Mehtar Lām",
+      "admin1_code": "35",
+      "location": [
+        34.67139,
+        70.20944
+      ],
+      "monthly": {
+        "Jan": 3.64,
+        "Feb": 4.01,
+        "Mar": 4.55,
+        "Apr": 4.96,
+        "May": 5.27,
+        "Jun": 5.42,
+        "Jul": 5.27,
+        "Aug": 5.16,
+        "Sep": 5.26,
+        "Oct": 4.87,
+        "Nov": 3.88,
+        "Dec": 3.58
+      },
+      "average": 4.66
+    },
+    {
+      "name": "Mazār-e Sharīf",
+      "admin1_code": "30",
+      "location": [
+        36.70904,
+        67.11087
+      ],
+      "monthly": {
+        "Jan": 2.87,
+        "Feb": 3.45,
+        "Mar": 4.11,
+        "Apr": 4.77,
+        "May": 5.25,
+        "Jun": 5.54,
+        "Jul": 5.53,
+        "Aug": 5.5,
+        "Sep": 5.42,
+        "Oct": 4.61,
+        "Nov": 3.22,
+        "Dec": 2.67
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Lashkar Gāh",
+      "admin1_code": "10",
+      "location": [
+        31.59382,
+        64.37161
+      ],
+      "monthly": {
+        "Jan": 4.28,
+        "Feb": 4.66,
+        "Mar": 5.03,
+        "Apr": 5.27,
+        "May": 5.36,
+        "Jun": 5.47,
+        "Jul": 5.27,
+        "Aug": 5.4,
+        "Sep": 5.65,
+        "Oct": 5.42,
+        "Nov": 4.77,
+        "Dec": 4.43
+      },
+      "average": 5.08
+    },
+    {
+      "name": "Kushk",
+      "admin1_code": "11",
+      "location": [
+        33.29565,
+        61.95221
+      ],
+      "monthly": {
+        "Jan": 4.29,
+        "Feb": 4.61,
+        "Mar": 4.97,
+        "Apr": 5.28,
+        "May": 5.49,
+        "Jun": 5.67,
+        "Jul": 5.66,
+        "Aug": 5.79,
+        "Sep": 5.9,
+        "Oct": 5.47,
+        "Nov": 4.65,
+        "Dec": 4.35
+      },
+      "average": 5.18
+    },
+    {
+      "name": "Kunduz",
+      "admin1_code": "24",
+      "location": [
+        36.72895,
+        68.857
+      ],
+      "monthly": {
+        "Jan": 2.68,
+        "Feb": 3.28,
+        "Mar": 3.98,
+        "Apr": 4.6,
+        "May": 4.99,
+        "Jun": 5.26,
+        "Jul": 5.25,
+        "Aug": 5.3,
+        "Sep": 5.21,
+        "Oct": 4.41,
+        "Nov": 3.03,
+        "Dec": 2.37
+      },
+      "average": 4.2
+    },
+    {
+      "name": "Khōst",
+      "admin1_code": "37",
+      "location": [
+        33.33951,
+        69.92041
+      ],
+      "monthly": {
+        "Jan": 4.21,
+        "Feb": 4.46,
+        "Mar": 4.8,
+        "Apr": 4.98,
+        "May": 5.07,
+        "Jun": 4.99,
+        "Jul": 4.68,
+        "Aug": 4.66,
+        "Sep": 5.04,
+        "Oct": 5.1,
+        "Nov": 4.52,
+        "Dec": 4.37
+      },
+      "average": 4.74
+    },
+    {
+      "name": "Khulm",
+      "admin1_code": "30",
+      "location": [
+        36.69736,
+        67.69826
+      ],
+      "monthly": {
+        "Jan": 2.94,
+        "Feb": 3.47,
+        "Mar": 4.1,
+        "Apr": 4.68,
+        "May": 5.08,
+        "Jun": 5.41,
+        "Jul": 5.42,
+        "Aug": 5.43,
+        "Sep": 5.36,
+        "Oct": 4.58,
+        "Nov": 3.21,
+        "Dec": 2.73
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Khāsh",
+      "admin1_code": "19",
+      "location": [
+        31.52919,
+        62.79055
+      ],
+      "monthly": {
+        "Jan": 4.34,
+        "Feb": 4.64,
+        "Mar": 5.01,
+        "Apr": 5.17,
+        "May": 5.26,
+        "Jun": 5.41,
+        "Jul": 5.31,
+        "Aug": 5.49,
+        "Sep": 5.66,
+        "Oct": 5.31,
+        "Nov": 4.68,
+        "Dec": 4.43
+      },
+      "average": 5.06
+    },
+    {
+      "name": "Khān Neshīn",
+      "admin1_code": "10",
+      "location": [
+        30.5488,
+        63.7888
+      ],
+      "monthly": {
+        "Jan": 4.44,
+        "Feb": 4.74,
+        "Mar": 5.03,
+        "Apr": 5.14,
+        "May": 5.18,
+        "Jun": 5.3,
+        "Jul": 5.12,
+        "Aug": 5.3,
+        "Sep": 5.57,
+        "Oct": 5.34,
+        "Nov": 4.89,
+        "Dec": 4.56
+      },
+      "average": 5.05
+    },
+    {
+      "name": "Khanabad",
+      "admin1_code": "24",
+      "location": [
+        36.68304,
+        69.11279
+      ],
+      "monthly": {
+        "Jan": 2.77,
+        "Feb": 3.31,
+        "Mar": 4.01,
+        "Apr": 4.59,
+        "May": 5,
+        "Jun": 5.26,
+        "Jul": 5.26,
+        "Aug": 5.32,
+        "Sep": 5.26,
+        "Oct": 4.51,
+        "Nov": 3.13,
+        "Dec": 2.52
+      },
+      "average": 4.25
+    },
+    {
+      "name": "Karukh",
+      "admin1_code": "11",
+      "location": [
+        34.48108,
+        62.5863
+      ],
+      "monthly": {
+        "Jan": 3.94,
+        "Feb": 4.42,
+        "Mar": 4.94,
+        "Apr": 5.38,
+        "May": 5.68,
+        "Jun": 5.92,
+        "Jul": 5.91,
+        "Aug": 6.03,
+        "Sep": 6.08,
+        "Oct": 5.53,
+        "Nov": 4.39,
+        "Dec": 4.04
+      },
+      "average": 5.19
+    },
+    {
+      "name": "Kandahār",
+      "admin1_code": "23",
+      "location": [
+        31.61332,
+        65.71013
+      ],
+      "monthly": {
+        "Jan": 4.34,
+        "Feb": 4.65,
+        "Mar": 5.11,
+        "Apr": 5.34,
+        "May": 5.45,
+        "Jun": 5.51,
+        "Jul": 5.24,
+        "Aug": 5.33,
+        "Sep": 5.7,
+        "Oct": 5.55,
+        "Nov": 4.94,
+        "Dec": 4.59
+      },
+      "average": 5.15
+    },
+    {
+      "name": "Kabul",
+      "admin1_code": "13",
+      "location": [
+        34.52813,
+        69.17233
+      ],
+      "monthly": {
+        "Jan": 4.09,
+        "Feb": 4.41,
+        "Mar": 4.91,
+        "Apr": 5.19,
+        "May": 5.47,
+        "Jun": 5.68,
+        "Jul": 5.63,
+        "Aug": 5.56,
+        "Sep": 5.75,
+        "Oct": 5.45,
+        "Nov": 4.5,
+        "Dec": 4.14
+      },
+      "average": 5.07
+    },
+    {
+      "name": "Jurm",
+      "admin1_code": "01",
+      "location": [
+        36.86477,
+        70.83421
+      ],
+      "monthly": {
+        "Jan": 3.15,
+        "Feb": 3.72,
+        "Mar": 4.37,
+        "Apr": 4.72,
+        "May": 4.8,
+        "Jun": 5.11,
+        "Jul": 5.35,
+        "Aug": 5.55,
+        "Sep": 5.67,
+        "Oct": 5.01,
+        "Nov": 3.92,
+        "Dec": 3.17
+      },
+      "average": 4.54
+    },
+    {
+      "name": "Jalālābād",
+      "admin1_code": "18",
+      "location": [
+        34.42647,
+        70.45153
+      ],
+      "monthly": {
+        "Jan": 3.57,
+        "Feb": 3.93,
+        "Mar": 4.45,
+        "Apr": 4.88,
+        "May": 5.12,
+        "Jun": 5.27,
+        "Jul": 5.07,
+        "Aug": 4.93,
+        "Sep": 5.08,
+        "Oct": 4.78,
+        "Nov": 3.82,
+        "Dec": 3.55
+      },
+      "average": 4.54
+    },
+    {
+      "name": "Jabal os Saraj",
+      "admin1_code": "40",
+      "location": [
+        35.11833,
+        69.23778
+      ],
+      "monthly": {
+        "Jan": 3.9,
+        "Feb": 4.16,
+        "Mar": 4.83,
+        "Apr": 5.24,
+        "May": 5.58,
+        "Jun": 5.8,
+        "Jul": 5.81,
+        "Aug": 5.77,
+        "Sep": 5.83,
+        "Oct": 5.34,
+        "Nov": 4.33,
+        "Dec": 3.93
+      },
+      "average": 5.04
+    },
+    {
+      "name": "Herāt",
+      "admin1_code": "11",
+      "location": [
+        34.34817,
+        62.19967
+      ],
+      "monthly": {
+        "Jan": 3.91,
+        "Feb": 4.39,
+        "Mar": 4.85,
+        "Apr": 5.27,
+        "May": 5.57,
+        "Jun": 5.82,
+        "Jul": 5.8,
+        "Aug": 5.89,
+        "Sep": 5.92,
+        "Oct": 5.37,
+        "Nov": 4.28,
+        "Dec": 3.87
+      },
+      "average": 5.08
+    },
+    {
+      "name": "Ghormach",
+      "admin1_code": "02",
+      "location": [
+        35.73062,
+        63.78264
+      ],
+      "monthly": {
+        "Jan": 3.09,
+        "Feb": 3.54,
+        "Mar": 4.17,
+        "Apr": 4.74,
+        "May": 5.37,
+        "Jun": 5.66,
+        "Jul": 5.67,
+        "Aug": 5.78,
+        "Sep": 5.74,
+        "Oct": 4.98,
+        "Nov": 3.44,
+        "Dec": 2.87
+      },
+      "average": 4.59
+    },
+    {
+      "name": "Ghazni",
+      "admin1_code": "08",
+      "location": [
+        33.55391,
+        68.42096
+      ],
+      "monthly": {
+        "Jan": 4.24,
+        "Feb": 4.55,
+        "Mar": 5.47,
+        "Apr": 5.47,
+        "May": 5.58,
+        "Jun": 5.71,
+        "Jul": 5.58,
+        "Aug": 5.68,
+        "Sep": 6.11,
+        "Oct": 6.05,
+        "Nov": 5.34,
+        "Dec": 4.82
+      },
+      "average": 5.38
+    },
+    {
+      "name": "Gereshk",
+      "admin1_code": "10",
+      "location": [
+        31.82089,
+        64.57005
+      ],
+      "monthly": {
+        "Jan": 4.23,
+        "Feb": 4.61,
+        "Mar": 5,
+        "Apr": 5.27,
+        "May": 5.37,
+        "Jun": 5.49,
+        "Jul": 5.28,
+        "Aug": 5.39,
+        "Sep": 5.63,
+        "Oct": 5.39,
+        "Nov": 4.74,
+        "Dec": 4.41
+      },
+      "average": 5.07
+    },
+    {
+      "name": "Gardez",
+      "admin1_code": "36",
+      "location": [
+        33.59744,
+        69.22592
+      ],
+      "monthly": {
+        "Jan": 3.89,
+        "Feb": 4.32,
+        "Mar": 5.29,
+        "Apr": 5.51,
+        "May": 5.73,
+        "Jun": 5.75,
+        "Jul": 5.6,
+        "Aug": 5.65,
+        "Sep": 6.07,
+        "Oct": 6.01,
+        "Nov": 5.18,
+        "Dec": 4.7
+      },
+      "average": 5.31
+    },
+    {
+      "name": "Fayzabad",
+      "admin1_code": "01",
+      "location": [
+        37.11664,
+        70.58002
+      ],
+      "monthly": {
+        "Jan": 2.73,
+        "Feb": 3.35,
+        "Mar": 4.09,
+        "Apr": 4.65,
+        "May": 4.92,
+        "Jun": 5.22,
+        "Jul": 5.38,
+        "Aug": 5.56,
+        "Sep": 5.58,
+        "Oct": 4.62,
+        "Nov": 3.22,
+        "Dec": 2.61
+      },
+      "average": 4.33
+    },
+    {
+      "name": "Farah",
+      "admin1_code": "06",
+      "location": [
+        32.37451,
+        62.11638
+      ],
+      "monthly": {
+        "Jan": 4.2,
+        "Feb": 4.55,
+        "Mar": 4.91,
+        "Apr": 5.17,
+        "May": 5.31,
+        "Jun": 5.46,
+        "Jul": 5.38,
+        "Aug": 5.51,
+        "Sep": 5.63,
+        "Oct": 5.25,
+        "Nov": 4.53,
+        "Dec": 4.31
+      },
+      "average": 5.02
+    },
+    {
+      "name": "Istālif",
+      "admin1_code": "13",
+      "location": [
+        34.83268,
+        69.07756
+      ],
+      "monthly": {
+        "Jan": 3.8,
+        "Feb": 4.08,
+        "Mar": 4.69,
+        "Apr": 5,
+        "May": 5.31,
+        "Jun": 5.6,
+        "Jul": 5.61,
+        "Aug": 5.49,
+        "Sep": 5.59,
+        "Oct": 5.28,
+        "Nov": 4.37,
+        "Dec": 3.99
+      },
+      "average": 4.9
+    },
+    {
+      "name": "Eslam Qaleh",
+      "admin1_code": "11",
+      "location": [
+        34.66667,
+        61.06667
+      ],
+      "monthly": {
+        "Jan": 3.69,
+        "Feb": 4.23,
+        "Mar": 4.62,
+        "Apr": 5.07,
+        "May": 5.4,
+        "Jun": 5.66,
+        "Jul": 5.64,
+        "Aug": 5.77,
+        "Sep": 5.79,
+        "Oct": 5.16,
+        "Nov": 4.11,
+        "Dec": 3.68
+      },
+      "average": 4.9
+    },
+    {
+      "name": "Charikar",
+      "admin1_code": "40",
+      "location": [
+        35.01361,
+        69.17139
+      ],
+      "monthly": {
+        "Jan": 3.78,
+        "Feb": 4.07,
+        "Mar": 4.71,
+        "Apr": 5.1,
+        "May": 5.46,
+        "Jun": 5.72,
+        "Jul": 5.72,
+        "Aug": 5.64,
+        "Sep": 5.71,
+        "Oct": 5.25,
+        "Nov": 4.25,
+        "Dec": 3.85
+      },
+      "average": 4.94
+    },
+    {
+      "name": "Baraki Barak",
+      "admin1_code": "17",
+      "location": [
+        33.96744,
+        68.9492
+      ],
+      "monthly": {
+        "Jan": 4.15,
+        "Feb": 4.64,
+        "Mar": 5.32,
+        "Apr": 5.38,
+        "May": 5.54,
+        "Jun": 5.71,
+        "Jul": 5.61,
+        "Aug": 5.59,
+        "Sep": 5.97,
+        "Oct": 5.86,
+        "Nov": 5.08,
+        "Dec": 4.67
+      },
+      "average": 5.29
+    },
+    {
+      "name": "Bāmyān",
+      "admin1_code": "05",
+      "location": [
+        34.82156,
+        67.82734
+      ],
+      "monthly": {
+        "Jan": 4.38,
+        "Feb": 4.72,
+        "Mar": 5.32,
+        "Apr": 5.29,
+        "May": 5.34,
+        "Jun": 5.66,
+        "Jul": 5.76,
+        "Aug": 5.86,
+        "Sep": 6.11,
+        "Oct": 5.75,
+        "Nov": 4.88,
+        "Dec": 4.32
+      },
+      "average": 5.28
+    },
+    {
+      "name": "Balkh",
+      "admin1_code": "30",
+      "location": [
+        36.75635,
+        66.8972
+      ],
+      "monthly": {
+        "Jan": 2.87,
+        "Feb": 3.48,
+        "Mar": 4.14,
+        "Apr": 4.8,
+        "May": 5.27,
+        "Jun": 5.57,
+        "Jul": 5.55,
+        "Aug": 5.52,
+        "Sep": 5.44,
+        "Oct": 4.63,
+        "Nov": 3.22,
+        "Dec": 2.66
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Bahārak",
+      "admin1_code": "01",
+      "location": [
+        37.00254,
+        70.90664
+      ],
+      "monthly": {
+        "Jan": 3,
+        "Feb": 3.74,
+        "Mar": 4.5,
+        "Apr": 4.83,
+        "May": 4.96,
+        "Jun": 5.31,
+        "Jul": 5.49,
+        "Aug": 5.6,
+        "Sep": 5.73,
+        "Oct": 5.01,
+        "Nov": 3.72,
+        "Dec": 3.09
+      },
+      "average": 4.58
+    },
+    {
+      "name": "Baghlān",
+      "admin1_code": "03",
+      "location": [
+        36.13068,
+        68.70829
+      ],
+      "monthly": {
+        "Jan": 2.81,
+        "Feb": 3.35,
+        "Mar": 4.07,
+        "Apr": 4.57,
+        "May": 4.96,
+        "Jun": 5.28,
+        "Jul": 5.32,
+        "Aug": 5.38,
+        "Sep": 5.3,
+        "Oct": 4.57,
+        "Nov": 3.2,
+        "Dec": 2.53
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Ārt Khwājah",
+      "admin1_code": "26",
+      "location": [
+        37.08571,
+        69.47958
+      ],
+      "monthly": {
+        "Jan": 2.74,
+        "Feb": 3.35,
+        "Mar": 4.01,
+        "Apr": 4.6,
+        "May": 4.97,
+        "Jun": 5.2,
+        "Jul": 5.23,
+        "Aug": 5.32,
+        "Sep": 5.28,
+        "Oct": 4.51,
+        "Nov": 3.12,
+        "Dec": 2.48
+      },
+      "average": 4.23
+    },
+    {
+      "name": "Āsmār",
+      "admin1_code": "34",
+      "location": [
+        35.03333,
+        71.35809
+      ],
+      "monthly": {
+        "Jan": 3.37,
+        "Feb": 3.73,
+        "Mar": 4.23,
+        "Apr": 4.8,
+        "May": 5.11,
+        "Jun": 5.07,
+        "Jul": 4.8,
+        "Aug": 4.79,
+        "Sep": 4.94,
+        "Oct": 4.71,
+        "Nov": 3.73,
+        "Dec": 3.38
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Asadābād",
+      "admin1_code": "34",
+      "location": [
+        34.87311,
+        71.14697
+      ],
+      "monthly": {
+        "Jan": 3.43,
+        "Feb": 3.79,
+        "Mar": 4.31,
+        "Apr": 4.88,
+        "May": 5.18,
+        "Jun": 5.21,
+        "Jul": 4.95,
+        "Aug": 4.88,
+        "Sep": 5.01,
+        "Oct": 4.66,
+        "Nov": 3.71,
+        "Dec": 3.43
+      },
+      "average": 4.45
+    },
+    {
+      "name": "Andkhoy",
+      "admin1_code": "07",
+      "location": [
+        36.95293,
+        65.12376
+      ],
+      "monthly": {
+        "Jan": 2.92,
+        "Feb": 3.6,
+        "Mar": 4.27,
+        "Apr": 4.9,
+        "May": 5.3,
+        "Jun": 5.61,
+        "Jul": 5.57,
+        "Aug": 5.64,
+        "Sep": 5.55,
+        "Oct": 4.72,
+        "Nov": 3.38,
+        "Dec": 2.7
+      },
+      "average": 4.51
+    },
+    {
+      "name": "Bāzārak",
+      "admin1_code": "42",
+      "location": [
+        35.31292,
+        69.51519
+      ],
+      "monthly": {
+        "Jan": 3.24,
+        "Feb": 3.69,
+        "Mar": 4.7,
+        "Apr": 5.27,
+        "May": 5.66,
+        "Jun": 5.91,
+        "Jul": 5.92,
+        "Aug": 5.85,
+        "Sep": 5.81,
+        "Oct": 5.19,
+        "Nov": 3.88,
+        "Dec": 3.41
+      },
+      "average": 4.88
+    },
+    {
+      "name": "Markaz-e Woluswalī-ye Āchīn",
+      "admin1_code": "18",
+      "location": [
+        34.12583,
+        70.70778
+      ],
+      "monthly": {
+        "Jan": 3.77,
+        "Feb": 4.01,
+        "Mar": 4.41,
+        "Apr": 4.78,
+        "May": 4.89,
+        "Jun": 4.99,
+        "Jul": 4.84,
+        "Aug": 4.71,
+        "Sep": 4.96,
+        "Oct": 4.82,
+        "Nov": 4.01,
+        "Dec": 3.83
+      },
+      "average": 4.5
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "country": "FK",
+  "countryCode": "FK",
+  "cities": [
+    {
+      "name": "Stanley",
+      "admin1_code": "00",
+      "location": [
+        -51.69382,
+        -57.85701
+      ],
+      "monthly": {
+        "Jan": 4.41,
+        "Feb": 3.98,
+        "Mar": 3.33,
+        "Apr": 2.19,
+        "May": 1.47,
+        "Jun": 1.36,
+        "Jul": 1.71,
+        "Aug": 2.2,
+        "Sep": 3.16,
+        "Oct": 4.22,
+        "Nov": 4.68,
+        "Dec": 4.63
+      },
+      "average": 3.11
+    }
+  ]
+}

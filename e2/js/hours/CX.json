@@ -1,0 +1,29 @@
+{
+  "country": "CX",
+  "countryCode": "CX",
+  "cities": [
+    {
+      "name": "Flying Fish Cove",
+      "admin1_code": "00",
+      "location": [
+        -10.42172,
+        105.67912
+      ],
+      "monthly": {
+        "Jan": 4.19,
+        "Feb": 4.18,
+        "Mar": 4.29,
+        "Apr": 4.09,
+        "May": 3.93,
+        "Jun": 3.8,
+        "Jul": 4.03,
+        "Aug": 4.49,
+        "Sep": 4.67,
+        "Oct": 4.76,
+        "Nov": 4.32,
+        "Dec": 4.12
+      },
+      "average": 4.24
+    }
+  ]
+}

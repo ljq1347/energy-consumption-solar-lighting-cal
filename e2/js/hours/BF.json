@@ -1,0 +1,1708 @@
+{
+  "country": "BF",
+  "countryCode": "BF",
+  "cities": [
+    {
+      "name": "Zorgo",
+      "admin1_code": "11",
+      "location": [
+        12.24922,
+        -0.61527
+      ],
+      "monthly": {
+        "Jan": 5.03,
+        "Feb": 5.01,
+        "Mar": 4.66,
+        "Apr": 4.56,
+        "May": 4.38,
+        "Jun": 4.2,
+        "Jul": 4.16,
+        "Aug": 4.09,
+        "Sep": 4.54,
+        "Oct": 4.95,
+        "Nov": 5.1,
+        "Dec": 5.05
+      },
+      "average": 4.64
+    },
+    {
+      "name": "Ziniaré",
+      "admin1_code": "11",
+      "location": [
+        12.58236,
+        -1.29753
+      ],
+      "monthly": {
+        "Jan": 5.03,
+        "Feb": 5.01,
+        "Mar": 4.68,
+        "Apr": 4.57,
+        "May": 4.38,
+        "Jun": 4.22,
+        "Jul": 4.21,
+        "Aug": 4.12,
+        "Sep": 4.59,
+        "Oct": 4.96,
+        "Nov": 5.08,
+        "Dec": 5.01
+      },
+      "average": 4.65
+    },
+    {
+      "name": "Zinguédéssé",
+      "admin1_code": "03",
+      "location": [
+        12.24661,
+        -1.58402
+      ],
+      "monthly": {
+        "Jan": 5.02,
+        "Feb": 4.98,
+        "Mar": 4.62,
+        "Apr": 4.52,
+        "May": 4.38,
+        "Jun": 4.2,
+        "Jul": 4.16,
+        "Aug": 4.08,
+        "Sep": 4.54,
+        "Oct": 4.94,
+        "Nov": 5.07,
+        "Dec": 5.01
+      },
+      "average": 4.63
+    },
+    {
+      "name": "Zabré",
+      "admin1_code": "04",
+      "location": [
+        11.1825,
+        -0.63222
+      ],
+      "monthly": {
+        "Jan": 4.93,
+        "Feb": 4.88,
+        "Mar": 4.53,
+        "Apr": 4.43,
+        "May": 4.26,
+        "Jun": 4.05,
+        "Jul": 3.94,
+        "Aug": 3.84,
+        "Sep": 4.28,
+        "Oct": 4.83,
+        "Nov": 5.01,
+        "Dec": 4.97
+      },
+      "average": 4.5
+    },
+    {
+      "name": "Yalgo",
+      "admin1_code": "05",
+      "location": [
+        12.93333,
+        -0.85
+      ],
+      "monthly": {
+        "Jan": 5.05,
+        "Feb": 5.05,
+        "Mar": 4.71,
+        "Apr": 4.59,
+        "May": 4.35,
+        "Jun": 4.17,
+        "Jul": 4.2,
+        "Aug": 4.15,
+        "Sep": 4.64,
+        "Oct": 4.94,
+        "Nov": 5.1,
+        "Dec": 5.03
+      },
+      "average": 4.67
+    },
+    {
+      "name": "Yako",
+      "admin1_code": "10",
+      "location": [
+        12.9591,
+        -2.26075
+      ],
+      "monthly": {
+        "Jan": 5.05,
+        "Feb": 5.06,
+        "Mar": 4.74,
+        "Apr": 4.6,
+        "May": 4.39,
+        "Jun": 4.16,
+        "Jul": 4.2,
+        "Aug": 4.13,
+        "Sep": 4.67,
+        "Oct": 4.94,
+        "Nov": 5.07,
+        "Dec": 5
+      },
+      "average": 4.67
+    },
+    {
+      "name": "Tougan",
+      "admin1_code": "01",
+      "location": [
+        13.07237,
+        -3.06939
+      ],
+      "monthly": {
+        "Jan": 5.03,
+        "Feb": 5.06,
+        "Mar": 4.74,
+        "Apr": 4.57,
+        "May": 4.37,
+        "Jun": 4.14,
+        "Jul": 4.17,
+        "Aug": 4.16,
+        "Sep": 4.65,
+        "Oct": 4.89,
+        "Nov": 5.07,
+        "Dec": 5
+      },
+      "average": 4.65
+    },
+    {
+      "name": "Toma",
+      "admin1_code": "01",
+      "location": [
+        12.75844,
+        -2.89879
+      ],
+      "monthly": {
+        "Jan": 5.04,
+        "Feb": 5.04,
+        "Mar": 4.72,
+        "Apr": 4.57,
+        "May": 4.4,
+        "Jun": 4.16,
+        "Jul": 4.16,
+        "Aug": 4.13,
+        "Sep": 4.64,
+        "Oct": 4.9,
+        "Nov": 5.06,
+        "Dec": 5
+      },
+      "average": 4.65
+    },
+    {
+      "name": "Tô",
+      "admin1_code": "06",
+      "location": [
+        11.44379,
+        -2.22548
+      ],
+      "monthly": {
+        "Jan": 4.98,
+        "Feb": 4.93,
+        "Mar": 4.59,
+        "Apr": 4.47,
+        "May": 4.34,
+        "Jun": 4.16,
+        "Jul": 4.01,
+        "Aug": 3.95,
+        "Sep": 4.42,
+        "Oct": 4.92,
+        "Nov": 5.04,
+        "Dec": 4.97
+      },
+      "average": 4.57
+    },
+    {
+      "name": "Titao",
+      "admin1_code": "10",
+      "location": [
+        13.76667,
+        -2.06667
+      ],
+      "monthly": {
+        "Jan": 5.09,
+        "Feb": 5.14,
+        "Mar": 4.86,
+        "Apr": 4.68,
+        "May": 4.41,
+        "Jun": 4.16,
+        "Jul": 4.26,
+        "Aug": 4.27,
+        "Sep": 4.74,
+        "Oct": 4.94,
+        "Nov": 5.14,
+        "Dec": 5.05
+      },
+      "average": 4.73
+    },
+    {
+      "name": "Tita",
+      "admin1_code": "06",
+      "location": [
+        11.92092,
+        -2.51536
+      ],
+      "monthly": {
+        "Jan": 5.03,
+        "Feb": 4.96,
+        "Mar": 4.62,
+        "Apr": 4.49,
+        "May": 4.36,
+        "Jun": 4.18,
+        "Jul": 4.1,
+        "Aug": 4.06,
+        "Sep": 4.52,
+        "Oct": 4.93,
+        "Nov": 5.06,
+        "Dec": 5.01
+      },
+      "average": 4.61
+    },
+    {
+      "name": "Tenkodogo",
+      "admin1_code": "04",
+      "location": [
+        11.78442,
+        -0.37184
+      ],
+      "monthly": {
+        "Jan": 5.01,
+        "Feb": 4.98,
+        "Mar": 4.62,
+        "Apr": 4.5,
+        "May": 4.33,
+        "Jun": 4.13,
+        "Jul": 4.03,
+        "Aug": 3.95,
+        "Sep": 4.43,
+        "Oct": 4.93,
+        "Nov": 5.1,
+        "Dec": 5.04
+      },
+      "average": 4.59
+    },
+    {
+      "name": "Solenzo",
+      "admin1_code": "01",
+      "location": [
+        12.17423,
+        -4.08477
+      ],
+      "monthly": {
+        "Jan": 5.05,
+        "Feb": 5.02,
+        "Mar": 4.69,
+        "Apr": 4.48,
+        "May": 4.34,
+        "Jun": 4.18,
+        "Jul": 4.11,
+        "Aug": 4.1,
+        "Sep": 4.59,
+        "Oct": 4.91,
+        "Nov": 5.06,
+        "Dec": 4.99
+      },
+      "average": 4.63
+    },
+    {
+      "name": "Sapouy",
+      "admin1_code": "06",
+      "location": [
+        11.55444,
+        -1.77361
+      ],
+      "monthly": {
+        "Jan": 4.99,
+        "Feb": 4.95,
+        "Mar": 4.6,
+        "Apr": 4.47,
+        "May": 4.35,
+        "Jun": 4.16,
+        "Jul": 4.05,
+        "Aug": 3.97,
+        "Sep": 4.41,
+        "Oct": 4.96,
+        "Nov": 5.07,
+        "Dec": 5
+      },
+      "average": 4.58
+    },
+    {
+      "name": "Saonré",
+      "admin1_code": "03",
+      "location": [
+        12.2751,
+        -1.57692
+      ],
+      "monthly": {
+        "Jan": 4.99,
+        "Feb": 4.95,
+        "Mar": 4.6,
+        "Apr": 4.51,
+        "May": 4.38,
+        "Jun": 4.21,
+        "Jul": 4.17,
+        "Aug": 4.09,
+        "Sep": 4.54,
+        "Oct": 4.92,
+        "Nov": 5.06,
+        "Dec": 4.99
+      },
+      "average": 4.62
+    },
+    {
+      "name": "Sabou",
+      "admin1_code": "06",
+      "location": [
+        12.06667,
+        -2.23333
+      ],
+      "monthly": {
+        "Jan": 5.03,
+        "Feb": 4.97,
+        "Mar": 4.63,
+        "Apr": 4.51,
+        "May": 4.38,
+        "Jun": 4.18,
+        "Jul": 4.12,
+        "Aug": 4.06,
+        "Sep": 4.53,
+        "Oct": 4.95,
+        "Nov": 5.07,
+        "Dec": 5.01
+      },
+      "average": 4.62
+    },
+    {
+      "name": "Saaba",
+      "admin1_code": "03",
+      "location": [
+        12.37136,
+        -1.41468
+      ],
+      "monthly": {
+        "Jan": 5.03,
+        "Feb": 4.99,
+        "Mar": 4.64,
+        "Apr": 4.54,
+        "May": 4.38,
+        "Jun": 4.21,
+        "Jul": 4.15,
+        "Aug": 4.05,
+        "Sep": 4.54,
+        "Oct": 4.96,
+        "Nov": 5.1,
+        "Dec": 5.03
+      },
+      "average": 4.63
+    },
+    {
+      "name": "Réo",
+      "admin1_code": "06",
+      "location": [
+        12.31963,
+        -2.47094
+      ],
+      "monthly": {
+        "Jan": 5.05,
+        "Feb": 5.01,
+        "Mar": 4.67,
+        "Apr": 4.55,
+        "May": 4.39,
+        "Jun": 4.18,
+        "Jul": 4.12,
+        "Aug": 4.08,
+        "Sep": 4.57,
+        "Oct": 4.94,
+        "Nov": 5.07,
+        "Dec": 5.01
+      },
+      "average": 4.64
+    },
+    {
+      "name": "Pouytenga",
+      "admin1_code": "04",
+      "location": [
+        12.25162,
+        -0.42565
+      ],
+      "monthly": {
+        "Jan": 5.04,
+        "Feb": 5.02,
+        "Mar": 4.65,
+        "Apr": 4.54,
+        "May": 4.35,
+        "Jun": 4.16,
+        "Jul": 4.12,
+        "Aug": 4.07,
+        "Sep": 4.52,
+        "Oct": 4.91,
+        "Nov": 5.1,
+        "Dec": 5.06
+      },
+      "average": 4.63
+    },
+    {
+      "name": "Pô",
+      "admin1_code": "07",
+      "location": [
+        11.16972,
+        -1.145
+      ],
+      "monthly": {
+        "Jan": 4.97,
+        "Feb": 4.91,
+        "Mar": 4.59,
+        "Apr": 4.43,
+        "May": 4.29,
+        "Jun": 4.08,
+        "Jul": 3.94,
+        "Aug": 3.88,
+        "Sep": 4.33,
+        "Oct": 4.91,
+        "Nov": 5.06,
+        "Dec": 4.99
+      },
+      "average": 4.53
+    },
+    {
+      "name": "Pissila",
+      "admin1_code": "05",
+      "location": [
+        13.16417,
+        -0.8225
+      ],
+      "monthly": {
+        "Jan": 5.06,
+        "Feb": 5.07,
+        "Mar": 4.74,
+        "Apr": 4.62,
+        "May": 4.37,
+        "Jun": 4.18,
+        "Jul": 4.25,
+        "Aug": 4.22,
+        "Sep": 4.7,
+        "Oct": 4.92,
+        "Nov": 5.09,
+        "Dec": 5.04
+      },
+      "average": 4.69
+    },
+    {
+      "name": "Pa",
+      "admin1_code": "01",
+      "location": [
+        12.66667,
+        -3.95
+      ],
+      "monthly": {
+        "Jan": 5.06,
+        "Feb": 5.07,
+        "Mar": 4.75,
+        "Apr": 4.55,
+        "May": 4.36,
+        "Jun": 4.21,
+        "Jul": 4.17,
+        "Aug": 4.17,
+        "Sep": 4.65,
+        "Oct": 4.92,
+        "Nov": 5.03,
+        "Dec": 4.99
+      },
+      "average": 4.66
+    },
+    {
+      "name": "Ouahigouya",
+      "admin1_code": "10",
+      "location": [
+        13.5769,
+        -2.41786
+      ],
+      "monthly": {
+        "Jan": 5.06,
+        "Feb": 5.11,
+        "Mar": 4.82,
+        "Apr": 4.66,
+        "May": 4.4,
+        "Jun": 4.17,
+        "Jul": 4.25,
+        "Aug": 4.23,
+        "Sep": 4.73,
+        "Oct": 4.95,
+        "Nov": 5.11,
+        "Dec": 5.03
+      },
+      "average": 4.71
+    },
+    {
+      "name": "Ouagadougou",
+      "admin1_code": "03",
+      "location": [
+        12.36566,
+        -1.53388
+      ],
+      "monthly": {
+        "Jan": 4.92,
+        "Feb": 4.88,
+        "Mar": 4.53,
+        "Apr": 4.48,
+        "May": 4.36,
+        "Jun": 4.19,
+        "Jul": 4.13,
+        "Aug": 4.02,
+        "Sep": 4.48,
+        "Oct": 4.9,
+        "Nov": 5.03,
+        "Dec": 4.93
+      },
+      "average": 4.57
+    },
+    {
+      "name": "Orodara",
+      "admin1_code": "09",
+      "location": [
+        10.98115,
+        -4.91885
+      ],
+      "monthly": {
+        "Jan": 5.17,
+        "Feb": 5.08,
+        "Mar": 4.73,
+        "Apr": 4.48,
+        "May": 4.38,
+        "Jun": 4.15,
+        "Jul": 3.88,
+        "Aug": 3.79,
+        "Sep": 4.32,
+        "Oct": 4.87,
+        "Nov": 5.13,
+        "Dec": 5.09
+      },
+      "average": 4.59
+    },
+    {
+      "name": "Nioko I",
+      "admin1_code": "03",
+      "location": [
+        12.39501,
+        -1.43861
+      ],
+      "monthly": {
+        "Jan": 5.01,
+        "Feb": 4.98,
+        "Mar": 4.63,
+        "Apr": 4.53,
+        "May": 4.37,
+        "Jun": 4.2,
+        "Jul": 4.14,
+        "Aug": 4.03,
+        "Sep": 4.52,
+        "Oct": 4.95,
+        "Nov": 5.09,
+        "Dec": 5.01
+      },
+      "average": 4.62
+    },
+    {
+      "name": "Nouna",
+      "admin1_code": "01",
+      "location": [
+        12.72939,
+        -3.86305
+      ],
+      "monthly": {
+        "Jan": 5.07,
+        "Feb": 5.09,
+        "Mar": 4.76,
+        "Apr": 4.56,
+        "May": 4.36,
+        "Jun": 4.18,
+        "Jul": 4.15,
+        "Aug": 4.17,
+        "Sep": 4.64,
+        "Oct": 4.91,
+        "Nov": 5.06,
+        "Dec": 5.01
+      },
+      "average": 4.66
+    },
+    {
+      "name": "Niangoloko",
+      "admin1_code": "02",
+      "location": [
+        10.28333,
+        -4.91667
+      ],
+      "monthly": {
+        "Jan": 4.99,
+        "Feb": 4.93,
+        "Mar": 4.59,
+        "Apr": 4.41,
+        "May": 4.34,
+        "Jun": 3.97,
+        "Jul": 3.77,
+        "Aug": 3.67,
+        "Sep": 4.19,
+        "Oct": 4.84,
+        "Nov": 5.01,
+        "Dec": 4.91
+      },
+      "average": 4.47
+    },
+    {
+      "name": "Natiaboani",
+      "admin1_code": "08",
+      "location": [
+        11.69917,
+        0.50611
+      ],
+      "monthly": {
+        "Jan": 4.93,
+        "Feb": 4.92,
+        "Mar": 4.55,
+        "Apr": 4.48,
+        "May": 4.31,
+        "Jun": 4.09,
+        "Jul": 3.96,
+        "Aug": 3.87,
+        "Sep": 4.4,
+        "Oct": 4.87,
+        "Nov": 5.01,
+        "Dec": 4.95
+      },
+      "average": 4.53
+    },
+    {
+      "name": "Mogtédo",
+      "admin1_code": "11",
+      "location": [
+        12.28444,
+        -0.83722
+      ],
+      "monthly": {
+        "Jan": 5.01,
+        "Feb": 4.99,
+        "Mar": 4.62,
+        "Apr": 4.51,
+        "May": 4.34,
+        "Jun": 4.17,
+        "Jul": 4.14,
+        "Aug": 4.08,
+        "Sep": 4.52,
+        "Oct": 4.94,
+        "Nov": 5.07,
+        "Dec": 5.02
+      },
+      "average": 4.62
+    },
+    {
+      "name": "Manga",
+      "admin1_code": "07",
+      "location": [
+        11.66496,
+        -1.06977
+      ],
+      "monthly": {
+        "Jan": 4.97,
+        "Feb": 4.94,
+        "Mar": 4.6,
+        "Apr": 4.46,
+        "May": 4.32,
+        "Jun": 4.16,
+        "Jul": 4.07,
+        "Aug": 4.01,
+        "Sep": 4.43,
+        "Oct": 4.92,
+        "Nov": 5.05,
+        "Dec": 5
+      },
+      "average": 4.58
+    },
+    {
+      "name": "Léo",
+      "admin1_code": "06",
+      "location": [
+        11.10033,
+        -2.10654
+      ],
+      "monthly": {
+        "Jan": 4.98,
+        "Feb": 4.93,
+        "Mar": 4.59,
+        "Apr": 4.46,
+        "May": 4.34,
+        "Jun": 4.12,
+        "Jul": 3.97,
+        "Aug": 3.89,
+        "Sep": 4.35,
+        "Oct": 4.91,
+        "Nov": 5.05,
+        "Dec": 4.97
+      },
+      "average": 4.55
+    },
+    {
+      "name": "Koupéla",
+      "admin1_code": "04",
+      "location": [
+        12.17864,
+        -0.35103
+      ],
+      "monthly": {
+        "Jan": 5.03,
+        "Feb": 5.01,
+        "Mar": 4.64,
+        "Apr": 4.53,
+        "May": 4.34,
+        "Jun": 4.14,
+        "Jul": 4.11,
+        "Aug": 4.05,
+        "Sep": 4.51,
+        "Oct": 4.92,
+        "Nov": 5.1,
+        "Dec": 5.05
+      },
+      "average": 4.62
+    },
+    {
+      "name": "Kouka",
+      "admin1_code": "05",
+      "location": [
+        13.4345,
+        -1.61361
+      ],
+      "monthly": {
+        "Jan": 5.07,
+        "Feb": 5.09,
+        "Mar": 4.79,
+        "Apr": 4.65,
+        "May": 4.41,
+        "Jun": 4.17,
+        "Jul": 4.27,
+        "Aug": 4.24,
+        "Sep": 4.74,
+        "Oct": 4.94,
+        "Nov": 5.11,
+        "Dec": 5.04
+      },
+      "average": 4.71
+    },
+    {
+      "name": "Koudougou",
+      "admin1_code": "06",
+      "location": [
+        12.25188,
+        -2.36694
+      ],
+      "monthly": {
+        "Jan": 5.05,
+        "Feb": 5,
+        "Mar": 4.66,
+        "Apr": 4.54,
+        "May": 4.39,
+        "Jun": 4.17,
+        "Jul": 4.12,
+        "Aug": 4.07,
+        "Sep": 4.56,
+        "Oct": 4.93,
+        "Nov": 5.07,
+        "Dec": 5.01
+      },
+      "average": 4.63
+    },
+    {
+      "name": "Korsimoro",
+      "admin1_code": "05",
+      "location": [
+        12.82506,
+        -1.06737
+      ],
+      "monthly": {
+        "Jan": 5.02,
+        "Feb": 5.01,
+        "Mar": 4.67,
+        "Apr": 4.54,
+        "May": 4.33,
+        "Jun": 4.15,
+        "Jul": 4.16,
+        "Aug": 4.1,
+        "Sep": 4.6,
+        "Oct": 4.93,
+        "Nov": 5.07,
+        "Dec": 5
+      },
+      "average": 4.63
+    },
+    {
+      "name": "Kongoussi",
+      "admin1_code": "05",
+      "location": [
+        13.32583,
+        -1.53472
+      ],
+      "monthly": {
+        "Jan": 5.06,
+        "Feb": 5.05,
+        "Mar": 4.74,
+        "Apr": 4.6,
+        "May": 4.36,
+        "Jun": 4.15,
+        "Jul": 4.22,
+        "Aug": 4.19,
+        "Sep": 4.71,
+        "Oct": 4.93,
+        "Nov": 5.08,
+        "Dec": 5.02
+      },
+      "average": 4.68
+    },
+    {
+      "name": "Kombissiri",
+      "admin1_code": "07",
+      "location": [
+        12.06884,
+        -1.33644
+      ],
+      "monthly": {
+        "Jan": 5.03,
+        "Feb": 4.99,
+        "Mar": 4.65,
+        "Apr": 4.52,
+        "May": 4.36,
+        "Jun": 4.2,
+        "Jul": 4.15,
+        "Aug": 4.09,
+        "Sep": 4.53,
+        "Oct": 4.95,
+        "Nov": 5.1,
+        "Dec": 5.04
+      },
+      "average": 4.63
+    },
+    {
+      "name": "Kokologo",
+      "admin1_code": "06",
+      "location": [
+        12.19392,
+        -1.87687
+      ],
+      "monthly": {
+        "Jan": 5.06,
+        "Feb": 5.01,
+        "Mar": 4.66,
+        "Apr": 4.54,
+        "May": 4.4,
+        "Jun": 4.21,
+        "Jul": 4.15,
+        "Aug": 4.09,
+        "Sep": 4.55,
+        "Oct": 4.95,
+        "Nov": 5.1,
+        "Dec": 5.04
+      },
+      "average": 4.65
+    },
+    {
+      "name": "Kindi",
+      "admin1_code": "06",
+      "location": [
+        12.4386,
+        -2.03279
+      ],
+      "monthly": {
+        "Jan": 5.06,
+        "Feb": 5.03,
+        "Mar": 4.7,
+        "Apr": 4.58,
+        "May": 4.41,
+        "Jun": 4.21,
+        "Jul": 4.18,
+        "Aug": 4.12,
+        "Sep": 4.59,
+        "Oct": 4.95,
+        "Nov": 5.07,
+        "Dec": 5.02
+      },
+      "average": 4.66
+    },
+    {
+      "name": "Kaya",
+      "admin1_code": "05",
+      "location": [
+        13.0883,
+        -1.08368
+      ],
+      "monthly": {
+        "Jan": 5.06,
+        "Feb": 5.06,
+        "Mar": 4.72,
+        "Apr": 4.58,
+        "May": 4.34,
+        "Jun": 4.15,
+        "Jul": 4.17,
+        "Aug": 4.13,
+        "Sep": 4.67,
+        "Oct": 4.93,
+        "Nov": 5.11,
+        "Dec": 5.03
+      },
+      "average": 4.66
+    },
+    {
+      "name": "Karankasso",
+      "admin1_code": "09",
+      "location": [
+        11.22191,
+        -4.64423
+      ],
+      "monthly": {
+        "Jan": 5.06,
+        "Feb": 4.97,
+        "Mar": 4.6,
+        "Apr": 4.35,
+        "May": 4.3,
+        "Jun": 4.12,
+        "Jul": 3.97,
+        "Aug": 3.91,
+        "Sep": 4.38,
+        "Oct": 4.87,
+        "Nov": 5.03,
+        "Dec": 4.99
+      },
+      "average": 4.55
+    },
+    {
+      "name": "Houndé",
+      "admin1_code": "09",
+      "location": [
+        11.5,
+        -3.51667
+      ],
+      "monthly": {
+        "Jan": 5.04,
+        "Feb": 4.98,
+        "Mar": 4.66,
+        "Apr": 4.48,
+        "May": 4.38,
+        "Jun": 4.15,
+        "Jul": 4.01,
+        "Aug": 3.96,
+        "Sep": 4.47,
+        "Oct": 4.89,
+        "Nov": 5.04,
+        "Dec": 4.98
+      },
+      "average": 4.59
+    },
+    {
+      "name": "Gourcy",
+      "admin1_code": "10",
+      "location": [
+        13.20776,
+        -2.35893
+      ],
+      "monthly": {
+        "Jan": 5.07,
+        "Feb": 5.1,
+        "Mar": 4.77,
+        "Apr": 4.62,
+        "May": 4.39,
+        "Jun": 4.15,
+        "Jul": 4.23,
+        "Aug": 4.18,
+        "Sep": 4.69,
+        "Oct": 4.94,
+        "Nov": 5.09,
+        "Dec": 5.03
+      },
+      "average": 4.69
+    },
+    {
+      "name": "Gayéri",
+      "admin1_code": "08",
+      "location": [
+        12.64824,
+        0.49314
+      ],
+      "monthly": {
+        "Jan": 5.02,
+        "Feb": 5.03,
+        "Mar": 4.64,
+        "Apr": 4.55,
+        "May": 4.33,
+        "Jun": 4.14,
+        "Jul": 4.14,
+        "Aug": 4.08,
+        "Sep": 4.58,
+        "Oct": 4.86,
+        "Nov": 5.07,
+        "Dec": 5.03
+      },
+      "average": 4.62
+    },
+    {
+      "name": "Garango",
+      "admin1_code": "04",
+      "location": [
+        11.8,
+        -0.55056
+      ],
+      "monthly": {
+        "Jan": 4.99,
+        "Feb": 4.96,
+        "Mar": 4.6,
+        "Apr": 4.47,
+        "May": 4.31,
+        "Jun": 4.1,
+        "Jul": 4.02,
+        "Aug": 3.96,
+        "Sep": 4.44,
+        "Oct": 4.91,
+        "Nov": 5.08,
+        "Dec": 5.03
+      },
+      "average": 4.57
+    },
+    {
+      "name": "Gaoua",
+      "admin1_code": "13",
+      "location": [
+        10.33137,
+        -3.18202
+      ],
+      "monthly": {
+        "Jan": 4.91,
+        "Feb": 4.86,
+        "Mar": 4.51,
+        "Apr": 4.38,
+        "May": 4.28,
+        "Jun": 3.99,
+        "Jul": 3.72,
+        "Aug": 3.68,
+        "Sep": 4.16,
+        "Oct": 4.75,
+        "Nov": 4.93,
+        "Dec": 4.84
+      },
+      "average": 4.42
+    },
+    {
+      "name": "Gao",
+      "admin1_code": "06",
+      "location": [
+        11.64967,
+        -2.17777
+      ],
+      "monthly": {
+        "Jan": 4.99,
+        "Feb": 4.93,
+        "Mar": 4.58,
+        "Apr": 4.46,
+        "May": 4.33,
+        "Jun": 4.15,
+        "Jul": 4.03,
+        "Aug": 3.97,
+        "Sep": 4.44,
+        "Oct": 4.93,
+        "Nov": 5.05,
+        "Dec": 4.98
+      },
+      "average": 4.57
+    },
+    {
+      "name": "Fara Department",
+      "admin1_code": "01",
+      "location": [
+        11.52941,
+        -2.76797
+      ],
+      "monthly": {
+        "Jan": 4.98,
+        "Feb": 4.9,
+        "Mar": 4.56,
+        "Apr": 4.42,
+        "May": 4.33,
+        "Jun": 4.11,
+        "Jul": 4,
+        "Aug": 3.96,
+        "Sep": 4.44,
+        "Oct": 4.88,
+        "Nov": 5.01,
+        "Dec": 4.95
+      },
+      "average": 4.54
+    },
+    {
+      "name": "Fada N'gourma",
+      "admin1_code": "08",
+      "location": [
+        12.06157,
+        0.35843
+      ],
+      "monthly": {
+        "Jan": 5.01,
+        "Feb": 4.98,
+        "Mar": 4.61,
+        "Apr": 4.51,
+        "May": 4.31,
+        "Jun": 4.1,
+        "Jul": 4.03,
+        "Aug": 3.97,
+        "Sep": 4.47,
+        "Oct": 4.89,
+        "Nov": 5.09,
+        "Dec": 5.03
+      },
+      "average": 4.58
+    },
+    {
+      "name": "Dori",
+      "admin1_code": "12",
+      "location": [
+        14.03326,
+        -0.03333
+      ],
+      "monthly": {
+        "Jan": 5.1,
+        "Feb": 5.13,
+        "Mar": 4.84,
+        "Apr": 4.69,
+        "May": 4.41,
+        "Jun": 4.15,
+        "Jul": 4.22,
+        "Aug": 4.31,
+        "Sep": 4.76,
+        "Oct": 4.91,
+        "Nov": 5.12,
+        "Dec": 5.06
+      },
+      "average": 4.72
+    },
+    {
+      "name": "Djibo",
+      "admin1_code": "12",
+      "location": [
+        14.09864,
+        -1.62665
+      ],
+      "monthly": {
+        "Jan": 5.07,
+        "Feb": 5.13,
+        "Mar": 4.88,
+        "Apr": 4.7,
+        "May": 4.41,
+        "Jun": 4.17,
+        "Jul": 4.27,
+        "Aug": 4.32,
+        "Sep": 4.77,
+        "Oct": 4.93,
+        "Nov": 5.13,
+        "Dec": 5.03
+      },
+      "average": 4.73
+    },
+    {
+      "name": "Diébougou",
+      "admin1_code": "13",
+      "location": [
+        10.96209,
+        -3.24967
+      ],
+      "monthly": {
+        "Jan": 4.94,
+        "Feb": 4.88,
+        "Mar": 4.55,
+        "Apr": 4.41,
+        "May": 4.31,
+        "Jun": 4.07,
+        "Jul": 3.89,
+        "Aug": 3.82,
+        "Sep": 4.32,
+        "Oct": 4.84,
+        "Nov": 4.98,
+        "Dec": 4.9
+      },
+      "average": 4.49
+    },
+    {
+      "name": "Diapaga",
+      "admin1_code": "08",
+      "location": [
+        12.0729,
+        1.78835
+      ],
+      "monthly": {
+        "Jan": 4.97,
+        "Feb": 4.93,
+        "Mar": 4.59,
+        "Apr": 4.5,
+        "May": 4.31,
+        "Jun": 4.09,
+        "Jul": 4,
+        "Aug": 3.9,
+        "Sep": 4.51,
+        "Oct": 4.87,
+        "Nov": 5.05,
+        "Dec": 5
+      },
+      "average": 4.56
+    },
+    {
+      "name": "Dédougou",
+      "admin1_code": "01",
+      "location": [
+        12.4636,
+        -3.46075
+      ],
+      "monthly": {
+        "Jan": 5.04,
+        "Feb": 5.02,
+        "Mar": 4.69,
+        "Apr": 4.52,
+        "May": 4.36,
+        "Jun": 4.14,
+        "Jul": 4.1,
+        "Aug": 4.11,
+        "Sep": 4.61,
+        "Oct": 4.86,
+        "Nov": 5.06,
+        "Dec": 5
+      },
+      "average": 4.63
+    },
+    {
+      "name": "Dano",
+      "admin1_code": "13",
+      "location": [
+        11.1464,
+        -3.05784
+      ],
+      "monthly": {
+        "Jan": 4.97,
+        "Feb": 4.9,
+        "Mar": 4.57,
+        "Apr": 4.41,
+        "May": 4.3,
+        "Jun": 4.07,
+        "Jul": 3.94,
+        "Aug": 3.87,
+        "Sep": 4.35,
+        "Oct": 4.84,
+        "Nov": 5.01,
+        "Dec": 4.94
+      },
+      "average": 4.51
+    },
+    {
+      "name": "Gomboussougou",
+      "admin1_code": "07",
+      "location": [
+        11.42611,
+        -0.77278
+      ],
+      "monthly": {
+        "Jan": 4.95,
+        "Feb": 4.9,
+        "Mar": 4.57,
+        "Apr": 4.43,
+        "May": 4.29,
+        "Jun": 4.1,
+        "Jul": 3.99,
+        "Aug": 3.92,
+        "Sep": 4.35,
+        "Oct": 4.89,
+        "Nov": 5.05,
+        "Dec": 4.98
+      },
+      "average": 4.54
+    },
+    {
+      "name": "Boussé",
+      "admin1_code": "11",
+      "location": [
+        12.66121,
+        -1.89515
+      ],
+      "monthly": {
+        "Jan": 5.05,
+        "Feb": 5.04,
+        "Mar": 4.72,
+        "Apr": 4.61,
+        "May": 4.42,
+        "Jun": 4.22,
+        "Jul": 4.23,
+        "Aug": 4.15,
+        "Sep": 4.61,
+        "Oct": 4.96,
+        "Nov": 5.08,
+        "Dec": 5.02
+      },
+      "average": 4.68
+    },
+    {
+      "name": "Bourzanga",
+      "admin1_code": "05",
+      "location": [
+        13.67806,
+        -1.54611
+      ],
+      "monthly": {
+        "Jan": 5.12,
+        "Feb": 5.14,
+        "Mar": 4.83,
+        "Apr": 4.67,
+        "May": 4.39,
+        "Jun": 4.15,
+        "Jul": 4.27,
+        "Aug": 4.28,
+        "Sep": 4.76,
+        "Oct": 4.94,
+        "Nov": 5.16,
+        "Dec": 5.09
+      },
+      "average": 4.73
+    },
+    {
+      "name": "Boulsa",
+      "admin1_code": "05",
+      "location": [
+        12.66664,
+        -0.57469
+      ],
+      "monthly": {
+        "Jan": 5.07,
+        "Feb": 5.05,
+        "Mar": 4.69,
+        "Apr": 4.57,
+        "May": 4.36,
+        "Jun": 4.18,
+        "Jul": 4.19,
+        "Aug": 4.11,
+        "Sep": 4.61,
+        "Oct": 4.94,
+        "Nov": 5.12,
+        "Dec": 5.08
+      },
+      "average": 4.66
+    },
+    {
+      "name": "Boromo",
+      "admin1_code": "01",
+      "location": [
+        11.74542,
+        -2.93006
+      ],
+      "monthly": {
+        "Jan": 4.99,
+        "Feb": 4.92,
+        "Mar": 4.59,
+        "Apr": 4.45,
+        "May": 4.36,
+        "Jun": 4.16,
+        "Jul": 4.08,
+        "Aug": 4.05,
+        "Sep": 4.49,
+        "Oct": 4.89,
+        "Nov": 5.01,
+        "Dec": 4.95
+      },
+      "average": 4.58
+    },
+    {
+      "name": "Bogandé",
+      "admin1_code": "08",
+      "location": [
+        12.97711,
+        -0.14661
+      ],
+      "monthly": {
+        "Jan": 5.05,
+        "Feb": 5.05,
+        "Mar": 4.7,
+        "Apr": 4.58,
+        "May": 4.34,
+        "Jun": 4.16,
+        "Jul": 4.18,
+        "Aug": 4.14,
+        "Sep": 4.67,
+        "Oct": 4.91,
+        "Nov": 5.09,
+        "Dec": 5.05
+      },
+      "average": 4.66
+    },
+    {
+      "name": "Bobo-Dioulasso",
+      "admin1_code": "09",
+      "location": [
+        11.18064,
+        -4.29489
+      ],
+      "monthly": {
+        "Jan": 5.1,
+        "Feb": 5.01,
+        "Mar": 4.67,
+        "Apr": 4.44,
+        "May": 4.38,
+        "Jun": 4.14,
+        "Jul": 3.94,
+        "Aug": 3.88,
+        "Sep": 4.35,
+        "Oct": 4.91,
+        "Nov": 5.11,
+        "Dec": 5.03
+      },
+      "average": 4.58
+    },
+    {
+      "name": "Bittou",
+      "admin1_code": "04",
+      "location": [
+        11.25806,
+        -0.30611
+      ],
+      "monthly": {
+        "Jan": 4.91,
+        "Feb": 4.87,
+        "Mar": 4.53,
+        "Apr": 4.43,
+        "May": 4.26,
+        "Jun": 4.07,
+        "Jul": 3.93,
+        "Aug": 3.83,
+        "Sep": 4.3,
+        "Oct": 4.86,
+        "Nov": 5.02,
+        "Dec": 4.95
+      },
+      "average": 4.5
+    },
+    {
+      "name": "Béguédo",
+      "admin1_code": "04",
+      "location": [
+        11.78083,
+        -0.73389
+      ],
+      "monthly": {
+        "Jan": 4.97,
+        "Feb": 4.93,
+        "Mar": 4.57,
+        "Apr": 4.46,
+        "May": 4.31,
+        "Jun": 4.13,
+        "Jul": 4.06,
+        "Aug": 4.02,
+        "Sep": 4.48,
+        "Oct": 4.91,
+        "Nov": 5.07,
+        "Dec": 5.01
+      },
+      "average": 4.58
+    },
+    {
+      "name": "Batié",
+      "admin1_code": "13",
+      "location": [
+        9.88333,
+        -2.91667
+      ],
+      "monthly": {
+        "Jan": 4.84,
+        "Feb": 4.82,
+        "Mar": 4.5,
+        "Apr": 4.41,
+        "May": 4.3,
+        "Jun": 3.93,
+        "Jul": 3.62,
+        "Aug": 3.57,
+        "Sep": 4.07,
+        "Oct": 4.7,
+        "Nov": 4.88,
+        "Dec": 4.73
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Barogo",
+      "admin1_code": "11",
+      "location": [
+        12.55,
+        -0.96667
+      ],
+      "monthly": {
+        "Jan": 5.01,
+        "Feb": 5,
+        "Mar": 4.64,
+        "Apr": 4.52,
+        "May": 4.33,
+        "Jun": 4.17,
+        "Jul": 4.15,
+        "Aug": 4.05,
+        "Sep": 4.54,
+        "Oct": 4.91,
+        "Nov": 5.07,
+        "Dec": 5.01
+      },
+      "average": 4.62
+    },
+    {
+      "name": "Banfora",
+      "admin1_code": "02",
+      "location": [
+        10.64064,
+        -4.75285
+      ],
+      "monthly": {
+        "Jan": 4.99,
+        "Feb": 4.92,
+        "Mar": 4.61,
+        "Apr": 4.43,
+        "May": 4.37,
+        "Jun": 4.03,
+        "Jul": 3.83,
+        "Aug": 3.74,
+        "Sep": 4.27,
+        "Oct": 4.87,
+        "Nov": 5.02,
+        "Dec": 4.92
+      },
+      "average": 4.5
+    },
+    {
+      "name": "Bama",
+      "admin1_code": "01",
+      "location": [
+        12.0357,
+        -4.3987
+      ],
+      "monthly": {
+        "Jan": 5.07,
+        "Feb": 5.03,
+        "Mar": 4.68,
+        "Apr": 4.45,
+        "May": 4.32,
+        "Jun": 4.16,
+        "Jul": 4.07,
+        "Aug": 4.04,
+        "Sep": 4.56,
+        "Oct": 4.95,
+        "Nov": 5.09,
+        "Dec": 5.01
+      },
+      "average": 4.62
+    },
+    {
+      "name": "Aribinda",
+      "admin1_code": "12",
+      "location": [
+        14.22963,
+        -0.86537
+      ],
+      "monthly": {
+        "Jan": 5.1,
+        "Feb": 5.16,
+        "Mar": 4.91,
+        "Apr": 4.72,
+        "May": 4.43,
+        "Jun": 4.17,
+        "Jul": 4.26,
+        "Aug": 4.32,
+        "Sep": 4.77,
+        "Oct": 4.9,
+        "Nov": 5.13,
+        "Dec": 5.04
+      },
+      "average": 4.74
+    },
+    {
+      "name": "Mani",
+      "admin1_code": "08",
+      "location": [
+        13.25833,
+        -0.21306
+      ],
+      "monthly": {
+        "Jan": 5.05,
+        "Feb": 5.05,
+        "Mar": 4.7,
+        "Apr": 4.6,
+        "May": 4.33,
+        "Jun": 4.13,
+        "Jul": 4.18,
+        "Aug": 4.18,
+        "Sep": 4.7,
+        "Oct": 4.89,
+        "Nov": 5.08,
+        "Dec": 5.03
+      },
+      "average": 4.66
+    },
+    {
+      "name": "Namponkoré",
+      "admin1_code": "08",
+      "location": [
+        11.73748,
+        1.77718
+      ],
+      "monthly": {
+        "Jan": 4.9,
+        "Feb": 4.88,
+        "Mar": 4.57,
+        "Apr": 4.5,
+        "May": 4.29,
+        "Jun": 4.11,
+        "Jul": 3.95,
+        "Aug": 3.84,
+        "Sep": 4.41,
+        "Oct": 4.86,
+        "Nov": 5.01,
+        "Dec": 4.93
+      },
+      "average": 4.52
+    },
+    {
+      "name": "Cinkansé",
+      "admin1_code": "04",
+      "location": [
+        11.11857,
+        0.00993
+      ],
+      "monthly": {
+        "Jan": 4.92,
+        "Feb": 4.89,
+        "Mar": 4.56,
+        "Apr": 4.45,
+        "May": 4.27,
+        "Jun": 4.06,
+        "Jul": 3.9,
+        "Aug": 3.83,
+        "Sep": 4.29,
+        "Oct": 4.86,
+        "Nov": 5.03,
+        "Dec": 4.97
+      },
+      "average": 4.5
+    },
+    {
+      "name": "Kompienga",
+      "admin1_code": "08",
+      "location": [
+        11.08169,
+        0.72365
+      ],
+      "monthly": {
+        "Jan": 4.83,
+        "Feb": 4.82,
+        "Mar": 4.49,
+        "Apr": 4.41,
+        "May": 4.23,
+        "Jun": 4,
+        "Jul": 3.8,
+        "Aug": 3.72,
+        "Sep": 4.27,
+        "Oct": 4.83,
+        "Nov": 5.02,
+        "Dec": 4.89
+      },
+      "average": 4.44
+    }
+  ]
+}

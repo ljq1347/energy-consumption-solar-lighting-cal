@@ -1,0 +1,397 @@
+{
+  "country": "Georgia",
+  "countryCode": "GE",
+  "cities": [
+    {
+      "name": "Zugdidi",
+      "admin1_code": "71",
+      "location": [
+        42.5084,
+        41.86796
+      ],
+      "monthly": {
+        "Jan": 2.33,
+        "Feb": 2.84,
+        "Mar": 3.27,
+        "Apr": 3.86,
+        "May": 4.27,
+        "Jun": 4.46,
+        "Jul": 4.33,
+        "Aug": 4.52,
+        "Sep": 4.25,
+        "Oct": 3.49,
+        "Nov": 2.82,
+        "Dec": 2.25
+      },
+      "average": 3.56
+    },
+    {
+      "name": "Zestaponi",
+      "admin1_code": "66",
+      "location": [
+        42.10752,
+        43.03291
+      ],
+      "monthly": {
+        "Jan": 2.32,
+        "Feb": 2.84,
+        "Mar": 3.29,
+        "Apr": 3.8,
+        "May": 4.14,
+        "Jun": 4.42,
+        "Jul": 4.46,
+        "Aug": 4.65,
+        "Sep": 4.33,
+        "Oct": 3.45,
+        "Nov": 2.76,
+        "Dec": 2.18
+      },
+      "average": 3.55
+    },
+    {
+      "name": "Ts’khinvali",
+      "admin1_code": "73",
+      "location": [
+        42.22764,
+        43.96861
+      ],
+      "monthly": {
+        "Jan": 2.76,
+        "Feb": 3.32,
+        "Mar": 4.03,
+        "Apr": 4.44,
+        "May": 4.8,
+        "Jun": 5.12,
+        "Jul": 5.16,
+        "Aug": 5.22,
+        "Sep": 4.84,
+        "Oct": 3.96,
+        "Nov": 3.26,
+        "Dec": 2.35
+      },
+      "average": 4.1
+    },
+    {
+      "name": "Telavi",
+      "admin1_code": "67",
+      "location": [
+        41.91957,
+        45.47002
+      ],
+      "monthly": {
+        "Jan": 2.78,
+        "Feb": 3.22,
+        "Mar": 3.54,
+        "Apr": 3.75,
+        "May": 4.2,
+        "Jun": 4.78,
+        "Jul": 4.77,
+        "Aug": 4.77,
+        "Sep": 4.2,
+        "Oct": 3.51,
+        "Nov": 3.03,
+        "Dec": 2.59
+      },
+      "average": 3.76
+    },
+    {
+      "name": "Tbilisi",
+      "admin1_code": "51",
+      "location": [
+        41.69143,
+        44.83412
+      ],
+      "monthly": {
+        "Jan": 2.79,
+        "Feb": 3.28,
+        "Mar": 3.77,
+        "Apr": 4.05,
+        "May": 4.53,
+        "Jun": 4.91,
+        "Jul": 4.79,
+        "Aug": 4.74,
+        "Sep": 4.28,
+        "Oct": 3.53,
+        "Nov": 2.89,
+        "Dec": 2.54
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Sokhumi",
+      "admin1_code": "02",
+      "location": [
+        43.00697,
+        40.9893
+      ],
+      "monthly": {
+        "Jan": 2.19,
+        "Feb": 2.74,
+        "Mar": 3.3,
+        "Apr": 3.98,
+        "May": 4.58,
+        "Jun": 5.02,
+        "Jul": 5.03,
+        "Aug": 5.01,
+        "Sep": 4.41,
+        "Oct": 3.48,
+        "Nov": 2.69,
+        "Dec": 2.11
+      },
+      "average": 3.71
+    },
+    {
+      "name": "Samtredia",
+      "admin1_code": "66",
+      "location": [
+        42.1537,
+        42.33517
+      ],
+      "monthly": {
+        "Jan": 2.28,
+        "Feb": 2.85,
+        "Mar": 3.28,
+        "Apr": 3.87,
+        "May": 4.29,
+        "Jun": 4.51,
+        "Jul": 4.46,
+        "Aug": 4.58,
+        "Sep": 4.25,
+        "Oct": 3.39,
+        "Nov": 2.75,
+        "Dec": 2.19
+      },
+      "average": 3.56
+    },
+    {
+      "name": "Rustavi",
+      "admin1_code": "68",
+      "location": [
+        41.56271,
+        44.9787
+      ],
+      "monthly": {
+        "Jan": 2.78,
+        "Feb": 3.31,
+        "Mar": 3.81,
+        "Apr": 4.1,
+        "May": 4.57,
+        "Jun": 4.93,
+        "Jul": 4.82,
+        "Aug": 4.78,
+        "Sep": 4.31,
+        "Oct": 3.55,
+        "Nov": 2.9,
+        "Dec": 2.51
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Poti",
+      "admin1_code": "71",
+      "location": [
+        42.14272,
+        41.67384
+      ],
+      "monthly": {
+        "Jan": 2.17,
+        "Feb": 2.75,
+        "Mar": 3.24,
+        "Apr": 3.89,
+        "May": 4.44,
+        "Jun": 4.71,
+        "Jul": 4.51,
+        "Aug": 4.53,
+        "Sep": 4.15,
+        "Oct": 3.25,
+        "Nov": 2.62,
+        "Dec": 2.08
+      },
+      "average": 3.53
+    },
+    {
+      "name": "Marneuli",
+      "admin1_code": "68",
+      "location": [
+        41.48758,
+        44.79845
+      ],
+      "monthly": {
+        "Jan": 2.8,
+        "Feb": 3.34,
+        "Mar": 3.76,
+        "Apr": 4.07,
+        "May": 4.53,
+        "Jun": 4.92,
+        "Jul": 4.85,
+        "Aug": 4.81,
+        "Sep": 4.31,
+        "Oct": 3.52,
+        "Nov": 2.93,
+        "Dec": 2.59
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Kutaisi",
+      "admin1_code": "66",
+      "location": [
+        42.26791,
+        42.69459
+      ],
+      "monthly": {
+        "Jan": 2.37,
+        "Feb": 2.91,
+        "Mar": 3.35,
+        "Apr": 3.92,
+        "May": 4.32,
+        "Jun": 4.52,
+        "Jul": 4.52,
+        "Aug": 4.67,
+        "Sep": 4.38,
+        "Oct": 3.52,
+        "Nov": 2.82,
+        "Dec": 2.25
+      },
+      "average": 3.63
+    },
+    {
+      "name": "Kobuleti",
+      "admin1_code": "04",
+      "location": [
+        41.83283,
+        41.77823
+      ],
+      "monthly": {
+        "Jan": 2.14,
+        "Feb": 2.66,
+        "Mar": 3.1,
+        "Apr": 3.67,
+        "May": 4.14,
+        "Jun": 4.28,
+        "Jul": 3.98,
+        "Aug": 3.94,
+        "Sep": 3.83,
+        "Oct": 3.09,
+        "Nov": 2.57,
+        "Dec": 2.06
+      },
+      "average": 3.29
+    },
+    {
+      "name": "Khashuri",
+      "admin1_code": "73",
+      "location": [
+        41.99733,
+        43.59905
+      ],
+      "monthly": {
+        "Jan": 2.44,
+        "Feb": 3,
+        "Mar": 3.53,
+        "Apr": 3.97,
+        "May": 4.27,
+        "Jun": 4.66,
+        "Jul": 4.76,
+        "Aug": 4.86,
+        "Sep": 4.49,
+        "Oct": 3.54,
+        "Nov": 2.82,
+        "Dec": 2.12
+      },
+      "average": 3.71
+    },
+    {
+      "name": "Gori",
+      "admin1_code": "73",
+      "location": [
+        41.98532,
+        44.1129
+      ],
+      "monthly": {
+        "Jan": 2.74,
+        "Feb": 3.36,
+        "Mar": 3.84,
+        "Apr": 4.16,
+        "May": 4.5,
+        "Jun": 4.9,
+        "Jul": 4.96,
+        "Aug": 4.93,
+        "Sep": 4.6,
+        "Oct": 3.73,
+        "Nov": 2.98,
+        "Dec": 2.35
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Batumi",
+      "admin1_code": "04",
+      "location": [
+        41.64077,
+        41.6306
+      ],
+      "monthly": {
+        "Jan": 2.2,
+        "Feb": 2.73,
+        "Mar": 3.12,
+        "Apr": 3.68,
+        "May": 4.13,
+        "Jun": 4.23,
+        "Jul": 3.99,
+        "Aug": 3.86,
+        "Sep": 3.79,
+        "Oct": 3.1,
+        "Nov": 2.61,
+        "Dec": 2.13
+      },
+      "average": 3.3
+    },
+    {
+      "name": "Akhaltsikhe",
+      "admin1_code": "72",
+      "location": [
+        41.63952,
+        42.98604
+      ],
+      "monthly": {
+        "Jan": 2.64,
+        "Feb": 3.38,
+        "Mar": 3.84,
+        "Apr": 4.12,
+        "May": 4.36,
+        "Jun": 4.77,
+        "Jul": 4.96,
+        "Aug": 5,
+        "Sep": 4.65,
+        "Oct": 3.77,
+        "Nov": 3.17,
+        "Dec": 2.47
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Stantsiya Novyy Afon",
+      "admin1_code": "02",
+      "location": [
+        43.08056,
+        40.83833
+      ],
+      "monthly": {
+        "Jan": 2.1,
+        "Feb": 2.64,
+        "Mar": 3.19,
+        "Apr": 3.85,
+        "May": 4.4,
+        "Jun": 4.82,
+        "Jul": 4.83,
+        "Aug": 4.86,
+        "Sep": 4.29,
+        "Oct": 3.38,
+        "Nov": 2.63,
+        "Dec": 2.02
+      },
+      "average": 3.58
+    }
+  ]
+}

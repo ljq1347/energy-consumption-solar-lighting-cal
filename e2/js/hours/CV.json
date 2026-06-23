@@ -1,0 +1,75 @@
+{
+  "country": "CV",
+  "countryCode": "CV",
+  "cities": [
+    {
+      "name": "Praia",
+      "admin1_code": "14",
+      "location": [
+        14.93152,
+        -23.51254
+      ],
+      "monthly": {
+        "Jan": 4.54,
+        "Feb": 5.05,
+        "Mar": 5.53,
+        "Apr": 5.57,
+        "May": 5.31,
+        "Jun": 4.84,
+        "Jul": 4.29,
+        "Aug": 4.14,
+        "Sep": 4.5,
+        "Oct": 4.71,
+        "Nov": 4.59,
+        "Dec": 4.34
+      },
+      "average": 4.78
+    },
+    {
+      "name": "Assomada",
+      "admin1_code": "15",
+      "location": [
+        15.1,
+        -23.68333
+      ],
+      "monthly": {
+        "Jan": 4.51,
+        "Feb": 5.02,
+        "Mar": 5.55,
+        "Apr": 5.53,
+        "May": 5.28,
+        "Jun": 4.86,
+        "Jul": 4.03,
+        "Aug": 3.69,
+        "Sep": 4.06,
+        "Oct": 4.57,
+        "Nov": 4.52,
+        "Dec": 4.31
+      },
+      "average": 4.66
+    },
+    {
+      "name": "Espargos",
+      "admin1_code": "08",
+      "location": [
+        16.75524,
+        -22.9446
+      ],
+      "monthly": {
+        "Jan": 4.67,
+        "Feb": 5.11,
+        "Mar": 5.53,
+        "Apr": 5.48,
+        "May": 5.15,
+        "Jun": 4.69,
+        "Jul": 4.24,
+        "Aug": 4.37,
+        "Sep": 4.7,
+        "Oct": 4.81,
+        "Nov": 4.66,
+        "Dec": 4.41
+      },
+      "average": 4.82
+    }
+  ]
+}

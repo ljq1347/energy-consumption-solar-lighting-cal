@@ -1,0 +1,351 @@
+{
+  "country": "Gabon",
+  "countryCode": "GA",
+  "cities": [
+    {
+      "name": "Tchibanga",
+      "admin1_code": "05",
+      "location": [
+        -2.93323,
+        10.98178
+      ],
+      "monthly": {
+        "Jan": 4.03,
+        "Feb": 4.14,
+        "Mar": 4.2,
+        "Apr": 4.07,
+        "May": 3.52,
+        "Jun": 3.03,
+        "Jul": 3.15,
+        "Aug": 3.04,
+        "Sep": 2.96,
+        "Oct": 3.48,
+        "Nov": 3.67,
+        "Dec": 3.73
+      },
+      "average": 3.58
+    },
+    {
+      "name": "Port-Gentil",
+      "admin1_code": "08",
+      "location": [
+        -0.71933,
+        8.78151
+      ],
+      "monthly": {
+        "Jan": 4.07,
+        "Feb": 4.12,
+        "Mar": 4.12,
+        "Apr": 4,
+        "May": 3.82,
+        "Jun": 3.94,
+        "Jul": 4,
+        "Aug": 4.03,
+        "Sep": 4.05,
+        "Oct": 3.77,
+        "Nov": 3.55,
+        "Dec": 3.76
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Oyem",
+      "admin1_code": "09",
+      "location": [
+        1.5995,
+        11.57933
+      ],
+      "monthly": {
+        "Jan": 4.21,
+        "Feb": 4.15,
+        "Mar": 4.04,
+        "Apr": 3.99,
+        "May": 3.6,
+        "Jun": 3.23,
+        "Jul": 3.21,
+        "Aug": 3.24,
+        "Sep": 3.79,
+        "Oct": 3.96,
+        "Nov": 3.8,
+        "Dec": 3.98
+      },
+      "average": 3.77
+    },
+    {
+      "name": "Oyam",
+      "admin1_code": "03",
+      "location": [
+        -0.2,
+        10.68333
+      ],
+      "monthly": {
+        "Jan": 4.14,
+        "Feb": 4.24,
+        "Mar": 4.16,
+        "Apr": 3.95,
+        "May": 3.41,
+        "Jun": 2.68,
+        "Jul": 2.87,
+        "Aug": 3,
+        "Sep": 3.39,
+        "Oct": 3.76,
+        "Nov": 3.62,
+        "Dec": 3.77
+      },
+      "average": 3.58
+    },
+    {
+      "name": "Owendo",
+      "admin1_code": "01",
+      "location": [
+        0.29123,
+        9.50465
+      ],
+      "monthly": {
+        "Jan": 4.32,
+        "Feb": 4.42,
+        "Mar": 4.31,
+        "Apr": 4.11,
+        "May": 3.8,
+        "Jun": 3.41,
+        "Jul": 3.49,
+        "Aug": 3.53,
+        "Sep": 3.7,
+        "Oct": 3.84,
+        "Nov": 3.83,
+        "Dec": 4.06
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Ntoum",
+      "admin1_code": "01",
+      "location": [
+        0.39051,
+        9.76096
+      ],
+      "monthly": {
+        "Jan": 4.11,
+        "Feb": 4.16,
+        "Mar": 4.13,
+        "Apr": 3.9,
+        "May": 3.46,
+        "Jun": 2.92,
+        "Jul": 2.98,
+        "Aug": 2.85,
+        "Sep": 3.04,
+        "Oct": 3.44,
+        "Nov": 3.56,
+        "Dec": 3.84
+      },
+      "average": 3.53
+    },
+    {
+      "name": "Mouila",
+      "admin1_code": "04",
+      "location": [
+        -1.86846,
+        11.05594
+      ],
+      "monthly": {
+        "Jan": 4.1,
+        "Feb": 4.17,
+        "Mar": 4.22,
+        "Apr": 4.02,
+        "May": 3.36,
+        "Jun": 2.84,
+        "Jul": 2.98,
+        "Aug": 2.9,
+        "Sep": 3.06,
+        "Oct": 3.66,
+        "Nov": 3.68,
+        "Dec": 3.71
+      },
+      "average": 3.56
+    },
+    {
+      "name": "Moanda",
+      "admin1_code": "02",
+      "location": [
+        -1.56652,
+        13.1987
+      ],
+      "monthly": {
+        "Jan": 4.1,
+        "Feb": 4.15,
+        "Mar": 4.31,
+        "Apr": 4.16,
+        "May": 3.65,
+        "Jun": 3.34,
+        "Jul": 3.32,
+        "Aug": 3.4,
+        "Sep": 3.56,
+        "Oct": 3.87,
+        "Nov": 3.89,
+        "Dec": 3.84
+      },
+      "average": 3.8
+    },
+    {
+      "name": "Makokou",
+      "admin1_code": "06",
+      "location": [
+        0.57381,
+        12.86419
+      ],
+      "monthly": {
+        "Jan": 4.02,
+        "Feb": 4.07,
+        "Mar": 4.11,
+        "Apr": 4.02,
+        "May": 3.57,
+        "Jun": 2.9,
+        "Jul": 2.84,
+        "Aug": 3.02,
+        "Sep": 3.59,
+        "Oct": 3.87,
+        "Nov": 3.76,
+        "Dec": 3.76
+      },
+      "average": 3.63
+    },
+    {
+      "name": "Libreville",
+      "admin1_code": "01",
+      "location": [
+        0.39241,
+        9.45356
+      ],
+      "monthly": {
+        "Jan": 4.26,
+        "Feb": 4.35,
+        "Mar": 4.29,
+        "Apr": 4.07,
+        "May": 3.74,
+        "Jun": 3.4,
+        "Jul": 3.53,
+        "Aug": 3.58,
+        "Sep": 3.7,
+        "Oct": 3.72,
+        "Nov": 3.73,
+        "Dec": 4
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Lambaréné",
+      "admin1_code": "03",
+      "location": [
+        -0.7001,
+        10.24055
+      ],
+      "monthly": {
+        "Jan": 4.15,
+        "Feb": 4.25,
+        "Mar": 4.22,
+        "Apr": 4.03,
+        "May": 3.43,
+        "Jun": 2.91,
+        "Jul": 3.11,
+        "Aug": 3.08,
+        "Sep": 3.28,
+        "Oct": 3.75,
+        "Nov": 3.7,
+        "Dec": 3.8
+      },
+      "average": 3.64
+    },
+    {
+      "name": "Koulamoutou",
+      "admin1_code": "07",
+      "location": [
+        -1.13667,
+        12.46399
+      ],
+      "monthly": {
+        "Jan": 4.19,
+        "Feb": 4.23,
+        "Mar": 4.32,
+        "Apr": 4.18,
+        "May": 3.71,
+        "Jun": 3.46,
+        "Jul": 3.32,
+        "Aug": 3.36,
+        "Sep": 3.67,
+        "Oct": 4,
+        "Nov": 3.9,
+        "Dec": 3.87
+      },
+      "average": 3.85
+    },
+    {
+      "name": "Franceville",
+      "admin1_code": "02",
+      "location": [
+        -1.63333,
+        13.58357
+      ],
+      "monthly": {
+        "Jan": 4.12,
+        "Feb": 4.18,
+        "Mar": 4.29,
+        "Apr": 4.11,
+        "May": 3.59,
+        "Jun": 3.2,
+        "Jul": 3.26,
+        "Aug": 3.39,
+        "Sep": 3.59,
+        "Oct": 3.92,
+        "Nov": 3.89,
+        "Dec": 3.82
+      },
+      "average": 3.78
+    },
+    {
+      "name": "Bitam",
+      "admin1_code": "09",
+      "location": [
+        2.07597,
+        11.50065
+      ],
+      "monthly": {
+        "Jan": 4.3,
+        "Feb": 4.23,
+        "Mar": 4.06,
+        "Apr": 3.97,
+        "May": 3.64,
+        "Jun": 3.32,
+        "Jul": 3.22,
+        "Aug": 3.23,
+        "Sep": 3.79,
+        "Oct": 3.96,
+        "Nov": 3.84,
+        "Dec": 4.12
+      },
+      "average": 3.81
+    },
+    {
+      "name": "Akanda",
+      "admin1_code": "01",
+      "location": [
+        0.60732,
+        9.32933
+      ],
+      "monthly": {
+        "Jan": 4.24,
+        "Feb": 4.29,
+        "Mar": 4.24,
+        "Apr": 4.01,
+        "May": 3.69,
+        "Jun": 3.46,
+        "Jul": 3.61,
+        "Aug": 3.71,
+        "Sep": 3.85,
+        "Oct": 3.71,
+        "Nov": 3.71,
+        "Dec": 4.02
+      },
+      "average": 3.88
+    }
+  ]
+}

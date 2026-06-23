@@ -1,0 +1,2260 @@
+{
+  "country": "Finland",
+  "countryCode": "FI",
+  "cities": [
+    {
+      "name": "Ylöjärvi",
+      "admin1_code": "06",
+      "location": [
+        61.55632,
+        23.59606
+      ],
+      "monthly": {
+        "Jan": 0.67,
+        "Feb": 1.47,
+        "Mar": 3.17,
+        "Apr": 4.21,
+        "May": 4.7,
+        "Jun": 4.59,
+        "Jul": 4.26,
+        "Aug": 3.66,
+        "Sep": 2.55,
+        "Oct": 1.51,
+        "Nov": 0.51,
+        "Dec": 0.38
+      },
+      "average": 2.64
+    },
+    {
+      "name": "Ylivieska",
+      "admin1_code": "17",
+      "location": [
+        64.08333,
+        24.55
+      ],
+      "monthly": {
+        "Jan": 0.7,
+        "Feb": 1.46,
+        "Mar": 3.2,
+        "Apr": 4.21,
+        "May": 4.67,
+        "Jun": 4.66,
+        "Jul": 4.24,
+        "Aug": 3.49,
+        "Sep": 2.53,
+        "Oct": 1.3,
+        "Nov": 0.44,
+        "Dec": 0.22
+      },
+      "average": 2.59
+    },
+    {
+      "name": "Vuosaari",
+      "admin1_code": "01",
+      "location": [
+        60.20963,
+        25.14195
+      ],
+      "monthly": {
+        "Jan": 0.77,
+        "Feb": 1.61,
+        "Mar": 3.3,
+        "Apr": 4.35,
+        "May": 5.05,
+        "Jun": 4.99,
+        "Jul": 4.74,
+        "Aug": 3.9,
+        "Sep": 2.84,
+        "Oct": 1.67,
+        "Nov": 0.66,
+        "Dec": 0.45
+      },
+      "average": 2.86
+    },
+    {
+      "name": "Vihti",
+      "admin1_code": "01",
+      "location": [
+        60.41699,
+        24.31965
+      ],
+      "monthly": {
+        "Jan": 0.75,
+        "Feb": 1.54,
+        "Mar": 3.17,
+        "Apr": 4.25,
+        "May": 4.81,
+        "Jun": 4.74,
+        "Jul": 4.38,
+        "Aug": 3.69,
+        "Sep": 2.71,
+        "Oct": 1.63,
+        "Nov": 0.6,
+        "Dec": 0.46
+      },
+      "average": 2.73
+    },
+    {
+      "name": "Varkaus",
+      "admin1_code": "11",
+      "location": [
+        62.31533,
+        27.873
+      ],
+      "monthly": {
+        "Jan": 0.71,
+        "Feb": 1.46,
+        "Mar": 3.15,
+        "Apr": 4.15,
+        "May": 4.65,
+        "Jun": 4.57,
+        "Jul": 4.35,
+        "Aug": 3.65,
+        "Sep": 2.45,
+        "Oct": 1.28,
+        "Nov": 0.43,
+        "Dec": 0.3
+      },
+      "average": 2.6
+    },
+    {
+      "name": "Vantaa",
+      "admin1_code": "01",
+      "location": [
+        60.29414,
+        25.04099
+      ],
+      "monthly": {
+        "Jan": 0.76,
+        "Feb": 1.58,
+        "Mar": 3.26,
+        "Apr": 4.3,
+        "May": 4.98,
+        "Jun": 4.9,
+        "Jul": 4.57,
+        "Aug": 3.77,
+        "Sep": 2.78,
+        "Oct": 1.66,
+        "Nov": 0.65,
+        "Dec": 0.48
+      },
+      "average": 2.81
+    },
+    {
+      "name": "Vammala",
+      "admin1_code": "06",
+      "location": [
+        61.33333,
+        22.9
+      ],
+      "monthly": {
+        "Jan": 0.71,
+        "Feb": 1.53,
+        "Mar": 3.23,
+        "Apr": 4.14,
+        "May": 4.66,
+        "Jun": 4.62,
+        "Jul": 4.27,
+        "Aug": 3.64,
+        "Sep": 2.63,
+        "Oct": 1.58,
+        "Nov": 0.56,
+        "Dec": 0.43
+      },
+      "average": 2.67
+    },
+    {
+      "name": "Valkeakoski",
+      "admin1_code": "06",
+      "location": [
+        61.26421,
+        24.03122
+      ],
+      "monthly": {
+        "Jan": 0.71,
+        "Feb": 1.48,
+        "Mar": 3.16,
+        "Apr": 4.23,
+        "May": 4.69,
+        "Jun": 4.6,
+        "Jul": 4.31,
+        "Aug": 3.64,
+        "Sep": 2.56,
+        "Oct": 1.51,
+        "Nov": 0.51,
+        "Dec": 0.41
+      },
+      "average": 2.65
+    },
+    {
+      "name": "Vaasa",
+      "admin1_code": "15",
+      "location": [
+        63.096,
+        21.61577
+      ],
+      "monthly": {
+        "Jan": 0.66,
+        "Feb": 1.42,
+        "Mar": 3.21,
+        "Apr": 4.49,
+        "May": 5.14,
+        "Jun": 5.14,
+        "Jul": 4.61,
+        "Aug": 3.83,
+        "Sep": 2.78,
+        "Oct": 1.57,
+        "Nov": 0.54,
+        "Dec": 0.29
+      },
+      "average": 2.81
+    },
+    {
+      "name": "Tuusula",
+      "admin1_code": "01",
+      "location": [
+        60.40368,
+        25.02638
+      ],
+      "monthly": {
+        "Jan": 0.76,
+        "Feb": 1.56,
+        "Mar": 3.2,
+        "Apr": 4.26,
+        "May": 4.88,
+        "Jun": 4.8,
+        "Jul": 4.46,
+        "Aug": 3.7,
+        "Sep": 2.73,
+        "Oct": 1.65,
+        "Nov": 0.62,
+        "Dec": 0.46
+      },
+      "average": 2.76
+    },
+    {
+      "name": "Turku",
+      "admin1_code": "02",
+      "location": [
+        60.45148,
+        22.26869
+      ],
+      "monthly": {
+        "Jan": 0.82,
+        "Feb": 1.69,
+        "Mar": 3.29,
+        "Apr": 4.32,
+        "May": 4.98,
+        "Jun": 4.95,
+        "Jul": 4.46,
+        "Aug": 3.82,
+        "Sep": 2.88,
+        "Oct": 1.75,
+        "Nov": 0.66,
+        "Dec": 0.47
+      },
+      "average": 2.84
+    },
+    {
+      "name": "Tampere",
+      "admin1_code": "06",
+      "location": [
+        61.49911,
+        23.78712
+      ],
+      "monthly": {
+        "Jan": 0.68,
+        "Feb": 1.45,
+        "Mar": 3.13,
+        "Apr": 4.24,
+        "May": 4.76,
+        "Jun": 4.66,
+        "Jul": 4.32,
+        "Aug": 3.7,
+        "Sep": 2.55,
+        "Oct": 1.5,
+        "Nov": 0.5,
+        "Dec": 0.37
+      },
+      "average": 2.66
+    },
+    {
+      "name": "Taka-Töölö",
+      "admin1_code": "01",
+      "location": [
+        60.18434,
+        24.91948
+      ],
+      "monthly": {
+        "Jan": 0.77,
+        "Feb": 1.57,
+        "Mar": 3.29,
+        "Apr": 4.38,
+        "May": 5.06,
+        "Jun": 4.99,
+        "Jul": 4.71,
+        "Aug": 3.9,
+        "Sep": 2.86,
+        "Oct": 1.68,
+        "Nov": 0.67,
+        "Dec": 0.47
+      },
+      "average": 2.86
+    },
+    {
+      "name": "Siilinjärvi",
+      "admin1_code": "11",
+      "location": [
+        63.08333,
+        27.66667
+      ],
+      "monthly": {
+        "Jan": 0.71,
+        "Feb": 1.38,
+        "Mar": 3.08,
+        "Apr": 4.12,
+        "May": 4.68,
+        "Jun": 4.62,
+        "Jul": 4.29,
+        "Aug": 3.64,
+        "Sep": 2.44,
+        "Oct": 1.18,
+        "Nov": 0.41,
+        "Dec": 0.29
+      },
+      "average": 2.57
+    },
+    {
+      "name": "Sibbo",
+      "admin1_code": "01",
+      "location": [
+        60.37752,
+        25.26906
+      ],
+      "monthly": {
+        "Jan": 0.77,
+        "Feb": 1.6,
+        "Mar": 3.24,
+        "Apr": 4.26,
+        "May": 4.9,
+        "Jun": 4.81,
+        "Jul": 4.48,
+        "Aug": 3.7,
+        "Sep": 2.74,
+        "Oct": 1.64,
+        "Nov": 0.62,
+        "Dec": 0.46
+      },
+      "average": 2.77
+    },
+    {
+      "name": "Seinäjoki",
+      "admin1_code": "14",
+      "location": [
+        62.79446,
+        22.82822
+      ],
+      "monthly": {
+        "Jan": 0.75,
+        "Feb": 1.49,
+        "Mar": 3.19,
+        "Apr": 4.11,
+        "May": 4.72,
+        "Jun": 4.67,
+        "Jul": 4.33,
+        "Aug": 3.58,
+        "Sep": 2.68,
+        "Oct": 1.58,
+        "Nov": 0.54,
+        "Dec": 0.32
+      },
+      "average": 2.66
+    },
+    {
+      "name": "Savonlinna",
+      "admin1_code": "10",
+      "location": [
+        61.8699,
+        28.87999
+      ],
+      "monthly": {
+        "Jan": 0.64,
+        "Feb": 1.44,
+        "Mar": 3.12,
+        "Apr": 4.28,
+        "May": 4.84,
+        "Jun": 4.75,
+        "Jul": 4.49,
+        "Aug": 3.75,
+        "Sep": 2.51,
+        "Oct": 1.29,
+        "Nov": 0.44,
+        "Dec": 0.27
+      },
+      "average": 2.65
+    },
+    {
+      "name": "Salo",
+      "admin1_code": "02",
+      "location": [
+        60.38333,
+        23.13333
+      ],
+      "monthly": {
+        "Jan": 0.77,
+        "Feb": 1.64,
+        "Mar": 3.21,
+        "Apr": 4.25,
+        "May": 4.81,
+        "Jun": 4.76,
+        "Jul": 4.32,
+        "Aug": 3.72,
+        "Sep": 2.8,
+        "Oct": 1.71,
+        "Nov": 0.65,
+        "Dec": 0.43
+      },
+      "average": 2.76
+    },
+    {
+      "name": "Riihimäki",
+      "admin1_code": "05",
+      "location": [
+        60.73769,
+        24.77726
+      ],
+      "monthly": {
+        "Jan": 0.76,
+        "Feb": 1.55,
+        "Mar": 3.18,
+        "Apr": 4.24,
+        "May": 4.74,
+        "Jun": 4.68,
+        "Jul": 4.33,
+        "Aug": 3.63,
+        "Sep": 2.67,
+        "Oct": 1.63,
+        "Nov": 0.58,
+        "Dec": 0.49
+      },
+      "average": 2.71
+    },
+    {
+      "name": "Rauma",
+      "admin1_code": "04",
+      "location": [
+        61.12724,
+        21.51127
+      ],
+      "monthly": {
+        "Jan": 0.76,
+        "Feb": 1.63,
+        "Mar": 3.46,
+        "Apr": 4.52,
+        "May": 5.19,
+        "Jun": 5.19,
+        "Jul": 4.74,
+        "Aug": 3.93,
+        "Sep": 2.84,
+        "Oct": 1.64,
+        "Nov": 0.6,
+        "Dec": 0.43
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Raseborg",
+      "admin1_code": "01",
+      "location": [
+        59.97735,
+        23.43967
+      ],
+      "monthly": {
+        "Jan": 0.78,
+        "Feb": 1.65,
+        "Mar": 3.25,
+        "Apr": 4.39,
+        "May": 5.02,
+        "Jun": 4.98,
+        "Jul": 4.56,
+        "Aug": 3.88,
+        "Sep": 2.81,
+        "Oct": 1.71,
+        "Nov": 0.7,
+        "Dec": 0.47
+      },
+      "average": 2.85
+    },
+    {
+      "name": "Raisio",
+      "admin1_code": "02",
+      "location": [
+        60.48592,
+        22.16895
+      ],
+      "monthly": {
+        "Jan": 0.82,
+        "Feb": 1.7,
+        "Mar": 3.3,
+        "Apr": 4.33,
+        "May": 4.99,
+        "Jun": 4.98,
+        "Jul": 4.48,
+        "Aug": 3.8,
+        "Sep": 2.89,
+        "Oct": 1.76,
+        "Nov": 0.66,
+        "Dec": 0.48
+      },
+      "average": 2.85
+    },
+    {
+      "name": "Raahe",
+      "admin1_code": "17",
+      "location": [
+        64.68333,
+        24.48333
+      ],
+      "monthly": {
+        "Jan": 0.52,
+        "Feb": 1.43,
+        "Mar": 3.09,
+        "Apr": 4.31,
+        "May": 4.92,
+        "Jun": 5.18,
+        "Jul": 4.67,
+        "Aug": 3.86,
+        "Sep": 2.57,
+        "Oct": 1.26,
+        "Nov": 0.35,
+        "Dec": 0.09
+      },
+      "average": 2.69
+    },
+    {
+      "name": "Pori",
+      "admin1_code": "04",
+      "location": [
+        61.48072,
+        21.78518
+      ],
+      "monthly": {
+        "Jan": 0.72,
+        "Feb": 1.62,
+        "Mar": 3.42,
+        "Apr": 4.4,
+        "May": 5.08,
+        "Jun": 5.05,
+        "Jul": 4.56,
+        "Aug": 3.77,
+        "Sep": 2.76,
+        "Oct": 1.65,
+        "Nov": 0.62,
+        "Dec": 0.47
+      },
+      "average": 2.84
+    },
+    {
+      "name": "Pitäjänmäki",
+      "admin1_code": "01",
+      "location": [
+        60.22287,
+        24.86103
+      ],
+      "monthly": {
+        "Jan": 0.78,
+        "Feb": 1.58,
+        "Mar": 3.27,
+        "Apr": 4.34,
+        "May": 5.03,
+        "Jun": 4.96,
+        "Jul": 4.62,
+        "Aug": 3.83,
+        "Sep": 2.82,
+        "Oct": 1.67,
+        "Nov": 0.67,
+        "Dec": 0.47
+      },
+      "average": 2.84
+    },
+    {
+      "name": "Pirkkala",
+      "admin1_code": "06",
+      "location": [
+        61.46125,
+        23.63228
+      ],
+      "monthly": {
+        "Jan": 0.69,
+        "Feb": 1.48,
+        "Mar": 3.15,
+        "Apr": 4.23,
+        "May": 4.73,
+        "Jun": 4.63,
+        "Jul": 4.3,
+        "Aug": 3.69,
+        "Sep": 2.57,
+        "Oct": 1.52,
+        "Nov": 0.51,
+        "Dec": 0.4
+      },
+      "average": 2.66
+    },
+    {
+      "name": "Pieksämäki",
+      "admin1_code": "10",
+      "location": [
+        62.3,
+        27.13333
+      ],
+      "monthly": {
+        "Jan": 0.73,
+        "Feb": 1.48,
+        "Mar": 3.19,
+        "Apr": 4.17,
+        "May": 4.6,
+        "Jun": 4.54,
+        "Jul": 4.3,
+        "Aug": 3.64,
+        "Sep": 2.45,
+        "Oct": 1.31,
+        "Nov": 0.43,
+        "Dec": 0.32
+      },
+      "average": 2.6
+    },
+    {
+      "name": "Oulunkylä",
+      "admin1_code": "01",
+      "location": [
+        60.22924,
+        24.96403
+      ],
+      "monthly": {
+        "Jan": 0.77,
+        "Feb": 1.57,
+        "Mar": 3.29,
+        "Apr": 4.35,
+        "May": 5.04,
+        "Jun": 4.96,
+        "Jul": 4.65,
+        "Aug": 3.85,
+        "Sep": 2.83,
+        "Oct": 1.67,
+        "Nov": 0.67,
+        "Dec": 0.48
+      },
+      "average": 2.84
+    },
+    {
+      "name": "Orimattila",
+      "admin1_code": "07",
+      "location": [
+        60.80487,
+        25.72964
+      ],
+      "monthly": {
+        "Jan": 0.75,
+        "Feb": 1.56,
+        "Mar": 3.15,
+        "Apr": 4.19,
+        "May": 4.72,
+        "Jun": 4.63,
+        "Jul": 4.35,
+        "Aug": 3.56,
+        "Sep": 2.64,
+        "Oct": 1.61,
+        "Nov": 0.58,
+        "Dec": 0.46
+      },
+      "average": 2.68
+    },
+    {
+      "name": "Nurmijärvi",
+      "admin1_code": "01",
+      "location": [
+        60.46407,
+        24.8073
+      ],
+      "monthly": {
+        "Jan": 0.77,
+        "Feb": 1.57,
+        "Mar": 3.21,
+        "Apr": 4.26,
+        "May": 4.82,
+        "Jun": 4.74,
+        "Jul": 4.39,
+        "Aug": 3.69,
+        "Sep": 2.73,
+        "Oct": 1.67,
+        "Nov": 0.62,
+        "Dec": 0.49
+      },
+      "average": 2.75
+    },
+    {
+      "name": "Nokia",
+      "admin1_code": "06",
+      "location": [
+        61.46667,
+        23.5
+      ],
+      "monthly": {
+        "Jan": 0.65,
+        "Feb": 1.5,
+        "Mar": 3.2,
+        "Apr": 4.17,
+        "May": 4.66,
+        "Jun": 4.56,
+        "Jul": 4.25,
+        "Aug": 3.64,
+        "Sep": 2.55,
+        "Oct": 1.51,
+        "Nov": 0.51,
+        "Dec": 0.37
+      },
+      "average": 2.63
+    },
+    {
+      "name": "Naantali",
+      "admin1_code": "02",
+      "location": [
+        60.46744,
+        22.02428
+      ],
+      "monthly": {
+        "Jan": 0.79,
+        "Feb": 1.7,
+        "Mar": 3.3,
+        "Apr": 4.39,
+        "May": 5.03,
+        "Jun": 5.04,
+        "Jul": 4.54,
+        "Aug": 3.83,
+        "Sep": 2.89,
+        "Oct": 1.76,
+        "Nov": 0.65,
+        "Dec": 0.47
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Munkkiniemi",
+      "admin1_code": "01",
+      "location": [
+        60.19861,
+        24.87772
+      ],
+      "monthly": {
+        "Jan": 0.77,
+        "Feb": 1.59,
+        "Mar": 3.29,
+        "Apr": 4.37,
+        "May": 5.04,
+        "Jun": 4.98,
+        "Jul": 4.66,
+        "Aug": 3.87,
+        "Sep": 2.84,
+        "Oct": 1.67,
+        "Nov": 0.67,
+        "Dec": 0.46
+      },
+      "average": 2.85
+    },
+    {
+      "name": "Mikkeli",
+      "admin1_code": "10",
+      "location": [
+        61.68857,
+        27.27227
+      ],
+      "monthly": {
+        "Jan": 0.69,
+        "Feb": 1.52,
+        "Mar": 3.22,
+        "Apr": 4.14,
+        "May": 4.63,
+        "Jun": 4.57,
+        "Jul": 4.33,
+        "Aug": 3.62,
+        "Sep": 2.5,
+        "Oct": 1.32,
+        "Nov": 0.47,
+        "Dec": 0.35
+      },
+      "average": 2.61
+    },
+    {
+      "name": "Mellunkylä",
+      "admin1_code": "01",
+      "location": [
+        60.23355,
+        25.09947
+      ],
+      "monthly": {
+        "Jan": 0.76,
+        "Feb": 1.59,
+        "Mar": 3.28,
+        "Apr": 4.33,
+        "May": 5.04,
+        "Jun": 4.97,
+        "Jul": 4.68,
+        "Aug": 3.85,
+        "Sep": 2.82,
+        "Oct": 1.66,
+        "Nov": 0.66,
+        "Dec": 0.46
+      },
+      "average": 2.84
+    },
+    {
+      "name": "Matinkylä",
+      "admin1_code": "01",
+      "location": [
+        60.15885,
+        24.74241
+      ],
+      "monthly": {
+        "Jan": 0.77,
+        "Feb": 1.57,
+        "Mar": 3.27,
+        "Apr": 4.37,
+        "May": 5.06,
+        "Jun": 5.01,
+        "Jul": 4.67,
+        "Aug": 3.87,
+        "Sep": 2.84,
+        "Oct": 1.67,
+        "Nov": 0.67,
+        "Dec": 0.46
+      },
+      "average": 2.85
+    },
+    {
+      "name": "Mäntsälä",
+      "admin1_code": "01",
+      "location": [
+        60.63333,
+        25.31667
+      ],
+      "monthly": {
+        "Jan": 0.75,
+        "Feb": 1.56,
+        "Mar": 3.19,
+        "Apr": 4.18,
+        "May": 4.76,
+        "Jun": 4.69,
+        "Jul": 4.36,
+        "Aug": 3.61,
+        "Sep": 2.65,
+        "Oct": 1.62,
+        "Nov": 0.59,
+        "Dec": 0.47
+      },
+      "average": 2.7
+    },
+    {
+      "name": "Loimaa",
+      "admin1_code": "02",
+      "location": [
+        60.84972,
+        23.0561
+      ],
+      "monthly": {
+        "Jan": 0.78,
+        "Feb": 1.63,
+        "Mar": 3.25,
+        "Apr": 4.26,
+        "May": 4.78,
+        "Jun": 4.75,
+        "Jul": 4.34,
+        "Aug": 3.68,
+        "Sep": 2.78,
+        "Oct": 1.7,
+        "Nov": 0.63,
+        "Dec": 0.52
+      },
+      "average": 2.76
+    },
+    {
+      "name": "Lohja",
+      "admin1_code": "01",
+      "location": [
+        60.24859,
+        24.06534
+      ],
+      "monthly": {
+        "Jan": 0.74,
+        "Feb": 1.52,
+        "Mar": 3.17,
+        "Apr": 4.32,
+        "May": 4.91,
+        "Jun": 4.83,
+        "Jul": 4.44,
+        "Aug": 3.75,
+        "Sep": 2.76,
+        "Oct": 1.65,
+        "Nov": 0.63,
+        "Dec": 0.37
+      },
+      "average": 2.76
+    },
+    {
+      "name": "Lieto",
+      "admin1_code": "02",
+      "location": [
+        60.51032,
+        22.46176
+      ],
+      "monthly": {
+        "Jan": 0.81,
+        "Feb": 1.66,
+        "Mar": 3.26,
+        "Apr": 4.28,
+        "May": 4.89,
+        "Jun": 4.86,
+        "Jul": 4.36,
+        "Aug": 3.74,
+        "Sep": 2.87,
+        "Oct": 1.75,
+        "Nov": 0.64,
+        "Dec": 0.48
+      },
+      "average": 2.8
+    },
+    {
+      "name": "Leppävaara",
+      "admin1_code": "01",
+      "location": [
+        60.21283,
+        24.81348
+      ],
+      "monthly": {
+        "Jan": 0.77,
+        "Feb": 1.58,
+        "Mar": 3.25,
+        "Apr": 4.31,
+        "May": 5,
+        "Jun": 4.94,
+        "Jul": 4.59,
+        "Aug": 3.8,
+        "Sep": 2.8,
+        "Oct": 1.65,
+        "Nov": 0.66,
+        "Dec": 0.46
+      },
+      "average": 2.82
+    },
+    {
+      "name": "Lempäälä",
+      "admin1_code": "06",
+      "location": [
+        61.31667,
+        23.75
+      ],
+      "monthly": {
+        "Jan": 0.72,
+        "Feb": 1.5,
+        "Mar": 3.21,
+        "Apr": 4.22,
+        "May": 4.69,
+        "Jun": 4.61,
+        "Jul": 4.29,
+        "Aug": 3.64,
+        "Sep": 2.58,
+        "Oct": 1.54,
+        "Nov": 0.52,
+        "Dec": 0.43
+      },
+      "average": 2.66
+    },
+    {
+      "name": "Lauttasaari",
+      "admin1_code": "01",
+      "location": [
+        60.15896,
+        24.86797
+      ],
+      "monthly": {
+        "Jan": 0.77,
+        "Feb": 1.59,
+        "Mar": 3.31,
+        "Apr": 4.42,
+        "May": 5.08,
+        "Jun": 5.03,
+        "Jul": 4.73,
+        "Aug": 3.94,
+        "Sep": 2.88,
+        "Oct": 1.69,
+        "Nov": 0.67,
+        "Dec": 0.46
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Laukaa",
+      "admin1_code": "13",
+      "location": [
+        62.41407,
+        25.95194
+      ],
+      "monthly": {
+        "Jan": 0.68,
+        "Feb": 1.49,
+        "Mar": 3.21,
+        "Apr": 4.12,
+        "May": 4.62,
+        "Jun": 4.51,
+        "Jul": 4.27,
+        "Aug": 3.63,
+        "Sep": 2.51,
+        "Oct": 1.31,
+        "Nov": 0.44,
+        "Dec": 0.32
+      },
+      "average": 2.59
+    },
+    {
+      "name": "Lappeenranta",
+      "admin1_code": "09",
+      "location": [
+        61.05871,
+        28.18871
+      ],
+      "monthly": {
+        "Jan": 0.71,
+        "Feb": 1.53,
+        "Mar": 3.22,
+        "Apr": 4.28,
+        "May": 4.74,
+        "Jun": 4.63,
+        "Jul": 4.4,
+        "Aug": 3.68,
+        "Sep": 2.61,
+        "Oct": 1.46,
+        "Nov": 0.5,
+        "Dec": 0.32
+      },
+      "average": 2.67
+    },
+    {
+      "name": "Lahti",
+      "admin1_code": "07",
+      "location": [
+        60.98267,
+        25.66151
+      ],
+      "monthly": {
+        "Jan": 0.7,
+        "Feb": 1.53,
+        "Mar": 3.15,
+        "Apr": 4.25,
+        "May": 4.71,
+        "Jun": 4.63,
+        "Jul": 4.35,
+        "Aug": 3.59,
+        "Sep": 2.58,
+        "Oct": 1.53,
+        "Nov": 0.55,
+        "Dec": 0.43
+      },
+      "average": 2.67
+    },
+    {
+      "name": "Kirkkonummi",
+      "admin1_code": "01",
+      "location": [
+        60.12381,
+        24.43853
+      ],
+      "monthly": {
+        "Jan": 0.77,
+        "Feb": 1.55,
+        "Mar": 3.21,
+        "Apr": 4.37,
+        "May": 5.05,
+        "Jun": 4.99,
+        "Jul": 4.61,
+        "Aug": 3.84,
+        "Sep": 2.79,
+        "Oct": 1.65,
+        "Nov": 0.66,
+        "Dec": 0.44
+      },
+      "average": 2.83
+    },
+    {
+      "name": "Kurikka",
+      "admin1_code": "14",
+      "location": [
+        62.61667,
+        22.41667
+      ],
+      "monthly": {
+        "Jan": 0.76,
+        "Feb": 1.5,
+        "Mar": 3.23,
+        "Apr": 4.19,
+        "May": 4.79,
+        "Jun": 4.71,
+        "Jul": 4.3,
+        "Aug": 3.59,
+        "Sep": 2.72,
+        "Oct": 1.61,
+        "Nov": 0.56,
+        "Dec": 0.38
+      },
+      "average": 2.69
+    },
+    {
+      "name": "Kuopio",
+      "admin1_code": "11",
+      "location": [
+        62.89238,
+        27.67703
+      ],
+      "monthly": {
+        "Jan": 0.7,
+        "Feb": 1.41,
+        "Mar": 3.12,
+        "Apr": 4.2,
+        "May": 4.77,
+        "Jun": 4.64,
+        "Jul": 4.35,
+        "Aug": 3.71,
+        "Sep": 2.45,
+        "Oct": 1.22,
+        "Nov": 0.41,
+        "Dec": 0.22
+      },
+      "average": 2.6
+    },
+    {
+      "name": "Kouvola",
+      "admin1_code": "08",
+      "location": [
+        60.86667,
+        26.7
+      ],
+      "monthly": {
+        "Jan": 0.73,
+        "Feb": 1.57,
+        "Mar": 3.16,
+        "Apr": 4.22,
+        "May": 4.75,
+        "Jun": 4.66,
+        "Jul": 4.43,
+        "Aug": 3.64,
+        "Sep": 2.65,
+        "Oct": 1.56,
+        "Nov": 0.56,
+        "Dec": 0.42
+      },
+      "average": 2.7
+    },
+    {
+      "name": "Kotka",
+      "admin1_code": "08",
+      "location": [
+        60.4664,
+        26.94582
+      ],
+      "monthly": {
+        "Jan": 0.75,
+        "Feb": 1.6,
+        "Mar": 3.3,
+        "Apr": 4.37,
+        "May": 5.03,
+        "Jun": 4.97,
+        "Jul": 4.83,
+        "Aug": 3.96,
+        "Sep": 2.81,
+        "Oct": 1.6,
+        "Nov": 0.62,
+        "Dec": 0.4
+      },
+      "average": 2.85
+    },
+    {
+      "name": "Korsholm",
+      "admin1_code": "15",
+      "location": [
+        63.11418,
+        21.68216
+      ],
+      "monthly": {
+        "Jan": 0.68,
+        "Feb": 1.42,
+        "Mar": 3.22,
+        "Apr": 4.48,
+        "May": 5.12,
+        "Jun": 5.13,
+        "Jul": 4.58,
+        "Aug": 3.8,
+        "Sep": 2.78,
+        "Oct": 1.57,
+        "Nov": 0.55,
+        "Dec": 0.3
+      },
+      "average": 2.8
+    },
+    {
+      "name": "Kontiolahti",
+      "admin1_code": "12",
+      "location": [
+        62.76023,
+        29.84711
+      ],
+      "monthly": {
+        "Jan": 0.71,
+        "Feb": 1.46,
+        "Mar": 3.07,
+        "Apr": 4.2,
+        "May": 4.89,
+        "Jun": 4.78,
+        "Jul": 4.46,
+        "Aug": 3.77,
+        "Sep": 2.43,
+        "Oct": 1.16,
+        "Nov": 0.41,
+        "Dec": 0.28
+      },
+      "average": 2.64
+    },
+    {
+      "name": "Kokkola",
+      "admin1_code": "16",
+      "location": [
+        63.83847,
+        23.13066
+      ],
+      "monthly": {
+        "Jan": 0.64,
+        "Feb": 1.44,
+        "Mar": 3.13,
+        "Apr": 4.42,
+        "May": 5.11,
+        "Jun": 5.06,
+        "Jul": 4.58,
+        "Aug": 3.77,
+        "Sep": 2.67,
+        "Oct": 1.39,
+        "Nov": 0.46,
+        "Dec": 0.22
+      },
+      "average": 2.74
+    },
+    {
+      "name": "Klaukkala",
+      "admin1_code": "01",
+      "location": [
+        60.38244,
+        24.751
+      ],
+      "monthly": {
+        "Jan": 0.76,
+        "Feb": 1.56,
+        "Mar": 3.19,
+        "Apr": 4.26,
+        "May": 4.85,
+        "Jun": 4.76,
+        "Jul": 4.39,
+        "Aug": 3.69,
+        "Sep": 2.72,
+        "Oct": 1.65,
+        "Nov": 0.62,
+        "Dec": 0.45
+      },
+      "average": 2.74
+    },
+    {
+      "name": "Kerava",
+      "admin1_code": "01",
+      "location": [
+        60.40338,
+        25.105
+      ],
+      "monthly": {
+        "Jan": 0.76,
+        "Feb": 1.57,
+        "Mar": 3.22,
+        "Apr": 4.28,
+        "May": 4.9,
+        "Jun": 4.82,
+        "Jul": 4.48,
+        "Aug": 3.72,
+        "Sep": 2.74,
+        "Oct": 1.65,
+        "Nov": 0.62,
+        "Dec": 0.46
+      },
+      "average": 2.77
+    },
+    {
+      "name": "Kauhava",
+      "admin1_code": "14",
+      "location": [
+        63.10299,
+        23.07129
+      ],
+      "monthly": {
+        "Jan": 0.8,
+        "Feb": 1.45,
+        "Mar": 3.16,
+        "Apr": 4.12,
+        "May": 4.7,
+        "Jun": 4.68,
+        "Jul": 4.31,
+        "Aug": 3.54,
+        "Sep": 2.64,
+        "Oct": 1.5,
+        "Nov": 0.53,
+        "Dec": 0.39
+      },
+      "average": 2.65
+    },
+    {
+      "name": "Karhula",
+      "admin1_code": "08",
+      "location": [
+        60.52156,
+        26.93125
+      ],
+      "monthly": {
+        "Jan": 0.76,
+        "Feb": 1.6,
+        "Mar": 3.25,
+        "Apr": 4.34,
+        "May": 4.97,
+        "Jun": 4.9,
+        "Jul": 4.73,
+        "Aug": 3.86,
+        "Sep": 2.76,
+        "Oct": 1.6,
+        "Nov": 0.63,
+        "Dec": 0.42
+      },
+      "average": 2.82
+    },
+    {
+      "name": "Kangasala",
+      "admin1_code": "06",
+      "location": [
+        61.46383,
+        24.07602
+      ],
+      "monthly": {
+        "Jan": 0.69,
+        "Feb": 1.49,
+        "Mar": 3.19,
+        "Apr": 4.24,
+        "May": 4.72,
+        "Jun": 4.61,
+        "Jul": 4.28,
+        "Aug": 3.63,
+        "Sep": 2.53,
+        "Oct": 1.5,
+        "Nov": 0.5,
+        "Dec": 0.4
+      },
+      "average": 2.65
+    },
+    {
+      "name": "Kallio",
+      "admin1_code": "01",
+      "location": [
+        60.18427,
+        24.95034
+      ],
+      "monthly": {
+        "Jan": 0.77,
+        "Feb": 1.58,
+        "Mar": 3.3,
+        "Apr": 4.39,
+        "May": 5.08,
+        "Jun": 5.02,
+        "Jul": 4.73,
+        "Aug": 3.93,
+        "Sep": 2.87,
+        "Oct": 1.68,
+        "Nov": 0.68,
+        "Dec": 0.47
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Kajaani",
+      "admin1_code": "18",
+      "location": [
+        64.22728,
+        27.72846
+      ],
+      "monthly": {
+        "Jan": 0.58,
+        "Feb": 1.34,
+        "Mar": 3,
+        "Apr": 4.18,
+        "May": 4.71,
+        "Jun": 4.57,
+        "Jul": 4.18,
+        "Aug": 3.58,
+        "Sep": 2.41,
+        "Oct": 1.09,
+        "Nov": 0.4,
+        "Dec": 0.18
+      },
+      "average": 2.52
+    },
+    {
+      "name": "Kaarina",
+      "admin1_code": "02",
+      "location": [
+        60.40724,
+        22.36904
+      ],
+      "monthly": {
+        "Jan": 0.83,
+        "Feb": 1.69,
+        "Mar": 3.28,
+        "Apr": 4.34,
+        "May": 5,
+        "Jun": 4.95,
+        "Jul": 4.45,
+        "Aug": 3.82,
+        "Sep": 2.88,
+        "Oct": 1.73,
+        "Nov": 0.67,
+        "Dec": 0.47
+      },
+      "average": 2.84
+    },
+    {
+      "name": "Kaarela",
+      "admin1_code": "01",
+      "location": [
+        60.25174,
+        24.88111
+      ],
+      "monthly": {
+        "Jan": 0.77,
+        "Feb": 1.58,
+        "Mar": 3.24,
+        "Apr": 4.31,
+        "May": 4.99,
+        "Jun": 4.91,
+        "Jul": 4.56,
+        "Aug": 3.78,
+        "Sep": 2.8,
+        "Oct": 1.66,
+        "Nov": 0.65,
+        "Dec": 0.47
+      },
+      "average": 2.81
+    },
+    {
+      "name": "Jyväskylä",
+      "admin1_code": "13",
+      "location": [
+        62.24147,
+        25.72088
+      ],
+      "monthly": {
+        "Jan": 0.66,
+        "Feb": 1.49,
+        "Mar": 3.21,
+        "Apr": 4.09,
+        "May": 4.59,
+        "Jun": 4.48,
+        "Jul": 4.26,
+        "Aug": 3.61,
+        "Sep": 2.49,
+        "Oct": 1.32,
+        "Nov": 0.47,
+        "Dec": 0.34
+      },
+      "average": 2.58
+    },
+    {
+      "name": "Joensuu",
+      "admin1_code": "12",
+      "location": [
+        62.60118,
+        29.76316
+      ],
+      "monthly": {
+        "Jan": 0.75,
+        "Feb": 1.44,
+        "Mar": 3.07,
+        "Apr": 4.19,
+        "May": 4.95,
+        "Jun": 4.84,
+        "Jul": 4.53,
+        "Aug": 3.81,
+        "Sep": 2.46,
+        "Oct": 1.2,
+        "Nov": 0.43,
+        "Dec": 0.28
+      },
+      "average": 2.66
+    },
+    {
+      "name": "Järvenpää",
+      "admin1_code": "01",
+      "location": [
+        60.47369,
+        25.08992
+      ],
+      "monthly": {
+        "Jan": 0.76,
+        "Feb": 1.56,
+        "Mar": 3.2,
+        "Apr": 4.25,
+        "May": 4.84,
+        "Jun": 4.77,
+        "Jul": 4.43,
+        "Aug": 3.69,
+        "Sep": 2.72,
+        "Oct": 1.65,
+        "Nov": 0.6,
+        "Dec": 0.46
+      },
+      "average": 2.74
+    },
+    {
+      "name": "Janakkala",
+      "admin1_code": "05",
+      "location": [
+        60.9,
+        24.6
+      ],
+      "monthly": {
+        "Jan": 0.74,
+        "Feb": 1.55,
+        "Mar": 3.2,
+        "Apr": 4.22,
+        "May": 4.67,
+        "Jun": 4.62,
+        "Jul": 4.3,
+        "Aug": 3.62,
+        "Sep": 2.61,
+        "Oct": 1.57,
+        "Nov": 0.55,
+        "Dec": 0.45
+      },
+      "average": 2.68
+    },
+    {
+      "name": "Jämsä",
+      "admin1_code": "13",
+      "location": [
+        61.8642,
+        25.19002
+      ],
+      "monthly": {
+        "Jan": 0.68,
+        "Feb": 1.54,
+        "Mar": 3.22,
+        "Apr": 4.12,
+        "May": 4.62,
+        "Jun": 4.5,
+        "Jul": 4.26,
+        "Aug": 3.59,
+        "Sep": 2.5,
+        "Oct": 1.38,
+        "Nov": 0.49,
+        "Dec": 0.38
+      },
+      "average": 2.61
+    },
+    {
+      "name": "Jakobstad",
+      "admin1_code": "15",
+      "location": [
+        63.67486,
+        22.70256
+      ],
+      "monthly": {
+        "Jan": 0.66,
+        "Feb": 1.42,
+        "Mar": 3.17,
+        "Apr": 4.48,
+        "May": 5.15,
+        "Jun": 5.13,
+        "Jul": 4.62,
+        "Aug": 3.84,
+        "Sep": 2.72,
+        "Oct": 1.46,
+        "Nov": 0.48,
+        "Dec": 0.22
+      },
+      "average": 2.78
+    },
+    {
+      "name": "Imatra",
+      "admin1_code": "09",
+      "location": [
+        61.17185,
+        28.75242
+      ],
+      "monthly": {
+        "Jan": 0.72,
+        "Feb": 1.47,
+        "Mar": 3.17,
+        "Apr": 4.28,
+        "May": 4.84,
+        "Jun": 4.75,
+        "Jul": 4.46,
+        "Aug": 3.74,
+        "Sep": 2.61,
+        "Oct": 1.41,
+        "Nov": 0.47,
+        "Dec": 0.38
+      },
+      "average": 2.69
+    },
+    {
+      "name": "Iisalmi",
+      "admin1_code": "11",
+      "location": [
+        63.55915,
+        27.19067
+      ],
+      "monthly": {
+        "Jan": 0.67,
+        "Feb": 1.32,
+        "Mar": 3.08,
+        "Apr": 4.11,
+        "May": 4.61,
+        "Jun": 4.57,
+        "Jul": 4.24,
+        "Aug": 3.62,
+        "Sep": 2.43,
+        "Oct": 1.16,
+        "Nov": 0.43,
+        "Dec": 0.33
+      },
+      "average": 2.55
+    },
+    {
+      "name": "Hyvinge",
+      "admin1_code": "01",
+      "location": [
+        60.63333,
+        24.86667
+      ],
+      "monthly": {
+        "Jan": 0.76,
+        "Feb": 1.57,
+        "Mar": 3.2,
+        "Apr": 4.23,
+        "May": 4.74,
+        "Jun": 4.69,
+        "Jul": 4.35,
+        "Aug": 3.64,
+        "Sep": 2.67,
+        "Oct": 1.63,
+        "Nov": 0.58,
+        "Dec": 0.47
+      },
+      "average": 2.71
+    },
+    {
+      "name": "Hollola",
+      "admin1_code": "07",
+      "location": [
+        61.05,
+        25.43333
+      ],
+      "monthly": {
+        "Jan": 0.72,
+        "Feb": 1.52,
+        "Mar": 3.12,
+        "Apr": 4.25,
+        "May": 4.7,
+        "Jun": 4.62,
+        "Jul": 4.36,
+        "Aug": 3.59,
+        "Sep": 2.58,
+        "Oct": 1.52,
+        "Nov": 0.55,
+        "Dec": 0.43
+      },
+      "average": 2.66
+    },
+    {
+      "name": "Hollola",
+      "admin1_code": "07",
+      "location": [
+        61,
+        25.5
+      ],
+      "monthly": {
+        "Jan": 0.73,
+        "Feb": 1.53,
+        "Mar": 3.11,
+        "Apr": 4.27,
+        "May": 4.72,
+        "Jun": 4.64,
+        "Jul": 4.37,
+        "Aug": 3.59,
+        "Sep": 2.6,
+        "Oct": 1.54,
+        "Nov": 0.56,
+        "Dec": 0.44
+      },
+      "average": 2.68
+    },
+    {
+      "name": "Hervanta",
+      "admin1_code": "06",
+      "location": [
+        61.44792,
+        23.85301
+      ],
+      "monthly": {
+        "Jan": 0.69,
+        "Feb": 1.47,
+        "Mar": 3.21,
+        "Apr": 4.22,
+        "May": 4.76,
+        "Jun": 4.66,
+        "Jul": 4.32,
+        "Aug": 3.68,
+        "Sep": 2.55,
+        "Oct": 1.51,
+        "Nov": 0.51,
+        "Dec": 0.4
+      },
+      "average": 2.67
+    },
+    {
+      "name": "Herttoniemi",
+      "admin1_code": "01",
+      "location": [
+        60.19471,
+        25.03535
+      ],
+      "monthly": {
+        "Jan": 0.77,
+        "Feb": 1.59,
+        "Mar": 3.32,
+        "Apr": 4.38,
+        "May": 5.09,
+        "Jun": 5.02,
+        "Jul": 4.75,
+        "Aug": 3.94,
+        "Sep": 2.87,
+        "Oct": 1.68,
+        "Nov": 0.67,
+        "Dec": 0.47
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Helsinki",
+      "admin1_code": "01",
+      "location": [
+        60.16952,
+        24.93545
+      ],
+      "monthly": {
+        "Jan": 0.76,
+        "Feb": 1.58,
+        "Mar": 3.3,
+        "Apr": 4.39,
+        "May": 5.06,
+        "Jun": 5,
+        "Jul": 4.72,
+        "Aug": 3.93,
+        "Sep": 2.87,
+        "Oct": 1.68,
+        "Nov": 0.68,
+        "Dec": 0.46
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Heinola",
+      "admin1_code": "07",
+      "location": [
+        61.20564,
+        26.03811
+      ],
+      "monthly": {
+        "Jan": 0.69,
+        "Feb": 1.51,
+        "Mar": 3.15,
+        "Apr": 4.23,
+        "May": 4.71,
+        "Jun": 4.61,
+        "Jul": 4.36,
+        "Aug": 3.63,
+        "Sep": 2.55,
+        "Oct": 1.45,
+        "Nov": 0.51,
+        "Dec": 0.38
+      },
+      "average": 2.65
+    },
+    {
+      "name": "Hamina",
+      "admin1_code": "08",
+      "location": [
+        60.56974,
+        27.19794
+      ],
+      "monthly": {
+        "Jan": 0.76,
+        "Feb": 1.58,
+        "Mar": 3.23,
+        "Apr": 4.35,
+        "May": 4.93,
+        "Jun": 4.86,
+        "Jul": 4.71,
+        "Aug": 3.84,
+        "Sep": 2.76,
+        "Oct": 1.59,
+        "Nov": 0.61,
+        "Dec": 0.4
+      },
+      "average": 2.8
+    },
+    {
+      "name": "Hämeenlinna",
+      "admin1_code": "05",
+      "location": [
+        60.99596,
+        24.46434
+      ],
+      "monthly": {
+        "Jan": 0.73,
+        "Feb": 1.52,
+        "Mar": 3.2,
+        "Apr": 4.22,
+        "May": 4.68,
+        "Jun": 4.62,
+        "Jul": 4.3,
+        "Aug": 3.64,
+        "Sep": 2.59,
+        "Oct": 1.55,
+        "Nov": 0.53,
+        "Dec": 0.44
+      },
+      "average": 2.67
+    },
+    {
+      "name": "Haaga",
+      "admin1_code": "01",
+      "location": [
+        60.22132,
+        24.89759
+      ],
+      "monthly": {
+        "Jan": 0.78,
+        "Feb": 1.58,
+        "Mar": 3.27,
+        "Apr": 4.35,
+        "May": 5.04,
+        "Jun": 4.97,
+        "Jul": 4.64,
+        "Aug": 3.85,
+        "Sep": 2.83,
+        "Oct": 1.67,
+        "Nov": 0.67,
+        "Dec": 0.47
+      },
+      "average": 2.84
+    },
+    {
+      "name": "Forssa",
+      "admin1_code": "05",
+      "location": [
+        60.81462,
+        23.62146
+      ],
+      "monthly": {
+        "Jan": 0.76,
+        "Feb": 1.56,
+        "Mar": 3.17,
+        "Apr": 4.22,
+        "May": 4.67,
+        "Jun": 4.62,
+        "Jul": 4.25,
+        "Aug": 3.63,
+        "Sep": 2.68,
+        "Oct": 1.62,
+        "Nov": 0.57,
+        "Dec": 0.49
+      },
+      "average": 2.69
+    },
+    {
+      "name": "Espoo",
+      "admin1_code": "01",
+      "location": [
+        60.2052,
+        24.6522
+      ],
+      "monthly": {
+        "Jan": 0.75,
+        "Feb": 1.56,
+        "Mar": 3.22,
+        "Apr": 4.29,
+        "May": 4.96,
+        "Jun": 4.89,
+        "Jul": 4.52,
+        "Aug": 3.75,
+        "Sep": 2.75,
+        "Oct": 1.64,
+        "Nov": 0.64,
+        "Dec": 0.42
+      },
+      "average": 2.78
+    },
+    {
+      "name": "Laajasalo",
+      "admin1_code": "01",
+      "location": [
+        60.17521,
+        25.03086
+      ],
+      "monthly": {
+        "Jan": 0.74,
+        "Feb": 1.58,
+        "Mar": 3.32,
+        "Apr": 4.37,
+        "May": 5.05,
+        "Jun": 4.98,
+        "Jul": 4.73,
+        "Aug": 3.93,
+        "Sep": 2.86,
+        "Oct": 1.68,
+        "Nov": 0.66,
+        "Dec": 0.41
+      },
+      "average": 2.86
+    },
+    {
+      "name": "Porvoo",
+      "admin1_code": "01",
+      "location": [
+        60.39233,
+        25.66507
+      ],
+      "monthly": {
+        "Jan": 0.75,
+        "Feb": 1.57,
+        "Mar": 3.2,
+        "Apr": 4.29,
+        "May": 4.97,
+        "Jun": 4.89,
+        "Jul": 4.58,
+        "Aug": 3.76,
+        "Sep": 2.75,
+        "Oct": 1.65,
+        "Nov": 0.62,
+        "Dec": 0.46
+      },
+      "average": 2.79
+    },
+    {
+      "name": "Anjala",
+      "admin1_code": "08",
+      "location": [
+        60.68333,
+        26.83333
+      ],
+      "monthly": {
+        "Jan": 0.76,
+        "Feb": 1.57,
+        "Mar": 3.2,
+        "Apr": 4.26,
+        "May": 4.81,
+        "Jun": 4.75,
+        "Jul": 4.53,
+        "Aug": 3.7,
+        "Sep": 2.7,
+        "Oct": 1.6,
+        "Nov": 0.6,
+        "Dec": 0.44
+      },
+      "average": 2.74
+    },
+    {
+      "name": "Äänekoski",
+      "admin1_code": "13",
+      "location": [
+        62.6,
+        25.73333
+      ],
+      "monthly": {
+        "Jan": 0.72,
+        "Feb": 1.46,
+        "Mar": 3.19,
+        "Apr": 4.11,
+        "May": 4.59,
+        "Jun": 4.48,
+        "Jul": 4.23,
+        "Aug": 3.6,
+        "Sep": 2.49,
+        "Oct": 1.3,
+        "Nov": 0.44,
+        "Dec": 0.3
+      },
+      "average": 2.58
+    },
+    {
+      "name": "Viikki",
+      "admin1_code": "01",
+      "location": [
+        60.22183,
+        25.02386
+      ],
+      "monthly": {
+        "Jan": 0.78,
+        "Feb": 1.6,
+        "Mar": 3.31,
+        "Apr": 4.35,
+        "May": 5.05,
+        "Jun": 4.98,
+        "Jul": 4.69,
+        "Aug": 3.88,
+        "Sep": 2.85,
+        "Oct": 1.68,
+        "Nov": 0.67,
+        "Dec": 0.48
+      },
+      "average": 2.86
+    },
+    {
+      "name": "Olari",
+      "admin1_code": "01",
+      "location": [
+        60.17239,
+        24.72713
+      ],
+      "monthly": {
+        "Jan": 0.77,
+        "Feb": 1.57,
+        "Mar": 3.25,
+        "Apr": 4.35,
+        "May": 5.05,
+        "Jun": 4.99,
+        "Jul": 4.64,
+        "Aug": 3.84,
+        "Sep": 2.82,
+        "Oct": 1.67,
+        "Nov": 0.67,
+        "Dec": 0.46
+      },
+      "average": 2.84
+    },
+    {
+      "name": "Myyrmäki",
+      "admin1_code": "01",
+      "location": [
+        60.26711,
+        24.84713
+      ],
+      "monthly": {
+        "Jan": 0.77,
+        "Feb": 1.57,
+        "Mar": 3.23,
+        "Apr": 4.29,
+        "May": 4.96,
+        "Jun": 4.88,
+        "Jul": 4.52,
+        "Aug": 3.75,
+        "Sep": 2.78,
+        "Oct": 1.66,
+        "Nov": 0.64,
+        "Dec": 0.46
+      },
+      "average": 2.79
+    },
+    {
+      "name": "Suutarila",
+      "admin1_code": "01",
+      "location": [
+        60.27996,
+        25.01759
+      ],
+      "monthly": {
+        "Jan": 0.77,
+        "Feb": 1.58,
+        "Mar": 3.27,
+        "Apr": 4.31,
+        "May": 4.99,
+        "Jun": 4.91,
+        "Jul": 4.58,
+        "Aug": 3.78,
+        "Sep": 2.79,
+        "Oct": 1.66,
+        "Nov": 0.65,
+        "Dec": 0.48
+      },
+      "average": 2.81
+    },
+    {
+      "name": "Suurmetsä",
+      "admin1_code": "01",
+      "location": [
+        60.26961,
+        25.05395
+      ],
+      "monthly": {
+        "Jan": 0.76,
+        "Feb": 1.58,
+        "Mar": 3.27,
+        "Apr": 4.31,
+        "May": 5,
+        "Jun": 4.92,
+        "Jul": 4.6,
+        "Aug": 3.79,
+        "Sep": 2.79,
+        "Oct": 1.65,
+        "Nov": 0.65,
+        "Dec": 0.47
+      },
+      "average": 2.82
+    },
+    {
+      "name": "Pohjois-Hervanta",
+      "admin1_code": "06",
+      "location": [
+        61.45347,
+        23.84744
+      ],
+      "monthly": {
+        "Jan": 0.69,
+        "Feb": 1.46,
+        "Mar": 3.2,
+        "Apr": 4.22,
+        "May": 4.75,
+        "Jun": 4.66,
+        "Jul": 4.31,
+        "Aug": 3.68,
+        "Sep": 2.55,
+        "Oct": 1.51,
+        "Nov": 0.51,
+        "Dec": 0.4
+      },
+      "average": 2.66
+    },
+    {
+      "name": "Espoonlahti",
+      "admin1_code": "01",
+      "location": [
+        60.15054,
+        24.65307
+      ],
+      "monthly": {
+        "Jan": 0.77,
+        "Feb": 1.57,
+        "Mar": 3.25,
+        "Apr": 4.36,
+        "May": 5.05,
+        "Jun": 4.99,
+        "Jul": 4.64,
+        "Aug": 3.84,
+        "Sep": 2.8,
+        "Oct": 1.67,
+        "Nov": 0.67,
+        "Dec": 0.45
+      },
+      "average": 2.84
+    },
+    {
+      "name": "Väståboland",
+      "admin1_code": "02",
+      "location": [
+        60.29972,
+        22.3004
+      ],
+      "monthly": {
+        "Jan": 0.78,
+        "Feb": 1.67,
+        "Mar": 3.26,
+        "Apr": 4.39,
+        "May": 5.05,
+        "Jun": 5.02,
+        "Jul": 4.53,
+        "Aug": 3.86,
+        "Sep": 2.87,
+        "Oct": 1.69,
+        "Nov": 0.66,
+        "Dec": 0.42
+      },
+      "average": 2.85
+    },
+    {
+      "name": "Sastamala",
+      "admin1_code": "06",
+      "location": [
+        61.34942,
+        22.90928
+      ],
+      "monthly": {
+        "Jan": 0.71,
+        "Feb": 1.52,
+        "Mar": 3.22,
+        "Apr": 4.13,
+        "May": 4.65,
+        "Jun": 4.59,
+        "Jul": 4.24,
+        "Aug": 3.62,
+        "Sep": 2.62,
+        "Oct": 1.58,
+        "Nov": 0.55,
+        "Dec": 0.42
+      },
+      "average": 2.65
+    },
+    {
+      "name": "Vartiokylä",
+      "admin1_code": "01",
+      "location": [
+        60.21799,
+        25.09569
+      ],
+      "monthly": {
+        "Jan": 0.77,
+        "Feb": 1.6,
+        "Mar": 3.3,
+        "Apr": 4.34,
+        "May": 5.05,
+        "Jun": 4.99,
+        "Jul": 4.71,
+        "Aug": 3.88,
+        "Sep": 2.84,
+        "Oct": 1.67,
+        "Nov": 0.66,
+        "Dec": 0.46
+      },
+      "average": 2.86
+    },
+    {
+      "name": "East Helsinki",
+      "admin1_code": "01",
+      "location": [
+        60.21043,
+        25.08289
+      ],
+      "monthly": {
+        "Jan": 0.77,
+        "Feb": 1.6,
+        "Mar": 3.3,
+        "Apr": 4.35,
+        "May": 5.06,
+        "Jun": 4.99,
+        "Jul": 4.72,
+        "Aug": 3.9,
+        "Sep": 2.84,
+        "Oct": 1.67,
+        "Nov": 0.66,
+        "Dec": 0.46
+      },
+      "average": 2.86
+    }
+  ]
+}

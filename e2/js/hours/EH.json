@@ -1,0 +1,98 @@
+{
+  "country": "EH",
+  "countryCode": "EH",
+  "cities": [
+    {
+      "name": "El Marsa",
+      "admin1_code": "00",
+      "location": [
+        27.09611,
+        -13.41583
+      ],
+      "monthly": {
+        "Jan": 4.59,
+        "Feb": 5.02,
+        "Mar": 5.51,
+        "Apr": 5.71,
+        "May": 5.51,
+        "Jun": 5.29,
+        "Jul": 5.09,
+        "Aug": 5.12,
+        "Sep": 5.16,
+        "Oct": 4.88,
+        "Nov": 4.55,
+        "Dec": 4.27
+      },
+      "average": 5.06
+    },
+    {
+      "name": "Laayoune",
+      "admin1_code": "",
+      "location": [
+        27.1418,
+        -13.18797
+      ],
+      "monthly": {
+        "Jan": 4.72,
+        "Feb": 5.13,
+        "Mar": 5.59,
+        "Apr": 5.72,
+        "May": 5.51,
+        "Jun": 5.3,
+        "Jul": 5.15,
+        "Aug": 5.17,
+        "Sep": 5.21,
+        "Oct": 4.96,
+        "Nov": 4.68,
+        "Dec": 4.46
+      },
+      "average": 5.13
+    },
+    {
+      "name": "Boujdour",
+      "admin1_code": "",
+      "location": [
+        26.13073,
+        -14.48513
+      ],
+      "monthly": {
+        "Jan": 4.62,
+        "Feb": 5.11,
+        "Mar": 5.56,
+        "Apr": 5.7,
+        "May": 5.55,
+        "Jun": 5.31,
+        "Jul": 4.99,
+        "Aug": 5.06,
+        "Sep": 5.14,
+        "Oct": 4.95,
+        "Nov": 4.59,
+        "Dec": 4.34
+      },
+      "average": 5.08
+    },
+    {
+      "name": "Dakhla",
+      "admin1_code": "CE",
+      "location": [
+        23.68477,
+        -15.95798
+      ],
+      "monthly": {
+        "Jan": 4.9,
+        "Feb": 5.35,
+        "Mar": 5.7,
+        "Apr": 5.76,
+        "May": 5.54,
+        "Jun": 5.23,
+        "Jul": 4.89,
+        "Aug": 4.91,
+        "Sep": 4.95,
+        "Oct": 4.92,
+        "Nov": 4.8,
+        "Dec": 4.53
+      },
+      "average": 5.12
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "country": "FM",
+  "countryCode": "FM",
+  "cities": [
+    {
+      "name": "Palikir",
+      "admin1_code": "02",
+      "location": [
+        6.92477,
+        158.16109
+      ],
+      "monthly": {
+        "Jan": 3.55,
+        "Feb": 3.71,
+        "Mar": 3.66,
+        "Apr": 3.6,
+        "May": 3.34,
+        "Jun": 3.4,
+        "Jul": 3.36,
+        "Aug": 3.67,
+        "Sep": 3.63,
+        "Oct": 3.57,
+        "Nov": 3.41,
+        "Dec": 3.37
+      },
+      "average": 3.52
+    }
+  ]
+}

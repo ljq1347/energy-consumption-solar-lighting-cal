@@ -1,0 +1,144 @@
+{
+  "country": "Djibouti",
+  "countryCode": "DJ",
+  "cities": [
+    {
+      "name": "Tadjoura",
+      "admin1_code": "05",
+      "location": [
+        11.78778,
+        42.88222
+      ],
+      "monthly": {
+        "Jan": 4.33,
+        "Feb": 4.92,
+        "Mar": 5.07,
+        "Apr": 5.19,
+        "May": 4.8,
+        "Jun": 4.12,
+        "Jul": 3.77,
+        "Aug": 4.06,
+        "Sep": 4.54,
+        "Oct": 5.11,
+        "Nov": 4.94,
+        "Dec": 4.56
+      },
+      "average": 4.62
+    },
+    {
+      "name": "Obock",
+      "admin1_code": "04",
+      "location": [
+        11.96693,
+        43.28835
+      ],
+      "monthly": {
+        "Jan": 4.6,
+        "Feb": 5.08,
+        "Mar": 5.19,
+        "Apr": 5.26,
+        "May": 4.9,
+        "Jun": 4.26,
+        "Jul": 3.9,
+        "Aug": 4.22,
+        "Sep": 4.82,
+        "Oct": 5.2,
+        "Nov": 5.04,
+        "Dec": 4.78
+      },
+      "average": 4.77
+    },
+    {
+      "name": "Djibouti",
+      "admin1_code": "07",
+      "location": [
+        11.58901,
+        43.14503
+      ],
+      "monthly": {
+        "Jan": 4.75,
+        "Feb": 5.13,
+        "Mar": 5.12,
+        "Apr": 5.07,
+        "May": 4.65,
+        "Jun": 4.07,
+        "Jul": 3.8,
+        "Aug": 4.14,
+        "Sep": 4.78,
+        "Oct": 5.23,
+        "Nov": 5.09,
+        "Dec": 4.93
+      },
+      "average": 4.73
+    },
+    {
+      "name": "Dikhil",
+      "admin1_code": "06",
+      "location": [
+        11.10454,
+        42.36971
+      ],
+      "monthly": {
+        "Jan": 5.37,
+        "Feb": 5.59,
+        "Mar": 5.35,
+        "Apr": 5.11,
+        "May": 4.68,
+        "Jun": 4.17,
+        "Jul": 4.01,
+        "Aug": 4.33,
+        "Sep": 4.56,
+        "Oct": 5.26,
+        "Nov": 5.47,
+        "Dec": 5.42
+      },
+      "average": 4.94
+    },
+    {
+      "name": "Arta",
+      "admin1_code": "08",
+      "location": [
+        11.52639,
+        42.85194
+      ],
+      "monthly": {
+        "Jan": 4.3,
+        "Feb": 4.64,
+        "Mar": 4.6,
+        "Apr": 4.92,
+        "May": 4.91,
+        "Jun": 4.35,
+        "Jul": 4.09,
+        "Aug": 4.41,
+        "Sep": 4.83,
+        "Oct": 5.24,
+        "Nov": 4.97,
+        "Dec": 4.65
+      },
+      "average": 4.66
+    },
+    {
+      "name": "Ali Sabih",
+      "admin1_code": "01",
+      "location": [
+        11.15583,
+        42.7125
+      ],
+      "monthly": {
+        "Jan": 5.11,
+        "Feb": 5.43,
+        "Mar": 5.27,
+        "Apr": 5.25,
+        "May": 4.82,
+        "Jun": 4.27,
+        "Jul": 4.12,
+        "Aug": 4.45,
+        "Sep": 4.62,
+        "Oct": 5.37,
+        "Nov": 5.4,
+        "Dec": 5.27
+      },
+      "average": 4.95
+    }
+  ]
+}

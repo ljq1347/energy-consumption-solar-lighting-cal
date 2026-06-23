@@ -1,0 +1,29 @@
+{
+  "country": "Barbados",
+  "countryCode": "BB",
+  "cities": [
+    {
+      "name": "Bridgetown",
+      "admin1_code": "08",
+      "location": [
+        13.10732,
+        -59.62021
+      ],
+      "monthly": {
+        "Jan": 4.7,
+        "Feb": 5.03,
+        "Mar": 5.13,
+        "Apr": 4.94,
+        "May": 4.78,
+        "Jun": 4.45,
+        "Jul": 4.57,
+        "Aug": 4.75,
+        "Sep": 4.86,
+        "Oct": 4.61,
+        "Nov": 4.46,
+        "Dec": 4.54
+      },
+      "average": 4.74
+    }
+  ]
+}

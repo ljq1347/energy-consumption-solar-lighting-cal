@@ -1,0 +1,190 @@
+{
+  "country": "Brunei",
+  "countryCode": "BN",
+  "cities": [
+    {
+      "name": "Tutong",
+      "admin1_code": "04",
+      "location": [
+        4.80278,
+        114.64917
+      ],
+      "monthly": {
+        "Jan": 3.66,
+        "Feb": 4.08,
+        "Mar": 4.32,
+        "Apr": 4.28,
+        "May": 4.01,
+        "Jun": 3.78,
+        "Jul": 3.79,
+        "Aug": 4.01,
+        "Sep": 3.97,
+        "Oct": 3.97,
+        "Nov": 4.01,
+        "Dec": 3.78
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Seria",
+      "admin1_code": "01",
+      "location": [
+        4.60637,
+        114.32476
+      ],
+      "monthly": {
+        "Jan": 3.54,
+        "Feb": 3.98,
+        "Mar": 4.2,
+        "Apr": 4.16,
+        "May": 3.9,
+        "Jun": 3.71,
+        "Jul": 3.73,
+        "Aug": 3.89,
+        "Sep": 3.88,
+        "Oct": 3.92,
+        "Nov": 3.92,
+        "Dec": 3.68
+      },
+      "average": 3.88
+    },
+    {
+      "name": "Kuala Belait",
+      "admin1_code": "01",
+      "location": [
+        4.58361,
+        114.2312
+      ],
+      "monthly": {
+        "Jan": 3.63,
+        "Feb": 4.14,
+        "Mar": 4.35,
+        "Apr": 4.25,
+        "May": 3.95,
+        "Jun": 3.73,
+        "Jul": 3.75,
+        "Aug": 3.91,
+        "Sep": 3.94,
+        "Oct": 3.94,
+        "Nov": 3.96,
+        "Dec": 3.72
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Liang",
+      "admin1_code": "01",
+      "location": [
+        4.67747,
+        114.49587
+      ],
+      "monthly": {
+        "Jan": 3.57,
+        "Feb": 3.96,
+        "Mar": 4.2,
+        "Apr": 4.18,
+        "May": 3.91,
+        "Jun": 3.69,
+        "Jul": 3.72,
+        "Aug": 3.9,
+        "Sep": 3.87,
+        "Oct": 3.92,
+        "Nov": 3.91,
+        "Dec": 3.71
+      },
+      "average": 3.88
+    },
+    {
+      "name": "Serasa",
+      "admin1_code": "02",
+      "location": [
+        5.01761,
+        115.05798
+      ],
+      "monthly": {
+        "Jan": 4,
+        "Feb": 4.45,
+        "Mar": 4.62,
+        "Apr": 4.59,
+        "May": 4.24,
+        "Jun": 3.92,
+        "Jul": 3.96,
+        "Aug": 4.2,
+        "Sep": 4.15,
+        "Oct": 4.19,
+        "Nov": 4.26,
+        "Dec": 4.07
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Sengkurong",
+      "admin1_code": "02",
+      "location": [
+        4.88333,
+        114.83333
+      ],
+      "monthly": {
+        "Jan": 3.7,
+        "Feb": 4.06,
+        "Mar": 4.22,
+        "Apr": 4.21,
+        "May": 3.97,
+        "Jun": 3.76,
+        "Jul": 3.8,
+        "Aug": 4.03,
+        "Sep": 3.99,
+        "Oct": 3.99,
+        "Nov": 3.98,
+        "Dec": 3.81
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Mentiri",
+      "admin1_code": "02",
+      "location": [
+        4.97058,
+        115.02078
+      ],
+      "monthly": {
+        "Jan": 3.89,
+        "Feb": 4.31,
+        "Mar": 4.49,
+        "Apr": 4.47,
+        "May": 4.13,
+        "Jun": 3.85,
+        "Jul": 3.89,
+        "Aug": 4.11,
+        "Sep": 4.07,
+        "Oct": 4.11,
+        "Nov": 4.19,
+        "Dec": 3.99
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Bandar Seri Begawan",
+      "admin1_code": "02",
+      "location": [
+        4.89035,
+        114.94006
+      ],
+      "monthly": {
+        "Jan": 3.71,
+        "Feb": 4.06,
+        "Mar": 4.23,
+        "Apr": 4.23,
+        "May": 3.99,
+        "Jun": 3.74,
+        "Jul": 3.8,
+        "Aug": 4.02,
+        "Sep": 4,
+        "Oct": 4,
+        "Nov": 4.01,
+        "Dec": 3.83
+      },
+      "average": 3.97
+    }
+  ]
+}

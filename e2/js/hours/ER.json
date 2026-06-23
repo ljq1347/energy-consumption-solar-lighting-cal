@@ -1,0 +1,167 @@
+{
+  "country": "Eritrea",
+  "countryCode": "ER",
+  "cities": [
+    {
+      "name": "Massawa",
+      "admin1_code": "06",
+      "location": [
+        15.60811,
+        39.47455
+      ],
+      "monthly": {
+        "Jan": 3.75,
+        "Feb": 3.84,
+        "Mar": 4.33,
+        "Apr": 4.82,
+        "May": 4.75,
+        "Jun": 4.25,
+        "Jul": 3.85,
+        "Aug": 4,
+        "Sep": 4.77,
+        "Oct": 5.06,
+        "Nov": 4.81,
+        "Dec": 4.36
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Keren",
+      "admin1_code": "01",
+      "location": [
+        15.77792,
+        38.45107
+      ],
+      "monthly": {
+        "Jan": 5.85,
+        "Feb": 6,
+        "Mar": 5.91,
+        "Apr": 5.46,
+        "May": 4.86,
+        "Jun": 4.63,
+        "Jul": 4.24,
+        "Aug": 4.05,
+        "Sep": 5.07,
+        "Oct": 5.52,
+        "Nov": 5.69,
+        "Dec": 5.75
+      },
+      "average": 5.25
+    },
+    {
+      "name": "Himora",
+      "admin1_code": "04",
+      "location": [
+        14.30427,
+        36.60601
+      ],
+      "monthly": {
+        "Jan": 5.45,
+        "Feb": 5.56,
+        "Mar": 5.5,
+        "Apr": 5.14,
+        "May": 4.7,
+        "Jun": 4.45,
+        "Jul": 3.87,
+        "Aug": 3.85,
+        "Sep": 4.91,
+        "Oct": 5.16,
+        "Nov": 5.26,
+        "Dec": 5.3
+      },
+      "average": 4.93
+    },
+    {
+      "name": "Barentu",
+      "admin1_code": "04",
+      "location": [
+        15.10582,
+        37.59067
+      ],
+      "monthly": {
+        "Jan": 5.69,
+        "Feb": 5.8,
+        "Mar": 5.71,
+        "Apr": 5.35,
+        "May": 4.84,
+        "Jun": 4.59,
+        "Jul": 4.02,
+        "Aug": 3.91,
+        "Sep": 5.01,
+        "Oct": 5.32,
+        "Nov": 5.54,
+        "Dec": 5.57
+      },
+      "average": 5.11
+    },
+    {
+      "name": "Asmara",
+      "admin1_code": "05",
+      "location": [
+        15.33805,
+        38.93184
+      ],
+      "monthly": {
+        "Jan": 5.99,
+        "Feb": 6.11,
+        "Mar": 5.89,
+        "Apr": 5.37,
+        "May": 5,
+        "Jun": 4.7,
+        "Jul": 4.06,
+        "Aug": 4.13,
+        "Sep": 5.43,
+        "Oct": 5.75,
+        "Nov": 5.73,
+        "Dec": 5.84
+      },
+      "average": 5.33
+    },
+    {
+      "name": "Assab",
+      "admin1_code": "03",
+      "location": [
+        13.00917,
+        42.73944
+      ],
+      "monthly": {
+        "Jan": 5.14,
+        "Feb": 5.35,
+        "Mar": 5.35,
+        "Apr": 5.23,
+        "May": 4.75,
+        "Jun": 4.19,
+        "Jul": 3.81,
+        "Aug": 4.03,
+        "Sep": 4.61,
+        "Oct": 5.24,
+        "Nov": 5.28,
+        "Dec": 5.18
+      },
+      "average": 4.85
+    },
+    {
+      "name": "Mendefera",
+      "admin1_code": "02",
+      "location": [
+        14.88722,
+        38.81528
+      ],
+      "monthly": {
+        "Jan": 5.96,
+        "Feb": 6.04,
+        "Mar": 5.79,
+        "Apr": 5.25,
+        "May": 4.71,
+        "Jun": 4.18,
+        "Jul": 3.81,
+        "Aug": 3.7,
+        "Sep": 4.93,
+        "Oct": 5.53,
+        "Nov": 5.66,
+        "Dec": 5.82
+      },
+      "average": 5.12
+    }
+  ]
+}

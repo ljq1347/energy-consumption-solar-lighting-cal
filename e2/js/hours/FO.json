@@ -1,0 +1,29 @@
+{
+  "country": "FO",
+  "countryCode": "FO",
+  "cities": [
+    {
+      "name": "Tórshavn",
+      "admin1_code": "ST",
+      "location": [
+        62.00973,
+        -6.77164
+      ],
+      "monthly": {
+        "Jan": 0.55,
+        "Feb": 1.15,
+        "Mar": 2.16,
+        "Apr": 3.27,
+        "May": 3.88,
+        "Jun": 3.75,
+        "Jul": 3.29,
+        "Aug": 2.73,
+        "Sep": 1.87,
+        "Oct": 1,
+        "Nov": 0.4,
+        "Dec": 0.17
+      },
+      "average": 2.02
+    }
+  ]
+}

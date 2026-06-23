@@ -1,0 +1,52 @@
+{
+  "country": "CW",
+  "countryCode": "CW",
+  "cities": [
+    {
+      "name": "Willemstad",
+      "admin1_code": "",
+      "location": [
+        12.12246,
+        -68.88641
+      ],
+      "monthly": {
+        "Jan": 4.73,
+        "Feb": 5.05,
+        "Mar": 5.14,
+        "Apr": 4.94,
+        "May": 4.76,
+        "Jun": 4.71,
+        "Jul": 4.87,
+        "Aug": 5.08,
+        "Sep": 5.14,
+        "Oct": 4.71,
+        "Nov": 4.41,
+        "Dec": 4.49
+      },
+      "average": 4.84
+    },
+    {
+      "name": "Bandariba",
+      "admin1_code": "",
+      "location": [
+        12.09257,
+        -68.83092
+      ],
+      "monthly": {
+        "Jan": 4.87,
+        "Feb": 5.22,
+        "Mar": 5.31,
+        "Apr": 5.06,
+        "May": 4.84,
+        "Jun": 4.79,
+        "Jul": 4.95,
+        "Aug": 5.16,
+        "Sep": 5.22,
+        "Oct": 4.8,
+        "Nov": 4.53,
+        "Dec": 4.61
+      },
+      "average": 4.95
+    }
+  ]
+}

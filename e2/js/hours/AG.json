@@ -1,0 +1,29 @@
+{
+  "country": "Antigua and Barbuda",
+  "countryCode": "AG",
+  "cities": [
+    {
+      "name": "Saint John’s",
+      "admin1_code": "04",
+      "location": [
+        17.12096,
+        -61.84329
+      ],
+      "monthly": {
+        "Jan": 4.55,
+        "Feb": 4.88,
+        "Mar": 5.02,
+        "Apr": 4.81,
+        "May": 4.54,
+        "Jun": 4.46,
+        "Jul": 4.54,
+        "Aug": 4.75,
+        "Sep": 4.71,
+        "Oct": 4.55,
+        "Nov": 4.44,
+        "Dec": 4.4
+      },
+      "average": 4.64
+    }
+  ]
+}

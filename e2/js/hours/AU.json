@@ -1,0 +1,7159 @@
+{
+  "country": "Australia",
+  "countryCode": "AU",
+  "cities": [
+    {
+      "name": "Scarborough",
+      "admin1_code": "08",
+      "location": [
+        -31.89578,
+        115.76431
+      ],
+      "monthly": {
+        "Jan": 5.82,
+        "Feb": 5.65,
+        "Mar": 5.38,
+        "Apr": 4.61,
+        "May": 3.99,
+        "Jun": 3.47,
+        "Jul": 3.43,
+        "Aug": 4.09,
+        "Sep": 4.84,
+        "Oct": 5.38,
+        "Nov": 5.75,
+        "Dec": 5.87
+      },
+      "average": 4.86
+    },
+    {
+      "name": "Rockingham",
+      "admin1_code": "08",
+      "location": [
+        -32.27682,
+        115.72978
+      ],
+      "monthly": {
+        "Jan": 5.87,
+        "Feb": 5.67,
+        "Mar": 5.39,
+        "Apr": 4.6,
+        "May": 3.99,
+        "Jun": 3.43,
+        "Jul": 3.37,
+        "Aug": 4.07,
+        "Sep": 4.84,
+        "Oct": 5.38,
+        "Nov": 5.75,
+        "Dec": 5.88
+      },
+      "average": 4.85
+    },
+    {
+      "name": "Port Hedland",
+      "admin1_code": "08",
+      "location": [
+        -20.31215,
+        118.61059
+      ],
+      "monthly": {
+        "Jan": 5.03,
+        "Feb": 5.26,
+        "Mar": 5.3,
+        "Apr": 5.24,
+        "May": 4.88,
+        "Jun": 4.72,
+        "Jul": 5.15,
+        "Aug": 5.61,
+        "Sep": 5.82,
+        "Oct": 5.82,
+        "Nov": 5.58,
+        "Dec": 5.31
+      },
+      "average": 5.31
+    },
+    {
+      "name": "Perth",
+      "admin1_code": "08",
+      "location": [
+        -31.95224,
+        115.8614
+      ],
+      "monthly": {
+        "Jan": 5.77,
+        "Feb": 5.61,
+        "Mar": 5.33,
+        "Apr": 4.58,
+        "May": 4,
+        "Jun": 3.47,
+        "Jul": 3.42,
+        "Aug": 4.04,
+        "Sep": 4.75,
+        "Oct": 5.27,
+        "Nov": 5.65,
+        "Dec": 5.81
+      },
+      "average": 4.81
+    },
+    {
+      "name": "Mount Isa",
+      "admin1_code": "04",
+      "location": [
+        -20.72523,
+        139.49727
+      ],
+      "monthly": {
+        "Jan": 4.53,
+        "Feb": 4.95,
+        "Mar": 5.07,
+        "Apr": 5.42,
+        "May": 5.16,
+        "Jun": 5.13,
+        "Jul": 5.37,
+        "Aug": 5.79,
+        "Sep": 5.68,
+        "Oct": 5.49,
+        "Nov": 4.88,
+        "Dec": 4.75
+      },
+      "average": 5.18
+    },
+    {
+      "name": "Mount Barker",
+      "admin1_code": "05",
+      "location": [
+        -35.06667,
+        138.86667
+      ],
+      "monthly": {
+        "Jan": 5.44,
+        "Feb": 5.21,
+        "Mar": 4.81,
+        "Apr": 4.09,
+        "May": 3.29,
+        "Jun": 2.94,
+        "Jul": 3.15,
+        "Aug": 3.69,
+        "Sep": 4.43,
+        "Oct": 4.86,
+        "Nov": 4.98,
+        "Dec": 5.22
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Morphett Vale",
+      "admin1_code": "05",
+      "location": [
+        -35.13333,
+        138.51667
+      ],
+      "monthly": {
+        "Jan": 5.55,
+        "Feb": 5.39,
+        "Mar": 4.98,
+        "Apr": 4.18,
+        "May": 3.35,
+        "Jun": 2.92,
+        "Jul": 3.1,
+        "Aug": 3.74,
+        "Sep": 4.49,
+        "Oct": 5,
+        "Nov": 5.12,
+        "Dec": 5.38
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Mandurah",
+      "admin1_code": "08",
+      "location": [
+        -32.5269,
+        115.7217
+      ],
+      "monthly": {
+        "Jan": 5.9,
+        "Feb": 5.7,
+        "Mar": 5.34,
+        "Apr": 4.57,
+        "May": 3.9,
+        "Jun": 3.33,
+        "Jul": 3.28,
+        "Aug": 3.99,
+        "Sep": 4.77,
+        "Oct": 5.33,
+        "Nov": 5.72,
+        "Dec": 5.89
+      },
+      "average": 4.81
+    },
+    {
+      "name": "Kwinana",
+      "admin1_code": "08",
+      "location": [
+        -32.23013,
+        115.78128
+      ],
+      "monthly": {
+        "Jan": 5.84,
+        "Feb": 5.64,
+        "Mar": 5.38,
+        "Apr": 4.6,
+        "May": 4,
+        "Jun": 3.47,
+        "Jul": 3.39,
+        "Aug": 4.05,
+        "Sep": 4.81,
+        "Oct": 5.31,
+        "Nov": 5.71,
+        "Dec": 5.86
+      },
+      "average": 4.84
+    },
+    {
+      "name": "Kalgoorlie",
+      "admin1_code": "08",
+      "location": [
+        -30.74614,
+        121.4742
+      ],
+      "monthly": {
+        "Jan": 5.42,
+        "Feb": 5.25,
+        "Mar": 5.13,
+        "Apr": 4.86,
+        "May": 4.51,
+        "Jun": 3.9,
+        "Jul": 4.28,
+        "Aug": 4.9,
+        "Sep": 5.52,
+        "Oct": 5.61,
+        "Nov": 5.53,
+        "Dec": 5.54
+      },
+      "average": 5.04
+    },
+    {
+      "name": "Gosnells",
+      "admin1_code": "08",
+      "location": [
+        -32.081,
+        116.0054
+      ],
+      "monthly": {
+        "Jan": 5.73,
+        "Feb": 5.59,
+        "Mar": 5.3,
+        "Apr": 4.51,
+        "May": 3.92,
+        "Jun": 3.43,
+        "Jul": 3.3,
+        "Aug": 3.87,
+        "Sep": 4.49,
+        "Oct": 5.09,
+        "Nov": 5.51,
+        "Dec": 5.73
+      },
+      "average": 4.71
+    },
+    {
+      "name": "Geraldton",
+      "admin1_code": "08",
+      "location": [
+        -28.77897,
+        114.61459
+      ],
+      "monthly": {
+        "Jan": 5.65,
+        "Feb": 5.58,
+        "Mar": 5.41,
+        "Apr": 4.97,
+        "May": 4.5,
+        "Jun": 4,
+        "Jul": 4.04,
+        "Aug": 4.7,
+        "Sep": 5.4,
+        "Oct": 5.68,
+        "Nov": 5.76,
+        "Dec": 5.74
+      },
+      "average": 5.12
+    },
+    {
+      "name": "Gawler",
+      "admin1_code": "05",
+      "location": [
+        -34.60251,
+        138.74902
+      ],
+      "monthly": {
+        "Jan": 5.49,
+        "Feb": 5.39,
+        "Mar": 4.97,
+        "Apr": 4.31,
+        "May": 3.43,
+        "Jun": 2.99,
+        "Jul": 3.13,
+        "Aug": 3.7,
+        "Sep": 4.47,
+        "Oct": 4.94,
+        "Nov": 5.09,
+        "Dec": 5.28
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Darwin",
+      "admin1_code": "03",
+      "location": [
+        -12.46113,
+        130.84185
+      ],
+      "monthly": {
+        "Jan": 3.62,
+        "Feb": 3.96,
+        "Mar": 4.36,
+        "Apr": 4.87,
+        "May": 4.98,
+        "Jun": 5.05,
+        "Jul": 5.2,
+        "Aug": 5.46,
+        "Sep": 5.3,
+        "Oct": 5.01,
+        "Nov": 4.38,
+        "Dec": 3.87
+      },
+      "average": 4.67
+    },
+    {
+      "name": "Byford",
+      "admin1_code": "08",
+      "location": [
+        -32.22099,
+        116.009
+      ],
+      "monthly": {
+        "Jan": 5.73,
+        "Feb": 5.59,
+        "Mar": 5.26,
+        "Apr": 4.43,
+        "May": 3.85,
+        "Jun": 3.38,
+        "Jul": 3.25,
+        "Aug": 3.82,
+        "Sep": 4.44,
+        "Oct": 5.05,
+        "Nov": 5.47,
+        "Dec": 5.7
+      },
+      "average": 4.66
+    },
+    {
+      "name": "Busselton",
+      "admin1_code": "08",
+      "location": [
+        -33.65249,
+        115.3455
+      ],
+      "monthly": {
+        "Jan": 5.88,
+        "Feb": 5.67,
+        "Mar": 5.14,
+        "Apr": 4.31,
+        "May": 3.55,
+        "Jun": 3.02,
+        "Jul": 3.11,
+        "Aug": 3.67,
+        "Sep": 4.34,
+        "Oct": 4.94,
+        "Nov": 5.4,
+        "Dec": 5.75
+      },
+      "average": 4.56
+    },
+    {
+      "name": "Bunbury",
+      "admin1_code": "08",
+      "location": [
+        -33.32711,
+        115.64137
+      ],
+      "monthly": {
+        "Jan": 5.93,
+        "Feb": 5.74,
+        "Mar": 5.27,
+        "Apr": 4.43,
+        "May": 3.66,
+        "Jun": 3.12,
+        "Jul": 3.17,
+        "Aug": 3.88,
+        "Sep": 4.6,
+        "Oct": 5.22,
+        "Nov": 5.66,
+        "Dec": 5.89
+      },
+      "average": 4.71
+    },
+    {
+      "name": "Australind",
+      "admin1_code": "08",
+      "location": [
+        -33.2792,
+        115.71504
+      ],
+      "monthly": {
+        "Jan": 5.88,
+        "Feb": 5.71,
+        "Mar": 5.25,
+        "Apr": 4.43,
+        "May": 3.7,
+        "Jun": 3.14,
+        "Jul": 3.19,
+        "Aug": 3.87,
+        "Sep": 4.62,
+        "Oct": 5.2,
+        "Nov": 5.62,
+        "Dec": 5.84
+      },
+      "average": 4.7
+    },
+    {
+      "name": "Alice Springs",
+      "admin1_code": "03",
+      "location": [
+        -23.69748,
+        133.88362
+      ],
+      "monthly": {
+        "Jan": 4.97,
+        "Feb": 5.43,
+        "Mar": 5.35,
+        "Apr": 5.57,
+        "May": 5.17,
+        "Jun": 5,
+        "Jul": 5.33,
+        "Aug": 5.8,
+        "Sep": 5.66,
+        "Oct": 5.58,
+        "Nov": 4.99,
+        "Dec": 4.87
+      },
+      "average": 5.31
+    },
+    {
+      "name": "Albany",
+      "admin1_code": "08",
+      "location": [
+        -35.02692,
+        117.88369
+      ],
+      "monthly": {
+        "Jan": 4.89,
+        "Feb": 4.52,
+        "Mar": 4.01,
+        "Apr": 3.45,
+        "May": 3.06,
+        "Jun": 2.77,
+        "Jul": 2.87,
+        "Aug": 3.37,
+        "Sep": 3.92,
+        "Oct": 4.32,
+        "Nov": 4.54,
+        "Dec": 4.93
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Adelaide",
+      "admin1_code": "05",
+      "location": [
+        -34.92866,
+        138.59863
+      ],
+      "monthly": {
+        "Jan": 5.57,
+        "Feb": 5.43,
+        "Mar": 4.97,
+        "Apr": 4.2,
+        "May": 3.33,
+        "Jun": 2.93,
+        "Jul": 3.05,
+        "Aug": 3.67,
+        "Sep": 4.48,
+        "Oct": 5.03,
+        "Nov": 5.17,
+        "Dec": 5.36
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Yarraville",
+      "admin1_code": "07",
+      "location": [
+        -37.81667,
+        144.9
+      ],
+      "monthly": {
+        "Jan": 5.04,
+        "Feb": 4.86,
+        "Mar": 4.36,
+        "Apr": 3.55,
+        "May": 2.9,
+        "Jun": 2.63,
+        "Jul": 2.81,
+        "Aug": 3.31,
+        "Sep": 3.94,
+        "Oct": 4.41,
+        "Nov": 4.51,
+        "Dec": 4.92
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Wollert",
+      "admin1_code": "07",
+      "location": [
+        -37.58333,
+        145.03333
+      ],
+      "monthly": {
+        "Jan": 5.01,
+        "Feb": 4.84,
+        "Mar": 4.41,
+        "Apr": 3.6,
+        "May": 2.94,
+        "Jun": 2.63,
+        "Jul": 2.84,
+        "Aug": 3.36,
+        "Sep": 3.98,
+        "Oct": 4.37,
+        "Nov": 4.47,
+        "Dec": 4.89
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Wodonga",
+      "admin1_code": "07",
+      "location": [
+        -36.12179,
+        146.88809
+      ],
+      "monthly": {
+        "Jan": 5.38,
+        "Feb": 5.38,
+        "Mar": 5.03,
+        "Apr": 4.53,
+        "May": 3.67,
+        "Jun": 3.08,
+        "Jul": 3.12,
+        "Aug": 3.8,
+        "Sep": 4.71,
+        "Oct": 5.1,
+        "Nov": 5.12,
+        "Dec": 5.37
+      },
+      "average": 4.52
+    },
+    {
+      "name": "Wheelers Hill",
+      "admin1_code": "07",
+      "location": [
+        -37.9,
+        145.18333
+      ],
+      "monthly": {
+        "Jan": 4.97,
+        "Feb": 4.72,
+        "Mar": 4.27,
+        "Apr": 3.43,
+        "May": 2.77,
+        "Jun": 2.53,
+        "Jul": 2.65,
+        "Aug": 3.17,
+        "Sep": 3.77,
+        "Oct": 4.31,
+        "Nov": 4.38,
+        "Dec": 4.86
+      },
+      "average": 3.82
+    },
+    {
+      "name": "Westmead",
+      "admin1_code": "02",
+      "location": [
+        -33.80383,
+        150.98768
+      ],
+      "monthly": {
+        "Jan": 4.2,
+        "Feb": 4.01,
+        "Mar": 3.91,
+        "Apr": 3.96,
+        "May": 3.94,
+        "Jun": 3.45,
+        "Jul": 3.99,
+        "Aug": 4.4,
+        "Sep": 4.81,
+        "Oct": 4.56,
+        "Nov": 4.3,
+        "Dec": 4.31
+      },
+      "average": 4.15
+    },
+    {
+      "name": "Werribee",
+      "admin1_code": "07",
+      "location": [
+        -37.9,
+        144.66667
+      ],
+      "monthly": {
+        "Jan": 5.02,
+        "Feb": 4.83,
+        "Mar": 4.36,
+        "Apr": 3.58,
+        "May": 3.02,
+        "Jun": 2.73,
+        "Jul": 2.94,
+        "Aug": 3.44,
+        "Sep": 4.06,
+        "Oct": 4.45,
+        "Nov": 4.5,
+        "Dec": 4.89
+      },
+      "average": 3.99
+    },
+    {
+      "name": "Warwick",
+      "admin1_code": "04",
+      "location": [
+        -28.21901,
+        152.03438
+      ],
+      "monthly": {
+        "Jan": 4.76,
+        "Feb": 4.82,
+        "Mar": 4.66,
+        "Apr": 4.87,
+        "May": 4.49,
+        "Jun": 4.19,
+        "Jul": 4.49,
+        "Aug": 5.14,
+        "Sep": 5.29,
+        "Oct": 5.18,
+        "Nov": 4.9,
+        "Dec": 4.82
+      },
+      "average": 4.8
+    },
+    {
+      "name": "Warrnambool",
+      "admin1_code": "07",
+      "location": [
+        -38.38176,
+        142.48799
+      ],
+      "monthly": {
+        "Jan": 5.09,
+        "Feb": 4.86,
+        "Mar": 4.33,
+        "Apr": 3.45,
+        "May": 2.83,
+        "Jun": 2.55,
+        "Jul": 2.7,
+        "Aug": 3.28,
+        "Sep": 3.9,
+        "Oct": 4.41,
+        "Nov": 4.59,
+        "Dec": 5.06
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Warragul",
+      "admin1_code": "07",
+      "location": [
+        -38.15912,
+        145.93118
+      ],
+      "monthly": {
+        "Jan": 4.82,
+        "Feb": 4.61,
+        "Mar": 4.16,
+        "Apr": 3.38,
+        "May": 2.81,
+        "Jun": 2.62,
+        "Jul": 2.69,
+        "Aug": 3.2,
+        "Sep": 3.7,
+        "Oct": 4.19,
+        "Nov": 4.31,
+        "Dec": 4.69
+      },
+      "average": 3.77
+    },
+    {
+      "name": "Wantirna South",
+      "admin1_code": "07",
+      "location": [
+        -37.88333,
+        145.21667
+      ],
+      "monthly": {
+        "Jan": 4.96,
+        "Feb": 4.71,
+        "Mar": 4.25,
+        "Apr": 3.43,
+        "May": 2.77,
+        "Jun": 2.52,
+        "Jul": 2.63,
+        "Aug": 3.11,
+        "Sep": 3.73,
+        "Oct": 4.27,
+        "Nov": 4.37,
+        "Dec": 4.85
+      },
+      "average": 3.8
+    },
+    {
+      "name": "Wangaratta",
+      "admin1_code": "07",
+      "location": [
+        -36.35846,
+        146.32056
+      ],
+      "monthly": {
+        "Jan": 5.39,
+        "Feb": 5.37,
+        "Mar": 5.06,
+        "Apr": 4.48,
+        "May": 3.61,
+        "Jun": 3.07,
+        "Jul": 3.1,
+        "Aug": 3.78,
+        "Sep": 4.62,
+        "Oct": 5.02,
+        "Nov": 5.06,
+        "Dec": 5.36
+      },
+      "average": 4.49
+    },
+    {
+      "name": "Wallan",
+      "admin1_code": "07",
+      "location": [
+        -37.41625,
+        144.97859
+      ],
+      "monthly": {
+        "Jan": 5.12,
+        "Feb": 4.94,
+        "Mar": 4.49,
+        "Apr": 3.65,
+        "May": 2.98,
+        "Jun": 2.52,
+        "Jul": 2.7,
+        "Aug": 3.31,
+        "Sep": 4.04,
+        "Oct": 4.45,
+        "Nov": 4.56,
+        "Dec": 4.99
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Wahroonga",
+      "admin1_code": "02",
+      "location": [
+        -33.71816,
+        151.11561
+      ],
+      "monthly": {
+        "Jan": 4.21,
+        "Feb": 4.03,
+        "Mar": 3.93,
+        "Apr": 3.92,
+        "May": 3.89,
+        "Jun": 3.39,
+        "Jul": 3.94,
+        "Aug": 4.35,
+        "Sep": 4.79,
+        "Oct": 4.54,
+        "Nov": 4.3,
+        "Dec": 4.32
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Upper Coomera",
+      "admin1_code": "04",
+      "location": [
+        -27.87683,
+        153.28572
+      ],
+      "monthly": {
+        "Jan": 4.34,
+        "Feb": 4.4,
+        "Mar": 4.15,
+        "Apr": 4.36,
+        "May": 4.14,
+        "Jun": 3.88,
+        "Jul": 4.26,
+        "Aug": 4.79,
+        "Sep": 4.87,
+        "Oct": 4.74,
+        "Nov": 4.56,
+        "Dec": 4.38
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Tuggeranong Administrative District",
+      "admin1_code": "01",
+      "location": [
+        -35.41647,
+        149.06954
+      ],
+      "monthly": {
+        "Jan": 4.94,
+        "Feb": 4.77,
+        "Mar": 4.7,
+        "Apr": 4.48,
+        "May": 4.2,
+        "Jun": 3.6,
+        "Jul": 3.97,
+        "Aug": 4.5,
+        "Sep": 5.12,
+        "Oct": 5.03,
+        "Nov": 4.83,
+        "Dec": 5.04
+      },
+      "average": 4.6
+    },
+    {
+      "name": "Truganina",
+      "admin1_code": "07",
+      "location": [
+        -37.81667,
+        144.75
+      ],
+      "monthly": {
+        "Jan": 4.99,
+        "Feb": 4.79,
+        "Mar": 4.36,
+        "Apr": 3.6,
+        "May": 3.02,
+        "Jun": 2.72,
+        "Jul": 2.95,
+        "Aug": 3.44,
+        "Sep": 4.05,
+        "Oct": 4.42,
+        "Nov": 4.49,
+        "Dec": 4.88
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Traralgon",
+      "admin1_code": "07",
+      "location": [
+        -38.19528,
+        146.5415
+      ],
+      "monthly": {
+        "Jan": 4.76,
+        "Feb": 4.55,
+        "Mar": 4.15,
+        "Apr": 3.51,
+        "May": 3.1,
+        "Jun": 2.84,
+        "Jul": 3.06,
+        "Aug": 3.5,
+        "Sep": 4.04,
+        "Oct": 4.38,
+        "Nov": 4.39,
+        "Dec": 4.69
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Townsville",
+      "admin1_code": "04",
+      "location": [
+        -19.26639,
+        146.80569
+      ],
+      "monthly": {
+        "Jan": 4.41,
+        "Feb": 4.47,
+        "Mar": 4.59,
+        "Apr": 4.79,
+        "May": 4.4,
+        "Jun": 4.26,
+        "Jul": 4.57,
+        "Aug": 5.17,
+        "Sep": 5.5,
+        "Oct": 5.52,
+        "Nov": 5.16,
+        "Dec": 4.9
+      },
+      "average": 4.81
+    },
+    {
+      "name": "Torquay",
+      "admin1_code": "07",
+      "location": [
+        -38.33085,
+        144.32638
+      ],
+      "monthly": {
+        "Jan": 5.07,
+        "Feb": 4.8,
+        "Mar": 4.26,
+        "Apr": 3.37,
+        "May": 2.85,
+        "Jun": 2.58,
+        "Jul": 2.75,
+        "Aug": 3.31,
+        "Sep": 3.93,
+        "Oct": 4.41,
+        "Nov": 4.49,
+        "Dec": 4.96
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Toowoomba",
+      "admin1_code": "04",
+      "location": [
+        -27.56056,
+        151.95386
+      ],
+      "monthly": {
+        "Jan": 4.66,
+        "Feb": 4.7,
+        "Mar": 4.5,
+        "Apr": 4.82,
+        "May": 4.47,
+        "Jun": 4.11,
+        "Jul": 4.49,
+        "Aug": 5.1,
+        "Sep": 5.3,
+        "Oct": 5.15,
+        "Nov": 4.96,
+        "Dec": 4.78
+      },
+      "average": 4.75
+    },
+    {
+      "name": "Thornbury",
+      "admin1_code": "07",
+      "location": [
+        -37.75819,
+        145.00583
+      ],
+      "monthly": {
+        "Jan": 4.99,
+        "Feb": 4.81,
+        "Mar": 4.3,
+        "Apr": 3.5,
+        "May": 2.84,
+        "Jun": 2.55,
+        "Jul": 2.73,
+        "Aug": 3.23,
+        "Sep": 3.86,
+        "Oct": 4.33,
+        "Nov": 4.45,
+        "Dec": 4.88
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Thomastown",
+      "admin1_code": "07",
+      "location": [
+        -37.68333,
+        145.01667
+      ],
+      "monthly": {
+        "Jan": 5.01,
+        "Feb": 4.79,
+        "Mar": 4.35,
+        "Apr": 3.53,
+        "May": 2.87,
+        "Jun": 2.6,
+        "Jul": 2.78,
+        "Aug": 3.27,
+        "Sep": 3.89,
+        "Oct": 4.34,
+        "Nov": 4.45,
+        "Dec": 4.89
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Templestowe",
+      "admin1_code": "07",
+      "location": [
+        -37.75405,
+        145.14864
+      ],
+      "monthly": {
+        "Jan": 4.94,
+        "Feb": 4.73,
+        "Mar": 4.27,
+        "Apr": 3.45,
+        "May": 2.75,
+        "Jun": 2.46,
+        "Jul": 2.61,
+        "Aug": 3.08,
+        "Sep": 3.68,
+        "Oct": 4.24,
+        "Nov": 4.36,
+        "Dec": 4.82
+      },
+      "average": 3.78
+    },
+    {
+      "name": "Tarneit",
+      "admin1_code": "07",
+      "location": [
+        -37.83634,
+        144.65952
+      ],
+      "monthly": {
+        "Jan": 4.97,
+        "Feb": 4.75,
+        "Mar": 4.3,
+        "Apr": 3.53,
+        "May": 3.01,
+        "Jun": 2.72,
+        "Jul": 2.93,
+        "Aug": 3.41,
+        "Sep": 4.04,
+        "Oct": 4.41,
+        "Nov": 4.45,
+        "Dec": 4.85
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Taree",
+      "admin1_code": "02",
+      "location": [
+        -31.91099,
+        152.45387
+      ],
+      "monthly": {
+        "Jan": 4.4,
+        "Feb": 4.28,
+        "Mar": 4.12,
+        "Apr": 4.14,
+        "May": 4.01,
+        "Jun": 3.64,
+        "Jul": 4.04,
+        "Aug": 4.6,
+        "Sep": 4.92,
+        "Oct": 4.67,
+        "Nov": 4.43,
+        "Dec": 4.37
+      },
+      "average": 4.3
+    },
+    {
+      "name": "Tamworth",
+      "admin1_code": "02",
+      "location": [
+        -31.09048,
+        150.92905
+      ],
+      "monthly": {
+        "Jan": 5.01,
+        "Feb": 5,
+        "Mar": 4.8,
+        "Apr": 4.75,
+        "May": 4.25,
+        "Jun": 3.63,
+        "Jul": 3.99,
+        "Aug": 4.66,
+        "Sep": 5.24,
+        "Oct": 5.25,
+        "Nov": 4.9,
+        "Dec": 4.96
+      },
+      "average": 4.7
+    },
+    {
+      "name": "Sydney",
+      "admin1_code": "02",
+      "location": [
+        -33.86785,
+        151.20732
+      ],
+      "monthly": {
+        "Jan": 4.38,
+        "Feb": 4.22,
+        "Mar": 4.07,
+        "Apr": 3.94,
+        "May": 3.82,
+        "Jun": 3.24,
+        "Jul": 3.8,
+        "Aug": 4.3,
+        "Sep": 4.79,
+        "Oct": 4.66,
+        "Nov": 4.44,
+        "Dec": 4.49
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Surry Hills",
+      "admin1_code": "02",
+      "location": [
+        -33.88374,
+        151.21282
+      ],
+      "monthly": {
+        "Jan": 4.45,
+        "Feb": 4.29,
+        "Mar": 4.15,
+        "Apr": 4.01,
+        "May": 3.9,
+        "Jun": 3.34,
+        "Jul": 3.9,
+        "Aug": 4.38,
+        "Sep": 4.86,
+        "Oct": 4.73,
+        "Nov": 4.5,
+        "Dec": 4.56
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Surfers Paradise",
+      "admin1_code": "04",
+      "location": [
+        -28.00274,
+        153.42999
+      ],
+      "monthly": {
+        "Jan": 4.71,
+        "Feb": 4.7,
+        "Mar": 4.43,
+        "Apr": 4.55,
+        "May": 4.24,
+        "Jun": 3.92,
+        "Jul": 4.29,
+        "Aug": 4.9,
+        "Sep": 5.1,
+        "Oct": 5.04,
+        "Nov": 4.89,
+        "Dec": 4.68
+      },
+      "average": 4.62
+    },
+    {
+      "name": "Sunbury",
+      "admin1_code": "07",
+      "location": [
+        -37.57742,
+        144.72607
+      ],
+      "monthly": {
+        "Jan": 4.95,
+        "Feb": 4.73,
+        "Mar": 4.31,
+        "Apr": 3.57,
+        "May": 3.06,
+        "Jun": 2.67,
+        "Jul": 2.95,
+        "Aug": 3.47,
+        "Sep": 4.13,
+        "Oct": 4.39,
+        "Nov": 4.47,
+        "Dec": 4.86
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Strathfield",
+      "admin1_code": "02",
+      "location": [
+        -33.88096,
+        151.07986
+      ],
+      "monthly": {
+        "Jan": 4.3,
+        "Feb": 4.13,
+        "Mar": 4.01,
+        "Apr": 4,
+        "May": 3.96,
+        "Jun": 3.42,
+        "Jul": 3.98,
+        "Aug": 4.41,
+        "Sep": 4.84,
+        "Oct": 4.62,
+        "Nov": 4.38,
+        "Dec": 4.4
+      },
+      "average": 4.2
+    },
+    {
+      "name": "Springvale",
+      "admin1_code": "07",
+      "location": [
+        -37.94853,
+        145.15274
+      ],
+      "monthly": {
+        "Jan": 5,
+        "Feb": 4.77,
+        "Mar": 4.32,
+        "Apr": 3.49,
+        "May": 2.85,
+        "Jun": 2.61,
+        "Jul": 2.74,
+        "Aug": 3.27,
+        "Sep": 3.91,
+        "Oct": 4.38,
+        "Nov": 4.45,
+        "Dec": 4.91
+      },
+      "average": 3.89
+    },
+    {
+      "name": "South Yarra",
+      "admin1_code": "07",
+      "location": [
+        -37.83834,
+        144.99149
+      ],
+      "monthly": {
+        "Jan": 5.04,
+        "Feb": 4.86,
+        "Mar": 4.36,
+        "Apr": 3.52,
+        "May": 2.87,
+        "Jun": 2.6,
+        "Jul": 2.75,
+        "Aug": 3.26,
+        "Sep": 3.91,
+        "Oct": 4.42,
+        "Nov": 4.51,
+        "Dec": 4.94
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Southport",
+      "admin1_code": "04",
+      "location": [
+        -27.96724,
+        153.39796
+      ],
+      "monthly": {
+        "Jan": 4.72,
+        "Feb": 4.71,
+        "Mar": 4.47,
+        "Apr": 4.61,
+        "May": 4.29,
+        "Jun": 3.97,
+        "Jul": 4.35,
+        "Aug": 4.94,
+        "Sep": 5.11,
+        "Oct": 5.04,
+        "Nov": 4.9,
+        "Dec": 4.7
+      },
+      "average": 4.65
+    },
+    {
+      "name": "Shepparton",
+      "admin1_code": "07",
+      "location": [
+        -36.38047,
+        145.39867
+      ],
+      "monthly": {
+        "Jan": 5.47,
+        "Feb": 5.48,
+        "Mar": 5.1,
+        "Apr": 4.45,
+        "May": 3.66,
+        "Jun": 3.15,
+        "Jul": 3.23,
+        "Aug": 3.87,
+        "Sep": 4.68,
+        "Oct": 5.07,
+        "Nov": 5.1,
+        "Dec": 5.42
+      },
+      "average": 4.56
+    },
+    {
+      "name": "Seven Hills",
+      "admin1_code": "02",
+      "location": [
+        -33.78333,
+        150.93333
+      ],
+      "monthly": {
+        "Jan": 4.2,
+        "Feb": 3.99,
+        "Mar": 3.94,
+        "Apr": 3.98,
+        "May": 3.97,
+        "Jun": 3.46,
+        "Jul": 4.01,
+        "Aug": 4.44,
+        "Sep": 4.83,
+        "Oct": 4.55,
+        "Nov": 4.3,
+        "Dec": 4.29
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Seaford",
+      "admin1_code": "07",
+      "location": [
+        -38.1,
+        145.13333
+      ],
+      "monthly": {
+        "Jan": 5.04,
+        "Feb": 4.84,
+        "Mar": 4.31,
+        "Apr": 3.43,
+        "May": 2.8,
+        "Jun": 2.51,
+        "Jul": 2.65,
+        "Aug": 3.25,
+        "Sep": 3.96,
+        "Oct": 4.45,
+        "Nov": 4.6,
+        "Dec": 4.99
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Saint Kilda",
+      "admin1_code": "07",
+      "location": [
+        -37.8676,
+        144.98099
+      ],
+      "monthly": {
+        "Jan": 5.05,
+        "Feb": 4.87,
+        "Mar": 4.37,
+        "Apr": 3.51,
+        "May": 2.84,
+        "Jun": 2.56,
+        "Jul": 2.72,
+        "Aug": 3.23,
+        "Sep": 3.9,
+        "Oct": 4.43,
+        "Nov": 4.51,
+        "Dec": 4.93
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Saint Ives",
+      "admin1_code": "02",
+      "location": [
+        -33.72976,
+        151.15977
+      ],
+      "monthly": {
+        "Jan": 4.22,
+        "Feb": 4.05,
+        "Mar": 3.93,
+        "Apr": 3.91,
+        "May": 3.88,
+        "Jun": 3.38,
+        "Jul": 3.93,
+        "Aug": 4.36,
+        "Sep": 4.79,
+        "Oct": 4.54,
+        "Nov": 4.33,
+        "Dec": 4.35
+      },
+      "average": 4.14
+    },
+    {
+      "name": "Saint Albans",
+      "admin1_code": "07",
+      "location": [
+        -37.73333,
+        144.8
+      ],
+      "monthly": {
+        "Jan": 4.94,
+        "Feb": 4.75,
+        "Mar": 4.31,
+        "Apr": 3.54,
+        "May": 2.97,
+        "Jun": 2.65,
+        "Jul": 2.88,
+        "Aug": 3.37,
+        "Sep": 3.98,
+        "Oct": 4.36,
+        "Nov": 4.43,
+        "Dec": 4.83
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Ryde",
+      "admin1_code": "02",
+      "location": [
+        -33.8188,
+        151.1062
+      ],
+      "monthly": {
+        "Jan": 4.22,
+        "Feb": 4.08,
+        "Mar": 3.94,
+        "Apr": 3.93,
+        "May": 3.89,
+        "Jun": 3.35,
+        "Jul": 3.9,
+        "Aug": 4.34,
+        "Sep": 4.79,
+        "Oct": 4.55,
+        "Nov": 4.33,
+        "Dec": 4.34
+      },
+      "average": 4.14
+    },
+    {
+      "name": "Rowville",
+      "admin1_code": "07",
+      "location": [
+        -37.93333,
+        145.23333
+      ],
+      "monthly": {
+        "Jan": 4.93,
+        "Feb": 4.69,
+        "Mar": 4.23,
+        "Apr": 3.39,
+        "May": 2.75,
+        "Jun": 2.51,
+        "Jul": 2.61,
+        "Aug": 3.11,
+        "Sep": 3.73,
+        "Oct": 4.26,
+        "Nov": 4.35,
+        "Dec": 4.83
+      },
+      "average": 3.78
+    },
+    {
+      "name": "Rockhampton",
+      "admin1_code": "04",
+      "location": [
+        -23.38032,
+        150.50595
+      ],
+      "monthly": {
+        "Jan": 4.54,
+        "Feb": 4.54,
+        "Mar": 4.51,
+        "Apr": 4.79,
+        "May": 4.42,
+        "Jun": 4.2,
+        "Jul": 4.51,
+        "Aug": 5.02,
+        "Sep": 5.19,
+        "Oct": 5.17,
+        "Nov": 4.84,
+        "Dec": 4.69
+      },
+      "average": 4.7
+    },
+    {
+      "name": "Rockdale",
+      "admin1_code": "02",
+      "location": [
+        -33.95,
+        151.13333
+      ],
+      "monthly": {
+        "Jan": 4.4,
+        "Feb": 4.27,
+        "Mar": 4.14,
+        "Apr": 4.08,
+        "May": 3.94,
+        "Jun": 3.38,
+        "Jul": 3.92,
+        "Aug": 4.39,
+        "Sep": 4.86,
+        "Oct": 4.7,
+        "Nov": 4.48,
+        "Dec": 4.52
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Ringwood",
+      "admin1_code": "07",
+      "location": [
+        -37.81667,
+        145.23333
+      ],
+      "monthly": {
+        "Jan": 4.96,
+        "Feb": 4.72,
+        "Mar": 4.26,
+        "Apr": 3.43,
+        "May": 2.74,
+        "Jun": 2.46,
+        "Jul": 2.56,
+        "Aug": 3.07,
+        "Sep": 3.67,
+        "Oct": 4.24,
+        "Nov": 4.36,
+        "Dec": 4.82
+      },
+      "average": 3.77
+    },
+    {
+      "name": "Richmond",
+      "admin1_code": "07",
+      "location": [
+        -37.81819,
+        145.00176
+      ],
+      "monthly": {
+        "Jan": 5.01,
+        "Feb": 4.83,
+        "Mar": 4.32,
+        "Apr": 3.5,
+        "May": 2.84,
+        "Jun": 2.57,
+        "Jul": 2.71,
+        "Aug": 3.23,
+        "Sep": 3.88,
+        "Oct": 4.36,
+        "Nov": 4.47,
+        "Dec": 4.91
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Reservoir",
+      "admin1_code": "07",
+      "location": [
+        -37.71667,
+        145
+      ],
+      "monthly": {
+        "Jan": 4.99,
+        "Feb": 4.79,
+        "Mar": 4.32,
+        "Apr": 3.5,
+        "May": 2.84,
+        "Jun": 2.57,
+        "Jul": 2.75,
+        "Aug": 3.24,
+        "Sep": 3.85,
+        "Oct": 4.33,
+        "Nov": 4.44,
+        "Dec": 4.87
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Quakers Hill",
+      "admin1_code": "02",
+      "location": [
+        -33.73333,
+        150.88333
+      ],
+      "monthly": {
+        "Jan": 4.2,
+        "Feb": 4.03,
+        "Mar": 3.96,
+        "Apr": 4.01,
+        "May": 4,
+        "Jun": 3.49,
+        "Jul": 4.02,
+        "Aug": 4.47,
+        "Sep": 4.86,
+        "Oct": 4.57,
+        "Nov": 4.31,
+        "Dec": 4.32
+      },
+      "average": 4.19
+    },
+    {
+      "name": "Preston",
+      "admin1_code": "07",
+      "location": [
+        -37.75,
+        145.01667
+      ],
+      "monthly": {
+        "Jan": 4.98,
+        "Feb": 4.8,
+        "Mar": 4.29,
+        "Apr": 3.5,
+        "May": 2.82,
+        "Jun": 2.54,
+        "Jul": 2.71,
+        "Aug": 3.22,
+        "Sep": 3.84,
+        "Oct": 4.32,
+        "Nov": 4.43,
+        "Dec": 4.87
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Port Melbourne",
+      "admin1_code": "07",
+      "location": [
+        -37.83961,
+        144.94228
+      ],
+      "monthly": {
+        "Jan": 5.02,
+        "Feb": 4.84,
+        "Mar": 4.33,
+        "Apr": 3.49,
+        "May": 2.82,
+        "Jun": 2.56,
+        "Jul": 2.71,
+        "Aug": 3.21,
+        "Sep": 3.88,
+        "Oct": 4.37,
+        "Nov": 4.47,
+        "Dec": 4.91
+      },
+      "average": 3.88
+    },
+    {
+      "name": "Port Macquarie",
+      "admin1_code": "02",
+      "location": [
+        -31.43084,
+        152.90894
+      ],
+      "monthly": {
+        "Jan": 4.71,
+        "Feb": 4.52,
+        "Mar": 4.28,
+        "Apr": 4.33,
+        "May": 4.03,
+        "Jun": 3.7,
+        "Jul": 4.06,
+        "Aug": 4.72,
+        "Sep": 5.04,
+        "Oct": 4.92,
+        "Nov": 4.69,
+        "Dec": 4.58
+      },
+      "average": 4.46
+    },
+    {
+      "name": "Point Cook",
+      "admin1_code": "07",
+      "location": [
+        -37.91482,
+        144.75088
+      ],
+      "monthly": {
+        "Jan": 5.09,
+        "Feb": 4.92,
+        "Mar": 4.44,
+        "Apr": 3.62,
+        "May": 3,
+        "Jun": 2.71,
+        "Jul": 2.94,
+        "Aug": 3.44,
+        "Sep": 4.07,
+        "Oct": 4.5,
+        "Nov": 4.57,
+        "Dec": 4.95
+      },
+      "average": 4.02
+    },
+    {
+      "name": "Pascoe Vale",
+      "admin1_code": "07",
+      "location": [
+        -37.73333,
+        144.93333
+      ],
+      "monthly": {
+        "Jan": 4.98,
+        "Feb": 4.78,
+        "Mar": 4.3,
+        "Apr": 3.5,
+        "May": 2.87,
+        "Jun": 2.59,
+        "Jul": 2.78,
+        "Aug": 3.27,
+        "Sep": 3.88,
+        "Oct": 4.33,
+        "Nov": 4.45,
+        "Dec": 4.85
+      },
+      "average": 3.88
+    },
+    {
+      "name": "Palm Beach",
+      "admin1_code": "04",
+      "location": [
+        -28.11694,
+        153.46584
+      ],
+      "monthly": {
+        "Jan": 4.64,
+        "Feb": 4.59,
+        "Mar": 4.36,
+        "Apr": 4.45,
+        "May": 4.18,
+        "Jun": 3.91,
+        "Jul": 4.28,
+        "Aug": 4.85,
+        "Sep": 5.06,
+        "Oct": 4.97,
+        "Nov": 4.83,
+        "Dec": 4.63
+      },
+      "average": 4.56
+    },
+    {
+      "name": "Pakenham",
+      "admin1_code": "07",
+      "location": [
+        -38.07018,
+        145.47411
+      ],
+      "monthly": {
+        "Jan": 4.8,
+        "Feb": 4.59,
+        "Mar": 4.18,
+        "Apr": 3.43,
+        "May": 2.89,
+        "Jun": 2.68,
+        "Jul": 2.79,
+        "Aug": 3.27,
+        "Sep": 3.8,
+        "Oct": 4.23,
+        "Nov": 4.25,
+        "Dec": 4.7
+      },
+      "average": 3.8
+    },
+    {
+      "name": "Orange",
+      "admin1_code": "02",
+      "location": [
+        -33.28397,
+        149.10018
+      ],
+      "monthly": {
+        "Jan": 5.16,
+        "Feb": 5.08,
+        "Mar": 4.85,
+        "Apr": 4.7,
+        "May": 4.09,
+        "Jun": 3.45,
+        "Jul": 3.8,
+        "Aug": 4.41,
+        "Sep": 5.22,
+        "Oct": 5.26,
+        "Nov": 5,
+        "Dec": 5.23
+      },
+      "average": 4.69
+    },
+    {
+      "name": "Officer",
+      "admin1_code": "07",
+      "location": [
+        -38.05916,
+        145.40947
+      ],
+      "monthly": {
+        "Jan": 4.81,
+        "Feb": 4.6,
+        "Mar": 4.2,
+        "Apr": 3.43,
+        "May": 2.86,
+        "Jun": 2.66,
+        "Jul": 2.76,
+        "Aug": 3.25,
+        "Sep": 3.78,
+        "Oct": 4.23,
+        "Nov": 4.27,
+        "Dec": 4.72
+      },
+      "average": 3.8
+    },
+    {
+      "name": "North Melbourne",
+      "admin1_code": "07",
+      "location": [
+        -37.79798,
+        144.94512
+      ],
+      "monthly": {
+        "Jan": 5.02,
+        "Feb": 4.83,
+        "Mar": 4.34,
+        "Apr": 3.51,
+        "May": 2.87,
+        "Jun": 2.59,
+        "Jul": 2.77,
+        "Aug": 3.26,
+        "Sep": 3.9,
+        "Oct": 4.37,
+        "Nov": 4.49,
+        "Dec": 4.9
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Northcote",
+      "admin1_code": "07",
+      "location": [
+        -37.76667,
+        145
+      ],
+      "monthly": {
+        "Jan": 4.99,
+        "Feb": 4.8,
+        "Mar": 4.29,
+        "Apr": 3.49,
+        "May": 2.83,
+        "Jun": 2.54,
+        "Jul": 2.71,
+        "Aug": 3.22,
+        "Sep": 3.85,
+        "Oct": 4.32,
+        "Nov": 4.45,
+        "Dec": 4.88
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Noble Park",
+      "admin1_code": "07",
+      "location": [
+        -37.96667,
+        145.16667
+      ],
+      "monthly": {
+        "Jan": 4.98,
+        "Feb": 4.76,
+        "Mar": 4.3,
+        "Apr": 3.48,
+        "May": 2.84,
+        "Jun": 2.61,
+        "Jul": 2.73,
+        "Aug": 3.26,
+        "Sep": 3.91,
+        "Oct": 4.38,
+        "Nov": 4.46,
+        "Dec": 4.91
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Newcastle",
+      "admin1_code": "02",
+      "location": [
+        -32.92953,
+        151.7801
+      ],
+      "monthly": {
+        "Jan": 4.73,
+        "Feb": 4.62,
+        "Mar": 4.44,
+        "Apr": 4.19,
+        "May": 3.84,
+        "Jun": 3.35,
+        "Jul": 3.84,
+        "Aug": 4.48,
+        "Sep": 4.93,
+        "Oct": 4.85,
+        "Nov": 4.69,
+        "Dec": 4.74
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Nerang",
+      "admin1_code": "04",
+      "location": [
+        -27.98941,
+        153.33633
+      ],
+      "monthly": {
+        "Jan": 4.43,
+        "Feb": 4.43,
+        "Mar": 4.23,
+        "Apr": 4.43,
+        "May": 4.19,
+        "Jun": 3.92,
+        "Jul": 4.29,
+        "Aug": 4.8,
+        "Sep": 4.93,
+        "Oct": 4.8,
+        "Nov": 4.62,
+        "Dec": 4.45
+      },
+      "average": 4.46
+    },
+    {
+      "name": "Narre Warren",
+      "admin1_code": "07",
+      "location": [
+        -38.03333,
+        145.3
+      ],
+      "monthly": {
+        "Jan": 4.86,
+        "Feb": 4.66,
+        "Mar": 4.2,
+        "Apr": 3.41,
+        "May": 2.79,
+        "Jun": 2.58,
+        "Jul": 2.66,
+        "Aug": 3.18,
+        "Sep": 3.8,
+        "Oct": 4.27,
+        "Nov": 4.35,
+        "Dec": 4.78
+      },
+      "average": 3.79
+    },
+    {
+      "name": "Narangba",
+      "admin1_code": "04",
+      "location": [
+        -27.20338,
+        152.95923
+      ],
+      "monthly": {
+        "Jan": 4.4,
+        "Feb": 4.41,
+        "Mar": 4.19,
+        "Apr": 4.49,
+        "May": 4.22,
+        "Jun": 4.01,
+        "Jul": 4.34,
+        "Aug": 4.88,
+        "Sep": 4.99,
+        "Oct": 4.86,
+        "Nov": 4.7,
+        "Dec": 4.42
+      },
+      "average": 4.49
+    },
+    {
+      "name": "Muswellbrook",
+      "admin1_code": "02",
+      "location": [
+        -32.26118,
+        150.89009
+      ],
+      "monthly": {
+        "Jan": 4.81,
+        "Feb": 4.67,
+        "Mar": 4.42,
+        "Apr": 4.35,
+        "May": 4,
+        "Jun": 3.49,
+        "Jul": 3.88,
+        "Aug": 4.53,
+        "Sep": 5.12,
+        "Oct": 5.02,
+        "Nov": 4.72,
+        "Dec": 4.78
+      },
+      "average": 4.48
+    },
+    {
+      "name": "Mulgrave",
+      "admin1_code": "07",
+      "location": [
+        -37.92845,
+        145.17708
+      ],
+      "monthly": {
+        "Jan": 4.97,
+        "Feb": 4.72,
+        "Mar": 4.27,
+        "Apr": 3.44,
+        "May": 2.78,
+        "Jun": 2.55,
+        "Jul": 2.67,
+        "Aug": 3.19,
+        "Sep": 3.81,
+        "Oct": 4.32,
+        "Nov": 4.39,
+        "Dec": 4.88
+      },
+      "average": 3.83
+    },
+    {
+      "name": "Mount Waverley",
+      "admin1_code": "07",
+      "location": [
+        -37.87709,
+        145.12939
+      ],
+      "monthly": {
+        "Jan": 5,
+        "Feb": 4.79,
+        "Mar": 4.32,
+        "Apr": 3.47,
+        "May": 2.81,
+        "Jun": 2.54,
+        "Jul": 2.68,
+        "Aug": 3.19,
+        "Sep": 3.82,
+        "Oct": 4.36,
+        "Nov": 4.43,
+        "Dec": 4.91
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Mount Martha",
+      "admin1_code": "07",
+      "location": [
+        -38.26667,
+        145.01667
+      ],
+      "monthly": {
+        "Jan": 5.08,
+        "Feb": 4.88,
+        "Mar": 4.36,
+        "Apr": 3.44,
+        "May": 2.79,
+        "Jun": 2.52,
+        "Jul": 2.65,
+        "Aug": 3.21,
+        "Sep": 3.91,
+        "Oct": 4.46,
+        "Nov": 4.58,
+        "Dec": 5.01
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Mount Gambier",
+      "admin1_code": "05",
+      "location": [
+        -37.8318,
+        140.77919
+      ],
+      "monthly": {
+        "Jan": 5.15,
+        "Feb": 4.84,
+        "Mar": 4.28,
+        "Apr": 3.38,
+        "May": 2.79,
+        "Jun": 2.54,
+        "Jul": 2.69,
+        "Aug": 3.25,
+        "Sep": 3.76,
+        "Oct": 4.23,
+        "Nov": 4.48,
+        "Dec": 4.95
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Mount Eliza",
+      "admin1_code": "07",
+      "location": [
+        -38.18333,
+        145.08333
+      ],
+      "monthly": {
+        "Jan": 5.04,
+        "Feb": 4.85,
+        "Mar": 4.3,
+        "Apr": 3.38,
+        "May": 2.74,
+        "Jun": 2.44,
+        "Jul": 2.6,
+        "Aug": 3.19,
+        "Sep": 3.89,
+        "Oct": 4.41,
+        "Nov": 4.55,
+        "Dec": 4.97
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Mount Druitt",
+      "admin1_code": "02",
+      "location": [
+        -33.76667,
+        150.81667
+      ],
+      "monthly": {
+        "Jan": 4.15,
+        "Feb": 4.02,
+        "Mar": 3.94,
+        "Apr": 4,
+        "May": 4.02,
+        "Jun": 3.52,
+        "Jul": 4.03,
+        "Aug": 4.47,
+        "Sep": 4.87,
+        "Oct": 4.55,
+        "Nov": 4.29,
+        "Dec": 4.3
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Mosman",
+      "admin1_code": "02",
+      "location": [
+        -33.83902,
+        151.23956
+      ],
+      "monthly": {
+        "Jan": 4.43,
+        "Feb": 4.27,
+        "Mar": 4.1,
+        "Apr": 3.97,
+        "May": 3.78,
+        "Jun": 3.22,
+        "Jul": 3.78,
+        "Aug": 4.29,
+        "Sep": 4.79,
+        "Oct": 4.66,
+        "Nov": 4.48,
+        "Dec": 4.53
+      },
+      "average": 4.19
+    },
+    {
+      "name": "Mornington",
+      "admin1_code": "07",
+      "location": [
+        -38.21792,
+        145.03876
+      ],
+      "monthly": {
+        "Jan": 5.09,
+        "Feb": 4.9,
+        "Mar": 4.37,
+        "Apr": 3.46,
+        "May": 2.81,
+        "Jun": 2.53,
+        "Jul": 2.69,
+        "Aug": 3.26,
+        "Sep": 3.97,
+        "Oct": 4.5,
+        "Nov": 4.63,
+        "Dec": 5.02
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Morayfield",
+      "admin1_code": "04",
+      "location": [
+        -27.10876,
+        152.94907
+      ],
+      "monthly": {
+        "Jan": 4.41,
+        "Feb": 4.44,
+        "Mar": 4.23,
+        "Apr": 4.54,
+        "May": 4.26,
+        "Jun": 4.03,
+        "Jul": 4.37,
+        "Aug": 4.9,
+        "Sep": 5.01,
+        "Oct": 4.9,
+        "Nov": 4.7,
+        "Dec": 4.42
+      },
+      "average": 4.52
+    },
+    {
+      "name": "South Morang",
+      "admin1_code": "07",
+      "location": [
+        -37.65,
+        145.1
+      ],
+      "monthly": {
+        "Jan": 4.91,
+        "Feb": 4.7,
+        "Mar": 4.24,
+        "Apr": 3.46,
+        "May": 2.77,
+        "Jun": 2.46,
+        "Jul": 2.65,
+        "Aug": 3.15,
+        "Sep": 3.76,
+        "Oct": 4.21,
+        "Nov": 4.34,
+        "Dec": 4.79
+      },
+      "average": 3.79
+    },
+    {
+      "name": "Mooroolbark",
+      "admin1_code": "07",
+      "location": [
+        -37.78247,
+        145.31682
+      ],
+      "monthly": {
+        "Jan": 4.95,
+        "Feb": 4.7,
+        "Mar": 4.23,
+        "Apr": 3.38,
+        "May": 2.66,
+        "Jun": 2.35,
+        "Jul": 2.42,
+        "Aug": 2.93,
+        "Sep": 3.58,
+        "Oct": 4.17,
+        "Nov": 4.33,
+        "Dec": 4.79
+      },
+      "average": 3.71
+    },
+    {
+      "name": "Moonee Ponds",
+      "admin1_code": "07",
+      "location": [
+        -37.76667,
+        144.91667
+      ],
+      "monthly": {
+        "Jan": 5.01,
+        "Feb": 4.83,
+        "Mar": 4.34,
+        "Apr": 3.54,
+        "May": 2.9,
+        "Jun": 2.62,
+        "Jul": 2.82,
+        "Aug": 3.3,
+        "Sep": 3.92,
+        "Oct": 4.37,
+        "Nov": 4.49,
+        "Dec": 4.89
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Mitcham",
+      "admin1_code": "07",
+      "location": [
+        -37.81667,
+        145.2
+      ],
+      "monthly": {
+        "Jan": 4.94,
+        "Feb": 4.72,
+        "Mar": 4.26,
+        "Apr": 3.43,
+        "May": 2.74,
+        "Jun": 2.48,
+        "Jul": 2.59,
+        "Aug": 3.08,
+        "Sep": 3.68,
+        "Oct": 4.26,
+        "Nov": 4.35,
+        "Dec": 4.81
+      },
+      "average": 3.78
+    },
+    {
+      "name": "Miranda",
+      "admin1_code": "02",
+      "location": [
+        -34.03857,
+        151.10005
+      ],
+      "monthly": {
+        "Jan": 4.46,
+        "Feb": 4.31,
+        "Mar": 4.18,
+        "Apr": 4.09,
+        "May": 3.95,
+        "Jun": 3.39,
+        "Jul": 3.92,
+        "Aug": 4.39,
+        "Sep": 4.88,
+        "Oct": 4.73,
+        "Nov": 4.53,
+        "Dec": 4.55
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Mill Park",
+      "admin1_code": "07",
+      "location": [
+        -37.66667,
+        145.06667
+      ],
+      "monthly": {
+        "Jan": 4.96,
+        "Feb": 4.75,
+        "Mar": 4.29,
+        "Apr": 3.5,
+        "May": 2.81,
+        "Jun": 2.52,
+        "Jul": 2.71,
+        "Aug": 3.2,
+        "Sep": 3.81,
+        "Oct": 4.28,
+        "Nov": 4.4,
+        "Dec": 4.85
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Mildura",
+      "admin1_code": "07",
+      "location": [
+        -34.18551,
+        142.16251
+      ],
+      "monthly": {
+        "Jan": 5.47,
+        "Feb": 5.57,
+        "Mar": 5.3,
+        "Apr": 4.72,
+        "May": 4.02,
+        "Jun": 3.54,
+        "Jul": 3.7,
+        "Aug": 4.32,
+        "Sep": 5.07,
+        "Oct": 5.31,
+        "Nov": 5.21,
+        "Dec": 5.48
+      },
+      "average": 4.81
+    },
+    {
+      "name": "Merrylands",
+      "admin1_code": "02",
+      "location": [
+        -33.83333,
+        150.98333
+      ],
+      "monthly": {
+        "Jan": 4.2,
+        "Feb": 4.01,
+        "Mar": 3.93,
+        "Apr": 3.97,
+        "May": 3.96,
+        "Jun": 3.47,
+        "Jul": 4.01,
+        "Aug": 4.42,
+        "Sep": 4.81,
+        "Oct": 4.57,
+        "Nov": 4.31,
+        "Dec": 4.31
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Mernda",
+      "admin1_code": "07",
+      "location": [
+        -37.60075,
+        145.09555
+      ],
+      "monthly": {
+        "Jan": 5.01,
+        "Feb": 4.81,
+        "Mar": 4.36,
+        "Apr": 3.55,
+        "May": 2.87,
+        "Jun": 2.56,
+        "Jul": 2.76,
+        "Aug": 3.27,
+        "Sep": 3.9,
+        "Oct": 4.32,
+        "Nov": 4.43,
+        "Dec": 4.88
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Melbourne",
+      "admin1_code": "07",
+      "location": [
+        -37.814,
+        144.96332
+      ],
+      "monthly": {
+        "Jan": 5,
+        "Feb": 4.82,
+        "Mar": 4.31,
+        "Apr": 3.49,
+        "May": 2.84,
+        "Jun": 2.57,
+        "Jul": 2.73,
+        "Aug": 3.22,
+        "Sep": 3.88,
+        "Oct": 4.35,
+        "Nov": 4.47,
+        "Dec": 4.88
+      },
+      "average": 3.88
+    },
+    {
+      "name": "Mascot",
+      "admin1_code": "02",
+      "location": [
+        -33.92598,
+        151.19347
+      ],
+      "monthly": {
+        "Jan": 4.46,
+        "Feb": 4.31,
+        "Mar": 4.18,
+        "Apr": 4.05,
+        "May": 3.92,
+        "Jun": 3.35,
+        "Jul": 3.91,
+        "Aug": 4.4,
+        "Sep": 4.89,
+        "Oct": 4.74,
+        "Nov": 4.52,
+        "Dec": 4.57
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Maryborough",
+      "admin1_code": "04",
+      "location": [
+        -25.54073,
+        152.70493
+      ],
+      "monthly": {
+        "Jan": 4.39,
+        "Feb": 4.35,
+        "Mar": 4.17,
+        "Apr": 4.46,
+        "May": 4.11,
+        "Jun": 3.94,
+        "Jul": 4.28,
+        "Aug": 4.82,
+        "Sep": 4.95,
+        "Oct": 4.92,
+        "Nov": 4.68,
+        "Dec": 4.49
+      },
+      "average": 4.46
+    },
+    {
+      "name": "Marrickville",
+      "admin1_code": "02",
+      "location": [
+        -33.90741,
+        151.15546
+      ],
+      "monthly": {
+        "Jan": 4.37,
+        "Feb": 4.23,
+        "Mar": 4.12,
+        "Apr": 4.05,
+        "May": 3.96,
+        "Jun": 3.4,
+        "Jul": 3.95,
+        "Aug": 4.4,
+        "Sep": 4.87,
+        "Oct": 4.7,
+        "Nov": 4.45,
+        "Dec": 4.49
+      },
+      "average": 4.25
+    },
+    {
+      "name": "Maroubra",
+      "admin1_code": "02",
+      "location": [
+        -33.95,
+        151.23333
+      ],
+      "monthly": {
+        "Jan": 4.57,
+        "Feb": 4.41,
+        "Mar": 4.25,
+        "Apr": 4.09,
+        "May": 3.9,
+        "Jun": 3.3,
+        "Jul": 3.88,
+        "Aug": 4.41,
+        "Sep": 4.93,
+        "Oct": 4.8,
+        "Nov": 4.63,
+        "Dec": 4.67
+      },
+      "average": 4.32
+    },
+    {
+      "name": "Manly",
+      "admin1_code": "02",
+      "location": [
+        -33.79798,
+        151.28826
+      ],
+      "monthly": {
+        "Jan": 4.48,
+        "Feb": 4.36,
+        "Mar": 4.19,
+        "Apr": 4.05,
+        "May": 3.83,
+        "Jun": 3.23,
+        "Jul": 3.83,
+        "Aug": 4.33,
+        "Sep": 4.82,
+        "Oct": 4.72,
+        "Nov": 4.53,
+        "Dec": 4.6
+      },
+      "average": 4.25
+    },
+    {
+      "name": "Maitland",
+      "admin1_code": "02",
+      "location": [
+        -32.73308,
+        151.5574
+      ],
+      "monthly": {
+        "Jan": 4.4,
+        "Feb": 4.26,
+        "Mar": 4.13,
+        "Apr": 4.05,
+        "May": 3.93,
+        "Jun": 3.52,
+        "Jul": 3.97,
+        "Aug": 4.54,
+        "Sep": 4.96,
+        "Oct": 4.72,
+        "Nov": 4.46,
+        "Dec": 4.45
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Mackay",
+      "admin1_code": "04",
+      "location": [
+        -21.15345,
+        149.16554
+      ],
+      "monthly": {
+        "Jan": 4.51,
+        "Feb": 4.42,
+        "Mar": 4.54,
+        "Apr": 4.72,
+        "May": 4.5,
+        "Jun": 4.32,
+        "Jul": 4.7,
+        "Aug": 5.26,
+        "Sep": 5.47,
+        "Oct": 5.38,
+        "Nov": 5.02,
+        "Dec": 4.76
+      },
+      "average": 4.8
+    },
+    {
+      "name": "Liverpool",
+      "admin1_code": "02",
+      "location": [
+        -33.91938,
+        150.92588
+      ],
+      "monthly": {
+        "Jan": 4.23,
+        "Feb": 4.05,
+        "Mar": 3.98,
+        "Apr": 4.02,
+        "May": 3.99,
+        "Jun": 3.48,
+        "Jul": 4.02,
+        "Aug": 4.45,
+        "Sep": 4.85,
+        "Oct": 4.61,
+        "Nov": 4.35,
+        "Dec": 4.34
+      },
+      "average": 4.2
+    },
+    {
+      "name": "Lilydale",
+      "admin1_code": "07",
+      "location": [
+        -37.75,
+        145.35
+      ],
+      "monthly": {
+        "Jan": 4.97,
+        "Feb": 4.75,
+        "Mar": 4.3,
+        "Apr": 3.46,
+        "May": 2.72,
+        "Jun": 2.41,
+        "Jul": 2.5,
+        "Aug": 3.02,
+        "Sep": 3.66,
+        "Oct": 4.21,
+        "Nov": 4.36,
+        "Dec": 4.82
+      },
+      "average": 3.77
+    },
+    {
+      "name": "Lidcombe",
+      "admin1_code": "02",
+      "location": [
+        -33.86436,
+        151.0397
+      ],
+      "monthly": {
+        "Jan": 4.26,
+        "Feb": 4.08,
+        "Mar": 3.98,
+        "Apr": 3.98,
+        "May": 3.96,
+        "Jun": 3.46,
+        "Jul": 3.99,
+        "Aug": 4.4,
+        "Sep": 4.83,
+        "Oct": 4.6,
+        "Nov": 4.35,
+        "Dec": 4.36
+      },
+      "average": 4.19
+    },
+    {
+      "name": "Launceston",
+      "admin1_code": "06",
+      "location": [
+        -41.43876,
+        147.13467
+      ],
+      "monthly": {
+        "Jan": 5.18,
+        "Feb": 4.98,
+        "Mar": 4.53,
+        "Apr": 3.77,
+        "May": 3.14,
+        "Jun": 2.8,
+        "Jul": 3.02,
+        "Aug": 3.4,
+        "Sep": 4.02,
+        "Oct": 4.71,
+        "Nov": 4.91,
+        "Dec": 5.14
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Lara",
+      "admin1_code": "07",
+      "location": [
+        -38.02388,
+        144.40617
+      ],
+      "monthly": {
+        "Jan": 5,
+        "Feb": 4.75,
+        "Mar": 4.26,
+        "Apr": 3.45,
+        "May": 2.98,
+        "Jun": 2.68,
+        "Jul": 2.92,
+        "Aug": 3.39,
+        "Sep": 3.98,
+        "Oct": 4.4,
+        "Nov": 4.43,
+        "Dec": 4.87
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Langwarrin",
+      "admin1_code": "07",
+      "location": [
+        -38.16667,
+        145.16667
+      ],
+      "monthly": {
+        "Jan": 4.95,
+        "Feb": 4.76,
+        "Mar": 4.28,
+        "Apr": 3.43,
+        "May": 2.84,
+        "Jun": 2.59,
+        "Jul": 2.7,
+        "Aug": 3.27,
+        "Sep": 3.93,
+        "Oct": 4.39,
+        "Nov": 4.48,
+        "Dec": 4.87
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Lalor",
+      "admin1_code": "07",
+      "location": [
+        -37.66667,
+        145.01667
+      ],
+      "monthly": {
+        "Jan": 4.99,
+        "Feb": 4.78,
+        "Mar": 4.35,
+        "Apr": 3.53,
+        "May": 2.88,
+        "Jun": 2.6,
+        "Jul": 2.79,
+        "Aug": 3.28,
+        "Sep": 3.89,
+        "Oct": 4.33,
+        "Nov": 4.44,
+        "Dec": 4.88
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Lakemba",
+      "admin1_code": "02",
+      "location": [
+        -33.91972,
+        151.07592
+      ],
+      "monthly": {
+        "Jan": 4.35,
+        "Feb": 4.18,
+        "Mar": 4.08,
+        "Apr": 4.05,
+        "May": 3.98,
+        "Jun": 3.47,
+        "Jul": 4,
+        "Aug": 4.45,
+        "Sep": 4.87,
+        "Oct": 4.68,
+        "Nov": 4.43,
+        "Dec": 4.44
+      },
+      "average": 4.25
+    },
+    {
+      "name": "Kogarah",
+      "admin1_code": "02",
+      "location": [
+        -33.9681,
+        151.13564
+      ],
+      "monthly": {
+        "Jan": 4.4,
+        "Feb": 4.26,
+        "Mar": 4.12,
+        "Apr": 4.04,
+        "May": 3.87,
+        "Jun": 3.3,
+        "Jul": 3.84,
+        "Aug": 4.32,
+        "Sep": 4.82,
+        "Oct": 4.66,
+        "Nov": 4.47,
+        "Dec": 4.52
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Keysborough",
+      "admin1_code": "07",
+      "location": [
+        -37.99116,
+        145.17385
+      ],
+      "monthly": {
+        "Jan": 4.99,
+        "Feb": 4.78,
+        "Mar": 4.32,
+        "Apr": 3.49,
+        "May": 2.86,
+        "Jun": 2.63,
+        "Jul": 2.74,
+        "Aug": 3.29,
+        "Sep": 3.95,
+        "Oct": 4.41,
+        "Nov": 4.49,
+        "Dec": 4.93
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Kew",
+      "admin1_code": "07",
+      "location": [
+        -37.80639,
+        145.03086
+      ],
+      "monthly": {
+        "Jan": 4.99,
+        "Feb": 4.8,
+        "Mar": 4.29,
+        "Apr": 3.49,
+        "May": 2.81,
+        "Jun": 2.53,
+        "Jul": 2.69,
+        "Aug": 3.2,
+        "Sep": 3.83,
+        "Oct": 4.33,
+        "Nov": 4.44,
+        "Dec": 4.89
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Kensington",
+      "admin1_code": "02",
+      "location": [
+        -33.92019,
+        151.22241
+      ],
+      "monthly": {
+        "Jan": 4.49,
+        "Feb": 4.34,
+        "Mar": 4.2,
+        "Apr": 4.05,
+        "May": 3.91,
+        "Jun": 3.34,
+        "Jul": 3.91,
+        "Aug": 4.4,
+        "Sep": 4.91,
+        "Oct": 4.76,
+        "Nov": 4.55,
+        "Dec": 4.6
+      },
+      "average": 4.29
+    },
+    {
+      "name": "Horsham",
+      "admin1_code": "07",
+      "location": [
+        -36.71131,
+        142.19981
+      ],
+      "monthly": {
+        "Jan": 5.53,
+        "Feb": 5.47,
+        "Mar": 4.97,
+        "Apr": 4.11,
+        "May": 3.38,
+        "Jun": 2.98,
+        "Jul": 3.05,
+        "Aug": 3.67,
+        "Sep": 4.34,
+        "Oct": 4.85,
+        "Nov": 4.98,
+        "Dec": 5.33
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Hornsby",
+      "admin1_code": "02",
+      "location": [
+        -33.70244,
+        151.09931
+      ],
+      "monthly": {
+        "Jan": 4.22,
+        "Feb": 4.04,
+        "Mar": 3.92,
+        "Apr": 3.91,
+        "May": 3.89,
+        "Jun": 3.4,
+        "Jul": 3.94,
+        "Aug": 4.36,
+        "Sep": 4.79,
+        "Oct": 4.53,
+        "Nov": 4.3,
+        "Dec": 4.33
+      },
+      "average": 4.14
+    },
+    {
+      "name": "Hobart",
+      "admin1_code": "06",
+      "location": [
+        -42.87936,
+        147.32941
+      ],
+      "monthly": {
+        "Jan": 4.75,
+        "Feb": 4.5,
+        "Mar": 3.98,
+        "Apr": 3.28,
+        "May": 2.69,
+        "Jun": 2.49,
+        "Jul": 2.76,
+        "Aug": 3.16,
+        "Sep": 3.78,
+        "Oct": 4.26,
+        "Nov": 4.33,
+        "Dec": 4.64
+      },
+      "average": 3.72
+    },
+    {
+      "name": "Hawthorn South",
+      "admin1_code": "07",
+      "location": [
+        -37.8329,
+        145.0367
+      ],
+      "monthly": {
+        "Jan": 5,
+        "Feb": 4.81,
+        "Mar": 4.3,
+        "Apr": 3.49,
+        "May": 2.82,
+        "Jun": 2.55,
+        "Jul": 2.69,
+        "Aug": 3.21,
+        "Sep": 3.85,
+        "Oct": 4.36,
+        "Nov": 4.46,
+        "Dec": 4.9
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Hawthorn",
+      "admin1_code": "07",
+      "location": [
+        -37.81992,
+        145.0358
+      ],
+      "monthly": {
+        "Jan": 4.99,
+        "Feb": 4.8,
+        "Mar": 4.29,
+        "Apr": 3.49,
+        "May": 2.8,
+        "Jun": 2.54,
+        "Jul": 2.68,
+        "Aug": 3.2,
+        "Sep": 3.83,
+        "Oct": 4.34,
+        "Nov": 4.45,
+        "Dec": 4.89
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Hampton Park",
+      "admin1_code": "07",
+      "location": [
+        -38.03333,
+        145.25
+      ],
+      "monthly": {
+        "Jan": 4.92,
+        "Feb": 4.71,
+        "Mar": 4.26,
+        "Apr": 3.46,
+        "May": 2.83,
+        "Jun": 2.6,
+        "Jul": 2.7,
+        "Aug": 3.24,
+        "Sep": 3.89,
+        "Oct": 4.34,
+        "Nov": 4.43,
+        "Dec": 4.85
+      },
+      "average": 3.85
+    },
+    {
+      "name": "Gympie",
+      "admin1_code": "04",
+      "location": [
+        -26.18979,
+        152.66499
+      ],
+      "monthly": {
+        "Jan": 4.29,
+        "Feb": 4.25,
+        "Mar": 4.1,
+        "Apr": 4.46,
+        "May": 4.2,
+        "Jun": 4.01,
+        "Jul": 4.3,
+        "Aug": 4.83,
+        "Sep": 4.93,
+        "Oct": 4.84,
+        "Nov": 4.6,
+        "Dec": 4.44
+      },
+      "average": 4.44
+    },
+    {
+      "name": "Griffith",
+      "admin1_code": "02",
+      "location": [
+        -34.28853,
+        146.05093
+      ],
+      "monthly": {
+        "Jan": 5.31,
+        "Feb": 5.41,
+        "Mar": 5.16,
+        "Apr": 4.78,
+        "May": 4.14,
+        "Jun": 3.53,
+        "Jul": 3.79,
+        "Aug": 4.38,
+        "Sep": 5.16,
+        "Oct": 5.28,
+        "Nov": 5.14,
+        "Dec": 5.38
+      },
+      "average": 4.79
+    },
+    {
+      "name": "Greenvale",
+      "admin1_code": "07",
+      "location": [
+        -37.63333,
+        144.86667
+      ],
+      "monthly": {
+        "Jan": 4.96,
+        "Feb": 4.75,
+        "Mar": 4.32,
+        "Apr": 3.55,
+        "May": 2.94,
+        "Jun": 2.62,
+        "Jul": 2.83,
+        "Aug": 3.34,
+        "Sep": 3.98,
+        "Oct": 4.32,
+        "Nov": 4.45,
+        "Dec": 4.83
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Greensborough",
+      "admin1_code": "07",
+      "location": [
+        -37.70462,
+        145.10302
+      ],
+      "monthly": {
+        "Jan": 4.94,
+        "Feb": 4.73,
+        "Mar": 4.26,
+        "Apr": 3.47,
+        "May": 2.78,
+        "Jun": 2.49,
+        "Jul": 2.67,
+        "Aug": 3.14,
+        "Sep": 3.74,
+        "Oct": 4.24,
+        "Nov": 4.36,
+        "Dec": 4.82
+      },
+      "average": 3.8
+    },
+    {
+      "name": "Granville",
+      "admin1_code": "02",
+      "location": [
+        -33.8406,
+        151.00748
+      ],
+      "monthly": {
+        "Jan": 4.22,
+        "Feb": 4.03,
+        "Mar": 3.94,
+        "Apr": 3.97,
+        "May": 3.95,
+        "Jun": 3.47,
+        "Jul": 4.01,
+        "Aug": 4.4,
+        "Sep": 4.81,
+        "Oct": 4.58,
+        "Nov": 4.33,
+        "Dec": 4.33
+      },
+      "average": 4.17
+    },
+    {
+      "name": "Grafton",
+      "admin1_code": "02",
+      "location": [
+        -29.68104,
+        152.93394
+      ],
+      "monthly": {
+        "Jan": 4.42,
+        "Feb": 4.41,
+        "Mar": 4.14,
+        "Apr": 4.39,
+        "May": 4.21,
+        "Jun": 4,
+        "Jul": 4.35,
+        "Aug": 4.88,
+        "Sep": 4.96,
+        "Oct": 4.77,
+        "Nov": 4.52,
+        "Dec": 4.43
+      },
+      "average": 4.46
+    },
+    {
+      "name": "Goulburn",
+      "admin1_code": "02",
+      "location": [
+        -34.75155,
+        149.72086
+      ],
+      "monthly": {
+        "Jan": 4.74,
+        "Feb": 4.59,
+        "Mar": 4.4,
+        "Apr": 4.22,
+        "May": 3.98,
+        "Jun": 3.31,
+        "Jul": 3.79,
+        "Aug": 4.32,
+        "Sep": 5.04,
+        "Oct": 5.04,
+        "Nov": 4.76,
+        "Dec": 4.89
+      },
+      "average": 4.42
+    },
+    {
+      "name": "Gold Coast",
+      "admin1_code": "04",
+      "location": [
+        -28.00029,
+        153.43088
+      ],
+      "monthly": {
+        "Jan": 4.71,
+        "Feb": 4.7,
+        "Mar": 4.43,
+        "Apr": 4.55,
+        "May": 4.24,
+        "Jun": 3.92,
+        "Jul": 4.29,
+        "Aug": 4.9,
+        "Sep": 5.1,
+        "Oct": 5.04,
+        "Nov": 4.89,
+        "Dec": 4.68
+      },
+      "average": 4.62
+    },
+    {
+      "name": "Glen Waverley",
+      "admin1_code": "07",
+      "location": [
+        -37.87811,
+        145.16476
+      ],
+      "monthly": {
+        "Jan": 4.98,
+        "Feb": 4.74,
+        "Mar": 4.28,
+        "Apr": 3.45,
+        "May": 2.79,
+        "Jun": 2.53,
+        "Jul": 2.65,
+        "Aug": 3.16,
+        "Sep": 3.77,
+        "Oct": 4.32,
+        "Nov": 4.39,
+        "Dec": 4.87
+      },
+      "average": 3.83
+    },
+    {
+      "name": "Glenroy",
+      "admin1_code": "07",
+      "location": [
+        -37.7,
+        144.93333
+      ],
+      "monthly": {
+        "Jan": 4.99,
+        "Feb": 4.79,
+        "Mar": 4.32,
+        "Apr": 3.51,
+        "May": 2.89,
+        "Jun": 2.61,
+        "Jul": 2.8,
+        "Aug": 3.29,
+        "Sep": 3.9,
+        "Oct": 4.33,
+        "Nov": 4.45,
+        "Dec": 4.85
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Glen Iris",
+      "admin1_code": "07",
+      "location": [
+        -37.86667,
+        145.06667
+      ],
+      "monthly": {
+        "Jan": 4.99,
+        "Feb": 4.81,
+        "Mar": 4.31,
+        "Apr": 3.48,
+        "May": 2.82,
+        "Jun": 2.55,
+        "Jul": 2.7,
+        "Aug": 3.21,
+        "Sep": 3.86,
+        "Oct": 4.38,
+        "Nov": 4.46,
+        "Dec": 4.91
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Glenferrie",
+      "admin1_code": "07",
+      "location": [
+        -37.83333,
+        145.05
+      ],
+      "monthly": {
+        "Jan": 4.98,
+        "Feb": 4.8,
+        "Mar": 4.28,
+        "Apr": 3.49,
+        "May": 2.8,
+        "Jun": 2.53,
+        "Jul": 2.67,
+        "Aug": 3.18,
+        "Sep": 3.81,
+        "Oct": 4.34,
+        "Nov": 4.44,
+        "Dec": 4.89
+      },
+      "average": 3.85
+    },
+    {
+      "name": "Gladstone",
+      "admin1_code": "04",
+      "location": [
+        -23.84852,
+        151.25775
+      ],
+      "monthly": {
+        "Jan": 4.81,
+        "Feb": 4.81,
+        "Mar": 4.76,
+        "Apr": 4.97,
+        "May": 4.58,
+        "Jun": 4.3,
+        "Jul": 4.64,
+        "Aug": 5.18,
+        "Sep": 5.39,
+        "Oct": 5.37,
+        "Nov": 5.05,
+        "Dec": 4.94
+      },
+      "average": 4.9
+    },
+    {
+      "name": "Geelong",
+      "admin1_code": "07",
+      "location": [
+        -38.14711,
+        144.36069
+      ],
+      "monthly": {
+        "Jan": 4.99,
+        "Feb": 4.71,
+        "Mar": 4.23,
+        "Apr": 3.36,
+        "May": 2.91,
+        "Jun": 2.61,
+        "Jul": 2.83,
+        "Aug": 3.3,
+        "Sep": 3.92,
+        "Oct": 4.38,
+        "Nov": 4.4,
+        "Dec": 4.87
+      },
+      "average": 3.88
+    },
+    {
+      "name": "Frankston East",
+      "admin1_code": "07",
+      "location": [
+        -38.13333,
+        145.13333
+      ],
+      "monthly": {
+        "Jan": 5.03,
+        "Feb": 4.83,
+        "Mar": 4.31,
+        "Apr": 3.42,
+        "May": 2.79,
+        "Jun": 2.5,
+        "Jul": 2.63,
+        "Aug": 3.23,
+        "Sep": 3.95,
+        "Oct": 4.44,
+        "Nov": 4.57,
+        "Dec": 4.97
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Frankston",
+      "admin1_code": "07",
+      "location": [
+        -38.14458,
+        145.12291
+      ],
+      "monthly": {
+        "Jan": 5.01,
+        "Feb": 4.82,
+        "Mar": 4.3,
+        "Apr": 3.4,
+        "May": 2.77,
+        "Jun": 2.47,
+        "Jul": 2.61,
+        "Aug": 3.2,
+        "Sep": 3.92,
+        "Oct": 4.41,
+        "Nov": 4.54,
+        "Dec": 4.95
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Footscray",
+      "admin1_code": "07",
+      "location": [
+        -37.8,
+        144.9
+      ],
+      "monthly": {
+        "Jan": 5.02,
+        "Feb": 4.84,
+        "Mar": 4.36,
+        "Apr": 3.55,
+        "May": 2.91,
+        "Jun": 2.64,
+        "Jul": 2.82,
+        "Aug": 3.32,
+        "Sep": 3.94,
+        "Oct": 4.4,
+        "Nov": 4.5,
+        "Dec": 4.9
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Fairfield",
+      "admin1_code": "02",
+      "location": [
+        -33.86667,
+        150.95
+      ],
+      "monthly": {
+        "Jan": 4.21,
+        "Feb": 4.01,
+        "Mar": 3.94,
+        "Apr": 3.97,
+        "May": 3.98,
+        "Jun": 3.46,
+        "Jul": 4.01,
+        "Aug": 4.43,
+        "Sep": 4.83,
+        "Oct": 4.58,
+        "Nov": 4.32,
+        "Dec": 4.31
+      },
+      "average": 4.17
+    },
+    {
+      "name": "Essendon",
+      "admin1_code": "07",
+      "location": [
+        -37.74981,
+        144.9109
+      ],
+      "monthly": {
+        "Jan": 5,
+        "Feb": 4.81,
+        "Mar": 4.32,
+        "Apr": 3.52,
+        "May": 2.89,
+        "Jun": 2.6,
+        "Jul": 2.82,
+        "Aug": 3.3,
+        "Sep": 3.89,
+        "Oct": 4.35,
+        "Nov": 4.47,
+        "Dec": 4.87
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Epping",
+      "admin1_code": "07",
+      "location": [
+        -37.65,
+        145.03333
+      ],
+      "monthly": {
+        "Jan": 4.98,
+        "Feb": 4.78,
+        "Mar": 4.34,
+        "Apr": 3.53,
+        "May": 2.88,
+        "Jun": 2.6,
+        "Jul": 2.78,
+        "Aug": 3.28,
+        "Sep": 3.89,
+        "Oct": 4.33,
+        "Nov": 4.43,
+        "Dec": 4.87
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Epping",
+      "admin1_code": "02",
+      "location": [
+        -33.77271,
+        151.08184
+      ],
+      "monthly": {
+        "Jan": 4.19,
+        "Feb": 4.01,
+        "Mar": 3.89,
+        "Apr": 3.91,
+        "May": 3.9,
+        "Jun": 3.39,
+        "Jul": 3.93,
+        "Aug": 4.35,
+        "Sep": 4.8,
+        "Oct": 4.52,
+        "Nov": 4.29,
+        "Dec": 4.3
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Engadine",
+      "admin1_code": "02",
+      "location": [
+        -34.06564,
+        151.01266
+      ],
+      "monthly": {
+        "Jan": 4.36,
+        "Feb": 4.18,
+        "Mar": 4.09,
+        "Apr": 4.07,
+        "May": 4,
+        "Jun": 3.47,
+        "Jul": 4.01,
+        "Aug": 4.44,
+        "Sep": 4.89,
+        "Oct": 4.69,
+        "Nov": 4.44,
+        "Dec": 4.46
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Eltham",
+      "admin1_code": "07",
+      "location": [
+        -37.73333,
+        145.15
+      ],
+      "monthly": {
+        "Jan": 4.92,
+        "Feb": 4.7,
+        "Mar": 4.22,
+        "Apr": 3.42,
+        "May": 2.71,
+        "Jun": 2.42,
+        "Jul": 2.59,
+        "Aug": 3.05,
+        "Sep": 3.64,
+        "Oct": 4.2,
+        "Nov": 4.32,
+        "Dec": 4.8
+      },
+      "average": 3.75
+    },
+    {
+      "name": "Eight Mile Plains",
+      "admin1_code": "04",
+      "location": [
+        -27.58333,
+        153.1
+      ],
+      "monthly": {
+        "Jan": 4.36,
+        "Feb": 4.4,
+        "Mar": 4.17,
+        "Apr": 4.42,
+        "May": 4.18,
+        "Jun": 3.96,
+        "Jul": 4.32,
+        "Aug": 4.82,
+        "Sep": 4.94,
+        "Oct": 4.8,
+        "Nov": 4.66,
+        "Dec": 4.44
+      },
+      "average": 4.46
+    },
+    {
+      "name": "Echuca",
+      "admin1_code": "07",
+      "location": [
+        -36.14057,
+        144.75185
+      ],
+      "monthly": {
+        "Jan": 5.46,
+        "Feb": 5.48,
+        "Mar": 5.14,
+        "Apr": 4.48,
+        "May": 3.7,
+        "Jun": 3.21,
+        "Jul": 3.36,
+        "Aug": 3.94,
+        "Sep": 4.71,
+        "Oct": 5.11,
+        "Nov": 5.11,
+        "Dec": 5.42
+      },
+      "average": 4.59
+    },
+    {
+      "name": "Eastwood",
+      "admin1_code": "02",
+      "location": [
+        -33.79176,
+        151.08057
+      ],
+      "monthly": {
+        "Jan": 4.2,
+        "Feb": 4.03,
+        "Mar": 3.91,
+        "Apr": 3.92,
+        "May": 3.9,
+        "Jun": 3.38,
+        "Jul": 3.92,
+        "Aug": 4.35,
+        "Sep": 4.79,
+        "Oct": 4.53,
+        "Nov": 4.3,
+        "Dec": 4.31
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Earlwood",
+      "admin1_code": "02",
+      "location": [
+        -33.9209,
+        151.12506
+      ],
+      "monthly": {
+        "Jan": 4.38,
+        "Feb": 4.24,
+        "Mar": 4.12,
+        "Apr": 4.08,
+        "May": 3.97,
+        "Jun": 3.42,
+        "Jul": 3.96,
+        "Aug": 4.42,
+        "Sep": 4.88,
+        "Oct": 4.71,
+        "Nov": 4.45,
+        "Dec": 4.49
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Dubbo",
+      "admin1_code": "02",
+      "location": [
+        -32.24295,
+        148.60484
+      ],
+      "monthly": {
+        "Jan": 5.22,
+        "Feb": 5.17,
+        "Mar": 4.99,
+        "Apr": 4.86,
+        "May": 4.34,
+        "Jun": 3.67,
+        "Jul": 4.02,
+        "Aug": 4.65,
+        "Sep": 5.32,
+        "Oct": 5.25,
+        "Nov": 5.03,
+        "Dec": 5.22
+      },
+      "average": 4.81
+    },
+    {
+      "name": "Doreen",
+      "admin1_code": "07",
+      "location": [
+        -37.6,
+        145.15
+      ],
+      "monthly": {
+        "Jan": 4.96,
+        "Feb": 4.76,
+        "Mar": 4.32,
+        "Apr": 3.5,
+        "May": 2.82,
+        "Jun": 2.51,
+        "Jul": 2.7,
+        "Aug": 3.2,
+        "Sep": 3.79,
+        "Oct": 4.24,
+        "Nov": 4.36,
+        "Dec": 4.82
+      },
+      "average": 3.83
+    },
+    {
+      "name": "Doncaster East",
+      "admin1_code": "07",
+      "location": [
+        -37.78761,
+        145.14888
+      ],
+      "monthly": {
+        "Jan": 4.96,
+        "Feb": 4.75,
+        "Mar": 4.28,
+        "Apr": 3.45,
+        "May": 2.75,
+        "Jun": 2.48,
+        "Jul": 2.61,
+        "Aug": 3.09,
+        "Sep": 3.69,
+        "Oct": 4.27,
+        "Nov": 4.37,
+        "Dec": 4.83
+      },
+      "average": 3.79
+    },
+    {
+      "name": "Doncaster",
+      "admin1_code": "07",
+      "location": [
+        -37.78828,
+        145.12373
+      ],
+      "monthly": {
+        "Jan": 4.95,
+        "Feb": 4.75,
+        "Mar": 4.28,
+        "Apr": 3.45,
+        "May": 2.77,
+        "Jun": 2.48,
+        "Jul": 2.62,
+        "Aug": 3.12,
+        "Sep": 3.71,
+        "Oct": 4.27,
+        "Nov": 4.36,
+        "Dec": 4.83
+      },
+      "average": 3.8
+    },
+    {
+      "name": "Devonport",
+      "admin1_code": "06",
+      "location": [
+        -41.17695,
+        146.35152
+      ],
+      "monthly": {
+        "Jan": 5.35,
+        "Feb": 5.13,
+        "Mar": 4.55,
+        "Apr": 3.81,
+        "May": 3.09,
+        "Jun": 2.8,
+        "Jul": 2.92,
+        "Aug": 3.45,
+        "Sep": 4.16,
+        "Oct": 4.9,
+        "Nov": 5.07,
+        "Dec": 5.31
+      },
+      "average": 4.21
+    },
+    {
+      "name": "Deer Park",
+      "admin1_code": "07",
+      "location": [
+        -37.76722,
+        144.76657
+      ],
+      "monthly": {
+        "Jan": 4.94,
+        "Feb": 4.75,
+        "Mar": 4.31,
+        "Apr": 3.55,
+        "May": 2.98,
+        "Jun": 2.67,
+        "Jul": 2.91,
+        "Aug": 3.41,
+        "Sep": 4.02,
+        "Oct": 4.38,
+        "Nov": 4.44,
+        "Dec": 4.84
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Deception Bay",
+      "admin1_code": "04",
+      "location": [
+        -27.19354,
+        153.02631
+      ],
+      "monthly": {
+        "Jan": 4.62,
+        "Feb": 4.61,
+        "Mar": 4.41,
+        "Apr": 4.66,
+        "May": 4.32,
+        "Jun": 4.04,
+        "Jul": 4.38,
+        "Aug": 4.96,
+        "Sep": 5.13,
+        "Oct": 5.06,
+        "Nov": 4.87,
+        "Dec": 4.61
+      },
+      "average": 4.64
+    },
+    {
+      "name": "Dandenong",
+      "admin1_code": "07",
+      "location": [
+        -37.98333,
+        145.2
+      ],
+      "monthly": {
+        "Jan": 4.95,
+        "Feb": 4.72,
+        "Mar": 4.26,
+        "Apr": 3.44,
+        "May": 2.81,
+        "Jun": 2.57,
+        "Jul": 2.68,
+        "Aug": 3.2,
+        "Sep": 3.85,
+        "Oct": 4.34,
+        "Nov": 4.42,
+        "Dec": 4.88
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Croydon",
+      "admin1_code": "07",
+      "location": [
+        -37.8,
+        145.28333
+      ],
+      "monthly": {
+        "Jan": 4.97,
+        "Feb": 4.72,
+        "Mar": 4.25,
+        "Apr": 3.45,
+        "May": 2.71,
+        "Jun": 2.44,
+        "Jul": 2.5,
+        "Aug": 3.03,
+        "Sep": 3.64,
+        "Oct": 4.21,
+        "Nov": 4.38,
+        "Dec": 4.82
+      },
+      "average": 3.76
+    },
+    {
+      "name": "Cronulla",
+      "admin1_code": "02",
+      "location": [
+        -34.06251,
+        151.14961
+      ],
+      "monthly": {
+        "Jan": 4.54,
+        "Feb": 4.39,
+        "Mar": 4.25,
+        "Apr": 4.09,
+        "May": 3.91,
+        "Jun": 3.32,
+        "Jul": 3.88,
+        "Aug": 4.37,
+        "Sep": 4.89,
+        "Oct": 4.76,
+        "Nov": 4.59,
+        "Dec": 4.62
+      },
+      "average": 4.3
+    },
+    {
+      "name": "Cranbourne",
+      "admin1_code": "07",
+      "location": [
+        -38.11342,
+        145.28326
+      ],
+      "monthly": {
+        "Jan": 4.91,
+        "Feb": 4.74,
+        "Mar": 4.28,
+        "Apr": 3.44,
+        "May": 2.87,
+        "Jun": 2.63,
+        "Jul": 2.74,
+        "Aug": 3.28,
+        "Sep": 3.92,
+        "Oct": 4.35,
+        "Nov": 4.45,
+        "Dec": 4.84
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Craigieburn",
+      "admin1_code": "07",
+      "location": [
+        -37.6,
+        144.95
+      ],
+      "monthly": {
+        "Jan": 5,
+        "Feb": 4.8,
+        "Mar": 4.39,
+        "Apr": 3.59,
+        "May": 2.98,
+        "Jun": 2.66,
+        "Jul": 2.85,
+        "Aug": 3.36,
+        "Sep": 3.98,
+        "Oct": 4.36,
+        "Nov": 4.47,
+        "Dec": 4.89
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Corio",
+      "admin1_code": "07",
+      "location": [
+        -38.08333,
+        144.38333
+      ],
+      "monthly": {
+        "Jan": 4.97,
+        "Feb": 4.71,
+        "Mar": 4.21,
+        "Apr": 3.35,
+        "May": 2.88,
+        "Jun": 2.58,
+        "Jul": 2.8,
+        "Aug": 3.28,
+        "Sep": 3.89,
+        "Oct": 4.33,
+        "Nov": 4.35,
+        "Dec": 4.81
+      },
+      "average": 3.85
+    },
+    {
+      "name": "Coorparoo",
+      "admin1_code": "04",
+      "location": [
+        -27.49325,
+        153.05826
+      ],
+      "monthly": {
+        "Jan": 4.34,
+        "Feb": 4.36,
+        "Mar": 4.12,
+        "Apr": 4.38,
+        "May": 4.17,
+        "Jun": 3.96,
+        "Jul": 4.32,
+        "Aug": 4.81,
+        "Sep": 4.93,
+        "Oct": 4.79,
+        "Nov": 4.65,
+        "Dec": 4.43
+      },
+      "average": 4.44
+    },
+    {
+      "name": "Coogee",
+      "admin1_code": "02",
+      "location": [
+        -33.9205,
+        151.25522
+      ],
+      "monthly": {
+        "Jan": 4.53,
+        "Feb": 4.38,
+        "Mar": 4.2,
+        "Apr": 4.04,
+        "May": 3.83,
+        "Jun": 3.23,
+        "Jul": 3.82,
+        "Aug": 4.34,
+        "Sep": 4.86,
+        "Oct": 4.75,
+        "Nov": 4.59,
+        "Dec": 4.64
+      },
+      "average": 4.27
+    },
+    {
+      "name": "Coffs Harbour",
+      "admin1_code": "02",
+      "location": [
+        -30.29626,
+        153.11351
+      ],
+      "monthly": {
+        "Jan": 4.5,
+        "Feb": 4.46,
+        "Mar": 4.15,
+        "Apr": 4.3,
+        "May": 4.12,
+        "Jun": 3.85,
+        "Jul": 4.23,
+        "Aug": 4.8,
+        "Sep": 4.95,
+        "Oct": 4.77,
+        "Nov": 4.57,
+        "Dec": 4.43
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Coburg",
+      "admin1_code": "07",
+      "location": [
+        -37.75,
+        144.96667
+      ],
+      "monthly": {
+        "Jan": 5.01,
+        "Feb": 4.82,
+        "Mar": 4.32,
+        "Apr": 3.51,
+        "May": 2.87,
+        "Jun": 2.59,
+        "Jul": 2.77,
+        "Aug": 3.26,
+        "Sep": 3.89,
+        "Oct": 4.35,
+        "Nov": 4.48,
+        "Dec": 4.9
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Clayton",
+      "admin1_code": "07",
+      "location": [
+        -37.91667,
+        145.11667
+      ],
+      "monthly": {
+        "Jan": 5.03,
+        "Feb": 4.82,
+        "Mar": 4.35,
+        "Apr": 3.5,
+        "May": 2.85,
+        "Jun": 2.59,
+        "Jul": 2.74,
+        "Aug": 3.28,
+        "Sep": 3.91,
+        "Oct": 4.42,
+        "Nov": 4.49,
+        "Dec": 4.95
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Wollongong",
+      "admin1_code": "02",
+      "location": [
+        -34.424,
+        150.89345
+      ],
+      "monthly": {
+        "Jan": 4.3,
+        "Feb": 4.11,
+        "Mar": 4,
+        "Apr": 4,
+        "May": 3.89,
+        "Jun": 3.33,
+        "Jul": 3.87,
+        "Aug": 4.31,
+        "Sep": 4.81,
+        "Oct": 4.61,
+        "Nov": 4.35,
+        "Dec": 4.36
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Chatswood",
+      "admin1_code": "02",
+      "location": [
+        -33.8,
+        151.18333
+      ],
+      "monthly": {
+        "Jan": 4.29,
+        "Feb": 4.13,
+        "Mar": 4.02,
+        "Apr": 3.96,
+        "May": 3.91,
+        "Jun": 3.38,
+        "Jul": 3.93,
+        "Aug": 4.39,
+        "Sep": 4.82,
+        "Oct": 4.59,
+        "Nov": 4.36,
+        "Dec": 4.39
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Cessnock",
+      "admin1_code": "02",
+      "location": [
+        -32.83211,
+        151.35623
+      ],
+      "monthly": {
+        "Jan": 4.33,
+        "Feb": 4.19,
+        "Mar": 4.06,
+        "Apr": 4.03,
+        "May": 3.95,
+        "Jun": 3.51,
+        "Jul": 3.97,
+        "Aug": 4.49,
+        "Sep": 4.91,
+        "Oct": 4.6,
+        "Nov": 4.38,
+        "Dec": 4.35
+      },
+      "average": 4.23
+    },
+    {
+      "name": "Caulfield North",
+      "admin1_code": "07",
+      "location": [
+        -37.8739,
+        145.02485
+      ],
+      "monthly": {
+        "Jan": 5.04,
+        "Feb": 4.86,
+        "Mar": 4.37,
+        "Apr": 3.54,
+        "May": 2.89,
+        "Jun": 2.62,
+        "Jul": 2.77,
+        "Aug": 3.29,
+        "Sep": 3.96,
+        "Oct": 4.47,
+        "Nov": 4.52,
+        "Dec": 4.95
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Castle Hill",
+      "admin1_code": "02",
+      "location": [
+        -33.73333,
+        151
+      ],
+      "monthly": {
+        "Jan": 4.22,
+        "Feb": 4.03,
+        "Mar": 3.92,
+        "Apr": 3.94,
+        "May": 3.93,
+        "Jun": 3.44,
+        "Jul": 3.95,
+        "Aug": 4.38,
+        "Sep": 4.82,
+        "Oct": 4.55,
+        "Nov": 4.31,
+        "Dec": 4.32
+      },
+      "average": 4.15
+    },
+    {
+      "name": "Carrum Downs",
+      "admin1_code": "07",
+      "location": [
+        -38.09968,
+        145.17248
+      ],
+      "monthly": {
+        "Jan": 5.02,
+        "Feb": 4.84,
+        "Mar": 4.34,
+        "Apr": 3.48,
+        "May": 2.88,
+        "Jun": 2.6,
+        "Jul": 2.73,
+        "Aug": 3.31,
+        "Sep": 4.01,
+        "Oct": 4.49,
+        "Nov": 4.58,
+        "Dec": 4.97
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Carnegie",
+      "admin1_code": "07",
+      "location": [
+        -37.89359,
+        145.05534
+      ],
+      "monthly": {
+        "Jan": 5.04,
+        "Feb": 4.85,
+        "Mar": 4.36,
+        "Apr": 3.53,
+        "May": 2.87,
+        "Jun": 2.6,
+        "Jul": 2.76,
+        "Aug": 3.29,
+        "Sep": 3.96,
+        "Oct": 4.47,
+        "Nov": 4.54,
+        "Dec": 4.97
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Carlton",
+      "admin1_code": "07",
+      "location": [
+        -37.8,
+        144.96667
+      ],
+      "monthly": {
+        "Jan": 5.01,
+        "Feb": 4.83,
+        "Mar": 4.33,
+        "Apr": 3.51,
+        "May": 2.85,
+        "Jun": 2.57,
+        "Jul": 2.73,
+        "Aug": 3.24,
+        "Sep": 3.88,
+        "Oct": 4.36,
+        "Nov": 4.48,
+        "Dec": 4.91
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Carlingford",
+      "admin1_code": "02",
+      "location": [
+        -33.78269,
+        151.04888
+      ],
+      "monthly": {
+        "Jan": 4.18,
+        "Feb": 4,
+        "Mar": 3.89,
+        "Apr": 3.91,
+        "May": 3.91,
+        "Jun": 3.4,
+        "Jul": 3.95,
+        "Aug": 4.36,
+        "Sep": 4.79,
+        "Oct": 4.52,
+        "Nov": 4.28,
+        "Dec": 4.29
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Capalaba",
+      "admin1_code": "04",
+      "location": [
+        -27.54333,
+        153.20287
+      ],
+      "monthly": {
+        "Jan": 4.52,
+        "Feb": 4.57,
+        "Mar": 4.32,
+        "Apr": 4.52,
+        "May": 4.25,
+        "Jun": 3.98,
+        "Jul": 4.37,
+        "Aug": 4.9,
+        "Sep": 5.09,
+        "Oct": 4.97,
+        "Nov": 4.81,
+        "Dec": 4.59
+      },
+      "average": 4.57
+    },
+    {
+      "name": "Canberra",
+      "admin1_code": "01",
+      "location": [
+        -35.28346,
+        149.12807
+      ],
+      "monthly": {
+        "Jan": 4.95,
+        "Feb": 4.79,
+        "Mar": 4.68,
+        "Apr": 4.4,
+        "May": 4.14,
+        "Jun": 3.48,
+        "Jul": 3.91,
+        "Aug": 4.41,
+        "Sep": 5.06,
+        "Oct": 5.05,
+        "Nov": 4.87,
+        "Dec": 5.03
+      },
+      "average": 4.56
+    },
+    {
+      "name": "Camberwell",
+      "admin1_code": "07",
+      "location": [
+        -37.84205,
+        145.0694
+      ],
+      "monthly": {
+        "Jan": 4.96,
+        "Feb": 4.77,
+        "Mar": 4.28,
+        "Apr": 3.46,
+        "May": 2.79,
+        "Jun": 2.52,
+        "Jul": 2.67,
+        "Aug": 3.16,
+        "Sep": 3.8,
+        "Oct": 4.33,
+        "Nov": 4.41,
+        "Dec": 4.87
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Caloundra",
+      "admin1_code": "04",
+      "location": [
+        -26.80346,
+        153.12195
+      ],
+      "monthly": {
+        "Jan": 4.7,
+        "Feb": 4.58,
+        "Mar": 4.37,
+        "Apr": 4.58,
+        "May": 4.19,
+        "Jun": 3.98,
+        "Jul": 4.31,
+        "Aug": 4.94,
+        "Sep": 5.14,
+        "Oct": 5.12,
+        "Nov": 4.93,
+        "Dec": 4.68
+      },
+      "average": 4.63
+    },
+    {
+      "name": "Cairns",
+      "admin1_code": "04",
+      "location": [
+        -16.92366,
+        145.76613
+      ],
+      "monthly": {
+        "Jan": 4.21,
+        "Feb": 4.22,
+        "Mar": 4.29,
+        "Apr": 4.23,
+        "May": 3.96,
+        "Jun": 3.85,
+        "Jul": 4.1,
+        "Aug": 4.65,
+        "Sep": 5.04,
+        "Oct": 5.15,
+        "Nov": 4.9,
+        "Dec": 4.61
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Caboolture",
+      "admin1_code": "04",
+      "location": [
+        -27.08465,
+        152.9511
+      ],
+      "monthly": {
+        "Jan": 4.4,
+        "Feb": 4.45,
+        "Mar": 4.23,
+        "Apr": 4.55,
+        "May": 4.27,
+        "Jun": 4.03,
+        "Jul": 4.37,
+        "Aug": 4.9,
+        "Sep": 5.02,
+        "Oct": 4.91,
+        "Nov": 4.71,
+        "Dec": 4.43
+      },
+      "average": 4.52
+    },
+    {
+      "name": "Burwood",
+      "admin1_code": "02",
+      "location": [
+        -33.88333,
+        151.1
+      ],
+      "monthly": {
+        "Jan": 4.32,
+        "Feb": 4.17,
+        "Mar": 4.03,
+        "Apr": 4.01,
+        "May": 3.96,
+        "Jun": 3.41,
+        "Jul": 3.97,
+        "Aug": 4.41,
+        "Sep": 4.85,
+        "Oct": 4.65,
+        "Nov": 4.41,
+        "Dec": 4.44
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Burnie",
+      "admin1_code": "06",
+      "location": [
+        -41.05584,
+        145.90375
+      ],
+      "monthly": {
+        "Jan": 5.18,
+        "Feb": 4.99,
+        "Mar": 4.28,
+        "Apr": 3.5,
+        "May": 2.76,
+        "Jun": 2.55,
+        "Jul": 2.61,
+        "Aug": 3.11,
+        "Sep": 3.81,
+        "Oct": 4.61,
+        "Nov": 4.86,
+        "Dec": 5.08
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Bundaberg",
+      "admin1_code": "04",
+      "location": [
+        -24.86621,
+        152.3479
+      ],
+      "monthly": {
+        "Jan": 4.67,
+        "Feb": 4.64,
+        "Mar": 4.53,
+        "Apr": 4.76,
+        "May": 4.42,
+        "Jun": 4.18,
+        "Jul": 4.55,
+        "Aug": 5.08,
+        "Sep": 5.22,
+        "Oct": 5.17,
+        "Nov": 4.93,
+        "Dec": 4.76
+      },
+      "average": 4.74
+    },
+    {
+      "name": "Buderim",
+      "admin1_code": "04",
+      "location": [
+        -26.68443,
+        153.05705
+      ],
+      "monthly": {
+        "Jan": 4.42,
+        "Feb": 4.31,
+        "Mar": 4.1,
+        "Apr": 4.38,
+        "May": 4.09,
+        "Jun": 3.95,
+        "Jul": 4.28,
+        "Aug": 4.85,
+        "Sep": 4.97,
+        "Oct": 4.9,
+        "Nov": 4.72,
+        "Dec": 4.47
+      },
+      "average": 4.45
+    },
+    {
+      "name": "Brunswick",
+      "admin1_code": "07",
+      "location": [
+        -37.76667,
+        144.96667
+      ],
+      "monthly": {
+        "Jan": 5.01,
+        "Feb": 4.82,
+        "Mar": 4.32,
+        "Apr": 3.51,
+        "May": 2.86,
+        "Jun": 2.57,
+        "Jul": 2.75,
+        "Aug": 3.25,
+        "Sep": 3.88,
+        "Oct": 4.35,
+        "Nov": 4.48,
+        "Dec": 4.9
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Broken Hill",
+      "admin1_code": "02",
+      "location": [
+        -31.9652,
+        141.4512
+      ],
+      "monthly": {
+        "Jan": 5.39,
+        "Feb": 5.61,
+        "Mar": 5.33,
+        "Apr": 5.12,
+        "May": 4.49,
+        "Jun": 4.1,
+        "Jul": 4.33,
+        "Aug": 4.97,
+        "Sep": 5.56,
+        "Oct": 5.53,
+        "Nov": 5.29,
+        "Dec": 5.44
+      },
+      "average": 5.1
+    },
+    {
+      "name": "Brisbane",
+      "admin1_code": "04",
+      "location": [
+        -27.46794,
+        153.02809
+      ],
+      "monthly": {
+        "Jan": 4.25,
+        "Feb": 4.26,
+        "Mar": 4.04,
+        "Apr": 4.33,
+        "May": 4.14,
+        "Jun": 3.93,
+        "Jul": 4.3,
+        "Aug": 4.78,
+        "Sep": 4.89,
+        "Oct": 4.76,
+        "Nov": 4.58,
+        "Dec": 4.34
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Brighton",
+      "admin1_code": "07",
+      "location": [
+        -37.90561,
+        145.00279
+      ],
+      "monthly": {
+        "Jan": 5.06,
+        "Feb": 4.89,
+        "Mar": 4.39,
+        "Apr": 3.55,
+        "May": 2.87,
+        "Jun": 2.6,
+        "Jul": 2.76,
+        "Aug": 3.29,
+        "Sep": 3.98,
+        "Oct": 4.48,
+        "Nov": 4.55,
+        "Dec": 4.96
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Boronia",
+      "admin1_code": "07",
+      "location": [
+        -37.86667,
+        145.28333
+      ],
+      "monthly": {
+        "Jan": 4.9,
+        "Feb": 4.65,
+        "Mar": 4.18,
+        "Apr": 3.37,
+        "May": 2.69,
+        "Jun": 2.42,
+        "Jul": 2.48,
+        "Aug": 2.96,
+        "Sep": 3.6,
+        "Oct": 4.16,
+        "Nov": 4.29,
+        "Dec": 4.77
+      },
+      "average": 3.71
+    },
+    {
+      "name": "Blacktown",
+      "admin1_code": "02",
+      "location": [
+        -33.76667,
+        150.91667
+      ],
+      "monthly": {
+        "Jan": 4.19,
+        "Feb": 3.99,
+        "Mar": 3.92,
+        "Apr": 3.97,
+        "May": 3.97,
+        "Jun": 3.46,
+        "Jul": 4,
+        "Aug": 4.44,
+        "Sep": 4.82,
+        "Oct": 4.55,
+        "Nov": 4.29,
+        "Dec": 4.28
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Bexley",
+      "admin1_code": "02",
+      "location": [
+        -33.95,
+        151.11667
+      ],
+      "monthly": {
+        "Jan": 4.4,
+        "Feb": 4.28,
+        "Mar": 4.15,
+        "Apr": 4.11,
+        "May": 3.97,
+        "Jun": 3.42,
+        "Jul": 3.96,
+        "Aug": 4.42,
+        "Sep": 4.89,
+        "Oct": 4.73,
+        "Nov": 4.5,
+        "Dec": 4.52
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Berwick",
+      "admin1_code": "07",
+      "location": [
+        -38.03333,
+        145.35
+      ],
+      "monthly": {
+        "Jan": 4.81,
+        "Feb": 4.61,
+        "Mar": 4.17,
+        "Apr": 3.38,
+        "May": 2.79,
+        "Jun": 2.57,
+        "Jul": 2.66,
+        "Aug": 3.16,
+        "Sep": 3.73,
+        "Oct": 4.21,
+        "Nov": 4.28,
+        "Dec": 4.72
+      },
+      "average": 3.76
+    },
+    {
+      "name": "Bentleigh East",
+      "admin1_code": "07",
+      "location": [
+        -37.91928,
+        145.05301
+      ],
+      "monthly": {
+        "Jan": 5.05,
+        "Feb": 4.87,
+        "Mar": 4.38,
+        "Apr": 3.55,
+        "May": 2.9,
+        "Jun": 2.63,
+        "Jul": 2.79,
+        "Aug": 3.33,
+        "Sep": 4,
+        "Oct": 4.5,
+        "Nov": 4.56,
+        "Dec": 4.97
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Bentleigh",
+      "admin1_code": "07",
+      "location": [
+        -37.91806,
+        145.03544
+      ],
+      "monthly": {
+        "Jan": 5.06,
+        "Feb": 4.88,
+        "Mar": 4.4,
+        "Apr": 3.56,
+        "May": 2.9,
+        "Jun": 2.64,
+        "Jul": 2.8,
+        "Aug": 3.34,
+        "Sep": 4.02,
+        "Oct": 4.51,
+        "Nov": 4.57,
+        "Dec": 4.98
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Bendigo",
+      "admin1_code": "07",
+      "location": [
+        -36.75818,
+        144.28024
+      ],
+      "monthly": {
+        "Jan": 5.53,
+        "Feb": 5.48,
+        "Mar": 5.03,
+        "Apr": 4.26,
+        "May": 3.43,
+        "Jun": 2.93,
+        "Jul": 2.97,
+        "Aug": 3.68,
+        "Sep": 4.45,
+        "Oct": 5.02,
+        "Nov": 5.04,
+        "Dec": 5.4
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Baulkham Hills",
+      "admin1_code": "02",
+      "location": [
+        -33.75881,
+        150.99292
+      ],
+      "monthly": {
+        "Jan": 4.19,
+        "Feb": 3.99,
+        "Mar": 3.89,
+        "Apr": 3.93,
+        "May": 3.92,
+        "Jun": 3.41,
+        "Jul": 3.94,
+        "Aug": 4.36,
+        "Sep": 4.79,
+        "Oct": 4.52,
+        "Nov": 4.28,
+        "Dec": 4.29
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Bathurst",
+      "admin1_code": "02",
+      "location": [
+        -33.41665,
+        149.5806
+      ],
+      "monthly": {
+        "Jan": 5.03,
+        "Feb": 4.95,
+        "Mar": 4.75,
+        "Apr": 4.57,
+        "May": 4.04,
+        "Jun": 3.35,
+        "Jul": 3.73,
+        "Aug": 4.41,
+        "Sep": 5.19,
+        "Oct": 5.2,
+        "Nov": 4.93,
+        "Dec": 5.15
+      },
+      "average": 4.61
+    },
+    {
+      "name": "Batemans Bay",
+      "admin1_code": "02",
+      "location": [
+        -35.70658,
+        150.17541
+      ],
+      "monthly": {
+        "Jan": 4.26,
+        "Feb": 4.12,
+        "Mar": 4.06,
+        "Apr": 4.03,
+        "May": 4.02,
+        "Jun": 3.44,
+        "Jul": 4,
+        "Aug": 4.38,
+        "Sep": 4.76,
+        "Oct": 4.61,
+        "Nov": 4.25,
+        "Dec": 4.28
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Banora Point",
+      "admin1_code": "02",
+      "location": [
+        -28.21298,
+        153.53634
+      ],
+      "monthly": {
+        "Jan": 4.69,
+        "Feb": 4.63,
+        "Mar": 4.37,
+        "Apr": 4.45,
+        "May": 4.15,
+        "Jun": 3.88,
+        "Jul": 4.24,
+        "Aug": 4.86,
+        "Sep": 5.06,
+        "Oct": 4.98,
+        "Nov": 4.84,
+        "Dec": 4.63
+      },
+      "average": 4.57
+    },
+    {
+      "name": "Bankstown",
+      "admin1_code": "02",
+      "location": [
+        -33.91667,
+        151.03333
+      ],
+      "monthly": {
+        "Jan": 4.28,
+        "Feb": 4.1,
+        "Mar": 4.02,
+        "Apr": 4.02,
+        "May": 3.98,
+        "Jun": 3.47,
+        "Jul": 3.97,
+        "Aug": 4.43,
+        "Sep": 4.84,
+        "Oct": 4.63,
+        "Nov": 4.39,
+        "Dec": 4.38
+      },
+      "average": 4.21
+    },
+    {
+      "name": "Ballarat",
+      "admin1_code": "07",
+      "location": [
+        -37.56622,
+        143.84957
+      ],
+      "monthly": {
+        "Jan": 5.3,
+        "Feb": 5.09,
+        "Mar": 4.56,
+        "Apr": 3.56,
+        "May": 2.9,
+        "Jun": 2.48,
+        "Jul": 2.62,
+        "Aug": 3.21,
+        "Sep": 3.89,
+        "Oct": 4.47,
+        "Nov": 4.64,
+        "Dec": 5.09
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Bairnsdale",
+      "admin1_code": "07",
+      "location": [
+        -37.82289,
+        147.61041
+      ],
+      "monthly": {
+        "Jan": 4.6,
+        "Feb": 4.48,
+        "Mar": 4.19,
+        "Apr": 3.81,
+        "May": 3.49,
+        "Jun": 3.03,
+        "Jul": 3.44,
+        "Aug": 3.89,
+        "Sep": 4.43,
+        "Oct": 4.51,
+        "Nov": 4.34,
+        "Dec": 4.64
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Bacchus Marsh",
+      "admin1_code": "07",
+      "location": [
+        -37.67268,
+        144.43829
+      ],
+      "monthly": {
+        "Jan": 4.91,
+        "Feb": 4.66,
+        "Mar": 4.24,
+        "Apr": 3.51,
+        "May": 3.1,
+        "Jun": 2.73,
+        "Jul": 3.04,
+        "Aug": 3.54,
+        "Sep": 4.18,
+        "Oct": 4.44,
+        "Nov": 4.44,
+        "Dec": 4.87
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Auburn",
+      "admin1_code": "02",
+      "location": [
+        -33.85,
+        151.03333
+      ],
+      "monthly": {
+        "Jan": 4.25,
+        "Feb": 4.07,
+        "Mar": 3.97,
+        "Apr": 3.98,
+        "May": 3.96,
+        "Jun": 3.47,
+        "Jul": 4,
+        "Aug": 4.4,
+        "Sep": 4.83,
+        "Oct": 4.6,
+        "Nov": 4.35,
+        "Dec": 4.35
+      },
+      "average": 4.19
+    },
+    {
+      "name": "Ashfield",
+      "admin1_code": "02",
+      "location": [
+        -33.88834,
+        151.12274
+      ],
+      "monthly": {
+        "Jan": 4.33,
+        "Feb": 4.19,
+        "Mar": 4.05,
+        "Apr": 4.03,
+        "May": 3.96,
+        "Jun": 3.41,
+        "Jul": 3.96,
+        "Aug": 4.41,
+        "Sep": 4.85,
+        "Oct": 4.66,
+        "Nov": 4.42,
+        "Dec": 4.45
+      },
+      "average": 4.23
+    },
+    {
+      "name": "Ascot Vale",
+      "admin1_code": "07",
+      "location": [
+        -37.77988,
+        144.92276
+      ],
+      "monthly": {
+        "Jan": 5.01,
+        "Feb": 4.83,
+        "Mar": 4.34,
+        "Apr": 3.54,
+        "May": 2.9,
+        "Jun": 2.63,
+        "Jul": 2.82,
+        "Aug": 3.31,
+        "Sep": 3.93,
+        "Oct": 4.38,
+        "Nov": 4.49,
+        "Dec": 4.89
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Armidale",
+      "admin1_code": "02",
+      "location": [
+        -30.50123,
+        151.66553
+      ],
+      "monthly": {
+        "Jan": 4.81,
+        "Feb": 4.72,
+        "Mar": 4.57,
+        "Apr": 4.55,
+        "May": 4.28,
+        "Jun": 3.82,
+        "Jul": 4.21,
+        "Aug": 4.93,
+        "Sep": 5.33,
+        "Oct": 5.22,
+        "Nov": 4.85,
+        "Dec": 4.85
+      },
+      "average": 4.68
+    },
+    {
+      "name": "Albany Creek",
+      "admin1_code": "04",
+      "location": [
+        -27.35364,
+        152.96848
+      ],
+      "monthly": {
+        "Jan": 4.29,
+        "Feb": 4.24,
+        "Mar": 4.03,
+        "Apr": 4.33,
+        "May": 4.13,
+        "Jun": 3.95,
+        "Jul": 4.3,
+        "Aug": 4.82,
+        "Sep": 4.91,
+        "Oct": 4.81,
+        "Nov": 4.62,
+        "Dec": 4.36
+      },
+      "average": 4.4
+    },
+    {
+      "name": "Maroochydore",
+      "admin1_code": "04",
+      "location": [
+        -26.66008,
+        153.09953
+      ],
+      "monthly": {
+        "Jan": 4.67,
+        "Feb": 4.57,
+        "Mar": 4.32,
+        "Apr": 4.57,
+        "May": 4.17,
+        "Jun": 3.98,
+        "Jul": 4.3,
+        "Aug": 4.94,
+        "Sep": 5.13,
+        "Oct": 5.1,
+        "Nov": 4.93,
+        "Dec": 4.69
+      },
+      "average": 4.61
+    },
+    {
+      "name": "Cheltenham",
+      "admin1_code": "07",
+      "location": [
+        -37.96944,
+        145.04806
+      ],
+      "monthly": {
+        "Jan": 5.06,
+        "Feb": 4.88,
+        "Mar": 4.37,
+        "Apr": 3.52,
+        "May": 2.87,
+        "Jun": 2.59,
+        "Jul": 2.73,
+        "Aug": 3.29,
+        "Sep": 3.98,
+        "Oct": 4.48,
+        "Nov": 4.57,
+        "Dec": 4.98
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Randwick",
+      "admin1_code": "02",
+      "location": [
+        -33.91439,
+        151.24895
+      ],
+      "monthly": {
+        "Jan": 4.52,
+        "Feb": 4.38,
+        "Mar": 4.21,
+        "Apr": 4.05,
+        "May": 3.86,
+        "Jun": 3.27,
+        "Jul": 3.85,
+        "Aug": 4.36,
+        "Sep": 4.89,
+        "Oct": 4.76,
+        "Nov": 4.59,
+        "Dec": 4.63
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Dee Why",
+      "admin1_code": "02",
+      "location": [
+        -33.7511,
+        151.28886
+      ],
+      "monthly": {
+        "Jan": 4.48,
+        "Feb": 4.36,
+        "Mar": 4.21,
+        "Apr": 4.08,
+        "May": 3.87,
+        "Jun": 3.32,
+        "Jul": 3.9,
+        "Aug": 4.37,
+        "Sep": 4.87,
+        "Oct": 4.73,
+        "Nov": 4.52,
+        "Dec": 4.57
+      },
+      "average": 4.27
+    },
+    {
+      "name": "Umina Beach",
+      "admin1_code": "02",
+      "location": [
+        -33.52314,
+        151.31325
+      ],
+      "monthly": {
+        "Jan": 4.35,
+        "Feb": 4.27,
+        "Mar": 4.14,
+        "Apr": 4.07,
+        "May": 3.87,
+        "Jun": 3.34,
+        "Jul": 3.89,
+        "Aug": 4.38,
+        "Sep": 4.84,
+        "Oct": 4.65,
+        "Nov": 4.47,
+        "Dec": 4.46
+      },
+      "average": 4.23
+    },
+    {
+      "name": "Palmerston",
+      "admin1_code": "03",
+      "location": [
+        -12.48602,
+        130.9833
+      ],
+      "monthly": {
+        "Jan": 3.55,
+        "Feb": 3.89,
+        "Mar": 4.31,
+        "Apr": 4.94,
+        "May": 5.07,
+        "Jun": 5.12,
+        "Jul": 5.26,
+        "Aug": 5.44,
+        "Sep": 5.16,
+        "Oct": 4.78,
+        "Nov": 4.18,
+        "Dec": 3.77
+      },
+      "average": 4.62
+    },
+    {
+      "name": "Hervey Bay",
+      "admin1_code": "04",
+      "location": [
+        -25.28762,
+        152.76936
+      ],
+      "monthly": {
+        "Jan": 4.63,
+        "Feb": 4.52,
+        "Mar": 4.39,
+        "Apr": 4.6,
+        "May": 4.27,
+        "Jun": 4.05,
+        "Jul": 4.39,
+        "Aug": 4.98,
+        "Sep": 5.14,
+        "Oct": 5.12,
+        "Nov": 4.92,
+        "Dec": 4.74
+      },
+      "average": 4.65
+    },
+    {
+      "name": "Blue Mountains",
+      "admin1_code": "02",
+      "location": [
+        -33.71331,
+        150.33065
+      ],
+      "monthly": {
+        "Jan": 4.12,
+        "Feb": 3.89,
+        "Mar": 3.82,
+        "Apr": 3.99,
+        "May": 3.94,
+        "Jun": 3.41,
+        "Jul": 3.96,
+        "Aug": 4.49,
+        "Sep": 5.03,
+        "Oct": 4.7,
+        "Nov": 4.34,
+        "Dec": 4.33
+      },
+      "average": 4.17
+    },
+    {
+      "name": "Sydney Central Business District",
+      "admin1_code": "02",
+      "location": [
+        -33.86482,
+        151.20773
+      ],
+      "monthly": {
+        "Jan": 4.38,
+        "Feb": 4.21,
+        "Mar": 4.06,
+        "Apr": 3.93,
+        "May": 3.82,
+        "Jun": 3.26,
+        "Jul": 3.81,
+        "Aug": 4.28,
+        "Sep": 4.79,
+        "Oct": 4.65,
+        "Nov": 4.44,
+        "Dec": 4.5
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Kingsford",
+      "admin1_code": "02",
+      "location": [
+        -33.92399,
+        151.22749
+      ],
+      "monthly": {
+        "Jan": 4.51,
+        "Feb": 4.35,
+        "Mar": 4.21,
+        "Apr": 4.06,
+        "May": 3.89,
+        "Jun": 3.32,
+        "Jul": 3.89,
+        "Aug": 4.39,
+        "Sep": 4.9,
+        "Oct": 4.76,
+        "Nov": 4.57,
+        "Dec": 4.62
+      },
+      "average": 4.29
+    },
+    {
+      "name": "Springfield Lakes",
+      "admin1_code": "04",
+      "location": [
+        -27.66757,
+        152.92488
+      ],
+      "monthly": {
+        "Jan": 4.27,
+        "Feb": 4.32,
+        "Mar": 4.1,
+        "Apr": 4.41,
+        "May": 4.19,
+        "Jun": 4,
+        "Jul": 4.34,
+        "Aug": 4.82,
+        "Sep": 4.89,
+        "Oct": 4.71,
+        "Nov": 4.55,
+        "Dec": 4.35
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Bracken Ridge",
+      "admin1_code": "04",
+      "location": [
+        -27.3171,
+        153.03097
+      ],
+      "monthly": {
+        "Jan": 4.55,
+        "Feb": 4.5,
+        "Mar": 4.28,
+        "Apr": 4.5,
+        "May": 4.25,
+        "Jun": 4,
+        "Jul": 4.36,
+        "Aug": 4.92,
+        "Sep": 5.06,
+        "Oct": 5.01,
+        "Nov": 4.84,
+        "Dec": 4.57
+      },
+      "average": 4.57
+    },
+    {
+      "name": "Kallangur",
+      "admin1_code": "04",
+      "location": [
+        -27.25204,
+        152.99226
+      ],
+      "monthly": {
+        "Jan": 4.52,
+        "Feb": 4.52,
+        "Mar": 4.31,
+        "Apr": 4.55,
+        "May": 4.29,
+        "Jun": 4.03,
+        "Jul": 4.38,
+        "Aug": 4.93,
+        "Sep": 5.06,
+        "Oct": 4.97,
+        "Nov": 4.81,
+        "Dec": 4.53
+      },
+      "average": 4.58
+    },
+    {
+      "name": "North Lakes",
+      "admin1_code": "04",
+      "location": [
+        -27.22426,
+        153.02075
+      ],
+      "monthly": {
+        "Jan": 4.59,
+        "Feb": 4.6,
+        "Mar": 4.4,
+        "Apr": 4.67,
+        "May": 4.36,
+        "Jun": 4.08,
+        "Jul": 4.42,
+        "Aug": 4.99,
+        "Sep": 5.15,
+        "Oct": 5.05,
+        "Nov": 4.88,
+        "Dec": 4.6
+      },
+      "average": 4.65
+    },
+    {
+      "name": "The Gap",
+      "admin1_code": "04",
+      "location": [
+        -27.44187,
+        152.93861
+      ],
+      "monthly": {
+        "Jan": 4.08,
+        "Feb": 4.05,
+        "Mar": 3.87,
+        "Apr": 4.26,
+        "May": 4.11,
+        "Jun": 3.91,
+        "Jul": 4.25,
+        "Aug": 4.74,
+        "Sep": 4.78,
+        "Oct": 4.62,
+        "Nov": 4.43,
+        "Dec": 4.19
+      },
+      "average": 4.27
+    },
+    {
+      "name": "Pittwater",
+      "admin1_code": "02",
+      "location": [
+        -33.66623,
+        151.30171
+      ],
+      "monthly": {
+        "Jan": 4.47,
+        "Feb": 4.37,
+        "Mar": 4.21,
+        "Apr": 4.06,
+        "May": 3.86,
+        "Jun": 3.33,
+        "Jul": 3.87,
+        "Aug": 4.36,
+        "Sep": 4.86,
+        "Oct": 4.72,
+        "Nov": 4.53,
+        "Dec": 4.57
+      },
+      "average": 4.27
+    },
+    {
+      "name": "Caroline Springs",
+      "admin1_code": "07",
+      "location": [
+        -37.74124,
+        144.73631
+      ],
+      "monthly": {
+        "Jan": 4.93,
+        "Feb": 4.72,
+        "Mar": 4.28,
+        "Apr": 3.54,
+        "May": 2.98,
+        "Jun": 2.67,
+        "Jul": 2.93,
+        "Aug": 3.42,
+        "Sep": 4.03,
+        "Oct": 4.35,
+        "Nov": 4.42,
+        "Dec": 4.84
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Hoppers Crossing",
+      "admin1_code": "07",
+      "location": [
+        -37.88264,
+        144.7003
+      ],
+      "monthly": {
+        "Jan": 5.02,
+        "Feb": 4.82,
+        "Mar": 4.36,
+        "Apr": 3.56,
+        "May": 3,
+        "Jun": 2.72,
+        "Jul": 2.94,
+        "Aug": 3.42,
+        "Sep": 4.05,
+        "Oct": 4.44,
+        "Nov": 4.5,
+        "Dec": 4.88
+      },
+      "average": 3.98
+    },
+    {
+      "name": "Logan City",
+      "admin1_code": "04",
+      "location": [
+        -27.63917,
+        153.10944
+      ],
+      "monthly": {
+        "Jan": 4.36,
+        "Feb": 4.41,
+        "Mar": 4.18,
+        "Apr": 4.39,
+        "May": 4.19,
+        "Jun": 3.94,
+        "Jul": 4.31,
+        "Aug": 4.82,
+        "Sep": 4.95,
+        "Oct": 4.81,
+        "Nov": 4.65,
+        "Dec": 4.43
+      },
+      "average": 4.45
+    },
+    {
+      "name": "Carindale",
+      "admin1_code": "04",
+      "location": [
+        -27.50578,
+        153.10236
+      ],
+      "monthly": {
+        "Jan": 4.4,
+        "Feb": 4.42,
+        "Mar": 4.18,
+        "Apr": 4.43,
+        "May": 4.18,
+        "Jun": 3.95,
+        "Jul": 4.33,
+        "Aug": 4.82,
+        "Sep": 4.96,
+        "Oct": 4.82,
+        "Nov": 4.69,
+        "Dec": 4.47
+      },
+      "average": 4.47
+    },
+    {
+      "name": "Parramatta",
+      "admin1_code": "02",
+      "location": [
+        -33.8178,
+        151.00348
+      ],
+      "monthly": {
+        "Jan": 4.21,
+        "Feb": 4.03,
+        "Mar": 3.93,
+        "Apr": 3.97,
+        "May": 3.95,
+        "Jun": 3.46,
+        "Jul": 4,
+        "Aug": 4.4,
+        "Sep": 4.81,
+        "Oct": 4.57,
+        "Nov": 4.32,
+        "Dec": 4.32
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Ferntree Gully",
+      "admin1_code": "07",
+      "location": [
+        -37.88461,
+        145.29539
+      ],
+      "monthly": {
+        "Jan": 4.82,
+        "Feb": 4.58,
+        "Mar": 4.09,
+        "Apr": 3.29,
+        "May": 2.62,
+        "Jun": 2.35,
+        "Jul": 2.39,
+        "Aug": 2.87,
+        "Sep": 3.52,
+        "Oct": 4.09,
+        "Nov": 4.19,
+        "Dec": 4.69
+      },
+      "average": 3.63
+    },
+    {
+      "name": "Adelaide Hills",
+      "admin1_code": "05",
+      "location": [
+        -34.91119,
+        138.70735
+      ],
+      "monthly": {
+        "Jan": 5.57,
+        "Feb": 5.35,
+        "Mar": 4.81,
+        "Apr": 3.93,
+        "May": 2.93,
+        "Jun": 2.46,
+        "Jul": 2.47,
+        "Aug": 3.06,
+        "Sep": 4,
+        "Oct": 4.75,
+        "Nov": 4.99,
+        "Dec": 5.26
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Canning Vale",
+      "admin1_code": "08",
+      "location": [
+        -32.05799,
+        115.91814
+      ],
+      "monthly": {
+        "Jan": 5.8,
+        "Feb": 5.64,
+        "Mar": 5.36,
+        "Apr": 4.61,
+        "May": 4.03,
+        "Jun": 3.52,
+        "Jul": 3.46,
+        "Aug": 4.06,
+        "Sep": 4.74,
+        "Oct": 5.25,
+        "Nov": 5.65,
+        "Dec": 5.82
+      },
+      "average": 4.83
+    },
+    {
+      "name": "Glenmore Park",
+      "admin1_code": "02",
+      "location": [
+        -33.79068,
+        150.6693
+      ],
+      "monthly": {
+        "Jan": 4.07,
+        "Feb": 3.98,
+        "Mar": 3.88,
+        "Apr": 4.03,
+        "May": 4.03,
+        "Jun": 3.54,
+        "Jul": 4.04,
+        "Aug": 4.49,
+        "Sep": 4.89,
+        "Oct": 4.53,
+        "Nov": 4.24,
+        "Dec": 4.25
+      },
+      "average": 4.16
+    },
+    {
+      "name": "Southbank",
+      "admin1_code": "07",
+      "location": [
+        -37.8228,
+        144.96434
+      ],
+      "monthly": {
+        "Jan": 4.98,
+        "Feb": 4.8,
+        "Mar": 4.3,
+        "Apr": 3.47,
+        "May": 2.83,
+        "Jun": 2.55,
+        "Jul": 2.7,
+        "Aug": 3.21,
+        "Sep": 3.86,
+        "Oct": 4.33,
+        "Nov": 4.45,
+        "Dec": 4.87
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Docklands",
+      "admin1_code": "07",
+      "location": [
+        -37.8149,
+        144.95052
+      ],
+      "monthly": {
+        "Jan": 5.01,
+        "Feb": 4.83,
+        "Mar": 4.32,
+        "Apr": 3.5,
+        "May": 2.85,
+        "Jun": 2.57,
+        "Jul": 2.73,
+        "Aug": 3.23,
+        "Sep": 3.89,
+        "Oct": 4.36,
+        "Nov": 4.48,
+        "Dec": 4.89
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Helensvale",
+      "admin1_code": "04",
+      "location": [
+        -27.91828,
+        153.33275
+      ],
+      "monthly": {
+        "Jan": 4.5,
+        "Feb": 4.53,
+        "Mar": 4.29,
+        "Apr": 4.47,
+        "May": 4.23,
+        "Jun": 3.95,
+        "Jul": 4.32,
+        "Aug": 4.86,
+        "Sep": 4.99,
+        "Oct": 4.88,
+        "Nov": 4.72,
+        "Dec": 4.54
+      },
+      "average": 4.52
+    },
+    {
+      "name": "Elwood",
+      "admin1_code": "07",
+      "location": [
+        -37.88214,
+        144.98215
+      ],
+      "monthly": {
+        "Jan": 5.05,
+        "Feb": 4.88,
+        "Mar": 4.38,
+        "Apr": 3.52,
+        "May": 2.83,
+        "Jun": 2.55,
+        "Jul": 2.7,
+        "Aug": 3.23,
+        "Sep": 3.9,
+        "Oct": 4.43,
+        "Nov": 4.51,
+        "Dec": 4.93
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Burwood",
+      "admin1_code": "07",
+      "location": [
+        -37.84978,
+        145.11901
+      ],
+      "monthly": {
+        "Jan": 4.95,
+        "Feb": 4.76,
+        "Mar": 4.28,
+        "Apr": 3.45,
+        "May": 2.78,
+        "Jun": 2.52,
+        "Jul": 2.65,
+        "Aug": 3.14,
+        "Sep": 3.76,
+        "Oct": 4.3,
+        "Nov": 4.39,
+        "Dec": 4.86
+      },
+      "average": 3.82
+    },
+    {
+      "name": "Balwyn North",
+      "admin1_code": "07",
+      "location": [
+        -37.79086,
+        145.09386
+      ],
+      "monthly": {
+        "Jan": 4.95,
+        "Feb": 4.76,
+        "Mar": 4.27,
+        "Apr": 3.46,
+        "May": 2.78,
+        "Jun": 2.49,
+        "Jul": 2.63,
+        "Aug": 3.13,
+        "Sep": 3.73,
+        "Oct": 4.27,
+        "Nov": 4.37,
+        "Dec": 4.84
+      },
+      "average": 3.81
+    },
+    {
+      "name": "Malvern East",
+      "admin1_code": "07",
+      "location": [
+        -37.87397,
+        145.04253
+      ],
+      "monthly": {
+        "Jan": 5.03,
+        "Feb": 4.84,
+        "Mar": 4.34,
+        "Apr": 3.52,
+        "May": 2.86,
+        "Jun": 2.59,
+        "Jul": 2.73,
+        "Aug": 3.26,
+        "Sep": 3.92,
+        "Oct": 4.44,
+        "Nov": 4.51,
+        "Dec": 4.95
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Brighton East",
+      "admin1_code": "07",
+      "location": [
+        -37.90232,
+        145.01734
+      ],
+      "monthly": {
+        "Jan": 5.05,
+        "Feb": 4.89,
+        "Mar": 4.39,
+        "Apr": 3.56,
+        "May": 2.9,
+        "Jun": 2.64,
+        "Jul": 2.8,
+        "Aug": 3.34,
+        "Sep": 4.02,
+        "Oct": 4.5,
+        "Nov": 4.56,
+        "Dec": 4.97
+      },
+      "average": 3.97
+    },
+    {
+      "name": "Redbank Plains",
+      "admin1_code": "04",
+      "location": [
+        -27.64613,
+        152.85965
+      ],
+      "monthly": {
+        "Jan": 4.32,
+        "Feb": 4.35,
+        "Mar": 4.16,
+        "Apr": 4.43,
+        "May": 4.22,
+        "Jun": 4.01,
+        "Jul": 4.36,
+        "Aug": 4.86,
+        "Sep": 4.95,
+        "Oct": 4.78,
+        "Nov": 4.62,
+        "Dec": 4.41
+      },
+      "average": 4.46
+    },
+    {
+      "name": "Labrador",
+      "admin1_code": "04",
+      "location": [
+        -27.94402,
+        153.39815
+      ],
+      "monthly": {
+        "Jan": 4.75,
+        "Feb": 4.74,
+        "Mar": 4.49,
+        "Apr": 4.62,
+        "May": 4.29,
+        "Jun": 3.96,
+        "Jul": 4.36,
+        "Aug": 4.94,
+        "Sep": 5.13,
+        "Oct": 5.07,
+        "Nov": 4.93,
+        "Dec": 4.72
+      },
+      "average": 4.67
+    },
+    {
+      "name": "St Albans",
+      "admin1_code": "07",
+      "location": [
+        -37.74496,
+        144.80049
+      ],
+      "monthly": {
+        "Jan": 4.94,
+        "Feb": 4.75,
+        "Mar": 4.32,
+        "Apr": 3.54,
+        "May": 2.97,
+        "Jun": 2.66,
+        "Jul": 2.88,
+        "Aug": 3.37,
+        "Sep": 3.98,
+        "Oct": 4.36,
+        "Nov": 4.42,
+        "Dec": 4.83
+      },
+      "average": 3.92
+    },
+    {
+      "name": "Central Coast",
+      "admin1_code": "02",
+      "location": [
+        -33.42979,
+        151.37144
+      ],
+      "monthly": {
+        "Jan": 4.22,
+        "Feb": 4.12,
+        "Mar": 4.01,
+        "Apr": 3.94,
+        "May": 3.79,
+        "Jun": 3.32,
+        "Jul": 3.8,
+        "Aug": 4.33,
+        "Sep": 4.77,
+        "Oct": 4.53,
+        "Nov": 4.32,
+        "Dec": 4.35
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Endeavour Hills",
+      "admin1_code": "07",
+      "location": [
+        -37.97695,
+        145.25866
+      ],
+      "monthly": {
+        "Jan": 4.88,
+        "Feb": 4.66,
+        "Mar": 4.18,
+        "Apr": 3.39,
+        "May": 2.77,
+        "Jun": 2.52,
+        "Jul": 2.63,
+        "Aug": 3.13,
+        "Sep": 3.74,
+        "Oct": 4.25,
+        "Nov": 4.33,
+        "Dec": 4.8
+      },
+      "average": 3.77
+    },
+    {
+      "name": "Kellyville",
+      "admin1_code": "02",
+      "location": [
+        -33.71028,
+        150.95095
+      ],
+      "monthly": {
+        "Jan": 4.23,
+        "Feb": 4.05,
+        "Mar": 3.96,
+        "Apr": 3.98,
+        "May": 3.97,
+        "Jun": 3.47,
+        "Jul": 3.98,
+        "Aug": 4.41,
+        "Sep": 4.83,
+        "Oct": 4.56,
+        "Nov": 4.31,
+        "Dec": 4.33
+      },
+      "average": 4.17
+    },
+    {
+      "name": "Taylors Lakes",
+      "admin1_code": "07",
+      "location": [
+        -37.69863,
+        144.78631
+      ],
+      "monthly": {
+        "Jan": 4.94,
+        "Feb": 4.74,
+        "Mar": 4.29,
+        "Apr": 3.54,
+        "May": 2.98,
+        "Jun": 2.66,
+        "Jul": 2.91,
+        "Aug": 3.4,
+        "Sep": 4.02,
+        "Oct": 4.35,
+        "Nov": 4.44,
+        "Dec": 4.84
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Cherrybrook",
+      "admin1_code": "02",
+      "location": [
+        -33.72197,
+        151.04607
+      ],
+      "monthly": {
+        "Jan": 4.21,
+        "Feb": 4.02,
+        "Mar": 3.88,
+        "Apr": 3.89,
+        "May": 3.88,
+        "Jun": 3.4,
+        "Jul": 3.93,
+        "Aug": 4.34,
+        "Sep": 4.8,
+        "Oct": 4.52,
+        "Nov": 4.28,
+        "Dec": 4.32
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Roxburgh Park",
+      "admin1_code": "07",
+      "location": [
+        -37.62581,
+        144.92555
+      ],
+      "monthly": {
+        "Jan": 4.99,
+        "Feb": 4.79,
+        "Mar": 4.36,
+        "Apr": 3.57,
+        "May": 2.96,
+        "Jun": 2.64,
+        "Jul": 2.85,
+        "Aug": 3.34,
+        "Sep": 3.97,
+        "Oct": 4.34,
+        "Nov": 4.47,
+        "Dec": 4.86
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Prestons",
+      "admin1_code": "02",
+      "location": [
+        -33.94185,
+        150.8717
+      ],
+      "monthly": {
+        "Jan": 4.22,
+        "Feb": 4.03,
+        "Mar": 3.97,
+        "Apr": 4.03,
+        "May": 4.01,
+        "Jun": 3.51,
+        "Jul": 4.05,
+        "Aug": 4.47,
+        "Sep": 4.88,
+        "Oct": 4.61,
+        "Nov": 4.34,
+        "Dec": 4.34
+      },
+      "average": 4.21
+    },
+    {
+      "name": "Wyndham Vale",
+      "admin1_code": "07",
+      "location": [
+        -37.89138,
+        144.62368
+      ],
+      "monthly": {
+        "Jan": 4.98,
+        "Feb": 4.75,
+        "Mar": 4.3,
+        "Apr": 3.52,
+        "May": 3,
+        "Jun": 2.73,
+        "Jul": 2.93,
+        "Aug": 3.42,
+        "Sep": 4.04,
+        "Oct": 4.42,
+        "Nov": 4.44,
+        "Dec": 4.86
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Ballajura",
+      "admin1_code": "08",
+      "location": [
+        -31.84062,
+        115.89549
+      ],
+      "monthly": {
+        "Jan": 5.75,
+        "Feb": 5.65,
+        "Mar": 5.37,
+        "Apr": 4.66,
+        "May": 4.09,
+        "Jun": 3.59,
+        "Jul": 3.55,
+        "Aug": 4.13,
+        "Sep": 4.78,
+        "Oct": 5.33,
+        "Nov": 5.65,
+        "Dec": 5.79
+      },
+      "average": 4.86
+    },
+    {
+      "name": "Willetton",
+      "admin1_code": "08",
+      "location": [
+        -32.05251,
+        115.88782
+      ],
+      "monthly": {
+        "Jan": 5.8,
+        "Feb": 5.64,
+        "Mar": 5.37,
+        "Apr": 4.6,
+        "May": 4.03,
+        "Jun": 3.51,
+        "Jul": 3.48,
+        "Aug": 4.07,
+        "Sep": 4.78,
+        "Oct": 5.28,
+        "Nov": 5.67,
+        "Dec": 5.82
+      },
+      "average": 4.84
+    },
+    {
+      "name": "Glenwood",
+      "admin1_code": "02",
+      "location": [
+        -33.73333,
+        150.93284
+      ],
+      "monthly": {
+        "Jan": 4.23,
+        "Feb": 4.04,
+        "Mar": 3.95,
+        "Apr": 4,
+        "May": 3.99,
+        "Jun": 3.48,
+        "Jul": 4.01,
+        "Aug": 4.45,
+        "Sep": 4.85,
+        "Oct": 4.57,
+        "Nov": 4.32,
+        "Dec": 4.34
+      },
+      "average": 4.19
+    },
+    {
+      "name": "Cabramatta",
+      "admin1_code": "02",
+      "location": [
+        -33.89743,
+        150.93446
+      ],
+      "monthly": {
+        "Jan": 4.21,
+        "Feb": 4.02,
+        "Mar": 3.95,
+        "Apr": 3.99,
+        "May": 3.99,
+        "Jun": 3.47,
+        "Jul": 4.01,
+        "Aug": 4.45,
+        "Sep": 4.84,
+        "Oct": 4.59,
+        "Nov": 4.32,
+        "Dec": 4.31
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Campsie",
+      "admin1_code": "02",
+      "location": [
+        -33.9125,
+        151.10279
+      ],
+      "monthly": {
+        "Jan": 4.36,
+        "Feb": 4.21,
+        "Mar": 4.09,
+        "Apr": 4.07,
+        "May": 3.97,
+        "Jun": 3.44,
+        "Jul": 3.98,
+        "Aug": 4.44,
+        "Sep": 4.87,
+        "Oct": 4.69,
+        "Nov": 4.44,
+        "Dec": 4.46
+      },
+      "average": 4.25
+    },
+    {
+      "name": "Casula",
+      "admin1_code": "02",
+      "location": [
+        -33.95222,
+        150.89949
+      ],
+      "monthly": {
+        "Jan": 4.22,
+        "Feb": 4.03,
+        "Mar": 3.98,
+        "Apr": 4.01,
+        "May": 4,
+        "Jun": 3.49,
+        "Jul": 4.03,
+        "Aug": 4.45,
+        "Sep": 4.86,
+        "Oct": 4.61,
+        "Nov": 4.34,
+        "Dec": 4.33
+      },
+      "average": 4.2
+    },
+    {
+      "name": "Cranebrook",
+      "admin1_code": "02",
+      "location": [
+        -33.7061,
+        150.7094
+      ],
+      "monthly": {
+        "Jan": 4.09,
+        "Feb": 3.97,
+        "Mar": 3.9,
+        "Apr": 4.01,
+        "May": 4,
+        "Jun": 3.51,
+        "Jul": 4,
+        "Aug": 4.47,
+        "Sep": 4.85,
+        "Oct": 4.52,
+        "Nov": 4.23,
+        "Dec": 4.24
+      },
+      "average": 4.15
+    },
+    {
+      "name": "Greenacre",
+      "admin1_code": "02",
+      "location": [
+        -33.90034,
+        151.05563
+      ],
+      "monthly": {
+        "Jan": 4.31,
+        "Feb": 4.13,
+        "Mar": 4.03,
+        "Apr": 4.02,
+        "May": 3.98,
+        "Jun": 3.46,
+        "Jul": 3.99,
+        "Aug": 4.43,
+        "Sep": 4.85,
+        "Oct": 4.64,
+        "Nov": 4.4,
+        "Dec": 4.39
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Greystanes",
+      "admin1_code": "02",
+      "location": [
+        -33.82346,
+        150.94607
+      ],
+      "monthly": {
+        "Jan": 4.2,
+        "Feb": 3.99,
+        "Mar": 3.95,
+        "Apr": 3.98,
+        "May": 3.98,
+        "Jun": 3.47,
+        "Jul": 4.02,
+        "Aug": 4.43,
+        "Sep": 4.83,
+        "Oct": 4.59,
+        "Nov": 4.32,
+        "Dec": 4.3
+      },
+      "average": 4.17
+    },
+    {
+      "name": "Ellenbrook",
+      "admin1_code": "08",
+      "location": [
+        -31.76737,
+        115.96936
+      ],
+      "monthly": {
+        "Jan": 5.73,
+        "Feb": 5.62,
+        "Mar": 5.33,
+        "Apr": 4.62,
+        "May": 4.08,
+        "Jun": 3.56,
+        "Jul": 3.53,
+        "Aug": 4.1,
+        "Sep": 4.73,
+        "Oct": 5.27,
+        "Nov": 5.62,
+        "Dec": 5.76
+      },
+      "average": 4.83
+    },
+    {
+      "name": "Alexandra Hills",
+      "admin1_code": "04",
+      "location": [
+        -27.53221,
+        153.22889
+      ],
+      "monthly": {
+        "Jan": 4.64,
+        "Feb": 4.7,
+        "Mar": 4.42,
+        "Apr": 4.62,
+        "May": 4.31,
+        "Jun": 4.01,
+        "Jul": 4.41,
+        "Aug": 4.97,
+        "Sep": 5.19,
+        "Oct": 5.08,
+        "Nov": 4.91,
+        "Dec": 4.7
+      },
+      "average": 4.66
+    },
+    {
+      "name": "Calamvale",
+      "admin1_code": "04",
+      "location": [
+        -27.62329,
+        153.04785
+      ],
+      "monthly": {
+        "Jan": 4.3,
+        "Feb": 4.35,
+        "Mar": 4.11,
+        "Apr": 4.37,
+        "May": 4.18,
+        "Jun": 3.95,
+        "Jul": 4.31,
+        "Aug": 4.81,
+        "Sep": 4.91,
+        "Oct": 4.77,
+        "Nov": 4.6,
+        "Dec": 4.38
+      },
+      "average": 4.42
+    },
+    {
+      "name": "Yagoona",
+      "admin1_code": "02",
+      "location": [
+        -33.9049,
+        151.01996
+      ],
+      "monthly": {
+        "Jan": 4.27,
+        "Feb": 4.09,
+        "Mar": 4.01,
+        "Apr": 4.02,
+        "May": 3.98,
+        "Jun": 3.48,
+        "Jul": 3.99,
+        "Aug": 4.43,
+        "Sep": 4.85,
+        "Oct": 4.63,
+        "Nov": 4.38,
+        "Dec": 4.37
+      },
+      "average": 4.21
+    },
+    {
+      "name": "Highton",
+      "admin1_code": "07",
+      "location": [
+        -38.17058,
+        144.3114
+      ],
+      "monthly": {
+        "Jan": 4.99,
+        "Feb": 4.71,
+        "Mar": 4.22,
+        "Apr": 3.38,
+        "May": 2.94,
+        "Jun": 2.68,
+        "Jul": 2.87,
+        "Aug": 3.36,
+        "Sep": 3.97,
+        "Oct": 4.41,
+        "Nov": 4.41,
+        "Dec": 4.88
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Pacific Pines",
+      "admin1_code": "04",
+      "location": [
+        -27.93994,
+        153.31436
+      ],
+      "monthly": {
+        "Jan": 4.36,
+        "Feb": 4.41,
+        "Mar": 4.19,
+        "Apr": 4.38,
+        "May": 4.17,
+        "Jun": 3.92,
+        "Jul": 4.26,
+        "Aug": 4.79,
+        "Sep": 4.91,
+        "Oct": 4.78,
+        "Nov": 4.6,
+        "Dec": 4.44
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Robina",
+      "admin1_code": "04",
+      "location": [
+        -28.07071,
+        153.39329
+      ],
+      "monthly": {
+        "Jan": 4.57,
+        "Feb": 4.52,
+        "Mar": 4.33,
+        "Apr": 4.48,
+        "May": 4.24,
+        "Jun": 3.98,
+        "Jul": 4.34,
+        "Aug": 4.87,
+        "Sep": 5.02,
+        "Oct": 4.9,
+        "Nov": 4.75,
+        "Dec": 4.57
+      },
+      "average": 4.55
+    },
+    {
+      "name": "Paralowie",
+      "admin1_code": "05",
+      "location": [
+        -34.75705,
+        138.60819
+      ],
+      "monthly": {
+        "Jan": 5.55,
+        "Feb": 5.46,
+        "Mar": 5.03,
+        "Apr": 4.32,
+        "May": 3.49,
+        "Jun": 3.08,
+        "Jul": 3.25,
+        "Aug": 3.86,
+        "Sep": 4.62,
+        "Oct": 5.07,
+        "Nov": 5.21,
+        "Dec": 5.38
+      },
+      "average": 4.53
+    },
+    {
+      "name": "Baldivis",
+      "admin1_code": "08",
+      "location": [
+        -32.32889,
+        115.83047
+      ],
+      "monthly": {
+        "Jan": 5.83,
+        "Feb": 5.66,
+        "Mar": 5.36,
+        "Apr": 4.59,
+        "May": 3.99,
+        "Jun": 3.48,
+        "Jul": 3.39,
+        "Aug": 4.06,
+        "Sep": 4.76,
+        "Oct": 5.27,
+        "Nov": 5.67,
+        "Dec": 5.83
+      },
+      "average": 4.82
+    },
+    {
+      "name": "Dianella",
+      "admin1_code": "08",
+      "location": [
+        -31.88822,
+        115.87186
+      ],
+      "monthly": {
+        "Jan": 5.78,
+        "Feb": 5.65,
+        "Mar": 5.38,
+        "Apr": 4.64,
+        "May": 4.05,
+        "Jun": 3.56,
+        "Jul": 3.51,
+        "Aug": 4.12,
+        "Sep": 4.81,
+        "Oct": 5.34,
+        "Nov": 5.69,
+        "Dec": 5.84
+      },
+      "average": 4.86
+    },
+    {
+      "name": "Duncraig",
+      "admin1_code": "08",
+      "location": [
+        -31.83291,
+        115.7759
+      ],
+      "monthly": {
+        "Jan": 5.81,
+        "Feb": 5.67,
+        "Mar": 5.42,
+        "Apr": 4.67,
+        "May": 4.07,
+        "Jun": 3.54,
+        "Jul": 3.52,
+        "Aug": 4.17,
+        "Sep": 4.91,
+        "Oct": 5.44,
+        "Nov": 5.77,
+        "Dec": 5.88
+      },
+      "average": 4.91
+    },
+    {
+      "name": "Morley",
+      "admin1_code": "08",
+      "location": [
+        -31.88775,
+        115.9099
+      ],
+      "monthly": {
+        "Jan": 5.79,
+        "Feb": 5.66,
+        "Mar": 5.36,
+        "Apr": 4.63,
+        "May": 4.05,
+        "Jun": 3.55,
+        "Jul": 3.5,
+        "Aug": 4.09,
+        "Sep": 4.77,
+        "Oct": 5.32,
+        "Nov": 5.66,
+        "Dec": 5.82
+      },
+      "average": 4.85
+    },
+    {
+      "name": "Thornlie",
+      "admin1_code": "08",
+      "location": [
+        -32.06003,
+        115.955
+      ],
+      "monthly": {
+        "Jan": 5.78,
+        "Feb": 5.63,
+        "Mar": 5.34,
+        "Apr": 4.57,
+        "May": 4,
+        "Jun": 3.5,
+        "Jul": 3.42,
+        "Aug": 4,
+        "Sep": 4.65,
+        "Oct": 5.2,
+        "Nov": 5.61,
+        "Dec": 5.8
+      },
+      "average": 4.79
+    },
+    {
+      "name": "Landsdale",
+      "admin1_code": "08",
+      "location": [
+        -31.8075,
+        115.86599
+      ],
+      "monthly": {
+        "Jan": 5.76,
+        "Feb": 5.64,
+        "Mar": 5.37,
+        "Apr": 4.65,
+        "May": 4.09,
+        "Jun": 3.57,
+        "Jul": 3.54,
+        "Aug": 4.13,
+        "Sep": 4.8,
+        "Oct": 5.35,
+        "Nov": 5.67,
+        "Dec": 5.81
+      },
+      "average": 4.87
+    },
+    {
+      "name": "Punchbowl",
+      "admin1_code": "02",
+      "location": [
+        -33.92893,
+        151.05111
+      ],
+      "monthly": {
+        "Jan": 4.31,
+        "Feb": 4.14,
+        "Mar": 4.05,
+        "Apr": 4.02,
+        "May": 3.98,
+        "Jun": 3.45,
+        "Jul": 3.97,
+        "Aug": 4.43,
+        "Sep": 4.85,
+        "Oct": 4.64,
+        "Nov": 4.41,
+        "Dec": 4.4
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Parafield Gardens",
+      "admin1_code": "05",
+      "location": [
+        -34.78254,
+        138.61077
+      ],
+      "monthly": {
+        "Jan": 5.56,
+        "Feb": 5.45,
+        "Mar": 5.02,
+        "Apr": 4.29,
+        "May": 3.46,
+        "Jun": 3.05,
+        "Jul": 3.21,
+        "Aug": 3.79,
+        "Sep": 4.57,
+        "Oct": 5.04,
+        "Nov": 5.2,
+        "Dec": 5.37
+      },
+      "average": 4.5
+    },
+    {
+      "name": "Hillside",
+      "admin1_code": "07",
+      "location": [
+        -37.69047,
+        144.74172
+      ],
+      "monthly": {
+        "Jan": 4.94,
+        "Feb": 4.73,
+        "Mar": 4.29,
+        "Apr": 3.56,
+        "May": 3.01,
+        "Jun": 2.67,
+        "Jul": 2.93,
+        "Aug": 3.42,
+        "Sep": 4.04,
+        "Oct": 4.35,
+        "Nov": 4.44,
+        "Dec": 4.84
+      },
+      "average": 3.94
+    },
+    {
+      "name": "St Clair",
+      "admin1_code": "02",
+      "location": [
+        -33.79728,
+        150.7847
+      ],
+      "monthly": {
+        "Jan": 4.14,
+        "Feb": 4.03,
+        "Mar": 3.93,
+        "Apr": 4.04,
+        "May": 4.05,
+        "Jun": 3.55,
+        "Jul": 4.06,
+        "Aug": 4.49,
+        "Sep": 4.89,
+        "Oct": 4.56,
+        "Nov": 4.3,
+        "Dec": 4.29
+      },
+      "average": 4.19
+    },
+    {
+      "name": "Kirwan",
+      "admin1_code": "04",
+      "location": [
+        -19.30323,
+        146.72531
+      ],
+      "monthly": {
+        "Jan": 4.23,
+        "Feb": 4.27,
+        "Mar": 4.37,
+        "Apr": 4.57,
+        "May": 4.26,
+        "Jun": 4.16,
+        "Jul": 4.49,
+        "Aug": 5.05,
+        "Sep": 5.31,
+        "Oct": 5.36,
+        "Nov": 4.97,
+        "Dec": 4.72
+      },
+      "average": 4.65
+    },
+    {
+      "name": "Bundoora",
+      "admin1_code": "07",
+      "location": [
+        -37.69825,
+        145.05967
+      ],
+      "monthly": {
+        "Jan": 4.97,
+        "Feb": 4.76,
+        "Mar": 4.29,
+        "Apr": 3.49,
+        "May": 2.81,
+        "Jun": 2.52,
+        "Jul": 2.7,
+        "Aug": 3.2,
+        "Sep": 3.8,
+        "Oct": 4.28,
+        "Nov": 4.39,
+        "Dec": 4.86
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Forest Lake",
+      "admin1_code": "04",
+      "location": [
+        -27.62563,
+        152.96883
+      ],
+      "monthly": {
+        "Jan": 4.27,
+        "Feb": 4.31,
+        "Mar": 4.08,
+        "Apr": 4.38,
+        "May": 4.18,
+        "Jun": 3.97,
+        "Jul": 4.32,
+        "Aug": 4.82,
+        "Sep": 4.9,
+        "Oct": 4.73,
+        "Nov": 4.58,
+        "Dec": 4.36
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Sunnybank Hills",
+      "admin1_code": "04",
+      "location": [
+        -27.61025,
+        153.05388
+      ],
+      "monthly": {
+        "Jan": 4.31,
+        "Feb": 4.36,
+        "Mar": 4.12,
+        "Apr": 4.38,
+        "May": 4.18,
+        "Jun": 3.95,
+        "Jul": 4.31,
+        "Aug": 4.82,
+        "Sep": 4.93,
+        "Oct": 4.78,
+        "Nov": 4.61,
+        "Dec": 4.39
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Rochedale South",
+      "admin1_code": "04",
+      "location": [
+        -27.59521,
+        153.12332
+      ],
+      "monthly": {
+        "Jan": 4.37,
+        "Feb": 4.43,
+        "Mar": 4.19,
+        "Apr": 4.43,
+        "May": 4.19,
+        "Jun": 3.95,
+        "Jul": 4.32,
+        "Aug": 4.82,
+        "Sep": 4.95,
+        "Oct": 4.8,
+        "Nov": 4.66,
+        "Dec": 4.45
+      },
+      "average": 4.46
+    },
+    {
+      "name": "Keilor East",
+      "admin1_code": "07",
+      "location": [
+        -37.73261,
+        144.86504
+      ],
+      "monthly": {
+        "Jan": 4.95,
+        "Feb": 4.76,
+        "Mar": 4.32,
+        "Apr": 3.53,
+        "May": 2.93,
+        "Jun": 2.64,
+        "Jul": 2.85,
+        "Aug": 3.32,
+        "Sep": 3.92,
+        "Oct": 4.36,
+        "Nov": 4.43,
+        "Dec": 4.83
+      },
+      "average": 3.9
+    },
+    {
+      "name": "Cranbourne East",
+      "admin1_code": "07",
+      "location": [
+        -38.11531,
+        145.29814
+      ],
+      "monthly": {
+        "Jan": 4.91,
+        "Feb": 4.74,
+        "Mar": 4.28,
+        "Apr": 3.44,
+        "May": 2.88,
+        "Jun": 2.65,
+        "Jul": 2.75,
+        "Aug": 3.3,
+        "Sep": 3.91,
+        "Oct": 4.34,
+        "Nov": 4.44,
+        "Dec": 4.83
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Cranbourne North",
+      "admin1_code": "07",
+      "location": [
+        -38.07758,
+        145.29871
+      ],
+      "monthly": {
+        "Jan": 4.9,
+        "Feb": 4.73,
+        "Mar": 4.28,
+        "Apr": 3.44,
+        "May": 2.86,
+        "Jun": 2.62,
+        "Jul": 2.71,
+        "Aug": 3.27,
+        "Sep": 3.9,
+        "Oct": 4.34,
+        "Nov": 4.42,
+        "Dec": 4.84
+      },
+      "average": 3.86
+    },
+    {
+      "name": "Cranbourne West",
+      "admin1_code": "07",
+      "location": [
+        -38.0965,
+        145.26707
+      ],
+      "monthly": {
+        "Jan": 4.92,
+        "Feb": 4.74,
+        "Mar": 4.28,
+        "Apr": 3.44,
+        "May": 2.86,
+        "Jun": 2.61,
+        "Jul": 2.71,
+        "Aug": 3.27,
+        "Sep": 3.92,
+        "Oct": 4.35,
+        "Nov": 4.44,
+        "Dec": 4.86
+      },
+      "average": 3.87
+    },
+    {
+      "name": "Narre Warren South",
+      "admin1_code": "07",
+      "location": [
+        -38.04369,
+        145.2923
+      ],
+      "monthly": {
+        "Jan": 4.86,
+        "Feb": 4.67,
+        "Mar": 4.23,
+        "Apr": 3.43,
+        "May": 2.82,
+        "Jun": 2.59,
+        "Jul": 2.68,
+        "Aug": 3.21,
+        "Sep": 3.84,
+        "Oct": 4.3,
+        "Nov": 4.38,
+        "Dec": 4.79
+      },
+      "average": 3.82
+    },
+    {
+      "name": "Dandenong North",
+      "admin1_code": "07",
+      "location": [
+        -37.96649,
+        145.2081
+      ],
+      "monthly": {
+        "Jan": 4.95,
+        "Feb": 4.71,
+        "Mar": 4.26,
+        "Apr": 3.42,
+        "May": 2.78,
+        "Jun": 2.55,
+        "Jul": 2.66,
+        "Aug": 3.18,
+        "Sep": 3.82,
+        "Oct": 4.32,
+        "Nov": 4.4,
+        "Dec": 4.87
+      },
+      "average": 3.83
+    },
+    {
+      "name": "Frankston South",
+      "admin1_code": "07",
+      "location": [
+        -38.16604,
+        145.13643
+      ],
+      "monthly": {
+        "Jan": 5,
+        "Feb": 4.82,
+        "Mar": 4.31,
+        "Apr": 3.43,
+        "May": 2.81,
+        "Jun": 2.55,
+        "Jul": 2.67,
+        "Aug": 3.25,
+        "Sep": 3.95,
+        "Oct": 4.43,
+        "Nov": 4.54,
+        "Dec": 4.94
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Sunshine West",
+      "admin1_code": "07",
+      "location": [
+        -37.79117,
+        144.81637
+      ],
+      "monthly": {
+        "Jan": 4.99,
+        "Feb": 4.8,
+        "Mar": 4.34,
+        "Apr": 3.56,
+        "May": 2.97,
+        "Jun": 2.67,
+        "Jul": 2.89,
+        "Aug": 3.39,
+        "Sep": 3.99,
+        "Oct": 4.39,
+        "Nov": 4.45,
+        "Dec": 4.87
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Altona Meadows",
+      "admin1_code": "07",
+      "location": [
+        -37.88413,
+        144.78367
+      ],
+      "monthly": {
+        "Jan": 5.03,
+        "Feb": 4.87,
+        "Mar": 4.37,
+        "Apr": 3.56,
+        "May": 2.91,
+        "Jun": 2.63,
+        "Jul": 2.85,
+        "Aug": 3.36,
+        "Sep": 3.98,
+        "Oct": 4.41,
+        "Nov": 4.5,
+        "Dec": 4.91
+      },
+      "average": 3.95
+    },
+    {
+      "name": "Taylors Hill",
+      "admin1_code": "07",
+      "location": [
+        -37.70988,
+        144.75483
+      ],
+      "monthly": {
+        "Jan": 4.93,
+        "Feb": 4.73,
+        "Mar": 4.29,
+        "Apr": 3.55,
+        "May": 2.99,
+        "Jun": 2.66,
+        "Jul": 2.93,
+        "Aug": 3.42,
+        "Sep": 4.02,
+        "Oct": 4.35,
+        "Nov": 4.43,
+        "Dec": 4.85
+      },
+      "average": 3.93
+    },
+    {
+      "name": "Hurstville",
+      "admin1_code": "02",
+      "location": [
+        -33.9677,
+        151.10149
+      ],
+      "monthly": {
+        "Jan": 4.38,
+        "Feb": 4.25,
+        "Mar": 4.11,
+        "Apr": 4.07,
+        "May": 3.96,
+        "Jun": 3.41,
+        "Jul": 3.94,
+        "Aug": 4.41,
+        "Sep": 4.87,
+        "Oct": 4.7,
+        "Nov": 4.46,
+        "Dec": 4.48
+      },
+      "average": 4.25
+    },
+    {
+      "name": "West Pennant Hills",
+      "admin1_code": "02",
+      "location": [
+        -33.7457,
+        151.04764
+      ],
+      "monthly": {
+        "Jan": 4.17,
+        "Feb": 3.99,
+        "Mar": 3.86,
+        "Apr": 3.88,
+        "May": 3.86,
+        "Jun": 3.36,
+        "Jul": 3.89,
+        "Aug": 4.32,
+        "Sep": 4.77,
+        "Oct": 4.49,
+        "Nov": 4.27,
+        "Dec": 4.29
+      },
+      "average": 4.1
+    },
+    {
+      "name": "City of Port Phillip",
+      "admin1_code": "07",
+      "location": [
+        -37.83382,
+        144.93834
+      ],
+      "monthly": {
+        "Jan": 5.03,
+        "Feb": 4.84,
+        "Mar": 4.33,
+        "Apr": 3.49,
+        "May": 2.82,
+        "Jun": 2.56,
+        "Jul": 2.71,
+        "Aug": 3.21,
+        "Sep": 3.88,
+        "Oct": 4.37,
+        "Nov": 4.48,
+        "Dec": 4.91
+      },
+      "average": 3.89
+    },
+    {
+      "name": "Sunshine Coast",
+      "admin1_code": "04",
+      "location": [
+        -26.65682,
+        153.07955
+      ],
+      "monthly": {
+        "Jan": 4.64,
+        "Feb": 4.55,
+        "Mar": 4.32,
+        "Apr": 4.57,
+        "May": 4.2,
+        "Jun": 4.02,
+        "Jul": 4.34,
+        "Aug": 4.95,
+        "Sep": 5.13,
+        "Oct": 5.08,
+        "Nov": 4.9,
+        "Dec": 4.66
+      },
+      "average": 4.61
+    },
+    {
+      "name": "Melbourne City Centre",
+      "admin1_code": "07",
+      "location": [
+        -37.81501,
+        144.96657
+      ],
+      "monthly": {
+        "Jan": 5,
+        "Feb": 4.82,
+        "Mar": 4.31,
+        "Apr": 3.49,
+        "May": 2.84,
+        "Jun": 2.57,
+        "Jul": 2.73,
+        "Aug": 3.22,
+        "Sep": 3.88,
+        "Oct": 4.35,
+        "Nov": 4.47,
+        "Dec": 4.88
+      },
+      "average": 3.88
+    },
+    {
+      "name": "Adelaide city centre",
+      "admin1_code": "05",
+      "location": [
+        -34.92873,
+        138.60334
+      ],
+      "monthly": {
+        "Jan": 5.56,
+        "Feb": 5.42,
+        "Mar": 4.95,
+        "Apr": 4.18,
+        "May": 3.29,
+        "Jun": 2.89,
+        "Jul": 3.01,
+        "Aug": 3.62,
+        "Sep": 4.44,
+        "Oct": 5.01,
+        "Nov": 5.15,
+        "Dec": 5.36
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Wollongong city centre",
+      "admin1_code": "02",
+      "location": [
+        -34.4279,
+        150.89268
+      ],
+      "monthly": {
+        "Jan": 4.32,
+        "Feb": 4.13,
+        "Mar": 4.02,
+        "Apr": 4.01,
+        "May": 3.91,
+        "Jun": 3.35,
+        "Jul": 3.89,
+        "Aug": 4.33,
+        "Sep": 4.82,
+        "Oct": 4.63,
+        "Nov": 4.38,
+        "Dec": 4.38
+      },
+      "average": 4.18
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+    "title": "Explanation of PVOUT (Photovoltaic Power Potential) Data Metrics",
+    "intro": "In our solar energy data system, you may notice that monthly power generation data for certain regions appears counterintuitive. For example: desert cities like Douglas, Arizona, show their lowest power generation in July (summer) despite being peak summer months. This is not a data error, but rather the result of scientific principles of photovoltaic generation combined with local climate phenomena. Here's a detailed explanation:",
+    "sections": [
+        {
+            "title": "1. What is PVOUT?",
+            "content": "- Full Name: Photovoltaic Power Potential<br>- Definition: It represents the actual electricity output per 1 kilowatt peak (kWp) of PV system at a specific location and time in real-world conditions (unit typically: kWh/kWp).<br>- Core Difference: PVOUT ≠ Pure sunlight hours. Pure sunlight hours (irradiance) only represent how strong the sun is; PVOUT represents how much electricity the PV panels can ultimately convert. It is the \"net power generation\" calculated after comprehensively accounting for solar radiation, air temperature, wind speed, high-temperature losses of PV components, inverter efficiency, and other factors."
+        },
+        {
+            "title": "2. Why does power generation become the lowest in summer (July-August)?",
+            "content": "This \"abnormal\" phenomenon is primarily caused by the following three core reasons:"
+        },
+        {
+            "title": "Reason 1: \"Thermal Loss\" Caused by High Temperature (Main Reason)",
+            "content": "- Scientific Principle: Solar PV panels have a \"negative temperature coefficient\" characteristic. This means the hotter the PV panel, the lower its power generation efficiency. The ideal environment for PV panels is \"strong sunlight, low temperature\".<br>- Actual Situation: Summer temperatures in Arizona in July are extremely high (often exceeding 40°C). Under intense sun exposure, the PV panel's own temperature can soar to 60°C - 70°C. This extreme high temperature causes increased internal resistance in PV components, leading to a dramatic decline in power generation efficiency."
+        },
+        {
+            "title": "Reason 2: Unique Summer \"Monsoon Climate\" (Sudden Increase in Clouds and Thunderstorms)",
+            "content": "- Special Climate: The southwestern United States (including southern Arizona) experiences a unique \"North American Monsoon\" each year from July to August.<br>- Actual Situation: During this period, moist air flows from the Gulf of California, causing the originally sunny desert region to frequently experience thunderstorms, strong convection, and heavy cumulonimbus clouds in the afternoons of July and August. Cloud cover significantly reduces the direct normal irradiance (DNI) received at ground level, directly weakening total power generation."
+        },
+        {
+            "title": "Reason 3: \"High-Temperature Power Limiting\" of Inverters and System Electronics",
+            "content": "- Solar systems consist not only of PV panels but also electronic devices like inverters. In the extreme high-temperature environment of July, inverters typically trigger \"temperature protection\" to prevent overheating and damage, actively reducing operating power (i.e., derated operation), which further depresses actual power output in July."
+        },
+        {
+            "title": "📌 Summary and Conclusion",
+            "content": "Therefore, spring (March-May) is often the golden period for highest PV power generation efficiency in these desert regions (with abundant sunlight and cool temperatures, PV panels operate at optimal conditions). Although July is in summer, the dual combination of \"efficiency collapse caused by extreme high temperature\" and \"obstruction by monsoon cloud and rain weather\" causes PVOUT (final power generation) to show an annual low. This data fully conforms to real physical and meteorological laws, so please reference it with confidence."
+        }
+    ]
+}

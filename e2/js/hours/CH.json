@@ -1,0 +1,2191 @@
+{
+  "country": "Switzerland",
+  "countryCode": "CH",
+  "cities": [
+    {
+      "name": "Zürich",
+      "admin1_code": "ZH",
+      "location": [
+        47.36667,
+        8.55
+      ],
+      "monthly": {
+        "Jan": 1.7,
+        "Feb": 2.6,
+        "Mar": 3.64,
+        "Apr": 4.21,
+        "May": 4.25,
+        "Jun": 4.58,
+        "Jul": 4.57,
+        "Aug": 4.31,
+        "Sep": 3.69,
+        "Oct": 2.62,
+        "Nov": 1.72,
+        "Dec": 1.38
+      },
+      "average": 3.27
+    },
+    {
+      "name": "Zug",
+      "admin1_code": "ZG",
+      "location": [
+        47.17242,
+        8.51745
+      ],
+      "monthly": {
+        "Jan": 1.62,
+        "Feb": 2.52,
+        "Mar": 3.63,
+        "Apr": 4.2,
+        "May": 4.17,
+        "Jun": 4.53,
+        "Jul": 4.51,
+        "Aug": 4.25,
+        "Sep": 3.62,
+        "Oct": 2.58,
+        "Nov": 1.6,
+        "Dec": 1.26
+      },
+      "average": 3.21
+    },
+    {
+      "name": "Yverdon-les-Bains",
+      "admin1_code": "VD",
+      "location": [
+        46.77852,
+        6.64115
+      ],
+      "monthly": {
+        "Jan": 1.74,
+        "Feb": 2.78,
+        "Mar": 3.89,
+        "Apr": 4.33,
+        "May": 4.39,
+        "Jun": 4.78,
+        "Jul": 4.73,
+        "Aug": 4.51,
+        "Sep": 3.97,
+        "Oct": 2.79,
+        "Nov": 1.83,
+        "Dec": 1.38
+      },
+      "average": 3.43
+    },
+    {
+      "name": "Winterthur",
+      "admin1_code": "ZH",
+      "location": [
+        47.50564,
+        8.72413
+      ],
+      "monthly": {
+        "Jan": 1.63,
+        "Feb": 2.54,
+        "Mar": 3.62,
+        "Apr": 4.21,
+        "May": 4.32,
+        "Jun": 4.66,
+        "Jul": 4.62,
+        "Aug": 4.34,
+        "Sep": 3.69,
+        "Oct": 2.56,
+        "Nov": 1.65,
+        "Dec": 1.3
+      },
+      "average": 3.26
+    },
+    {
+      "name": "Wil",
+      "admin1_code": "SG",
+      "location": [
+        47.46152,
+        9.04552
+      ],
+      "monthly": {
+        "Jan": 1.8,
+        "Feb": 2.6,
+        "Mar": 3.67,
+        "Apr": 4.21,
+        "May": 4.22,
+        "Jun": 4.54,
+        "Jul": 4.53,
+        "Aug": 4.3,
+        "Sep": 3.66,
+        "Oct": 2.67,
+        "Nov": 1.77,
+        "Dec": 1.44
+      },
+      "average": 3.28
+    },
+    {
+      "name": "Wetzikon",
+      "admin1_code": "ZH",
+      "location": [
+        47.3264,
+        8.79779
+      ],
+      "monthly": {
+        "Jan": 1.89,
+        "Feb": 2.72,
+        "Mar": 3.78,
+        "Apr": 4.27,
+        "May": 4.25,
+        "Jun": 4.57,
+        "Jul": 4.53,
+        "Aug": 4.32,
+        "Sep": 3.74,
+        "Oct": 2.78,
+        "Nov": 1.86,
+        "Dec": 1.54
+      },
+      "average": 3.35
+    },
+    {
+      "name": "Wettingen",
+      "admin1_code": "AG",
+      "location": [
+        47.46606,
+        8.32663
+      ],
+      "monthly": {
+        "Jan": 1.58,
+        "Feb": 2.55,
+        "Mar": 3.63,
+        "Apr": 4.19,
+        "May": 4.29,
+        "Jun": 4.67,
+        "Jul": 4.63,
+        "Aug": 4.35,
+        "Sep": 3.71,
+        "Oct": 2.56,
+        "Nov": 1.61,
+        "Dec": 1.26
+      },
+      "average": 3.25
+    },
+    {
+      "name": "Vevey",
+      "admin1_code": "VD",
+      "location": [
+        46.46299,
+        6.84345
+      ],
+      "monthly": {
+        "Jan": 2.24,
+        "Feb": 3.13,
+        "Mar": 3.99,
+        "Apr": 4.35,
+        "May": 4.32,
+        "Jun": 4.7,
+        "Jul": 4.76,
+        "Aug": 4.49,
+        "Sep": 4,
+        "Oct": 3.07,
+        "Nov": 2.19,
+        "Dec": 1.82
+      },
+      "average": 3.59
+    },
+    {
+      "name": "Vernier",
+      "admin1_code": "GE",
+      "location": [
+        46.21702,
+        6.08497
+      ],
+      "monthly": {
+        "Jan": 1.93,
+        "Feb": 3.03,
+        "Mar": 4.04,
+        "Apr": 4.44,
+        "May": 4.53,
+        "Jun": 4.93,
+        "Jul": 4.95,
+        "Aug": 4.7,
+        "Sep": 4.14,
+        "Oct": 2.97,
+        "Nov": 2.02,
+        "Dec": 1.57
+      },
+      "average": 3.6
+    },
+    {
+      "name": "Uster",
+      "admin1_code": "ZH",
+      "location": [
+        47.34713,
+        8.72091
+      ],
+      "monthly": {
+        "Jan": 1.78,
+        "Feb": 2.67,
+        "Mar": 3.71,
+        "Apr": 4.24,
+        "May": 4.25,
+        "Jun": 4.58,
+        "Jul": 4.55,
+        "Aug": 4.3,
+        "Sep": 3.71,
+        "Oct": 2.69,
+        "Nov": 1.77,
+        "Dec": 1.43
+      },
+      "average": 3.31
+    },
+    {
+      "name": "Thun",
+      "admin1_code": "BE",
+      "location": [
+        46.75118,
+        7.62166
+      ],
+      "monthly": {
+        "Jan": 2.13,
+        "Feb": 3.01,
+        "Mar": 3.89,
+        "Apr": 4.12,
+        "May": 4.04,
+        "Jun": 4.38,
+        "Jul": 4.42,
+        "Aug": 4.24,
+        "Sep": 3.83,
+        "Oct": 3.06,
+        "Nov": 2.16,
+        "Dec": 1.73
+      },
+      "average": 3.42
+    },
+    {
+      "name": "Steffisburg",
+      "admin1_code": "BE",
+      "location": [
+        46.77807,
+        7.63249
+      ],
+      "monthly": {
+        "Jan": 2.13,
+        "Feb": 3.04,
+        "Mar": 3.94,
+        "Apr": 4.17,
+        "May": 4.09,
+        "Jun": 4.44,
+        "Jul": 4.48,
+        "Aug": 4.28,
+        "Sep": 3.88,
+        "Oct": 3.08,
+        "Nov": 2.17,
+        "Dec": 1.71
+      },
+      "average": 3.45
+    },
+    {
+      "name": "Solothurn",
+      "admin1_code": "SO",
+      "location": [
+        47.20791,
+        7.53714
+      ],
+      "monthly": {
+        "Jan": 1.67,
+        "Feb": 2.68,
+        "Mar": 3.73,
+        "Apr": 4.2,
+        "May": 4.24,
+        "Jun": 4.65,
+        "Jul": 4.6,
+        "Aug": 4.35,
+        "Sep": 3.77,
+        "Oct": 2.68,
+        "Nov": 1.73,
+        "Dec": 1.36
+      },
+      "average": 3.31
+    },
+    {
+      "name": "Sitten",
+      "admin1_code": "VS",
+      "location": [
+        46.22739,
+        7.35559
+      ],
+      "monthly": {
+        "Jan": 2.64,
+        "Feb": 3.56,
+        "Mar": 4.4,
+        "Apr": 4.65,
+        "May": 4.54,
+        "Jun": 4.82,
+        "Jul": 4.87,
+        "Aug": 4.68,
+        "Sep": 4.4,
+        "Oct": 3.65,
+        "Nov": 2.6,
+        "Dec": 2.12
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Sierre",
+      "admin1_code": "VS",
+      "location": [
+        46.29192,
+        7.53559
+      ],
+      "monthly": {
+        "Jan": 2.48,
+        "Feb": 3.28,
+        "Mar": 4.29,
+        "Apr": 4.58,
+        "May": 4.5,
+        "Jun": 4.8,
+        "Jul": 4.84,
+        "Aug": 4.64,
+        "Sep": 4.36,
+        "Oct": 3.47,
+        "Nov": 2.37,
+        "Dec": 2.1
+      },
+      "average": 3.81
+    },
+    {
+      "name": "Zürich (Kreis 11) / Seebach",
+      "admin1_code": "ZH",
+      "location": [
+        47.42181,
+        8.54779
+      ],
+      "monthly": {
+        "Jan": 1.68,
+        "Feb": 2.62,
+        "Mar": 3.67,
+        "Apr": 4.23,
+        "May": 4.29,
+        "Jun": 4.63,
+        "Jul": 4.61,
+        "Aug": 4.35,
+        "Sep": 3.71,
+        "Oct": 2.6,
+        "Nov": 1.69,
+        "Dec": 1.36
+      },
+      "average": 3.29
+    },
+    {
+      "name": "Schwyz",
+      "admin1_code": "SZ",
+      "location": [
+        47.02076,
+        8.65414
+      ],
+      "monthly": {
+        "Jan": 2,
+        "Feb": 2.82,
+        "Mar": 3.69,
+        "Apr": 4.16,
+        "May": 4.03,
+        "Jun": 4.3,
+        "Jul": 4.3,
+        "Aug": 4.07,
+        "Sep": 3.57,
+        "Oct": 2.82,
+        "Nov": 1.98,
+        "Dec": 1.71
+      },
+      "average": 3.29
+    },
+    {
+      "name": "Schaffhausen",
+      "admin1_code": "SH",
+      "location": [
+        47.69732,
+        8.63493
+      ],
+      "monthly": {
+        "Jan": 1.62,
+        "Feb": 2.56,
+        "Mar": 3.61,
+        "Apr": 4.14,
+        "May": 4.26,
+        "Jun": 4.6,
+        "Jul": 4.56,
+        "Aug": 4.3,
+        "Sep": 3.7,
+        "Oct": 2.57,
+        "Nov": 1.6,
+        "Dec": 1.27
+      },
+      "average": 3.23
+    },
+    {
+      "name": "Sankt Gallen",
+      "admin1_code": "SG",
+      "location": [
+        47.42391,
+        9.37477
+      ],
+      "monthly": {
+        "Jan": 1.65,
+        "Feb": 2.49,
+        "Mar": 3.56,
+        "Apr": 4.13,
+        "May": 4.08,
+        "Jun": 4.37,
+        "Jul": 4.38,
+        "Aug": 4.17,
+        "Sep": 3.6,
+        "Oct": 2.65,
+        "Nov": 1.69,
+        "Dec": 1.36
+      },
+      "average": 3.18
+    },
+    {
+      "name": "Renens",
+      "admin1_code": "VD",
+      "location": [
+        46.53989,
+        6.5881
+      ],
+      "monthly": {
+        "Jan": 2.04,
+        "Feb": 3.07,
+        "Mar": 4.1,
+        "Apr": 4.52,
+        "May": 4.58,
+        "Jun": 4.98,
+        "Jul": 4.94,
+        "Aug": 4.69,
+        "Sep": 4.17,
+        "Oct": 3.06,
+        "Nov": 2.07,
+        "Dec": 1.62
+      },
+      "average": 3.65
+    },
+    {
+      "name": "Rapperswil",
+      "admin1_code": "SG",
+      "location": [
+        47.22557,
+        8.82228
+      ],
+      "monthly": {
+        "Jan": 1.85,
+        "Feb": 2.67,
+        "Mar": 3.63,
+        "Apr": 4.17,
+        "May": 4.13,
+        "Jun": 4.45,
+        "Jul": 4.44,
+        "Aug": 4.21,
+        "Sep": 3.65,
+        "Oct": 2.72,
+        "Nov": 1.82,
+        "Dec": 1.5
+      },
+      "average": 3.27
+    },
+    {
+      "name": "Pully",
+      "admin1_code": "VD",
+      "location": [
+        46.51027,
+        6.66183
+      ],
+      "monthly": {
+        "Jan": 2.08,
+        "Feb": 3.07,
+        "Mar": 4.05,
+        "Apr": 4.47,
+        "May": 4.53,
+        "Jun": 4.93,
+        "Jul": 4.93,
+        "Aug": 4.64,
+        "Sep": 4.11,
+        "Oct": 3.05,
+        "Nov": 2.1,
+        "Dec": 1.66
+      },
+      "average": 3.63
+    },
+    {
+      "name": "Opfikon",
+      "admin1_code": "ZH",
+      "location": [
+        47.43169,
+        8.57588
+      ],
+      "monthly": {
+        "Jan": 1.68,
+        "Feb": 2.61,
+        "Mar": 3.68,
+        "Apr": 4.24,
+        "May": 4.3,
+        "Jun": 4.64,
+        "Jul": 4.62,
+        "Aug": 4.36,
+        "Sep": 3.72,
+        "Oct": 2.61,
+        "Nov": 1.69,
+        "Dec": 1.35
+      },
+      "average": 3.29
+    },
+    {
+      "name": "Onex",
+      "admin1_code": "GE",
+      "location": [
+        46.18396,
+        6.10237
+      ],
+      "monthly": {
+        "Jan": 1.89,
+        "Feb": 2.96,
+        "Mar": 4.05,
+        "Apr": 4.46,
+        "May": 4.56,
+        "Jun": 4.94,
+        "Jul": 4.97,
+        "Aug": 4.71,
+        "Sep": 4.16,
+        "Oct": 2.98,
+        "Nov": 2.01,
+        "Dec": 1.52
+      },
+      "average": 3.6
+    },
+    {
+      "name": "Olten",
+      "admin1_code": "SO",
+      "location": [
+        47.34999,
+        7.90329
+      ],
+      "monthly": {
+        "Jan": 1.55,
+        "Feb": 2.54,
+        "Mar": 3.59,
+        "Apr": 4.12,
+        "May": 4.16,
+        "Jun": 4.56,
+        "Jul": 4.51,
+        "Aug": 4.27,
+        "Sep": 3.64,
+        "Oct": 2.56,
+        "Nov": 1.62,
+        "Dec": 1.27
+      },
+      "average": 3.2
+    },
+    {
+      "name": "Zürich (Kreis 11) / Oerlikon",
+      "admin1_code": "ZH",
+      "location": [
+        47.40823,
+        8.54258
+      ],
+      "monthly": {
+        "Jan": 1.66,
+        "Feb": 2.61,
+        "Mar": 3.65,
+        "Apr": 4.21,
+        "May": 4.26,
+        "Jun": 4.6,
+        "Jul": 4.58,
+        "Aug": 4.32,
+        "Sep": 3.7,
+        "Oct": 2.6,
+        "Nov": 1.69,
+        "Dec": 1.35
+      },
+      "average": 3.27
+    },
+    {
+      "name": "Nyon",
+      "admin1_code": "VD",
+      "location": [
+        46.38318,
+        6.23955
+      ],
+      "monthly": {
+        "Jan": 1.97,
+        "Feb": 3.01,
+        "Mar": 3.97,
+        "Apr": 4.37,
+        "May": 4.45,
+        "Jun": 4.85,
+        "Jul": 4.86,
+        "Aug": 4.59,
+        "Sep": 4.08,
+        "Oct": 2.95,
+        "Nov": 2.01,
+        "Dec": 1.58
+      },
+      "average": 3.56
+    },
+    {
+      "name": "Neuchâtel",
+      "admin1_code": "NE",
+      "location": [
+        46.99179,
+        6.931
+      ],
+      "monthly": {
+        "Jan": 1.75,
+        "Feb": 2.75,
+        "Mar": 3.78,
+        "Apr": 4.25,
+        "May": 4.28,
+        "Jun": 4.69,
+        "Jul": 4.67,
+        "Aug": 4.41,
+        "Sep": 3.83,
+        "Oct": 2.76,
+        "Nov": 1.79,
+        "Dec": 1.45
+      },
+      "average": 3.37
+    },
+    {
+      "name": "Muttenz",
+      "admin1_code": "BL",
+      "location": [
+        47.52271,
+        7.64511
+      ],
+      "monthly": {
+        "Jan": 1.69,
+        "Feb": 2.53,
+        "Mar": 3.54,
+        "Apr": 4.05,
+        "May": 4.1,
+        "Jun": 4.46,
+        "Jul": 4.44,
+        "Aug": 4.22,
+        "Sep": 3.69,
+        "Oct": 2.74,
+        "Nov": 1.8,
+        "Dec": 1.44
+      },
+      "average": 3.22
+    },
+    {
+      "name": "Morges",
+      "admin1_code": "VD",
+      "location": [
+        46.51127,
+        6.49854
+      ],
+      "monthly": {
+        "Jan": 1.98,
+        "Feb": 3.06,
+        "Mar": 4.07,
+        "Apr": 4.5,
+        "May": 4.57,
+        "Jun": 4.96,
+        "Jul": 4.92,
+        "Aug": 4.66,
+        "Sep": 4.15,
+        "Oct": 3.01,
+        "Nov": 2.04,
+        "Dec": 1.59
+      },
+      "average": 3.63
+    },
+    {
+      "name": "Montreux",
+      "admin1_code": "VD",
+      "location": [
+        46.43301,
+        6.91143
+      ],
+      "monthly": {
+        "Jan": 2.08,
+        "Feb": 2.99,
+        "Mar": 3.86,
+        "Apr": 4.25,
+        "May": 4.19,
+        "Jun": 4.57,
+        "Jul": 4.6,
+        "Aug": 4.33,
+        "Sep": 3.86,
+        "Oct": 2.99,
+        "Nov": 2.11,
+        "Dec": 1.71
+      },
+      "average": 3.46
+    },
+    {
+      "name": "Monthey",
+      "admin1_code": "VS",
+      "location": [
+        46.25451,
+        6.95406
+      ],
+      "monthly": {
+        "Jan": 2.39,
+        "Feb": 3.16,
+        "Mar": 3.91,
+        "Apr": 4.21,
+        "May": 4.09,
+        "Jun": 4.44,
+        "Jul": 4.45,
+        "Aug": 4.28,
+        "Sep": 3.9,
+        "Oct": 3.21,
+        "Nov": 2.4,
+        "Dec": 2.13
+      },
+      "average": 3.55
+    },
+    {
+      "name": "Meyrin",
+      "admin1_code": "GE",
+      "location": [
+        46.23424,
+        6.08025
+      ],
+      "monthly": {
+        "Jan": 1.97,
+        "Feb": 3.04,
+        "Mar": 4.03,
+        "Apr": 4.4,
+        "May": 4.49,
+        "Jun": 4.9,
+        "Jul": 4.91,
+        "Aug": 4.66,
+        "Sep": 4.11,
+        "Oct": 2.96,
+        "Nov": 2.03,
+        "Dec": 1.58
+      },
+      "average": 3.59
+    },
+    {
+      "name": "Martigny-Ville",
+      "admin1_code": "VS",
+      "location": [
+        46.10276,
+        7.07245
+      ],
+      "monthly": {
+        "Jan": 2.02,
+        "Feb": 3.14,
+        "Mar": 3.93,
+        "Apr": 4.25,
+        "May": 4.22,
+        "Jun": 4.59,
+        "Jul": 4.63,
+        "Aug": 4.4,
+        "Sep": 4.01,
+        "Oct": 3.26,
+        "Nov": 2.17,
+        "Dec": 1.54
+      },
+      "average": 3.51
+    },
+    {
+      "name": "Luzern",
+      "admin1_code": "LU",
+      "location": [
+        47.05048,
+        8.30635
+      ],
+      "monthly": {
+        "Jan": 1.77,
+        "Feb": 2.6,
+        "Mar": 3.58,
+        "Apr": 4.03,
+        "May": 3.98,
+        "Jun": 4.3,
+        "Jul": 4.34,
+        "Aug": 4.1,
+        "Sep": 3.49,
+        "Oct": 2.62,
+        "Nov": 1.74,
+        "Dec": 1.41
+      },
+      "average": 3.16
+    },
+    {
+      "name": "Lugano",
+      "admin1_code": "TI",
+      "location": [
+        46.01008,
+        8.96004
+      ],
+      "monthly": {
+        "Jan": 2.91,
+        "Feb": 3.58,
+        "Mar": 4.26,
+        "Apr": 4.28,
+        "May": 4.33,
+        "Jun": 4.71,
+        "Jul": 4.9,
+        "Aug": 4.65,
+        "Sep": 4.01,
+        "Oct": 3.13,
+        "Nov": 2.63,
+        "Dec": 2.47
+      },
+      "average": 3.82
+    },
+    {
+      "name": "Locarno",
+      "admin1_code": "TI",
+      "location": [
+        46.17086,
+        8.79953
+      ],
+      "monthly": {
+        "Jan": 2.9,
+        "Feb": 3.66,
+        "Mar": 4.4,
+        "Apr": 4.32,
+        "May": 4.28,
+        "Jun": 4.67,
+        "Jul": 4.83,
+        "Aug": 4.59,
+        "Sep": 4.04,
+        "Oct": 3.25,
+        "Nov": 2.64,
+        "Dec": 2.46
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Littau",
+      "admin1_code": "LU",
+      "location": [
+        47.05,
+        8.26274
+      ],
+      "monthly": {
+        "Jan": 0.39,
+        "Feb": 2.26,
+        "Mar": 3.48,
+        "Apr": 3.9,
+        "May": 3.84,
+        "Jun": 4.17,
+        "Jul": 4.22,
+        "Aug": 3.99,
+        "Sep": 3.4,
+        "Oct": 2.47,
+        "Nov": 1.02,
+        "Dec": 0.33
+      },
+      "average": 2.79
+    },
+    {
+      "name": "Lausanne",
+      "admin1_code": "VD",
+      "location": [
+        46.516,
+        6.63282
+      ],
+      "monthly": {
+        "Jan": 2.03,
+        "Feb": 3.04,
+        "Mar": 4.04,
+        "Apr": 4.48,
+        "May": 4.54,
+        "Jun": 4.95,
+        "Jul": 4.94,
+        "Aug": 4.65,
+        "Sep": 4.11,
+        "Oct": 3.03,
+        "Nov": 2.06,
+        "Dec": 1.61
+      },
+      "average": 3.62
+    },
+    {
+      "name": "La Chaux-de-Fonds",
+      "admin1_code": "NE",
+      "location": [
+        47.09993,
+        6.82586
+      ],
+      "monthly": {
+        "Jan": 2.18,
+        "Feb": 2.91,
+        "Mar": 3.83,
+        "Apr": 4.11,
+        "May": 3.92,
+        "Jun": 4.28,
+        "Jul": 4.35,
+        "Aug": 4.15,
+        "Sep": 3.72,
+        "Oct": 3.12,
+        "Nov": 2.16,
+        "Dec": 1.85
+      },
+      "average": 3.38
+    },
+    {
+      "name": "Kriens",
+      "admin1_code": "LU",
+      "location": [
+        47.0311,
+        8.28547
+      ],
+      "monthly": {
+        "Jan": 1.7,
+        "Feb": 2.51,
+        "Mar": 3.52,
+        "Apr": 3.93,
+        "May": 3.86,
+        "Jun": 4.16,
+        "Jul": 4.2,
+        "Aug": 3.98,
+        "Sep": 3.43,
+        "Oct": 2.61,
+        "Nov": 1.69,
+        "Dec": 1.35
+      },
+      "average": 3.08
+    },
+    {
+      "name": "Kreuzlingen",
+      "admin1_code": "TG",
+      "location": [
+        47.65051,
+        9.17504
+      ],
+      "monthly": {
+        "Jan": 1.59,
+        "Feb": 2.52,
+        "Mar": 3.67,
+        "Apr": 4.25,
+        "May": 4.36,
+        "Jun": 4.66,
+        "Jul": 4.63,
+        "Aug": 4.34,
+        "Sep": 3.66,
+        "Oct": 2.48,
+        "Nov": 1.55,
+        "Dec": 1.25
+      },
+      "average": 3.25
+    },
+    {
+      "name": "Köniz",
+      "admin1_code": "BE",
+      "location": [
+        46.92436,
+        7.41457
+      ],
+      "monthly": {
+        "Jan": 1.96,
+        "Feb": 2.84,
+        "Mar": 3.88,
+        "Apr": 4.27,
+        "May": 4.32,
+        "Jun": 4.74,
+        "Jul": 4.73,
+        "Aug": 4.48,
+        "Sep": 3.94,
+        "Oct": 2.92,
+        "Nov": 1.99,
+        "Dec": 1.62
+      },
+      "average": 3.47
+    },
+    {
+      "name": "Kloten",
+      "admin1_code": "ZH",
+      "location": [
+        47.45152,
+        8.58491
+      ],
+      "monthly": {
+        "Jan": 1.66,
+        "Feb": 2.6,
+        "Mar": 3.68,
+        "Apr": 4.25,
+        "May": 4.32,
+        "Jun": 4.68,
+        "Jul": 4.64,
+        "Aug": 4.38,
+        "Sep": 3.74,
+        "Oct": 2.6,
+        "Nov": 1.67,
+        "Dec": 1.33
+      },
+      "average": 3.3
+    },
+    {
+      "name": "Jona",
+      "admin1_code": "SG",
+      "location": [
+        47.22983,
+        8.83884
+      ],
+      "monthly": {
+        "Jan": 1.87,
+        "Feb": 2.69,
+        "Mar": 3.64,
+        "Apr": 4.18,
+        "May": 4.13,
+        "Jun": 4.47,
+        "Jul": 4.45,
+        "Aug": 4.22,
+        "Sep": 3.66,
+        "Oct": 2.74,
+        "Nov": 1.84,
+        "Dec": 1.52
+      },
+      "average": 3.28
+    },
+    {
+      "name": "Horgen",
+      "admin1_code": "ZH",
+      "location": [
+        47.25983,
+        8.59778
+      ],
+      "monthly": {
+        "Jan": 1.68,
+        "Feb": 2.49,
+        "Mar": 3.59,
+        "Apr": 4.14,
+        "May": 4.13,
+        "Jun": 4.47,
+        "Jul": 4.44,
+        "Aug": 4.19,
+        "Sep": 3.59,
+        "Oct": 2.6,
+        "Nov": 1.67,
+        "Dec": 1.31
+      },
+      "average": 3.19
+    },
+    {
+      "name": "Zürich (Kreis 10) / Höngg",
+      "admin1_code": "ZH",
+      "location": [
+        47.40313,
+        8.4971
+      ],
+      "monthly": {
+        "Jan": 1.67,
+        "Feb": 2.59,
+        "Mar": 3.65,
+        "Apr": 4.24,
+        "May": 4.3,
+        "Jun": 4.65,
+        "Jul": 4.63,
+        "Aug": 4.36,
+        "Sep": 3.71,
+        "Oct": 2.6,
+        "Nov": 1.69,
+        "Dec": 1.36
+      },
+      "average": 3.29
+    },
+    {
+      "name": "Herisau",
+      "admin1_code": "AR",
+      "location": [
+        47.38615,
+        9.27916
+      ],
+      "monthly": {
+        "Jan": 1.85,
+        "Feb": 2.62,
+        "Mar": 3.62,
+        "Apr": 4.13,
+        "May": 4.06,
+        "Jun": 4.36,
+        "Jul": 4.37,
+        "Aug": 4.17,
+        "Sep": 3.61,
+        "Oct": 2.73,
+        "Nov": 1.85,
+        "Dec": 1.56
+      },
+      "average": 3.24
+    },
+    {
+      "name": "Grenchen",
+      "admin1_code": "SO",
+      "location": [
+        47.1921,
+        7.39586
+      ],
+      "monthly": {
+        "Jan": 1.79,
+        "Feb": 2.73,
+        "Mar": 3.73,
+        "Apr": 4.18,
+        "May": 4.18,
+        "Jun": 4.58,
+        "Jul": 4.54,
+        "Aug": 4.31,
+        "Sep": 3.74,
+        "Oct": 2.76,
+        "Nov": 1.83,
+        "Dec": 1.48
+      },
+      "average": 3.32
+    },
+    {
+      "name": "Gossau",
+      "admin1_code": "SG",
+      "location": [
+        47.41551,
+        9.25482
+      ],
+      "monthly": {
+        "Jan": 1.84,
+        "Feb": 2.61,
+        "Mar": 3.6,
+        "Apr": 4.15,
+        "May": 4.11,
+        "Jun": 4.42,
+        "Jul": 4.43,
+        "Aug": 4.21,
+        "Sep": 3.62,
+        "Oct": 2.68,
+        "Nov": 1.81,
+        "Dec": 1.54
+      },
+      "average": 3.25
+    },
+    {
+      "name": "Genève",
+      "admin1_code": "GE",
+      "location": [
+        46.20222,
+        6.14569
+      ],
+      "monthly": {
+        "Jan": 1.9,
+        "Feb": 2.93,
+        "Mar": 4.03,
+        "Apr": 4.44,
+        "May": 4.53,
+        "Jun": 4.92,
+        "Jul": 4.95,
+        "Aug": 4.68,
+        "Sep": 4.14,
+        "Oct": 2.97,
+        "Nov": 1.99,
+        "Dec": 1.51
+      },
+      "average": 3.58
+    },
+    {
+      "name": "Fribourg",
+      "admin1_code": "FR",
+      "location": [
+        46.80237,
+        7.15128
+      ],
+      "monthly": {
+        "Jan": 2.06,
+        "Feb": 2.94,
+        "Mar": 3.92,
+        "Apr": 4.28,
+        "May": 4.32,
+        "Jun": 4.75,
+        "Jul": 4.71,
+        "Aug": 4.49,
+        "Sep": 3.97,
+        "Oct": 2.96,
+        "Nov": 2.04,
+        "Dec": 1.66
+      },
+      "average": 3.51
+    },
+    {
+      "name": "Frauenfeld",
+      "admin1_code": "TG",
+      "location": [
+        47.55776,
+        8.89893
+      ],
+      "monthly": {
+        "Jan": 1.64,
+        "Feb": 2.53,
+        "Mar": 3.64,
+        "Apr": 4.21,
+        "May": 4.3,
+        "Jun": 4.62,
+        "Jul": 4.6,
+        "Aug": 4.33,
+        "Sep": 3.67,
+        "Oct": 2.53,
+        "Nov": 1.62,
+        "Dec": 1.25
+      },
+      "average": 3.24
+    },
+    {
+      "name": "Emmen",
+      "admin1_code": "LU",
+      "location": [
+        47.07819,
+        8.27331
+      ],
+      "monthly": {
+        "Jan": 1.79,
+        "Feb": 2.63,
+        "Mar": 3.63,
+        "Apr": 4.1,
+        "May": 4.04,
+        "Jun": 4.39,
+        "Jul": 4.43,
+        "Aug": 4.18,
+        "Sep": 3.55,
+        "Oct": 2.64,
+        "Nov": 1.76,
+        "Dec": 1.46
+      },
+      "average": 3.22
+    },
+    {
+      "name": "Einsiedeln",
+      "admin1_code": "SZ",
+      "location": [
+        47.12849,
+        8.74735
+      ],
+      "monthly": {
+        "Jan": 2.12,
+        "Feb": 2.89,
+        "Mar": 3.77,
+        "Apr": 4.16,
+        "May": 3.97,
+        "Jun": 4.28,
+        "Jul": 4.3,
+        "Aug": 4.1,
+        "Sep": 3.65,
+        "Oct": 2.94,
+        "Nov": 2.07,
+        "Dec": 1.79
+      },
+      "average": 3.34
+    },
+    {
+      "name": "Dübendorf",
+      "admin1_code": "ZH",
+      "location": [
+        47.39724,
+        8.61872
+      ],
+      "monthly": {
+        "Jan": 1.72,
+        "Feb": 2.62,
+        "Mar": 3.67,
+        "Apr": 4.23,
+        "May": 4.27,
+        "Jun": 4.6,
+        "Jul": 4.57,
+        "Aug": 4.32,
+        "Sep": 3.7,
+        "Oct": 2.63,
+        "Nov": 1.73,
+        "Dec": 1.36
+      },
+      "average": 3.29
+    },
+    {
+      "name": "Dietikon",
+      "admin1_code": "ZH",
+      "location": [
+        47.40165,
+        8.40015
+      ],
+      "monthly": {
+        "Jan": 1.62,
+        "Feb": 2.57,
+        "Mar": 3.64,
+        "Apr": 4.21,
+        "May": 4.28,
+        "Jun": 4.64,
+        "Jul": 4.62,
+        "Aug": 4.35,
+        "Sep": 3.7,
+        "Oct": 2.57,
+        "Nov": 1.64,
+        "Dec": 1.3
+      },
+      "average": 3.26
+    },
+    {
+      "name": "Chur",
+      "admin1_code": "GR",
+      "location": [
+        46.84986,
+        9.53287
+      ],
+      "monthly": {
+        "Jan": 0.36,
+        "Feb": 1.64,
+        "Mar": 3.95,
+        "Apr": 4.23,
+        "May": 4.12,
+        "Jun": 4.37,
+        "Jul": 4.39,
+        "Aug": 4.16,
+        "Sep": 3.8,
+        "Oct": 2.44,
+        "Nov": 0.37,
+        "Dec": 0.29
+      },
+      "average": 2.84
+    },
+    {
+      "name": "Cham",
+      "admin1_code": "ZG",
+      "location": [
+        47.18213,
+        8.46358
+      ],
+      "monthly": {
+        "Jan": 1.67,
+        "Feb": 2.59,
+        "Mar": 3.64,
+        "Apr": 4.21,
+        "May": 4.2,
+        "Jun": 4.56,
+        "Jul": 4.54,
+        "Aug": 4.28,
+        "Sep": 3.63,
+        "Oct": 2.57,
+        "Nov": 1.64,
+        "Dec": 1.34
+      },
+      "average": 3.24
+    },
+    {
+      "name": "Carouge",
+      "admin1_code": "GE",
+      "location": [
+        46.18096,
+        6.13921
+      ],
+      "monthly": {
+        "Jan": 1.85,
+        "Feb": 2.92,
+        "Mar": 4.04,
+        "Apr": 4.45,
+        "May": 4.54,
+        "Jun": 4.93,
+        "Jul": 4.96,
+        "Aug": 4.7,
+        "Sep": 4.16,
+        "Oct": 2.98,
+        "Nov": 1.96,
+        "Dec": 1.48
+      },
+      "average": 3.58
+    },
+    {
+      "name": "Burgdorf",
+      "admin1_code": "BE",
+      "location": [
+        47.05901,
+        7.62786
+      ],
+      "monthly": {
+        "Jan": 1.81,
+        "Feb": 2.7,
+        "Mar": 3.77,
+        "Apr": 4.24,
+        "May": 4.3,
+        "Jun": 4.71,
+        "Jul": 4.71,
+        "Aug": 4.46,
+        "Sep": 3.87,
+        "Oct": 2.8,
+        "Nov": 1.83,
+        "Dec": 1.45
+      },
+      "average": 3.39
+    },
+    {
+      "name": "Bulle",
+      "admin1_code": "FR",
+      "location": [
+        46.61797,
+        7.0569
+      ],
+      "monthly": {
+        "Jan": 2.23,
+        "Feb": 3.15,
+        "Mar": 4.03,
+        "Apr": 4.28,
+        "May": 4.15,
+        "Jun": 4.57,
+        "Jul": 4.63,
+        "Aug": 4.4,
+        "Sep": 3.93,
+        "Oct": 3.16,
+        "Nov": 2.26,
+        "Dec": 1.94
+      },
+      "average": 3.56
+    },
+    {
+      "name": "Bülach",
+      "admin1_code": "ZH",
+      "location": [
+        47.52197,
+        8.54049
+      ],
+      "monthly": {
+        "Jan": 1.63,
+        "Feb": 2.55,
+        "Mar": 3.67,
+        "Apr": 4.24,
+        "May": 4.35,
+        "Jun": 4.71,
+        "Jul": 4.66,
+        "Aug": 4.38,
+        "Sep": 3.74,
+        "Oct": 2.56,
+        "Nov": 1.6,
+        "Dec": 1.26
+      },
+      "average": 3.28
+    },
+    {
+      "name": "Biel/Bienne",
+      "admin1_code": "BE",
+      "location": [
+        47.13713,
+        7.24608
+      ],
+      "monthly": {
+        "Jan": 1.73,
+        "Feb": 2.72,
+        "Mar": 3.74,
+        "Apr": 4.19,
+        "May": 4.23,
+        "Jun": 4.63,
+        "Jul": 4.58,
+        "Aug": 4.33,
+        "Sep": 3.76,
+        "Oct": 2.71,
+        "Nov": 1.78,
+        "Dec": 1.41
+      },
+      "average": 3.32
+    },
+    {
+      "name": "Bern",
+      "admin1_code": "BE",
+      "location": [
+        46.94809,
+        7.44744
+      ],
+      "monthly": {
+        "Jan": 1.97,
+        "Feb": 2.83,
+        "Mar": 3.88,
+        "Apr": 4.27,
+        "May": 4.32,
+        "Jun": 4.75,
+        "Jul": 4.74,
+        "Aug": 4.48,
+        "Sep": 3.92,
+        "Oct": 2.91,
+        "Nov": 1.96,
+        "Dec": 1.62
+      },
+      "average": 3.47
+    },
+    {
+      "name": "Bellinzona",
+      "admin1_code": "TI",
+      "location": [
+        46.19278,
+        9.01703
+      ],
+      "monthly": {
+        "Jan": 2.69,
+        "Feb": 3.52,
+        "Mar": 4.22,
+        "Apr": 4.15,
+        "May": 4.17,
+        "Jun": 4.62,
+        "Jul": 4.77,
+        "Aug": 4.51,
+        "Sep": 3.92,
+        "Oct": 3.15,
+        "Nov": 2.52,
+        "Dec": 2.28
+      },
+      "average": 3.71
+    },
+    {
+      "name": "Basel",
+      "admin1_code": "BS",
+      "location": [
+        47.55839,
+        7.57327
+      ],
+      "monthly": {
+        "Jan": 1.82,
+        "Feb": 2.63,
+        "Mar": 3.65,
+        "Apr": 4.16,
+        "May": 4.24,
+        "Jun": 4.64,
+        "Jul": 4.63,
+        "Aug": 4.36,
+        "Sep": 3.77,
+        "Oct": 2.81,
+        "Nov": 1.9,
+        "Dec": 1.57
+      },
+      "average": 3.35
+    },
+    {
+      "name": "Baden",
+      "admin1_code": "AG",
+      "location": [
+        47.47333,
+        8.30592
+      ],
+      "monthly": {
+        "Jan": 1.5,
+        "Feb": 2.49,
+        "Mar": 3.58,
+        "Apr": 4.15,
+        "May": 4.26,
+        "Jun": 4.63,
+        "Jul": 4.59,
+        "Aug": 4.32,
+        "Sep": 3.67,
+        "Oct": 2.52,
+        "Nov": 1.54,
+        "Dec": 1.18
+      },
+      "average": 3.2
+    },
+    {
+      "name": "Baar",
+      "admin1_code": "ZG",
+      "location": [
+        47.19625,
+        8.52954
+      ],
+      "monthly": {
+        "Jan": 1.76,
+        "Feb": 2.62,
+        "Mar": 3.69,
+        "Apr": 4.23,
+        "May": 4.21,
+        "Jun": 4.55,
+        "Jul": 4.54,
+        "Aug": 4.28,
+        "Sep": 3.67,
+        "Oct": 2.66,
+        "Nov": 1.71,
+        "Dec": 1.4
+      },
+      "average": 3.28
+    },
+    {
+      "name": "Zürich (Kreis 4) / Aussersihl",
+      "admin1_code": "ZH",
+      "location": [
+        47.37752,
+        8.52127
+      ],
+      "monthly": {
+        "Jan": 1.67,
+        "Feb": 2.58,
+        "Mar": 3.62,
+        "Apr": 4.2,
+        "May": 4.25,
+        "Jun": 4.59,
+        "Jul": 4.57,
+        "Aug": 4.31,
+        "Sep": 3.67,
+        "Oct": 2.6,
+        "Nov": 1.69,
+        "Dec": 1.36
+      },
+      "average": 3.26
+    },
+    {
+      "name": "Allschwil",
+      "admin1_code": "BL",
+      "location": [
+        47.55074,
+        7.53599
+      ],
+      "monthly": {
+        "Jan": 1.82,
+        "Feb": 2.64,
+        "Mar": 3.65,
+        "Apr": 4.15,
+        "May": 4.24,
+        "Jun": 4.63,
+        "Jul": 4.63,
+        "Aug": 4.36,
+        "Sep": 3.77,
+        "Oct": 2.81,
+        "Nov": 1.9,
+        "Dec": 1.57
+      },
+      "average": 3.35
+    },
+    {
+      "name": "Adliswil",
+      "admin1_code": "ZH",
+      "location": [
+        47.30997,
+        8.52462
+      ],
+      "monthly": {
+        "Jan": 1.59,
+        "Feb": 2.44,
+        "Mar": 3.52,
+        "Apr": 4.15,
+        "May": 4.2,
+        "Jun": 4.53,
+        "Jul": 4.52,
+        "Aug": 4.25,
+        "Sep": 3.58,
+        "Oct": 2.51,
+        "Nov": 1.6,
+        "Dec": 1.28
+      },
+      "average": 3.18
+    },
+    {
+      "name": "Aarau",
+      "admin1_code": "AG",
+      "location": [
+        47.39254,
+        8.04422
+      ],
+      "monthly": {
+        "Jan": 1.53,
+        "Feb": 2.55,
+        "Mar": 3.6,
+        "Apr": 4.14,
+        "May": 4.21,
+        "Jun": 4.6,
+        "Jul": 4.56,
+        "Aug": 4.3,
+        "Sep": 3.66,
+        "Oct": 2.54,
+        "Nov": 1.6,
+        "Dec": 1.27
+      },
+      "average": 3.21
+    },
+    {
+      "name": "Riehen",
+      "admin1_code": "BS",
+      "location": [
+        47.57884,
+        7.64683
+      ],
+      "monthly": {
+        "Jan": 1.78,
+        "Feb": 2.62,
+        "Mar": 3.61,
+        "Apr": 4.13,
+        "May": 4.21,
+        "Jun": 4.58,
+        "Jul": 4.56,
+        "Aug": 4.33,
+        "Sep": 3.76,
+        "Oct": 2.8,
+        "Nov": 1.87,
+        "Dec": 1.55
+      },
+      "average": 3.32
+    },
+    {
+      "name": "Zürich (Kreis 10) / Wipkingen",
+      "admin1_code": "ZH",
+      "location": [
+        47.39503,
+        8.52529
+      ],
+      "monthly": {
+        "Jan": 1.68,
+        "Feb": 2.6,
+        "Mar": 3.65,
+        "Apr": 4.22,
+        "May": 4.28,
+        "Jun": 4.62,
+        "Jul": 4.61,
+        "Aug": 4.34,
+        "Sep": 3.7,
+        "Oct": 2.61,
+        "Nov": 1.7,
+        "Dec": 1.38
+      },
+      "average": 3.28
+    },
+    {
+      "name": "Zürich (Kreis 11) / Affoltern",
+      "admin1_code": "ZH",
+      "location": [
+        47.41814,
+        8.5122
+      ],
+      "monthly": {
+        "Jan": 1.66,
+        "Feb": 2.59,
+        "Mar": 3.65,
+        "Apr": 4.22,
+        "May": 4.29,
+        "Jun": 4.63,
+        "Jul": 4.61,
+        "Aug": 4.35,
+        "Sep": 3.71,
+        "Oct": 2.58,
+        "Nov": 1.67,
+        "Dec": 1.34
+      },
+      "average": 3.28
+    },
+    {
+      "name": "Zürich (Kreis 2) / Wollishofen",
+      "admin1_code": "ZH",
+      "location": [
+        47.3401,
+        8.53134
+      ],
+      "monthly": {
+        "Jan": 1.69,
+        "Feb": 2.57,
+        "Mar": 3.61,
+        "Apr": 4.19,
+        "May": 4.23,
+        "Jun": 4.55,
+        "Jul": 4.54,
+        "Aug": 4.28,
+        "Sep": 3.66,
+        "Oct": 2.61,
+        "Nov": 1.71,
+        "Dec": 1.37
+      },
+      "average": 3.25
+    },
+    {
+      "name": "Zürich (Kreis 3) / Sihlfeld",
+      "admin1_code": "ZH",
+      "location": [
+        47.37382,
+        8.51164
+      ],
+      "monthly": {
+        "Jan": 1.65,
+        "Feb": 2.57,
+        "Mar": 3.62,
+        "Apr": 4.19,
+        "May": 4.24,
+        "Jun": 4.57,
+        "Jul": 4.56,
+        "Aug": 4.3,
+        "Sep": 3.67,
+        "Oct": 2.59,
+        "Nov": 1.66,
+        "Dec": 1.31
+      },
+      "average": 3.24
+    },
+    {
+      "name": "Zürich (Kreis 6) / Unterstrass",
+      "admin1_code": "ZH",
+      "location": [
+        47.3953,
+        8.53721
+      ],
+      "monthly": {
+        "Jan": 1.68,
+        "Feb": 2.6,
+        "Mar": 3.65,
+        "Apr": 4.22,
+        "May": 4.28,
+        "Jun": 4.61,
+        "Jul": 4.59,
+        "Aug": 4.33,
+        "Sep": 3.7,
+        "Oct": 2.61,
+        "Nov": 1.69,
+        "Dec": 1.37
+      },
+      "average": 3.28
+    },
+    {
+      "name": "Zürich (Kreis 9) / Albisrieden",
+      "admin1_code": "ZH",
+      "location": [
+        47.37398,
+        8.49007
+      ],
+      "monthly": {
+        "Jan": 1.51,
+        "Feb": 2.46,
+        "Mar": 3.58,
+        "Apr": 4.16,
+        "May": 4.21,
+        "Jun": 4.55,
+        "Jul": 4.53,
+        "Aug": 4.28,
+        "Sep": 3.64,
+        "Oct": 2.52,
+        "Nov": 1.56,
+        "Dec": 1.16
+      },
+      "average": 3.18
+    },
+    {
+      "name": "Zürich (Kreis 9) / Altstetten",
+      "admin1_code": "ZH",
+      "location": [
+        47.38946,
+        8.48533
+      ],
+      "monthly": {
+        "Jan": 1.66,
+        "Feb": 2.57,
+        "Mar": 3.62,
+        "Apr": 4.2,
+        "May": 4.26,
+        "Jun": 4.61,
+        "Jul": 4.59,
+        "Aug": 4.32,
+        "Sep": 3.67,
+        "Oct": 2.58,
+        "Nov": 1.67,
+        "Dec": 1.33
+      },
+      "average": 3.26
+    },
+    {
+      "name": "Stadt Winterthur (Kreis 1)",
+      "admin1_code": "ZH",
+      "location": [
+        47.49494,
+        8.71954
+      ],
+      "monthly": {
+        "Jan": 1.62,
+        "Feb": 2.53,
+        "Mar": 3.61,
+        "Apr": 4.2,
+        "May": 4.29,
+        "Jun": 4.64,
+        "Jul": 4.59,
+        "Aug": 4.32,
+        "Sep": 3.68,
+        "Oct": 2.55,
+        "Nov": 1.63,
+        "Dec": 1.3
+      },
+      "average": 3.25
+    },
+    {
+      "name": "Zürich (Kreis 12)",
+      "admin1_code": "ZH",
+      "location": [
+        47.40372,
+        8.57608
+      ],
+      "monthly": {
+        "Jan": 1.67,
+        "Feb": 2.59,
+        "Mar": 3.64,
+        "Apr": 4.2,
+        "May": 4.25,
+        "Jun": 4.58,
+        "Jul": 4.56,
+        "Aug": 4.3,
+        "Sep": 3.69,
+        "Oct": 2.61,
+        "Nov": 1.7,
+        "Dec": 1.32
+      },
+      "average": 3.26
+    },
+    {
+      "name": "Seen (Kreis 3)",
+      "admin1_code": "ZH",
+      "location": [
+        47.47646,
+        8.76996
+      ],
+      "monthly": {
+        "Jan": 1.68,
+        "Feb": 2.56,
+        "Mar": 3.62,
+        "Apr": 4.2,
+        "May": 4.28,
+        "Jun": 4.61,
+        "Jul": 4.57,
+        "Aug": 4.32,
+        "Sep": 3.68,
+        "Oct": 2.6,
+        "Nov": 1.69,
+        "Dec": 1.34
+      },
+      "average": 3.26
+    },
+    {
+      "name": "Zürich (Kreis 3)",
+      "admin1_code": "ZH",
+      "location": [
+        47.35785,
+        8.50296
+      ],
+      "monthly": {
+        "Jan": 1.52,
+        "Feb": 2.4,
+        "Mar": 3.53,
+        "Apr": 4.15,
+        "May": 4.21,
+        "Jun": 4.55,
+        "Jul": 4.53,
+        "Aug": 4.28,
+        "Sep": 3.59,
+        "Oct": 2.49,
+        "Nov": 1.54,
+        "Dec": 1.22
+      },
+      "average": 3.17
+    },
+    {
+      "name": "Zürich (Kreis 11)",
+      "admin1_code": "ZH",
+      "location": [
+        47.42326,
+        8.52166
+      ],
+      "monthly": {
+        "Jan": 1.67,
+        "Feb": 2.6,
+        "Mar": 3.65,
+        "Apr": 4.22,
+        "May": 4.29,
+        "Jun": 4.63,
+        "Jul": 4.61,
+        "Aug": 4.35,
+        "Sep": 3.71,
+        "Oct": 2.59,
+        "Nov": 1.68,
+        "Dec": 1.35
+      },
+      "average": 3.28
+    },
+    {
+      "name": "Zürich (Kreis 9)",
+      "admin1_code": "ZH",
+      "location": [
+        47.38245,
+        8.47993
+      ],
+      "monthly": {
+        "Jan": 1.58,
+        "Feb": 2.5,
+        "Mar": 3.59,
+        "Apr": 4.18,
+        "May": 4.23,
+        "Jun": 4.58,
+        "Jul": 4.56,
+        "Aug": 4.3,
+        "Sep": 3.64,
+        "Oct": 2.53,
+        "Nov": 1.59,
+        "Dec": 1.26
+      },
+      "average": 3.21
+    },
+    {
+      "name": "Oberwinterthur (Kreis 2)",
+      "admin1_code": "ZH",
+      "location": [
+        47.51692,
+        8.76863
+      ],
+      "monthly": {
+        "Jan": 1.67,
+        "Feb": 2.56,
+        "Mar": 3.65,
+        "Apr": 4.23,
+        "May": 4.33,
+        "Jun": 4.66,
+        "Jul": 4.62,
+        "Aug": 4.35,
+        "Sep": 3.7,
+        "Oct": 2.57,
+        "Nov": 1.65,
+        "Dec": 1.31
+      },
+      "average": 3.28
+    },
+    {
+      "name": "Zürich (Kreis 10)",
+      "admin1_code": "ZH",
+      "location": [
+        47.40773,
+        8.5005
+      ],
+      "monthly": {
+        "Jan": 1.66,
+        "Feb": 2.59,
+        "Mar": 3.66,
+        "Apr": 4.24,
+        "May": 4.3,
+        "Jun": 4.64,
+        "Jul": 4.62,
+        "Aug": 4.36,
+        "Sep": 3.71,
+        "Oct": 2.6,
+        "Nov": 1.68,
+        "Dec": 1.36
+      },
+      "average": 3.29
+    },
+    {
+      "name": "Zürich (Kreis 2)",
+      "admin1_code": "ZH",
+      "location": [
+        47.33756,
+        8.5211
+      ],
+      "monthly": {
+        "Jan": 1.63,
+        "Feb": 2.51,
+        "Mar": 3.56,
+        "Apr": 4.15,
+        "May": 4.18,
+        "Jun": 4.51,
+        "Jul": 4.49,
+        "Aug": 4.24,
+        "Sep": 3.62,
+        "Oct": 2.56,
+        "Nov": 1.65,
+        "Dec": 1.32
+      },
+      "average": 3.2
+    },
+    {
+      "name": "Zürich (Kreis 8)",
+      "admin1_code": "ZH",
+      "location": [
+        47.3548,
+        8.56097
+      ],
+      "monthly": {
+        "Jan": 1.69,
+        "Feb": 2.58,
+        "Mar": 3.63,
+        "Apr": 4.2,
+        "May": 4.24,
+        "Jun": 4.56,
+        "Jul": 4.55,
+        "Aug": 4.28,
+        "Sep": 3.67,
+        "Oct": 2.62,
+        "Nov": 1.72,
+        "Dec": 1.38
+      },
+      "average": 3.26
+    },
+    {
+      "name": "Zürich (Kreis 7)",
+      "admin1_code": "ZH",
+      "location": [
+        47.37328,
+        8.58038
+      ],
+      "monthly": {
+        "Jan": 1.72,
+        "Feb": 2.61,
+        "Mar": 3.67,
+        "Apr": 4.24,
+        "May": 4.28,
+        "Jun": 4.61,
+        "Jul": 4.6,
+        "Aug": 4.34,
+        "Sep": 3.72,
+        "Oct": 2.65,
+        "Nov": 1.74,
+        "Dec": 1.38
+      },
+      "average": 3.3
+    },
+    {
+      "name": "Zürich (Kreis 6)",
+      "admin1_code": "ZH",
+      "location": [
+        47.39223,
+        8.54381
+      ],
+      "monthly": {
+        "Jan": 1.64,
+        "Feb": 2.59,
+        "Mar": 3.64,
+        "Apr": 4.21,
+        "May": 4.26,
+        "Jun": 4.59,
+        "Jul": 4.58,
+        "Aug": 4.32,
+        "Sep": 3.69,
+        "Oct": 2.6,
+        "Nov": 1.68,
+        "Dec": 1.36
+      },
+      "average": 3.26
+    },
+    {
+      "name": "Lancy",
+      "admin1_code": "GE",
+      "location": [
+        46.18981,
+        6.11441
+      ],
+      "monthly": {
+        "Jan": 1.89,
+        "Feb": 2.96,
+        "Mar": 4.06,
+        "Apr": 4.47,
+        "May": 4.56,
+        "Jun": 4.94,
+        "Jul": 4.97,
+        "Aug": 4.72,
+        "Sep": 4.17,
+        "Oct": 2.99,
+        "Nov": 2.01,
+        "Dec": 1.51
+      },
+      "average": 3.6
+    },
+    {
+      "name": "Reinach",
+      "admin1_code": "BL",
+      "location": [
+        47.49702,
+        7.59172
+      ],
+      "monthly": {
+        "Jan": 1.83,
+        "Feb": 2.6,
+        "Mar": 3.59,
+        "Apr": 4.07,
+        "May": 4.12,
+        "Jun": 4.5,
+        "Jul": 4.49,
+        "Aug": 4.26,
+        "Sep": 3.71,
+        "Oct": 2.81,
+        "Nov": 1.89,
+        "Dec": 1.58
+      },
+      "average": 3.29
+    }
+  ]
+}

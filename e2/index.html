@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Energy Consumption Calculator</title>
+    <link rel="stylesheet" href="lib/leaflet/leaflet.css" />
+    <link rel="stylesheet" href="lib/leaflet.markercluster/MarkerCluster.css" />
+    <link rel="stylesheet" href="lib/leaflet.markercluster/MarkerCluster.Default.css" />
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/media.css">
+    <link rel="stylesheet" href="css/map-components.css">
+    <script src="lib/leaflet/leaflet.js"></script>
+    <script src="lib/leaflet.markercluster/leaflet.markercluster.js"></script>
+    <script src="lib/chart.js/chart.umd.js" defer></script>
+    <script src="lib/jspdf/jspdf.umd.min.js"></script>
+    <script src="lib/html2canvas/html2canvas.min.js"></script>
+    <script src="js/load-local-file.js"></script> 
+    <script src="js/calculator.js" defer></script>
+    <script src="js/map.js" defer></script>
+</head>
+<body>
+    <div class="company-info">www.opensolardesign.com</div>
+    
+    
+    <div class="background-map">
+        <div id="map"></div>
+        
+    </div>
+    
+    
+    <div id="confirmationDisplay" class="confirmation-display">
+        <div class="confirmation-header">
+            <h4>Confirmation Summary</h4>
+            <button class="minimize-btn" id="minimizeConfirmation">−</button>
+        </div>
+        <div id="confirmationContent"></div>
+    </div>
+    
+    
+    <div id="resetConfirmModal" class="modal-overlay">
+        <div class="modal-content">
+            <div class="modal-title">Confirm Reset</div>
+            <div class="modal-message">Reset all calculator data?</div>
+            <div class="modal-buttons">
+                <button id="modalCancelBtn" class="modal-btn modal-cancel">Cancel</button>
+                <button id="modalConfirmBtn" class="modal-btn modal-confirm">Confirm</button>
+            </div>
+        </div>
+    </div>
+    
+    
+    <div id="calculateConfirmModal" class="modal-overlay">
+        <div class="modal-content">
+            <div class="modal-title">Confirm Calculation</div>
+            <div class="modal-message">Start calculation?</div>
+            <div class="modal-buttons">
+                <button id="calcModalCancelBtn" class="modal-btn modal-cancel">Cancel</button>
+                <button id="calcModalConfirmBtn" class="modal-btn modal-confirm">Start Calculation</button>
+            </div>
+        </div>
+    </div>
+    
+    
+    <div id="dodConfirmModal" class="modal-overlay">
+        <div class="modal-content">
+            <div class="modal-title">Confirm DOD Change</div>
+            <div class="modal-message" id="dodModalMessage">Change the DOD setting?</div>
+            <div class="modal-buttons">
+                <button id="dodModalCancelBtn" class="modal-btn modal-cancel">Cancel</button>
+                <button id="dodModalConfirmBtn" class="modal-btn modal-confirm">Confirm</button>
+            </div>
+        </div>
+    </div>
+    
+    
+    <div id="pdfExportConfirmModal" class="modal-overlay">
+        <div class="modal-content">
+            <div class="modal-title">Confirm PDF Export</div>
+            <div class="modal-message">Export the calculation results as a PDF report?</div>
+            <div class="modal-buttons">
+                <button id="pdfModalCancelBtn" class="modal-btn modal-cancel">Cancel</button>
+                <button id="pdfModalConfirmBtn" class="modal-btn modal-confirm">Export PDF</button>
+            </div>
+        </div>
+    </div>
+    
+    
+    <div id="reportModal" class="modal-overlay report-modal-overlay">
+        <div class="report-modal-content">
+            <div class="report-modal-header">
+                <h3>Energy Consumption Calculator Report</h3>
+                <button id="closeReportBtn" class="close-report-btn">×</button>
+            </div>
+            <div class="report-modal-body" id="reportModalBody">
+                
+            </div>
+            <div class="report-modal-footer">
+                <button class="report-modal-btn report-modal-btn-secondary" id="reportCloseBtn">Close</button>
+            </div>
+        </div>
+    </div>
+    
+    
+    <button id="resetAllBtn" class="reset-all-btn">Reset All</button>
+    
+    
+    <div class="bottom-tabs">
+        <div class="tab-item" data-tab="step1">
+            <div class="tab-icon">◐</div>
+            <div class="tab-label">Solar</div>
+            <button class="tab-reset-btn" data-reset="solar">Reset</button>
+        </div>
+        <div class="tab-item" data-tab="step2">
+            <div class="tab-icon">▮</div>
+            <div class="tab-label">Battery</div>
+            <button class="tab-reset-btn" data-reset="battery">Reset</button>
+        </div>
+        <div class="tab-item" data-tab="step3">
+            <div class="tab-icon">◑</div>
+            <div class="tab-label">Luminaire</div>
+            <button class="tab-reset-btn" data-reset="luminaire">Reset</button>
+        </div>
+        <div class="tab-item" data-tab="calculate">
+            <div class="tab-icon">▬</div>
+            <div class="tab-label">Calculate</div>
+        </div>
+    </div>
+    
+    
+    <div class="container">
+        
+        
+        
+        
+        
+        <div class="calculator-content energy-calculator">
+            
+            <div class="calculator-container">
+                <div class="calculator">
+                    <h3 class="calculator-header-hidden">Solar Energy：solar conditions <button class="reset-btn" data-reset="solar">Reset</button></h3>
+                    <div class="calculator-content-inner">
+                        <table>
+                            <tr>
+                                <th>Parameter</th>
+                                <th>Value</th>
+                            </tr>
+                            <tr>
+                                <td>Peak Sun Hours</td>
+                                <td><input type="number" id="peakSunHours" min="0" step="0.1" value="5"></td>
+                            </tr>
+                            <tr>
+                                <td>Solar Panel Wattage (W)</td>
+                                <td><input type="number" id="panelWattage" min="0" value="100"></td>
+                            </tr>
+                            <tr>
+                                <td>Number of Solar Panels</td>
+                                <td><input type="number" id="panelCount" min="1" value="1"></td>
+                            </tr>
+                        </table>
+                        <div id="solarResult" class="result">Daily Energy: 0 Wh</div>
+                        <button class="confirm-btn" data-calculator="solar">Confirm</button>
+                        <button class="close-calculator-btn" data-calculator="solar">Close</button>
+                    </div>
+                    </div>
+                    <div class="calculator">
+                        <h3 class="calculator-header-hidden">Battery Capacity <button class="reset-btn" data-reset="battery">Reset</button></h3>
+                        <div class="calculator-content-inner">
+                        <table>
+                            <tr>
+                                <th>Parameter</th>
+                                <th>Value</th>
+                            </tr>
+                            <tr>
+                                <td>Battery Voltage (V)</td>
+                                <td><input type="number" id="batteryVoltage" min="0" step="0.1" value="12"></td>
+                            </tr>
+                            <tr>
+                                <td>Battery Capacity (Ah)</td>
+                                <td><input type="number" id="batteryCapacity" min="0" step="0.1" value="100"></td>
+                            </tr>
+                            <tr>
+                                <td>Number of Batteries</td>
+                                <td><input type="number" id="batteryCount" min="1" value="1"></td>
+                            </tr>
+                        </table>
+                        <div id="batteryResult" class="result">Total Battery Capacity: 0 Wh</div>
+                        <button class="confirm-btn" data-calculator="battery">Confirm</button>
+                        <button class="close-calculator-btn" data-calculator="battery">Close</button>
+                        </div>
+                    </div>
+                    <div class="calculator">
+                        <h3 class="calculator-header-hidden">Luminaire Energy <button class="reset-btn" data-reset="luminaire">Reset</button></h3>
+                        <div class="calculator-content-inner">
+                    <table>
+                        <tr>
+                            <th>Parameter</th>
+                            <th>Value</th>
+                        </tr>
+                        <tr>
+                            <td>Luminaire Wattage (W)</td>
+                            <td><input type="number" id="luminaireWattage" min="0" step="0.1" value="20"></td>
+                        </tr>
+                        <tr>
+                            <td>Number of Luminaires</td>
+                            <td><input type="number" id="luminaireCount" min="1" value="1"></td>
+                        </tr>
+                        <tr>
+                            <td>Lighting Duration</td>
+                            <td>
+                                <select id="lightingDuration">
+                                    <option value="14">Dusk to Dawn (14 hours)</option>
+                                    <option value="1">1 hour</option>
+                                    <option value="2">2 hours</option>
+                                    <option value="3">3 hours</option>
+                                    <option value="4">4 hours</option>
+                                    <option value="5">5 hours</option>
+                                    <option value="6">6 hours</option>
+                                    <option value="7">7 hours</option>
+                                    <option value="8">8 hours</option>
+                                    <option value="9">9 hours</option>
+                                    <option value="10">10 hours</option>
+                                    <option value="11">11 hours</option>
+                                    <option value="12">12 hours</option>
+                                    <option value="13">13 hours</option>
+                                    <option value="15">15 hours</option>
+                                    <option value="16">16 hours</option>
+                                    <option value="17">17 hours</option>
+                                    <option value="18">18 hours</option>
+                                    <option value="19">19 hours</option>
+                                    <option value="20">20 hours</option>
+                                    <option value="21">21 hours</option>
+                                    <option value="22">22 hours</option>
+                                    <option value="23">23 hours</option>
+                                    <option value="24">24 hours</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>DIM Mode</td>
+                            <td>
+                                <input type="checkbox" id="dimMode"> Enable
+                            </td>
+                        </tr>
+                        <tbody id="dimModeFields">
+                        <tr>
+                            <td>Initial Full Brightness (hours)</td>
+                            <td>
+                                <select id="initialFullBrightness">
+                                    <option value="1">1 hour</option>
+                                    <option value="2" selected>2 hours</option>
+                                    <option value="3">3 hours</option>
+                                    <option value="4">4 hours</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>DIM Brightness (%)</td>
+                            <td>
+                                <select id="dimBrightness">
+                                    <option value="30">30%</option>
+                                    <option value="40">40%</option>
+                                    <option value="50" selected>50%</option>
+                                    <option value="60">60%</option>
+                                    <option value="70">70%</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Pre-Dawn Full Brightness (hours)</td>
+                            <td>
+                                <select id="preDawnBrightness">
+                                    <option value="1">1 hour</option>
+                                    <option value="2" selected>2 hours</option>
+                                    <option value="3">3 hours</option>
+                                </select>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                    <div id="luminaireResult" class="result">Night Energy Consumption: Click Confirm to calculate</div>
+                        <button class="confirm-btn" data-calculator="luminaire">Confirm</button>
+                        <button class="close-calculator-btn" data-calculator="luminaire">Close</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="calculate-btn">
+                <button id="calculateButton" class="calculate-btn-hidden">Calculate</button>
+            </div>
+            <div id="calculationResults" class="calculation-results">
+                <div class="results-close-wrapper">
+                    <button class="close-results-btn" id="closeResultsBtn">×</button>
+                </div>
+                <div class="results-header">
+                    <span class="results-title" id="resultsTitle">Results</span>
+                    
+                </div>
+                <div id="resultsContent" class="results-content">
+                    <h3 class="results-section-title">Calculation Results</h3>
+                    <div id="batteryTypeButtons" class="battery-type-buttons">
+                        <button id="btnDefault" class="battery-btn default-btn active">Default (DOD 70%)</button>
+                        <button id="btnLeadAcid" class="battery-btn lead-acid-btn" data-battery-type="lead-acid">Lead Acid (DOD 60%)</button>
+                        <button id="btnLithium" class="battery-btn lithium-btn" data-battery-type="lithium">Lithium (DOD 90%)</button>
+                        <div class="custom-dod-wrapper">
+                            <div class="custom-dod-input-row">
+                                <input type="number" id="customDODInput" min="1" max="100" value="50" class="custom-dod-input">
+                                <span class="custom-dod-percent">%</span>
+                                <button id="btnCustomDOD" class="battery-btn custom-dod-btn">Confirm</button>
+                            </div>
+                            <div class="custom-dod-label">Custom DOD</div>
+                        </div>
+                    </div>
+                    <div class="results-tabs-container">
+                        <div class="results-tabs-sidebar">
+                            <button class="results-tab-btn active" data-tab="panel-battery-chart">Battery Chart</button>
+                            <button class="results-tab-btn" data-tab="panel-energy-chart">Energy Chart</button>
+                            <button class="results-tab-btn" data-tab="panel-lighting">Lighting</button>
+                            <button class="results-tab-btn" data-tab="panel-energy-table">Energy Table</button>
+                            <button class="results-tab-btn" data-tab="panel-battery-info">Battery Info</button>
+                        </div>
+                        <div class="results-tabs-content">
+                            <div class="results-tab-panel active" id="panel-battery-chart">
+                                <div class="chart-container-secondary">
+                                    <canvas id="batteryChart"></canvas>
+                                </div>
+                            </div>
+                            <div class="results-tab-panel" id="panel-energy-chart">
+                                <div class="chart-container">
+                                    <canvas id="energyChart"></canvas>
+                                </div>
+                            </div>
+                            <div class="results-tab-panel" id="panel-lighting">
+                                <div class="chart-container lighting-chart-container">
+                                    <canvas id="lightingChart"></canvas>
+                                </div>
+                            </div>
+                            <div class="results-tab-panel" id="panel-energy-table">
+                                <div class="table-scroll-wrapper">
+                                    <table class="energy-table">
+                                    <thead id="energyTableHead">
+                                        <tr>
+                                            <th>Day</th>
+                                            <th>Battery<br>Before<br>Dawn<br>(Wh)</th>
+                                            <th>Daily<br>Charging<br>(Wh)</th>
+                                            <th>Battery<br>Before<br>Evening<br>(Wh)</th>
+                                            <th>Daily<br>Discharging<br>(Wh)</th>
+                                            <th>Theoretical<br>Remaining<br>(Wh)</th>
+                                            <th>DOD<br>Limit<br>(%)</th>
+                                            <th>DOD<br>Reserve<br>(Wh)</th>
+                                            <th>Actual<br>Available<br>(Wh)</th>
+                                            <th>Actual<br>Discharge<br>(Wh)</th>
+                                            <th>End-of-Day<br>Remaining<br>(Wh)</th>
+                                            <th>Lighting<br>Duration<br>(h)</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="energyTableBody">
+                                    </tbody>
+                                </table>
+                            </div>
+                            </div>
+                            <div class="results-tab-panel" id="panel-battery-info">
+                                <div class="battery-info">
+                                    <div class="battery-select">
+                                        <label for="batteryType">Battery Type:</label>
+                                        <select id="batteryType">
+                                            <option value="lead-acid">Lead Acid</option>
+                                            <option value="lithium">Lithium</option>
+                                        </select>
+                                    </div>
+                                    <div id="batteryCirculation"></div>
+                                    <div id="batteryLifecycle"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="standards-reference">
+                        <h4>📋 Industry Standards Reference</h4>
+                        <div class="standards-list">
+                            <div class="standard-item">
+                                <span class="standard-code">IES RP-8-18</span>
+                                <span class="standard-name">Roadway Lighting Standards</span>
+                            </div>
+                            <div class="standard-item">
+                                <span class="standard-code">ASCE 7-16</span>
+                                <span class="standard-name">Minimum Design Loads for Buildings</span>
+                            </div>
+                            <div class="standard-item">
+                                <span class="standard-code">IEC 61215</span>
+                                <span class="standard-name">PV Module Design Qualification</span>
+                            </div>
+                            <div class="standard-item">
+                                <span class="standard-code">IEC 62619</span>
+                                <span class="standard-name">Lithium Battery Safety Standards</span>
+                            </div>
+                            <div class="standard-item">
+                                <span class="standard-code">IEEE 1547</span>
+                                <span class="standard-name">Grid Interconnection Standard</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    
+                    
+                </div>
+            </div>
+        </div>
+        
+        
+        </div>
+    </div>
+</body>
+</html>

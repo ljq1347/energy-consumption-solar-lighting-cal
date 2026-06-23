@@ -1,0 +1,29 @@
+{
+  "country": "AS",
+  "countryCode": "AS",
+  "cities": [
+    {
+      "name": "Pago Pago",
+      "admin1_code": "010",
+      "location": [
+        -14.27806,
+        -170.7025
+      ],
+      "monthly": {
+        "Jan": 4,
+        "Feb": 4.09,
+        "Mar": 4.35,
+        "Apr": 4.01,
+        "May": 3.55,
+        "Jun": 3.31,
+        "Jul": 3.36,
+        "Aug": 3.84,
+        "Sep": 4.09,
+        "Oct": 4.08,
+        "Nov": 4.09,
+        "Dec": 4.05
+      },
+      "average": 3.9
+    }
+  ]
+}

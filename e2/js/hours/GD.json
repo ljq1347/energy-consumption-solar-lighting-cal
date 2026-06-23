@@ -1,0 +1,29 @@
+{
+  "country": "Grenada",
+  "countryCode": "GD",
+  "cities": [
+    {
+      "name": "Saint George's",
+      "admin1_code": "03",
+      "location": [
+        12.05288,
+        -61.75226
+      ],
+      "monthly": {
+        "Jan": 4.76,
+        "Feb": 5.11,
+        "Mar": 5.23,
+        "Apr": 5.05,
+        "May": 4.79,
+        "Jun": 4.36,
+        "Jul": 4.53,
+        "Aug": 4.7,
+        "Sep": 4.95,
+        "Oct": 4.68,
+        "Nov": 4.48,
+        "Dec": 4.5
+      },
+      "average": 4.76
+    }
+  ]
+}

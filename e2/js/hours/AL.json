@@ -1,0 +1,581 @@
+{
+  "country": "Albania",
+  "countryCode": "AL",
+  "cities": [
+    {
+      "name": "Sarandë",
+      "admin1_code": "51",
+      "location": [
+        39.87534,
+        20.00477
+      ],
+      "monthly": {
+        "Jan": 2.88,
+        "Feb": 3.43,
+        "Mar": 4.24,
+        "Apr": 4.64,
+        "May": 5.1,
+        "Jun": 5.59,
+        "Jul": 5.74,
+        "Aug": 5.49,
+        "Sep": 4.72,
+        "Oct": 3.93,
+        "Nov": 2.87,
+        "Dec": 2.52
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Pogradec",
+      "admin1_code": "46",
+      "location": [
+        40.9025,
+        20.6525
+      ],
+      "monthly": {
+        "Jan": 2.59,
+        "Feb": 3.32,
+        "Mar": 3.99,
+        "Apr": 4.21,
+        "May": 4.56,
+        "Jun": 5.11,
+        "Jul": 5.38,
+        "Aug": 5.15,
+        "Sep": 4.3,
+        "Oct": 3.71,
+        "Nov": 2.71,
+        "Dec": 2.29
+      },
+      "average": 3.94
+    },
+    {
+      "name": "Librazhd",
+      "admin1_code": "43",
+      "location": [
+        41.17944,
+        20.315
+      ],
+      "monthly": {
+        "Jan": 2.58,
+        "Feb": 3.18,
+        "Mar": 3.87,
+        "Apr": 4.09,
+        "May": 4.5,
+        "Jun": 5.02,
+        "Jul": 5.27,
+        "Aug": 5.01,
+        "Sep": 4.26,
+        "Oct": 3.61,
+        "Nov": 2.56,
+        "Dec": 2.19
+      },
+      "average": 3.84
+    },
+    {
+      "name": "Kukës",
+      "admin1_code": "47",
+      "location": [
+        42.07694,
+        20.42194
+      ],
+      "monthly": {
+        "Jan": 2.28,
+        "Feb": 3.11,
+        "Mar": 3.79,
+        "Apr": 4.04,
+        "May": 4.47,
+        "Jun": 5,
+        "Jul": 5.27,
+        "Aug": 5.05,
+        "Sep": 4.14,
+        "Oct": 3.47,
+        "Nov": 2.38,
+        "Dec": 1.78
+      },
+      "average": 3.73
+    },
+    {
+      "name": "Korçë",
+      "admin1_code": "46",
+      "location": [
+        40.61861,
+        20.78083
+      ],
+      "monthly": {
+        "Jan": 2.83,
+        "Feb": 3.54,
+        "Mar": 4.22,
+        "Apr": 4.41,
+        "May": 4.67,
+        "Jun": 5.15,
+        "Jul": 5.36,
+        "Aug": 5.23,
+        "Sep": 4.49,
+        "Oct": 3.96,
+        "Nov": 3,
+        "Dec": 2.55
+      },
+      "average": 4.12
+    },
+    {
+      "name": "Gjirokastër",
+      "admin1_code": "45",
+      "location": [
+        40.07583,
+        20.13889
+      ],
+      "monthly": {
+        "Jan": 2.65,
+        "Feb": 3.18,
+        "Mar": 3.99,
+        "Apr": 4.3,
+        "May": 4.7,
+        "Jun": 5.18,
+        "Jul": 5.39,
+        "Aug": 5.12,
+        "Sep": 4.37,
+        "Oct": 3.77,
+        "Nov": 2.63,
+        "Dec": 2.29
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Elbasan",
+      "admin1_code": "43",
+      "location": [
+        41.11138,
+        20.08224
+      ],
+      "monthly": {
+        "Jan": 2.98,
+        "Feb": 3.47,
+        "Mar": 4.08,
+        "Apr": 4.24,
+        "May": 4.65,
+        "Jun": 5.12,
+        "Jul": 5.36,
+        "Aug": 5.13,
+        "Sep": 4.43,
+        "Oct": 3.86,
+        "Nov": 2.89,
+        "Dec": 2.59
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Bulqizë",
+      "admin1_code": "41",
+      "location": [
+        41.49167,
+        20.22194
+      ],
+      "monthly": {
+        "Jan": 2.4,
+        "Feb": 3.16,
+        "Mar": 4.03,
+        "Apr": 4.12,
+        "May": 4.44,
+        "Jun": 4.97,
+        "Jul": 5.22,
+        "Aug": 5.01,
+        "Sep": 4.22,
+        "Oct": 3.66,
+        "Nov": 2.58,
+        "Dec": 2.09
+      },
+      "average": 3.83
+    },
+    {
+      "name": "Vlorë",
+      "admin1_code": "51",
+      "location": [
+        40.4696,
+        19.48379
+      ],
+      "monthly": {
+        "Jan": 2.91,
+        "Feb": 3.47,
+        "Mar": 4.33,
+        "Apr": 4.63,
+        "May": 5.06,
+        "Jun": 5.48,
+        "Jul": 5.63,
+        "Aug": 5.4,
+        "Sep": 4.66,
+        "Oct": 3.9,
+        "Nov": 2.86,
+        "Dec": 2.54
+      },
+      "average": 4.24
+    },
+    {
+      "name": "Tirana",
+      "admin1_code": "50",
+      "location": [
+        41.32744,
+        19.81866
+      ],
+      "monthly": {
+        "Jan": 2.95,
+        "Feb": 3.46,
+        "Mar": 4.13,
+        "Apr": 4.34,
+        "May": 4.76,
+        "Jun": 5.25,
+        "Jul": 5.49,
+        "Aug": 5.26,
+        "Sep": 4.45,
+        "Oct": 3.83,
+        "Nov": 2.87,
+        "Dec": 2.57
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Shkodër",
+      "admin1_code": "49",
+      "location": [
+        42.06828,
+        19.51258
+      ],
+      "monthly": {
+        "Jan": 2.76,
+        "Feb": 3.38,
+        "Mar": 4.09,
+        "Apr": 4.4,
+        "May": 4.86,
+        "Jun": 5.34,
+        "Jul": 5.56,
+        "Aug": 5.31,
+        "Sep": 4.48,
+        "Oct": 3.74,
+        "Nov": 2.71,
+        "Dec": 2.43
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Rrashbull",
+      "admin1_code": "42",
+      "location": [
+        41.32278,
+        19.51028
+      ],
+      "monthly": {
+        "Jan": 2.95,
+        "Feb": 3.53,
+        "Mar": 4.34,
+        "Apr": 4.69,
+        "May": 5.13,
+        "Jun": 5.49,
+        "Jul": 5.69,
+        "Aug": 5.45,
+        "Sep": 4.7,
+        "Oct": 3.92,
+        "Nov": 2.87,
+        "Dec": 2.54
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Peqin",
+      "admin1_code": "43",
+      "location": [
+        41.04611,
+        19.75111
+      ],
+      "monthly": {
+        "Jan": 2.97,
+        "Feb": 3.5,
+        "Mar": 4.24,
+        "Apr": 4.51,
+        "May": 4.95,
+        "Jun": 5.38,
+        "Jul": 5.6,
+        "Aug": 5.35,
+        "Sep": 4.58,
+        "Oct": 3.91,
+        "Nov": 2.92,
+        "Dec": 2.6
+      },
+      "average": 4.21
+    },
+    {
+      "name": "Patos Fshat",
+      "admin1_code": "44",
+      "location": [
+        40.64278,
+        19.65083
+      ],
+      "monthly": {
+        "Jan": 3.01,
+        "Feb": 3.51,
+        "Mar": 4.28,
+        "Apr": 4.53,
+        "May": 4.93,
+        "Jun": 5.36,
+        "Jul": 5.55,
+        "Aug": 5.33,
+        "Sep": 4.58,
+        "Oct": 3.93,
+        "Nov": 2.94,
+        "Dec": 2.62
+      },
+      "average": 4.21
+    },
+    {
+      "name": "Patos",
+      "admin1_code": "44",
+      "location": [
+        40.68333,
+        19.61944
+      ],
+      "monthly": {
+        "Jan": 3.02,
+        "Feb": 3.53,
+        "Mar": 4.31,
+        "Apr": 4.58,
+        "May": 4.99,
+        "Jun": 5.4,
+        "Jul": 5.57,
+        "Aug": 5.35,
+        "Sep": 4.62,
+        "Oct": 3.94,
+        "Nov": 2.94,
+        "Dec": 2.63
+      },
+      "average": 4.24
+    },
+    {
+      "name": "Lushnjë",
+      "admin1_code": "44",
+      "location": [
+        40.94194,
+        19.705
+      ],
+      "monthly": {
+        "Jan": 2.99,
+        "Feb": 3.53,
+        "Mar": 4.3,
+        "Apr": 4.58,
+        "May": 4.99,
+        "Jun": 5.39,
+        "Jul": 5.59,
+        "Aug": 5.35,
+        "Sep": 4.63,
+        "Oct": 3.92,
+        "Nov": 2.92,
+        "Dec": 2.59
+      },
+      "average": 4.23
+    },
+    {
+      "name": "Lezhë",
+      "admin1_code": "48",
+      "location": [
+        41.78361,
+        19.64361
+      ],
+      "monthly": {
+        "Jan": 2.66,
+        "Feb": 3.31,
+        "Mar": 4.1,
+        "Apr": 4.4,
+        "May": 4.86,
+        "Jun": 5.33,
+        "Jul": 5.56,
+        "Aug": 5.3,
+        "Sep": 4.5,
+        "Oct": 3.69,
+        "Nov": 2.65,
+        "Dec": 2.31
+      },
+      "average": 4.06
+    },
+    {
+      "name": "Kuçovë",
+      "admin1_code": "40",
+      "location": [
+        40.80028,
+        19.91667
+      ],
+      "monthly": {
+        "Jan": 2.99,
+        "Feb": 3.53,
+        "Mar": 4.24,
+        "Apr": 4.43,
+        "May": 4.85,
+        "Jun": 5.28,
+        "Jul": 5.51,
+        "Aug": 5.28,
+        "Sep": 4.57,
+        "Oct": 3.91,
+        "Nov": 2.93,
+        "Dec": 2.6
+      },
+      "average": 4.18
+    },
+    {
+      "name": "Krujë",
+      "admin1_code": "42",
+      "location": [
+        41.50917,
+        19.79278
+      ],
+      "monthly": {
+        "Jan": 2.71,
+        "Feb": 3.23,
+        "Mar": 3.91,
+        "Apr": 4.18,
+        "May": 4.62,
+        "Jun": 5.18,
+        "Jul": 5.48,
+        "Aug": 5.21,
+        "Sep": 4.25,
+        "Oct": 3.64,
+        "Nov": 2.69,
+        "Dec": 2.41
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Kavajë",
+      "admin1_code": "50",
+      "location": [
+        41.18556,
+        19.55694
+      ],
+      "monthly": {
+        "Jan": 2.99,
+        "Feb": 3.55,
+        "Mar": 4.37,
+        "Apr": 4.7,
+        "May": 5.13,
+        "Jun": 5.51,
+        "Jul": 5.71,
+        "Aug": 5.47,
+        "Sep": 4.71,
+        "Oct": 3.96,
+        "Nov": 2.9,
+        "Dec": 2.57
+      },
+      "average": 4.3
+    },
+    {
+      "name": "Fushë-Krujë",
+      "admin1_code": "42",
+      "location": [
+        41.47833,
+        19.71778
+      ],
+      "monthly": {
+        "Jan": 2.89,
+        "Feb": 3.43,
+        "Mar": 4.15,
+        "Apr": 4.41,
+        "May": 4.86,
+        "Jun": 5.33,
+        "Jul": 5.57,
+        "Aug": 5.33,
+        "Sep": 4.49,
+        "Oct": 3.81,
+        "Nov": 2.83,
+        "Dec": 2.51
+      },
+      "average": 4.13
+    },
+    {
+      "name": "Fier-Çifçi",
+      "admin1_code": "44",
+      "location": [
+        40.71667,
+        19.56667
+      ],
+      "monthly": {
+        "Jan": 3.02,
+        "Feb": 3.56,
+        "Mar": 4.37,
+        "Apr": 4.65,
+        "May": 5.07,
+        "Jun": 5.46,
+        "Jul": 5.64,
+        "Aug": 5.4,
+        "Sep": 4.67,
+        "Oct": 3.96,
+        "Nov": 2.93,
+        "Dec": 2.63
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Fier",
+      "admin1_code": "44",
+      "location": [
+        40.7251,
+        19.55823
+      ],
+      "monthly": {
+        "Jan": 3.02,
+        "Feb": 3.56,
+        "Mar": 4.38,
+        "Apr": 4.66,
+        "May": 5.1,
+        "Jun": 5.48,
+        "Jul": 5.65,
+        "Aug": 5.41,
+        "Sep": 4.69,
+        "Oct": 3.96,
+        "Nov": 2.93,
+        "Dec": 2.62
+      },
+      "average": 4.29
+    },
+    {
+      "name": "Durrës",
+      "admin1_code": "42",
+      "location": [
+        41.32355,
+        19.45469
+      ],
+      "monthly": {
+        "Jan": 2.87,
+        "Feb": 3.47,
+        "Mar": 4.3,
+        "Apr": 4.69,
+        "May": 5.17,
+        "Jun": 5.53,
+        "Jul": 5.74,
+        "Aug": 5.47,
+        "Sep": 4.69,
+        "Oct": 3.87,
+        "Nov": 2.8,
+        "Dec": 2.46
+      },
+      "average": 4.25
+    },
+    {
+      "name": "Berat",
+      "admin1_code": "40",
+      "location": [
+        40.70583,
+        19.95222
+      ],
+      "monthly": {
+        "Jan": 2.73,
+        "Feb": 3.35,
+        "Mar": 4.11,
+        "Apr": 4.3,
+        "May": 4.72,
+        "Jun": 5.15,
+        "Jul": 5.41,
+        "Aug": 5.16,
+        "Sep": 4.42,
+        "Oct": 3.77,
+        "Nov": 2.75,
+        "Dec": 2.3
+      },
+      "average": 4.01
+    }
+  ]
+}

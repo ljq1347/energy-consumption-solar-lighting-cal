@@ -1,0 +1,190 @@
+{
+  "country": "Bahrain",
+  "countryCode": "BH",
+  "cities": [
+    {
+      "name": "Sitrah",
+      "admin1_code": "16",
+      "location": [
+        26.15472,
+        50.62056
+      ],
+      "monthly": {
+        "Jan": 4.28,
+        "Feb": 4.68,
+        "Mar": 5,
+        "Apr": 4.95,
+        "May": 5.26,
+        "Jun": 5.4,
+        "Jul": 5.13,
+        "Aug": 5.27,
+        "Sep": 5.46,
+        "Oct": 5.17,
+        "Nov": 4.36,
+        "Dec": 4.15
+      },
+      "average": 4.93
+    },
+    {
+      "name": "Madīnat ‘Īsá",
+      "admin1_code": "17",
+      "location": [
+        26.17361,
+        50.54778
+      ],
+      "monthly": {
+        "Jan": 4.34,
+        "Feb": 4.75,
+        "Mar": 5.07,
+        "Apr": 4.98,
+        "May": 5.25,
+        "Jun": 5.37,
+        "Jul": 5.12,
+        "Aug": 5.26,
+        "Sep": 5.47,
+        "Oct": 5.19,
+        "Nov": 4.4,
+        "Dec": 4.21
+      },
+      "average": 4.95
+    },
+    {
+      "name": "Jidd Ḩafş",
+      "admin1_code": "16",
+      "location": [
+        26.21861,
+        50.54778
+      ],
+      "monthly": {
+        "Jan": 4.3,
+        "Feb": 4.7,
+        "Mar": 5.02,
+        "Apr": 4.95,
+        "May": 5.26,
+        "Jun": 5.39,
+        "Jul": 5.13,
+        "Aug": 5.27,
+        "Sep": 5.47,
+        "Oct": 5.18,
+        "Nov": 4.37,
+        "Dec": 4.17
+      },
+      "average": 4.93
+    },
+    {
+      "name": "Madīnat Ḩamad",
+      "admin1_code": "19",
+      "location": [
+        26.11528,
+        50.50694
+      ],
+      "monthly": {
+        "Jan": 4.31,
+        "Feb": 4.73,
+        "Mar": 5.01,
+        "Apr": 4.91,
+        "May": 5.19,
+        "Jun": 5.29,
+        "Jul": 5.06,
+        "Aug": 5.21,
+        "Sep": 5.4,
+        "Oct": 5.14,
+        "Nov": 4.36,
+        "Dec": 4.17
+      },
+      "average": 4.9
+    },
+    {
+      "name": "Dār Kulayb",
+      "admin1_code": "17",
+      "location": [
+        26.06861,
+        50.50389
+      ],
+      "monthly": {
+        "Jan": 4.23,
+        "Feb": 4.68,
+        "Mar": 4.96,
+        "Apr": 4.88,
+        "May": 5.18,
+        "Jun": 5.29,
+        "Jul": 5.06,
+        "Aug": 5.2,
+        "Sep": 5.38,
+        "Oct": 5.11,
+        "Nov": 4.32,
+        "Dec": 4.09
+      },
+      "average": 4.87
+    },
+    {
+      "name": "Al Muharraq",
+      "admin1_code": "15",
+      "location": [
+        26.25722,
+        50.61194
+      ],
+      "monthly": {
+        "Jan": 4.28,
+        "Feb": 4.68,
+        "Mar": 5.02,
+        "Apr": 4.96,
+        "May": 5.27,
+        "Jun": 5.41,
+        "Jul": 5.13,
+        "Aug": 5.27,
+        "Sep": 5.46,
+        "Oct": 5.17,
+        "Nov": 4.35,
+        "Dec": 4.14
+      },
+      "average": 4.93
+    },
+    {
+      "name": "Manama",
+      "admin1_code": "16",
+      "location": [
+        26.22787,
+        50.58565
+      ],
+      "monthly": {
+        "Jan": 4.27,
+        "Feb": 4.67,
+        "Mar": 5,
+        "Apr": 4.94,
+        "May": 5.26,
+        "Jun": 5.41,
+        "Jul": 5.13,
+        "Aug": 5.28,
+        "Sep": 5.47,
+        "Oct": 5.17,
+        "Nov": 4.35,
+        "Dec": 4.14
+      },
+      "average": 4.92
+    },
+    {
+      "name": "Ar Rifā‘",
+      "admin1_code": "17",
+      "location": [
+        26.13,
+        50.555
+      ],
+      "monthly": {
+        "Jan": 4.38,
+        "Feb": 4.81,
+        "Mar": 5.11,
+        "Apr": 5,
+        "May": 5.24,
+        "Jun": 5.33,
+        "Jul": 5.1,
+        "Aug": 5.25,
+        "Sep": 5.47,
+        "Oct": 5.22,
+        "Nov": 4.42,
+        "Dec": 4.23
+      },
+      "average": 4.96
+    }
+  ]
+}

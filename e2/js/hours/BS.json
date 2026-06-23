@@ -1,0 +1,98 @@
+{
+  "country": "Bahamas",
+  "countryCode": "BS",
+  "cities": [
+    {
+      "name": "Nassau",
+      "admin1_code": "23",
+      "location": [
+        25.05823,
+        -77.34306
+      ],
+      "monthly": {
+        "Jan": 4.18,
+        "Feb": 4.72,
+        "Mar": 5.14,
+        "Apr": 5.13,
+        "May": 4.74,
+        "Jun": 4.36,
+        "Jul": 4.74,
+        "Aug": 4.7,
+        "Sep": 4.52,
+        "Oct": 4.3,
+        "Nov": 4.22,
+        "Dec": 3.97
+      },
+      "average": 4.56
+    },
+    {
+      "name": "Lucaya",
+      "admin1_code": "25",
+      "location": [
+        26.53333,
+        -78.66667
+      ],
+      "monthly": {
+        "Jan": 4.04,
+        "Feb": 4.51,
+        "Mar": 5.05,
+        "Apr": 5.18,
+        "May": 4.95,
+        "Jun": 4.5,
+        "Jul": 4.62,
+        "Aug": 4.66,
+        "Sep": 4.38,
+        "Oct": 4.31,
+        "Nov": 4.13,
+        "Dec": 3.83
+      },
+      "average": 4.51
+    },
+    {
+      "name": "Killarney",
+      "admin1_code": "23",
+      "location": [
+        25.05,
+        -77.41667
+      ],
+      "monthly": {
+        "Jan": 4.1,
+        "Feb": 4.61,
+        "Mar": 5.03,
+        "Apr": 5.02,
+        "May": 4.67,
+        "Jun": 4.28,
+        "Jul": 4.66,
+        "Aug": 4.62,
+        "Sep": 4.43,
+        "Oct": 4.2,
+        "Nov": 4.09,
+        "Dec": 3.88
+      },
+      "average": 4.47
+    },
+    {
+      "name": "Freeport",
+      "admin1_code": "25",
+      "location": [
+        26.53333,
+        -78.7
+      ],
+      "monthly": {
+        "Jan": 4.03,
+        "Feb": 4.5,
+        "Mar": 5.04,
+        "Apr": 5.17,
+        "May": 4.95,
+        "Jun": 4.49,
+        "Jul": 4.62,
+        "Aug": 4.65,
+        "Sep": 4.38,
+        "Oct": 4.32,
+        "Nov": 4.13,
+        "Dec": 3.83
+      },
+      "average": 4.51
+    }
+  ]
+}

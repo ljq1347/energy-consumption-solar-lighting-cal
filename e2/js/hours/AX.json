@@ -1,0 +1,29 @@
+{
+  "country": "AX",
+  "countryCode": "AX",
+  "cities": [
+    {
+      "name": "Mariehamn",
+      "admin1_code": "211",
+      "location": [
+        60.09726,
+        19.93481
+      ],
+      "monthly": {
+        "Jan": 0.75,
+        "Feb": 1.69,
+        "Mar": 3.41,
+        "Apr": 4.62,
+        "May": 5.21,
+        "Jun": 5.3,
+        "Jul": 4.88,
+        "Aug": 4.09,
+        "Sep": 3.04,
+        "Oct": 1.78,
+        "Nov": 0.74,
+        "Dec": 0.48
+      },
+      "average": 3
+    }
+  ]
+}

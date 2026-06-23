@@ -1,0 +1,98 @@
+{
+  "country": "Bhutan",
+  "countryCode": "BT",
+  "cities": [
+    {
+      "name": "Thimphu",
+      "admin1_code": "20",
+      "location": [
+        27.46609,
+        89.64191
+      ],
+      "monthly": {
+        "Jan": 4.64,
+        "Feb": 4.7,
+        "Mar": 4.48,
+        "Apr": 4.16,
+        "May": 3.67,
+        "Jun": 3.47,
+        "Jul": 3.49,
+        "Aug": 3.73,
+        "Sep": 3.63,
+        "Oct": 4.44,
+        "Nov": 4.64,
+        "Dec": 4.74
+      },
+      "average": 4.15
+    },
+    {
+      "name": "Punākha",
+      "admin1_code": "15",
+      "location": [
+        27.59137,
+        89.87743
+      ],
+      "monthly": {
+        "Jan": 3.88,
+        "Feb": 3.9,
+        "Mar": 3.92,
+        "Apr": 3.84,
+        "May": 3.7,
+        "Jun": 3.61,
+        "Jul": 3.68,
+        "Aug": 3.93,
+        "Sep": 3.89,
+        "Oct": 4.43,
+        "Nov": 4.17,
+        "Dec": 4.02
+      },
+      "average": 3.91
+    },
+    {
+      "name": "Phuntsholing",
+      "admin1_code": "06",
+      "location": [
+        26.85164,
+        89.38837
+      ],
+      "monthly": {
+        "Jan": 3.66,
+        "Feb": 3.67,
+        "Mar": 4.01,
+        "Apr": 3.91,
+        "May": 3.62,
+        "Jun": 3.05,
+        "Jul": 2.89,
+        "Aug": 3.1,
+        "Sep": 3.35,
+        "Oct": 4.2,
+        "Nov": 4.28,
+        "Dec": 3.92
+      },
+      "average": 3.64
+    },
+    {
+      "name": "Tsirang",
+      "admin1_code": "07",
+      "location": [
+        27.0219,
+        90.12291
+      ],
+      "monthly": {
+        "Jan": 4.08,
+        "Feb": 3.93,
+        "Mar": 4.09,
+        "Apr": 4.1,
+        "May": 3.89,
+        "Jun": 3.41,
+        "Jul": 3.36,
+        "Aug": 3.61,
+        "Sep": 3.73,
+        "Oct": 4.57,
+        "Nov": 4.57,
+        "Dec": 4.26
+      },
+      "average": 3.97
+    }
+  ]
+}

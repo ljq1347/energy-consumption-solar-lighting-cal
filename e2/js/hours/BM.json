@@ -1,0 +1,29 @@
+{
+  "country": "BM",
+  "countryCode": "BM",
+  "cities": [
+    {
+      "name": "Hamilton",
+      "admin1_code": "03",
+      "location": [
+        32.2949,
+        -64.78303
+      ],
+      "monthly": {
+        "Jan": 3,
+        "Feb": 3.53,
+        "Mar": 4.37,
+        "Apr": 4.93,
+        "May": 4.98,
+        "Jun": 4.95,
+        "Jul": 5.09,
+        "Aug": 4.97,
+        "Sep": 4.6,
+        "Oct": 3.93,
+        "Nov": 3.33,
+        "Dec": 2.94
+      },
+      "average": 4.22
+    }
+  ]
+}

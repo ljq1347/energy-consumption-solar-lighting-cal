@@ -1,0 +1,1455 @@
+{
+  "country": "United Arab Emirates",
+  "countryCode": "AE",
+  "cities": [
+    {
+      "name": "Warīsān",
+      "admin1_code": "03",
+      "location": [
+        25.16744,
+        55.40708
+      ],
+      "monthly": {
+        "Jan": 4.51,
+        "Feb": 4.91,
+        "Mar": 5.1,
+        "Apr": 5.16,
+        "May": 5.19,
+        "Jun": 4.96,
+        "Jul": 4.62,
+        "Aug": 4.87,
+        "Sep": 5.21,
+        "Oct": 5.2,
+        "Nov": 4.78,
+        "Dec": 4.42
+      },
+      "average": 4.91
+    },
+    {
+      "name": "Umm Suqaym",
+      "admin1_code": "03",
+      "location": [
+        25.15491,
+        55.21015
+      ],
+      "monthly": {
+        "Jan": 4.45,
+        "Feb": 4.83,
+        "Mar": 5.04,
+        "Apr": 5.14,
+        "May": 5.23,
+        "Jun": 5.02,
+        "Jul": 4.67,
+        "Aug": 4.89,
+        "Sep": 5.2,
+        "Oct": 5.16,
+        "Nov": 4.7,
+        "Dec": 4.36
+      },
+      "average": 4.89
+    },
+    {
+      "name": "Umm Al Quwain City",
+      "admin1_code": "07",
+      "location": [
+        25.56473,
+        55.55517
+      ],
+      "monthly": {
+        "Jan": 4.34,
+        "Feb": 4.78,
+        "Mar": 5.02,
+        "Apr": 5.21,
+        "May": 5.32,
+        "Jun": 5.11,
+        "Jul": 4.75,
+        "Aug": 4.98,
+        "Sep": 5.24,
+        "Oct": 5.15,
+        "Nov": 4.66,
+        "Dec": 4.29
+      },
+      "average": 4.9
+    },
+    {
+      "name": "Ţarīf Kalbā",
+      "admin1_code": "04",
+      "location": [
+        25.0695,
+        56.33115
+      ],
+      "monthly": {
+        "Jan": 4.58,
+        "Feb": 4.86,
+        "Mar": 5.07,
+        "Apr": 5.19,
+        "May": 5.19,
+        "Jun": 4.91,
+        "Jul": 4.46,
+        "Aug": 4.69,
+        "Sep": 5.05,
+        "Oct": 5.16,
+        "Nov": 4.79,
+        "Dec": 4.51
+      },
+      "average": 4.87
+    },
+    {
+      "name": "Ar Rāshidīyah",
+      "admin1_code": "03",
+      "location": [
+        25.22499,
+        55.38947
+      ],
+      "monthly": {
+        "Jan": 4.47,
+        "Feb": 4.86,
+        "Mar": 5.09,
+        "Apr": 5.18,
+        "May": 5.23,
+        "Jun": 5.01,
+        "Jul": 4.66,
+        "Aug": 4.91,
+        "Sep": 5.23,
+        "Oct": 5.2,
+        "Nov": 4.75,
+        "Dec": 4.39
+      },
+      "average": 4.92
+    },
+    {
+      "name": "Ras Al Khaimah",
+      "admin1_code": "05",
+      "location": [
+        25.78953,
+        55.9432
+      ],
+      "monthly": {
+        "Jan": 4.33,
+        "Feb": 4.73,
+        "Mar": 5.01,
+        "Apr": 5.22,
+        "May": 5.3,
+        "Jun": 5.08,
+        "Jul": 4.73,
+        "Aug": 5,
+        "Sep": 5.23,
+        "Oct": 5.11,
+        "Nov": 4.68,
+        "Dec": 4.31
+      },
+      "average": 4.89
+    },
+    {
+      "name": "Zayed City",
+      "admin1_code": "01",
+      "location": [
+        23.65416,
+        53.70522
+      ],
+      "monthly": {
+        "Jan": 4.86,
+        "Feb": 5.18,
+        "Mar": 5.26,
+        "Apr": 5.14,
+        "May": 5.14,
+        "Jun": 5.03,
+        "Jul": 4.67,
+        "Aug": 4.89,
+        "Sep": 5.3,
+        "Oct": 5.34,
+        "Nov": 4.97,
+        "Dec": 4.69
+      },
+      "average": 5.04
+    },
+    {
+      "name": "Khawr Fakkān",
+      "admin1_code": "06",
+      "location": [
+        25.33132,
+        56.34199
+      ],
+      "monthly": {
+        "Jan": 4.42,
+        "Feb": 4.75,
+        "Mar": 5.03,
+        "Apr": 5.22,
+        "May": 5.23,
+        "Jun": 4.9,
+        "Jul": 4.36,
+        "Aug": 4.57,
+        "Sep": 4.93,
+        "Oct": 5.1,
+        "Nov": 4.69,
+        "Dec": 4.39
+      },
+      "average": 4.8
+    },
+    {
+      "name": "Kalbā",
+      "admin1_code": "06",
+      "location": [
+        25.0513,
+        56.35422
+      ],
+      "monthly": {
+        "Jan": 4.56,
+        "Feb": 4.84,
+        "Mar": 5.02,
+        "Apr": 5.17,
+        "May": 5.18,
+        "Jun": 4.91,
+        "Jul": 4.5,
+        "Aug": 4.74,
+        "Sep": 5.08,
+        "Oct": 5.14,
+        "Nov": 4.75,
+        "Dec": 4.48
+      },
+      "average": 4.86
+    },
+    {
+      "name": "Jumayrā",
+      "admin1_code": "03",
+      "location": [
+        25.20795,
+        55.24969
+      ],
+      "monthly": {
+        "Jan": 4.25,
+        "Feb": 4.63,
+        "Mar": 4.86,
+        "Apr": 5.04,
+        "May": 5.18,
+        "Jun": 5.01,
+        "Jul": 4.67,
+        "Aug": 4.87,
+        "Sep": 5.14,
+        "Oct": 5.06,
+        "Nov": 4.55,
+        "Dec": 4.17
+      },
+      "average": 4.79
+    },
+    {
+      "name": "Dubai",
+      "admin1_code": "03",
+      "location": [
+        25.07725,
+        55.30927
+      ],
+      "monthly": {
+        "Jan": 4.56,
+        "Feb": 4.96,
+        "Mar": 5.14,
+        "Apr": 5.18,
+        "May": 5.22,
+        "Jun": 4.99,
+        "Jul": 4.64,
+        "Aug": 4.89,
+        "Sep": 5.24,
+        "Oct": 5.24,
+        "Nov": 4.82,
+        "Dec": 4.47
+      },
+      "average": 4.95
+    },
+    {
+      "name": "Dibba Al-Fujairah",
+      "admin1_code": "04",
+      "location": [
+        25.59246,
+        56.26176
+      ],
+      "monthly": {
+        "Jan": 4.48,
+        "Feb": 4.82,
+        "Mar": 5.08,
+        "Apr": 5.23,
+        "May": 5.25,
+        "Jun": 4.98,
+        "Jul": 4.52,
+        "Aug": 4.77,
+        "Sep": 5.09,
+        "Oct": 5.14,
+        "Nov": 4.75,
+        "Dec": 4.45
+      },
+      "average": 4.88
+    },
+    {
+      "name": "Dibba Al-Hisn",
+      "admin1_code": "04",
+      "location": [
+        25.61955,
+        56.27291
+      ],
+      "monthly": {
+        "Jan": 4.43,
+        "Feb": 4.77,
+        "Mar": 5.03,
+        "Apr": 5.2,
+        "May": 5.24,
+        "Jun": 4.99,
+        "Jul": 4.53,
+        "Aug": 4.76,
+        "Sep": 5.08,
+        "Oct": 5.1,
+        "Nov": 4.69,
+        "Dec": 4.39
+      },
+      "average": 4.85
+    },
+    {
+      "name": "Dayrah",
+      "admin1_code": "03",
+      "location": [
+        25.27143,
+        55.30207
+      ],
+      "monthly": {
+        "Jan": 4.35,
+        "Feb": 4.74,
+        "Mar": 4.97,
+        "Apr": 5.13,
+        "May": 5.23,
+        "Jun": 5.03,
+        "Jul": 4.7,
+        "Aug": 4.92,
+        "Sep": 5.2,
+        "Oct": 5.14,
+        "Nov": 4.66,
+        "Dec": 4.28
+      },
+      "average": 4.86
+    },
+    {
+      "name": "Sharjah",
+      "admin1_code": "06",
+      "location": [
+        25.3342,
+        55.41221
+      ],
+      "monthly": {
+        "Jan": 4.45,
+        "Feb": 4.87,
+        "Mar": 5.09,
+        "Apr": 5.21,
+        "May": 5.27,
+        "Jun": 5.04,
+        "Jul": 4.7,
+        "Aug": 4.94,
+        "Sep": 5.24,
+        "Oct": 5.2,
+        "Nov": 4.74,
+        "Dec": 4.39
+      },
+      "average": 4.93
+    },
+    {
+      "name": "Ar Ruways",
+      "admin1_code": "01",
+      "location": [
+        24.11028,
+        52.73056
+      ],
+      "monthly": {
+        "Jan": 4.6,
+        "Feb": 5.02,
+        "Mar": 5.14,
+        "Apr": 5.07,
+        "May": 5.18,
+        "Jun": 5.15,
+        "Jul": 4.8,
+        "Aug": 4.97,
+        "Sep": 5.31,
+        "Oct": 5.26,
+        "Nov": 4.74,
+        "Dec": 4.39
+      },
+      "average": 4.97
+    },
+    {
+      "name": "Ḩattā",
+      "admin1_code": "03",
+      "location": [
+        24.80073,
+        56.12726
+      ],
+      "monthly": {
+        "Jan": 4.7,
+        "Feb": 5,
+        "Mar": 5.2,
+        "Apr": 5.2,
+        "May": 5.17,
+        "Jun": 4.94,
+        "Jul": 4.58,
+        "Aug": 4.84,
+        "Sep": 5.18,
+        "Oct": 5.22,
+        "Nov": 4.88,
+        "Dec": 4.63
+      },
+      "average": 4.96
+    },
+    {
+      "name": "Fujairah",
+      "admin1_code": "04",
+      "location": [
+        25.11641,
+        56.34141
+      ],
+      "monthly": {
+        "Jan": 4.56,
+        "Feb": 4.84,
+        "Mar": 5.06,
+        "Apr": 5.19,
+        "May": 5.22,
+        "Jun": 4.95,
+        "Jul": 4.51,
+        "Aug": 4.74,
+        "Sep": 5.08,
+        "Oct": 5.15,
+        "Nov": 4.77,
+        "Dec": 4.49
+      },
+      "average": 4.88
+    },
+    {
+      "name": "Al Ain City",
+      "admin1_code": "01",
+      "location": [
+        24.19167,
+        55.76056
+      ],
+      "monthly": {
+        "Jan": 4.91,
+        "Feb": 5.19,
+        "Mar": 5.28,
+        "Apr": 5.25,
+        "May": 5.17,
+        "Jun": 4.88,
+        "Jul": 4.51,
+        "Aug": 4.79,
+        "Sep": 5.19,
+        "Oct": 5.33,
+        "Nov": 5.05,
+        "Dec": 4.79
+      },
+      "average": 5.03
+    },
+    {
+      "name": "Ajman",
+      "admin1_code": "02",
+      "location": [
+        25.40177,
+        55.47878
+      ],
+      "monthly": {
+        "Jan": 4.45,
+        "Feb": 4.86,
+        "Mar": 5.08,
+        "Apr": 5.21,
+        "May": 5.27,
+        "Jun": 5.04,
+        "Jul": 4.7,
+        "Aug": 4.94,
+        "Sep": 5.25,
+        "Oct": 5.2,
+        "Nov": 4.75,
+        "Dec": 4.4
+      },
+      "average": 4.93
+    },
+    {
+      "name": "Adh Dhayd",
+      "admin1_code": "06",
+      "location": [
+        25.28812,
+        55.88157
+      ],
+      "monthly": {
+        "Jan": 4.53,
+        "Feb": 4.91,
+        "Mar": 5.12,
+        "Apr": 5.21,
+        "May": 5.21,
+        "Jun": 4.98,
+        "Jul": 4.63,
+        "Aug": 4.93,
+        "Sep": 5.23,
+        "Oct": 5.18,
+        "Nov": 4.8,
+        "Dec": 4.49
+      },
+      "average": 4.93
+    },
+    {
+      "name": "Abu Dhabi",
+      "admin1_code": "01",
+      "location": [
+        24.45118,
+        54.39696
+      ],
+      "monthly": {
+        "Jan": 4.5,
+        "Feb": 4.94,
+        "Mar": 5.14,
+        "Apr": 5.17,
+        "May": 5.23,
+        "Jun": 5.09,
+        "Jul": 4.73,
+        "Aug": 4.95,
+        "Sep": 5.27,
+        "Oct": 5.23,
+        "Nov": 4.72,
+        "Dec": 4.36
+      },
+      "average": 4.94
+    },
+    {
+      "name": "Abū Hayl",
+      "admin1_code": "03",
+      "location": [
+        25.28413,
+        55.33153
+      ],
+      "monthly": {
+        "Jan": 4.36,
+        "Feb": 4.75,
+        "Mar": 4.98,
+        "Apr": 5.14,
+        "May": 5.24,
+        "Jun": 5.03,
+        "Jul": 4.71,
+        "Aug": 4.93,
+        "Sep": 5.22,
+        "Oct": 5.15,
+        "Nov": 4.68,
+        "Dec": 4.3
+      },
+      "average": 4.87
+    },
+    {
+      "name": "As Saţwah",
+      "admin1_code": "03",
+      "location": [
+        25.22192,
+        55.27459
+      ],
+      "monthly": {
+        "Jan": 4.39,
+        "Feb": 4.77,
+        "Mar": 4.99,
+        "Apr": 5.12,
+        "May": 5.22,
+        "Jun": 5.02,
+        "Jul": 4.68,
+        "Aug": 4.91,
+        "Sep": 5.2,
+        "Oct": 5.14,
+        "Nov": 4.67,
+        "Dec": 4.31
+      },
+      "average": 4.87
+    },
+    {
+      "name": "Al Ḩamīdīyah",
+      "admin1_code": "02",
+      "location": [
+        25.40001,
+        55.52925
+      ],
+      "monthly": {
+        "Jan": 4.52,
+        "Feb": 4.94,
+        "Mar": 5.14,
+        "Apr": 5.24,
+        "May": 5.26,
+        "Jun": 5.02,
+        "Jul": 4.68,
+        "Aug": 4.95,
+        "Sep": 5.26,
+        "Oct": 5.24,
+        "Nov": 4.81,
+        "Dec": 4.46
+      },
+      "average": 4.96
+    },
+    {
+      "name": "Al Waheda",
+      "admin1_code": "03",
+      "location": [
+        25.29173,
+        55.33822
+      ],
+      "monthly": {
+        "Jan": 4.35,
+        "Feb": 4.75,
+        "Mar": 4.98,
+        "Apr": 5.13,
+        "May": 5.24,
+        "Jun": 5.04,
+        "Jul": 4.7,
+        "Aug": 4.93,
+        "Sep": 5.2,
+        "Oct": 5.14,
+        "Nov": 4.66,
+        "Dec": 4.28
+      },
+      "average": 4.87
+    },
+    {
+      "name": "Al Karama",
+      "admin1_code": "03",
+      "location": [
+        25.24004,
+        55.30106
+      ],
+      "monthly": {
+        "Jan": 4.43,
+        "Feb": 4.82,
+        "Mar": 5.04,
+        "Apr": 5.16,
+        "May": 5.23,
+        "Jun": 5.02,
+        "Jul": 4.68,
+        "Aug": 4.91,
+        "Sep": 5.21,
+        "Oct": 5.16,
+        "Nov": 4.71,
+        "Dec": 4.36
+      },
+      "average": 4.89
+    },
+    {
+      "name": "Al Wasl",
+      "admin1_code": "03",
+      "location": [
+        25.19881,
+        55.25565
+      ],
+      "monthly": {
+        "Jan": 4.3,
+        "Feb": 4.68,
+        "Mar": 4.89,
+        "Apr": 5.06,
+        "May": 5.18,
+        "Jun": 5.01,
+        "Jul": 4.67,
+        "Aug": 4.88,
+        "Sep": 5.16,
+        "Oct": 5.09,
+        "Nov": 4.59,
+        "Dec": 4.21
+      },
+      "average": 4.81
+    },
+    {
+      "name": "The Palm Jumeirah",
+      "admin1_code": "03",
+      "location": [
+        25.11607,
+        55.13506
+      ],
+      "monthly": {
+        "Jan": 4.36,
+        "Feb": 4.73,
+        "Mar": 4.96,
+        "Apr": 5.1,
+        "May": 5.24,
+        "Jun": 5.05,
+        "Jul": 4.67,
+        "Aug": 4.88,
+        "Sep": 5.18,
+        "Oct": 5.11,
+        "Nov": 4.64,
+        "Dec": 4.29
+      },
+      "average": 4.85
+    },
+    {
+      "name": "Bur Dubai",
+      "admin1_code": "03",
+      "location": [
+        25.26038,
+        55.29891
+      ],
+      "monthly": {
+        "Jan": 4.37,
+        "Feb": 4.76,
+        "Mar": 4.99,
+        "Apr": 5.14,
+        "May": 5.24,
+        "Jun": 5.03,
+        "Jul": 4.69,
+        "Aug": 4.92,
+        "Sep": 5.2,
+        "Oct": 5.13,
+        "Nov": 4.66,
+        "Dec": 4.29
+      },
+      "average": 4.87
+    },
+    {
+      "name": "Khalifah A City",
+      "admin1_code": "01",
+      "location": [
+        24.42588,
+        54.605
+      ],
+      "monthly": {
+        "Jan": 4.61,
+        "Feb": 5,
+        "Mar": 5.16,
+        "Apr": 5.14,
+        "May": 5.17,
+        "Jun": 5.01,
+        "Jul": 4.66,
+        "Aug": 4.89,
+        "Sep": 5.26,
+        "Oct": 5.26,
+        "Nov": 4.81,
+        "Dec": 4.49
+      },
+      "average": 4.96
+    },
+    {
+      "name": "Mirdif",
+      "admin1_code": "03",
+      "location": [
+        25.22443,
+        55.41412
+      ],
+      "monthly": {
+        "Jan": 4.47,
+        "Feb": 4.88,
+        "Mar": 5.09,
+        "Apr": 5.18,
+        "May": 5.24,
+        "Jun": 5.01,
+        "Jul": 4.66,
+        "Aug": 4.9,
+        "Sep": 5.23,
+        "Oct": 5.2,
+        "Nov": 4.75,
+        "Dec": 4.39
+      },
+      "average": 4.92
+    },
+    {
+      "name": "Hawr al ‘Anz",
+      "admin1_code": "03",
+      "location": [
+        25.27744,
+        55.33675
+      ],
+      "monthly": {
+        "Jan": 4.41,
+        "Feb": 4.8,
+        "Mar": 5.02,
+        "Apr": 5.15,
+        "May": 5.23,
+        "Jun": 5.02,
+        "Jul": 4.69,
+        "Aug": 4.92,
+        "Sep": 5.22,
+        "Oct": 5.18,
+        "Nov": 4.71,
+        "Dec": 4.34
+      },
+      "average": 4.89
+    },
+    {
+      "name": "Mankhūl",
+      "admin1_code": "03",
+      "location": [
+        25.24612,
+        55.29222
+      ],
+      "monthly": {
+        "Jan": 4.42,
+        "Feb": 4.8,
+        "Mar": 5.03,
+        "Apr": 5.16,
+        "May": 5.24,
+        "Jun": 5.03,
+        "Jul": 4.69,
+        "Aug": 4.92,
+        "Sep": 5.21,
+        "Oct": 5.16,
+        "Nov": 4.7,
+        "Dec": 4.33
+      },
+      "average": 4.89
+    },
+    {
+      "name": "Nāyf",
+      "admin1_code": "03",
+      "location": [
+        25.27139,
+        55.30323
+      ],
+      "monthly": {
+        "Jan": 4.35,
+        "Feb": 4.74,
+        "Mar": 4.97,
+        "Apr": 5.13,
+        "May": 5.23,
+        "Jun": 5.03,
+        "Jul": 4.7,
+        "Aug": 4.92,
+        "Sep": 5.2,
+        "Oct": 5.14,
+        "Nov": 4.66,
+        "Dec": 4.28
+      },
+      "average": 4.86
+    },
+    {
+      "name": "Al Murar al Qadīm",
+      "admin1_code": "03",
+      "location": [
+        25.27576,
+        55.30738
+      ],
+      "monthly": {
+        "Jan": 4.32,
+        "Feb": 4.72,
+        "Mar": 4.95,
+        "Apr": 5.12,
+        "May": 5.23,
+        "Jun": 5.03,
+        "Jul": 4.69,
+        "Aug": 4.92,
+        "Sep": 5.19,
+        "Oct": 5.12,
+        "Nov": 4.64,
+        "Dec": 4.26
+      },
+      "average": 4.85
+    },
+    {
+      "name": "Al Warqaa",
+      "admin1_code": "03",
+      "location": [
+        25.19272,
+        55.42013
+      ],
+      "monthly": {
+        "Jan": 4.51,
+        "Feb": 4.91,
+        "Mar": 5.1,
+        "Apr": 5.17,
+        "May": 5.21,
+        "Jun": 4.98,
+        "Jul": 4.64,
+        "Aug": 4.89,
+        "Sep": 5.23,
+        "Oct": 5.21,
+        "Nov": 4.78,
+        "Dec": 4.42
+      },
+      "average": 4.92
+    },
+    {
+      "name": "International City",
+      "admin1_code": "03",
+      "location": [
+        25.16383,
+        55.40987
+      ],
+      "monthly": {
+        "Jan": 4.52,
+        "Feb": 4.91,
+        "Mar": 5.1,
+        "Apr": 5.16,
+        "May": 5.19,
+        "Jun": 4.95,
+        "Jul": 4.61,
+        "Aug": 4.86,
+        "Sep": 5.21,
+        "Oct": 5.2,
+        "Nov": 4.78,
+        "Dec": 4.43
+      },
+      "average": 4.91
+    },
+    {
+      "name": "Dubai Marina",
+      "admin1_code": "03",
+      "location": [
+        25.08525,
+        55.14646
+      ],
+      "monthly": {
+        "Jan": 4.41,
+        "Feb": 4.77,
+        "Mar": 5,
+        "Apr": 5.11,
+        "May": 5.22,
+        "Jun": 5.03,
+        "Jul": 4.66,
+        "Aug": 4.88,
+        "Sep": 5.19,
+        "Oct": 5.14,
+        "Nov": 4.68,
+        "Dec": 4.32
+      },
+      "average": 4.87
+    },
+    {
+      "name": "Dubai Internet City",
+      "admin1_code": "03",
+      "location": [
+        25.09538,
+        55.16171
+      ],
+      "monthly": {
+        "Jan": 4.42,
+        "Feb": 4.78,
+        "Mar": 5,
+        "Apr": 5.11,
+        "May": 5.21,
+        "Jun": 5.02,
+        "Jul": 4.65,
+        "Aug": 4.87,
+        "Sep": 5.19,
+        "Oct": 5.14,
+        "Nov": 4.68,
+        "Dec": 4.33
+      },
+      "average": 4.87
+    },
+    {
+      "name": "Al Safa",
+      "admin1_code": "03",
+      "location": [
+        25.17047,
+        55.23336
+      ],
+      "monthly": {
+        "Jan": 4.35,
+        "Feb": 4.74,
+        "Mar": 4.96,
+        "Apr": 5.1,
+        "May": 5.2,
+        "Jun": 5.01,
+        "Jul": 4.66,
+        "Aug": 4.88,
+        "Sep": 5.16,
+        "Oct": 5.1,
+        "Nov": 4.63,
+        "Dec": 4.27
+      },
+      "average": 4.84
+    },
+    {
+      "name": "Ar Rumaylah",
+      "admin1_code": "02",
+      "location": [
+        25.40338,
+        55.4334
+      ],
+      "monthly": {
+        "Jan": 4.32,
+        "Feb": 4.72,
+        "Mar": 4.97,
+        "Apr": 5.15,
+        "May": 5.26,
+        "Jun": 5.06,
+        "Jul": 4.71,
+        "Aug": 4.94,
+        "Sep": 5.21,
+        "Oct": 5.13,
+        "Nov": 4.63,
+        "Dec": 4.26
+      },
+      "average": 4.86
+    },
+    {
+      "name": "Al Jurf",
+      "admin1_code": "02",
+      "location": [
+        25.41814,
+        55.50791
+      ],
+      "monthly": {
+        "Jan": 4.48,
+        "Feb": 4.89,
+        "Mar": 5.1,
+        "Apr": 5.22,
+        "May": 5.26,
+        "Jun": 5.03,
+        "Jul": 4.69,
+        "Aug": 4.95,
+        "Sep": 5.25,
+        "Oct": 5.21,
+        "Nov": 4.78,
+        "Dec": 4.43
+      },
+      "average": 4.94
+    },
+    {
+      "name": "Al Majaz",
+      "admin1_code": "06",
+      "location": [
+        25.32354,
+        55.38774
+      ],
+      "monthly": {
+        "Jan": 4.43,
+        "Feb": 4.83,
+        "Mar": 5.06,
+        "Apr": 5.18,
+        "May": 5.24,
+        "Jun": 5.02,
+        "Jul": 4.68,
+        "Aug": 4.92,
+        "Sep": 5.22,
+        "Oct": 5.18,
+        "Nov": 4.72,
+        "Dec": 4.36
+      },
+      "average": 4.9
+    },
+    {
+      "name": "Dubai Festival City",
+      "admin1_code": "03",
+      "location": [
+        25.22177,
+        55.35733
+      ],
+      "monthly": {
+        "Jan": 4.44,
+        "Feb": 4.83,
+        "Mar": 5.04,
+        "Apr": 5.14,
+        "May": 5.21,
+        "Jun": 4.99,
+        "Jul": 4.65,
+        "Aug": 4.89,
+        "Sep": 5.21,
+        "Oct": 5.17,
+        "Nov": 4.72,
+        "Dec": 4.36
+      },
+      "average": 4.89
+    },
+    {
+      "name": "Dubai International Financial Centre",
+      "admin1_code": "03",
+      "location": [
+        25.2106,
+        55.27787
+      ],
+      "monthly": {
+        "Jan": 4.44,
+        "Feb": 4.83,
+        "Mar": 5.03,
+        "Apr": 5.14,
+        "May": 5.21,
+        "Jun": 5,
+        "Jul": 4.67,
+        "Aug": 4.9,
+        "Sep": 5.2,
+        "Oct": 5.16,
+        "Nov": 4.71,
+        "Dec": 4.37
+      },
+      "average": 4.89
+    },
+    {
+      "name": "Dubai Investments Park",
+      "admin1_code": "03",
+      "location": [
+        25.00827,
+        55.15682
+      ],
+      "monthly": {
+        "Jan": 4.55,
+        "Feb": 4.93,
+        "Mar": 5.13,
+        "Apr": 5.17,
+        "May": 5.22,
+        "Jun": 5,
+        "Jul": 4.64,
+        "Aug": 4.89,
+        "Sep": 5.24,
+        "Oct": 5.24,
+        "Nov": 4.79,
+        "Dec": 4.44
+      },
+      "average": 4.94
+    },
+    {
+      "name": "Jebel Ali",
+      "admin1_code": "03",
+      "location": [
+        25.00255,
+        55.10811
+      ],
+      "monthly": {
+        "Jan": 4.47,
+        "Feb": 4.83,
+        "Mar": 5.04,
+        "Apr": 5.13,
+        "May": 5.21,
+        "Jun": 5.01,
+        "Jul": 4.65,
+        "Aug": 4.89,
+        "Sep": 5.22,
+        "Oct": 5.19,
+        "Nov": 4.72,
+        "Dec": 4.37
+      },
+      "average": 4.89
+    },
+    {
+      "name": "Bani Yas City",
+      "admin1_code": "01",
+      "location": [
+        24.30978,
+        54.62944
+      ],
+      "monthly": {
+        "Jan": 4.63,
+        "Feb": 5.03,
+        "Mar": 5.17,
+        "Apr": 5.13,
+        "May": 5.14,
+        "Jun": 4.97,
+        "Jul": 4.62,
+        "Aug": 4.86,
+        "Sep": 5.24,
+        "Oct": 5.25,
+        "Nov": 4.82,
+        "Dec": 4.49
+      },
+      "average": 4.95
+    },
+    {
+      "name": "Musaffah",
+      "admin1_code": "01",
+      "location": [
+        24.35893,
+        54.48267
+      ],
+      "monthly": {
+        "Jan": 4.48,
+        "Feb": 4.91,
+        "Mar": 5.07,
+        "Apr": 5.09,
+        "May": 5.16,
+        "Jun": 5.03,
+        "Jul": 4.68,
+        "Aug": 4.9,
+        "Sep": 5.23,
+        "Oct": 5.2,
+        "Nov": 4.7,
+        "Dec": 4.36
+      },
+      "average": 4.9
+    },
+    {
+      "name": "Al Shamkhah City",
+      "admin1_code": "01",
+      "location": [
+        24.39268,
+        54.70779
+      ],
+      "monthly": {
+        "Jan": 4.67,
+        "Feb": 5.07,
+        "Mar": 5.2,
+        "Apr": 5.16,
+        "May": 5.16,
+        "Jun": 4.98,
+        "Jul": 4.64,
+        "Aug": 4.88,
+        "Sep": 5.25,
+        "Oct": 5.26,
+        "Nov": 4.84,
+        "Dec": 4.52
+      },
+      "average": 4.97
+    },
+    {
+      "name": "Reef Al Fujairah City",
+      "admin1_code": "04",
+      "location": [
+        25.14479,
+        56.24764
+      ],
+      "monthly": {
+        "Jan": 4.51,
+        "Feb": 4.83,
+        "Mar": 5.11,
+        "Apr": 5.2,
+        "May": 5.22,
+        "Jun": 4.93,
+        "Jul": 4.45,
+        "Aug": 4.66,
+        "Sep": 5.05,
+        "Oct": 5.18,
+        "Nov": 4.78,
+        "Dec": 4.48
+      },
+      "average": 4.87
+    },
+    {
+      "name": "Al Bada'a",
+      "admin1_code": "03",
+      "location": [
+        25.22462,
+        55.26888
+      ],
+      "monthly": {
+        "Jan": 4.39,
+        "Feb": 4.77,
+        "Mar": 4.99,
+        "Apr": 5.12,
+        "May": 5.22,
+        "Jun": 5.02,
+        "Jul": 4.68,
+        "Aug": 4.91,
+        "Sep": 5.2,
+        "Oct": 5.14,
+        "Nov": 4.67,
+        "Dec": 4.31
+      },
+      "average": 4.87
+    },
+    {
+      "name": "Al Muteena",
+      "admin1_code": "03",
+      "location": [
+        25.27375,
+        55.32265
+      ],
+      "monthly": {
+        "Jan": 4.36,
+        "Feb": 4.76,
+        "Mar": 4.98,
+        "Apr": 5.13,
+        "May": 5.22,
+        "Jun": 5.02,
+        "Jul": 4.69,
+        "Aug": 4.92,
+        "Sep": 5.2,
+        "Oct": 5.15,
+        "Nov": 4.68,
+        "Dec": 4.3
+      },
+      "average": 4.87
+    },
+    {
+      "name": "Al Mizhar First",
+      "admin1_code": "03",
+      "location": [
+        25.24805,
+        55.44128
+      ],
+      "monthly": {
+        "Jan": 4.47,
+        "Feb": 4.89,
+        "Mar": 5.1,
+        "Apr": 5.2,
+        "May": 5.24,
+        "Jun": 5.01,
+        "Jul": 4.67,
+        "Aug": 4.91,
+        "Sep": 5.24,
+        "Oct": 5.2,
+        "Nov": 4.76,
+        "Dec": 4.39
+      },
+      "average": 4.92
+    },
+    {
+      "name": "Dubai Silicon Oasis",
+      "admin1_code": "03",
+      "location": [
+        25.11985,
+        55.38718
+      ],
+      "monthly": {
+        "Jan": 4.54,
+        "Feb": 4.93,
+        "Mar": 5.12,
+        "Apr": 5.16,
+        "May": 5.19,
+        "Jun": 4.95,
+        "Jul": 4.61,
+        "Aug": 4.86,
+        "Sep": 5.22,
+        "Oct": 5.22,
+        "Nov": 4.8,
+        "Dec": 4.46
+      },
+      "average": 4.92
+    },
+    {
+      "name": "Al Furjan",
+      "admin1_code": "03",
+      "location": [
+        25.02651,
+        55.14565
+      ],
+      "monthly": {
+        "Jan": 4.53,
+        "Feb": 4.91,
+        "Mar": 5.11,
+        "Apr": 5.17,
+        "May": 5.22,
+        "Jun": 5.01,
+        "Jul": 4.65,
+        "Aug": 4.89,
+        "Sep": 5.24,
+        "Oct": 5.23,
+        "Nov": 4.78,
+        "Dec": 4.43
+      },
+      "average": 4.93
+    },
+    {
+      "name": "Business Bay",
+      "admin1_code": "03",
+      "location": [
+        25.18544,
+        55.26969
+      ],
+      "monthly": {
+        "Jan": 4.4,
+        "Feb": 4.78,
+        "Mar": 4.99,
+        "Apr": 5.11,
+        "May": 5.2,
+        "Jun": 5,
+        "Jul": 4.66,
+        "Aug": 4.88,
+        "Sep": 5.18,
+        "Oct": 5.13,
+        "Nov": 4.68,
+        "Dec": 4.32
+      },
+      "average": 4.86
+    },
+    {
+      "name": "Al Qusais 1",
+      "admin1_code": "03",
+      "location": [
+        25.27925,
+        55.36995
+      ],
+      "monthly": {
+        "Jan": 4.45,
+        "Feb": 4.86,
+        "Mar": 5.08,
+        "Apr": 5.19,
+        "May": 5.24,
+        "Jun": 5.01,
+        "Jul": 4.68,
+        "Aug": 4.92,
+        "Sep": 5.23,
+        "Oct": 5.19,
+        "Nov": 4.74,
+        "Dec": 4.38
+      },
+      "average": 4.91
+    },
+    {
+      "name": "Halwan",
+      "admin1_code": "06",
+      "location": [
+        25.34586,
+        55.42165
+      ],
+      "monthly": {
+        "Jan": 4.46,
+        "Feb": 4.88,
+        "Mar": 5.1,
+        "Apr": 5.22,
+        "May": 5.27,
+        "Jun": 5.04,
+        "Jul": 4.7,
+        "Aug": 4.93,
+        "Sep": 5.24,
+        "Oct": 5.2,
+        "Nov": 4.74,
+        "Dec": 4.4
+      },
+      "average": 4.93
+    },
+    {
+      "name": "Al Sajaah",
+      "admin1_code": "06",
+      "location": [
+        25.31532,
+        55.63211
+      ],
+      "monthly": {
+        "Jan": 4.52,
+        "Feb": 4.94,
+        "Mar": 5.13,
+        "Apr": 5.21,
+        "May": 5.23,
+        "Jun": 4.99,
+        "Jul": 4.65,
+        "Aug": 4.92,
+        "Sep": 5.24,
+        "Oct": 5.22,
+        "Nov": 4.8,
+        "Dec": 4.49
+      },
+      "average": 4.95
+    },
+    {
+      "name": "Lahbab",
+      "admin1_code": "03",
+      "location": [
+        25.03763,
+        55.59135
+      ],
+      "monthly": {
+        "Jan": 4.66,
+        "Feb": 5.03,
+        "Mar": 5.19,
+        "Apr": 5.21,
+        "May": 5.21,
+        "Jun": 4.95,
+        "Jul": 4.62,
+        "Aug": 4.89,
+        "Sep": 5.25,
+        "Oct": 5.27,
+        "Nov": 4.88,
+        "Dec": 4.59
+      },
+      "average": 4.98
+    },
+    {
+      "name": "Mohammed Bin Zayed City",
+      "admin1_code": "01",
+      "location": [
+        24.34794,
+        54.55368
+      ],
+      "monthly": {
+        "Jan": 4.59,
+        "Feb": 5.01,
+        "Mar": 5.17,
+        "Apr": 5.14,
+        "May": 5.15,
+        "Jun": 4.99,
+        "Jul": 4.65,
+        "Aug": 4.89,
+        "Sep": 5.24,
+        "Oct": 5.24,
+        "Nov": 4.79,
+        "Dec": 4.45
+      },
+      "average": 4.94
+    }
+  ]
+}

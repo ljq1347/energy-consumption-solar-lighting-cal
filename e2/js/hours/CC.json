@@ -1,0 +1,29 @@
+{
+  "country": "CC",
+  "countryCode": "CC",
+  "cities": [
+    {
+      "name": "West Island",
+      "admin1_code": "",
+      "location": [
+        -12.15681,
+        96.82251
+      ],
+      "monthly": {
+        "Jan": 4.6,
+        "Feb": 4.61,
+        "Mar": 4.55,
+        "Apr": 4.28,
+        "May": 3.85,
+        "Jun": 3.49,
+        "Jul": 3.7,
+        "Aug": 4.25,
+        "Sep": 4.65,
+        "Oct": 4.84,
+        "Nov": 4.65,
+        "Dec": 4.53
+      },
+      "average": 4.33
+    }
+  ]
+}

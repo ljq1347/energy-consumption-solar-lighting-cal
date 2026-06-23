@@ -1,0 +1,29 @@
+{
+  "country": "Dominica",
+  "countryCode": "DM",
+  "cities": [
+    {
+      "name": "Roseau",
+      "admin1_code": "04",
+      "location": [
+        15.30174,
+        -61.38808
+      ],
+      "monthly": {
+        "Jan": 4.62,
+        "Feb": 4.93,
+        "Mar": 5.13,
+        "Apr": 4.89,
+        "May": 4.61,
+        "Jun": 4.4,
+        "Jul": 4.47,
+        "Aug": 4.69,
+        "Sep": 4.84,
+        "Oct": 4.58,
+        "Nov": 4.51,
+        "Dec": 4.45
+      },
+      "average": 4.68
+    }
+  ]
+}

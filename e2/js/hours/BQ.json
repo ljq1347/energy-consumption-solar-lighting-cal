@@ -1,0 +1,29 @@
+{
+  "country": "BQ",
+  "countryCode": "BQ",
+  "cities": [
+    {
+      "name": "Kralendijk",
+      "admin1_code": "BO",
+      "location": [
+        12.15,
+        -68.26667
+      ],
+      "monthly": {
+        "Jan": 4.82,
+        "Feb": 5.15,
+        "Mar": 5.23,
+        "Apr": 4.98,
+        "May": 4.83,
+        "Jun": 4.79,
+        "Jul": 4.9,
+        "Aug": 5.12,
+        "Sep": 5.19,
+        "Oct": 4.81,
+        "Nov": 4.51,
+        "Dec": 4.58
+      },
+      "average": 4.91
+    }
+  ]
+}

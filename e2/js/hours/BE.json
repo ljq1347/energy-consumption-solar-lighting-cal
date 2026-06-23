@@ -1,0 +1,5135 @@
+{
+  "country": "Belgium",
+  "countryCode": "BE",
+  "cities": [
+    {
+      "name": "Zwijndrecht",
+      "admin1_code": "VLG",
+      "location": [
+        51.21979,
+        4.32664
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.06,
+        "Mar": 3.06,
+        "Apr": 4.01,
+        "May": 4.22,
+        "Jun": 4.3,
+        "Jul": 4.1,
+        "Aug": 3.87,
+        "Sep": 3.28,
+        "Oct": 2.31,
+        "Nov": 1.43,
+        "Dec": 1.06
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Zwevegem",
+      "admin1_code": "VLG",
+      "location": [
+        50.81268,
+        3.33848
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.11,
+        "Mar": 3.09,
+        "Apr": 4.05,
+        "May": 4.19,
+        "Jun": 4.29,
+        "Jul": 4.12,
+        "Aug": 3.89,
+        "Sep": 3.32,
+        "Oct": 2.41,
+        "Nov": 1.46,
+        "Dec": 1.08
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Zottegem",
+      "admin1_code": "VLG",
+      "location": [
+        50.86955,
+        3.81052
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.11,
+        "Mar": 3.08,
+        "Apr": 4.03,
+        "May": 4.21,
+        "Jun": 4.33,
+        "Jul": 4.14,
+        "Aug": 3.92,
+        "Sep": 3.34,
+        "Oct": 2.38,
+        "Nov": 1.46,
+        "Dec": 1.08
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Zonhoven",
+      "admin1_code": "VLG",
+      "location": [
+        50.99064,
+        5.36819
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 1.99,
+        "Mar": 3.03,
+        "Apr": 3.91,
+        "May": 4.18,
+        "Jun": 4.29,
+        "Jul": 4.12,
+        "Aug": 3.86,
+        "Sep": 3.29,
+        "Oct": 2.33,
+        "Nov": 1.44,
+        "Dec": 1.03
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Zolder",
+      "admin1_code": "VLG",
+      "location": [
+        51.02455,
+        5.30983
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 1.99,
+        "Mar": 3.02,
+        "Apr": 3.91,
+        "May": 4.19,
+        "Jun": 4.28,
+        "Jul": 4.11,
+        "Aug": 3.85,
+        "Sep": 3.28,
+        "Oct": 2.32,
+        "Nov": 1.43,
+        "Dec": 1.02
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Zemst",
+      "admin1_code": "VLG",
+      "location": [
+        50.98318,
+        4.46079
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.07,
+        "Mar": 3.07,
+        "Apr": 3.98,
+        "May": 4.23,
+        "Jun": 4.32,
+        "Jul": 4.13,
+        "Aug": 3.9,
+        "Sep": 3.34,
+        "Oct": 2.36,
+        "Nov": 1.47,
+        "Dec": 1.07
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Zele",
+      "admin1_code": "VLG",
+      "location": [
+        51.06566,
+        4.0403
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.07,
+        "Mar": 3.05,
+        "Apr": 4,
+        "May": 4.21,
+        "Jun": 4.29,
+        "Jul": 4.1,
+        "Aug": 3.89,
+        "Sep": 3.3,
+        "Oct": 2.33,
+        "Nov": 1.44,
+        "Dec": 1.06
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Zedelgem",
+      "admin1_code": "VLG",
+      "location": [
+        51.14236,
+        3.1368
+      ],
+      "monthly": {
+        "Jan": 1.34,
+        "Feb": 2.13,
+        "Mar": 3.12,
+        "Apr": 4.14,
+        "May": 4.32,
+        "Jun": 4.43,
+        "Jul": 4.23,
+        "Aug": 3.97,
+        "Sep": 3.32,
+        "Oct": 2.35,
+        "Nov": 1.43,
+        "Dec": 1.07
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Zaventem",
+      "admin1_code": "VLG",
+      "location": [
+        50.88365,
+        4.47298
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.09,
+        "Mar": 3.07,
+        "Apr": 3.97,
+        "May": 4.2,
+        "Jun": 4.28,
+        "Jul": 4.12,
+        "Aug": 3.88,
+        "Sep": 3.34,
+        "Oct": 2.39,
+        "Nov": 1.5,
+        "Dec": 1.08
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Wondelgem",
+      "admin1_code": "VLG",
+      "location": [
+        51.08705,
+        3.70909
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.07,
+        "Mar": 3.04,
+        "Apr": 4,
+        "May": 4.2,
+        "Jun": 4.29,
+        "Jul": 4.12,
+        "Aug": 3.89,
+        "Sep": 3.27,
+        "Oct": 2.32,
+        "Nov": 1.42,
+        "Dec": 1.06
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Woluwe-Saint-Lambert",
+      "admin1_code": "BRU",
+      "location": [
+        50.84389,
+        4.42912
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.07,
+        "Mar": 3.05,
+        "Apr": 3.94,
+        "May": 4.17,
+        "Jun": 4.25,
+        "Jul": 4.1,
+        "Aug": 3.85,
+        "Sep": 3.31,
+        "Oct": 2.37,
+        "Nov": 1.49,
+        "Dec": 1.08
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Wilrijk",
+      "admin1_code": "VLG",
+      "location": [
+        51.16734,
+        4.39513
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.03,
+        "Mar": 3.04,
+        "Apr": 3.97,
+        "May": 4.21,
+        "Jun": 4.29,
+        "Jul": 4.1,
+        "Aug": 3.87,
+        "Sep": 3.28,
+        "Oct": 2.3,
+        "Nov": 1.44,
+        "Dec": 1.05
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Willebroek",
+      "admin1_code": "VLG",
+      "location": [
+        51.06041,
+        4.36019
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.05,
+        "Mar": 3.05,
+        "Apr": 3.99,
+        "May": 4.22,
+        "Jun": 4.31,
+        "Jul": 4.13,
+        "Aug": 3.91,
+        "Sep": 3.32,
+        "Oct": 2.32,
+        "Nov": 1.45,
+        "Dec": 1.05
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Wevelgem",
+      "admin1_code": "VLG",
+      "location": [
+        50.8,
+        3.16667
+      ],
+      "monthly": {
+        "Jan": 1.35,
+        "Feb": 2.12,
+        "Mar": 3.09,
+        "Apr": 4.05,
+        "May": 4.18,
+        "Jun": 4.32,
+        "Jul": 4.15,
+        "Aug": 3.91,
+        "Sep": 3.33,
+        "Oct": 2.42,
+        "Nov": 1.47,
+        "Dec": 1.09
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Wetteren",
+      "admin1_code": "VLG",
+      "location": [
+        51.00526,
+        3.88341
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.08,
+        "Mar": 3.05,
+        "Apr": 4.01,
+        "May": 4.19,
+        "Jun": 4.28,
+        "Jul": 4.11,
+        "Aug": 3.88,
+        "Sep": 3.3,
+        "Oct": 2.35,
+        "Nov": 1.45,
+        "Dec": 1.07
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Westerlo",
+      "admin1_code": "VLG",
+      "location": [
+        51.09049,
+        4.91544
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.03,
+        "Mar": 3.04,
+        "Apr": 3.93,
+        "May": 4.2,
+        "Jun": 4.29,
+        "Jul": 4.11,
+        "Aug": 3.87,
+        "Sep": 3.29,
+        "Oct": 2.33,
+        "Nov": 1.45,
+        "Dec": 1.03
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Wervik",
+      "admin1_code": "VLG",
+      "location": [
+        50.78069,
+        3.03854
+      ],
+      "monthly": {
+        "Jan": 1.36,
+        "Feb": 2.14,
+        "Mar": 3.11,
+        "Apr": 4.07,
+        "May": 4.2,
+        "Jun": 4.35,
+        "Jul": 4.18,
+        "Aug": 3.93,
+        "Sep": 3.34,
+        "Oct": 2.43,
+        "Nov": 1.48,
+        "Dec": 1.09
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Wavre",
+      "admin1_code": "WAL",
+      "location": [
+        50.71717,
+        4.60138
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.04,
+        "Mar": 3.07,
+        "Apr": 3.95,
+        "May": 4.21,
+        "Jun": 4.32,
+        "Jul": 4.15,
+        "Aug": 3.91,
+        "Sep": 3.35,
+        "Oct": 2.39,
+        "Nov": 1.46,
+        "Dec": 1.06
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Watermael-Boitsfort",
+      "admin1_code": "BRU",
+      "location": [
+        50.80154,
+        4.41436
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.04,
+        "Mar": 3.04,
+        "Apr": 3.92,
+        "May": 4.17,
+        "Jun": 4.26,
+        "Jul": 4.12,
+        "Aug": 3.85,
+        "Sep": 3.31,
+        "Oct": 2.35,
+        "Nov": 1.47,
+        "Dec": 1.07
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Waterloo",
+      "admin1_code": "WAL",
+      "location": [
+        50.71469,
+        4.3991
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.02,
+        "Mar": 3.04,
+        "Apr": 3.94,
+        "May": 4.19,
+        "Jun": 4.29,
+        "Jul": 4.15,
+        "Aug": 3.88,
+        "Sep": 3.33,
+        "Oct": 2.37,
+        "Nov": 1.45,
+        "Dec": 1.05
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Waregem",
+      "admin1_code": "VLG",
+      "location": [
+        50.88898,
+        3.42756
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.11,
+        "Mar": 3.07,
+        "Apr": 4.04,
+        "May": 4.19,
+        "Jun": 4.3,
+        "Jul": 4.11,
+        "Aug": 3.89,
+        "Sep": 3.3,
+        "Oct": 2.39,
+        "Nov": 1.45,
+        "Dec": 1.08
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Walcourt",
+      "admin1_code": "WAL",
+      "location": [
+        50.25401,
+        4.43796
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.08,
+        "Mar": 3.12,
+        "Apr": 3.97,
+        "May": 4.17,
+        "Jun": 4.29,
+        "Jul": 4.16,
+        "Aug": 3.95,
+        "Sep": 3.4,
+        "Oct": 2.44,
+        "Nov": 1.47,
+        "Dec": 1.09
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Visé",
+      "admin1_code": "WAL",
+      "location": [
+        50.7376,
+        5.69907
+      ],
+      "monthly": {
+        "Jan": 1.35,
+        "Feb": 2.12,
+        "Mar": 3.12,
+        "Apr": 3.97,
+        "May": 4.19,
+        "Jun": 4.33,
+        "Jul": 4.09,
+        "Aug": 3.88,
+        "Sep": 3.36,
+        "Oct": 2.4,
+        "Nov": 1.53,
+        "Dec": 1.08
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Vilvoorde",
+      "admin1_code": "VLG",
+      "location": [
+        50.92814,
+        4.42938
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.07,
+        "Mar": 3.07,
+        "Apr": 3.98,
+        "May": 4.22,
+        "Jun": 4.31,
+        "Jul": 4.14,
+        "Aug": 3.89,
+        "Sep": 3.35,
+        "Oct": 2.37,
+        "Nov": 1.49,
+        "Dec": 1.07
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Verviers",
+      "admin1_code": "WAL",
+      "location": [
+        50.58907,
+        5.86241
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.12,
+        "Mar": 3.1,
+        "Apr": 3.89,
+        "May": 4.1,
+        "Jun": 4.25,
+        "Jul": 4.07,
+        "Aug": 3.84,
+        "Sep": 3.31,
+        "Oct": 2.38,
+        "Nov": 1.5,
+        "Dec": 1.08
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Uccle",
+      "admin1_code": "BRU",
+      "location": [
+        50.80225,
+        4.33943
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.04,
+        "Mar": 3.05,
+        "Apr": 3.94,
+        "May": 4.19,
+        "Jun": 4.28,
+        "Jul": 4.13,
+        "Aug": 3.87,
+        "Sep": 3.31,
+        "Oct": 2.36,
+        "Nov": 1.47,
+        "Dec": 1.06
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Turnhout",
+      "admin1_code": "VLG",
+      "location": [
+        51.32254,
+        4.94471
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.01,
+        "Mar": 3,
+        "Apr": 3.93,
+        "May": 4.18,
+        "Jun": 4.26,
+        "Jul": 4.07,
+        "Aug": 3.84,
+        "Sep": 3.26,
+        "Oct": 2.3,
+        "Nov": 1.41,
+        "Dec": 1.03
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Tubize",
+      "admin1_code": "WAL",
+      "location": [
+        50.69059,
+        4.2009
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.08,
+        "Mar": 3.09,
+        "Apr": 4.02,
+        "May": 4.24,
+        "Jun": 4.32,
+        "Jul": 4.16,
+        "Aug": 3.91,
+        "Sep": 3.37,
+        "Oct": 2.42,
+        "Nov": 1.5,
+        "Dec": 1.08
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Tournai",
+      "admin1_code": "WAL",
+      "location": [
+        50.60715,
+        3.38932
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.09,
+        "Mar": 3.1,
+        "Apr": 4.07,
+        "May": 4.2,
+        "Jun": 4.33,
+        "Jul": 4.16,
+        "Aug": 3.92,
+        "Sep": 3.36,
+        "Oct": 2.44,
+        "Nov": 1.49,
+        "Dec": 1.09
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Torhout",
+      "admin1_code": "VLG",
+      "location": [
+        51.0656,
+        3.10085
+      ],
+      "monthly": {
+        "Jan": 1.34,
+        "Feb": 2.12,
+        "Mar": 3.1,
+        "Apr": 4.1,
+        "May": 4.26,
+        "Jun": 4.37,
+        "Jul": 4.18,
+        "Aug": 3.94,
+        "Sep": 3.31,
+        "Oct": 2.37,
+        "Nov": 1.44,
+        "Dec": 1.07
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Tongeren",
+      "admin1_code": "VLG",
+      "location": [
+        50.78054,
+        5.46484
+      ],
+      "monthly": {
+        "Jan": 1.35,
+        "Feb": 2.1,
+        "Mar": 3.13,
+        "Apr": 4.03,
+        "May": 4.27,
+        "Jun": 4.4,
+        "Jul": 4.18,
+        "Aug": 3.95,
+        "Sep": 3.39,
+        "Oct": 2.43,
+        "Nov": 1.54,
+        "Dec": 1.08
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Tienen",
+      "admin1_code": "VLG",
+      "location": [
+        50.80745,
+        4.9378
+      ],
+      "monthly": {
+        "Jan": 1.36,
+        "Feb": 2.11,
+        "Mar": 3.12,
+        "Apr": 4.01,
+        "May": 4.28,
+        "Jun": 4.37,
+        "Jul": 4.17,
+        "Aug": 3.93,
+        "Sep": 3.38,
+        "Oct": 2.44,
+        "Nov": 1.53,
+        "Dec": 1.08
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Tielt",
+      "admin1_code": "VLG",
+      "location": [
+        50.99931,
+        3.32707
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.11,
+        "Mar": 3.08,
+        "Apr": 4.06,
+        "May": 4.24,
+        "Jun": 4.34,
+        "Jul": 4.16,
+        "Aug": 3.93,
+        "Sep": 3.32,
+        "Oct": 2.39,
+        "Nov": 1.44,
+        "Dec": 1.08
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Tessenderlo",
+      "admin1_code": "VLG",
+      "location": [
+        51.06513,
+        5.08856
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.03,
+        "Mar": 3.04,
+        "Apr": 3.93,
+        "May": 4.19,
+        "Jun": 4.28,
+        "Jul": 4.1,
+        "Aug": 3.86,
+        "Sep": 3.29,
+        "Oct": 2.33,
+        "Nov": 1.45,
+        "Dec": 1.03
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Tervuren",
+      "admin1_code": "VLG",
+      "location": [
+        50.82372,
+        4.51418
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.05,
+        "Mar": 3.05,
+        "Apr": 3.92,
+        "May": 4.17,
+        "Jun": 4.26,
+        "Jul": 4.12,
+        "Aug": 3.87,
+        "Sep": 3.33,
+        "Oct": 2.37,
+        "Nov": 1.48,
+        "Dec": 1.07
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Temse",
+      "admin1_code": "VLG",
+      "location": [
+        51.12794,
+        4.21372
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.04,
+        "Mar": 3.05,
+        "Apr": 3.99,
+        "May": 4.22,
+        "Jun": 4.31,
+        "Jul": 4.11,
+        "Aug": 3.9,
+        "Sep": 3.3,
+        "Oct": 2.31,
+        "Nov": 1.43,
+        "Dec": 1.05
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Stekene",
+      "admin1_code": "VLG",
+      "location": [
+        51.2099,
+        4.03651
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.08,
+        "Mar": 3.08,
+        "Apr": 4.03,
+        "May": 4.24,
+        "Jun": 4.3,
+        "Jul": 4.11,
+        "Aug": 3.9,
+        "Sep": 3.3,
+        "Oct": 2.33,
+        "Nov": 1.44,
+        "Dec": 1.05
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Stabroek",
+      "admin1_code": "VLG",
+      "location": [
+        51.33189,
+        4.37127
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.05,
+        "Mar": 3.05,
+        "Apr": 3.98,
+        "May": 4.2,
+        "Jun": 4.28,
+        "Jul": 4.07,
+        "Aug": 3.84,
+        "Sep": 3.25,
+        "Oct": 2.28,
+        "Nov": 1.4,
+        "Dec": 1.03
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Soumagne",
+      "admin1_code": "WAL",
+      "location": [
+        50.61385,
+        5.74679
+      ],
+      "monthly": {
+        "Jan": 1.35,
+        "Feb": 2.12,
+        "Mar": 3.11,
+        "Apr": 3.95,
+        "May": 4.14,
+        "Jun": 4.28,
+        "Jul": 4.09,
+        "Aug": 3.88,
+        "Sep": 3.35,
+        "Oct": 2.41,
+        "Nov": 1.53,
+        "Dec": 1.11
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Soignies",
+      "admin1_code": "WAL",
+      "location": [
+        50.57904,
+        4.07129
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.11,
+        "Mar": 3.12,
+        "Apr": 4.05,
+        "May": 4.25,
+        "Jun": 4.34,
+        "Jul": 4.2,
+        "Aug": 3.95,
+        "Sep": 3.4,
+        "Oct": 2.46,
+        "Nov": 1.52,
+        "Dec": 1.09
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Sint-Truiden",
+      "admin1_code": "VLG",
+      "location": [
+        50.81679,
+        5.18647
+      ],
+      "monthly": {
+        "Jan": 1.35,
+        "Feb": 2.07,
+        "Mar": 3.11,
+        "Apr": 4,
+        "May": 4.25,
+        "Jun": 4.36,
+        "Jul": 4.15,
+        "Aug": 3.92,
+        "Sep": 3.35,
+        "Oct": 2.4,
+        "Nov": 1.5,
+        "Dec": 1.07
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Sint-Pieters-Leeuw",
+      "admin1_code": "VLG",
+      "location": [
+        50.77926,
+        4.24355
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.07,
+        "Mar": 3.07,
+        "Apr": 4.01,
+        "May": 4.24,
+        "Jun": 4.33,
+        "Jul": 4.18,
+        "Aug": 3.93,
+        "Sep": 3.36,
+        "Oct": 2.39,
+        "Nov": 1.48,
+        "Dec": 1.06
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Sint-Niklaas",
+      "admin1_code": "VLG",
+      "location": [
+        51.16509,
+        4.1437
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.07,
+        "Mar": 3.06,
+        "Apr": 4,
+        "May": 4.22,
+        "Jun": 4.29,
+        "Jul": 4.09,
+        "Aug": 3.88,
+        "Sep": 3.3,
+        "Oct": 2.32,
+        "Nov": 1.44,
+        "Dec": 1.06
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Sint-Kruis",
+      "admin1_code": "VLG",
+      "location": [
+        51.21399,
+        3.24949
+      ],
+      "monthly": {
+        "Jan": 1.34,
+        "Feb": 2.13,
+        "Mar": 3.13,
+        "Apr": 4.17,
+        "May": 4.32,
+        "Jun": 4.42,
+        "Jul": 4.22,
+        "Aug": 3.96,
+        "Sep": 3.32,
+        "Oct": 2.35,
+        "Nov": 1.43,
+        "Dec": 1.06
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Sint-Katelijne-Waver",
+      "admin1_code": "VLG",
+      "location": [
+        51.06691,
+        4.53469
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.05,
+        "Mar": 3.05,
+        "Apr": 3.97,
+        "May": 4.22,
+        "Jun": 4.31,
+        "Jul": 4.13,
+        "Aug": 3.9,
+        "Sep": 3.32,
+        "Oct": 2.33,
+        "Nov": 1.46,
+        "Dec": 1.06
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Sint-Gillis-Waas",
+      "admin1_code": "VLG",
+      "location": [
+        51.21914,
+        4.12374
+      ],
+      "monthly": {
+        "Jan": 1.34,
+        "Feb": 2.09,
+        "Mar": 3.09,
+        "Apr": 4.03,
+        "May": 4.25,
+        "Jun": 4.32,
+        "Jul": 4.11,
+        "Aug": 3.91,
+        "Sep": 3.31,
+        "Oct": 2.33,
+        "Nov": 1.45,
+        "Dec": 1.06
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Sint-Genesius-Rode",
+      "admin1_code": "VLG",
+      "location": [
+        50.74645,
+        4.35754
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.04,
+        "Mar": 3.04,
+        "Apr": 3.92,
+        "May": 4.16,
+        "Jun": 4.26,
+        "Jul": 4.12,
+        "Aug": 3.86,
+        "Sep": 3.32,
+        "Oct": 2.37,
+        "Nov": 1.46,
+        "Dec": 1.06
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Sint-Andries",
+      "admin1_code": "VLG",
+      "location": [
+        51.19696,
+        3.17891
+      ],
+      "monthly": {
+        "Jan": 1.34,
+        "Feb": 2.13,
+        "Mar": 3.13,
+        "Apr": 4.17,
+        "May": 4.34,
+        "Jun": 4.43,
+        "Jul": 4.24,
+        "Aug": 3.98,
+        "Sep": 3.33,
+        "Oct": 2.35,
+        "Nov": 1.43,
+        "Dec": 1.05
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Sint-Amandsberg",
+      "admin1_code": "VLG",
+      "location": [
+        51.05947,
+        3.74943
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.05,
+        "Mar": 3.03,
+        "Apr": 3.98,
+        "May": 4.18,
+        "Jun": 4.26,
+        "Jul": 4.11,
+        "Aug": 3.87,
+        "Sep": 3.26,
+        "Oct": 2.32,
+        "Nov": 1.43,
+        "Dec": 1.06
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Seraing",
+      "admin1_code": "WAL",
+      "location": [
+        50.58362,
+        5.50115
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.09,
+        "Mar": 3.07,
+        "Apr": 3.91,
+        "May": 4.13,
+        "Jun": 4.27,
+        "Jul": 4.09,
+        "Aug": 3.86,
+        "Sep": 3.34,
+        "Oct": 2.4,
+        "Nov": 1.52,
+        "Dec": 1.09
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Schoten",
+      "admin1_code": "VLG",
+      "location": [
+        51.25251,
+        4.50268
+      ],
+      "monthly": {
+        "Jan": 1.26,
+        "Feb": 1.98,
+        "Mar": 2.98,
+        "Apr": 3.91,
+        "May": 4.16,
+        "Jun": 4.22,
+        "Jul": 4.03,
+        "Aug": 3.79,
+        "Sep": 3.23,
+        "Oct": 2.25,
+        "Nov": 1.39,
+        "Dec": 1.02
+      },
+      "average": 2.85
+    },
+    {
+      "name": "Schilde",
+      "admin1_code": "VLG",
+      "location": [
+        51.24107,
+        4.58336
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 1.98,
+        "Mar": 2.97,
+        "Apr": 3.89,
+        "May": 4.17,
+        "Jun": 4.23,
+        "Jul": 4.04,
+        "Aug": 3.81,
+        "Sep": 3.24,
+        "Oct": 2.25,
+        "Nov": 1.39,
+        "Dec": 1.02
+      },
+      "average": 2.85
+    },
+    {
+      "name": "Schaerbeek",
+      "admin1_code": "BRU",
+      "location": [
+        50.86935,
+        4.37737
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.05,
+        "Mar": 3.04,
+        "Apr": 3.95,
+        "May": 4.19,
+        "Jun": 4.27,
+        "Jul": 4.12,
+        "Aug": 3.86,
+        "Sep": 3.31,
+        "Oct": 2.35,
+        "Nov": 1.47,
+        "Dec": 1.07
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Saint-Nicolas",
+      "admin1_code": "WAL",
+      "location": [
+        50.62837,
+        5.53243
+      ],
+      "monthly": {
+        "Jan": 1.34,
+        "Feb": 2.09,
+        "Mar": 3.09,
+        "Apr": 3.93,
+        "May": 4.14,
+        "Jun": 4.28,
+        "Jul": 4.09,
+        "Aug": 3.87,
+        "Sep": 3.34,
+        "Oct": 2.41,
+        "Nov": 1.52,
+        "Dec": 1.09
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Saint-Josse-ten-Noode",
+      "admin1_code": "BRU",
+      "location": [
+        50.8538,
+        4.37282
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.05,
+        "Mar": 3.04,
+        "Apr": 3.94,
+        "May": 4.17,
+        "Jun": 4.26,
+        "Jul": 4.1,
+        "Aug": 3.85,
+        "Sep": 3.3,
+        "Oct": 2.35,
+        "Nov": 1.47,
+        "Dec": 1.07
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Saint-Gilles",
+      "admin1_code": "BRU",
+      "location": [
+        50.82763,
+        4.34389
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.04,
+        "Mar": 3.04,
+        "Apr": 3.93,
+        "May": 4.16,
+        "Jun": 4.25,
+        "Jul": 4.09,
+        "Aug": 3.84,
+        "Sep": 3.29,
+        "Oct": 2.34,
+        "Nov": 1.46,
+        "Dec": 1.06
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Saint-Ghislain",
+      "admin1_code": "WAL",
+      "location": [
+        50.44816,
+        3.81886
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.06,
+        "Mar": 3.06,
+        "Apr": 3.97,
+        "May": 4.18,
+        "Jun": 4.28,
+        "Jul": 4.15,
+        "Aug": 3.92,
+        "Sep": 3.36,
+        "Oct": 2.41,
+        "Nov": 1.46,
+        "Dec": 1.08
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Rotselaar",
+      "admin1_code": "VLG",
+      "location": [
+        50.95302,
+        4.71665
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.05,
+        "Mar": 3.04,
+        "Apr": 3.94,
+        "May": 4.21,
+        "Jun": 4.3,
+        "Jul": 4.12,
+        "Aug": 3.87,
+        "Sep": 3.32,
+        "Oct": 2.35,
+        "Nov": 1.47,
+        "Dec": 1.04
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Ronse",
+      "admin1_code": "VLG",
+      "location": [
+        50.74574,
+        3.6005
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.09,
+        "Mar": 3.08,
+        "Apr": 4.04,
+        "May": 4.2,
+        "Jun": 4.32,
+        "Jul": 4.12,
+        "Aug": 3.9,
+        "Sep": 3.33,
+        "Oct": 2.4,
+        "Nov": 1.46,
+        "Dec": 1.07
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Roeselare",
+      "admin1_code": "VLG",
+      "location": [
+        50.94653,
+        3.12269
+      ],
+      "monthly": {
+        "Jan": 1.35,
+        "Feb": 2.14,
+        "Mar": 3.09,
+        "Apr": 4.06,
+        "May": 4.22,
+        "Jun": 4.34,
+        "Jul": 4.17,
+        "Aug": 3.93,
+        "Sep": 3.32,
+        "Oct": 2.39,
+        "Nov": 1.45,
+        "Dec": 1.09
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Rixensart",
+      "admin1_code": "WAL",
+      "location": [
+        50.71229,
+        4.52529
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.02,
+        "Mar": 3.04,
+        "Apr": 3.94,
+        "May": 4.19,
+        "Jun": 4.3,
+        "Jul": 4.14,
+        "Aug": 3.89,
+        "Sep": 3.33,
+        "Oct": 2.37,
+        "Nov": 1.44,
+        "Dec": 1.05
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Riemst",
+      "admin1_code": "VLG",
+      "location": [
+        50.80995,
+        5.60131
+      ],
+      "monthly": {
+        "Jan": 1.35,
+        "Feb": 2.12,
+        "Mar": 3.14,
+        "Apr": 4.04,
+        "May": 4.3,
+        "Jun": 4.42,
+        "Jul": 4.18,
+        "Aug": 3.97,
+        "Sep": 3.41,
+        "Oct": 2.45,
+        "Nov": 1.56,
+        "Dec": 1.1
+      },
+      "average": 3
+    },
+    {
+      "name": "Ranst",
+      "admin1_code": "VLG",
+      "location": [
+        51.18983,
+        4.56533
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.02,
+        "Mar": 3.01,
+        "Apr": 3.94,
+        "May": 4.2,
+        "Jun": 4.27,
+        "Jul": 4.08,
+        "Aug": 3.85,
+        "Sep": 3.28,
+        "Oct": 2.29,
+        "Nov": 1.42,
+        "Dec": 1.04
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Quaregnon",
+      "admin1_code": "WAL",
+      "location": [
+        50.44067,
+        3.8653
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.06,
+        "Mar": 3.06,
+        "Apr": 3.97,
+        "May": 4.18,
+        "Jun": 4.28,
+        "Jul": 4.16,
+        "Aug": 3.92,
+        "Sep": 3.37,
+        "Oct": 2.41,
+        "Nov": 1.48,
+        "Dec": 1.08
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Puurs",
+      "admin1_code": "VLG",
+      "location": [
+        51.07409,
+        4.28844
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.04,
+        "Mar": 3.05,
+        "Apr": 4,
+        "May": 4.22,
+        "Jun": 4.32,
+        "Jul": 4.12,
+        "Aug": 3.91,
+        "Sep": 3.32,
+        "Oct": 2.32,
+        "Nov": 1.45,
+        "Dec": 1.05
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Putte",
+      "admin1_code": "VLG",
+      "location": [
+        51.05337,
+        4.63263
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.06,
+        "Mar": 3.06,
+        "Apr": 3.97,
+        "May": 4.22,
+        "Jun": 4.32,
+        "Jul": 4.13,
+        "Aug": 3.9,
+        "Sep": 3.32,
+        "Oct": 2.34,
+        "Nov": 1.46,
+        "Dec": 1.06
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Poperinge",
+      "admin1_code": "VLG",
+      "location": [
+        50.85386,
+        2.72659
+      ],
+      "monthly": {
+        "Jan": 1.4,
+        "Feb": 2.18,
+        "Mar": 3.13,
+        "Apr": 4.12,
+        "May": 4.25,
+        "Jun": 4.41,
+        "Jul": 4.24,
+        "Aug": 3.96,
+        "Sep": 3.35,
+        "Oct": 2.44,
+        "Nov": 1.5,
+        "Dec": 1.12
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Pont-à-Celles",
+      "admin1_code": "WAL",
+      "location": [
+        50.50518,
+        4.36887
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.09,
+        "Mar": 3.12,
+        "Apr": 4.04,
+        "May": 4.25,
+        "Jun": 4.34,
+        "Jul": 4.2,
+        "Aug": 3.96,
+        "Sep": 3.41,
+        "Oct": 2.46,
+        "Nov": 1.5,
+        "Dec": 1.09
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Péruwelz",
+      "admin1_code": "WAL",
+      "location": [
+        50.50819,
+        3.59373
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.09,
+        "Mar": 3.08,
+        "Apr": 4,
+        "May": 4.18,
+        "Jun": 4.31,
+        "Jul": 4.17,
+        "Aug": 3.94,
+        "Sep": 3.36,
+        "Oct": 2.42,
+        "Nov": 1.47,
+        "Dec": 1.09
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Peer",
+      "admin1_code": "VLG",
+      "location": [
+        51.1303,
+        5.45952
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.04,
+        "Mar": 3.05,
+        "Apr": 3.94,
+        "May": 4.22,
+        "Jun": 4.31,
+        "Jul": 4.11,
+        "Aug": 3.87,
+        "Sep": 3.31,
+        "Oct": 2.36,
+        "Nov": 1.48,
+        "Dec": 1.04
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Overijse",
+      "admin1_code": "VLG",
+      "location": [
+        50.77436,
+        4.53461
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.03,
+        "Mar": 3.04,
+        "Apr": 3.92,
+        "May": 4.16,
+        "Jun": 4.26,
+        "Jul": 4.12,
+        "Aug": 3.87,
+        "Sep": 3.32,
+        "Oct": 2.37,
+        "Nov": 1.45,
+        "Dec": 1.06
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Oupeye",
+      "admin1_code": "WAL",
+      "location": [
+        50.71184,
+        5.6468
+      ],
+      "monthly": {
+        "Jan": 1.37,
+        "Feb": 2.14,
+        "Mar": 3.14,
+        "Apr": 4,
+        "May": 4.22,
+        "Jun": 4.36,
+        "Jul": 4.12,
+        "Aug": 3.91,
+        "Sep": 3.39,
+        "Oct": 2.43,
+        "Nov": 1.55,
+        "Dec": 1.1
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Oudenaarde",
+      "admin1_code": "VLG",
+      "location": [
+        50.85168,
+        3.60891
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.12,
+        "Mar": 3.07,
+        "Apr": 4.04,
+        "May": 4.2,
+        "Jun": 4.32,
+        "Jul": 4.12,
+        "Aug": 3.9,
+        "Sep": 3.32,
+        "Oct": 2.38,
+        "Nov": 1.47,
+        "Dec": 1.08
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Oostkamp",
+      "admin1_code": "VLG",
+      "location": [
+        51.15432,
+        3.23128
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.1,
+        "Mar": 3.08,
+        "Apr": 4.1,
+        "May": 4.27,
+        "Jun": 4.36,
+        "Jul": 4.17,
+        "Aug": 3.92,
+        "Sep": 3.29,
+        "Oct": 2.34,
+        "Nov": 1.42,
+        "Dec": 1.05
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Ostend",
+      "admin1_code": "VLG",
+      "location": [
+        51.21551,
+        2.927
+      ],
+      "monthly": {
+        "Jan": 1.35,
+        "Feb": 2.16,
+        "Mar": 3.22,
+        "Apr": 4.33,
+        "May": 4.48,
+        "Jun": 4.61,
+        "Jul": 4.42,
+        "Aug": 4.13,
+        "Sep": 3.4,
+        "Oct": 2.37,
+        "Nov": 1.4,
+        "Dec": 1.04
+      },
+      "average": 3.08
+    },
+    {
+      "name": "Nivelles",
+      "admin1_code": "WAL",
+      "location": [
+        50.59833,
+        4.32848
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.08,
+        "Mar": 3.09,
+        "Apr": 4.01,
+        "May": 4.23,
+        "Jun": 4.31,
+        "Jul": 4.17,
+        "Aug": 3.91,
+        "Sep": 3.37,
+        "Oct": 2.42,
+        "Nov": 1.49,
+        "Dec": 1.08
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Ninove",
+      "admin1_code": "VLG",
+      "location": [
+        50.82776,
+        4.02657
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.08,
+        "Mar": 3.07,
+        "Apr": 4.02,
+        "May": 4.22,
+        "Jun": 4.32,
+        "Jul": 4.14,
+        "Aug": 3.92,
+        "Sep": 3.35,
+        "Oct": 2.38,
+        "Nov": 1.46,
+        "Dec": 1.07
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Nijlen",
+      "admin1_code": "VLG",
+      "location": [
+        51.16096,
+        4.67008
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.02,
+        "Mar": 3.02,
+        "Apr": 3.93,
+        "May": 4.2,
+        "Jun": 4.28,
+        "Jul": 4.09,
+        "Aug": 3.86,
+        "Sep": 3.28,
+        "Oct": 2.3,
+        "Nov": 1.42,
+        "Dec": 1.03
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Neerpelt",
+      "admin1_code": "VLG",
+      "location": [
+        51.22807,
+        5.4427
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.03,
+        "Mar": 3.04,
+        "Apr": 3.93,
+        "May": 4.2,
+        "Jun": 4.29,
+        "Jul": 4.09,
+        "Aug": 3.86,
+        "Sep": 3.3,
+        "Oct": 2.35,
+        "Nov": 1.47,
+        "Dec": 1.03
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Namur",
+      "admin1_code": "WAL",
+      "location": [
+        50.4669,
+        4.86746
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.07,
+        "Mar": 3.09,
+        "Apr": 3.94,
+        "May": 4.18,
+        "Jun": 4.3,
+        "Jul": 4.12,
+        "Aug": 3.9,
+        "Sep": 3.35,
+        "Oct": 2.4,
+        "Nov": 1.47,
+        "Dec": 1.06
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Mouscron",
+      "admin1_code": "WAL",
+      "location": [
+        50.74497,
+        3.20639
+      ],
+      "monthly": {
+        "Jan": 1.35,
+        "Feb": 2.13,
+        "Mar": 3.09,
+        "Apr": 4.04,
+        "May": 4.17,
+        "Jun": 4.3,
+        "Jul": 4.14,
+        "Aug": 3.9,
+        "Sep": 3.33,
+        "Oct": 2.42,
+        "Nov": 1.49,
+        "Dec": 1.1
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Mortsel",
+      "admin1_code": "VLG",
+      "location": [
+        51.16697,
+        4.45127
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.04,
+        "Mar": 3.04,
+        "Apr": 3.97,
+        "May": 4.2,
+        "Jun": 4.27,
+        "Jul": 4.08,
+        "Aug": 3.86,
+        "Sep": 3.28,
+        "Oct": 2.31,
+        "Nov": 1.45,
+        "Dec": 1.06
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Morlanwelz-Mariemont",
+      "admin1_code": "WAL",
+      "location": [
+        50.45502,
+        4.24519
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.09,
+        "Mar": 3.07,
+        "Apr": 3.97,
+        "May": 4.18,
+        "Jun": 4.26,
+        "Jul": 4.14,
+        "Aug": 3.9,
+        "Sep": 3.35,
+        "Oct": 2.42,
+        "Nov": 1.48,
+        "Dec": 1.08
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Montignies-sur-Sambre",
+      "admin1_code": "WAL",
+      "location": [
+        50.41081,
+        4.49109
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.07,
+        "Mar": 3.06,
+        "Apr": 3.93,
+        "May": 4.16,
+        "Jun": 4.26,
+        "Jul": 4.14,
+        "Aug": 3.91,
+        "Sep": 3.34,
+        "Oct": 2.4,
+        "Nov": 1.47,
+        "Dec": 1.07
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Mons",
+      "admin1_code": "WAL",
+      "location": [
+        50.45413,
+        3.95229
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.06,
+        "Mar": 3.06,
+        "Apr": 3.97,
+        "May": 4.17,
+        "Jun": 4.26,
+        "Jul": 4.15,
+        "Aug": 3.9,
+        "Sep": 3.36,
+        "Oct": 2.41,
+        "Nov": 1.47,
+        "Dec": 1.09
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Molenbeek-Saint-Jean",
+      "admin1_code": "BRU",
+      "location": [
+        50.8499,
+        4.31248
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.05,
+        "Mar": 3.05,
+        "Apr": 3.97,
+        "May": 4.21,
+        "Jun": 4.3,
+        "Jul": 4.14,
+        "Aug": 3.89,
+        "Sep": 3.32,
+        "Oct": 2.36,
+        "Nov": 1.46,
+        "Dec": 1.05
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Mol",
+      "admin1_code": "VLG",
+      "location": [
+        51.19188,
+        5.11662
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2,
+        "Mar": 3.01,
+        "Apr": 3.92,
+        "May": 4.21,
+        "Jun": 4.28,
+        "Jul": 4.09,
+        "Aug": 3.86,
+        "Sep": 3.28,
+        "Oct": 2.3,
+        "Nov": 1.42,
+        "Dec": 1.02
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Middelkerke",
+      "admin1_code": "VLG",
+      "location": [
+        51.18532,
+        2.82077
+      ],
+      "monthly": {
+        "Jan": 1.34,
+        "Feb": 2.15,
+        "Mar": 3.22,
+        "Apr": 4.33,
+        "May": 4.48,
+        "Jun": 4.63,
+        "Jul": 4.44,
+        "Aug": 4.15,
+        "Sep": 3.41,
+        "Oct": 2.36,
+        "Nov": 1.38,
+        "Dec": 1.02
+      },
+      "average": 3.08
+    },
+    {
+      "name": "Merksem",
+      "admin1_code": "VLG",
+      "location": [
+        51.24623,
+        4.44903
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2,
+        "Mar": 3.01,
+        "Apr": 3.94,
+        "May": 4.18,
+        "Jun": 4.26,
+        "Jul": 4.07,
+        "Aug": 3.81,
+        "Sep": 3.24,
+        "Oct": 2.27,
+        "Nov": 1.41,
+        "Dec": 1.03
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Merelbeke",
+      "admin1_code": "VLG",
+      "location": [
+        50.99447,
+        3.74621
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.06,
+        "Mar": 3.05,
+        "Apr": 3.98,
+        "May": 4.18,
+        "Jun": 4.26,
+        "Jul": 4.1,
+        "Aug": 3.88,
+        "Sep": 3.28,
+        "Oct": 2.34,
+        "Nov": 1.44,
+        "Dec": 1.06
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Menen",
+      "admin1_code": "VLG",
+      "location": [
+        50.79722,
+        3.12245
+      ],
+      "monthly": {
+        "Jan": 1.36,
+        "Feb": 2.14,
+        "Mar": 3.1,
+        "Apr": 4.07,
+        "May": 4.2,
+        "Jun": 4.34,
+        "Jul": 4.16,
+        "Aug": 3.93,
+        "Sep": 3.34,
+        "Oct": 2.42,
+        "Nov": 1.47,
+        "Dec": 1.09
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Meise",
+      "admin1_code": "VLG",
+      "location": [
+        50.93934,
+        4.32655
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.08,
+        "Mar": 3.07,
+        "Apr": 4.01,
+        "May": 4.26,
+        "Jun": 4.34,
+        "Jul": 4.17,
+        "Aug": 3.93,
+        "Sep": 3.37,
+        "Oct": 2.38,
+        "Nov": 1.48,
+        "Dec": 1.07
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Mechelen-aan-de-Maas",
+      "admin1_code": "VLG",
+      "location": [
+        50.96589,
+        5.69144
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.03,
+        "Mar": 3.05,
+        "Apr": 3.91,
+        "May": 4.19,
+        "Jun": 4.3,
+        "Jul": 4.1,
+        "Aug": 3.86,
+        "Sep": 3.31,
+        "Oct": 2.36,
+        "Nov": 1.48,
+        "Dec": 1.05
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Mechelen",
+      "admin1_code": "VLG",
+      "location": [
+        51.02574,
+        4.47762
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.05,
+        "Mar": 3.05,
+        "Apr": 3.97,
+        "May": 4.21,
+        "Jun": 4.31,
+        "Jul": 4.12,
+        "Aug": 3.89,
+        "Sep": 3.31,
+        "Oct": 2.32,
+        "Nov": 1.45,
+        "Dec": 1.05
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Mariakerke",
+      "admin1_code": "VLG",
+      "location": [
+        51.07476,
+        3.68289
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.07,
+        "Mar": 3.04,
+        "Apr": 4,
+        "May": 4.21,
+        "Jun": 4.3,
+        "Jul": 4.13,
+        "Aug": 3.9,
+        "Sep": 3.27,
+        "Oct": 2.32,
+        "Nov": 1.42,
+        "Dec": 1.05
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Marcinelle",
+      "admin1_code": "WAL",
+      "location": [
+        50.39216,
+        4.44388
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.06,
+        "Mar": 3.05,
+        "Apr": 3.92,
+        "May": 4.14,
+        "Jun": 4.25,
+        "Jul": 4.14,
+        "Aug": 3.91,
+        "Sep": 3.32,
+        "Oct": 2.39,
+        "Nov": 1.46,
+        "Dec": 1.07
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Marchienne-au-Pont",
+      "admin1_code": "WAL",
+      "location": [
+        50.40573,
+        4.3953
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.07,
+        "Mar": 3.06,
+        "Apr": 3.94,
+        "May": 4.16,
+        "Jun": 4.27,
+        "Jul": 4.16,
+        "Aug": 3.92,
+        "Sep": 3.33,
+        "Oct": 2.41,
+        "Nov": 1.46,
+        "Dec": 1.07
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Marche-en-Famenne",
+      "admin1_code": "WAL",
+      "location": [
+        50.22678,
+        5.34416
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.09,
+        "Mar": 3.1,
+        "Apr": 3.9,
+        "May": 4.1,
+        "Jun": 4.28,
+        "Jul": 4.11,
+        "Aug": 3.87,
+        "Sep": 3.35,
+        "Oct": 2.38,
+        "Nov": 1.43,
+        "Dec": 1.05
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Manage",
+      "admin1_code": "WAL",
+      "location": [
+        50.50312,
+        4.23589
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.09,
+        "Mar": 3.08,
+        "Apr": 4,
+        "May": 4.21,
+        "Jun": 4.3,
+        "Jul": 4.18,
+        "Aug": 3.92,
+        "Sep": 3.37,
+        "Oct": 2.42,
+        "Nov": 1.48,
+        "Dec": 1.08
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Maldegem",
+      "admin1_code": "VLG",
+      "location": [
+        51.20737,
+        3.44511
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.11,
+        "Mar": 3.09,
+        "Apr": 4.12,
+        "May": 4.28,
+        "Jun": 4.38,
+        "Jul": 4.17,
+        "Aug": 3.94,
+        "Sep": 3.32,
+        "Oct": 2.35,
+        "Nov": 1.42,
+        "Dec": 1.06
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Maasmechelen",
+      "admin1_code": "VLG",
+      "location": [
+        50.96545,
+        5.69452
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.04,
+        "Mar": 3.05,
+        "Apr": 3.92,
+        "May": 4.2,
+        "Jun": 4.3,
+        "Jul": 4.1,
+        "Aug": 3.87,
+        "Sep": 3.31,
+        "Oct": 2.36,
+        "Nov": 1.48,
+        "Dec": 1.05
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Maaseik",
+      "admin1_code": "VLG",
+      "location": [
+        51.09802,
+        5.78379
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.1,
+        "Mar": 3.1,
+        "Apr": 3.99,
+        "May": 4.27,
+        "Jun": 4.37,
+        "Jul": 4.14,
+        "Aug": 3.91,
+        "Sep": 3.35,
+        "Oct": 2.4,
+        "Nov": 1.51,
+        "Dec": 1.06
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Louvain-la-Neuve",
+      "admin1_code": "WAL",
+      "location": [
+        50.66829,
+        4.61443
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.05,
+        "Mar": 3.08,
+        "Apr": 3.95,
+        "May": 4.2,
+        "Jun": 4.31,
+        "Jul": 4.14,
+        "Aug": 3.89,
+        "Sep": 3.34,
+        "Oct": 2.4,
+        "Nov": 1.47,
+        "Dec": 1.06
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Lommel",
+      "admin1_code": "VLG",
+      "location": [
+        51.23074,
+        5.31349
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.02,
+        "Mar": 3.02,
+        "Apr": 3.91,
+        "May": 4.19,
+        "Jun": 4.27,
+        "Jul": 4.07,
+        "Aug": 3.84,
+        "Sep": 3.28,
+        "Oct": 2.32,
+        "Nov": 1.42,
+        "Dec": 1.03
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Lokeren",
+      "admin1_code": "VLG",
+      "location": [
+        51.10364,
+        3.99339
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.07,
+        "Mar": 3.04,
+        "Apr": 4,
+        "May": 4.2,
+        "Jun": 4.28,
+        "Jul": 4.09,
+        "Aug": 3.87,
+        "Sep": 3.28,
+        "Oct": 2.32,
+        "Nov": 1.44,
+        "Dec": 1.05
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Lochristi",
+      "admin1_code": "VLG",
+      "location": [
+        51.09644,
+        3.83194
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.07,
+        "Mar": 3.04,
+        "Apr": 4,
+        "May": 4.19,
+        "Jun": 4.26,
+        "Jul": 4.1,
+        "Aug": 3.87,
+        "Sep": 3.27,
+        "Oct": 2.33,
+        "Nov": 1.43,
+        "Dec": 1.06
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Lille",
+      "admin1_code": "VLG",
+      "location": [
+        51.24197,
+        4.82313
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.01,
+        "Mar": 3.01,
+        "Apr": 3.92,
+        "May": 4.18,
+        "Jun": 4.26,
+        "Jul": 4.08,
+        "Aug": 3.85,
+        "Sep": 3.27,
+        "Oct": 2.3,
+        "Nov": 1.42,
+        "Dec": 1.03
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Lier",
+      "admin1_code": "VLG",
+      "location": [
+        51.13128,
+        4.57041
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.04,
+        "Mar": 3.04,
+        "Apr": 3.96,
+        "May": 4.21,
+        "Jun": 4.3,
+        "Jul": 4.11,
+        "Aug": 3.88,
+        "Sep": 3.3,
+        "Oct": 2.31,
+        "Nov": 1.45,
+        "Dec": 1.05
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Liège",
+      "admin1_code": "WAL",
+      "location": [
+        50.63373,
+        5.56749
+      ],
+      "monthly": {
+        "Jan": 1.34,
+        "Feb": 2.1,
+        "Mar": 3.08,
+        "Apr": 3.92,
+        "May": 4.12,
+        "Jun": 4.27,
+        "Jul": 4.07,
+        "Aug": 3.86,
+        "Sep": 3.33,
+        "Oct": 2.4,
+        "Nov": 1.52,
+        "Dec": 1.08
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Leuven",
+      "admin1_code": "VLG",
+      "location": [
+        50.87959,
+        4.70093
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.05,
+        "Mar": 3.05,
+        "Apr": 3.94,
+        "May": 4.2,
+        "Jun": 4.29,
+        "Jul": 4.13,
+        "Aug": 3.88,
+        "Sep": 3.32,
+        "Oct": 2.37,
+        "Nov": 1.48,
+        "Dec": 1.06
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Lessines",
+      "admin1_code": "WAL",
+      "location": [
+        50.71104,
+        3.83579
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.09,
+        "Mar": 3.1,
+        "Apr": 4.04,
+        "May": 4.22,
+        "Jun": 4.34,
+        "Jul": 4.17,
+        "Aug": 3.93,
+        "Sep": 3.36,
+        "Oct": 2.41,
+        "Nov": 1.46,
+        "Dec": 1.08
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Lede",
+      "admin1_code": "VLG",
+      "location": [
+        50.96626,
+        3.98594
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.08,
+        "Mar": 3.07,
+        "Apr": 4.04,
+        "May": 4.21,
+        "Jun": 4.31,
+        "Jul": 4.13,
+        "Aug": 3.92,
+        "Sep": 3.33,
+        "Oct": 2.36,
+        "Nov": 1.46,
+        "Dec": 1.07
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Lebbeke",
+      "admin1_code": "VLG",
+      "location": [
+        51.00464,
+        4.13457
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.06,
+        "Mar": 3.06,
+        "Apr": 4.01,
+        "May": 4.21,
+        "Jun": 4.3,
+        "Jul": 4.12,
+        "Aug": 3.9,
+        "Sep": 3.33,
+        "Oct": 2.35,
+        "Nov": 1.45,
+        "Dec": 1.06
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Lanaken",
+      "admin1_code": "VLG",
+      "location": [
+        50.89318,
+        5.6468
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.03,
+        "Mar": 3.05,
+        "Apr": 3.94,
+        "May": 4.2,
+        "Jun": 4.32,
+        "Jul": 4.12,
+        "Aug": 3.88,
+        "Sep": 3.32,
+        "Oct": 2.36,
+        "Nov": 1.48,
+        "Dec": 1.05
+      },
+      "average": 2.92
+    },
+    {
+      "name": "La Louvière",
+      "admin1_code": "WAL",
+      "location": [
+        50.48657,
+        4.18785
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.07,
+        "Mar": 3.07,
+        "Apr": 3.99,
+        "May": 4.2,
+        "Jun": 4.28,
+        "Jul": 4.17,
+        "Aug": 3.91,
+        "Sep": 3.35,
+        "Oct": 2.41,
+        "Nov": 1.46,
+        "Dec": 1.07
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Kortrijk",
+      "admin1_code": "VLG",
+      "location": [
+        50.82803,
+        3.26487
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.1,
+        "Mar": 3.07,
+        "Apr": 4.03,
+        "May": 4.17,
+        "Jun": 4.29,
+        "Jul": 4.12,
+        "Aug": 3.89,
+        "Sep": 3.3,
+        "Oct": 2.4,
+        "Nov": 1.45,
+        "Dec": 1.08
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Kortenberg",
+      "admin1_code": "VLG",
+      "location": [
+        50.88982,
+        4.54353
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.08,
+        "Mar": 3.06,
+        "Apr": 3.96,
+        "May": 4.21,
+        "Jun": 4.29,
+        "Jul": 4.12,
+        "Aug": 3.88,
+        "Sep": 3.35,
+        "Oct": 2.39,
+        "Nov": 1.5,
+        "Dec": 1.08
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Kontich",
+      "admin1_code": "VLG",
+      "location": [
+        51.13213,
+        4.44706
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.04,
+        "Mar": 3.05,
+        "Apr": 3.99,
+        "May": 4.22,
+        "Jun": 4.3,
+        "Jul": 4.11,
+        "Aug": 3.89,
+        "Sep": 3.31,
+        "Oct": 2.31,
+        "Nov": 1.45,
+        "Dec": 1.06
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Koksijde",
+      "admin1_code": "VLG",
+      "location": [
+        51.11642,
+        2.63772
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.12,
+        "Mar": 3.18,
+        "Apr": 4.28,
+        "May": 4.42,
+        "Jun": 4.59,
+        "Jul": 4.42,
+        "Aug": 4.09,
+        "Sep": 3.36,
+        "Oct": 2.33,
+        "Nov": 1.36,
+        "Dec": 1.02
+      },
+      "average": 3.04
+    },
+    {
+      "name": "Koersel",
+      "admin1_code": "VLG",
+      "location": [
+        51.05909,
+        5.27121
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2,
+        "Mar": 3.02,
+        "Apr": 3.91,
+        "May": 4.19,
+        "Jun": 4.28,
+        "Jul": 4.1,
+        "Aug": 3.85,
+        "Sep": 3.28,
+        "Oct": 2.33,
+        "Nov": 1.43,
+        "Dec": 1.03
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Koekelberg",
+      "admin1_code": "BRU",
+      "location": [
+        50.86117,
+        4.33136
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.05,
+        "Mar": 3.05,
+        "Apr": 3.97,
+        "May": 4.21,
+        "Jun": 4.3,
+        "Jul": 4.14,
+        "Aug": 3.88,
+        "Sep": 3.32,
+        "Oct": 2.36,
+        "Nov": 1.46,
+        "Dec": 1.06
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Knokke-Heist",
+      "admin1_code": "VLG",
+      "location": [
+        51.35,
+        3.26667
+      ],
+      "monthly": {
+        "Jan": 1.36,
+        "Feb": 2.13,
+        "Mar": 3.19,
+        "Apr": 4.32,
+        "May": 4.47,
+        "Jun": 4.58,
+        "Jul": 4.39,
+        "Aug": 4.09,
+        "Sep": 3.37,
+        "Oct": 2.32,
+        "Nov": 1.37,
+        "Dec": 1.03
+      },
+      "average": 3.05
+    },
+    {
+      "name": "Kessel-Lo",
+      "admin1_code": "VLG",
+      "location": [
+        50.88549,
+        4.73717
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.05,
+        "Mar": 3.05,
+        "Apr": 3.94,
+        "May": 4.2,
+        "Jun": 4.29,
+        "Jul": 4.13,
+        "Aug": 3.88,
+        "Sep": 3.32,
+        "Oct": 2.37,
+        "Nov": 1.48,
+        "Dec": 1.06
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Kasterlee",
+      "admin1_code": "VLG",
+      "location": [
+        51.24118,
+        4.96651
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2,
+        "Mar": 3,
+        "Apr": 3.91,
+        "May": 4.17,
+        "Jun": 4.24,
+        "Jul": 4.05,
+        "Aug": 3.83,
+        "Sep": 3.26,
+        "Oct": 2.3,
+        "Nov": 1.42,
+        "Dec": 1.02
+      },
+      "average": 2.87
+    },
+    {
+      "name": "Kapellen",
+      "admin1_code": "VLG",
+      "location": [
+        51.31377,
+        4.43539
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.01,
+        "Mar": 3,
+        "Apr": 3.93,
+        "May": 4.17,
+        "Jun": 4.24,
+        "Jul": 4.04,
+        "Aug": 3.8,
+        "Sep": 3.23,
+        "Oct": 2.25,
+        "Nov": 1.39,
+        "Dec": 1.02
+      },
+      "average": 2.86
+    },
+    {
+      "name": "Kalmthout",
+      "admin1_code": "VLG",
+      "location": [
+        51.38442,
+        4.47556
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.02,
+        "Mar": 3.02,
+        "Apr": 3.94,
+        "May": 4.19,
+        "Jun": 4.25,
+        "Jul": 4.05,
+        "Aug": 3.82,
+        "Sep": 3.24,
+        "Oct": 2.28,
+        "Nov": 1.4,
+        "Dec": 1.03
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Jumet",
+      "admin1_code": "WAL",
+      "location": [
+        50.4422,
+        4.43745
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.09,
+        "Mar": 3.09,
+        "Apr": 3.97,
+        "May": 4.19,
+        "Jun": 4.29,
+        "Jul": 4.17,
+        "Aug": 3.93,
+        "Sep": 3.36,
+        "Oct": 2.42,
+        "Nov": 1.48,
+        "Dec": 1.09
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Jette",
+      "admin1_code": "BRU",
+      "location": [
+        50.87309,
+        4.33419
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.05,
+        "Mar": 3.04,
+        "Apr": 3.97,
+        "May": 4.21,
+        "Jun": 4.29,
+        "Jul": 4.13,
+        "Aug": 3.88,
+        "Sep": 3.32,
+        "Oct": 2.36,
+        "Nov": 1.46,
+        "Dec": 1.06
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Jambes",
+      "admin1_code": "WAL",
+      "location": [
+        50.45636,
+        4.87166
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.05,
+        "Mar": 3.07,
+        "Apr": 3.92,
+        "May": 4.15,
+        "Jun": 4.28,
+        "Jul": 4.1,
+        "Aug": 3.89,
+        "Sep": 3.33,
+        "Oct": 2.37,
+        "Nov": 1.45,
+        "Dec": 1.05
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Izegem",
+      "admin1_code": "VLG",
+      "location": [
+        50.91396,
+        3.21378
+      ],
+      "monthly": {
+        "Jan": 1.34,
+        "Feb": 2.13,
+        "Mar": 3.08,
+        "Apr": 4.06,
+        "May": 4.22,
+        "Jun": 4.33,
+        "Jul": 4.16,
+        "Aug": 3.92,
+        "Sep": 3.32,
+        "Oct": 2.4,
+        "Nov": 1.45,
+        "Dec": 1.08
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Ixelles",
+      "admin1_code": "BRU",
+      "location": [
+        50.83333,
+        4.36667
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.05,
+        "Mar": 3.05,
+        "Apr": 3.93,
+        "May": 4.17,
+        "Jun": 4.26,
+        "Jul": 4.11,
+        "Aug": 3.85,
+        "Sep": 3.3,
+        "Oct": 2.35,
+        "Nov": 1.47,
+        "Dec": 1.07
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Ieper",
+      "admin1_code": "VLG",
+      "location": [
+        50.85114,
+        2.88569
+      ],
+      "monthly": {
+        "Jan": 1.38,
+        "Feb": 2.16,
+        "Mar": 3.12,
+        "Apr": 4.1,
+        "May": 4.23,
+        "Jun": 4.39,
+        "Jul": 4.2,
+        "Aug": 3.94,
+        "Sep": 3.34,
+        "Oct": 2.43,
+        "Nov": 1.49,
+        "Dec": 1.11
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Huy",
+      "admin1_code": "WAL",
+      "location": [
+        50.51894,
+        5.23284
+      ],
+      "monthly": {
+        "Jan": 1.13,
+        "Feb": 2,
+        "Mar": 3.05,
+        "Apr": 3.86,
+        "May": 4.09,
+        "Jun": 4.2,
+        "Jul": 4.03,
+        "Aug": 3.81,
+        "Sep": 3.28,
+        "Oct": 2.35,
+        "Nov": 1.38,
+        "Dec": 0.83
+      },
+      "average": 2.83
+    },
+    {
+      "name": "Houthalen",
+      "admin1_code": "VLG",
+      "location": [
+        51.03427,
+        5.37429
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 1.99,
+        "Mar": 3.01,
+        "Apr": 3.91,
+        "May": 4.19,
+        "Jun": 4.28,
+        "Jul": 4.11,
+        "Aug": 3.85,
+        "Sep": 3.28,
+        "Oct": 2.32,
+        "Nov": 1.43,
+        "Dec": 1.02
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Hoogstraten",
+      "admin1_code": "VLG",
+      "location": [
+        51.40029,
+        4.76034
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.04,
+        "Mar": 3.03,
+        "Apr": 3.98,
+        "May": 4.23,
+        "Jun": 4.3,
+        "Jul": 4.09,
+        "Aug": 3.86,
+        "Sep": 3.28,
+        "Oct": 2.31,
+        "Nov": 1.43,
+        "Dec": 1.04
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Hoboken",
+      "admin1_code": "VLG",
+      "location": [
+        51.17611,
+        4.34844
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.05,
+        "Mar": 3.04,
+        "Apr": 3.97,
+        "May": 4.21,
+        "Jun": 4.29,
+        "Jul": 4.1,
+        "Aug": 3.87,
+        "Sep": 3.27,
+        "Oct": 2.29,
+        "Nov": 1.43,
+        "Dec": 1.04
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Heverlee",
+      "admin1_code": "VLG",
+      "location": [
+        50.86426,
+        4.69597
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.05,
+        "Mar": 3.05,
+        "Apr": 3.94,
+        "May": 4.21,
+        "Jun": 4.3,
+        "Jul": 4.13,
+        "Aug": 3.89,
+        "Sep": 3.33,
+        "Oct": 2.37,
+        "Nov": 1.48,
+        "Dec": 1.06
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Heusy",
+      "admin1_code": "WAL",
+      "location": [
+        50.57457,
+        5.86618
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.12,
+        "Mar": 3.11,
+        "Apr": 3.9,
+        "May": 4.12,
+        "Jun": 4.27,
+        "Jul": 4.09,
+        "Aug": 3.86,
+        "Sep": 3.32,
+        "Oct": 2.39,
+        "Nov": 1.5,
+        "Dec": 1.08
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Heusden",
+      "admin1_code": "VLG",
+      "location": [
+        51.03664,
+        5.28013
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2,
+        "Mar": 3.03,
+        "Apr": 3.92,
+        "May": 4.18,
+        "Jun": 4.28,
+        "Jul": 4.1,
+        "Aug": 3.85,
+        "Sep": 3.29,
+        "Oct": 2.34,
+        "Nov": 1.44,
+        "Dec": 1.03
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Herzele",
+      "admin1_code": "VLG",
+      "location": [
+        50.88681,
+        3.89014
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.1,
+        "Mar": 3.08,
+        "Apr": 4.05,
+        "May": 4.23,
+        "Jun": 4.34,
+        "Jul": 4.16,
+        "Aug": 3.93,
+        "Sep": 3.35,
+        "Oct": 2.38,
+        "Nov": 1.46,
+        "Dec": 1.08
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Herve",
+      "admin1_code": "WAL",
+      "location": [
+        50.64083,
+        5.79353
+      ],
+      "monthly": {
+        "Jan": 1.36,
+        "Feb": 2.15,
+        "Mar": 3.16,
+        "Apr": 3.99,
+        "May": 4.19,
+        "Jun": 4.33,
+        "Jul": 4.14,
+        "Aug": 3.92,
+        "Sep": 3.39,
+        "Oct": 2.44,
+        "Nov": 1.56,
+        "Dec": 1.11
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Herstal",
+      "admin1_code": "WAL",
+      "location": [
+        50.66415,
+        5.62346
+      ],
+      "monthly": {
+        "Jan": 1.35,
+        "Feb": 2.11,
+        "Mar": 3.09,
+        "Apr": 3.93,
+        "May": 4.14,
+        "Jun": 4.27,
+        "Jul": 4.07,
+        "Aug": 3.86,
+        "Sep": 3.34,
+        "Oct": 2.39,
+        "Nov": 1.52,
+        "Dec": 1.08
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Herentals",
+      "admin1_code": "VLG",
+      "location": [
+        51.17655,
+        4.83248
+      ],
+      "monthly": {
+        "Jan": 1.27,
+        "Feb": 2.01,
+        "Mar": 3.01,
+        "Apr": 3.92,
+        "May": 4.19,
+        "Jun": 4.27,
+        "Jul": 4.09,
+        "Aug": 3.85,
+        "Sep": 3.27,
+        "Oct": 2.3,
+        "Nov": 1.41,
+        "Dec": 1.02
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Herent",
+      "admin1_code": "VLG",
+      "location": [
+        50.90861,
+        4.67056
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.07,
+        "Mar": 3.06,
+        "Apr": 3.96,
+        "May": 4.22,
+        "Jun": 4.3,
+        "Jul": 4.13,
+        "Aug": 3.89,
+        "Sep": 3.34,
+        "Oct": 2.37,
+        "Nov": 1.48,
+        "Dec": 1.06
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Helchteren",
+      "admin1_code": "VLG",
+      "location": [
+        51.05591,
+        5.38244
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 1.99,
+        "Mar": 3.02,
+        "Apr": 3.91,
+        "May": 4.19,
+        "Jun": 4.29,
+        "Jul": 4.11,
+        "Aug": 3.85,
+        "Sep": 3.28,
+        "Oct": 2.32,
+        "Nov": 1.43,
+        "Dec": 1.02
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Heist-op-den-Berg",
+      "admin1_code": "VLG",
+      "location": [
+        51.07537,
+        4.72827
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.04,
+        "Mar": 3.04,
+        "Apr": 3.94,
+        "May": 4.21,
+        "Jun": 4.29,
+        "Jul": 4.1,
+        "Aug": 3.88,
+        "Sep": 3.3,
+        "Oct": 2.33,
+        "Nov": 1.45,
+        "Dec": 1.04
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Hasselt",
+      "admin1_code": "VLG",
+      "location": [
+        50.93106,
+        5.33781
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.02,
+        "Mar": 3.06,
+        "Apr": 3.95,
+        "May": 4.21,
+        "Jun": 4.32,
+        "Jul": 4.14,
+        "Aug": 3.9,
+        "Sep": 3.3,
+        "Oct": 2.35,
+        "Nov": 1.47,
+        "Dec": 1.05
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Harelbeke",
+      "admin1_code": "VLG",
+      "location": [
+        50.85343,
+        3.30935
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.1,
+        "Mar": 3.07,
+        "Apr": 4.03,
+        "May": 4.2,
+        "Jun": 4.32,
+        "Jul": 4.15,
+        "Aug": 3.9,
+        "Sep": 3.31,
+        "Oct": 2.4,
+        "Nov": 1.45,
+        "Dec": 1.08
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Hamme",
+      "admin1_code": "VLG",
+      "location": [
+        51.09822,
+        4.13705
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.04,
+        "Mar": 3.04,
+        "Apr": 3.99,
+        "May": 4.2,
+        "Jun": 4.29,
+        "Jul": 4.09,
+        "Aug": 3.89,
+        "Sep": 3.3,
+        "Oct": 2.32,
+        "Nov": 1.44,
+        "Dec": 1.05
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Halle",
+      "admin1_code": "VLG",
+      "location": [
+        50.73385,
+        4.23454
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.08,
+        "Mar": 3.08,
+        "Apr": 4.01,
+        "May": 4.22,
+        "Jun": 4.32,
+        "Jul": 4.16,
+        "Aug": 3.92,
+        "Sep": 3.36,
+        "Oct": 2.4,
+        "Nov": 1.48,
+        "Dec": 1.07
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Haaltert",
+      "admin1_code": "VLG",
+      "location": [
+        50.90634,
+        4.00093
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.08,
+        "Mar": 3.07,
+        "Apr": 4.05,
+        "May": 4.22,
+        "Jun": 4.32,
+        "Jul": 4.14,
+        "Aug": 3.92,
+        "Sep": 3.34,
+        "Oct": 2.38,
+        "Nov": 1.46,
+        "Dec": 1.07
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Grivegnée",
+      "admin1_code": "WAL",
+      "location": [
+        50.62148,
+        5.61101
+      ],
+      "monthly": {
+        "Jan": 1.34,
+        "Feb": 2.1,
+        "Mar": 3.08,
+        "Apr": 3.91,
+        "May": 4.1,
+        "Jun": 4.24,
+        "Jul": 4.06,
+        "Aug": 3.84,
+        "Sep": 3.32,
+        "Oct": 2.39,
+        "Nov": 1.52,
+        "Dec": 1.09
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Grimbergen",
+      "admin1_code": "VLG",
+      "location": [
+        50.93409,
+        4.37213
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.07,
+        "Mar": 3.07,
+        "Apr": 3.99,
+        "May": 4.24,
+        "Jun": 4.33,
+        "Jul": 4.15,
+        "Aug": 3.91,
+        "Sep": 3.35,
+        "Oct": 2.38,
+        "Nov": 1.48,
+        "Dec": 1.07
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Gilly",
+      "admin1_code": "WAL",
+      "location": [
+        50.42449,
+        4.4789
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.08,
+        "Mar": 3.06,
+        "Apr": 3.94,
+        "May": 4.16,
+        "Jun": 4.26,
+        "Jul": 4.15,
+        "Aug": 3.92,
+        "Sep": 3.33,
+        "Oct": 2.4,
+        "Nov": 1.46,
+        "Dec": 1.08
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Geraardsbergen",
+      "admin1_code": "VLG",
+      "location": [
+        50.77343,
+        3.88223
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.07,
+        "Mar": 3.08,
+        "Apr": 4.01,
+        "May": 4.19,
+        "Jun": 4.3,
+        "Jul": 4.14,
+        "Aug": 3.9,
+        "Sep": 3.34,
+        "Oct": 2.38,
+        "Nov": 1.44,
+        "Dec": 1.07
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Gentbrugge",
+      "admin1_code": "VLG",
+      "location": [
+        51.03692,
+        3.76509
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.06,
+        "Mar": 3.04,
+        "Apr": 3.98,
+        "May": 4.18,
+        "Jun": 4.25,
+        "Jul": 4.1,
+        "Aug": 3.87,
+        "Sep": 3.27,
+        "Oct": 2.33,
+        "Nov": 1.44,
+        "Dec": 1.06
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Gent",
+      "admin1_code": "VLG",
+      "location": [
+        51.05,
+        3.71667
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.05,
+        "Mar": 3.03,
+        "Apr": 3.96,
+        "May": 4.16,
+        "Jun": 4.24,
+        "Jul": 4.09,
+        "Aug": 3.85,
+        "Sep": 3.25,
+        "Oct": 2.31,
+        "Nov": 1.42,
+        "Dec": 1.05
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Genk",
+      "admin1_code": "VLG",
+      "location": [
+        50.965,
+        5.50082
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 1.99,
+        "Mar": 3.02,
+        "Apr": 3.89,
+        "May": 4.17,
+        "Jun": 4.28,
+        "Jul": 4.09,
+        "Aug": 3.85,
+        "Sep": 3.28,
+        "Oct": 2.32,
+        "Nov": 1.44,
+        "Dec": 1.02
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Gembloux",
+      "admin1_code": "WAL",
+      "location": [
+        50.56149,
+        4.69889
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.08,
+        "Mar": 3.13,
+        "Apr": 4.01,
+        "May": 4.26,
+        "Jun": 4.37,
+        "Jul": 4.17,
+        "Aug": 3.95,
+        "Sep": 3.4,
+        "Oct": 2.45,
+        "Nov": 1.5,
+        "Dec": 1.09
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Geel",
+      "admin1_code": "VLG",
+      "location": [
+        51.16557,
+        4.98917
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.02,
+        "Mar": 3.03,
+        "Apr": 3.94,
+        "May": 4.21,
+        "Jun": 4.29,
+        "Jul": 4.1,
+        "Aug": 3.87,
+        "Sep": 3.29,
+        "Oct": 2.33,
+        "Nov": 1.43,
+        "Dec": 1.03
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Ganshoren",
+      "admin1_code": "BRU",
+      "location": [
+        50.87065,
+        4.31531
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.05,
+        "Mar": 3.04,
+        "Apr": 3.97,
+        "May": 4.22,
+        "Jun": 4.31,
+        "Jul": 4.14,
+        "Aug": 3.89,
+        "Sep": 3.33,
+        "Oct": 2.36,
+        "Nov": 1.46,
+        "Dec": 1.06
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Frameries",
+      "admin1_code": "WAL",
+      "location": [
+        50.40578,
+        3.89603
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.09,
+        "Mar": 3.09,
+        "Apr": 4.01,
+        "May": 4.2,
+        "Jun": 4.3,
+        "Jul": 4.19,
+        "Aug": 3.96,
+        "Sep": 3.41,
+        "Oct": 2.46,
+        "Nov": 1.52,
+        "Dec": 1.1
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Forest",
+      "admin1_code": "BRU",
+      "location": [
+        50.81678,
+        4.32775
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.03,
+        "Mar": 3.03,
+        "Apr": 3.93,
+        "May": 4.16,
+        "Jun": 4.25,
+        "Jul": 4.1,
+        "Aug": 3.85,
+        "Sep": 3.29,
+        "Oct": 2.34,
+        "Nov": 1.44,
+        "Dec": 1.05
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Fleurus",
+      "admin1_code": "WAL",
+      "location": [
+        50.48351,
+        4.55006
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.09,
+        "Mar": 3.12,
+        "Apr": 4,
+        "May": 4.24,
+        "Jun": 4.34,
+        "Jul": 4.18,
+        "Aug": 3.96,
+        "Sep": 3.4,
+        "Oct": 2.46,
+        "Nov": 1.5,
+        "Dec": 1.09
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Fléron",
+      "admin1_code": "WAL",
+      "location": [
+        50.61516,
+        5.68062
+      ],
+      "monthly": {
+        "Jan": 1.34,
+        "Feb": 2.12,
+        "Mar": 3.11,
+        "Apr": 3.96,
+        "May": 4.16,
+        "Jun": 4.3,
+        "Jul": 4.11,
+        "Aug": 3.9,
+        "Sep": 3.36,
+        "Oct": 2.41,
+        "Nov": 1.53,
+        "Dec": 1.1
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Flémalle-Haute",
+      "admin1_code": "WAL",
+      "location": [
+        50.59994,
+        5.44471
+      ],
+      "monthly": {
+        "Jan": 1.35,
+        "Feb": 2.13,
+        "Mar": 3.11,
+        "Apr": 3.96,
+        "May": 4.18,
+        "Jun": 4.31,
+        "Jul": 4.12,
+        "Aug": 3.9,
+        "Sep": 3.38,
+        "Oct": 2.44,
+        "Nov": 1.54,
+        "Dec": 1.09
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Evergem",
+      "admin1_code": "VLG",
+      "location": [
+        51.11306,
+        3.70976
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.08,
+        "Mar": 3.05,
+        "Apr": 4.02,
+        "May": 4.21,
+        "Jun": 4.3,
+        "Jul": 4.12,
+        "Aug": 3.9,
+        "Sep": 3.28,
+        "Oct": 2.34,
+        "Nov": 1.44,
+        "Dec": 1.07
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Evere",
+      "admin1_code": "BRU",
+      "location": [
+        50.87441,
+        4.39905
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.06,
+        "Mar": 3.05,
+        "Apr": 3.96,
+        "May": 4.19,
+        "Jun": 4.27,
+        "Jul": 4.12,
+        "Aug": 3.87,
+        "Sep": 3.32,
+        "Oct": 2.36,
+        "Nov": 1.48,
+        "Dec": 1.07
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Eupen",
+      "admin1_code": "WAL",
+      "location": [
+        50.6279,
+        6.03647
+      ],
+      "monthly": {
+        "Jan": 1.36,
+        "Feb": 2.16,
+        "Mar": 3.12,
+        "Apr": 3.9,
+        "May": 4.12,
+        "Jun": 4.27,
+        "Jul": 4.08,
+        "Aug": 3.86,
+        "Sep": 3.32,
+        "Oct": 2.4,
+        "Nov": 1.54,
+        "Dec": 1.12
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Etterbeek",
+      "admin1_code": "BRU",
+      "location": [
+        50.83272,
+        4.38835
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.05,
+        "Mar": 3.05,
+        "Apr": 3.93,
+        "May": 4.17,
+        "Jun": 4.25,
+        "Jul": 4.11,
+        "Aug": 3.85,
+        "Sep": 3.3,
+        "Oct": 2.36,
+        "Nov": 1.48,
+        "Dec": 1.07
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Ekeren",
+      "admin1_code": "VLG",
+      "location": [
+        51.28087,
+        4.41813
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.02,
+        "Mar": 3.02,
+        "Apr": 3.95,
+        "May": 4.18,
+        "Jun": 4.25,
+        "Jul": 4.05,
+        "Aug": 3.81,
+        "Sep": 3.24,
+        "Oct": 2.27,
+        "Nov": 1.4,
+        "Dec": 1.04
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Eeklo",
+      "admin1_code": "VLG",
+      "location": [
+        51.18703,
+        3.55654
+      ],
+      "monthly": {
+        "Jan": 1.34,
+        "Feb": 2.11,
+        "Mar": 3.08,
+        "Apr": 4.07,
+        "May": 4.26,
+        "Jun": 4.34,
+        "Jul": 4.15,
+        "Aug": 3.92,
+        "Sep": 3.3,
+        "Oct": 2.35,
+        "Nov": 1.43,
+        "Dec": 1.06
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Edegem",
+      "admin1_code": "VLG",
+      "location": [
+        51.15662,
+        4.44504
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.04,
+        "Mar": 3.05,
+        "Apr": 3.97,
+        "May": 4.21,
+        "Jun": 4.29,
+        "Jul": 4.09,
+        "Aug": 3.88,
+        "Sep": 3.29,
+        "Oct": 2.31,
+        "Nov": 1.45,
+        "Dec": 1.06
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Duffel",
+      "admin1_code": "VLG",
+      "location": [
+        51.09554,
+        4.50903
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.05,
+        "Mar": 3.05,
+        "Apr": 3.97,
+        "May": 4.22,
+        "Jun": 4.31,
+        "Jul": 4.12,
+        "Aug": 3.9,
+        "Sep": 3.32,
+        "Oct": 2.32,
+        "Nov": 1.46,
+        "Dec": 1.06
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Dour",
+      "admin1_code": "WAL",
+      "location": [
+        50.39583,
+        3.77792
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.1,
+        "Mar": 3.08,
+        "Apr": 4.01,
+        "May": 4.19,
+        "Jun": 4.28,
+        "Jul": 4.15,
+        "Aug": 3.94,
+        "Sep": 3.38,
+        "Oct": 2.45,
+        "Nov": 1.5,
+        "Dec": 1.1
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Dilbeek",
+      "admin1_code": "VLG",
+      "location": [
+        50.84799,
+        4.25972
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.06,
+        "Mar": 3.06,
+        "Apr": 4,
+        "May": 4.24,
+        "Jun": 4.33,
+        "Jul": 4.16,
+        "Aug": 3.92,
+        "Sep": 3.35,
+        "Oct": 2.38,
+        "Nov": 1.47,
+        "Dec": 1.06
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Diksmuide",
+      "admin1_code": "VLG",
+      "location": [
+        51.03248,
+        2.86384
+      ],
+      "monthly": {
+        "Jan": 1.39,
+        "Feb": 2.18,
+        "Mar": 3.17,
+        "Apr": 4.18,
+        "May": 4.31,
+        "Jun": 4.43,
+        "Jul": 4.24,
+        "Aug": 4.01,
+        "Sep": 3.37,
+        "Oct": 2.42,
+        "Nov": 1.47,
+        "Dec": 1.09
+      },
+      "average": 3.02
+    },
+    {
+      "name": "Diest",
+      "admin1_code": "VLG",
+      "location": [
+        50.98923,
+        5.05062
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.03,
+        "Mar": 3.05,
+        "Apr": 3.94,
+        "May": 4.21,
+        "Jun": 4.28,
+        "Jul": 4.1,
+        "Aug": 3.86,
+        "Sep": 3.29,
+        "Oct": 2.34,
+        "Nov": 1.46,
+        "Dec": 1.04
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Diepenbeek",
+      "admin1_code": "VLG",
+      "location": [
+        50.90769,
+        5.41875
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.04,
+        "Mar": 3.07,
+        "Apr": 3.95,
+        "May": 4.21,
+        "Jun": 4.34,
+        "Jul": 4.15,
+        "Aug": 3.91,
+        "Sep": 3.32,
+        "Oct": 2.37,
+        "Nov": 1.48,
+        "Dec": 1.05
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Deurne",
+      "admin1_code": "VLG",
+      "location": [
+        51.22134,
+        4.46595
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.01,
+        "Mar": 3.02,
+        "Apr": 3.94,
+        "May": 4.18,
+        "Jun": 4.25,
+        "Jul": 4.06,
+        "Aug": 3.82,
+        "Sep": 3.25,
+        "Oct": 2.28,
+        "Nov": 1.42,
+        "Dec": 1.04
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Destelbergen",
+      "admin1_code": "VLG",
+      "location": [
+        51.05952,
+        3.79899
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.06,
+        "Mar": 3.04,
+        "Apr": 3.99,
+        "May": 4.18,
+        "Jun": 4.24,
+        "Jul": 4.09,
+        "Aug": 3.86,
+        "Sep": 3.27,
+        "Oct": 2.33,
+        "Nov": 1.44,
+        "Dec": 1.07
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Dendermonde",
+      "admin1_code": "VLG",
+      "location": [
+        51.02869,
+        4.10106
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.06,
+        "Mar": 3.05,
+        "Apr": 4,
+        "May": 4.2,
+        "Jun": 4.29,
+        "Jul": 4.1,
+        "Aug": 3.89,
+        "Sep": 3.31,
+        "Oct": 2.33,
+        "Nov": 1.44,
+        "Dec": 1.05
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Denderleeuw",
+      "admin1_code": "VLG",
+      "location": [
+        50.88506,
+        4.07601
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.08,
+        "Mar": 3.07,
+        "Apr": 4.01,
+        "May": 4.2,
+        "Jun": 4.3,
+        "Jul": 4.13,
+        "Aug": 3.91,
+        "Sep": 3.33,
+        "Oct": 2.37,
+        "Nov": 1.46,
+        "Dec": 1.06
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Deinze",
+      "admin1_code": "VLG",
+      "location": [
+        50.98175,
+        3.53096
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.11,
+        "Mar": 3.07,
+        "Apr": 4.02,
+        "May": 4.22,
+        "Jun": 4.32,
+        "Jul": 4.12,
+        "Aug": 3.91,
+        "Sep": 3.3,
+        "Oct": 2.37,
+        "Nov": 1.44,
+        "Dec": 1.08
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Courcelles",
+      "admin1_code": "WAL",
+      "location": [
+        50.46379,
+        4.3747
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.09,
+        "Mar": 3.1,
+        "Apr": 4,
+        "May": 4.22,
+        "Jun": 4.31,
+        "Jul": 4.19,
+        "Aug": 3.95,
+        "Sep": 3.38,
+        "Oct": 2.45,
+        "Nov": 1.49,
+        "Dec": 1.09
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Colfontaine",
+      "admin1_code": "WAL",
+      "location": [
+        50.4141,
+        3.85569
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.07,
+        "Mar": 3.06,
+        "Apr": 3.98,
+        "May": 4.18,
+        "Jun": 4.28,
+        "Jul": 4.16,
+        "Aug": 3.93,
+        "Sep": 3.37,
+        "Oct": 2.42,
+        "Nov": 1.5,
+        "Dec": 1.09
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Chaudfontaine",
+      "admin1_code": "WAL",
+      "location": [
+        50.5828,
+        5.6341
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.09,
+        "Mar": 3.08,
+        "Apr": 3.9,
+        "May": 4.11,
+        "Jun": 4.25,
+        "Jul": 4.08,
+        "Aug": 3.86,
+        "Sep": 3.33,
+        "Oct": 2.39,
+        "Nov": 1.51,
+        "Dec": 1.09
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Châtelineau",
+      "admin1_code": "WAL",
+      "location": [
+        50.41499,
+        4.52016
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.07,
+        "Mar": 3.06,
+        "Apr": 3.93,
+        "May": 4.15,
+        "Jun": 4.26,
+        "Jul": 4.14,
+        "Aug": 3.91,
+        "Sep": 3.34,
+        "Oct": 2.4,
+        "Nov": 1.47,
+        "Dec": 1.08
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Châtelet",
+      "admin1_code": "WAL",
+      "location": [
+        50.40338,
+        4.52826
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.07,
+        "Mar": 3.07,
+        "Apr": 3.94,
+        "May": 4.16,
+        "Jun": 4.26,
+        "Jul": 4.14,
+        "Aug": 3.91,
+        "Sep": 3.34,
+        "Oct": 2.41,
+        "Nov": 1.47,
+        "Dec": 1.08
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Charleroi",
+      "admin1_code": "WAL",
+      "location": [
+        50.41136,
+        4.44448
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.08,
+        "Mar": 3.05,
+        "Apr": 3.92,
+        "May": 4.14,
+        "Jun": 4.25,
+        "Jul": 4.14,
+        "Aug": 3.91,
+        "Sep": 3.32,
+        "Oct": 2.39,
+        "Nov": 1.46,
+        "Dec": 1.08
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Brussels",
+      "admin1_code": "BRU",
+      "location": [
+        50.85045,
+        4.34878
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.05,
+        "Mar": 3.04,
+        "Apr": 3.95,
+        "May": 4.18,
+        "Jun": 4.26,
+        "Jul": 4.11,
+        "Aug": 3.85,
+        "Sep": 3.3,
+        "Oct": 2.35,
+        "Nov": 1.46,
+        "Dec": 1.06
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Brugge",
+      "admin1_code": "VLG",
+      "location": [
+        51.20892,
+        3.22424
+      ],
+      "monthly": {
+        "Jan": 1.34,
+        "Feb": 2.13,
+        "Mar": 3.14,
+        "Apr": 4.17,
+        "May": 4.33,
+        "Jun": 4.43,
+        "Jul": 4.23,
+        "Aug": 3.98,
+        "Sep": 3.33,
+        "Oct": 2.35,
+        "Nov": 1.43,
+        "Dec": 1.05
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Brasschaat",
+      "admin1_code": "VLG",
+      "location": [
+        51.2912,
+        4.49182
+      ],
+      "monthly": {
+        "Jan": 1.25,
+        "Feb": 1.97,
+        "Mar": 2.97,
+        "Apr": 3.89,
+        "May": 4.14,
+        "Jun": 4.22,
+        "Jul": 4.02,
+        "Aug": 3.77,
+        "Sep": 3.21,
+        "Oct": 2.24,
+        "Nov": 1.38,
+        "Dec": 1.02
+      },
+      "average": 2.84
+    },
+    {
+      "name": "Braine-le-Comte",
+      "admin1_code": "WAL",
+      "location": [
+        50.60979,
+        4.14658
+      ],
+      "monthly": {
+        "Jan": 1.34,
+        "Feb": 2.11,
+        "Mar": 3.13,
+        "Apr": 4.06,
+        "May": 4.27,
+        "Jun": 4.35,
+        "Jul": 4.2,
+        "Aug": 3.95,
+        "Sep": 3.4,
+        "Oct": 2.46,
+        "Nov": 1.52,
+        "Dec": 1.09
+      },
+      "average": 2.99
+    },
+    {
+      "name": "Braine-l'Alleud",
+      "admin1_code": "WAL",
+      "location": [
+        50.68363,
+        4.36784
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.04,
+        "Mar": 3.05,
+        "Apr": 3.96,
+        "May": 4.18,
+        "Jun": 4.28,
+        "Jul": 4.14,
+        "Aug": 3.88,
+        "Sep": 3.33,
+        "Oct": 2.39,
+        "Nov": 1.47,
+        "Dec": 1.06
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Boussu",
+      "admin1_code": "WAL",
+      "location": [
+        50.43417,
+        3.7944
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.07,
+        "Mar": 3.06,
+        "Apr": 3.98,
+        "May": 4.17,
+        "Jun": 4.27,
+        "Jul": 4.14,
+        "Aug": 3.91,
+        "Sep": 3.36,
+        "Oct": 2.42,
+        "Nov": 1.47,
+        "Dec": 1.09
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Bornem",
+      "admin1_code": "VLG",
+      "location": [
+        51.09716,
+        4.24364
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.04,
+        "Mar": 3.05,
+        "Apr": 3.99,
+        "May": 4.22,
+        "Jun": 4.31,
+        "Jul": 4.11,
+        "Aug": 3.91,
+        "Sep": 3.3,
+        "Oct": 2.31,
+        "Nov": 1.44,
+        "Dec": 1.05
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Borgerhout",
+      "admin1_code": "VLG",
+      "location": [
+        51.20957,
+        4.43539
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.01,
+        "Mar": 3.02,
+        "Apr": 3.95,
+        "May": 4.18,
+        "Jun": 4.26,
+        "Jul": 4.07,
+        "Aug": 3.83,
+        "Sep": 3.25,
+        "Oct": 2.29,
+        "Nov": 1.42,
+        "Dec": 1.05
+      },
+      "average": 2.88
+    },
+    {
+      "name": "Boom",
+      "admin1_code": "VLG",
+      "location": [
+        51.09242,
+        4.3717
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.04,
+        "Mar": 3.05,
+        "Apr": 3.99,
+        "May": 4.22,
+        "Jun": 4.31,
+        "Jul": 4.12,
+        "Aug": 3.9,
+        "Sep": 3.31,
+        "Oct": 2.31,
+        "Nov": 1.44,
+        "Dec": 1.05
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Blauwput",
+      "admin1_code": "VLG",
+      "location": [
+        50.88587,
+        4.72415
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.05,
+        "Mar": 3.05,
+        "Apr": 3.94,
+        "May": 4.21,
+        "Jun": 4.29,
+        "Jul": 4.13,
+        "Aug": 3.88,
+        "Sep": 3.32,
+        "Oct": 2.36,
+        "Nov": 1.47,
+        "Dec": 1.05
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Blankenberge",
+      "admin1_code": "VLG",
+      "location": [
+        51.31306,
+        3.13227
+      ],
+      "monthly": {
+        "Jan": 1.34,
+        "Feb": 2.15,
+        "Mar": 3.21,
+        "Apr": 4.36,
+        "May": 4.53,
+        "Jun": 4.64,
+        "Jul": 4.45,
+        "Aug": 4.13,
+        "Sep": 3.4,
+        "Oct": 2.33,
+        "Nov": 1.37,
+        "Dec": 1.03
+      },
+      "average": 3.08
+    },
+    {
+      "name": "Binche",
+      "admin1_code": "WAL",
+      "location": [
+        50.41155,
+        4.16469
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.09,
+        "Mar": 3.08,
+        "Apr": 4.01,
+        "May": 4.21,
+        "Jun": 4.28,
+        "Jul": 4.16,
+        "Aug": 3.94,
+        "Sep": 3.38,
+        "Oct": 2.45,
+        "Nov": 1.5,
+        "Dec": 1.09
+      },
+      "average": 2.96
+    },
+    {
+      "name": "Bilzen",
+      "admin1_code": "VLG",
+      "location": [
+        50.87325,
+        5.5184
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.05,
+        "Mar": 3.07,
+        "Apr": 3.95,
+        "May": 4.21,
+        "Jun": 4.34,
+        "Jul": 4.14,
+        "Aug": 3.91,
+        "Sep": 3.33,
+        "Oct": 2.38,
+        "Nov": 1.49,
+        "Dec": 1.05
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Beveren",
+      "admin1_code": "VLG",
+      "location": [
+        51.21187,
+        4.25633
+      ],
+      "monthly": {
+        "Jan": 1.34,
+        "Feb": 2.08,
+        "Mar": 3.08,
+        "Apr": 4.03,
+        "May": 4.24,
+        "Jun": 4.32,
+        "Jul": 4.11,
+        "Aug": 3.9,
+        "Sep": 3.31,
+        "Oct": 2.34,
+        "Nov": 1.45,
+        "Dec": 1.06
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Bevere",
+      "admin1_code": "VLG",
+      "location": [
+        50.8496,
+        3.5873
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.11,
+        "Mar": 3.07,
+        "Apr": 4.03,
+        "May": 4.2,
+        "Jun": 4.31,
+        "Jul": 4.11,
+        "Aug": 3.89,
+        "Sep": 3.32,
+        "Oct": 2.38,
+        "Nov": 1.46,
+        "Dec": 1.08
+      },
+      "average": 2.94
+    },
+    {
+      "name": "Beringen",
+      "admin1_code": "VLG",
+      "location": [
+        51.04954,
+        5.22606
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2,
+        "Mar": 3.04,
+        "Apr": 3.93,
+        "May": 4.19,
+        "Jun": 4.28,
+        "Jul": 4.11,
+        "Aug": 3.86,
+        "Sep": 3.29,
+        "Oct": 2.34,
+        "Nov": 1.44,
+        "Dec": 1.03
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Berchem-Sainte-Agathe",
+      "admin1_code": "BRU",
+      "location": [
+        50.86567,
+        4.29557
+      ],
+      "monthly": {
+        "Jan": 1.31,
+        "Feb": 2.05,
+        "Mar": 3.04,
+        "Apr": 3.98,
+        "May": 4.21,
+        "Jun": 4.3,
+        "Jul": 4.13,
+        "Aug": 3.89,
+        "Sep": 3.33,
+        "Oct": 2.36,
+        "Nov": 1.46,
+        "Dec": 1.06
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Berchem",
+      "admin1_code": "VLG",
+      "location": [
+        51.19021,
+        4.43264
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.03,
+        "Mar": 3.03,
+        "Apr": 3.97,
+        "May": 4.2,
+        "Jun": 4.27,
+        "Jul": 4.08,
+        "Aug": 3.85,
+        "Sep": 3.27,
+        "Oct": 2.3,
+        "Nov": 1.44,
+        "Dec": 1.06
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Beersel",
+      "admin1_code": "VLG",
+      "location": [
+        50.76589,
+        4.3002
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.05,
+        "Mar": 3.05,
+        "Apr": 3.94,
+        "May": 4.18,
+        "Jun": 4.28,
+        "Jul": 4.13,
+        "Aug": 3.87,
+        "Sep": 3.32,
+        "Oct": 2.37,
+        "Nov": 1.46,
+        "Dec": 1.06
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Beerse",
+      "admin1_code": "VLG",
+      "location": [
+        51.31927,
+        4.85304
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.02,
+        "Mar": 3.01,
+        "Apr": 3.93,
+        "May": 4.19,
+        "Jun": 4.27,
+        "Jul": 4.07,
+        "Aug": 3.85,
+        "Sep": 3.27,
+        "Oct": 2.3,
+        "Nov": 1.41,
+        "Dec": 1.03
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Balen",
+      "admin1_code": "VLG",
+      "location": [
+        51.16837,
+        5.17027
+      ],
+      "monthly": {
+        "Jan": 1.28,
+        "Feb": 2.01,
+        "Mar": 3.02,
+        "Apr": 3.92,
+        "May": 4.2,
+        "Jun": 4.27,
+        "Jul": 4.09,
+        "Aug": 3.86,
+        "Sep": 3.28,
+        "Oct": 2.32,
+        "Nov": 1.42,
+        "Dec": 1.02
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Auderghem",
+      "admin1_code": "BRU",
+      "location": [
+        50.81667,
+        4.43333
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.05,
+        "Mar": 3.04,
+        "Apr": 3.92,
+        "May": 4.16,
+        "Jun": 4.25,
+        "Jul": 4.11,
+        "Aug": 3.85,
+        "Sep": 3.3,
+        "Oct": 2.35,
+        "Nov": 1.47,
+        "Dec": 1.07
+      },
+      "average": 2.91
+    },
+    {
+      "name": "Ath",
+      "admin1_code": "WAL",
+      "location": [
+        50.62937,
+        3.77801
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.1,
+        "Mar": 3.12,
+        "Apr": 4.06,
+        "May": 4.23,
+        "Jun": 4.36,
+        "Jul": 4.2,
+        "Aug": 3.96,
+        "Sep": 3.39,
+        "Oct": 2.44,
+        "Nov": 1.49,
+        "Dec": 1.1
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Assebroek",
+      "admin1_code": "VLG",
+      "location": [
+        51.19367,
+        3.2623
+      ],
+      "monthly": {
+        "Jan": 1.33,
+        "Feb": 2.12,
+        "Mar": 3.11,
+        "Apr": 4.14,
+        "May": 4.3,
+        "Jun": 4.39,
+        "Jul": 4.19,
+        "Aug": 3.94,
+        "Sep": 3.31,
+        "Oct": 2.34,
+        "Nov": 1.43,
+        "Dec": 1.05
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Asse",
+      "admin1_code": "VLG",
+      "location": [
+        50.91011,
+        4.19836
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.07,
+        "Mar": 3.07,
+        "Apr": 4.02,
+        "May": 4.24,
+        "Jun": 4.34,
+        "Jul": 4.16,
+        "Aug": 3.94,
+        "Sep": 3.36,
+        "Oct": 2.38,
+        "Nov": 1.46,
+        "Dec": 1.07
+      },
+      "average": 2.95
+    },
+    {
+      "name": "Arlon",
+      "admin1_code": "WAL",
+      "location": [
+        49.68333,
+        5.81667
+      ],
+      "monthly": {
+        "Jan": 1.24,
+        "Feb": 2.12,
+        "Mar": 3.26,
+        "Apr": 4.09,
+        "May": 4.28,
+        "Jun": 4.53,
+        "Jul": 4.43,
+        "Aug": 4.11,
+        "Sep": 3.49,
+        "Oct": 2.31,
+        "Nov": 1.26,
+        "Dec": 1.01
+      },
+      "average": 3.01
+    },
+    {
+      "name": "Antwerpen",
+      "admin1_code": "VLG",
+      "location": [
+        51.22047,
+        4.40026
+      ],
+      "monthly": {
+        "Jan": 1.29,
+        "Feb": 2.02,
+        "Mar": 3.02,
+        "Apr": 3.96,
+        "May": 4.19,
+        "Jun": 4.26,
+        "Jul": 4.07,
+        "Aug": 3.83,
+        "Sep": 3.25,
+        "Oct": 2.29,
+        "Nov": 1.42,
+        "Dec": 1.04
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Ans",
+      "admin1_code": "WAL",
+      "location": [
+        50.6623,
+        5.52029
+      ],
+      "monthly": {
+        "Jan": 1.36,
+        "Feb": 2.14,
+        "Mar": 3.15,
+        "Apr": 3.99,
+        "May": 4.21,
+        "Jun": 4.36,
+        "Jul": 4.14,
+        "Aug": 3.93,
+        "Sep": 3.4,
+        "Oct": 2.45,
+        "Nov": 1.56,
+        "Dec": 1.1
+      },
+      "average": 2.98
+    },
+    {
+      "name": "Anderlecht",
+      "admin1_code": "BRU",
+      "location": [
+        50.83619,
+        4.31454
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.05,
+        "Mar": 3.05,
+        "Apr": 3.97,
+        "May": 4.2,
+        "Jun": 4.29,
+        "Jul": 4.14,
+        "Aug": 3.88,
+        "Sep": 3.32,
+        "Oct": 2.35,
+        "Nov": 1.46,
+        "Dec": 1.05
+      },
+      "average": 2.92
+    },
+    {
+      "name": "Andenne",
+      "admin1_code": "WAL",
+      "location": [
+        50.48941,
+        5.09513
+      ],
+      "monthly": {
+        "Jan": 1.23,
+        "Feb": 2.04,
+        "Mar": 3.07,
+        "Apr": 3.9,
+        "May": 4.12,
+        "Jun": 4.25,
+        "Jul": 4.07,
+        "Aug": 3.88,
+        "Sep": 3.33,
+        "Oct": 2.39,
+        "Nov": 1.44,
+        "Dec": 0.99
+      },
+      "average": 2.89
+    },
+    {
+      "name": "Aarschot",
+      "admin1_code": "VLG",
+      "location": [
+        50.98715,
+        4.83695
+      ],
+      "monthly": {
+        "Jan": 1.3,
+        "Feb": 2.04,
+        "Mar": 3.04,
+        "Apr": 3.92,
+        "May": 4.18,
+        "Jun": 4.26,
+        "Jul": 4.1,
+        "Aug": 3.86,
+        "Sep": 3.3,
+        "Oct": 2.34,
+        "Nov": 1.46,
+        "Dec": 1.04
+      },
+      "average": 2.9
+    },
+    {
+      "name": "Aalter",
+      "admin1_code": "VLG",
+      "location": [
+        51.09017,
+        3.44693
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.09,
+        "Mar": 3.05,
+        "Apr": 4.03,
+        "May": 4.22,
+        "Jun": 4.31,
+        "Jul": 4.13,
+        "Aug": 3.9,
+        "Sep": 3.3,
+        "Oct": 2.34,
+        "Nov": 1.42,
+        "Dec": 1.07
+      },
+      "average": 2.93
+    },
+    {
+      "name": "Aalst",
+      "admin1_code": "VLG",
+      "location": [
+        50.93604,
+        4.0355
+      ],
+      "monthly": {
+        "Jan": 1.32,
+        "Feb": 2.08,
+        "Mar": 3.06,
+        "Apr": 4.02,
+        "May": 4.19,
+        "Jun": 4.29,
+        "Jul": 4.12,
+        "Aug": 3.9,
+        "Sep": 3.33,
+        "Oct": 2.36,
+        "Nov": 1.46,
+        "Dec": 1.06
+      },
+      "average": 2.93
+    }
+  ]
+}

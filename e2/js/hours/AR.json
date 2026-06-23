@@ -1,0 +1,5963 @@
+{
+  "country": "Argentina",
+  "countryCode": "AR",
+  "cities": [
+    {
+      "name": "Zárate",
+      "admin1_code": "01",
+      "location": [
+        -34.09584,
+        -59.02423
+      ],
+      "monthly": {
+        "Jan": 5.28,
+        "Feb": 5,
+        "Mar": 4.74,
+        "Apr": 4.11,
+        "May": 3.48,
+        "Jun": 3.15,
+        "Jul": 3.32,
+        "Aug": 3.93,
+        "Sep": 4.46,
+        "Oct": 4.79,
+        "Nov": 5.17,
+        "Dec": 5.28
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Colonia Wanda",
+      "admin1_code": "14",
+      "location": [
+        -25.97337,
+        -54.56304
+      ],
+      "monthly": {
+        "Jan": 4.76,
+        "Feb": 4.75,
+        "Mar": 4.69,
+        "Apr": 4.26,
+        "May": 3.59,
+        "Jun": 3.24,
+        "Jul": 3.65,
+        "Aug": 4.12,
+        "Sep": 4.06,
+        "Oct": 4.27,
+        "Nov": 4.75,
+        "Dec": 4.69
+      },
+      "average": 4.24
+    },
+    {
+      "name": "Villa Ortúzar",
+      "admin1_code": "07",
+      "location": [
+        -34.57973,
+        -58.46829
+      ],
+      "monthly": {
+        "Jan": 5.33,
+        "Feb": 5.03,
+        "Mar": 4.78,
+        "Apr": 4.18,
+        "May": 3.5,
+        "Jun": 3.23,
+        "Jul": 3.3,
+        "Aug": 3.89,
+        "Sep": 4.42,
+        "Oct": 4.8,
+        "Nov": 5.21,
+        "Dec": 5.35
+      },
+      "average": 4.42
+    },
+    {
+      "name": "Villa Ocampo",
+      "admin1_code": "21",
+      "location": [
+        -28.48726,
+        -59.35421
+      ],
+      "monthly": {
+        "Jan": 5.05,
+        "Feb": 4.99,
+        "Mar": 4.76,
+        "Apr": 4.09,
+        "May": 3.62,
+        "Jun": 3.22,
+        "Jul": 3.71,
+        "Aug": 4.29,
+        "Sep": 4.48,
+        "Oct": 4.74,
+        "Nov": 5.03,
+        "Dec": 4.99
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Villa Lugano",
+      "admin1_code": "07",
+      "location": [
+        -34.67907,
+        -58.47263
+      ],
+      "monthly": {
+        "Jan": 5.3,
+        "Feb": 5,
+        "Mar": 4.74,
+        "Apr": 4.14,
+        "May": 3.45,
+        "Jun": 3.19,
+        "Jul": 3.26,
+        "Aug": 3.84,
+        "Sep": 4.38,
+        "Oct": 4.78,
+        "Nov": 5.17,
+        "Dec": 5.33
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Villaguay",
+      "admin1_code": "08",
+      "location": [
+        -31.86767,
+        -59.02701
+      ],
+      "monthly": {
+        "Jan": 5.19,
+        "Feb": 4.93,
+        "Mar": 4.71,
+        "Apr": 4.11,
+        "May": 3.48,
+        "Jun": 3.18,
+        "Jul": 3.48,
+        "Aug": 4.1,
+        "Sep": 4.53,
+        "Oct": 4.78,
+        "Nov": 5.16,
+        "Dec": 5.13
+      },
+      "average": 4.4
+    },
+    {
+      "name": "Villa Gesell",
+      "admin1_code": "01",
+      "location": [
+        -37.26394,
+        -56.97304
+      ],
+      "monthly": {
+        "Jan": 5.38,
+        "Feb": 5.02,
+        "Mar": 4.6,
+        "Apr": 3.97,
+        "May": 3.13,
+        "Jun": 2.86,
+        "Jul": 2.97,
+        "Aug": 3.46,
+        "Sep": 4.26,
+        "Oct": 4.78,
+        "Nov": 5.24,
+        "Dec": 5.42
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Villa de Mayo",
+      "admin1_code": "01",
+      "location": [
+        -34.5108,
+        -58.68059
+      ],
+      "monthly": {
+        "Jan": 5.27,
+        "Feb": 4.98,
+        "Mar": 4.72,
+        "Apr": 4.1,
+        "May": 3.42,
+        "Jun": 3.15,
+        "Jul": 3.25,
+        "Aug": 3.85,
+        "Sep": 4.39,
+        "Oct": 4.78,
+        "Nov": 5.16,
+        "Dec": 5.3
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Tristán Suárez",
+      "admin1_code": "01",
+      "location": [
+        -34.88982,
+        -58.56761
+      ],
+      "monthly": {
+        "Jan": 5.22,
+        "Feb": 4.97,
+        "Mar": 4.69,
+        "Apr": 4.1,
+        "May": 3.42,
+        "Jun": 3.14,
+        "Jul": 3.24,
+        "Aug": 3.85,
+        "Sep": 4.35,
+        "Oct": 4.74,
+        "Nov": 5.13,
+        "Dec": 5.28
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Tortuguitas",
+      "admin1_code": "01",
+      "location": [
+        -34.47513,
+        -58.75367
+      ],
+      "monthly": {
+        "Jan": 5.27,
+        "Feb": 4.98,
+        "Mar": 4.72,
+        "Apr": 4.1,
+        "May": 3.43,
+        "Jun": 3.16,
+        "Jul": 3.27,
+        "Aug": 3.86,
+        "Sep": 4.41,
+        "Oct": 4.78,
+        "Nov": 5.16,
+        "Dec": 5.32
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Tigre",
+      "admin1_code": "01",
+      "location": [
+        -34.42603,
+        -58.57962
+      ],
+      "monthly": {
+        "Jan": 5.33,
+        "Feb": 5.05,
+        "Mar": 4.79,
+        "Apr": 4.14,
+        "May": 3.47,
+        "Jun": 3.18,
+        "Jul": 3.29,
+        "Aug": 3.89,
+        "Sep": 4.44,
+        "Oct": 4.8,
+        "Nov": 5.21,
+        "Dec": 5.34
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Tandil",
+      "admin1_code": "01",
+      "location": [
+        -37.3287,
+        -59.1369
+      ],
+      "monthly": {
+        "Jan": 5.35,
+        "Feb": 5.11,
+        "Mar": 4.66,
+        "Apr": 4.14,
+        "May": 3.31,
+        "Jun": 3.07,
+        "Jul": 3.16,
+        "Aug": 3.78,
+        "Sep": 4.29,
+        "Oct": 4.76,
+        "Nov": 5.22,
+        "Dec": 5.4
+      },
+      "average": 4.35
+    },
+    {
+      "name": "San Vicente",
+      "admin1_code": "14",
+      "location": [
+        -26.61667,
+        -54.13333
+      ],
+      "monthly": {
+        "Jan": 4.67,
+        "Feb": 4.71,
+        "Mar": 4.59,
+        "Apr": 4.23,
+        "May": 3.6,
+        "Jun": 3.28,
+        "Jul": 3.69,
+        "Aug": 4.17,
+        "Sep": 4.09,
+        "Oct": 4.23,
+        "Nov": 4.7,
+        "Dec": 4.61
+      },
+      "average": 4.21
+    },
+    {
+      "name": "Santo Tomé",
+      "admin1_code": "06",
+      "location": [
+        -28.55104,
+        -56.04125
+      ],
+      "monthly": {
+        "Jan": 4.95,
+        "Feb": 4.95,
+        "Mar": 4.73,
+        "Apr": 4.15,
+        "May": 3.47,
+        "Jun": 3.13,
+        "Jul": 3.54,
+        "Aug": 3.99,
+        "Sep": 4.14,
+        "Oct": 4.46,
+        "Nov": 4.93,
+        "Dec": 4.96
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Santos Lugares",
+      "admin1_code": "01",
+      "location": [
+        -34.60306,
+        -58.54074
+      ],
+      "monthly": {
+        "Jan": 5.29,
+        "Feb": 4.99,
+        "Mar": 4.74,
+        "Apr": 4.16,
+        "May": 3.47,
+        "Jun": 3.22,
+        "Jul": 3.29,
+        "Aug": 3.87,
+        "Sep": 4.41,
+        "Oct": 4.78,
+        "Nov": 5.18,
+        "Dec": 5.32
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Santa Teresita",
+      "admin1_code": "01",
+      "location": [
+        -36.54059,
+        -56.69294
+      ],
+      "monthly": {
+        "Jan": 5.42,
+        "Feb": 5.11,
+        "Mar": 4.68,
+        "Apr": 4.06,
+        "May": 3.21,
+        "Jun": 2.97,
+        "Jul": 3.04,
+        "Aug": 3.54,
+        "Sep": 4.3,
+        "Oct": 4.78,
+        "Nov": 5.26,
+        "Dec": 5.45
+      },
+      "average": 4.32
+    },
+    {
+      "name": "Santa Elena",
+      "admin1_code": "08",
+      "location": [
+        -30.94432,
+        -59.78832
+      ],
+      "monthly": {
+        "Jan": 5.17,
+        "Feb": 5,
+        "Mar": 4.74,
+        "Apr": 4.16,
+        "May": 3.56,
+        "Jun": 3.26,
+        "Jul": 3.62,
+        "Aug": 4.25,
+        "Sep": 4.61,
+        "Oct": 4.85,
+        "Nov": 5.17,
+        "Dec": 5.14
+      },
+      "average": 4.46
+    },
+    {
+      "name": "San Pedro",
+      "admin1_code": "01",
+      "location": [
+        -33.67918,
+        -59.66633
+      ],
+      "monthly": {
+        "Jan": 5.31,
+        "Feb": 5.06,
+        "Mar": 4.82,
+        "Apr": 4.14,
+        "May": 3.55,
+        "Jun": 3.2,
+        "Jul": 3.4,
+        "Aug": 4.02,
+        "Sep": 4.53,
+        "Oct": 4.84,
+        "Nov": 5.2,
+        "Dec": 5.26
+      },
+      "average": 4.44
+    },
+    {
+      "name": "San Pedro",
+      "admin1_code": "14",
+      "location": [
+        -26.6218,
+        -54.10902
+      ],
+      "monthly": {
+        "Jan": 4.65,
+        "Feb": 4.7,
+        "Mar": 4.58,
+        "Apr": 4.22,
+        "May": 3.59,
+        "Jun": 3.27,
+        "Jul": 3.68,
+        "Aug": 4.16,
+        "Sep": 4.08,
+        "Oct": 4.22,
+        "Nov": 4.69,
+        "Dec": 4.6
+      },
+      "average": 4.2
+    },
+    {
+      "name": "San Luis del Palmar",
+      "admin1_code": "06",
+      "location": [
+        -27.50766,
+        -58.55625
+      ],
+      "monthly": {
+        "Jan": 5,
+        "Feb": 4.96,
+        "Mar": 4.68,
+        "Apr": 4.11,
+        "May": 3.62,
+        "Jun": 3.21,
+        "Jul": 3.71,
+        "Aug": 4.18,
+        "Sep": 4.38,
+        "Oct": 4.59,
+        "Nov": 4.91,
+        "Dec": 4.92
+      },
+      "average": 4.36
+    },
+    {
+      "name": "San Lorenzo",
+      "admin1_code": "06",
+      "location": [
+        -28.13442,
+        -58.76685
+      ],
+      "monthly": {
+        "Jan": 5.02,
+        "Feb": 4.95,
+        "Mar": 4.68,
+        "Apr": 4.11,
+        "May": 3.58,
+        "Jun": 3.23,
+        "Jul": 3.68,
+        "Aug": 4.2,
+        "Sep": 4.41,
+        "Oct": 4.65,
+        "Nov": 4.97,
+        "Dec": 4.97
+      },
+      "average": 4.37
+    },
+    {
+      "name": "San Justo",
+      "admin1_code": "01",
+      "location": [
+        -34.68107,
+        -58.56379
+      ],
+      "monthly": {
+        "Jan": 5.28,
+        "Feb": 4.98,
+        "Mar": 4.7,
+        "Apr": 4.1,
+        "May": 3.42,
+        "Jun": 3.16,
+        "Jul": 3.24,
+        "Aug": 3.82,
+        "Sep": 4.35,
+        "Oct": 4.75,
+        "Nov": 5.16,
+        "Dec": 5.31
+      },
+      "average": 4.36
+    },
+    {
+      "name": "San Javier",
+      "admin1_code": "21",
+      "location": [
+        -30.58072,
+        -59.92962
+      ],
+      "monthly": {
+        "Jan": 5.18,
+        "Feb": 5.04,
+        "Mar": 4.74,
+        "Apr": 4.16,
+        "May": 3.54,
+        "Jun": 3.24,
+        "Jul": 3.61,
+        "Aug": 4.27,
+        "Sep": 4.59,
+        "Oct": 4.84,
+        "Nov": 5.16,
+        "Dec": 5.14
+      },
+      "average": 4.46
+    },
+    {
+      "name": "San Isidro",
+      "admin1_code": "01",
+      "location": [
+        -34.46971,
+        -58.52111
+      ],
+      "monthly": {
+        "Jan": 5.35,
+        "Feb": 5.07,
+        "Mar": 4.8,
+        "Apr": 4.17,
+        "May": 3.48,
+        "Jun": 3.19,
+        "Jul": 3.27,
+        "Aug": 3.87,
+        "Sep": 4.43,
+        "Oct": 4.82,
+        "Nov": 5.22,
+        "Dec": 5.36
+      },
+      "average": 4.42
+    },
+    {
+      "name": "San Antonio de Padua",
+      "admin1_code": "01",
+      "location": [
+        -34.66267,
+        -58.69819
+      ],
+      "monthly": {
+        "Jan": 5.25,
+        "Feb": 4.97,
+        "Mar": 4.7,
+        "Apr": 4.09,
+        "May": 3.42,
+        "Jun": 3.16,
+        "Jul": 3.25,
+        "Aug": 3.84,
+        "Sep": 4.38,
+        "Oct": 4.76,
+        "Nov": 5.15,
+        "Dec": 5.31
+      },
+      "average": 4.36
+    },
+    {
+      "name": "San Antonio de Areco",
+      "admin1_code": "01",
+      "location": [
+        -34.25083,
+        -59.46944
+      ],
+      "monthly": {
+        "Jan": 5.23,
+        "Feb": 5,
+        "Mar": 4.73,
+        "Apr": 4.1,
+        "May": 3.54,
+        "Jun": 3.19,
+        "Jul": 3.36,
+        "Aug": 4,
+        "Sep": 4.5,
+        "Oct": 4.83,
+        "Nov": 5.13,
+        "Dec": 5.27
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Saladillo",
+      "admin1_code": "01",
+      "location": [
+        -35.63884,
+        -59.77938
+      ],
+      "monthly": {
+        "Jan": 5.3,
+        "Feb": 5.08,
+        "Mar": 4.74,
+        "Apr": 4.14,
+        "May": 3.46,
+        "Jun": 3.18,
+        "Jul": 3.25,
+        "Aug": 3.95,
+        "Sep": 4.45,
+        "Oct": 4.77,
+        "Nov": 5.19,
+        "Dec": 5.36
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Saladas",
+      "admin1_code": "06",
+      "location": [
+        -28.25504,
+        -58.62386
+      ],
+      "monthly": {
+        "Jan": 5.04,
+        "Feb": 4.95,
+        "Mar": 4.69,
+        "Apr": 4.1,
+        "May": 3.57,
+        "Jun": 3.2,
+        "Jul": 3.66,
+        "Aug": 4.18,
+        "Sep": 4.39,
+        "Oct": 4.65,
+        "Nov": 4.98,
+        "Dec": 4.98
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Retiro",
+      "admin1_code": "07",
+      "location": [
+        -34.58333,
+        -58.38333
+      ],
+      "monthly": {
+        "Jan": 5.34,
+        "Feb": 5.07,
+        "Mar": 4.78,
+        "Apr": 4.13,
+        "May": 3.44,
+        "Jun": 3.15,
+        "Jul": 3.2,
+        "Aug": 3.8,
+        "Sep": 4.36,
+        "Oct": 4.79,
+        "Nov": 5.21,
+        "Dec": 5.34
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Resistencia",
+      "admin1_code": "03",
+      "location": [
+        -27.46363,
+        -58.98665
+      ],
+      "monthly": {
+        "Jan": 5.03,
+        "Feb": 4.97,
+        "Mar": 4.7,
+        "Apr": 4.11,
+        "May": 3.67,
+        "Jun": 3.23,
+        "Jul": 3.72,
+        "Aug": 4.23,
+        "Sep": 4.42,
+        "Oct": 4.64,
+        "Nov": 4.94,
+        "Dec": 4.93
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Reconquista",
+      "admin1_code": "21",
+      "location": [
+        -29.15,
+        -59.65
+      ],
+      "monthly": {
+        "Jan": 5.05,
+        "Feb": 4.96,
+        "Mar": 4.78,
+        "Apr": 4.12,
+        "May": 3.61,
+        "Jun": 3.24,
+        "Jul": 3.7,
+        "Aug": 4.32,
+        "Sep": 4.56,
+        "Oct": 4.77,
+        "Nov": 5.06,
+        "Dec": 5.01
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Quilmes",
+      "admin1_code": "01",
+      "location": [
+        -34.72065,
+        -58.25454
+      ],
+      "monthly": {
+        "Jan": 5.39,
+        "Feb": 5.08,
+        "Mar": 4.8,
+        "Apr": 4.14,
+        "May": 3.44,
+        "Jun": 3.15,
+        "Jul": 3.24,
+        "Aug": 3.82,
+        "Sep": 4.38,
+        "Oct": 4.83,
+        "Nov": 5.22,
+        "Dec": 5.37
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Puerto Rico",
+      "admin1_code": "14",
+      "location": [
+        -26.8089,
+        -55.02147
+      ],
+      "monthly": {
+        "Jan": 4.81,
+        "Feb": 4.74,
+        "Mar": 4.62,
+        "Apr": 4.18,
+        "May": 3.54,
+        "Jun": 3.17,
+        "Jul": 3.57,
+        "Aug": 4.05,
+        "Sep": 4.05,
+        "Oct": 4.34,
+        "Nov": 4.78,
+        "Dec": 4.76
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Puerto Iguazú",
+      "admin1_code": "14",
+      "location": [
+        -25.59912,
+        -54.57355
+      ],
+      "monthly": {
+        "Jan": 4.73,
+        "Feb": 4.71,
+        "Mar": 4.68,
+        "Apr": 4.27,
+        "May": 3.59,
+        "Jun": 3.27,
+        "Jul": 3.66,
+        "Aug": 4.15,
+        "Sep": 4.09,
+        "Oct": 4.27,
+        "Nov": 4.73,
+        "Dec": 4.66
+      },
+      "average": 4.23
+    },
+    {
+      "name": "Puerto Esperanza",
+      "admin1_code": "14",
+      "location": [
+        -26.02267,
+        -54.61356
+      ],
+      "monthly": {
+        "Jan": 4.76,
+        "Feb": 4.73,
+        "Mar": 4.68,
+        "Apr": 4.25,
+        "May": 3.58,
+        "Jun": 3.23,
+        "Jul": 3.64,
+        "Aug": 4.11,
+        "Sep": 4.05,
+        "Oct": 4.28,
+        "Nov": 4.74,
+        "Dec": 4.68
+      },
+      "average": 4.23
+    },
+    {
+      "name": "Puerto Eldorado",
+      "admin1_code": "14",
+      "location": [
+        -26.40843,
+        -54.69463
+      ],
+      "monthly": {
+        "Jan": 4.74,
+        "Feb": 4.7,
+        "Mar": 4.59,
+        "Apr": 4.17,
+        "May": 3.51,
+        "Jun": 3.12,
+        "Jul": 3.54,
+        "Aug": 4.03,
+        "Sep": 3.99,
+        "Oct": 4.27,
+        "Nov": 4.72,
+        "Dec": 4.68
+      },
+      "average": 4.17
+    },
+    {
+      "name": "Posadas",
+      "admin1_code": "14",
+      "location": [
+        -27.39184,
+        -55.92379
+      ],
+      "monthly": {
+        "Jan": 4.94,
+        "Feb": 4.92,
+        "Mar": 4.7,
+        "Apr": 4.21,
+        "May": 3.53,
+        "Jun": 3.17,
+        "Jul": 3.59,
+        "Aug": 3.99,
+        "Sep": 4.11,
+        "Oct": 4.4,
+        "Nov": 4.84,
+        "Dec": 4.89
+      },
+      "average": 4.27
+    },
+    {
+      "name": "Pontevedra",
+      "admin1_code": "01",
+      "location": [
+        -34.74947,
+        -58.70158
+      ],
+      "monthly": {
+        "Jan": 5.24,
+        "Feb": 4.97,
+        "Mar": 4.69,
+        "Apr": 4.07,
+        "May": 3.38,
+        "Jun": 3.11,
+        "Jul": 3.22,
+        "Aug": 3.83,
+        "Sep": 4.36,
+        "Oct": 4.75,
+        "Nov": 5.14,
+        "Dec": 5.31
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Pirané",
+      "admin1_code": "09",
+      "location": [
+        -25.73271,
+        -59.10989
+      ],
+      "monthly": {
+        "Jan": 4.99,
+        "Feb": 4.87,
+        "Mar": 4.61,
+        "Apr": 4.06,
+        "May": 3.57,
+        "Jun": 3.17,
+        "Jul": 3.68,
+        "Aug": 4.2,
+        "Sep": 4.33,
+        "Oct": 4.59,
+        "Nov": 4.82,
+        "Dec": 4.83
+      },
+      "average": 4.31
+    },
+    {
+      "name": "Pinamar",
+      "admin1_code": "01",
+      "location": [
+        -37.11108,
+        -56.86523
+      ],
+      "monthly": {
+        "Jan": 5.36,
+        "Feb": 5.01,
+        "Mar": 4.6,
+        "Apr": 3.97,
+        "May": 3.16,
+        "Jun": 2.88,
+        "Jul": 3,
+        "Aug": 3.48,
+        "Sep": 4.27,
+        "Oct": 4.78,
+        "Nov": 5.23,
+        "Dec": 5.4
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Pilar",
+      "admin1_code": "01",
+      "location": [
+        -34.45867,
+        -58.91398
+      ],
+      "monthly": {
+        "Jan": 5.25,
+        "Feb": 4.98,
+        "Mar": 4.72,
+        "Apr": 4.09,
+        "May": 3.43,
+        "Jun": 3.13,
+        "Jul": 3.26,
+        "Aug": 3.88,
+        "Sep": 4.42,
+        "Oct": 4.79,
+        "Nov": 5.17,
+        "Dec": 5.32
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Paso de los Libres",
+      "admin1_code": "06",
+      "location": [
+        -29.71251,
+        -57.08771
+      ],
+      "monthly": {
+        "Jan": 5.05,
+        "Feb": 4.97,
+        "Mar": 4.76,
+        "Apr": 4.15,
+        "May": 3.49,
+        "Jun": 3.16,
+        "Jul": 3.49,
+        "Aug": 4.06,
+        "Sep": 4.28,
+        "Oct": 4.66,
+        "Nov": 5.04,
+        "Dec": 5.04
+      },
+      "average": 4.35
+    },
+    {
+      "name": "Oberá",
+      "admin1_code": "14",
+      "location": [
+        -27.48683,
+        -55.11994
+      ],
+      "monthly": {
+        "Jan": 4.78,
+        "Feb": 4.75,
+        "Mar": 4.6,
+        "Apr": 4.14,
+        "May": 3.48,
+        "Jun": 3.16,
+        "Jul": 3.56,
+        "Aug": 4.03,
+        "Sep": 4.05,
+        "Oct": 4.31,
+        "Nov": 4.77,
+        "Dec": 4.73
+      },
+      "average": 4.2
+    },
+    {
+      "name": "Nogoyá",
+      "admin1_code": "08",
+      "location": [
+        -32.39375,
+        -59.78955
+      ],
+      "monthly": {
+        "Jan": 5.24,
+        "Feb": 4.93,
+        "Mar": 4.74,
+        "Apr": 4.11,
+        "May": 3.54,
+        "Jun": 3.25,
+        "Jul": 3.52,
+        "Aug": 4.16,
+        "Sep": 4.62,
+        "Oct": 4.81,
+        "Nov": 5.18,
+        "Dec": 5.15
+      },
+      "average": 4.44
+    },
+    {
+      "name": "Necochea",
+      "admin1_code": "01",
+      "location": [
+        -38.5545,
+        -58.73961
+      ],
+      "monthly": {
+        "Jan": 5.41,
+        "Feb": 5.09,
+        "Mar": 4.63,
+        "Apr": 3.92,
+        "May": 3.03,
+        "Jun": 2.74,
+        "Jul": 2.87,
+        "Aug": 3.5,
+        "Sep": 4.26,
+        "Oct": 4.81,
+        "Nov": 5.27,
+        "Dec": 5.45
+      },
+      "average": 4.25
+    },
+    {
+      "name": "Muñiz",
+      "admin1_code": "01",
+      "location": [
+        -34.55622,
+        -58.70739
+      ],
+      "monthly": {
+        "Jan": 5.25,
+        "Feb": 4.96,
+        "Mar": 4.71,
+        "Apr": 4.08,
+        "May": 3.41,
+        "Jun": 3.13,
+        "Jul": 3.24,
+        "Aug": 3.84,
+        "Sep": 4.39,
+        "Oct": 4.77,
+        "Nov": 5.15,
+        "Dec": 5.3
+      },
+      "average": 4.35
+    },
+    {
+      "name": "Morón",
+      "admin1_code": "01",
+      "location": [
+        -34.65118,
+        -58.62205
+      ],
+      "monthly": {
+        "Jan": 5.26,
+        "Feb": 4.97,
+        "Mar": 4.71,
+        "Apr": 4.13,
+        "May": 3.45,
+        "Jun": 3.18,
+        "Jul": 3.26,
+        "Aug": 3.86,
+        "Sep": 4.39,
+        "Oct": 4.76,
+        "Nov": 5.16,
+        "Dec": 5.32
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Monte Caseros",
+      "admin1_code": "06",
+      "location": [
+        -30.2518,
+        -57.63537
+      ],
+      "monthly": {
+        "Jan": 5.09,
+        "Feb": 4.98,
+        "Mar": 4.78,
+        "Apr": 4.15,
+        "May": 3.48,
+        "Jun": 3.14,
+        "Jul": 3.48,
+        "Aug": 4.08,
+        "Sep": 4.29,
+        "Oct": 4.7,
+        "Nov": 5.08,
+        "Dec": 5.1
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Montecarlo",
+      "admin1_code": "14",
+      "location": [
+        -26.56849,
+        -54.7579
+      ],
+      "monthly": {
+        "Jan": 4.79,
+        "Feb": 4.73,
+        "Mar": 4.65,
+        "Apr": 4.2,
+        "May": 3.55,
+        "Jun": 3.17,
+        "Jul": 3.58,
+        "Aug": 4.06,
+        "Sep": 4.03,
+        "Oct": 4.32,
+        "Nov": 4.77,
+        "Dec": 4.73
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Merlo",
+      "admin1_code": "01",
+      "location": [
+        -34.66536,
+        -58.72744
+      ],
+      "monthly": {
+        "Jan": 5.25,
+        "Feb": 4.97,
+        "Mar": 4.7,
+        "Apr": 4.09,
+        "May": 3.41,
+        "Jun": 3.15,
+        "Jul": 3.24,
+        "Aug": 3.85,
+        "Sep": 4.38,
+        "Oct": 4.77,
+        "Nov": 5.16,
+        "Dec": 5.32
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Mercedes",
+      "admin1_code": "01",
+      "location": [
+        -34.65072,
+        -59.43143
+      ],
+      "monthly": {
+        "Jan": 5.23,
+        "Feb": 5.01,
+        "Mar": 4.74,
+        "Apr": 4.1,
+        "May": 3.49,
+        "Jun": 3.19,
+        "Jul": 3.32,
+        "Aug": 3.96,
+        "Sep": 4.46,
+        "Oct": 4.79,
+        "Nov": 5.13,
+        "Dec": 5.3
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Mercedes",
+      "admin1_code": "06",
+      "location": [
+        -29.18416,
+        -58.07519
+      ],
+      "monthly": {
+        "Jan": 5.04,
+        "Feb": 4.95,
+        "Mar": 4.73,
+        "Apr": 4.18,
+        "May": 3.56,
+        "Jun": 3.24,
+        "Jul": 3.63,
+        "Aug": 4.21,
+        "Sep": 4.41,
+        "Oct": 4.72,
+        "Nov": 5.04,
+        "Dec": 4.99
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Haedo",
+      "admin1_code": "01",
+      "location": [
+        -34.64239,
+        -58.59212
+      ],
+      "monthly": {
+        "Jan": 5.27,
+        "Feb": 4.98,
+        "Mar": 4.72,
+        "Apr": 4.14,
+        "May": 3.46,
+        "Jun": 3.19,
+        "Jul": 3.27,
+        "Aug": 3.86,
+        "Sep": 4.4,
+        "Oct": 4.78,
+        "Nov": 5.16,
+        "Dec": 5.32
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Mar del Plata",
+      "admin1_code": "01",
+      "location": [
+        -38.00042,
+        -57.5562
+      ],
+      "monthly": {
+        "Jan": 5.36,
+        "Feb": 5.01,
+        "Mar": 4.59,
+        "Apr": 3.89,
+        "May": 3.05,
+        "Jun": 2.76,
+        "Jul": 2.87,
+        "Aug": 3.41,
+        "Sep": 4.23,
+        "Oct": 4.8,
+        "Nov": 5.24,
+        "Dec": 5.43
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Mar de Ajó",
+      "admin1_code": "01",
+      "location": [
+        -36.72881,
+        -56.68265
+      ],
+      "monthly": {
+        "Jan": 5.41,
+        "Feb": 5.09,
+        "Mar": 4.64,
+        "Apr": 4.04,
+        "May": 3.21,
+        "Jun": 2.94,
+        "Jul": 3.05,
+        "Aug": 3.54,
+        "Sep": 4.3,
+        "Oct": 4.81,
+        "Nov": 5.27,
+        "Dec": 5.46
+      },
+      "average": 4.31
+    },
+    {
+      "name": "Luján",
+      "admin1_code": "01",
+      "location": [
+        -34.5664,
+        -59.11478
+      ],
+      "monthly": {
+        "Jan": 5.23,
+        "Feb": 4.99,
+        "Mar": 4.71,
+        "Apr": 4.08,
+        "May": 3.45,
+        "Jun": 3.16,
+        "Jul": 3.29,
+        "Aug": 3.92,
+        "Sep": 4.43,
+        "Oct": 4.79,
+        "Nov": 5.14,
+        "Dec": 5.3
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Los Polvorines",
+      "admin1_code": "01",
+      "location": [
+        -34.50316,
+        -58.70596
+      ],
+      "monthly": {
+        "Jan": 5.27,
+        "Feb": 4.98,
+        "Mar": 4.72,
+        "Apr": 4.1,
+        "May": 3.42,
+        "Jun": 3.14,
+        "Jul": 3.25,
+        "Aug": 3.85,
+        "Sep": 4.4,
+        "Oct": 4.78,
+        "Nov": 5.16,
+        "Dec": 5.31
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Lomas de Zamora",
+      "admin1_code": "01",
+      "location": [
+        -34.7574,
+        -58.40279
+      ],
+      "monthly": {
+        "Jan": 5.28,
+        "Feb": 4.99,
+        "Mar": 4.72,
+        "Apr": 4.13,
+        "May": 3.45,
+        "Jun": 3.19,
+        "Jul": 3.26,
+        "Aug": 3.84,
+        "Sep": 4.38,
+        "Oct": 4.78,
+        "Nov": 5.16,
+        "Dec": 5.32
+      },
+      "average": 4.38
+    },
+    {
+      "name": "La Plata",
+      "admin1_code": "01",
+      "location": [
+        -34.92126,
+        -57.95442
+      ],
+      "monthly": {
+        "Jan": 5.34,
+        "Feb": 5,
+        "Mar": 4.72,
+        "Apr": 4.12,
+        "May": 3.41,
+        "Jun": 3.18,
+        "Jul": 3.26,
+        "Aug": 3.82,
+        "Sep": 4.34,
+        "Oct": 4.79,
+        "Nov": 5.18,
+        "Dec": 5.33
+      },
+      "average": 4.37
+    },
+    {
+      "name": "La Paz",
+      "admin1_code": "08",
+      "location": [
+        -30.74179,
+        -59.64517
+      ],
+      "monthly": {
+        "Jan": 5.15,
+        "Feb": 4.98,
+        "Mar": 4.71,
+        "Apr": 4.13,
+        "May": 3.52,
+        "Jun": 3.24,
+        "Jul": 3.6,
+        "Aug": 4.22,
+        "Sep": 4.56,
+        "Oct": 4.83,
+        "Nov": 5.15,
+        "Dec": 5.11
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Jardín América",
+      "admin1_code": "14",
+      "location": [
+        -27.04346,
+        -55.22698
+      ],
+      "monthly": {
+        "Jan": 4.82,
+        "Feb": 4.77,
+        "Mar": 4.62,
+        "Apr": 4.18,
+        "May": 3.54,
+        "Jun": 3.16,
+        "Jul": 3.57,
+        "Aug": 4.05,
+        "Sep": 4.05,
+        "Oct": 4.34,
+        "Nov": 4.78,
+        "Dec": 4.78
+      },
+      "average": 4.22
+    },
+    {
+      "name": "Ituzaingó",
+      "admin1_code": "06",
+      "location": [
+        -27.58504,
+        -56.68707
+      ],
+      "monthly": {
+        "Jan": 5.02,
+        "Feb": 5,
+        "Mar": 4.77,
+        "Apr": 4.18,
+        "May": 3.55,
+        "Jun": 3.16,
+        "Jul": 3.62,
+        "Aug": 4.01,
+        "Sep": 4.17,
+        "Oct": 4.47,
+        "Nov": 4.9,
+        "Dec": 4.99
+      },
+      "average": 4.32
+    },
+    {
+      "name": "Hurlingham",
+      "admin1_code": "01",
+      "location": [
+        -34.5904,
+        -58.62904
+      ],
+      "monthly": {
+        "Jan": 5.27,
+        "Feb": 4.98,
+        "Mar": 4.72,
+        "Apr": 4.14,
+        "May": 3.45,
+        "Jun": 3.18,
+        "Jul": 3.27,
+        "Aug": 3.87,
+        "Sep": 4.4,
+        "Oct": 4.78,
+        "Nov": 5.16,
+        "Dec": 5.32
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Gualeguaychú",
+      "admin1_code": "08",
+      "location": [
+        -33.00777,
+        -58.51836
+      ],
+      "monthly": {
+        "Jan": 5.3,
+        "Feb": 4.95,
+        "Mar": 4.79,
+        "Apr": 4.11,
+        "May": 3.48,
+        "Jun": 3.2,
+        "Jul": 3.38,
+        "Aug": 3.99,
+        "Sep": 4.48,
+        "Oct": 4.78,
+        "Nov": 5.21,
+        "Dec": 5.19
+      },
+      "average": 4.4
+    },
+    {
+      "name": "Gualeguay",
+      "admin1_code": "08",
+      "location": [
+        -33.14091,
+        -59.31257
+      ],
+      "monthly": {
+        "Jan": 5.23,
+        "Feb": 4.93,
+        "Mar": 4.78,
+        "Apr": 4.11,
+        "May": 3.51,
+        "Jun": 3.22,
+        "Jul": 3.43,
+        "Aug": 4.04,
+        "Sep": 4.53,
+        "Oct": 4.78,
+        "Nov": 5.18,
+        "Dec": 5.16
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Goya",
+      "admin1_code": "06",
+      "location": [
+        -29.13995,
+        -59.26343
+      ],
+      "monthly": {
+        "Jan": 5.08,
+        "Feb": 4.99,
+        "Mar": 4.77,
+        "Apr": 4.13,
+        "May": 3.57,
+        "Jun": 3.23,
+        "Jul": 3.65,
+        "Aug": 4.26,
+        "Sep": 4.5,
+        "Oct": 4.76,
+        "Nov": 5.06,
+        "Dec": 5.04
+      },
+      "average": 4.42
+    },
+    {
+      "name": "Gobernador Virasora",
+      "admin1_code": "06",
+      "location": [
+        -28.05,
+        -56.03333
+      ],
+      "monthly": {
+        "Jan": 4.88,
+        "Feb": 4.87,
+        "Mar": 4.67,
+        "Apr": 4.15,
+        "May": 3.49,
+        "Jun": 3.17,
+        "Jul": 3.58,
+        "Aug": 4.01,
+        "Sep": 4.13,
+        "Oct": 4.41,
+        "Nov": 4.86,
+        "Dec": 4.88
+      },
+      "average": 4.26
+    },
+    {
+      "name": "General Pacheco",
+      "admin1_code": "01",
+      "location": [
+        -34.45256,
+        -58.64312
+      ],
+      "monthly": {
+        "Jan": 5.3,
+        "Feb": 5.01,
+        "Mar": 4.76,
+        "Apr": 4.11,
+        "May": 3.44,
+        "Jun": 3.16,
+        "Jul": 3.27,
+        "Aug": 3.87,
+        "Sep": 4.42,
+        "Oct": 4.8,
+        "Nov": 5.19,
+        "Dec": 5.32
+      },
+      "average": 4.39
+    },
+    {
+      "name": "General Juan Madariaga",
+      "admin1_code": "01",
+      "location": [
+        -37.00196,
+        -57.13584
+      ],
+      "monthly": {
+        "Jan": 5.27,
+        "Feb": 4.92,
+        "Mar": 4.54,
+        "Apr": 4.03,
+        "May": 3.24,
+        "Jun": 2.99,
+        "Jul": 3.1,
+        "Aug": 3.58,
+        "Sep": 4.29,
+        "Oct": 4.76,
+        "Nov": 5.18,
+        "Dec": 5.35
+      },
+      "average": 4.27
+    },
+    {
+      "name": "General José de San Martín",
+      "admin1_code": "03",
+      "location": [
+        -26.53643,
+        -59.34138
+      ],
+      "monthly": {
+        "Jan": 5,
+        "Feb": 4.9,
+        "Mar": 4.66,
+        "Apr": 4.03,
+        "May": 3.61,
+        "Jun": 3.18,
+        "Jul": 3.72,
+        "Aug": 4.24,
+        "Sep": 4.4,
+        "Oct": 4.62,
+        "Nov": 4.88,
+        "Dec": 4.86
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Garupá",
+      "admin1_code": "14",
+      "location": [
+        -27.48315,
+        -55.82924
+      ],
+      "monthly": {
+        "Jan": 4.91,
+        "Feb": 4.89,
+        "Mar": 4.69,
+        "Apr": 4.2,
+        "May": 3.51,
+        "Jun": 3.16,
+        "Jul": 3.57,
+        "Aug": 3.99,
+        "Sep": 4.09,
+        "Oct": 4.39,
+        "Nov": 4.84,
+        "Dec": 4.87
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Formosa",
+      "admin1_code": "09",
+      "location": [
+        -26.18489,
+        -58.17313
+      ],
+      "monthly": {
+        "Jan": 4.99,
+        "Feb": 4.91,
+        "Mar": 4.7,
+        "Apr": 4.13,
+        "May": 3.6,
+        "Jun": 3.17,
+        "Jul": 3.68,
+        "Aug": 4.13,
+        "Sep": 4.25,
+        "Oct": 4.54,
+        "Nov": 4.82,
+        "Dec": 4.89
+      },
+      "average": 4.32
+    },
+    {
+      "name": "Fontana",
+      "admin1_code": "03",
+      "location": [
+        -27.42039,
+        -59.03731
+      ],
+      "monthly": {
+        "Jan": 5.01,
+        "Feb": 4.95,
+        "Mar": 4.68,
+        "Apr": 4.1,
+        "May": 3.66,
+        "Jun": 3.23,
+        "Jul": 3.71,
+        "Aug": 4.24,
+        "Sep": 4.42,
+        "Oct": 4.63,
+        "Nov": 4.93,
+        "Dec": 4.91
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Federal",
+      "admin1_code": "08",
+      "location": [
+        -30.95619,
+        -58.7797
+      ],
+      "monthly": {
+        "Jan": 5.09,
+        "Feb": 4.95,
+        "Mar": 4.72,
+        "Apr": 4.14,
+        "May": 3.51,
+        "Jun": 3.21,
+        "Jul": 3.56,
+        "Aug": 4.14,
+        "Sep": 4.47,
+        "Oct": 4.79,
+        "Nov": 5.13,
+        "Dec": 5.07
+      },
+      "average": 4.4
+    },
+    {
+      "name": "Ezeiza",
+      "admin1_code": "01",
+      "location": [
+        -34.8544,
+        -58.52474
+      ],
+      "monthly": {
+        "Jan": 5.25,
+        "Feb": 4.96,
+        "Mar": 4.68,
+        "Apr": 4.08,
+        "May": 3.4,
+        "Jun": 3.12,
+        "Jul": 3.21,
+        "Aug": 3.81,
+        "Sep": 4.33,
+        "Oct": 4.74,
+        "Nov": 5.15,
+        "Dec": 5.3
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Esquina",
+      "admin1_code": "06",
+      "location": [
+        -30.01476,
+        -59.5289
+      ],
+      "monthly": {
+        "Jan": 5.12,
+        "Feb": 5.02,
+        "Mar": 4.76,
+        "Apr": 4.15,
+        "May": 3.52,
+        "Jun": 3.23,
+        "Jul": 3.6,
+        "Aug": 4.23,
+        "Sep": 4.54,
+        "Oct": 4.8,
+        "Nov": 5.13,
+        "Dec": 5.09
+      },
+      "average": 4.43
+    },
+    {
+      "name": "El Soberbio",
+      "admin1_code": "14",
+      "location": [
+        -27.29662,
+        -54.19811
+      ],
+      "monthly": {
+        "Jan": 4.75,
+        "Feb": 4.7,
+        "Mar": 4.56,
+        "Apr": 4.04,
+        "May": 3.37,
+        "Jun": 2.97,
+        "Jul": 3.38,
+        "Aug": 3.91,
+        "Sep": 3.92,
+        "Oct": 4.23,
+        "Nov": 4.77,
+        "Dec": 4.7
+      },
+      "average": 4.11
+    },
+    {
+      "name": "El Palomar",
+      "admin1_code": "01",
+      "location": [
+        -34.61771,
+        -58.60153
+      ],
+      "monthly": {
+        "Jan": 5.27,
+        "Feb": 4.97,
+        "Mar": 4.71,
+        "Apr": 4.13,
+        "May": 3.44,
+        "Jun": 3.18,
+        "Jul": 3.26,
+        "Aug": 3.85,
+        "Sep": 4.39,
+        "Oct": 4.76,
+        "Nov": 5.16,
+        "Dec": 5.31
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Don Torcuato",
+      "admin1_code": "01",
+      "location": [
+        -34.49459,
+        -58.62729
+      ],
+      "monthly": {
+        "Jan": 5.29,
+        "Feb": 5.01,
+        "Mar": 4.75,
+        "Apr": 4.13,
+        "May": 3.44,
+        "Jun": 3.17,
+        "Jul": 3.26,
+        "Aug": 3.86,
+        "Sep": 4.41,
+        "Oct": 4.79,
+        "Nov": 5.18,
+        "Dec": 5.32
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Dolores",
+      "admin1_code": "01",
+      "location": [
+        -36.31539,
+        -57.67546
+      ],
+      "monthly": {
+        "Jan": 5.25,
+        "Feb": 4.97,
+        "Mar": 4.66,
+        "Apr": 4.15,
+        "May": 3.37,
+        "Jun": 3.11,
+        "Jul": 3.22,
+        "Aug": 3.74,
+        "Sep": 4.35,
+        "Oct": 4.72,
+        "Nov": 5.17,
+        "Dec": 5.35
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Curuzú Cuatiá",
+      "admin1_code": "06",
+      "location": [
+        -29.79145,
+        -58.0499
+      ],
+      "monthly": {
+        "Jan": 5.02,
+        "Feb": 4.92,
+        "Mar": 4.75,
+        "Apr": 4.14,
+        "May": 3.51,
+        "Jun": 3.21,
+        "Jul": 3.56,
+        "Aug": 4.17,
+        "Sep": 4.36,
+        "Oct": 4.72,
+        "Nov": 5.05,
+        "Dec": 5.01
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Corrientes",
+      "admin1_code": "06",
+      "location": [
+        -27.46784,
+        -58.8344
+      ],
+      "monthly": {
+        "Jan": 5.06,
+        "Feb": 5.01,
+        "Mar": 4.7,
+        "Apr": 4.1,
+        "May": 3.64,
+        "Jun": 3.21,
+        "Jul": 3.69,
+        "Aug": 4.19,
+        "Sep": 4.4,
+        "Oct": 4.62,
+        "Nov": 4.95,
+        "Dec": 4.97
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Concordia",
+      "admin1_code": "08",
+      "location": [
+        -31.39195,
+        -58.01706
+      ],
+      "monthly": {
+        "Jan": 5.14,
+        "Feb": 4.97,
+        "Mar": 4.75,
+        "Apr": 4.13,
+        "May": 3.48,
+        "Jun": 3.12,
+        "Jul": 3.46,
+        "Aug": 4.02,
+        "Sep": 4.41,
+        "Oct": 4.77,
+        "Nov": 5.15,
+        "Dec": 5.1
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Concepción del Uruguay",
+      "admin1_code": "08",
+      "location": [
+        -32.48463,
+        -58.23217
+      ],
+      "monthly": {
+        "Jan": 5.26,
+        "Feb": 4.97,
+        "Mar": 4.76,
+        "Apr": 4.12,
+        "May": 3.45,
+        "Jun": 3.15,
+        "Jul": 3.39,
+        "Aug": 3.96,
+        "Sep": 4.44,
+        "Oct": 4.76,
+        "Nov": 5.2,
+        "Dec": 5.16
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Colón",
+      "admin1_code": "08",
+      "location": [
+        -32.22312,
+        -58.14426
+      ],
+      "monthly": {
+        "Jan": 5.24,
+        "Feb": 4.97,
+        "Mar": 4.76,
+        "Apr": 4.14,
+        "May": 3.46,
+        "Jun": 3.13,
+        "Jul": 3.41,
+        "Aug": 3.96,
+        "Sep": 4.44,
+        "Oct": 4.75,
+        "Nov": 5.21,
+        "Dec": 5.16
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Colegiales",
+      "admin1_code": "07",
+      "location": [
+        -34.57365,
+        -58.44924
+      ],
+      "monthly": {
+        "Jan": 5.33,
+        "Feb": 5.05,
+        "Mar": 4.79,
+        "Apr": 4.18,
+        "May": 3.51,
+        "Jun": 3.23,
+        "Jul": 3.29,
+        "Aug": 3.88,
+        "Sep": 4.41,
+        "Oct": 4.81,
+        "Nov": 5.22,
+        "Dec": 5.35
+      },
+      "average": 4.42
+    },
+    {
+      "name": "Chascomús",
+      "admin1_code": "01",
+      "location": [
+        -35.57681,
+        -58.01215
+      ],
+      "monthly": {
+        "Jan": 5.28,
+        "Feb": 4.97,
+        "Mar": 4.68,
+        "Apr": 4.13,
+        "May": 3.37,
+        "Jun": 3.12,
+        "Jul": 3.18,
+        "Aug": 3.75,
+        "Sep": 4.32,
+        "Oct": 4.73,
+        "Nov": 5.21,
+        "Dec": 5.36
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Chajarí",
+      "admin1_code": "08",
+      "location": [
+        -30.75482,
+        -57.98196
+      ],
+      "monthly": {
+        "Jan": 5.1,
+        "Feb": 4.98,
+        "Mar": 4.77,
+        "Apr": 4.17,
+        "May": 3.51,
+        "Jun": 3.14,
+        "Jul": 3.51,
+        "Aug": 4.09,
+        "Sep": 4.38,
+        "Oct": 4.74,
+        "Nov": 5.1,
+        "Dec": 5.06
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Castelar",
+      "admin1_code": "01",
+      "location": [
+        -34.65142,
+        -58.64074
+      ],
+      "monthly": {
+        "Jan": 5.26,
+        "Feb": 4.98,
+        "Mar": 4.72,
+        "Apr": 4.13,
+        "May": 3.45,
+        "Jun": 3.19,
+        "Jul": 3.26,
+        "Aug": 3.86,
+        "Sep": 4.4,
+        "Oct": 4.77,
+        "Nov": 5.16,
+        "Dec": 5.32
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Campana",
+      "admin1_code": "01",
+      "location": [
+        -34.16327,
+        -58.95919
+      ],
+      "monthly": {
+        "Jan": 5.28,
+        "Feb": 4.99,
+        "Mar": 4.74,
+        "Apr": 4.11,
+        "May": 3.47,
+        "Jun": 3.16,
+        "Jul": 3.32,
+        "Aug": 3.93,
+        "Sep": 4.45,
+        "Oct": 4.79,
+        "Nov": 5.16,
+        "Dec": 5.29
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Buenos Aires",
+      "admin1_code": "07",
+      "location": [
+        -34.61315,
+        -58.37723
+      ],
+      "monthly": {
+        "Jan": 5.33,
+        "Feb": 5.05,
+        "Mar": 4.78,
+        "Apr": 4.14,
+        "May": 3.47,
+        "Jun": 3.19,
+        "Jul": 3.25,
+        "Aug": 3.85,
+        "Sep": 4.39,
+        "Oct": 4.81,
+        "Nov": 5.21,
+        "Dec": 5.34
+      },
+      "average": 4.4
+    },
+    {
+      "name": "Boedo",
+      "admin1_code": "07",
+      "location": [
+        -34.63333,
+        -58.41667
+      ],
+      "monthly": {
+        "Jan": 5.32,
+        "Feb": 5.04,
+        "Mar": 4.78,
+        "Apr": 4.17,
+        "May": 3.49,
+        "Jun": 3.22,
+        "Jul": 3.29,
+        "Aug": 3.87,
+        "Sep": 4.42,
+        "Oct": 4.81,
+        "Nov": 5.21,
+        "Dec": 5.35
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Berazategui",
+      "admin1_code": "01",
+      "location": [
+        -34.76531,
+        -58.21278
+      ],
+      "monthly": {
+        "Jan": 5.35,
+        "Feb": 5.05,
+        "Mar": 4.77,
+        "Apr": 4.14,
+        "May": 3.42,
+        "Jun": 3.15,
+        "Jul": 3.24,
+        "Aug": 3.83,
+        "Sep": 4.38,
+        "Oct": 4.8,
+        "Nov": 5.2,
+        "Dec": 5.34
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Bella Vista",
+      "admin1_code": "01",
+      "location": [
+        -34.5651,
+        -58.69034
+      ],
+      "monthly": {
+        "Jan": 5.25,
+        "Feb": 4.96,
+        "Mar": 4.71,
+        "Apr": 4.09,
+        "May": 3.41,
+        "Jun": 3.14,
+        "Jul": 3.24,
+        "Aug": 3.84,
+        "Sep": 4.38,
+        "Oct": 4.77,
+        "Nov": 5.14,
+        "Dec": 5.29
+      },
+      "average": 4.35
+    },
+    {
+      "name": "Belgrano",
+      "admin1_code": "07",
+      "location": [
+        -34.5627,
+        -58.45829
+      ],
+      "monthly": {
+        "Jan": 5.33,
+        "Feb": 5.05,
+        "Mar": 4.79,
+        "Apr": 4.18,
+        "May": 3.51,
+        "Jun": 3.23,
+        "Jul": 3.28,
+        "Aug": 3.87,
+        "Sep": 4.41,
+        "Oct": 4.81,
+        "Nov": 5.22,
+        "Dec": 5.35
+      },
+      "average": 4.42
+    },
+    {
+      "name": "Barranqueras",
+      "admin1_code": "03",
+      "location": [
+        -27.48132,
+        -58.93925
+      ],
+      "monthly": {
+        "Jan": 5.04,
+        "Feb": 4.99,
+        "Mar": 4.71,
+        "Apr": 4.11,
+        "May": 3.65,
+        "Jun": 3.21,
+        "Jul": 3.69,
+        "Aug": 4.21,
+        "Sep": 4.39,
+        "Oct": 4.62,
+        "Nov": 4.94,
+        "Dec": 4.94
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Barracas",
+      "admin1_code": "07",
+      "location": [
+        -34.64966,
+        -58.38341
+      ],
+      "monthly": {
+        "Jan": 5.34,
+        "Feb": 5.06,
+        "Mar": 4.78,
+        "Apr": 4.15,
+        "May": 3.47,
+        "Jun": 3.2,
+        "Jul": 3.26,
+        "Aug": 3.86,
+        "Sep": 4.41,
+        "Oct": 4.81,
+        "Nov": 5.22,
+        "Dec": 5.34
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Balcarce",
+      "admin1_code": "01",
+      "location": [
+        -37.84638,
+        -58.25549
+      ],
+      "monthly": {
+        "Jan": 5.33,
+        "Feb": 5.02,
+        "Mar": 4.6,
+        "Apr": 4,
+        "May": 3.21,
+        "Jun": 2.95,
+        "Jul": 3.05,
+        "Aug": 3.58,
+        "Sep": 4.24,
+        "Oct": 4.72,
+        "Nov": 5.16,
+        "Dec": 5.37
+      },
+      "average": 4.27
+    },
+    {
+      "name": "Azul",
+      "admin1_code": "01",
+      "location": [
+        -36.77803,
+        -59.85848
+      ],
+      "monthly": {
+        "Jan": 5.37,
+        "Feb": 5.14,
+        "Mar": 4.75,
+        "Apr": 4.19,
+        "May": 3.4,
+        "Jun": 3.15,
+        "Jul": 3.23,
+        "Aug": 3.9,
+        "Sep": 4.4,
+        "Oct": 4.83,
+        "Nov": 5.26,
+        "Dec": 5.41
+      },
+      "average": 4.42
+    },
+    {
+      "name": "Ayacucho",
+      "admin1_code": "01",
+      "location": [
+        -37.15276,
+        -58.48838
+      ],
+      "monthly": {
+        "Jan": 5.32,
+        "Feb": 5.06,
+        "Mar": 4.66,
+        "Apr": 4.13,
+        "May": 3.34,
+        "Jun": 3.07,
+        "Jul": 3.15,
+        "Aug": 3.72,
+        "Sep": 4.31,
+        "Oct": 4.76,
+        "Nov": 5.22,
+        "Dec": 5.37
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Avellaneda",
+      "admin1_code": "01",
+      "location": [
+        -29.11761,
+        -59.65834
+      ],
+      "monthly": {
+        "Jan": 5.04,
+        "Feb": 4.94,
+        "Mar": 4.76,
+        "Apr": 4.09,
+        "May": 3.59,
+        "Jun": 3.23,
+        "Jul": 3.69,
+        "Aug": 4.32,
+        "Sep": 4.56,
+        "Oct": 4.76,
+        "Nov": 5.05,
+        "Dec": 5
+      },
+      "average": 4.42
+    },
+    {
+      "name": "Aristóbulo del Valle",
+      "admin1_code": "14",
+      "location": [
+        -27.09571,
+        -54.89344
+      ],
+      "monthly": {
+        "Jan": 4.76,
+        "Feb": 4.74,
+        "Mar": 4.63,
+        "Apr": 4.21,
+        "May": 3.56,
+        "Jun": 3.23,
+        "Jul": 3.63,
+        "Aug": 4.11,
+        "Sep": 4.06,
+        "Oct": 4.32,
+        "Nov": 4.75,
+        "Dec": 4.73
+      },
+      "average": 4.23
+    },
+    {
+      "name": "Apóstoles",
+      "admin1_code": "14",
+      "location": [
+        -27.91421,
+        -55.75355
+      ],
+      "monthly": {
+        "Jan": 4.86,
+        "Feb": 4.87,
+        "Mar": 4.68,
+        "Apr": 4.16,
+        "May": 3.47,
+        "Jun": 3.16,
+        "Jul": 3.58,
+        "Aug": 3.99,
+        "Sep": 4.11,
+        "Oct": 4.39,
+        "Nov": 4.84,
+        "Dec": 4.87
+      },
+      "average": 4.25
+    },
+    {
+      "name": "Zapala",
+      "admin1_code": "15",
+      "location": [
+        -38.90056,
+        -70.06674
+      ],
+      "monthly": {
+        "Jan": 6.07,
+        "Feb": 5.92,
+        "Mar": 5.52,
+        "Apr": 4.61,
+        "May": 3.59,
+        "Jun": 3.27,
+        "Jul": 3.57,
+        "Aug": 4.25,
+        "Sep": 5.07,
+        "Oct": 5.48,
+        "Nov": 5.85,
+        "Dec": 6.05
+      },
+      "average": 4.94
+    },
+    {
+      "name": "Yerba Buena",
+      "admin1_code": "24",
+      "location": [
+        -26.81298,
+        -65.29543
+      ],
+      "monthly": {
+        "Jan": 4.41,
+        "Feb": 4.18,
+        "Mar": 3.78,
+        "Apr": 3.49,
+        "May": 3.27,
+        "Jun": 3.42,
+        "Jul": 3.92,
+        "Aug": 4.55,
+        "Sep": 4.69,
+        "Oct": 4.47,
+        "Nov": 4.42,
+        "Dec": 4.28
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Villa Regina",
+      "admin1_code": "16",
+      "location": [
+        -39.09631,
+        -67.08374
+      ],
+      "monthly": {
+        "Jan": 5.88,
+        "Feb": 5.7,
+        "Mar": 5.25,
+        "Apr": 4.35,
+        "May": 3.3,
+        "Jun": 3,
+        "Jul": 3.31,
+        "Aug": 3.96,
+        "Sep": 4.68,
+        "Oct": 5.2,
+        "Nov": 5.66,
+        "Dec": 5.86
+      },
+      "average": 4.68
+    },
+    {
+      "name": "Villa Paula de Sarmiento",
+      "admin1_code": "18",
+      "location": [
+        -31.4933,
+        -68.53838
+      ],
+      "monthly": {
+        "Jan": 5.71,
+        "Feb": 5.65,
+        "Mar": 5.4,
+        "Apr": 4.93,
+        "May": 4.27,
+        "Jun": 4.3,
+        "Jul": 4.58,
+        "Aug": 5.11,
+        "Sep": 5.58,
+        "Oct": 5.79,
+        "Nov": 5.91,
+        "Dec": 5.82
+      },
+      "average": 5.25
+    },
+    {
+      "name": "Villa Nueva",
+      "admin1_code": "05",
+      "location": [
+        -32.43289,
+        -63.24811
+      ],
+      "monthly": {
+        "Jan": 5.2,
+        "Feb": 4.93,
+        "Mar": 4.7,
+        "Apr": 4.07,
+        "May": 3.51,
+        "Jun": 3.48,
+        "Jul": 3.7,
+        "Aug": 4.44,
+        "Sep": 4.85,
+        "Oct": 4.91,
+        "Nov": 5.15,
+        "Dec": 5.17
+      },
+      "average": 4.51
+    },
+    {
+      "name": "Villa María",
+      "admin1_code": "05",
+      "location": [
+        -32.40751,
+        -63.24016
+      ],
+      "monthly": {
+        "Jan": 5.21,
+        "Feb": 4.94,
+        "Mar": 4.7,
+        "Apr": 4.07,
+        "May": 3.52,
+        "Jun": 3.49,
+        "Jul": 3.7,
+        "Aug": 4.45,
+        "Sep": 4.86,
+        "Oct": 4.91,
+        "Nov": 5.15,
+        "Dec": 5.17
+      },
+      "average": 4.51
+    },
+    {
+      "name": "Villa Dolores",
+      "admin1_code": "05",
+      "location": [
+        -31.94504,
+        -65.19025
+      ],
+      "monthly": {
+        "Jan": 5.34,
+        "Feb": 5.22,
+        "Mar": 4.88,
+        "Apr": 4.35,
+        "May": 3.89,
+        "Jun": 3.97,
+        "Jul": 4.25,
+        "Aug": 4.84,
+        "Sep": 5.22,
+        "Oct": 5.34,
+        "Nov": 5.41,
+        "Dec": 5.33
+      },
+      "average": 4.84
+    },
+    {
+      "name": "Villa Constitución",
+      "admin1_code": "21",
+      "location": [
+        -33.22795,
+        -60.32994
+      ],
+      "monthly": {
+        "Jan": 5.3,
+        "Feb": 5.06,
+        "Mar": 4.8,
+        "Apr": 4.12,
+        "May": 3.57,
+        "Jun": 3.23,
+        "Jul": 3.45,
+        "Aug": 4.12,
+        "Sep": 4.61,
+        "Oct": 4.87,
+        "Nov": 5.18,
+        "Dec": 5.25
+      },
+      "average": 4.46
+    },
+    {
+      "name": "Villa Carlos Paz",
+      "admin1_code": "05",
+      "location": [
+        -31.4183,
+        -64.49008
+      ],
+      "monthly": {
+        "Jan": 5.05,
+        "Feb": 4.75,
+        "Mar": 4.58,
+        "Apr": 4.13,
+        "May": 3.8,
+        "Jun": 3.96,
+        "Jul": 4.15,
+        "Aug": 4.78,
+        "Sep": 5.07,
+        "Oct": 5.02,
+        "Nov": 5.11,
+        "Dec": 5.03
+      },
+      "average": 4.62
+    },
+    {
+      "name": "Villa Ángela",
+      "admin1_code": "03",
+      "location": [
+        -27.57679,
+        -60.71114
+      ],
+      "monthly": {
+        "Jan": 5.04,
+        "Feb": 4.96,
+        "Mar": 4.67,
+        "Apr": 3.97,
+        "May": 3.59,
+        "Jun": 3.21,
+        "Jul": 3.77,
+        "Aug": 4.39,
+        "Sep": 4.61,
+        "Oct": 4.74,
+        "Nov": 4.98,
+        "Dec": 4.95
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Villa Allende",
+      "admin1_code": "05",
+      "location": [
+        -31.29368,
+        -64.2977
+      ],
+      "monthly": {
+        "Jan": 5.05,
+        "Feb": 4.73,
+        "Mar": 4.56,
+        "Apr": 4.09,
+        "May": 3.75,
+        "Jun": 3.9,
+        "Jul": 4.09,
+        "Aug": 4.77,
+        "Sep": 5.05,
+        "Oct": 5.01,
+        "Nov": 5.13,
+        "Dec": 5.03
+      },
+      "average": 4.6
+    },
+    {
+      "name": "Viedma",
+      "admin1_code": "16",
+      "location": [
+        -40.81519,
+        -63.0004
+      ],
+      "monthly": {
+        "Jan": 5.77,
+        "Feb": 5.54,
+        "Mar": 5.12,
+        "Apr": 4.32,
+        "May": 3.33,
+        "Jun": 3,
+        "Jul": 3.17,
+        "Aug": 3.85,
+        "Sep": 4.55,
+        "Oct": 5.21,
+        "Nov": 5.51,
+        "Dec": 5.68
+      },
+      "average": 4.59
+    },
+    {
+      "name": "Victoria",
+      "admin1_code": "08",
+      "location": [
+        -32.61841,
+        -60.15478
+      ],
+      "monthly": {
+        "Jan": 5.3,
+        "Feb": 5.01,
+        "Mar": 4.79,
+        "Apr": 4.14,
+        "May": 3.55,
+        "Jun": 3.24,
+        "Jul": 3.48,
+        "Aug": 4.17,
+        "Sep": 4.64,
+        "Oct": 4.85,
+        "Nov": 5.21,
+        "Dec": 5.2
+      },
+      "average": 4.47
+    },
+    {
+      "name": "Vera",
+      "admin1_code": "21",
+      "location": [
+        -29.45986,
+        -60.21315
+      ],
+      "monthly": {
+        "Jan": 5,
+        "Feb": 4.89,
+        "Mar": 4.67,
+        "Apr": 4.04,
+        "May": 3.55,
+        "Jun": 3.22,
+        "Jul": 3.66,
+        "Aug": 4.34,
+        "Sep": 4.61,
+        "Oct": 4.77,
+        "Nov": 5.04,
+        "Dec": 5
+      },
+      "average": 4.4
+    },
+    {
+      "name": "Venado Tuerto",
+      "admin1_code": "21",
+      "location": [
+        -33.74585,
+        -61.96711
+      ],
+      "monthly": {
+        "Jan": 5.28,
+        "Feb": 5.1,
+        "Mar": 4.79,
+        "Apr": 4.13,
+        "May": 3.55,
+        "Jun": 3.36,
+        "Jul": 3.54,
+        "Aug": 4.21,
+        "Sep": 4.7,
+        "Oct": 4.89,
+        "Nov": 5.18,
+        "Dec": 5.25
+      },
+      "average": 4.5
+    },
+    {
+      "name": "Veinticinco de Mayo",
+      "admin1_code": "01",
+      "location": [
+        -35.43247,
+        -60.17156
+      ],
+      "monthly": {
+        "Jan": 5.29,
+        "Feb": 5.09,
+        "Mar": 4.72,
+        "Apr": 4.13,
+        "May": 3.46,
+        "Jun": 3.2,
+        "Jul": 3.27,
+        "Aug": 4,
+        "Sep": 4.49,
+        "Oct": 4.79,
+        "Nov": 5.18,
+        "Dec": 5.35
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Ushuaia",
+      "admin1_code": "23",
+      "location": [
+        -54.81084,
+        -68.31591
+      ],
+      "monthly": {
+        "Jan": 4.1,
+        "Feb": 3.65,
+        "Mar": 3.16,
+        "Apr": 2.47,
+        "May": 1.72,
+        "Jun": 1.25,
+        "Jul": 1.62,
+        "Aug": 2.24,
+        "Sep": 2.97,
+        "Oct": 3.88,
+        "Nov": 4.26,
+        "Dec": 4.29
+      },
+      "average": 2.97
+    },
+    {
+      "name": "Unquillo",
+      "admin1_code": "05",
+      "location": [
+        -31.23717,
+        -64.31176
+      ],
+      "monthly": {
+        "Jan": 5.03,
+        "Feb": 4.68,
+        "Mar": 4.49,
+        "Apr": 4.04,
+        "May": 3.7,
+        "Jun": 3.86,
+        "Jul": 4.05,
+        "Aug": 4.74,
+        "Sep": 5.03,
+        "Oct": 4.98,
+        "Nov": 5.1,
+        "Dec": 4.99
+      },
+      "average": 4.56
+    },
+    {
+      "name": "Tres Isletas",
+      "admin1_code": "03",
+      "location": [
+        -26.34067,
+        -60.43207
+      ],
+      "monthly": {
+        "Jan": 4.99,
+        "Feb": 4.88,
+        "Mar": 4.6,
+        "Apr": 3.94,
+        "May": 3.57,
+        "Jun": 3.16,
+        "Jul": 3.73,
+        "Aug": 4.35,
+        "Sep": 4.49,
+        "Oct": 4.66,
+        "Nov": 4.86,
+        "Dec": 4.83
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Tres Arroyos",
+      "admin1_code": "01",
+      "location": [
+        -38.37694,
+        -60.27563
+      ],
+      "monthly": {
+        "Jan": 5.48,
+        "Feb": 5.14,
+        "Mar": 4.73,
+        "Apr": 4.16,
+        "May": 3.29,
+        "Jun": 3.05,
+        "Jul": 3.14,
+        "Aug": 3.75,
+        "Sep": 4.36,
+        "Oct": 4.79,
+        "Nov": 5.27,
+        "Dec": 5.38
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Trenque Lauquen",
+      "admin1_code": "01",
+      "location": [
+        -35.97334,
+        -62.73275
+      ],
+      "monthly": {
+        "Jan": 5.46,
+        "Feb": 5.27,
+        "Mar": 4.81,
+        "Apr": 4.2,
+        "May": 3.43,
+        "Jun": 3.25,
+        "Jul": 3.38,
+        "Aug": 4.06,
+        "Sep": 4.55,
+        "Oct": 4.9,
+        "Nov": 5.34,
+        "Dec": 5.47
+      },
+      "average": 4.51
+    },
+    {
+      "name": "Trelew",
+      "admin1_code": "04",
+      "location": [
+        -43.24895,
+        -65.30505
+      ],
+      "monthly": {
+        "Jan": 5.68,
+        "Feb": 5.45,
+        "Mar": 5.12,
+        "Apr": 4.39,
+        "May": 3.37,
+        "Jun": 3.09,
+        "Jul": 3.3,
+        "Aug": 3.92,
+        "Sep": 4.52,
+        "Oct": 5.16,
+        "Nov": 5.41,
+        "Dec": 5.58
+      },
+      "average": 4.58
+    },
+    {
+      "name": "Termas de Río Hondo",
+      "admin1_code": "22",
+      "location": [
+        -27.49362,
+        -64.85972
+      ],
+      "monthly": {
+        "Jan": 4.73,
+        "Feb": 4.61,
+        "Mar": 4.08,
+        "Apr": 3.54,
+        "May": 3.32,
+        "Jun": 3.29,
+        "Jul": 3.89,
+        "Aug": 4.59,
+        "Sep": 4.76,
+        "Oct": 4.66,
+        "Nov": 4.66,
+        "Dec": 4.6
+      },
+      "average": 4.23
+    },
+    {
+      "name": "Tartagal",
+      "admin1_code": "17",
+      "location": [
+        -22.51682,
+        -63.8056
+      ],
+      "monthly": {
+        "Jan": 4.61,
+        "Feb": 4.51,
+        "Mar": 3.97,
+        "Apr": 3.31,
+        "May": 2.96,
+        "Jun": 3.05,
+        "Jul": 3.69,
+        "Aug": 4.44,
+        "Sep": 4.47,
+        "Oct": 4.3,
+        "Nov": 4.38,
+        "Dec": 4.36
+      },
+      "average": 4
+    },
+    {
+      "name": "Tafí Viejo",
+      "admin1_code": "24",
+      "location": [
+        -26.7333,
+        -65.26146
+      ],
+      "monthly": {
+        "Jan": 4.4,
+        "Feb": 4.2,
+        "Mar": 3.79,
+        "Apr": 3.47,
+        "May": 3.29,
+        "Jun": 3.44,
+        "Jul": 3.96,
+        "Aug": 4.61,
+        "Sep": 4.73,
+        "Oct": 4.5,
+        "Nov": 4.4,
+        "Dec": 4.28
+      },
+      "average": 4.09
+    },
+    {
+      "name": "Sunchales",
+      "admin1_code": "21",
+      "location": [
+        -30.94478,
+        -61.5597
+      ],
+      "monthly": {
+        "Jan": 5.17,
+        "Feb": 4.99,
+        "Mar": 4.7,
+        "Apr": 4.09,
+        "May": 3.57,
+        "Jun": 3.37,
+        "Jul": 3.71,
+        "Aug": 4.47,
+        "Sep": 4.85,
+        "Oct": 4.89,
+        "Nov": 5.15,
+        "Dec": 5.14
+      },
+      "average": 4.51
+    },
+    {
+      "name": "Santo Tomé",
+      "admin1_code": "21",
+      "location": [
+        -31.66274,
+        -60.7653
+      ],
+      "monthly": {
+        "Jan": 5.26,
+        "Feb": 4.99,
+        "Mar": 4.77,
+        "Apr": 4.1,
+        "May": 3.56,
+        "Jun": 3.24,
+        "Jul": 3.55,
+        "Aug": 4.28,
+        "Sep": 4.71,
+        "Oct": 4.87,
+        "Nov": 5.18,
+        "Dec": 5.16
+      },
+      "average": 4.47
+    },
+    {
+      "name": "Santiago del Estero",
+      "admin1_code": "22",
+      "location": [
+        -27.80047,
+        -64.26285
+      ],
+      "monthly": {
+        "Jan": 4.95,
+        "Feb": 4.82,
+        "Mar": 4.31,
+        "Apr": 3.74,
+        "May": 3.46,
+        "Jun": 3.34,
+        "Jul": 3.94,
+        "Aug": 4.67,
+        "Sep": 4.86,
+        "Oct": 4.86,
+        "Nov": 4.93,
+        "Dec": 4.83
+      },
+      "average": 4.39
+    },
+    {
+      "name": "Santa Rosa",
+      "admin1_code": "11",
+      "location": [
+        -36.61617,
+        -64.28991
+      ],
+      "monthly": {
+        "Jan": 5.6,
+        "Feb": 5.44,
+        "Mar": 4.96,
+        "Apr": 4.27,
+        "May": 3.41,
+        "Jun": 3.23,
+        "Jul": 3.42,
+        "Aug": 4.07,
+        "Sep": 4.57,
+        "Oct": 4.97,
+        "Nov": 5.5,
+        "Dec": 5.58
+      },
+      "average": 4.58
+    },
+    {
+      "name": "Santa Lucía",
+      "admin1_code": "18",
+      "location": [
+        -31.54055,
+        -68.49794
+      ],
+      "monthly": {
+        "Jan": 5.71,
+        "Feb": 5.63,
+        "Mar": 5.35,
+        "Apr": 4.87,
+        "May": 4.18,
+        "Jun": 4.2,
+        "Jul": 4.5,
+        "Aug": 5.03,
+        "Sep": 5.53,
+        "Oct": 5.76,
+        "Nov": 5.92,
+        "Dec": 5.82
+      },
+      "average": 5.21
+    },
+    {
+      "name": "Santa Fe",
+      "admin1_code": "21",
+      "location": [
+        -31.64881,
+        -60.70868
+      ],
+      "monthly": {
+        "Jan": 5.28,
+        "Feb": 5,
+        "Mar": 4.78,
+        "Apr": 4.11,
+        "May": 3.57,
+        "Jun": 3.25,
+        "Jul": 3.55,
+        "Aug": 4.27,
+        "Sep": 4.72,
+        "Oct": 4.89,
+        "Nov": 5.2,
+        "Dec": 5.19
+      },
+      "average": 4.48
+    },
+    {
+      "name": "San Salvador de Jujuy",
+      "admin1_code": "10",
+      "location": [
+        -24.1928,
+        -65.29342
+      ],
+      "monthly": {
+        "Jan": 4.39,
+        "Feb": 4.35,
+        "Mar": 3.96,
+        "Apr": 3.78,
+        "May": 3.7,
+        "Jun": 3.92,
+        "Jul": 4.28,
+        "Aug": 4.9,
+        "Sep": 5.01,
+        "Oct": 4.62,
+        "Nov": 4.56,
+        "Dec": 4.3
+      },
+      "average": 4.31
+    },
+    {
+      "name": "San Ramón de la Nueva Orán",
+      "admin1_code": "17",
+      "location": [
+        -23.13705,
+        -64.32426
+      ],
+      "monthly": {
+        "Jan": 4.6,
+        "Feb": 4.5,
+        "Mar": 3.91,
+        "Apr": 3.3,
+        "May": 3.05,
+        "Jun": 3.16,
+        "Jul": 3.66,
+        "Aug": 4.36,
+        "Sep": 4.46,
+        "Oct": 4.26,
+        "Nov": 4.34,
+        "Dec": 4.37
+      },
+      "average": 4
+    },
+    {
+      "name": "San Rafael",
+      "admin1_code": "13",
+      "location": [
+        -34.61531,
+        -68.33238
+      ],
+      "monthly": {
+        "Jan": 5.74,
+        "Feb": 5.57,
+        "Mar": 5.2,
+        "Apr": 4.61,
+        "May": 3.87,
+        "Jun": 3.77,
+        "Jul": 4.09,
+        "Aug": 4.6,
+        "Sep": 5.21,
+        "Oct": 5.47,
+        "Nov": 5.8,
+        "Dec": 5.76
+      },
+      "average": 4.97
+    },
+    {
+      "name": "San Pedro de Jujuy",
+      "admin1_code": "10",
+      "location": [
+        -24.23127,
+        -64.86614
+      ],
+      "monthly": {
+        "Jan": 4.81,
+        "Feb": 4.72,
+        "Mar": 4.21,
+        "Apr": 3.69,
+        "May": 3.43,
+        "Jun": 3.52,
+        "Jul": 3.93,
+        "Aug": 4.57,
+        "Sep": 4.67,
+        "Oct": 4.6,
+        "Nov": 4.7,
+        "Dec": 4.64
+      },
+      "average": 4.29
+    },
+    {
+      "name": "San Nicolás de los Arroyos",
+      "admin1_code": "01",
+      "location": [
+        -33.33425,
+        -60.2108
+      ],
+      "monthly": {
+        "Jan": 5.3,
+        "Feb": 5.07,
+        "Mar": 4.81,
+        "Apr": 4.11,
+        "May": 3.55,
+        "Jun": 3.22,
+        "Jul": 3.45,
+        "Aug": 4.1,
+        "Sep": 4.59,
+        "Oct": 4.86,
+        "Nov": 5.18,
+        "Dec": 5.25
+      },
+      "average": 4.46
+    },
+    {
+      "name": "San Miguel de Tucumán",
+      "admin1_code": "24",
+      "location": [
+        -26.81601,
+        -65.21051
+      ],
+      "monthly": {
+        "Jan": 4.5,
+        "Feb": 4.29,
+        "Mar": 3.87,
+        "Apr": 3.57,
+        "May": 3.36,
+        "Jun": 3.49,
+        "Jul": 3.97,
+        "Aug": 4.6,
+        "Sep": 4.73,
+        "Oct": 4.53,
+        "Nov": 4.48,
+        "Dec": 4.37
+      },
+      "average": 4.15
+    },
+    {
+      "name": "San Martín de los Andes",
+      "admin1_code": "15",
+      "location": [
+        -40.15789,
+        -71.35337
+      ],
+      "monthly": {
+        "Jan": 5.89,
+        "Feb": 5.54,
+        "Mar": 4.71,
+        "Apr": 3.47,
+        "May": 2.39,
+        "Jun": 1.69,
+        "Jul": 2.13,
+        "Aug": 2.73,
+        "Sep": 3.86,
+        "Oct": 4.77,
+        "Nov": 5.3,
+        "Dec": 5.7
+      },
+      "average": 4.02
+    },
+    {
+      "name": "San Martín",
+      "admin1_code": "13",
+      "location": [
+        -33.08338,
+        -68.47312
+      ],
+      "monthly": {
+        "Jan": 5.68,
+        "Feb": 5.45,
+        "Mar": 5.05,
+        "Apr": 4.55,
+        "May": 3.85,
+        "Jun": 3.92,
+        "Jul": 4.32,
+        "Aug": 4.81,
+        "Sep": 5.3,
+        "Oct": 5.62,
+        "Nov": 5.79,
+        "Dec": 5.77
+      },
+      "average": 5.01
+    },
+    {
+      "name": "San Luis",
+      "admin1_code": "19",
+      "location": [
+        -33.2914,
+        -66.32467
+      ],
+      "monthly": {
+        "Jan": 5.41,
+        "Feb": 5.26,
+        "Mar": 4.9,
+        "Apr": 4.39,
+        "May": 3.84,
+        "Jun": 3.94,
+        "Jul": 4.17,
+        "Aug": 4.73,
+        "Sep": 5.13,
+        "Oct": 5.32,
+        "Nov": 5.48,
+        "Dec": 5.45
+      },
+      "average": 4.84
+    },
+    {
+      "name": "San Justo",
+      "admin1_code": "21",
+      "location": [
+        -30.78991,
+        -60.59276
+      ],
+      "monthly": {
+        "Jan": 5.14,
+        "Feb": 4.95,
+        "Mar": 4.68,
+        "Apr": 4.1,
+        "May": 3.58,
+        "Jun": 3.3,
+        "Jul": 3.66,
+        "Aug": 4.38,
+        "Sep": 4.7,
+        "Oct": 4.87,
+        "Nov": 5.14,
+        "Dec": 5.14
+      },
+      "average": 4.47
+    },
+    {
+      "name": "San Juan",
+      "admin1_code": "18",
+      "location": [
+        -31.53726,
+        -68.52568
+      ],
+      "monthly": {
+        "Jan": 5.69,
+        "Feb": 5.62,
+        "Mar": 5.37,
+        "Apr": 4.9,
+        "May": 4.23,
+        "Jun": 4.25,
+        "Jul": 4.54,
+        "Aug": 5.07,
+        "Sep": 5.55,
+        "Oct": 5.77,
+        "Nov": 5.9,
+        "Dec": 5.8
+      },
+      "average": 5.22
+    },
+    {
+      "name": "San José de Jáchal",
+      "admin1_code": "18",
+      "location": [
+        -30.24162,
+        -68.74662
+      ],
+      "monthly": {
+        "Jan": 5.48,
+        "Feb": 5.39,
+        "Mar": 5.15,
+        "Apr": 4.93,
+        "May": 4.37,
+        "Jun": 4.48,
+        "Jul": 4.73,
+        "Aug": 5.22,
+        "Sep": 5.59,
+        "Oct": 5.74,
+        "Nov": 5.81,
+        "Dec": 5.64
+      },
+      "average": 5.21
+    },
+    {
+      "name": "San Jorge",
+      "admin1_code": "21",
+      "location": [
+        -31.89706,
+        -61.85993
+      ],
+      "monthly": {
+        "Jan": 5.23,
+        "Feb": 4.98,
+        "Mar": 4.68,
+        "Apr": 4.08,
+        "May": 3.57,
+        "Jun": 3.38,
+        "Jul": 3.62,
+        "Aug": 4.38,
+        "Sep": 4.8,
+        "Oct": 4.88,
+        "Nov": 5.17,
+        "Dec": 5.14
+      },
+      "average": 4.49
+    },
+    {
+      "name": "San Francisco",
+      "admin1_code": "05",
+      "location": [
+        -31.42497,
+        -62.08404
+      ],
+      "monthly": {
+        "Jan": 5.22,
+        "Feb": 5.01,
+        "Mar": 4.71,
+        "Apr": 4.07,
+        "May": 3.57,
+        "Jun": 3.44,
+        "Jul": 3.7,
+        "Aug": 4.44,
+        "Sep": 4.87,
+        "Oct": 4.93,
+        "Nov": 5.15,
+        "Dec": 5.13
+      },
+      "average": 4.52
+    },
+    {
+      "name": "Catamarca",
+      "admin1_code": "02",
+      "location": [
+        -28.46957,
+        -65.78524
+      ],
+      "monthly": {
+        "Jan": 5.01,
+        "Feb": 4.95,
+        "Mar": 4.82,
+        "Apr": 4.46,
+        "May": 4.06,
+        "Jun": 4.06,
+        "Jul": 4.39,
+        "Aug": 4.88,
+        "Sep": 5.21,
+        "Oct": 5.23,
+        "Nov": 5.19,
+        "Dec": 5.01
+      },
+      "average": 4.77
+    },
+    {
+      "name": "San Carlos de Bolívar",
+      "admin1_code": "01",
+      "location": [
+        -36.23071,
+        -61.1157
+      ],
+      "monthly": {
+        "Jan": 5.41,
+        "Feb": 5.24,
+        "Mar": 4.79,
+        "Apr": 4.16,
+        "May": 3.41,
+        "Jun": 3.16,
+        "Jul": 3.31,
+        "Aug": 3.98,
+        "Sep": 4.49,
+        "Oct": 4.87,
+        "Nov": 5.3,
+        "Dec": 5.44
+      },
+      "average": 4.46
+    },
+    {
+      "name": "San Antonio Oeste",
+      "admin1_code": "16",
+      "location": [
+        -40.73193,
+        -64.94769
+      ],
+      "monthly": {
+        "Jan": 5.81,
+        "Feb": 5.62,
+        "Mar": 5.16,
+        "Apr": 4.31,
+        "May": 3.23,
+        "Jun": 2.89,
+        "Jul": 3.19,
+        "Aug": 3.79,
+        "Sep": 4.53,
+        "Oct": 5.17,
+        "Nov": 5.57,
+        "Dec": 5.76
+      },
+      "average": 4.59
+    },
+    {
+      "name": "Salto",
+      "admin1_code": "01",
+      "location": [
+        -34.29175,
+        -60.2545
+      ],
+      "monthly": {
+        "Jan": 5.24,
+        "Feb": 5.06,
+        "Mar": 4.72,
+        "Apr": 4.09,
+        "May": 3.54,
+        "Jun": 3.24,
+        "Jul": 3.4,
+        "Aug": 4.07,
+        "Sep": 4.57,
+        "Oct": 4.84,
+        "Nov": 5.15,
+        "Dec": 5.27
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Salta",
+      "admin1_code": "17",
+      "location": [
+        -24.80645,
+        -65.41999
+      ],
+      "monthly": {
+        "Jan": 4.51,
+        "Feb": 4.52,
+        "Mar": 4.21,
+        "Apr": 4.06,
+        "May": 3.8,
+        "Jun": 4.03,
+        "Jul": 4.37,
+        "Aug": 4.95,
+        "Sep": 5.09,
+        "Oct": 4.81,
+        "Nov": 4.71,
+        "Dec": 4.46
+      },
+      "average": 4.46
+    },
+    {
+      "name": "Rufino",
+      "admin1_code": "21",
+      "location": [
+        -34.26237,
+        -62.71128
+      ],
+      "monthly": {
+        "Jan": 5.34,
+        "Feb": 5.1,
+        "Mar": 4.77,
+        "Apr": 4.15,
+        "May": 3.51,
+        "Jun": 3.4,
+        "Jul": 3.51,
+        "Aug": 4.21,
+        "Sep": 4.68,
+        "Oct": 4.89,
+        "Nov": 5.23,
+        "Dec": 5.31
+      },
+      "average": 4.51
+    },
+    {
+      "name": "Rosario",
+      "admin1_code": "21",
+      "location": [
+        -32.94682,
+        -60.63932
+      ],
+      "monthly": {
+        "Jan": 5.32,
+        "Feb": 5.06,
+        "Mar": 4.82,
+        "Apr": 4.12,
+        "May": 3.57,
+        "Jun": 3.23,
+        "Jul": 3.47,
+        "Aug": 4.13,
+        "Sep": 4.62,
+        "Oct": 4.85,
+        "Nov": 5.2,
+        "Dec": 5.22
+      },
+      "average": 4.47
+    },
+    {
+      "name": "Río Tercero",
+      "admin1_code": "05",
+      "location": [
+        -32.17675,
+        -64.11295
+      ],
+      "monthly": {
+        "Jan": 5.2,
+        "Feb": 4.93,
+        "Mar": 4.76,
+        "Apr": 4.18,
+        "May": 3.76,
+        "Jun": 3.83,
+        "Jul": 4.02,
+        "Aug": 4.71,
+        "Sep": 5.04,
+        "Oct": 5.04,
+        "Nov": 5.16,
+        "Dec": 5.14
+      },
+      "average": 4.65
+    },
+    {
+      "name": "Río Segundo",
+      "admin1_code": "05",
+      "location": [
+        -31.6501,
+        -63.91165
+      ],
+      "monthly": {
+        "Jan": 5.19,
+        "Feb": 4.89,
+        "Mar": 4.69,
+        "Apr": 4.14,
+        "May": 3.7,
+        "Jun": 3.79,
+        "Jul": 3.97,
+        "Aug": 4.7,
+        "Sep": 5.03,
+        "Oct": 5.02,
+        "Nov": 5.16,
+        "Dec": 5.11
+      },
+      "average": 4.62
+    },
+    {
+      "name": "Río Grande",
+      "admin1_code": "23",
+      "location": [
+        -53.78773,
+        -67.70975
+      ],
+      "monthly": {
+        "Jan": 4.82,
+        "Feb": 4.39,
+        "Mar": 3.76,
+        "Apr": 3.07,
+        "May": 2.29,
+        "Jun": 1.79,
+        "Jul": 2.12,
+        "Aug": 3,
+        "Sep": 3.98,
+        "Oct": 4.73,
+        "Nov": 5,
+        "Dec": 4.93
+      },
+      "average": 3.66
+    },
+    {
+      "name": "Río Gallegos",
+      "admin1_code": "20",
+      "location": [
+        -51.6253,
+        -69.25229
+      ],
+      "monthly": {
+        "Jan": 4.51,
+        "Feb": 4.46,
+        "Mar": 3.87,
+        "Apr": 3.41,
+        "May": 2.57,
+        "Jun": 2.13,
+        "Jul": 2.37,
+        "Aug": 3.33,
+        "Sep": 4.09,
+        "Oct": 4.53,
+        "Nov": 4.97,
+        "Dec": 4.66
+      },
+      "average": 3.74
+    },
+    {
+      "name": "Río Cuarto",
+      "admin1_code": "05",
+      "location": [
+        -33.13044,
+        -64.35272
+      ],
+      "monthly": {
+        "Jan": 5.3,
+        "Feb": 5.09,
+        "Mar": 4.81,
+        "Apr": 4.22,
+        "May": 3.77,
+        "Jun": 3.8,
+        "Jul": 3.97,
+        "Aug": 4.58,
+        "Sep": 4.95,
+        "Oct": 5.01,
+        "Nov": 5.23,
+        "Dec": 5.26
+      },
+      "average": 4.67
+    },
+    {
+      "name": "Río Colorado",
+      "admin1_code": "16",
+      "location": [
+        -38.99081,
+        -64.09574
+      ],
+      "monthly": {
+        "Jan": 5.71,
+        "Feb": 5.54,
+        "Mar": 5.09,
+        "Apr": 4.33,
+        "May": 3.31,
+        "Jun": 3.04,
+        "Jul": 3.33,
+        "Aug": 3.93,
+        "Sep": 4.56,
+        "Oct": 5.05,
+        "Nov": 5.47,
+        "Dec": 5.67
+      },
+      "average": 4.59
+    },
+    {
+      "name": "Río Ceballos",
+      "admin1_code": "05",
+      "location": [
+        -31.1697,
+        -64.3175
+      ],
+      "monthly": {
+        "Jan": 5,
+        "Feb": 4.64,
+        "Mar": 4.46,
+        "Apr": 4.02,
+        "May": 3.67,
+        "Jun": 3.84,
+        "Jul": 4.04,
+        "Aug": 4.73,
+        "Sep": 5.03,
+        "Oct": 4.97,
+        "Nov": 5.06,
+        "Dec": 4.96
+      },
+      "average": 4.54
+    },
+    {
+      "name": "Rawson",
+      "admin1_code": "04",
+      "location": [
+        -43.30031,
+        -65.10564
+      ],
+      "monthly": {
+        "Jan": 5.73,
+        "Feb": 5.5,
+        "Mar": 5.11,
+        "Apr": 4.31,
+        "May": 3.28,
+        "Jun": 2.99,
+        "Jul": 3.18,
+        "Aug": 3.81,
+        "Sep": 4.51,
+        "Oct": 5.18,
+        "Nov": 5.44,
+        "Dec": 5.65
+      },
+      "average": 4.56
+    },
+    {
+      "name": "Rafaela",
+      "admin1_code": "21",
+      "location": [
+        -31.25285,
+        -61.49078
+      ],
+      "monthly": {
+        "Jan": 5.17,
+        "Feb": 4.97,
+        "Mar": 4.69,
+        "Apr": 4.1,
+        "May": 3.57,
+        "Jun": 3.36,
+        "Jul": 3.68,
+        "Aug": 4.45,
+        "Sep": 4.83,
+        "Oct": 4.88,
+        "Nov": 5.16,
+        "Dec": 5.14
+      },
+      "average": 4.5
+    },
+    {
+      "name": "Quitilipi",
+      "admin1_code": "03",
+      "location": [
+        -26.8708,
+        -60.21537
+      ],
+      "monthly": {
+        "Jan": 5.02,
+        "Feb": 4.92,
+        "Mar": 4.63,
+        "Apr": 3.96,
+        "May": 3.59,
+        "Jun": 3.17,
+        "Jul": 3.69,
+        "Aug": 4.34,
+        "Sep": 4.53,
+        "Oct": 4.68,
+        "Nov": 4.92,
+        "Dec": 4.89
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Punta Alta",
+      "admin1_code": "01",
+      "location": [
+        -38.8805,
+        -62.07503
+      ],
+      "monthly": {
+        "Jan": 5.62,
+        "Feb": 5.37,
+        "Mar": 4.97,
+        "Apr": 4.25,
+        "May": 3.31,
+        "Jun": 3.06,
+        "Jul": 3.2,
+        "Aug": 3.83,
+        "Sep": 4.46,
+        "Oct": 4.94,
+        "Nov": 5.43,
+        "Dec": 5.61
+      },
+      "average": 4.5
+    },
+    {
+      "name": "Puerto Madryn",
+      "admin1_code": "04",
+      "location": [
+        -42.76848,
+        -65.03827
+      ],
+      "monthly": {
+        "Jan": 5.72,
+        "Feb": 5.53,
+        "Mar": 5.16,
+        "Apr": 4.43,
+        "May": 3.37,
+        "Jun": 3.09,
+        "Jul": 3.29,
+        "Aug": 3.9,
+        "Sep": 4.59,
+        "Oct": 5.23,
+        "Nov": 5.41,
+        "Dec": 5.66
+      },
+      "average": 4.61
+    },
+    {
+      "name": "Profesor Salvador Mazza",
+      "admin1_code": "17",
+      "location": [
+        -22.04897,
+        -63.69075
+      ],
+      "monthly": {
+        "Jan": 4.52,
+        "Feb": 4.41,
+        "Mar": 3.93,
+        "Apr": 3.26,
+        "May": 2.9,
+        "Jun": 3.05,
+        "Jul": 3.67,
+        "Aug": 4.48,
+        "Sep": 4.48,
+        "Oct": 4.29,
+        "Nov": 4.32,
+        "Dec": 4.27
+      },
+      "average": 3.96
+    },
+    {
+      "name": "Presidencia Roque Sáenz Peña",
+      "admin1_code": "03",
+      "location": [
+        -26.79095,
+        -60.44132
+      ],
+      "monthly": {
+        "Jan": 5.01,
+        "Feb": 4.91,
+        "Mar": 4.64,
+        "Apr": 3.97,
+        "May": 3.62,
+        "Jun": 3.22,
+        "Jul": 3.75,
+        "Aug": 4.4,
+        "Sep": 4.56,
+        "Oct": 4.7,
+        "Nov": 4.9,
+        "Dec": 4.87
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Pocito",
+      "admin1_code": "18",
+      "location": [
+        -31.68333,
+        -68.58333
+      ],
+      "monthly": {
+        "Jan": 5.62,
+        "Feb": 5.57,
+        "Mar": 5.3,
+        "Apr": 4.84,
+        "May": 4.18,
+        "Jun": 4.25,
+        "Jul": 4.53,
+        "Aug": 5.06,
+        "Sep": 5.53,
+        "Oct": 5.76,
+        "Nov": 5.9,
+        "Dec": 5.78
+      },
+      "average": 5.19
+    },
+    {
+      "name": "Plottier",
+      "admin1_code": "15",
+      "location": [
+        -38.96667,
+        -68.23333
+      ],
+      "monthly": {
+        "Jan": 5.97,
+        "Feb": 5.82,
+        "Mar": 5.36,
+        "Apr": 4.42,
+        "May": 3.4,
+        "Jun": 3.04,
+        "Jul": 3.36,
+        "Aug": 3.99,
+        "Sep": 4.8,
+        "Oct": 5.26,
+        "Nov": 5.74,
+        "Dec": 5.94
+      },
+      "average": 4.76
+    },
+    {
+      "name": "Pergamino",
+      "admin1_code": "01",
+      "location": [
+        -33.89101,
+        -60.57462
+      ],
+      "monthly": {
+        "Jan": 5.25,
+        "Feb": 5.07,
+        "Mar": 4.76,
+        "Apr": 4.12,
+        "May": 3.55,
+        "Jun": 3.24,
+        "Jul": 3.45,
+        "Aug": 4.1,
+        "Sep": 4.6,
+        "Oct": 4.89,
+        "Nov": 5.17,
+        "Dec": 5.27
+      },
+      "average": 4.46
+    },
+    {
+      "name": "Pérez",
+      "admin1_code": "21",
+      "location": [
+        -32.99835,
+        -60.76791
+      ],
+      "monthly": {
+        "Jan": 5.25,
+        "Feb": 4.99,
+        "Mar": 4.77,
+        "Apr": 4.11,
+        "May": 3.57,
+        "Jun": 3.26,
+        "Jul": 3.51,
+        "Aug": 4.17,
+        "Sep": 4.66,
+        "Oct": 4.85,
+        "Nov": 5.16,
+        "Dec": 5.18
+      },
+      "average": 4.46
+    },
+    {
+      "name": "Pehuajó",
+      "admin1_code": "01",
+      "location": [
+        -35.81081,
+        -61.89897
+      ],
+      "monthly": {
+        "Jan": 5.41,
+        "Feb": 5.25,
+        "Mar": 4.82,
+        "Apr": 4.18,
+        "May": 3.45,
+        "Jun": 3.21,
+        "Jul": 3.34,
+        "Aug": 4.03,
+        "Sep": 4.56,
+        "Oct": 4.88,
+        "Nov": 5.29,
+        "Dec": 5.43
+      },
+      "average": 4.49
+    },
+    {
+      "name": "Paraná",
+      "admin1_code": "08",
+      "location": [
+        -31.73271,
+        -60.52897
+      ],
+      "monthly": {
+        "Jan": 5.25,
+        "Feb": 4.99,
+        "Mar": 4.78,
+        "Apr": 4.14,
+        "May": 3.59,
+        "Jun": 3.28,
+        "Jul": 3.59,
+        "Aug": 4.28,
+        "Sep": 4.73,
+        "Oct": 4.88,
+        "Nov": 5.2,
+        "Dec": 5.19
+      },
+      "average": 4.49
+    },
+    {
+      "name": "Palpalá",
+      "admin1_code": "10",
+      "location": [
+        -24.25798,
+        -65.21358
+      ],
+      "monthly": {
+        "Jan": 4.49,
+        "Feb": 4.47,
+        "Mar": 4.06,
+        "Apr": 3.78,
+        "May": 3.61,
+        "Jun": 3.84,
+        "Jul": 4.2,
+        "Aug": 4.84,
+        "Sep": 4.94,
+        "Oct": 4.59,
+        "Nov": 4.55,
+        "Dec": 4.37
+      },
+      "average": 4.31
+    },
+    {
+      "name": "Olavarría",
+      "admin1_code": "01",
+      "location": [
+        -36.89384,
+        -60.32319
+      ],
+      "monthly": {
+        "Jan": 5.39,
+        "Feb": 5.22,
+        "Mar": 4.78,
+        "Apr": 4.22,
+        "May": 3.41,
+        "Jun": 3.16,
+        "Jul": 3.27,
+        "Aug": 3.95,
+        "Sep": 4.43,
+        "Oct": 4.85,
+        "Nov": 5.29,
+        "Dec": 5.44
+      },
+      "average": 4.45
+    },
+    {
+      "name": "Nueve de Julio",
+      "admin1_code": "01",
+      "location": [
+        -35.44394,
+        -60.88463
+      ],
+      "monthly": {
+        "Jan": 5.34,
+        "Feb": 5.13,
+        "Mar": 4.76,
+        "Apr": 4.14,
+        "May": 3.49,
+        "Jun": 3.23,
+        "Jul": 3.33,
+        "Aug": 4.04,
+        "Sep": 4.57,
+        "Oct": 4.83,
+        "Nov": 5.21,
+        "Dec": 5.36
+      },
+      "average": 4.45
+    },
+    {
+      "name": "Neuquén",
+      "admin1_code": "15",
+      "location": [
+        -38.95078,
+        -68.0592
+      ],
+      "monthly": {
+        "Jan": 5.98,
+        "Feb": 5.8,
+        "Mar": 5.36,
+        "Apr": 4.42,
+        "May": 3.4,
+        "Jun": 3.07,
+        "Jul": 3.38,
+        "Aug": 4.01,
+        "Sep": 4.79,
+        "Oct": 5.29,
+        "Nov": 5.76,
+        "Dec": 5.94
+      },
+      "average": 4.77
+    },
+    {
+      "name": "Morteros",
+      "admin1_code": "05",
+      "location": [
+        -30.71066,
+        -62.00714
+      ],
+      "monthly": {
+        "Jan": 5.16,
+        "Feb": 4.97,
+        "Mar": 4.64,
+        "Apr": 4.06,
+        "May": 3.56,
+        "Jun": 3.36,
+        "Jul": 3.73,
+        "Aug": 4.51,
+        "Sep": 4.86,
+        "Oct": 4.91,
+        "Nov": 5.17,
+        "Dec": 5.13
+      },
+      "average": 4.5
+    },
+    {
+      "name": "Monteros",
+      "admin1_code": "24",
+      "location": [
+        -27.16825,
+        -65.49892
+      ],
+      "monthly": {
+        "Jan": 4.49,
+        "Feb": 4.2,
+        "Mar": 3.71,
+        "Apr": 3.31,
+        "May": 3.12,
+        "Jun": 3.28,
+        "Jul": 3.77,
+        "Aug": 4.4,
+        "Sep": 4.63,
+        "Oct": 4.44,
+        "Nov": 4.45,
+        "Dec": 4.35
+      },
+      "average": 4.01
+    },
+    {
+      "name": "Mendoza",
+      "admin1_code": "13",
+      "location": [
+        -32.88946,
+        -68.84582
+      ],
+      "monthly": {
+        "Jan": 5.45,
+        "Feb": 5.28,
+        "Mar": 4.95,
+        "Apr": 4.52,
+        "May": 3.88,
+        "Jun": 4,
+        "Jul": 4.28,
+        "Aug": 4.75,
+        "Sep": 5.19,
+        "Oct": 5.44,
+        "Nov": 5.61,
+        "Dec": 5.56
+      },
+      "average": 4.91
+    },
+    {
+      "name": "Marcos Juárez",
+      "admin1_code": "05",
+      "location": [
+        -32.6978,
+        -62.10672
+      ],
+      "monthly": {
+        "Jan": 5.27,
+        "Feb": 5,
+        "Mar": 4.68,
+        "Apr": 4.09,
+        "May": 3.58,
+        "Jun": 3.41,
+        "Jul": 3.59,
+        "Aug": 4.31,
+        "Sep": 4.76,
+        "Oct": 4.87,
+        "Nov": 5.16,
+        "Dec": 5.19
+      },
+      "average": 4.49
+    },
+    {
+      "name": "Machagai",
+      "admin1_code": "03",
+      "location": [
+        -26.92617,
+        -60.04852
+      ],
+      "monthly": {
+        "Jan": 5.02,
+        "Feb": 4.91,
+        "Mar": 4.64,
+        "Apr": 3.98,
+        "May": 3.6,
+        "Jun": 3.17,
+        "Jul": 3.68,
+        "Aug": 4.32,
+        "Sep": 4.51,
+        "Oct": 4.68,
+        "Nov": 4.91,
+        "Dec": 4.89
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Lincoln",
+      "admin1_code": "01",
+      "location": [
+        -34.86819,
+        -61.52929
+      ],
+      "monthly": {
+        "Jan": 5.32,
+        "Feb": 5.13,
+        "Mar": 4.75,
+        "Apr": 4.16,
+        "May": 3.47,
+        "Jun": 3.27,
+        "Jul": 3.39,
+        "Aug": 4.09,
+        "Sep": 4.64,
+        "Oct": 4.84,
+        "Nov": 5.23,
+        "Dec": 5.36
+      },
+      "average": 4.47
+    },
+    {
+      "name": "Libertador General San Martín",
+      "admin1_code": "10",
+      "location": [
+        -23.81305,
+        -64.79353
+      ],
+      "monthly": {
+        "Jan": 4.6,
+        "Feb": 4.47,
+        "Mar": 3.87,
+        "Apr": 3.29,
+        "May": 3.12,
+        "Jun": 3.36,
+        "Jul": 3.81,
+        "Aug": 4.48,
+        "Sep": 4.59,
+        "Oct": 4.41,
+        "Nov": 4.49,
+        "Dec": 4.42
+      },
+      "average": 4.08
+    },
+    {
+      "name": "Las Breñas",
+      "admin1_code": "03",
+      "location": [
+        -27.08819,
+        -61.08217
+      ],
+      "monthly": {
+        "Jan": 5.01,
+        "Feb": 4.93,
+        "Mar": 4.62,
+        "Apr": 3.94,
+        "May": 3.59,
+        "Jun": 3.26,
+        "Jul": 3.81,
+        "Aug": 4.43,
+        "Sep": 4.64,
+        "Oct": 4.73,
+        "Nov": 4.95,
+        "Dec": 4.88
+      },
+      "average": 4.4
+    },
+    {
+      "name": "La Rioja",
+      "admin1_code": "12",
+      "location": [
+        -29.41328,
+        -66.85637
+      ],
+      "monthly": {
+        "Jan": 4.95,
+        "Feb": 4.77,
+        "Mar": 4.54,
+        "Apr": 4.24,
+        "May": 3.92,
+        "Jun": 4,
+        "Jul": 4.47,
+        "Aug": 5.01,
+        "Sep": 5.31,
+        "Oct": 5.27,
+        "Nov": 5.14,
+        "Dec": 4.95
+      },
+      "average": 4.71
+    },
+    {
+      "name": "La Falda",
+      "admin1_code": "05",
+      "location": [
+        -31.09321,
+        -64.48448
+      ],
+      "monthly": {
+        "Jan": 5.05,
+        "Feb": 4.75,
+        "Mar": 4.53,
+        "Apr": 4.09,
+        "May": 3.78,
+        "Jun": 3.94,
+        "Jul": 4.21,
+        "Aug": 4.87,
+        "Sep": 5.14,
+        "Oct": 5.06,
+        "Nov": 5.12,
+        "Dec": 4.97
+      },
+      "average": 4.63
+    },
+    {
+      "name": "La Calera",
+      "admin1_code": "05",
+      "location": [
+        -31.34582,
+        -64.33849
+      ],
+      "monthly": {
+        "Jan": 4.99,
+        "Feb": 4.68,
+        "Mar": 4.51,
+        "Apr": 4.06,
+        "May": 3.71,
+        "Jun": 3.88,
+        "Jul": 4.06,
+        "Aug": 4.74,
+        "Sep": 5.02,
+        "Oct": 4.97,
+        "Nov": 5.09,
+        "Dec": 4.98
+      },
+      "average": 4.56
+    },
+    {
+      "name": "Laboulaye",
+      "admin1_code": "05",
+      "location": [
+        -34.12688,
+        -63.39083
+      ],
+      "monthly": {
+        "Jan": 5.35,
+        "Feb": 5.09,
+        "Mar": 4.78,
+        "Apr": 4.14,
+        "May": 3.52,
+        "Jun": 3.48,
+        "Jul": 3.6,
+        "Aug": 4.27,
+        "Sep": 4.73,
+        "Oct": 4.92,
+        "Nov": 5.23,
+        "Dec": 5.3
+      },
+      "average": 4.53
+    },
+    {
+      "name": "Junín",
+      "admin1_code": "01",
+      "location": [
+        -34.59391,
+        -60.94644
+      ],
+      "monthly": {
+        "Jan": 5.25,
+        "Feb": 5.11,
+        "Mar": 4.76,
+        "Apr": 4.13,
+        "May": 3.51,
+        "Jun": 3.26,
+        "Jul": 3.39,
+        "Aug": 4.09,
+        "Sep": 4.61,
+        "Oct": 4.83,
+        "Nov": 5.17,
+        "Dec": 5.32
+      },
+      "average": 4.45
+    },
+    {
+      "name": "Joaquín V. González",
+      "admin1_code": "17",
+      "location": [
+        -25.11364,
+        -64.12628
+      ],
+      "monthly": {
+        "Jan": 4.74,
+        "Feb": 4.66,
+        "Mar": 4.16,
+        "Apr": 3.64,
+        "May": 3.41,
+        "Jun": 3.44,
+        "Jul": 3.98,
+        "Aug": 4.66,
+        "Sep": 4.79,
+        "Oct": 4.68,
+        "Nov": 4.65,
+        "Dec": 4.52
+      },
+      "average": 4.28
+    },
+    {
+      "name": "Jesús María",
+      "admin1_code": "05",
+      "location": [
+        -30.98153,
+        -64.09424
+      ],
+      "monthly": {
+        "Jan": 5.12,
+        "Feb": 4.84,
+        "Mar": 4.6,
+        "Apr": 4.1,
+        "May": 3.72,
+        "Jun": 3.87,
+        "Jul": 4.1,
+        "Aug": 4.82,
+        "Sep": 5.11,
+        "Oct": 5.06,
+        "Nov": 5.16,
+        "Dec": 5.05
+      },
+      "average": 4.63
+    },
+    {
+      "name": "Granadero Baigorria",
+      "admin1_code": "21",
+      "location": [
+        -32.85683,
+        -60.71754
+      ],
+      "monthly": {
+        "Jan": 5.32,
+        "Feb": 5.05,
+        "Mar": 4.83,
+        "Apr": 4.14,
+        "May": 3.59,
+        "Jun": 3.25,
+        "Jul": 3.5,
+        "Aug": 4.18,
+        "Sep": 4.68,
+        "Oct": 4.86,
+        "Nov": 5.21,
+        "Dec": 5.23
+      },
+      "average": 4.49
+    },
+    {
+      "name": "Gobernador Gálvez",
+      "admin1_code": "21",
+      "location": [
+        -33.03016,
+        -60.64045
+      ],
+      "monthly": {
+        "Jan": 5.28,
+        "Feb": 5.03,
+        "Mar": 4.8,
+        "Apr": 4.12,
+        "May": 3.59,
+        "Jun": 3.26,
+        "Jul": 3.49,
+        "Aug": 4.16,
+        "Sep": 4.64,
+        "Oct": 4.86,
+        "Nov": 5.18,
+        "Dec": 5.2
+      },
+      "average": 4.47
+    },
+    {
+      "name": "General Villegas",
+      "admin1_code": "01",
+      "location": [
+        -35.03264,
+        -63.01484
+      ],
+      "monthly": {
+        "Jan": 5.4,
+        "Feb": 5.14,
+        "Mar": 4.77,
+        "Apr": 4.16,
+        "May": 3.5,
+        "Jun": 3.38,
+        "Jul": 3.5,
+        "Aug": 4.18,
+        "Sep": 4.62,
+        "Oct": 4.9,
+        "Nov": 5.25,
+        "Dec": 5.38
+      },
+      "average": 4.51
+    },
+    {
+      "name": "General Roca",
+      "admin1_code": "16",
+      "location": [
+        -39.03333,
+        -67.58333
+      ],
+      "monthly": {
+        "Jan": 5.93,
+        "Feb": 5.76,
+        "Mar": 5.31,
+        "Apr": 4.4,
+        "May": 3.37,
+        "Jun": 3.08,
+        "Jul": 3.39,
+        "Aug": 4.03,
+        "Sep": 4.77,
+        "Oct": 5.28,
+        "Nov": 5.72,
+        "Dec": 5.93
+      },
+      "average": 4.75
+    },
+    {
+      "name": "General Pinedo",
+      "admin1_code": "03",
+      "location": [
+        -27.32534,
+        -61.28101
+      ],
+      "monthly": {
+        "Jan": 5.01,
+        "Feb": 4.94,
+        "Mar": 4.62,
+        "Apr": 3.92,
+        "May": 3.57,
+        "Jun": 3.25,
+        "Jul": 3.81,
+        "Aug": 4.45,
+        "Sep": 4.66,
+        "Oct": 4.74,
+        "Nov": 4.95,
+        "Dec": 4.88
+      },
+      "average": 4.4
+    },
+    {
+      "name": "General Pico",
+      "admin1_code": "11",
+      "location": [
+        -35.6593,
+        -63.75787
+      ],
+      "monthly": {
+        "Jan": 5.51,
+        "Feb": 5.28,
+        "Mar": 4.81,
+        "Apr": 4.19,
+        "May": 3.46,
+        "Jun": 3.34,
+        "Jul": 3.44,
+        "Aug": 4.14,
+        "Sep": 4.58,
+        "Oct": 4.95,
+        "Nov": 5.39,
+        "Dec": 5.48
+      },
+      "average": 4.55
+    },
+    {
+      "name": "General Mosconi",
+      "admin1_code": "17",
+      "location": [
+        -22.59617,
+        -63.811
+      ],
+      "monthly": {
+        "Jan": 4.64,
+        "Feb": 4.57,
+        "Mar": 4.01,
+        "Apr": 3.34,
+        "May": 3,
+        "Jun": 3.08,
+        "Jul": 3.72,
+        "Aug": 4.47,
+        "Sep": 4.5,
+        "Oct": 4.32,
+        "Nov": 4.41,
+        "Dec": 4.39
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Gálvez",
+      "admin1_code": "21",
+      "location": [
+        -32.02957,
+        -61.22097
+      ],
+      "monthly": {
+        "Jan": 5.23,
+        "Feb": 4.96,
+        "Mar": 4.72,
+        "Apr": 4.08,
+        "May": 3.57,
+        "Jun": 3.32,
+        "Jul": 3.58,
+        "Aug": 4.32,
+        "Sep": 4.74,
+        "Oct": 4.85,
+        "Nov": 5.16,
+        "Dec": 5.15
+      },
+      "average": 4.47
+    },
+    {
+      "name": "Firmat",
+      "admin1_code": "21",
+      "location": [
+        -33.45937,
+        -61.4832
+      ],
+      "monthly": {
+        "Jan": 5.28,
+        "Feb": 5.06,
+        "Mar": 4.75,
+        "Apr": 4.09,
+        "May": 3.53,
+        "Jun": 3.29,
+        "Jul": 3.49,
+        "Aug": 4.18,
+        "Sep": 4.7,
+        "Oct": 4.87,
+        "Nov": 5.17,
+        "Dec": 5.25
+      },
+      "average": 4.47
+    },
+    {
+      "name": "Famaillá",
+      "admin1_code": "24",
+      "location": [
+        -27.05452,
+        -65.40189
+      ],
+      "monthly": {
+        "Jan": 4.49,
+        "Feb": 4.2,
+        "Mar": 3.75,
+        "Apr": 3.37,
+        "May": 3.16,
+        "Jun": 3.31,
+        "Jul": 3.81,
+        "Aug": 4.43,
+        "Sep": 4.64,
+        "Oct": 4.46,
+        "Nov": 4.46,
+        "Dec": 4.36
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Esquel",
+      "admin1_code": "04",
+      "location": [
+        -42.91147,
+        -71.31947
+      ],
+      "monthly": {
+        "Jan": 5.74,
+        "Feb": 5.47,
+        "Mar": 4.83,
+        "Apr": 3.95,
+        "May": 2.88,
+        "Jun": 2.35,
+        "Jul": 2.56,
+        "Aug": 3.4,
+        "Sep": 4.33,
+        "Oct": 5,
+        "Nov": 5.43,
+        "Dec": 5.58
+      },
+      "average": 4.29
+    },
+    {
+      "name": "Esperanza",
+      "admin1_code": "21",
+      "location": [
+        -31.44957,
+        -60.93153
+      ],
+      "monthly": {
+        "Jan": 5.19,
+        "Feb": 4.94,
+        "Mar": 4.72,
+        "Apr": 4.1,
+        "May": 3.58,
+        "Jun": 3.31,
+        "Jul": 3.62,
+        "Aug": 4.37,
+        "Sep": 4.76,
+        "Oct": 4.87,
+        "Nov": 5.14,
+        "Dec": 5.12
+      },
+      "average": 4.48
+    },
+    {
+      "name": "Embarcación",
+      "admin1_code": "17",
+      "location": [
+        -23.21003,
+        -64.09965
+      ],
+      "monthly": {
+        "Jan": 4.63,
+        "Feb": 4.57,
+        "Mar": 4.02,
+        "Apr": 3.38,
+        "May": 3.09,
+        "Jun": 3.14,
+        "Jul": 3.68,
+        "Aug": 4.37,
+        "Sep": 4.46,
+        "Oct": 4.31,
+        "Nov": 4.41,
+        "Dec": 4.38
+      },
+      "average": 4.04
+    },
+    {
+      "name": "Embalse",
+      "admin1_code": "05",
+      "location": [
+        -32.20681,
+        -64.40064
+      ],
+      "monthly": {
+        "Jan": 5.13,
+        "Feb": 4.87,
+        "Mar": 4.72,
+        "Apr": 4.16,
+        "May": 3.72,
+        "Jun": 3.81,
+        "Jul": 3.98,
+        "Aug": 4.65,
+        "Sep": 4.97,
+        "Oct": 5.01,
+        "Nov": 5.17,
+        "Dec": 5.14
+      },
+      "average": 4.61
+    },
+    {
+      "name": "El Bolsón",
+      "admin1_code": "16",
+      "location": [
+        -41.96051,
+        -71.53336
+      ],
+      "monthly": {
+        "Jan": 5.76,
+        "Feb": 5.45,
+        "Mar": 4.73,
+        "Apr": 3.61,
+        "May": 2.56,
+        "Jun": 2,
+        "Jul": 2.36,
+        "Aug": 2.95,
+        "Sep": 3.99,
+        "Oct": 4.84,
+        "Nov": 5.26,
+        "Dec": 5.51
+      },
+      "average": 4.08
+    },
+    {
+      "name": "Diamante",
+      "admin1_code": "08",
+      "location": [
+        -32.0671,
+        -60.64267
+      ],
+      "monthly": {
+        "Jan": 5.26,
+        "Feb": 4.98,
+        "Mar": 4.74,
+        "Apr": 4.09,
+        "May": 3.54,
+        "Jun": 3.23,
+        "Jul": 3.51,
+        "Aug": 4.24,
+        "Sep": 4.68,
+        "Oct": 4.84,
+        "Nov": 5.2,
+        "Dec": 5.18
+      },
+      "average": 4.46
+    },
+    {
+      "name": "Deán Funes",
+      "admin1_code": "05",
+      "location": [
+        -30.42498,
+        -64.35274
+      ],
+      "monthly": {
+        "Jan": 5.16,
+        "Feb": 4.91,
+        "Mar": 4.49,
+        "Apr": 4.04,
+        "May": 3.67,
+        "Jun": 3.76,
+        "Jul": 4.2,
+        "Aug": 4.93,
+        "Sep": 5.22,
+        "Oct": 5.23,
+        "Nov": 5.24,
+        "Dec": 5.1
+      },
+      "average": 4.66
+    },
+    {
+      "name": "Cutral-Có",
+      "admin1_code": "15",
+      "location": [
+        -38.93424,
+        -69.23052
+      ],
+      "monthly": {
+        "Jan": 6.02,
+        "Feb": 5.85,
+        "Mar": 5.45,
+        "Apr": 4.57,
+        "May": 3.52,
+        "Jun": 3.18,
+        "Jul": 3.51,
+        "Aug": 4.13,
+        "Sep": 4.92,
+        "Oct": 5.37,
+        "Nov": 5.79,
+        "Dec": 5.99
+      },
+      "average": 4.86
+    },
+    {
+      "name": "Cruz del Eje",
+      "admin1_code": "05",
+      "location": [
+        -30.72644,
+        -64.80387
+      ],
+      "monthly": {
+        "Jan": 5.14,
+        "Feb": 4.9,
+        "Mar": 4.51,
+        "Apr": 3.99,
+        "May": 3.58,
+        "Jun": 3.68,
+        "Jul": 4.1,
+        "Aug": 4.84,
+        "Sep": 5.16,
+        "Oct": 5.21,
+        "Nov": 5.22,
+        "Dec": 5.07
+      },
+      "average": 4.62
+    },
+    {
+      "name": "Crespo",
+      "admin1_code": "08",
+      "location": [
+        -32.03077,
+        -60.30619
+      ],
+      "monthly": {
+        "Jan": 5.22,
+        "Feb": 4.95,
+        "Mar": 4.75,
+        "Apr": 4.11,
+        "May": 3.6,
+        "Jun": 3.31,
+        "Jul": 3.59,
+        "Aug": 4.27,
+        "Sep": 4.72,
+        "Oct": 4.85,
+        "Nov": 5.18,
+        "Dec": 5.15
+      },
+      "average": 4.47
+    },
+    {
+      "name": "Cosquín",
+      "admin1_code": "05",
+      "location": [
+        -31.24525,
+        -64.46574
+      ],
+      "monthly": {
+        "Jan": 5.02,
+        "Feb": 4.71,
+        "Mar": 4.51,
+        "Apr": 4.06,
+        "May": 3.74,
+        "Jun": 3.91,
+        "Jul": 4.18,
+        "Aug": 4.82,
+        "Sep": 5.09,
+        "Oct": 5,
+        "Nov": 5.11,
+        "Dec": 4.97
+      },
+      "average": 4.59
+    },
+    {
+      "name": "Coronel Suárez",
+      "admin1_code": "01",
+      "location": [
+        -37.45859,
+        -61.93294
+      ],
+      "monthly": {
+        "Jan": 5.57,
+        "Feb": 5.34,
+        "Mar": 4.87,
+        "Apr": 4.26,
+        "May": 3.38,
+        "Jun": 3.16,
+        "Jul": 3.35,
+        "Aug": 3.95,
+        "Sep": 4.51,
+        "Oct": 4.92,
+        "Nov": 5.44,
+        "Dec": 5.56
+      },
+      "average": 4.53
+    },
+    {
+      "name": "Coronda",
+      "admin1_code": "21",
+      "location": [
+        -31.97365,
+        -60.91935
+      ],
+      "monthly": {
+        "Jan": 5.26,
+        "Feb": 5.03,
+        "Mar": 4.81,
+        "Apr": 4.12,
+        "May": 3.57,
+        "Jun": 3.26,
+        "Jul": 3.53,
+        "Aug": 4.28,
+        "Sep": 4.71,
+        "Oct": 4.87,
+        "Nov": 5.2,
+        "Dec": 5.18
+      },
+      "average": 4.49
+    },
+    {
+      "name": "Córdoba",
+      "admin1_code": "05",
+      "location": [
+        -31.40648,
+        -64.18853
+      ],
+      "monthly": {
+        "Jan": 5.09,
+        "Feb": 4.81,
+        "Mar": 4.69,
+        "Apr": 4.21,
+        "May": 3.82,
+        "Jun": 3.92,
+        "Jul": 4.09,
+        "Aug": 4.79,
+        "Sep": 5.07,
+        "Oct": 5.05,
+        "Nov": 5.15,
+        "Dec": 5.07
+      },
+      "average": 4.65
+    },
+    {
+      "name": "Comodoro Rivadavia",
+      "admin1_code": "04",
+      "location": [
+        -45.86256,
+        -67.494
+      ],
+      "monthly": {
+        "Jan": 5.63,
+        "Feb": 5.39,
+        "Mar": 4.75,
+        "Apr": 3.82,
+        "May": 3.12,
+        "Jun": 2.57,
+        "Jul": 2.84,
+        "Aug": 3.67,
+        "Sep": 4.44,
+        "Oct": 5.36,
+        "Nov": 5.51,
+        "Dec": 5.51
+      },
+      "average": 4.38
+    },
+    {
+      "name": "Cipolletti",
+      "admin1_code": "16",
+      "location": [
+        -38.93392,
+        -67.99032
+      ],
+      "monthly": {
+        "Jan": 5.98,
+        "Feb": 5.8,
+        "Mar": 5.34,
+        "Apr": 4.39,
+        "May": 3.37,
+        "Jun": 3.06,
+        "Jul": 3.37,
+        "Aug": 4,
+        "Sep": 4.79,
+        "Oct": 5.29,
+        "Nov": 5.75,
+        "Dec": 5.94
+      },
+      "average": 4.76
+    },
+    {
+      "name": "Cinco Saltos",
+      "admin1_code": "16",
+      "location": [
+        -38.82225,
+        -68.06293
+      ],
+      "monthly": {
+        "Jan": 5.97,
+        "Feb": 5.81,
+        "Mar": 5.39,
+        "Apr": 4.41,
+        "May": 3.4,
+        "Jun": 3.07,
+        "Jul": 3.39,
+        "Aug": 4.01,
+        "Sep": 4.78,
+        "Oct": 5.27,
+        "Nov": 5.76,
+        "Dec": 5.93
+      },
+      "average": 4.77
+    },
+    {
+      "name": "Chivilcoy",
+      "admin1_code": "01",
+      "location": [
+        -34.8969,
+        -60.01909
+      ],
+      "monthly": {
+        "Jan": 5.26,
+        "Feb": 5.09,
+        "Mar": 4.72,
+        "Apr": 4.12,
+        "May": 3.49,
+        "Jun": 3.22,
+        "Jul": 3.34,
+        "Aug": 4.01,
+        "Sep": 4.51,
+        "Oct": 4.81,
+        "Nov": 5.16,
+        "Dec": 5.34
+      },
+      "average": 4.42
+    },
+    {
+      "name": "Chimbas",
+      "admin1_code": "18",
+      "location": [
+        -31.49313,
+        -68.53263
+      ],
+      "monthly": {
+        "Jan": 5.7,
+        "Feb": 5.65,
+        "Mar": 5.4,
+        "Apr": 4.93,
+        "May": 4.26,
+        "Jun": 4.29,
+        "Jul": 4.57,
+        "Aug": 5.1,
+        "Sep": 5.57,
+        "Oct": 5.78,
+        "Nov": 5.91,
+        "Dec": 5.81
+      },
+      "average": 5.25
+    },
+    {
+      "name": "Chilecito",
+      "admin1_code": "12",
+      "location": [
+        -29.16163,
+        -67.49934
+      ],
+      "monthly": {
+        "Jan": 5.28,
+        "Feb": 5.1,
+        "Mar": 4.93,
+        "Apr": 4.68,
+        "May": 4.24,
+        "Jun": 4.38,
+        "Jul": 4.78,
+        "Aug": 5.29,
+        "Sep": 5.64,
+        "Oct": 5.74,
+        "Nov": 5.64,
+        "Dec": 5.35
+      },
+      "average": 5.09
+    },
+    {
+      "name": "Charata",
+      "admin1_code": "03",
+      "location": [
+        -27.21787,
+        -61.18738
+      ],
+      "monthly": {
+        "Jan": 5.02,
+        "Feb": 4.93,
+        "Mar": 4.63,
+        "Apr": 3.94,
+        "May": 3.58,
+        "Jun": 3.25,
+        "Jul": 3.82,
+        "Aug": 4.45,
+        "Sep": 4.66,
+        "Oct": 4.75,
+        "Nov": 4.97,
+        "Dec": 4.88
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Chacabuco",
+      "admin1_code": "01",
+      "location": [
+        -34.64203,
+        -60.47124
+      ],
+      "monthly": {
+        "Jan": 5.25,
+        "Feb": 5.09,
+        "Mar": 4.73,
+        "Apr": 4.11,
+        "May": 3.52,
+        "Jun": 3.24,
+        "Jul": 3.35,
+        "Aug": 4.05,
+        "Sep": 4.55,
+        "Oct": 4.8,
+        "Nov": 5.16,
+        "Dec": 5.32
+      },
+      "average": 4.43
+    },
+    {
+      "name": "Centenario",
+      "admin1_code": "15",
+      "location": [
+        -38.82955,
+        -68.1318
+      ],
+      "monthly": {
+        "Jan": 5.99,
+        "Feb": 5.85,
+        "Mar": 5.43,
+        "Apr": 4.45,
+        "May": 3.42,
+        "Jun": 3.08,
+        "Jul": 3.41,
+        "Aug": 4.03,
+        "Sep": 4.8,
+        "Oct": 5.29,
+        "Nov": 5.78,
+        "Dec": 5.95
+      },
+      "average": 4.79
+    },
+    {
+      "name": "Caucete",
+      "admin1_code": "18",
+      "location": [
+        -31.6515,
+        -68.28216
+      ],
+      "monthly": {
+        "Jan": 5.64,
+        "Feb": 5.51,
+        "Mar": 5.17,
+        "Apr": 4.67,
+        "May": 4.04,
+        "Jun": 4.13,
+        "Jul": 4.43,
+        "Aug": 4.99,
+        "Sep": 5.45,
+        "Oct": 5.67,
+        "Nov": 5.85,
+        "Dec": 5.76
+      },
+      "average": 5.11
+    },
+    {
+      "name": "Catriel",
+      "admin1_code": "16",
+      "location": [
+        -37.87552,
+        -67.79451
+      ],
+      "monthly": {
+        "Jan": 5.87,
+        "Feb": 5.75,
+        "Mar": 5.32,
+        "Apr": 4.45,
+        "May": 3.39,
+        "Jun": 3.11,
+        "Jul": 3.41,
+        "Aug": 3.97,
+        "Sep": 4.75,
+        "Oct": 5.22,
+        "Nov": 5.7,
+        "Dec": 5.86
+      },
+      "average": 4.73
+    },
+    {
+      "name": "Juan José Castelli",
+      "admin1_code": "03",
+      "location": [
+        -25.9466,
+        -60.62008
+      ],
+      "monthly": {
+        "Jan": 4.98,
+        "Feb": 4.88,
+        "Mar": 4.57,
+        "Apr": 3.93,
+        "May": 3.58,
+        "Jun": 3.19,
+        "Jul": 3.77,
+        "Aug": 4.38,
+        "Sep": 4.51,
+        "Oct": 4.67,
+        "Nov": 4.83,
+        "Dec": 4.79
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Casilda",
+      "admin1_code": "21",
+      "location": [
+        -33.04459,
+        -61.16423
+      ],
+      "monthly": {
+        "Jan": 5.26,
+        "Feb": 5.03,
+        "Mar": 4.75,
+        "Apr": 4.12,
+        "May": 3.56,
+        "Jun": 3.28,
+        "Jul": 3.53,
+        "Aug": 4.21,
+        "Sep": 4.69,
+        "Oct": 4.89,
+        "Nov": 5.16,
+        "Dec": 5.2
+      },
+      "average": 4.47
+    },
+    {
+      "name": "Carmen de Patagones",
+      "admin1_code": "01",
+      "location": [
+        -40.80255,
+        -62.98349
+      ],
+      "monthly": {
+        "Jan": 5.72,
+        "Feb": 5.49,
+        "Mar": 5.07,
+        "Apr": 4.28,
+        "May": 3.29,
+        "Jun": 2.96,
+        "Jul": 3.13,
+        "Aug": 3.81,
+        "Sep": 4.5,
+        "Oct": 5.16,
+        "Nov": 5.46,
+        "Dec": 5.64
+      },
+      "average": 4.54
+    },
+    {
+      "name": "Carcarañá",
+      "admin1_code": "21",
+      "location": [
+        -32.85704,
+        -61.15114
+      ],
+      "monthly": {
+        "Jan": 5.26,
+        "Feb": 5.02,
+        "Mar": 4.74,
+        "Apr": 4.12,
+        "May": 3.58,
+        "Jun": 3.3,
+        "Jul": 3.54,
+        "Aug": 4.24,
+        "Sep": 4.7,
+        "Oct": 4.87,
+        "Nov": 5.17,
+        "Dec": 5.21
+      },
+      "average": 4.48
+    },
+    {
+      "name": "Capitán Bermúdez",
+      "admin1_code": "21",
+      "location": [
+        -32.82262,
+        -60.71852
+      ],
+      "monthly": {
+        "Jan": 5.33,
+        "Feb": 5.06,
+        "Mar": 4.83,
+        "Apr": 4.14,
+        "May": 3.59,
+        "Jun": 3.25,
+        "Jul": 3.51,
+        "Aug": 4.19,
+        "Sep": 4.68,
+        "Oct": 4.87,
+        "Nov": 5.22,
+        "Dec": 5.24
+      },
+      "average": 4.49
+    },
+    {
+      "name": "Cañada de Gómez",
+      "admin1_code": "21",
+      "location": [
+        -32.82033,
+        -61.39513
+      ],
+      "monthly": {
+        "Jan": 5.25,
+        "Feb": 5,
+        "Mar": 4.74,
+        "Apr": 4.11,
+        "May": 3.57,
+        "Jun": 3.32,
+        "Jul": 3.56,
+        "Aug": 4.25,
+        "Sep": 4.71,
+        "Oct": 4.88,
+        "Nov": 5.16,
+        "Dec": 5.2
+      },
+      "average": 4.48
+    },
+    {
+      "name": "Caleta Olivia",
+      "admin1_code": "20",
+      "location": [
+        -46.44785,
+        -67.52274
+      ],
+      "monthly": {
+        "Jan": 5.64,
+        "Feb": 5.45,
+        "Mar": 4.81,
+        "Apr": 3.87,
+        "May": 3.37,
+        "Jun": 2.91,
+        "Jul": 3.16,
+        "Aug": 3.9,
+        "Sep": 4.57,
+        "Oct": 5.51,
+        "Nov": 5.62,
+        "Dec": 5.6
+      },
+      "average": 4.53
+    },
+    {
+      "name": "Bell Ville",
+      "admin1_code": "05",
+      "location": [
+        -32.63021,
+        -62.68883
+      ],
+      "monthly": {
+        "Jan": 5.24,
+        "Feb": 4.96,
+        "Mar": 4.69,
+        "Apr": 4.04,
+        "May": 3.54,
+        "Jun": 3.45,
+        "Jul": 3.63,
+        "Aug": 4.36,
+        "Sep": 4.81,
+        "Oct": 4.89,
+        "Nov": 5.14,
+        "Dec": 5.19
+      },
+      "average": 4.5
+    },
+    {
+      "name": "Bella Vista",
+      "admin1_code": "24",
+      "location": [
+        -27.03424,
+        -65.30196
+      ],
+      "monthly": {
+        "Jan": 4.58,
+        "Feb": 4.31,
+        "Mar": 3.86,
+        "Apr": 3.47,
+        "May": 3.22,
+        "Jun": 3.34,
+        "Jul": 3.86,
+        "Aug": 4.48,
+        "Sep": 4.68,
+        "Oct": 4.52,
+        "Nov": 4.53,
+        "Dec": 4.45
+      },
+      "average": 4.11
+    },
+    {
+      "name": "Bahía Blanca",
+      "admin1_code": "01",
+      "location": [
+        -38.7176,
+        -62.26545
+      ],
+      "monthly": {
+        "Jan": 5.58,
+        "Feb": 5.38,
+        "Mar": 4.97,
+        "Apr": 4.28,
+        "May": 3.38,
+        "Jun": 3.14,
+        "Jul": 3.27,
+        "Aug": 3.86,
+        "Sep": 4.47,
+        "Oct": 4.92,
+        "Nov": 5.41,
+        "Dec": 5.58
+      },
+      "average": 4.52
+    },
+    {
+      "name": "Arroyo Seco",
+      "admin1_code": "21",
+      "location": [
+        -33.15365,
+        -60.51168
+      ],
+      "monthly": {
+        "Jan": 5.29,
+        "Feb": 5.06,
+        "Mar": 4.81,
+        "Apr": 4.14,
+        "May": 3.6,
+        "Jun": 3.26,
+        "Jul": 3.5,
+        "Aug": 4.16,
+        "Sep": 4.65,
+        "Oct": 4.89,
+        "Nov": 5.18,
+        "Dec": 5.23
+      },
+      "average": 4.48
+    },
+    {
+      "name": "Arroyito",
+      "admin1_code": "05",
+      "location": [
+        -31.41917,
+        -63.05084
+      ],
+      "monthly": {
+        "Jan": 5.22,
+        "Feb": 4.99,
+        "Mar": 4.66,
+        "Apr": 4.06,
+        "May": 3.57,
+        "Jun": 3.52,
+        "Jul": 3.75,
+        "Aug": 4.56,
+        "Sep": 4.93,
+        "Oct": 4.95,
+        "Nov": 5.17,
+        "Dec": 5.13
+      },
+      "average": 4.54
+    },
+    {
+      "name": "Arrecifes",
+      "admin1_code": "01",
+      "location": [
+        -34.06306,
+        -60.10261
+      ],
+      "monthly": {
+        "Jan": 5.23,
+        "Feb": 5.03,
+        "Mar": 4.74,
+        "Apr": 4.1,
+        "May": 3.57,
+        "Jun": 3.25,
+        "Jul": 3.42,
+        "Aug": 4.07,
+        "Sep": 4.57,
+        "Oct": 4.86,
+        "Nov": 5.14,
+        "Dec": 5.24
+      },
+      "average": 4.44
+    },
+    {
+      "name": "Añatuya",
+      "admin1_code": "22",
+      "location": [
+        -28.4602,
+        -62.83354
+      ],
+      "monthly": {
+        "Jan": 4.97,
+        "Feb": 4.86,
+        "Mar": 4.44,
+        "Apr": 3.84,
+        "May": 3.48,
+        "Jun": 3.32,
+        "Jul": 3.86,
+        "Aug": 4.58,
+        "Sep": 4.79,
+        "Oct": 4.83,
+        "Nov": 4.99,
+        "Dec": 4.91
+      },
+      "average": 4.41
+    },
+    {
+      "name": "Alta Gracia",
+      "admin1_code": "05",
+      "location": [
+        -31.64978,
+        -64.42972
+      ],
+      "monthly": {
+        "Jan": 5.11,
+        "Feb": 4.78,
+        "Mar": 4.65,
+        "Apr": 4.18,
+        "May": 3.81,
+        "Jun": 3.94,
+        "Jul": 4.14,
+        "Aug": 4.77,
+        "Sep": 5.08,
+        "Oct": 5.06,
+        "Nov": 5.15,
+        "Dec": 5.07
+      },
+      "average": 4.64
+    },
+    {
+      "name": "Allen",
+      "admin1_code": "16",
+      "location": [
+        -38.97736,
+        -67.82714
+      ],
+      "monthly": {
+        "Jan": 5.97,
+        "Feb": 5.8,
+        "Mar": 5.33,
+        "Apr": 4.4,
+        "May": 3.39,
+        "Jun": 3.06,
+        "Jul": 3.39,
+        "Aug": 4.02,
+        "Sep": 4.78,
+        "Oct": 5.28,
+        "Nov": 5.75,
+        "Dec": 5.94
+      },
+      "average": 4.76
+    },
+    {
+      "name": "Alderetes",
+      "admin1_code": "24",
+      "location": [
+        -26.81787,
+        -65.14202
+      ],
+      "monthly": {
+        "Jan": 4.55,
+        "Feb": 4.38,
+        "Mar": 3.93,
+        "Apr": 3.57,
+        "May": 3.33,
+        "Jun": 3.46,
+        "Jul": 3.95,
+        "Aug": 4.57,
+        "Sep": 4.71,
+        "Oct": 4.49,
+        "Nov": 4.48,
+        "Dec": 4.39
+      },
+      "average": 4.15
+    },
+    {
+      "name": "Albardón",
+      "admin1_code": "18",
+      "location": [
+        -31.43722,
+        -68.52556
+      ],
+      "monthly": {
+        "Jan": 5.7,
+        "Feb": 5.64,
+        "Mar": 5.39,
+        "Apr": 4.92,
+        "May": 4.26,
+        "Jun": 4.3,
+        "Jul": 4.58,
+        "Aug": 5.12,
+        "Sep": 5.58,
+        "Oct": 5.79,
+        "Nov": 5.9,
+        "Dec": 5.8
+      },
+      "average": 5.25
+    },
+    {
+      "name": "Aimogasta",
+      "admin1_code": "12",
+      "location": [
+        -28.56003,
+        -66.80737
+      ],
+      "monthly": {
+        "Jan": 5.49,
+        "Feb": 5.54,
+        "Mar": 5.45,
+        "Apr": 5.24,
+        "May": 4.72,
+        "Jun": 4.68,
+        "Jul": 4.94,
+        "Aug": 5.42,
+        "Sep": 5.79,
+        "Oct": 5.95,
+        "Nov": 5.82,
+        "Dec": 5.62
+      },
+      "average": 5.39
+    },
+    {
+      "name": "Aguilares",
+      "admin1_code": "24",
+      "location": [
+        -27.4315,
+        -65.61465
+      ],
+      "monthly": {
+        "Jan": 4.55,
+        "Feb": 4.28,
+        "Mar": 3.81,
+        "Apr": 3.4,
+        "May": 3.19,
+        "Jun": 3.34,
+        "Jul": 3.83,
+        "Aug": 4.43,
+        "Sep": 4.69,
+        "Oct": 4.48,
+        "Nov": 4.47,
+        "Dec": 4.41
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Balvanera",
+      "admin1_code": "07",
+      "location": [
+        -34.61032,
+        -58.39766
+      ],
+      "monthly": {
+        "Jan": 5.33,
+        "Feb": 5.06,
+        "Mar": 4.78,
+        "Apr": 4.16,
+        "May": 3.49,
+        "Jun": 3.22,
+        "Jul": 3.28,
+        "Aug": 3.87,
+        "Sep": 4.41,
+        "Oct": 4.82,
+        "Nov": 5.22,
+        "Dec": 5.35
+      },
+      "average": 4.42
+    },
+    {
+      "name": "Villa Santa Rita",
+      "admin1_code": "07",
+      "location": [
+        -34.61082,
+        -58.481
+      ],
+      "monthly": {
+        "Jan": 5.31,
+        "Feb": 5.01,
+        "Mar": 4.74,
+        "Apr": 4.15,
+        "May": 3.46,
+        "Jun": 3.21,
+        "Jul": 3.28,
+        "Aug": 3.87,
+        "Sep": 4.4,
+        "Oct": 4.79,
+        "Nov": 5.19,
+        "Dec": 5.34
+      },
+      "average": 4.4
+    },
+    {
+      "name": "Villa Mercedes",
+      "admin1_code": "19",
+      "location": [
+        -33.67571,
+        -65.45783
+      ],
+      "monthly": {
+        "Jan": 5.34,
+        "Feb": 5.16,
+        "Mar": 4.77,
+        "Apr": 4.27,
+        "May": 3.72,
+        "Jun": 3.79,
+        "Jul": 4,
+        "Aug": 4.53,
+        "Sep": 4.91,
+        "Oct": 5.06,
+        "Nov": 5.28,
+        "Dec": 5.35
+      },
+      "average": 4.68
+    },
+    {
+      "name": "San Miguel",
+      "admin1_code": "01",
+      "location": [
+        -34.54335,
+        -58.71229
+      ],
+      "monthly": {
+        "Jan": 5.25,
+        "Feb": 4.96,
+        "Mar": 4.7,
+        "Apr": 4.07,
+        "May": 3.4,
+        "Jun": 3.13,
+        "Jul": 3.23,
+        "Aug": 3.83,
+        "Sep": 4.39,
+        "Oct": 4.77,
+        "Nov": 5.14,
+        "Dec": 5.29
+      },
+      "average": 4.35
+    },
+    {
+      "name": "San Carlos de Bariloche",
+      "admin1_code": "16",
+      "location": [
+        -41.14557,
+        -71.30822
+      ],
+      "monthly": {
+        "Jan": 6.2,
+        "Feb": 5.84,
+        "Mar": 5.09,
+        "Apr": 3.95,
+        "May": 2.8,
+        "Jun": 2.01,
+        "Jul": 2.27,
+        "Aug": 2.8,
+        "Sep": 3.96,
+        "Oct": 5.07,
+        "Nov": 5.65,
+        "Dec": 6.09
+      },
+      "average": 4.31
+    },
+    {
+      "name": "Adrogué",
+      "admin1_code": "01",
+      "location": [
+        -34.80041,
+        -58.38384
+      ],
+      "monthly": {
+        "Jan": 5.27,
+        "Feb": 4.97,
+        "Mar": 4.69,
+        "Apr": 4.1,
+        "May": 3.39,
+        "Jun": 3.12,
+        "Jul": 3.21,
+        "Aug": 3.79,
+        "Sep": 4.34,
+        "Oct": 4.75,
+        "Nov": 5.16,
+        "Dec": 5.32
+      },
+      "average": 4.34
+    },
+    {
+      "name": "La Unión",
+      "admin1_code": "01",
+      "location": [
+        -34.87558,
+        -58.54192
+      ],
+      "monthly": {
+        "Jan": 5.22,
+        "Feb": 4.96,
+        "Mar": 4.69,
+        "Apr": 4.09,
+        "May": 3.41,
+        "Jun": 3.14,
+        "Jul": 3.23,
+        "Aug": 3.84,
+        "Sep": 4.34,
+        "Oct": 4.74,
+        "Nov": 5.12,
+        "Dec": 5.28
+      },
+      "average": 4.34
+    },
+    {
+      "name": "Ingeniero Pablo Nogués",
+      "admin1_code": "01",
+      "location": [
+        -34.47775,
+        -58.70652
+      ],
+      "monthly": {
+        "Jan": 5.27,
+        "Feb": 4.98,
+        "Mar": 4.73,
+        "Apr": 4.1,
+        "May": 3.42,
+        "Jun": 3.14,
+        "Jul": 3.25,
+        "Aug": 3.85,
+        "Sep": 4.4,
+        "Oct": 4.78,
+        "Nov": 5.16,
+        "Dec": 5.31
+      },
+      "average": 4.37
+    },
+    {
+      "name": "Villa Sarmiento",
+      "admin1_code": "01",
+      "location": [
+        -34.63364,
+        -58.57047
+      ],
+      "monthly": {
+        "Jan": 5.28,
+        "Feb": 4.98,
+        "Mar": 4.72,
+        "Apr": 4.15,
+        "May": 3.45,
+        "Jun": 3.2,
+        "Jul": 3.27,
+        "Aug": 3.85,
+        "Sep": 4.4,
+        "Oct": 4.78,
+        "Nov": 5.16,
+        "Dec": 5.32
+      },
+      "average": 4.38
+    },
+    {
+      "name": "José C. Paz",
+      "admin1_code": "01",
+      "location": [
+        -34.51541,
+        -58.76813
+      ],
+      "monthly": {
+        "Jan": 5.27,
+        "Feb": 4.98,
+        "Mar": 4.72,
+        "Apr": 4.1,
+        "May": 3.42,
+        "Jun": 3.15,
+        "Jul": 3.26,
+        "Aug": 3.87,
+        "Sep": 4.41,
+        "Oct": 4.79,
+        "Nov": 5.17,
+        "Dec": 5.32
+      },
+      "average": 4.37
+    }
+  ]
+}

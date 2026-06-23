@@ -1,0 +1,98 @@
+{
+  "country": "Belize",
+  "countryCode": "BZ",
+  "cities": [
+    {
+      "name": "San Pedro",
+      "admin1_code": "01",
+      "location": [
+        17.91598,
+        -87.9659
+      ],
+      "monthly": {
+        "Jan": 4.11,
+        "Feb": 4.89,
+        "Mar": 5.33,
+        "Apr": 5.41,
+        "May": 4.94,
+        "Jun": 4.39,
+        "Jul": 4.68,
+        "Aug": 4.88,
+        "Sep": 4.79,
+        "Oct": 4.34,
+        "Nov": 4.02,
+        "Dec": 3.97
+      },
+      "average": 4.65
+    },
+    {
+      "name": "Orange Walk",
+      "admin1_code": "04",
+      "location": [
+        18.08124,
+        -88.56328
+      ],
+      "monthly": {
+        "Jan": 3.83,
+        "Feb": 4.42,
+        "Mar": 4.76,
+        "Apr": 4.84,
+        "May": 4.46,
+        "Jun": 3.94,
+        "Jul": 4.27,
+        "Aug": 4.44,
+        "Sep": 4.36,
+        "Oct": 4.13,
+        "Nov": 3.94,
+        "Dec": 3.74
+      },
+      "average": 4.26
+    },
+    {
+      "name": "Belmopan",
+      "admin1_code": "02",
+      "location": [
+        17.25376,
+        -88.76401
+      ],
+      "monthly": {
+        "Jan": 3.56,
+        "Feb": 4.26,
+        "Mar": 4.79,
+        "Apr": 4.88,
+        "May": 4.49,
+        "Jun": 4.02,
+        "Jul": 4.17,
+        "Aug": 4.44,
+        "Sep": 4.36,
+        "Oct": 3.97,
+        "Nov": 3.65,
+        "Dec": 3.42
+      },
+      "average": 4.17
+    },
+    {
+      "name": "Belize City",
+      "admin1_code": "01",
+      "location": [
+        17.49952,
+        -88.19756
+      ],
+      "monthly": {
+        "Jan": 3.95,
+        "Feb": 4.63,
+        "Mar": 5.08,
+        "Apr": 5.11,
+        "May": 4.7,
+        "Jun": 4.22,
+        "Jul": 4.49,
+        "Aug": 4.67,
+        "Sep": 4.63,
+        "Oct": 4.16,
+        "Nov": 3.91,
+        "Dec": 3.79
+      },
+      "average": 4.44
+    }
+  ]
+}

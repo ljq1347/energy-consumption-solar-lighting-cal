@@ -1,0 +1,351 @@
+{
+  "country": "Cyprus",
+  "countryCode": "CY",
+  "cities": [
+    {
+      "name": "Protaras",
+      "admin1_code": "01",
+      "location": [
+        35.0125,
+        34.05833
+      ],
+      "monthly": {
+        "Jan": 3.35,
+        "Feb": 4.08,
+        "Mar": 4.76,
+        "Apr": 5.14,
+        "May": 5.63,
+        "Jun": 5.85,
+        "Jul": 5.82,
+        "Aug": 5.73,
+        "Sep": 5.5,
+        "Oct": 4.64,
+        "Nov": 3.81,
+        "Dec": 3.15
+      },
+      "average": 4.79
+    },
+    {
+      "name": "Germasógeia",
+      "admin1_code": "05",
+      "location": [
+        34.72073,
+        33.08447
+      ],
+      "monthly": {
+        "Jan": 3.34,
+        "Feb": 4.04,
+        "Mar": 4.77,
+        "Apr": 5.25,
+        "May": 5.59,
+        "Jun": 5.81,
+        "Jul": 5.79,
+        "Aug": 5.74,
+        "Sep": 5.53,
+        "Oct": 4.72,
+        "Nov": 3.92,
+        "Dec": 3.28
+      },
+      "average": 4.82
+    },
+    {
+      "name": "Stróvolos",
+      "admin1_code": "04",
+      "location": [
+        35.14867,
+        33.33384
+      ],
+      "monthly": {
+        "Jan": 3.46,
+        "Feb": 4.12,
+        "Mar": 4.81,
+        "Apr": 5.08,
+        "May": 5.33,
+        "Jun": 5.58,
+        "Jul": 5.66,
+        "Aug": 5.58,
+        "Sep": 5.38,
+        "Oct": 4.66,
+        "Nov": 3.99,
+        "Dec": 3.34
+      },
+      "average": 4.75
+    },
+    {
+      "name": "Paphos",
+      "admin1_code": "06",
+      "location": [
+        34.77679,
+        32.42451
+      ],
+      "monthly": {
+        "Jan": 3.31,
+        "Feb": 4.07,
+        "Mar": 4.82,
+        "Apr": 5.29,
+        "May": 5.66,
+        "Jun": 5.9,
+        "Jul": 5.89,
+        "Aug": 5.78,
+        "Sep": 5.56,
+        "Oct": 4.83,
+        "Nov": 3.93,
+        "Dec": 3.23
+      },
+      "average": 4.86
+    },
+    {
+      "name": "Nicosia",
+      "admin1_code": "04",
+      "location": [
+        35.17284,
+        33.35397
+      ],
+      "monthly": {
+        "Jan": 3.44,
+        "Feb": 4.12,
+        "Mar": 4.8,
+        "Apr": 5.07,
+        "May": 5.32,
+        "Jun": 5.57,
+        "Jul": 5.65,
+        "Aug": 5.57,
+        "Sep": 5.36,
+        "Oct": 4.65,
+        "Nov": 3.98,
+        "Dec": 3.32
+      },
+      "average": 4.74
+    },
+    {
+      "name": "Mórfou",
+      "admin1_code": "04",
+      "location": [
+        35.19869,
+        32.99338
+      ],
+      "monthly": {
+        "Jan": 3.35,
+        "Feb": 4.07,
+        "Mar": 4.86,
+        "Apr": 5.27,
+        "May": 5.57,
+        "Jun": 5.8,
+        "Jul": 5.79,
+        "Aug": 5.74,
+        "Sep": 5.55,
+        "Oct": 4.75,
+        "Nov": 3.94,
+        "Dec": 3.25
+      },
+      "average": 4.83
+    },
+    {
+      "name": "Limassol",
+      "admin1_code": "05",
+      "location": [
+        34.68406,
+        33.03794
+      ],
+      "monthly": {
+        "Jan": 3.4,
+        "Feb": 4.11,
+        "Mar": 4.84,
+        "Apr": 5.33,
+        "May": 5.68,
+        "Jun": 5.88,
+        "Jul": 5.85,
+        "Aug": 5.78,
+        "Sep": 5.59,
+        "Oct": 4.78,
+        "Nov": 3.95,
+        "Dec": 3.34
+      },
+      "average": 4.88
+    },
+    {
+      "name": "Larnaca",
+      "admin1_code": "03",
+      "location": [
+        34.9221,
+        33.62794
+      ],
+      "monthly": {
+        "Jan": 3.4,
+        "Feb": 4.04,
+        "Mar": 4.66,
+        "Apr": 5.01,
+        "May": 5.5,
+        "Jun": 5.72,
+        "Jul": 5.76,
+        "Aug": 5.68,
+        "Sep": 5.41,
+        "Oct": 4.62,
+        "Nov": 3.9,
+        "Dec": 3.31
+      },
+      "average": 4.75
+    },
+    {
+      "name": "Kyrenia",
+      "admin1_code": "02",
+      "location": [
+        35.33634,
+        33.31729
+      ],
+      "monthly": {
+        "Jan": 2.95,
+        "Feb": 3.69,
+        "Mar": 4.58,
+        "Apr": 5.06,
+        "May": 5.42,
+        "Jun": 5.74,
+        "Jul": 5.73,
+        "Aug": 5.62,
+        "Sep": 5.38,
+        "Oct": 4.49,
+        "Nov": 3.59,
+        "Dec": 2.84
+      },
+      "average": 4.59
+    },
+    {
+      "name": "Káto Polemídia",
+      "admin1_code": "05",
+      "location": [
+        34.69721,
+        32.99324
+      ],
+      "monthly": {
+        "Jan": 3.43,
+        "Feb": 4.15,
+        "Mar": 4.88,
+        "Apr": 5.33,
+        "May": 5.66,
+        "Jun": 5.86,
+        "Jul": 5.84,
+        "Aug": 5.79,
+        "Sep": 5.61,
+        "Oct": 4.83,
+        "Nov": 4.02,
+        "Dec": 3.39
+      },
+      "average": 4.9
+    },
+    {
+      "name": "Káto Lakatámeia",
+      "admin1_code": "04",
+      "location": [
+        35.11755,
+        33.32539
+      ],
+      "monthly": {
+        "Jan": 3.47,
+        "Feb": 4.12,
+        "Mar": 4.81,
+        "Apr": 5.08,
+        "May": 5.33,
+        "Jun": 5.58,
+        "Jul": 5.67,
+        "Aug": 5.59,
+        "Sep": 5.39,
+        "Oct": 4.66,
+        "Nov": 4,
+        "Dec": 3.35
+      },
+      "average": 4.75
+    },
+    {
+      "name": "Famagusta",
+      "admin1_code": "01",
+      "location": [
+        35.12489,
+        33.94135
+      ],
+      "monthly": {
+        "Jan": 3.37,
+        "Feb": 4.02,
+        "Mar": 4.63,
+        "Apr": 4.94,
+        "May": 5.46,
+        "Jun": 5.76,
+        "Jul": 5.79,
+        "Aug": 5.69,
+        "Sep": 5.37,
+        "Oct": 4.56,
+        "Nov": 3.83,
+        "Dec": 3.2
+      },
+      "average": 4.72
+    },
+    {
+      "name": "Aglantziá",
+      "admin1_code": "04",
+      "location": [
+        35.15422,
+        33.39643
+      ],
+      "monthly": {
+        "Jan": 3.43,
+        "Feb": 4.1,
+        "Mar": 4.77,
+        "Apr": 5.03,
+        "May": 5.27,
+        "Jun": 5.52,
+        "Jul": 5.62,
+        "Aug": 5.53,
+        "Sep": 5.32,
+        "Oct": 4.64,
+        "Nov": 3.95,
+        "Dec": 3.31
+      },
+      "average": 4.71
+    },
+    {
+      "name": "Égkomi",
+      "admin1_code": "01",
+      "location": [
+        35.16272,
+        33.88322
+      ],
+      "monthly": {
+        "Jan": 3.45,
+        "Feb": 4.07,
+        "Mar": 4.67,
+        "Apr": 4.92,
+        "May": 5.38,
+        "Jun": 5.67,
+        "Jul": 5.74,
+        "Aug": 5.66,
+        "Sep": 5.34,
+        "Oct": 4.59,
+        "Nov": 3.92,
+        "Dec": 3.29
+      },
+      "average": 4.73
+    },
+    {
+      "name": "Aradíppou",
+      "admin1_code": "03",
+      "location": [
+        34.94779,
+        33.58813
+      ],
+      "monthly": {
+        "Jan": 3.45,
+        "Feb": 4.06,
+        "Mar": 4.67,
+        "Apr": 4.97,
+        "May": 5.4,
+        "Jun": 5.65,
+        "Jul": 5.73,
+        "Aug": 5.65,
+        "Sep": 5.37,
+        "Oct": 4.61,
+        "Nov": 3.95,
+        "Dec": 3.36
+      },
+      "average": 4.74
+    }
+  ]
+}

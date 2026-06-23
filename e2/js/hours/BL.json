@@ -1,0 +1,29 @@
+{
+  "country": "BL",
+  "countryCode": "BL",
+  "cities": [
+    {
+      "name": "Gustavia",
+      "admin1_code": "00",
+      "location": [
+        17.89618,
+        -62.84978
+      ],
+      "monthly": {
+        "Jan": 4.8,
+        "Feb": 5.2,
+        "Mar": 5.43,
+        "Apr": 5.3,
+        "May": 4.86,
+        "Jun": 4.76,
+        "Jul": 4.83,
+        "Aug": 5.03,
+        "Sep": 5.03,
+        "Oct": 4.78,
+        "Nov": 4.57,
+        "Dec": 4.53
+      },
+      "average": 4.93
+    }
+  ]
+}

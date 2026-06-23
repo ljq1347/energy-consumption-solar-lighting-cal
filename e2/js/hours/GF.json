@@ -1,0 +1,121 @@
+{
+  "country": "GF",
+  "countryCode": "GF",
+  "cities": [
+    {
+      "name": "Saint-Laurent-du-Maroni",
+      "admin1_code": "GF",
+      "location": [
+        5.50153,
+        -54.02916
+      ],
+      "monthly": {
+        "Jan": 3.71,
+        "Feb": 3.72,
+        "Mar": 3.97,
+        "Apr": 3.81,
+        "May": 3.46,
+        "Jun": 3.67,
+        "Jul": 4.09,
+        "Aug": 4.56,
+        "Sep": 4.95,
+        "Oct": 4.79,
+        "Nov": 4.33,
+        "Dec": 3.73
+      },
+      "average": 4.07
+    },
+    {
+      "name": "Rémire-Montjoly",
+      "admin1_code": "GF",
+      "location": [
+        4.91667,
+        -52.26667
+      ],
+      "monthly": {
+        "Jan": 3.74,
+        "Feb": 3.74,
+        "Mar": 4.19,
+        "Apr": 4.02,
+        "May": 3.66,
+        "Jun": 4,
+        "Jul": 4.43,
+        "Aug": 4.99,
+        "Sep": 5.41,
+        "Oct": 5.31,
+        "Nov": 4.9,
+        "Dec": 3.97
+      },
+      "average": 4.36
+    },
+    {
+      "name": "Matoury",
+      "admin1_code": "GF",
+      "location": [
+        4.84921,
+        -52.32355
+      ],
+      "monthly": {
+        "Jan": 3.37,
+        "Feb": 3.35,
+        "Mar": 3.78,
+        "Apr": 3.69,
+        "May": 3.37,
+        "Jun": 3.71,
+        "Jul": 4.05,
+        "Aug": 4.64,
+        "Sep": 5.12,
+        "Oct": 5.07,
+        "Nov": 4.6,
+        "Dec": 3.64
+      },
+      "average": 4.03
+    },
+    {
+      "name": "Kourou",
+      "admin1_code": "GF",
+      "location": [
+        5.16281,
+        -52.64265
+      ],
+      "monthly": {
+        "Jan": 3.74,
+        "Feb": 3.74,
+        "Mar": 4.13,
+        "Apr": 3.95,
+        "May": 3.6,
+        "Jun": 3.93,
+        "Jul": 4.35,
+        "Aug": 4.88,
+        "Sep": 5.33,
+        "Oct": 5.23,
+        "Nov": 4.8,
+        "Dec": 3.9
+      },
+      "average": 4.3
+    },
+    {
+      "name": "Cayenne",
+      "admin1_code": "GF",
+      "location": [
+        4.9381,
+        -52.33455
+      ],
+      "monthly": {
+        "Jan": 3.71,
+        "Feb": 3.72,
+        "Mar": 4.13,
+        "Apr": 3.95,
+        "May": 3.6,
+        "Jun": 3.92,
+        "Jul": 4.3,
+        "Aug": 4.89,
+        "Sep": 5.31,
+        "Oct": 5.22,
+        "Nov": 4.8,
+        "Dec": 3.89
+      },
+      "average": 4.29
+    }
+  ]
+}
